@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894433-wrHQWKNqVCu8MS2qTLRC",
+  "object": "chat.completion",
+  "created": 1790894433,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Adele \u2013 Rolling in the Deep**, though this is an inference from the colours rather than a certain match.\n\n- **What the strip shows:** almost every stripe is a muted gray, dark charcoal, or brownish tone. There are faint greenish and sepia tints and no bright or saturated colours.\n- **Why Adele fits:** \"Rolling in the Deep\" is set in a dim, desaturated warehouse with gray and brown tones. That matches this strip well.\n- **Why not John Legend:** \"All of Me\" is the other likely candidate, but that video is black and white. Its stripes would be pure neutral grays, not the green and brown tints seen here.\n- **Why not the others:** most of the remaining videos have brighter, more colourful palettes.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm weighing the color palettes \u2014 All of Me is pure black and white, but this has greenish-brown tints, which points more toward Rolling in the Deep's muted, dark warehouse look. I'll go with Adele.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing the color palettes \u2014 All of Me is pure black and white, but this has greenish-brown tints, which points more toward Rolling in the Deep's muted, dark warehouse look. I'll go with Adele.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2gcKEAgSGAI4AUIIdGhpbmtpbmcSDHzu5TJnffm6cenHaxoM098KC0vu7+Hd7gVuIjBbvUbabNuTSgl3Ij1EZMUeiCjebg86orrWyBtBUDJI2m8l7JWWy3c5NHOwC04KoYoq9waVnxMSJ5oZSCVSMi7eD7yy3VBxNN1xqpsYJmxum+rnOEb69xzPosSTCRsRw9xTUSpzcVyUea/R9PhyClJ3oXcNF00SCKNIahpqkLfgVHloyJWa9jQLh5vTh25Fn3+S1TiC7jaiW951HD8A9yAxDmC/KKprmby7Ceo4nGCVK7LCuSmyVP3nHSXrk1qC7apcKIRzzBR/NfijmrxFh7S6qfFiOl/n3rBOV/dp2U+HqsKi+AtXwqXcb7C0Z3DlleEuzNy8eTCC2iIO7fVHtzlIR1eRZcGtA948Do/Yk0qgQ5j/KQNjI+kHAnh4kIY3jKn6pDaWlSQQ+BL6v5Wmk1pwq+QCpL1XCU4T+Wjnwzc1Mp1gSA4Af4SJ0qzJIrfxdC9EOMq1YDao5xK1DvTVf0AQEgdMf9lyP6/OoOb1HSjSNuuz2BBwhLsaMadMo0oekLeZbkp6Tb2riyru++KWncqw10KHVDqZ/xrrA77bDoc0aoO/vyTUVu3Tu4lWCZcVPJmGKnvrzHAC514GSjb0BlXr9eO61Zr1anvbdC9LEKL52t2kU1kT8wWJuQIJTOAU/EPxrYp57KXotVSkETprSmQ4P3E1coQKFKTuVIG1RkBaxIXlckktC2aw3F4EEeNtTApZ//qZFGaI9Dm85E1Py+onRYgloYhgwtR7eidDCTgu/eJvf7I59246YLwn2+Op58IZ0jLJBJsYyyETPpPaSqisAbE82eGRFCUe0dYG7PC6lD141qxBnqyV8DJEDfP0uCExZkskG7p/xLmVqmMWDbPrzUCkW3HE9w13oDICeYb3ergGYV40+9vITTQGWxQLCb0LBfTxKbzLv9UlleAyVKvkZmxqhYExF0vUDhBvx31rAae2Eow6xz8C++uc85yeaOfEgVwkBtXH35dKvLSE8mV6c196RS/rdua20AaExHH59qysxNfEv5qyh2twyaxxWf1fEAAHAT/32t35KeO1OI/wM3cCfmmuOs3P4O2PiUAp0Kvi6CxUY9lSnUvw9+wxc+dgnf3mUWnMpyEn73pb2EjUGj7SvVvtiUg9BWgT1MIFrePLdFjgnL4DOq9A8OkilGZMwLhfk899PFVZnBLAMf1up1uKaIYvfyN4P1aeXjCWAotVWE6encEvwzrA8PFlzj8LFFueSN6Dgmmzjv6N9Ayf6iSKXqUEVJUnYRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 613,
+   "completion_tokens": 404,
+   "total_tokens": 1017,
+   "cost": 0.010532,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010532,
+    "upstream_inference_prompt_cost": 0.002452,
+    "upstream_inference_completions_cost": 0.00808
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 147,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

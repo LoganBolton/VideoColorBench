@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894327-LgrYETNzTGoq34mrOass",
+  "object": "chat.completion",
+  "created": 1790894327,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Passenger - Let Her Go (2012).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Considering color palettes for performances**\n\nI need to think about dark color palettes, focusing on blacks, greys, dark teals, and browns. I might consider \"Passenger\" and Adele, noting their use of dark and amber in their stage settings. Rihanna\u2019s \u201cDiamonds\u201d also comes to mind with a night theme in black and blue. Bruno\u2019s approach has a consistent brightness, while \u201cGirls Like You\u201d has a similar grey backdrop. For \"Let Her Go,\" there\u2019s a mix of dark tones and lighting that I should incorporate in my thoughts.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color palettes for performances**\n\nI need to think about dark color palettes, focusing on blacks, greys, dark teals, and browns. I might consider \"Passenger\" and Adele, noting their use of dark and amber in their stage settings. Rihanna\u2019s \u201cDiamonds\u201d also comes to mind with a night theme in black and blue. Bruno\u2019s approach has a consistent brightness, while \u201cGirls Like You\u201d has a similar grey backdrop. For \"Let Her Go,\" there\u2019s a mix of dark tones and lighting that I should incorporate in my thoughts.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuD-d4a3kVVewo0YVuaCTIJtT2H5Qw4MbA_073uTc1dqm4iBc13hvBrLD0xKeZXxsyuTtCj2CojGeh3LiH-1YfrwUSy6gkOpza02d952-95OjjRWKW5WwMpMN1XTvrnMtyAvPFbYxve9YEMjpPBrYqhE_KsXUidgECNNywUzk5hzfk0Qxb0jc4ZuRf2cRlM3UsnAurwQ-GjirhzHAGFV07n0tmls3m19rPmvRCOOKd_EKdea0F-6HD3gBxuphZRLQMjVlRKP3ZD3SLu-QD5WPCkqpkugW88k7h_5HJar9Zhnryw4yPrbxFRA_rsAyob__cFjQkoCL1xoNlj19XEmUrb8T76a-pBPgLsxgdfMVjwbU8vKN_jtzwZ8OK16BxpvvD2bgG-EQPEOQUbox2JBMdwgTCq_EENxN9ifMiPkDc6eiwPkQf6QYNJEFJ9DgMorozY62HOIrG0xXPVZMeBoX0aZfuojrq6hH3LXb_PG6IR7hSD6RmSd895T15VROblxH_T17NGrhYL0pVRMYanNSO3721Y9s9V6kOCcYyTLEaRKbiXAmcGjcQbgi9vQRy163mlBW4rI8HSScb04gFuRjTdt63A2RN4MgsUOidaLlSMiXxSJOqNKdXudRgGeXkx4qY_GlLnN3sB2yM9hrkL4cu3ZLU15UysgpWJtqzHk_rwTN0H1zMnv2qsXffTQBWbA5GMmSbJ42-d1glTI8Hb0b_Jn6iEdPU2wmzOyKwlJRGx_Y5TozujjA7NVdmgS8aDCw8k9btwjB7h--KyHMoJ0mKXMxjoaKQd1kMo9Cxc3rCb4AJOISPfvMLeEh5xz_bGuYcPLpas3ffClfJFGWov9otbPxP1R5__gX6guq6JR2ccrcR9lckDNOUwiD9L0_ENPssnRDa_ENLlaX4_a9WsSydsQZA2QEczC4hl75NOdNh66M7rQulHJlYDu2h_YaBsyk7T7E4b8NZndRafM4GqLwNRVtuKvSJpAUeV2jA8NWjJAWIUnvkWIBYgKh8cG84ON6TAkui_-21J4RQR45zl0WICJhZjjwRr3RHDNXeeZnSFVoG_GnSLb03ccVO4JFVIXsDMvS0a60KchRHhHUPL9CkBQfSKw9YBBtbRCNqJipYYMN84seQ_0YtMEChDVwnnBLLkYIHQMBeYb1MNgad_obssgY5x2RvwDtFwwDcytu7XDQB1ht8kE_hw4WCD1MQA2p_sPU6j8M1L1HkVurwTnMjL3wGAz7OcIpLJb0FkpybBCF12aKNHTHrAH_LeVnQNMU52Jhu95Fsk2VXY5jy0O6vZkrgGUf97qqTP-8ZLIMFGnuXrV0ZpMnZlzym7xeNxDRaSDEysgZfMh180DinZHLoic6hlVOwer7TLmba6WMXca9yJhXFOYDYW798fhbAOUa3AYD9rCaXCsgWf23hU0rv-WoMBPxtfkPO4dx1km29mglLCpzk09GJFyjnYC_7MyhmJzNQto42Vi97ijlQC6nfDAM4j5qm8PdbO61bGgy15UfPZQNjNJg6V5MpimPoxJBuAIvJzur5KD2eKNvKLtKPyrKSBSq_pH4EKC0CM6rMn-MoLMrYGt35W8OCdxOrNRoGRCQUbnt8tbNPVqt880LdmrnTr2rcUsQ4ylZpccdAGuWReZp36FcZvZ_wUQu8car8xc4fWdnFNasOtJMw-kxJGUsqr60Bz6HbVauBl48Tzto2sllnU1BYCo5z4vGVKtt1hW7IUifOxXFLmsltBdHFox6lGF2Az8hyzJSKAKChaNBLDxsNjtS-Fb4ft9YAS4UDJG1nRC3eK8PpHe-F43Xoz4PTo3zFX2aeBxg1-kHa2RYp8b8UKmDGXQ7A3H9nOQ5zVW4sw2TaGaZ-aQH4Uvu7AZxvOS7AuDXNrhMeWyZ2P5UPfGJ8e3j9JR0p5SdOeMnoc79KxddMeWRVv-4L9pGLloKySe5sPOgQdIDdViIHiWs4bHu6u00zcMp0_Zz46TPTCOYrXDofkfsQcdJ9EUJXZA5j8U3STRWjPmdK3JGWz1eAXADmyJsk9kNoh8gmGcDNTxZagyzjmHT8KsOsLtnaARXOiJtfZShw-aj8NZlYWhwl2dE7qdjWn2kLulzNKG3J-DuAjVYJoRMccDc0dgKpS7cBgmgaFXFrqLJkDxjN3zLvIWPEI8zDBQoev4SkcBMH1pRLGPOfCFHc_Fp9DB8pmnLOx_2B2PUbWsgfNhlBZokBGwW-ETgoajUP4Ckn_oIIAMuQEDdMkbppdDIwtdPEyMp0gKWXz1PXVqqWrBok6cTS--xe0Zeud-iW2wSF-uw06qdQR1EmhT-2lAOeDVpKNla-KC7kdZavIfwi0q6WP2oLY=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06fa2b8b2c1bfd6a016abee0f8de8087d1a74a5bd3ea46c50f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 466,
+   "completion_tokens": 172,
+   "total_tokens": 638,
+   "cost": 0.002652,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002652,
+    "upstream_inference_prompt_cost": 0.000932,
+    "upstream_inference_completions_cost": 0.00172
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 150,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

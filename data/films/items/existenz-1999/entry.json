@@ -1,0 +1,21 @@
+{
+  "slug": "existenz-1999",
+  "title": "Existenz",
+  "artist": null,
+  "year": 1999,
+  "label": "Existenz (1999)",
+  "hex": "#282224",
+  "rgb": [
+    40,
+    34,
+    36
+  ],
+  "frames_sampled": 5841,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "36C74wcr9JI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

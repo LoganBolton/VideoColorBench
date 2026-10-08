@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907363-CDpEwJ2cqClZfwffrsHD",
+  "object": "chat.completion",
+  "created": 1790907363,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern alone. The barcode is very dark overall, dominated by deep teal and blue tones with occasional thin orange flashes. That fits **Security (2017)**, which takes place almost entirely at night inside a mall. Its look is cold, blue-lit interiors and glowing monitors, broken up by bursts of gunfire and explosions.\n\nThe other options fit less well:\n- **Capricorn One** has bright desert scenes, and **Aguirre** has a greener, brighter jungle palette.\n- **Jane Got a Gun** would likely show warm brown western tones.\n- **Killing Season** and **Prospect** would likely lean greener from their forest settings.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm running through the color palettes of various films looking for one with a dark teal/blue base punctuated by orange flashes \u2014 Security's mall-at-night setting with its blue security monitors and bursts of explosive orange seems like the closest match, compared against the greener jungle tones of Aguirre or the desert brightness of Capricorn One.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm running through the color palettes of various films looking for one with a dark teal/blue base punctuated by orange flashes \u2014 Security's mall-at-night setting with its blue security monitors and bursts of explosive orange seems like the closest match, compared against the greener jungle tones of Aguirre or the desert brightness of Capricorn One.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqAgKEAgSGAI4AUIIdGhpbmtpbmcSDB2jiL4OmKvv5gqj1hoMAAuFsZhDkpbGZ8hKIjCtH8N+3fcxMh+mDD/z2ZKu0G8P57KITORJDM0odZzknfW636oTplarL8Fy0EryeAAqxQdDixSQ5oV24//j/pjnOqDkKD5khI7sSdwcYwAIDpxrKmssk1BklNM7mlU9tV+80hujN+5lmLE5sN04EB7rOE32nwNak6wkpMA4uNQlE4jMP3HT0ZTBs3Nj/7XQzYacOvJL2T9ShcKMsoo2XpvqOSQ4QWu3rLagl3CpXYnU7eSIiOPXB0PdbXuNgxGGoGe6qXry2lA3aEBoD7VEtvhNmYDfdmZKpqX3w9kkS0q796A2caz4iGlcIBZ1Wh7otG2j2VZwWhpvbYeofuCAkRDUhTdkKWS8zC6Iu/4TudaIfR9fAcGX82t2zNpEwdPb20NAtID9hDX4oAN599tsttO1IeEHmWB2WHWJT2QxaLsBUd7HK9DZhWr6QM7iiAiVdw6+Vj2lZzuGw7O9v57DVNA812gku5yNuYSdOWYm9QqCibIaD9zxaMnRT56Mn953ydzUuU+ccx7CgbapHdjGrQO4lvMaXaYxEyLhZdZ3R4GJRYVfBJ13Nkh9WnJPr6BjUnw7Iz8xbaeQ7a8x+s1CY9QJvbjwsylf+q6TDbteHll5IkQ4VfI+AOB0CFwEfxxSCeGJspjW/4+SuL7EqFDEFfXIZjjY8tCb5lfM/kUzvzSBqQxL1cEzkOZj8xfyovff7PwYlKwd0+4lTzR8xWh7DWMvCZTDJYVk8Tvnu+XzJXzE8LXvQPWZu25q91hYA+npCw/DvaB04Z3o5HQ4RDMcaD8UdRxMKq0D6dUsdZn390b6axqwujw4K3J1W2Rs8gcfxbdoHpTEMjJAL/F4qr4+xmA2OZicqK6+voap6wcIgfcWS+RyMn0xvcPuRYV9huKKE1mXMzLhcVtCD8LCOpjMngMgcTaKDL+ql1mFuNdtROo97jS+l4VkiFEEfr8KgK6dU80WyA9mMx4CoNr/kqM45H5Q4tqLAYwSNQO8wWOLF6Pm2A2TKpVP7SMGeS9qyXf1pJyE4YmcmAJ6xOsOfJmXmSx4JAXXVhCCU1hHR7dwHrxyLWTMHQeJ4S4zeXtO5c0Ol4cH4yNyWi3Uov9HDYVNbzv+EMz/ODraajWQLlCkDr7jFe9AeRve4ti7UAeu5MT5ceFQuHu6lXBmoNk8DnfyDJyb2ZaE/EDWE9o2dqpRdD5NU3d1JAQJKyO9lUsg46ZPms9jPtnoue1IIrsbG9Gs0INCLMnK8R4exgXP/x+E5SBhCv4xSBs+PBok3ux6OxspIvk2hL/aVdeECK2q2Hf4WTRBzdspNigErVDyg+VYaHDBfS063jyML/s0P6rX//nd2oiLM91U11dP5hgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 520,
+   "completion_tokens": 417,
+   "total_tokens": 937,
+   "cost": 0.01042,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01042,
+    "upstream_inference_prompt_cost": 0.00208,
+    "upstream_inference_completions_cost": 0.00834
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 184,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

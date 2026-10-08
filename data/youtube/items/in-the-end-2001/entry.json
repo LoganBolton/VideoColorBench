@@ -1,0 +1,21 @@
+{
+  "slug": "in-the-end-2001",
+  "title": "In the End",
+  "artist": "Linkin Park",
+  "year": 2001,
+  "label": "Linkin Park - In the End (2001)",
+  "hex": "#433C2C",
+  "rgb": [
+    67,
+    60,
+    44
+  ],
+  "frames_sampled": 218,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "eVTXPUF4Oz4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "piped:https://api.piped.private.coffee"
+  }
+}

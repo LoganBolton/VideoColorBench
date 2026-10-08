@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907330-kusuaZigW3yjVmmc4JmI",
+  "object": "chat.completion",
+  "created": 1790907330,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is most likely **The Illusionist (2006)**. The barcode is almost entirely warm sepia, amber and dark brown from start to finish. That matches that film's deliberately aged, candlelit look with its heavy vignetting. None of the other options keeps such a uniform antique-brown palette throughout.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "That sepia, amber vignette look throughout the barcode fits The Illusionist (2006). Going with C.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "That sepia, amber vignette look throughout the barcode fits The Illusionist (2006). Going with C.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1gUKEAgSGAI4AUIIdGhpbmtpbmcSDFTy3pBkI3xqFQoo2hoMc4aRq3b2yl6NTGYdIjBlPowwHPFxbu95ZHMO4JTJtKUSpfMBDtil6SKbsX63wt+XUJfZV8Z3Mb/GGJtN88Yq8wQRs93Rqx+ASPT9R9qHIvQXdtt6MEdzAnDQ4m2lmf5AI1khq4HsLjpwM4oioxN8GBuKjKArvA3mDT73rGEvJdP52YUMBf+V6smcSBafBsCYJPGbi6PyeNBzgJAMQ/uZGeCjiLD9KjeS2K4B7yGXwvElu2tdPn5UIvlTMQl0mgaSRzRAknl7AJipr1zydIOWkvn6FejOYe3A0GZcQNRlD0rfxUisNMuakMKDeOaycfXD1csnsXD+7xfcrZ5XkY8CmMadS0JNSJVCQWeFYVTYl7dzWIWpcYYXUcqGRkWpzRLu6QKtU399Y9SFiwm4+lB1JcRLSHPMWvJ0k5U6Qpe6JJVAHn1xpE1GWwhtk8snYkF91gigncnCWyUSob4dcXt7909+Us9gSvI68k6oF4Invyc5TDIHVEFUgEQN6HFWLU3mCHYD15LNIeLb95TRCWiM4T/hHmYuvszhN+Zooj71wH1s2rGoOcTxfTv09d28Ije6N1Ot6hG7RF/j83FlPekemexHiEXyHAbAB0Wk15V2onwIW/kmbgy5fTH3GgjTtL0H+mFzeW937IbsJrPWnDvLOPLqzDeXj/L6TEZ8MUl7KIHQlAsnHwef8yWRbsl/UWWITmZ2u0DxqY5HhQ3crasTt3mmzaCUUEYRUVFkXTsH16y5zB4D+1H4L5k9LKt8REx8o6qtcUXCyqWtIDydr1efw1acEZu6U2P5drGXfvGIoLapzJdBy0yQ0icqHhQRTBARJnONA/Hh79AWTy9i/5GvK2RGOfTK74w1//mMg/3UWOVQOLiRm60Tu4p4k7XoCLog7Sy31v5s4aIrC39PwPTBLLjnZwgYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 524,
+   "completion_tokens": 159,
+   "total_tokens": 683,
+   "cost": 0.005276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005276,
+    "upstream_inference_prompt_cost": 0.002096,
+    "upstream_inference_completions_cost": 0.00318
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 52,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

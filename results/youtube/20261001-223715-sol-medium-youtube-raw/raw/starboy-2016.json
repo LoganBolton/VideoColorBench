@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894311-sgTDvGvKznV6M60WBmXH",
+  "object": "chat.completion",
+  "created": 1790894311,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Weeknd ft. Daft Punk \u2013 \u201cStarboy\u201d (2016), based on the predominantly dark palette with teal and red accents.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Analyzing visual themes**\n\nI\u2019m noting the color palette of the Starboy video, which has a dark cyan and red theme. The majority is black with cyan on the left and red throughout. The video starts with a dark house and destruction that features red crosses, then shifts to dark club scenes contrasted by brighter ones at home. I\u2019m curious about the transition from blue to purple in the nightclub to bright daylight at the end. The overall strong use of black, teal, and red stands out to me.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual themes**\n\nI\u2019m noting the color palette of the Starboy video, which has a dark cyan and red theme. The majority is black with cyan on the left and red throughout. The video starts with a dark house and destruction that features red crosses, then shifts to dark club scenes contrasted by brighter ones at home. I\u2019m curious about the transition from blue to purple in the nightclub to bright daylight at the end. The overall strong use of black, teal, and red stands out to me.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDtkbqI4Sn682ToDErgnDgCdfh4zWWC_Bwbe8kFwGr40QrOMtTlFiCpepBjIP4pa6gzfWgDVGcqobuDLpnbQDgWvvHBY7tFKM_1-xdKrP2RrxQlkl7KL55Lci0zYGVVPGOIriOGfBqq-ZdwZUyKSJPuVgbt_7VN-Ir_diHhUwett8lJo9wHUIBuoEivHSuRlBzZF9DcE3bzrh4oZza9_XZp6vOED1lkuU0GSgMwQf59zJ3eDkX46_yNmAL8hxff-V_eE6aE4AUXvKRV6Qq5un1CYgk0uuDaTzuHPj2KWwLL8-jCxL0a2kBqqPfu5dR5RZMEr96GKzaPLCmIops3-XOzKy41o2uBuKAw4qmnTBasTCWFv76cNLy7ZjmkY324EWECew72OupqtP81hWwzS5Cp_o2j1SRHoKXNFAJKjammc7_3SW81HuTOnlG-SQUd8yEUkpUAsPOs_RpPok7h9lnAA9YNvGSLnTBw8iN9MGClVIHmUPZBFfk7D5QMHkhcnkISXfEItyHHJ-0PgtpSEJqDNES8U0suH9-UvgtZ6Dne7rOaTbvMHRY1oU11XnYyh6g4DCiqzbIv_Bjb2DPEGPmb9QOhbCZu1RgsE4u3yRDOJfP8x9CpSMvSrxd1KqqsNiwSddjJAQLPCHSoDwKopVqTmgj5hP4p8sMT_LxTYZy9vd0KV32CZ2AmKFK57_LtyRQrLxX86Fru9it0WrlONj1GJyDcfTdbX_T-_EzhTR0H5CgluOM-3UM_ezGCkCNvFqmaGB_1Sh9-TyfG6O2f3hfzIpda_-ZZyg_OV_qQULtMBUpNSSCqjHDoUGIY-aIUo_9RzN1hCbFSbxPUGD83GIkmo5MOUXMNS6NbjlOqOYIGKmg1ZaOmDeVuUzmBIKPy7PW4Ids_IAG1d1NgD0iQ_OryRsfU43iEYtvol7jFPJ1ra4LenBA4UAnH0l5Enhh4n2mwgeAtp4rH1cKJk9ejd80iWXMyw22wXH7Ak8ams_ZJ3WnVEOdCY1eVVVPgQLpcLIEOyC1SGSTvK5Rjw3Yg0ZWFYcjHoN522jm2CJJ0jTSblPyeVl-wSdkpILxQp8d12kI-SSf6m5ZcNGYxvncd-eT5oHrKqrnLC6NLduM3Lzop46yPu5S-zMhyKy5sB3FEFhzPJJiLRLvynIcfUeGETERO3Ikn4fvwh0mYZUtWtqcdEh0CfTsOytqtRtV_B_xqvQ5kOCfKGAwbNH2xnkytIIjCwyA2nB0mlr_C0Vam1EgCu_nXaMZ6GQAZ4__3pPDw5ct9oqF-fn4txeN5uLKksP4X2oanotyQb0dYv-9038uxjs0WIuO6bZGvtVZhZfufWyzCzFRULsGztI_lrUJFzYyruL1hyibK85er67yFuADI_-gPM8dVcAcxTFQpwfgs3615no-jLQcsm06-dOxcISKRtWPpEk3h70sjiE3EKCMMQE1Lugrn5cDF9Zjh0DWugJ06z3I0cODoLGd5ilYFl8vByLX_5hnmxlcGNFyRIPifhiKsggE_K-HpBx0Au6_KOuAPqJrEp6apsi1ndkzpaO3xWbR24IcJ-tdyfywk5ofuMqFvkwuCcKT7JCbgJfwaKV6bY_AWPurkHSye269dGzVJLgYo0w_WLXschynwWdpiywh3iVIWHJTbLHHyc2HgJ5LrgVYI5TUtV73hhdqVA9ZmsjSZkZEDLGiQkzVrh0buqAE88AI4LWKkyKT8JNa8si5-17P-AkDDNUg9m90YhuPS1Yivh1REviBG29hyRPRa2TRB6gJmdqvV7qonDe6gB26L46ZRbYjfqrw8K9P1q5LWcWW2KgkDiGZLtEuC7X31Ks0EUQ-kFMeX9bP0ugn-wREKT4fLVMHZMYakPxhP9OVMyck_XDXSF2-H-iupfTMHhvswKhhqmpN_WRo9XfpvSO5cYPKWXpEkbU6HVZ2ZqR-pnf6AboPTTsJZcid53zR7UT8=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07dc5e1c8b477737016abee0e97c5487d182cab2db0baa8bb9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 477,
+   "completion_tokens": 135,
+   "total_tokens": 612,
+   "cost": 0.002304,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002304,
+    "upstream_inference_prompt_cost": 0.000954,
+    "upstream_inference_completions_cost": 0.00135
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 93,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

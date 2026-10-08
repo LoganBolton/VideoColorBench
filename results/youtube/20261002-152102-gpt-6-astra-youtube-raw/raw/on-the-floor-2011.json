@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954973-NomUa1VCXG7VnQQrUPGL",
+  "object": "chat.completion",
+  "created": 1790954973,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is the dark, gold-toned nightclub visuals of \u201cOn the Floor.\u201d\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83mcrQtv3EAtOcTqhaa-vWHz0Nt763OkwLCEH4EMRvQ6SqU6-sV00WWTr7RSve0m8_-rL17wm4UVOH32kCr8-REqb82di7KDv9UbB6pMCYaOe_El8tclVpL3Uc1Zsi9Mw55PIWuAh5jddbKqfzMVCd2HamPd3D59p9D6i0RqDB5KUr5_DycwgvCOGpvWjdAFbplyhHxdvweGqEnDpRNuRzOwxsOWiTCSSCtBlYfouR9ni67KP6oYSWofr4FnRTHZvFVfV2d37WiO3_j8VFsEsz-hFGrpuNg4_TkB7U8ZYkV-DGeXOsXTbgWpE-1ivI7PLYUQtC6Hvxb1UBbmuDDOlj6v0e3dm01huSI4BppUVzVSw0QVhqsBjHO0mJn0gVAS_24KFmzEoWFXNQSbatHjAwmpihDElibbBvX62cL0CPeyd2DKYrubchJFeWGBCBufibI-yRyqWsLJRh586Rh4GqV39qzvf9nggkvR0HJ56Qk1NSJ2PPvx-cm2Qn8g1jrTq9ZDr6CyDrSod1Uw3wsougFoSoeW1ulOwhCuqGIBe8PS6GhqXuHUbu0PIZy8O_tFJTB1P9uXCN_AM7aZm1cKnfb38h06bTPd6Dtf78dLMKfmyRb6cmR3Q32LyMiIPobTUC-Yyq417aoYORa-Xk-2uDoIkCFv0LQoYcL4o_NoTvftiDZfDoHwSVg1EmO3YGkyuspZmefbwnBmCaH79vgYXLE3odZe2X_pFP_LqUD67TL93q8n9KqMhe9tjKJuzzKGBMFF6lg4MgE3SvrpMQrRWu3t4iuM-XMrgviiPLboBjc9njiaMDIdlM-UO33vT9pwMS3n4pnnVYtzDvN-JmxXWRSC0PQXOoaSwte76kBfWdW3uMNovErITUbAK5Mx8-z5SYA3hOFuUsEV_mC63AMaQmdePCYQww56clX403dlAUXl6Bi4A046_K22BI-gPE0fogZ-YhsaxUxs6uBw4tJ74nwIz893DP4X9AtwPygwQiV6hgv4QtXyRPULJZlx_-eW0LNcexx3lXFdDOD5sz_ahSyRncoCr-_F36lYXRg0mvspSRfGhLuCmp2zbWyEyd21Ik63wDkYJDB2jROJ1zEdaJw1a4TP_q9NwMcutLAJFfqbl0yt05rQYaHYltUeq12zcga71o5JxEYLeFx1viNsZa54vDqlL8wxDwDVJNxRyxbwqdWCa9U5K7oAEL5pFCF6pU63rQwngQdiPZl84bkOI88qUKYJxgeFBhagj-p3lVGxM3VPk62Fy6Wh4Sgg4it9IQdJPh6c2JbmCN8OwU3lE6c_Nq4o28P5Nu829uPEwWEey4HNiD3PoVFtjeseZ8ZQTJru1x-8OcNaWtJWiAJ1vQYzqGqcXuUl3I3xCC9fzeR0boey96rRL8__eyNoyvEU4pxMXOMcyRHvg8HpxwS3sGN53y0a867puOJVAstyBKW-sKlrlgQLzHUfq3eeZqA45lwWCcnUz-JkSn5LesJKwdix2Vy5JwpLmss3r7pa4TGlNvm2SKG30MsaE4tlsDZb5yrkLACXRpL58f2UB0I5i_WVYxHgs9Yc41QUjB34c8lybvqYoMv3yXUqOBzlvJQSHcdp-r-FDPwQw4rHNbAVYjtyuLa_kk6wK3cM2HYvsCaYgnBe6WI6SchELOdUn5JZPPIDMfd66Vj2NKkroIoc6IqZmF3PG1_ojukI8zPvOU--6iwiYNwaGgOuK0cxmtwnTL9YNdVYQl00WA-A3tgpSw9-ZuIdaaMqij2bZZbQhxzvo1WEnTqqi1JlCHPobXNzqpnzm2NX_Azy8z_tHbDH02vO0FtQuTJbwVxXeo1t5tFgGlV_k2wwNiAeoMOxMF3z-dSYUKTEwdTzq_pZUgeOjY7XOz-dTcmCmVHg1m535nZ35VQvpaCPivP6IwdhVAX8jxncBgt5D6CELv5PvXbjB0WJA2yoKBOwgz-UG0OSBTqy9J598QmIAZ5RQ-YikSVDBPaeXI5nIl6bk5BHRz1qOdhZ942tLKOeyRIlfsf1M5ZQJbu0X9_f3Ad5Y1yzWlRCVAmsDu6blThhFUfWCEJFLJc65-ZE5tC2lztTJ6HuF08SVJsFZi--UOZEw3QGMFpDbOnrCAIFx1zD4_P_VRSfAo42TjJ6esSOeBGvDwMY_SPkgjm0UfeVwxECVJQmSGTCz91XNUj2tYbKpMSwBWBlmXtp8BiowU-vDVnfQWtVBAD53sl2m3B09voZcSWDRmLf9owU_CEwMgAsOEIKoWc0wNSyiwFDkrd6KSeKa98rp-5G-J4GaJEKtieGRHpvSa_Iv6TACJn6kxH_rOYGpvTAgRsSpWb-orYbTdojM8LjqafYG3FugR3p6nv79hcChlT1Mta1-UIyLltywtTqMqdgw29-Nkvs5I58CbrwZAbuCECTX01g5mgiR79Lrc0n8Y0L2DoNxvQLutoQkXJXeCxi6NqGm5edNuD87fPKnY_Hnm6VPlttdP1Tqk7s3KENiM-3bWZcZaoGXaEGYAsUe6meBtG_KlH8zZQWb_8P2fW925BdTI=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0bdb806507251c86016abfcddedb9087d193d5f34e56381eff",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 478,
+   "completion_tokens": 198,
+   "total_tokens": 676,
+   "cost": 0.01468,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01468,
+    "upstream_inference_prompt_cost": 0.00478,
+    "upstream_inference_completions_cost": 0.0099
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 171,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

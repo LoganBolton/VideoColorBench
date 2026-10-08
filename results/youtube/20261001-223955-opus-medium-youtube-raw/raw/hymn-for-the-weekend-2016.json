@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894457-MIVASguX7qQn3ptGGZrn",
+  "object": "chat.completion",
+  "created": 1790894457,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colors alone; I can't confirm it frame by frame. The strip is almost entirely dark, muted browns, grays and charcoal, with only a few cool blue-black sections and one lighter beige-gray stretch near the start. That low-key, desaturated palette fits the dim, gritty boxing-ring look of \"Believer.\"\n\nThe other options mostly fit less well. \"Thunder,\" \"Hymn for the Weekend\" and \"Girls Like You\" are bright and colorful. \"Zombie\" leans gold and blue, and \"Heathens\" has stronger teal-green tones. \"Treat You Better\" is also muted, so it is the main alternative.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm noting the color palettes across these music videos - Believer leans dark gray/brown boxing tones, Heathens pairs dark with teal, Thunder's bright pastel, Hymn and Girls Like You both bright and colorful, Thinking Out Loud warm amber ballroom tones, Stressed Out suburban brightness, Zombie gold/blue, Shape of You varied, and Treat You Better dark grayish-brown.\n\nThat boxing ring scene with Dolph Lundgren fits the muted brown-gray-blue palette, pointing toward Believer over Treat You Better despite their similar tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noting the color palettes across these music videos - Believer leans dark gray/brown boxing tones, Heathens pairs dark with teal, Thunder's bright pastel, Hymn and Girls Like You both bright and colorful, Thinking Out Loud warm amber ballroom tones, Stressed Out suburban brightness, Zombie gold/blue, Shape of You varied, and Treat You Better dark grayish-brown.\n\nThat boxing ring scene with Dolph Lundgren fits the muted brown-gray-blue palette, pointing toward Believer over Treat You Better despite their similar tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/QgKEAgSGAI4AUIIdGhpbmtpbmcSDC+Q/0QrsXW645xA8RoMFXhtj+GLIg4eD6lpIjBWVD8BcOwhWTB7dtfNzEBFGfczQZH4gCTqISpoBmCGsSGtC3iHbDtRiSMz1U/7eeYqmgh6S+ta+gWrZoVs2ZrEMoqW6HSv6Qp9Ertpn+w2KzlrYP7Rx09AVOGeRqqledlL+e5Nqwb3LbtJO7FamNYt7aiBiIvWwMtxjXWnO1WY34ed4/4kvcubw2Ew9wUKLh7USRaJ5PGvHBd38q5G8OuVLuN0R4aMn4dSCeTbwBfOZRETd8lt7SKkUD2k876CJ7UWQpIXf3HGcMjsdmxsq6FSsEn7CBvfffWSaUBlNFm17L5D1KGhZoK0EirrcxoKHvUTWAihqBI+b5NkgYEPqIyxiS2k6pZG/Nmh6cDgi/tAQfAorUc/dCGsq0498Pqf64twrpDtBRI8vj5E1kyTCA11MRLj5fAzEPhoPONL5/QVlORcubi4Lch8euLn3AdX3tIYe75eAJPtuqMvEGcDeaUrCwk7d1UNEfdNWdidlsBL9q4c0R35fIiM29dlUCSRCrdtiTrT4H0R71v4lbTFvKRJ2SxocJfz66cXOMz+cSnZh+1oXmq36AWlKPSftfj7ij3JjtKeUeZZwirJ2QXeWtXqfuMFWXHN69Vj9HAC2PIKx6rSQUMdHM8J9TLQYaZYCYq8T3EXq1MfVqcNFeqdwf4oS6D2q43G+cSoxrRHvuDtTqySHjNbU9nPlKlmCep7WQos8h07IAMVYe6yHcCPqM+aDzuYJ8UdqtYiCJHfJHeFY/t8qNQ48a8QK5+LdZYT4r3hDjRy/1Oz3tUt+trcyoqRhwapBk5Kifuz+lpj5IKB7BrB7kLGiT9Zf7L1lGg1aADnkE9qiZ5Sp10mgHoZS5b2eX6Hi/6I0Yq7eYV2lqzeFrhTPK0OUnhvUBqLd+jyYaTNMlXUDbijOmKPqGDRB3n37XEj/WfsXRUoNxc6ViAQEQupKBxabqh/830nCu0tPrp2Pcx5EvMu6XBbsNiyaEuQOUj+aXdXXtL19M1jnEv7qWwXSBH7ll0S4UoQSSjluRjCjv8sYbSGeVmZdSvr/hriPcvHGT5V941aSN+oiUYiQxYqs1ajazyXurI3o5afREZRLBEpTTE0gZmvv09gnx/z/x+wOxybQDUWZsxVif6+Kqf8+J0DkfTlXdfafqK5IpK0mmERIc5wXe0QwjzE75l1uPy/Nch1q7N3ULgqCVRH0QEvjntEIBabwdY+5UmUdYD/+0/BXnhMg1NrqOpsn6SlW1NmI7J6KVPCx2Q67P7FwemX2x+5KWrJHBbvwqnnR5m0NpFZfj0oda6zzwOea3GL00JG7vCnH9FtH9mAMaKnN/shh0nAtrt92glFRvbS2UrcghchVUPCSWu69AwDgMHWOgE7hn97gFA0yeAPpp2PHYjntlq2XNac5KE82jR+X8yufywtHzPvm9jBHi97y5gB23D1GNHM7XMCrNhQXJjSxtzRtVph1KenxjJIT94YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 615,
+   "completion_tokens": 459,
+   "total_tokens": 1074,
+   "cost": 0.01164,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01164,
+    "upstream_inference_prompt_cost": 0.00246,
+    "upstream_inference_completions_cost": 0.00918
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 237,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

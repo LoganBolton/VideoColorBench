@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907128-4sLYqQf60xr53isLsVCq",
+  "object": "chat.completion",
+  "created": 1790907128,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Before the Devil Knows You're Dead (2007)**.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing visual tones**\n\nI need to guess the visual stripes of movies, focusing on dark browns, greys, and bluish hues. For instance, Aguirre gives off olive greens typical of jungles, while others like Killing Season feature more greens and browns from wooded settings. Eagle Landed shows varied gray-green war scenes. I'm noting urban interiors and colors shifting from dark to light, with significant changes in daylight and nighttime scenes. I\u2019ll also chart these color transitions from dark gray to lighter tones.**Exploring film visuals**\n\nI\u2019m analyzing the visuals from various films, focusing on how colors shift throughout. For instance, the last 15 minutes of the Assault film feature night transitioning to dawn. Security uses dark blue tones, while Capricorn's desert scenes may depict pale tan and blue-gray contrasts. Low lighting characters in Before the Devil could match a neo-noir style. E's film starts dark with brown, transitioning to gray, and features a beige nude scene. Ultimately, E seems most plausible with urban dark visuals.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual tones**\n\nI need to guess the visual stripes of movies, focusing on dark browns, greys, and bluish hues. For instance, Aguirre gives off olive greens typical of jungles, while others like Killing Season feature more greens and browns from wooded settings. Eagle Landed shows varied gray-green war scenes. I'm noting urban interiors and colors shifting from dark to light, with significant changes in daylight and nighttime scenes. I\u2019ll also chart these color transitions from dark gray to lighter tones.**Exploring film visuals**\n\nI\u2019m analyzing the visuals from various films, focusing on how colors shift throughout. For instance, the last 15 minutes of the Assault film feature night transitioning to dawn. Security uses dark blue tones, while Capricorn's desert scenes may depict pale tan and blue-gray contrasts. Low lighting characters in Before the Devil could match a neo-noir style. E's film starts dark with brown, transitioning to gray, and features a beige nude scene. Ultimately, E seems most plausible with urban dark visuals.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMHscuRcCrJ6skii6gP1QyTzCHDojG_C2ncKK7Ou46ePtPRFMghavgEdXGMhhL7GXRYptXEk2yurO0RwmoSibqjX2pWZsqmrBgCHQpcRv665CieLbUJV-uTcKiZEJCj8bDOGFLqNwLGvIyJv4LqwHogapcD0qc4QXo4wgX248ih7Q3HBGPdUdw_xApEVs785ZdNNbJOwgs2xKGatoQiMn5iRmA6931-fzwEUZ_0PnpV72kovLw8Ut8LX-tYTyVCCaYf__PZiqlHvTCJ2-c3NMUsq7XBXbcy3Wj-Z2lo_95hTsi6YvrEDdvgpNs_fM9y3N9RgjADnHOKG0TBGmAhcKadxnyBc9nEY4bV8yRDBpvJEQF0_6tKcAQrT4Jz3x_pwO_N02qjo1L7o_Zo55oR3ggoSqL04zsXT_HHAJdZ6LqB1GBmYenqnJKdaNr-urLkae_HjXy_XKqKYIvoIDe1nz8Xb1ymumN9YdqmYaxy6leQ9PyrI7Qq2O9i-JJVrpIJU54H_XDcmXH4QXXPldvP7beCOkpzbuTJbn1YAEFFiVDr9kwTYrJss-MDe4dvDgkBsKi_W_O2b16fgIMGGgtDmMbzMcK2v_Obr6jozx217FJPA3ywVPPyNAx8t2SklZ-qrjPjLCyoFmBmeWxzAwEznOQ6PgMmUAPhdMruiZOlK35oPjKoPd74Cu2NcObm-O8URKAv01gQbsCTXhfTzA7Hd7vcKnzO3NzlkqkXQnFUOxFoCrrdCXs1Y1uX-zElkCJSeqwwFpZ10qQ2kqL6JxLg1JKc0dmuPQXAJcm4r8u_w4n45mw7ht8LDQj6174yVFxn4ZYICYS82Eb9UW7v7Z3KyVLm-sGKywColgyRL23_EaUczgRCqSWTwk9-4L7Lzp6zLCNkmDVHh5OGbEuRK7H5fdRVuMHBRgeOdIiDnREU2AQlUgelXA7ni5wMFuhIZWs9cl87353FTNBtYCbSiHtrarK_zru3T9CkKLSRmfRwHR03orzoUgGZI5iLhjGERqy2r8yyMM_Xnt63qdqfj_X4UklYI8-8bHPtJy4gyPHq7QbRxCmvgy7tD6T4gX2AALPdtAG8g1lz_WjDKfFEDSMjDDXREGjo8QG8gSC2N42sZGvIp6EbX31rXzXdaPdufbbXZtfDZEc45HhtMUNas5DNfK3NrrF14jTn7vH341aGD-2lX8ENfQtakb8Exd5p_WaWfMZBenrTTHBuNfek4BHy0cshx0GGx1Pv2gdUL3x9XwsPDAoAN5-3UawRJFya7ef-Mjym-TOKg-dhhptzat7tSATRIZJhRWvZv6iC3GnZjqY_D7FTktFOdKrrlOTIT9VLqfQKtfs_xEdQm9bR4tB3jKVKkBKhgfU0n0_nb5RNDt56gZh7eec7TgOMTDqKfriDISIuAfXPXkEe8dGz9j1qhnpg81ic6B0Tren9NRv56l_RWYSqc6YgRFjLCwER46nMMBMsFSRYHwzhTZJVxC5S3-hiPPNyDDO79BCAfuGKjN-UQZbMti4_se_lsBuPeGpXLoswYTA1db4TXHXo0E2nnEOO7ZTAwjJxTF5yKb1O5dqzOoOzJTy3qStwkkTwCttagRENTmQFrlL67PlinySv8Yt8z51aP98JmtGhW59TJPzR-hfEemiybMoU-sDOfIdH991AMfITWhGLvGFxGWPO3YQjvVdUVK1p6AWQMPqq7t8zrnTuLE5silQQdRXEEnK9LuDTRwCa6XHYvO8P4jP_7hzzxP502JgWtKovkxupTGKtcG2kcyEXZzBPTeFKZVGNfEdpKHod2wXRWK15We5f5zNg_CKDVa6Bw0yISjHRbe7IdxayDu8Rjg6VKwaxhatdzxaS6HLLaTs-aX_FZKy7FhrCaQRDfpe4NL5gUO4nBGRvsev19_1Zre1NDdIcoLrdPFNhyOMNf6unFmOgbrmJz-uYVFuN4f3ZjKlDUs0i1vdUZDZZJi2NENGeI4S74nz6Z-yeh8Ufl-PL_0pBHyvRYsp5wauSH3bUbk7f7mBbfI23pR1ZVD6LvYHYJ13-qHujnFT1O_t474PgLKNde0tPCdTKia-kOXj2_0cZJepfyeac56zI_YIeOMPyxRFxLsn0lZBmOOR-qpXBvD7Fz2zPZrXNoawp7bZrJM6yxnkp5lnBZY1ewwxYhZZzvkEHfGiYBYMQt28lClRvZupXYLeuTCsm8_OCiQCAilWY1-5xOrUlCyPWDZce9zlm-Gt14l66Hstt-eNz9zEhIcdHI80CM_a6tEhnrbWlM9Gqhyu8KjapwK4qIsTFPYyQJEov2dwEyitEocXRANJzVfWY_Jv-eYV8b5uhvTx8YmXkktv1F0WWq2pa2XCF4ZFvaIs_Rl-L5V21_bFT-s5YbgWCIU4xjjksU9naNND07jXIF71VQEkE4UZR6XwcZsUKE1HqB1E-xf7d300VvskccofkWfWdJEGaDYQtM1NhjE29smw8boiGrU2lKp6Yv9Dz6j8yJVgBYePKLioeW7p9EVfVf7_i6a2iADmga8KQNWpdy5w0z1iXW-UhgDctYGGFRw-GuA201UxG4KQOecwIRsMkC8Bj-1AneAPZYhuxbge0J_p3UWHdovDhepIzkMKczlakypSU1I-purjNMzIP3IhYD36-IAjUzGaDCt9tyjLe_8czFFPJuP0g_c-XN5p96NgxQ3beKjQny3JWJpvzYho30lj9au_8NUECt2oDO_mMHNJJuSzlgo_8sb6-WdA_yS2-4Gv6w079O1qAEUHE7Wnt0OtH6EHhsZxsHGuDdWcICvxbggPSDSugwNTxuUrwFGHY8Ibrqmca3_hfP-V1FmRZ8Ql2R6hv7WTFb84CrrZWkEg0HDrVd8vSzcfBlVMe-1iVy1llsLVVSk1Df8QbPtG6IAe5YTgklmAhaDFrsXaRPTTtTcdKtG330p9ReNTmZ6OpYzExCSH4K55R2BwP0DTHD9050wAR5KCSQpjBJbmiweBCY-g2ucaWObfpwXSOxflS8qvDtDekDfnkz8UpO6Q3IjRWYl285uL5ingvNF-w975JJe5PNhGKLGMZfA21pgcxkixcjAZjxYghbIylC2vVWi3Cj3xkLlSaZKNk4Bi5R2LT6WUIV6T270AcR6ARATCvdmTHt7YJJDIWBWQXfxUIA7ybMDVtGB-b2uFbn8Q5ad_-kKCYKO_UQIslaGsrNwZ26QiD9iBcBHYdPyE8J7-ofUSWxofYMO-6DUKuGyQEW49Blx7xk3lzQh_S2FWouJByEb9H8lD1qUxU5Gktb-ArELDetxKRLvISncsFevIp95pNn98Jb2NBFdfUCAYO3a1bv6waNUemG5vWkV_iX0tGvjmt0a8snDYowp5rkn3IuMsqfwaLP0GvHC0FuCTnNNLLor7Sb6apTIOJ_3IS41B1yZ831mzzrDVWJUzgPRwX5BDIGHQpo__2RZbpJZzYLalnBYzFcnDY6I8xRY8PHnGGzQIKKi-hlDMrLIXEuXKi1nm3D9VRAmyxl4QwSFBu7acbWPZkxFKbrB3FY5TbgP2cBYvRARwMF5lvGY7JwuPtMq00G_iKrEw=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c1786d05d374d11016abf12fd39c487d1ba910b7e3862c0e3",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 440,
+   "completion_tokens": 392,
+   "total_tokens": 832,
+   "cost": 0.0048,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0048,
+    "upstream_inference_prompt_cost": 0.00088,
+    "upstream_inference_completions_cost": 0.00392
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 366,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

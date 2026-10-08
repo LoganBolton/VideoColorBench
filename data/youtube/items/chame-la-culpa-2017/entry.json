@@ -1,0 +1,21 @@
+{
+  "slug": "chame-la-culpa-2017",
+  "title": "\u00c9chame la Culpa",
+  "artist": "Luis Fonsi & Demi Lovato",
+  "year": 2017,
+  "label": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+  "hex": "#594837",
+  "rgb": [
+    89,
+    72,
+    55
+  ],
+  "frames_sampled": 210,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "TyHvyGVs42U",
+    "youtube_title": "Luis Fonsi, Demi Lovato - \u00c9chame La Culpa",
+    "channel": "Luis Fonsi",
+    "via": "yt-dlp"
+  }
+}

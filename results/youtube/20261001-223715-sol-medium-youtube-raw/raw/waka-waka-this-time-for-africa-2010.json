@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894255-156Or4lMu19hvVTm6BDQ",
+  "object": "chat.completion",
+  "created": 1790894255,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Luis Fonsi ft. Daddy Yankee - Despacito (2017)**.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC8iQK7YyeG6Hhpn4Dd6rgJTH5YPRyxsa_4w4NBVAMkMGiu3849VZ4LctGmf5A63o2sKRoFAzWLWiBWRf033TAsdzIMOJHTTFd6ie_rFwrAxrRhCwnfkCOswoBt_22j3GZL9CwS6HoqAFe2w-B_XgV1hmAbfFIkf_Fi2ikydMQcyPLN19205HoXrCTUrsHRIycj7GsjyeelOWQ7N1XEZat6AF0tDf4k7AO2lCfpi0SdRE_BHOxJJpIOiMEdJ5bOe086HTHfgKRzFoqIhG0ek_qwEPdMySCeCC-OxF42UQv7CGQFOlP8sEfZIxjNbpiNV3Cufzsx4pPavzJRgxIvcLUAnN7yG6od258pCtnRg72dgsn6MvqnXeXweBmMCaysi1x_r2PhW60hr8wHHcpwZiJVulYvU9mwkj-GLpmwaa1iJB6tSqXuYrZEM17agozbUi-5d3J__WLgkkxTO5SlgMRmATS9fDK168ltLZ4Shn7cYm5stGcAXS5ZHHV37PxdZ3-yYMvwrJPQRcnlXOX7CpYQsk0HiBcXu_yeAdG-BWGs60eSV8wejMv5ZULz7wdvrTv7oi14Y7pcpCecLvAwpg-_Mbe-h53FgKKTZDzbcQ0VRTPVc5YdxSfjZg7h66b395UoNXAEuHm8G7JIKnp2cYGklJLqtDf_dsUJOiKWHDsIf9ga3MR8Mj1_mOxlPthFWfZuuw_qQ_FMKZCIJ_zLr5mrywfP8Ogv_gu1mlri1jjmI6r-03dm5vJtGplUUE1_om5o_2DhVmE9a-oc5j8wwThykeMvqXy5F9vB4x_PwqFu1xEoB_SeVD1S85YwcJbtrTqqZxkvzuFU3hK523FYW9_eWdjyCZBe8Z_hTfbTfE7ygTUkiWyVMQ-lxDh0qapvPsZOCl3jXbHloBN5DwBAzNs4DrljP53QgO9zPrIzYUS6EFmQ8lkm2-5CgghNhApOtS4M-nYC_QC2Teh6qPUmDlcQxrjb1lyxQPt59RaFWEZQBSs2PvVh6gEMd9nwsDr2bxTz7_e7aSkgeKeEt-rg6U7GBf2FNMvACcIcVFfmqSHkYE6uJ4EKpqcGycOeWLMYbR_S29O1H8g3-tGamzmj0Pw7XGAQdbUkgLzswgLZGNf6j9ZiD4aC4zTanXRZr5YC2_1O0YrT_1Ujq6cPdQjsY5MWIUF-W8QM6M3TJvp-UU9kxwmKsKPnizMDFodWCJr9Fjv76QeJT-8YvYn9TSYcNC-ju9rEMjQsJod51w4-w_S0_B3D4aiy4kIyJZLHmagaGKfiw0RisvObFKE-2rPiWNkQkov4152zKE81UFYolgQab2xmnPJMdwLkbdOYokv1jsnmvY6bhNOlRztfymamtPRhWP__7IfswKUkv3YIe8yvEcK52gu14oj-sSvSZoppu6W3LPcIOlS_85TJIU1n4RiK1OeUgcj3jVTE2HvFW6a8qvEYtKH0A4FMkavrhhv0AM-ebbmb9jQxPy9ilqrHMoIvPzEbpjiLAbffTXuANyb0efUzhMHczesw-k8a2rO0RH8ELYmYXzn_M-bQVSbzIzSoj3LiXAETJhjSnvJJcK9_ksHFT-GBh2hqo1il_4vMyROrr_m6FDlGbIunfRnsC5GbLtADqe8OMT3DhVdhNl26Ah0xuCMwNweGR07SWVRT40K5f_94uad_wrQ8SPMnEoR9zt6gWLlvTfZpRuoZfmBph4hsr7geB5bgf5JzUcARmpINyyZRiZziv5DRT7ryE20EEcqCkNWPxOXlQ9FPweHNeMmkHLpM7DccVQAS-G1rK0aMyT6aDl1qP1bNbIlfmWbFBykY105QeDqpaKhJuwscOa3R2wTMYm6d4xbLEh2svh_H3JDL4nWki1jYFcF1gex1AkFtPPVq7D3uYsjfXeqBI3OFDJUXZn2YTURw6sFUSYTigvvEtRYd3cdVTpaZzjHOqzMh1ojd0YqsD1vfEscoZVEir9i7KbjmsASKVyaKyDeRIBqGGsTOG8P8BFuH_rcDm-6W-4H1E_4XOc8msFInUE0uOJry8OxXM1YfdV6yG5IY0NaZAIfozVydK5Xnj15HybrfSWk65NmOO784Qz2GVWRSyTPZYe1QvF0yNx7VJfHaRBCgpAxayMN9nu4hYkUNLPTuikH31augeymwBHQieSXXzheVK2TeSMflgOpEDlS5p41RuBjkzKVEFNgCS7hXBoSmTNfrG_Ut9d4jvzw3QquETsDvAZpe0At2k2wJiH5kYFAy_9qWW1869OpIRRdLI0ATcwYQyaBxt0e8QGpmgjXe98gXlbIbM-MzaRYA9rLfZkNPmrIJSyfRmuhe8CZMip2CRw7mIBfGkqxXDnrK1Vpf97JWyOZSMUrMJXr0dwlEkr4g-flkOyCStRD8cX6vozrZquOxN_aX8RSNY2E0YvWWjEZyOTZ3e_L5roiQFL1N5PQc9kMqX5PtmK6zSSdv6TVgrC4RzETDoxHWBbCGgSDTzmC5fmOihvA2F0Aejr2PkYUHRBvAcHs0Gig1aZeF_wWb8PrakT-AC5uHWZFZCzmEEb7YQpmaDWTOaMbs2tIEsZQuSvYjXsCK2l8iFFRZqgZnuTHF5mARvfH8HfL1VpiB-Jnw0NOgrM7pQ62rydSuyZZNsl3EGLTCKATBAvJE5dYFHOvRwAhNIAtIM21ugH1KcQIHJTEJ54StrwKQRSxdXxoIeGKWkPo5cdMB3B2DolopAxWMAdNfqQgTL6EwXMzjmZL79vDHPYnAhp7jaYDrvaLUdlL_KERWu9wQhjbc21ITA3NKYqwPMEgKlfPY1lHHrBnjDgst0YYL-iNcmSMv131p_L7oqFRxixyNOJXs7yBQYwQ6lNyy2VAwJ43QomswNZaG6KmlflhPwxqJ7IhwA9FK_AJRm1FSWxYwSg3HEttsob1-y5P3R0ujkTZI32EBKv2XjM5qrkRemOOia5ccP_KuNKq44L-rNhXrjXYpEo6HoL-R7jCB0CYw5XwR9Rby4_qI8Iv5yw-S6LiKq90w5xHiYg_6Cj9bmqAMrTj3I9lrenDOCS7TPp5PD-oT0e58c3NWTlc3qmWcOAVNKySwImCLA38KnX8ZhNDn9bAKyzeVDlSBQUR10nngdCtOiYkT2_Sc63bdvjJp27ePVlyu3kz1CtKiI3ZPLixwFTYUWeI9ocMzFuXu1C10qA6dPVcYu8-8p0ToyBsFXkkj9P1JEWPFSmgPAa6ALjBGevxdmCmgowKhWiY5Tw1lQ02tLCHSe42_a4l-4HHeZpRXmWQJAAJu7JJfl8XvskW5i7TN-QlXlto0fJPVBHcAgJa5Y8V2DUPxmzsgN9IJX7TkGdQmcx4EIFqXyuPApRx4cSO5tXxjFQkndTo_mFQXMqT26wOWBoRJ9FklYkURl0m4jPEX0bmPNgnXAD-k30kFopEhCQ4bDFUWi04zcvHMjPRuPhzRm5scKnn4cqUmoJYAyC5FQpTVjcBM3MXu5yNOJgUpZA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f3caad61f1aa488016abee0b0eae087d1b46c6d97fba7ea68",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 510,
+   "completion_tokens": 370,
+   "total_tokens": 880,
+   "cost": 0.00472,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00472,
+    "upstream_inference_prompt_cost": 0.00102,
+    "upstream_inference_completions_cost": 0.0037
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 339,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

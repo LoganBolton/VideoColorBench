@@ -1,0 +1,4 @@
+name: glm-5.3-flash-films-raw
+mode: raw
+dataset: films
+model: z-ai/glm-5.3-flash

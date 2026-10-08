@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907299-OTtuQOV3L2LgxnWzcsQC",
+  "object": "chat.completion",
+  "created": 1790907299,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode is almost entirely muted, desaturated greens, grays, slate blues and browns, with no bright or warm stretches. That fits a film shot mostly outdoors in forests under overcast light. Two options fit that look: *Killing Season* (2013), set in the Appalachian woods, and *The Contract* (2006), set in Pacific Northwest forest. I lean toward *Killing Season* because its grading is known for being especially washed-out and blue-gray. The thin red band at the very start is probably a studio logo.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The muted green-gray-brown palette with forest settings makes me think of films like Killing Season or The Contract, both forest-set thrillers with desaturated, blue-gray cinematography \u2014 the red flash at the start could be a studio logo.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted green-gray-brown palette with forest settings makes me think of films like Killing Season or The Contract, both forest-set thrillers with desaturated, blue-gray cinematography \u2014 the red flash at the start could be a studio logo.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7AgKEAgSGAI4AUIIdGhpbmtpbmcSDHDJWyIUAYUQebIg1xoMwU+DLcXTsMuW4jB3IjAngyVnAuVS/DUhN24GUbuahCGk5Spa3xnbIL9J2DSKT5oYkgT8QI8RSU8F6yfD3lQqiQhuP6IEDQnhhYe1oO98PznivlnZmty1T7nYC55/veZKVuQ1tq8iGx8o+GF3S3UEfXVVTKxzXM4aScyXjdSqLH3XxwLcVakX95DsNruC4l34Ytv/VgIfd9YFEktV38pc46eAd2Y/lIL7cAecLRh6GbzBR+qkoSDaNA17hTRuYEZy1ewXUFqSzUKgGztddYvRy2Rq9xyANQr8C/GCG3ZIh2tmsuio/2RpoqLP5vbSNh9COwdmUUspgnxA9Tyrn3tRE2HocLubshhauHdLvN5mCRp+nLcuzNK0keqMQp9QzOrT2zlGgtvlrzuaVZ59Kz1HvYmj6SbKXCrqMPBT+29hy+ajHxoWAhwuq1uxxpBTQ7Qvmg7oZ0UDx40N+RPgBWHECWcVEyd1ADEq4ufHoKCg9GEfR9Ea0QSNCDULHuyVq7g1Jsv04IKZvhCKHflAn6KB81hc+s6IJHpkSFJhXoQ87zVvo5KK1tcFuZ5baWJoUd3/rV4oFKJ9XvA/KfNtKiCwht1A1P3XpxTw0duaidWK4L5wG/v59KSz4kR+/TxEM2HSU3rv6eq9tcRrXCExutVuJBXX5Nh15xsffQWGG3qOTIbkBSq4X2lKSPHHaxUqookB3jHkS3YP5MH1cuyDCgENajfmQ1XRNrQHGNGaP05KzhI7iVppyo5lT3ohbj6TUlHpOfuEs6lNhlnsaX7AfwPILE+zCfLGFY33j7U2xPkLMv7CRvP4DXrefuqtWm1w8iU/MOsNyx2+3MmWjuSTY1XbYvcFidWM6/td7rmiZiQ7NeE7QKaq8GIvmWTKjYRE7cPxkkcBmgBf2QHKYcJl/77X2g82mCWxwstWJ+jli7KZSgA1iXClfeCwaDZ74pTO4oSU6xAQl2y8Yzfh6DjS6pZojbI6bJ3YKXSgNmuTwV0eAzpgHmUQgUKP03dTxJe+MOHZGUir/6W5XDxsffKQhE9aH6EiMAPXLbOBcCrB4Z8sCC3N33Ua7kNuTwlWTRs2Uojl8qfYFTBX2kjGMsTznLDVlqbCWA8jkgFpZnGPv6gaxOynvjskm2tuiJVnKDxEr1ihNNvTjzd6E8C7MNPWG25I8o/opX01jF9SOwHAtrVHOj6g4iM9mB4cVIwP5vJf4yVYFWDxNzGj9S6z8wkifCQJoIhg317q0QXboNmJfjwJYigFGQGptrOYfMI1R2uLD17iVVClqEtWniLKNQl2a6tYKBblLUJs0WsXT7v895rE7HPwCAYSbtKgggab1B/NToUExMsUIRHgOdIvIZqDHbhRvnny9+px6upA9Wkq3WUEEt0BwwbipYVl6TQaOe0b7fwohZcrvmapOC46s8MweyUK6PzvDJskKJw0KI/qB/TwWX3k7fBfuUFp+saSGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 523,
+   "completion_tokens": 390,
+   "total_tokens": 913,
+   "cost": 0.009892,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009892,
+    "upstream_inference_prompt_cost": 0.002092,
+    "upstream_inference_completions_cost": 0.0078
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 205,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

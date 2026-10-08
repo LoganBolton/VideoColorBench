@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907349-FOnASWrY8dWiPCvtTf0M",
+  "object": "chat.completion",
+  "created": 1790907349,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette; a barcode can't identify a film with certainty. The barcode is dominated by muted browns, dark olives, and murky earth tones, with occasional dull blue-grey stripes. Overall it reads as gritty and humid rather than bright or cold.\n\n- **Ruled out by palette:** *Transsiberian* and *The Pledge* would show much more snowy white and pale blue. *A Monster in Paris* is animated and would be more vivid. *Before I Go to Sleep* leans cold blue-grey.\n- **Close but less likely:** *Rampart* tends toward sunbaked yellow tones. *Side Effects* has a cleaner yellow-green tint. *Chopper* uses stronger, more saturated colour tints.\n- **Best match:** The murky brown-and-olive look fits the sweaty, decaying New Orleans visuals of *Bad Lieutenant: Port of Call New Orleans*.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm picturing which films would produce this muted brown-olive barcode palette. Bad Lieutenant: New Orleans fits with its brownish, olive tones, while Rampart leans warmer yellow LA hues, and others like Chopper, A Monster in Paris, Transsiberian, Side Effects, and Before I Go to Sleep each have distinct tints that don't quite match. The Pledge comes to mind too, given its snowy, natural landscapes that could shift the coloring differently.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing which films would produce this muted brown-olive barcode palette. Bad Lieutenant: New Orleans fits with its brownish, olive tones, while Rampart leans warmer yellow LA hues, and others like Chopper, A Monster in Paris, Transsiberian, Side Effects, and Before I Go to Sleep each have distinct tints that don't quite match. The Pledge comes to mind too, given its snowy, natural landscapes that could shift the coloring differently.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpwgKEAgSGAI4AUIIdGhpbmtpbmcSDGkIRol8O//dY/oR+BoMahFRUzUyelXTHwf6IjB6KmjjPh1zT/e1LtfK52S+OzSythMTkPISKDCGxD+BT30ZWVbcimjkX5TFaa2p7ZsqxAeYIometmY7FornbNhwxuVkS/4XvEO73aOWVWNXuJOW3VgBZyEOmj/Dvh/pM39RR5590COtNmLuMcSTTTIz1pMLZ7mu2RbFMThPhV1S/tNrbbAh+BR5xIXw1fVwtYNQNuHGwvTuN3qiy+6mMtBwXK2OIJQzjDSdfgRoQ8FJZwP9ffHJlO+cT+75Xy1xpXBeJ+vmg0pRBZ/1xBsvJhdrXfEZp3aLAGQMZk3aRauLgb3YdYkmTNGMDp/g2koeZzZvbLLxgJ0CtE2raJmrqiif1G8fdcLFxxTdy4OyceHTRDHhbKCBW07afBTQRhvLgGov5+b4k14nns3sMp0hs0SqpYydNjZnOcB3+M9Ok79rzLPYkjirmCUhxdAeWFLewq4wlGpTxVYs5IhH7Z22daq4iYf/G+ACJhlZNX6co1eQjPfabFVaXJ99yrNX4OuJb7OnOzTPjxJtklBg58NxE8yKI6cPUViK/ZB+8LEovkWLZ+xwku9XbDDmOcqhaxqVyzLydG+ChVoXwibIdfcPqXQX1sZwl3DSCvoY0FORD61m1kstD8G2NcQho4kxXNreS8DfrjEF2u26ZWoKZccSTXNUREaAgHahQrpDOqa0NQYG1sYP1OCyLUGcIDtyc+LDIiHD5wSL99oyCS77sR9b+lDWUxe/Lsxoq+KFO7hJ7VdEfPOKh7RUs7A2sXT8a8jRGimmoDJLDpiVgZCKa6P37Hnb18etsJ+Amko/7wJvKnqgQzzbbFvd1Y0ERNYpc6jQw9yA/YvAgIzFiLvzCAXlLYND7pPyNXFIS14vgOk3hK53RhFydY1B6DJxD5OOeEy4bBeKD7Jy4vPv+0j3z62UmL91ykh55ebLcINyLqnCD+SCKyfL1TgJJU7bCN1fuiyoWVLm44wJl4IBqo+axK0qZ2jiCXmYAlGy69VF9eVbffq7GidrxnY1GC/lRSej2rJGWM0/iP0KytgmSkR+J8Qrx5OcMrkdzW51m+L/n/PNs6AS7uYiy2RffBQWAovy/Hnbc6A+EisUdxvLqiFrxChXb3FznxuHawpQu3KBA23S8mV3LetX2lwRWT90aqcuyRw0DVlzQ8w0GAtYGZgtDlnDiM8mYDgOpNQdynzIXWuGN/uTrOz8Zky4lTkA40+hZm+55s9NZlgwE+uXCyzUwVmrL0gpcCEnz5ZxEf/MXfDG448qWj/MFE47b9sZ6KXnYddq0NI5dbnINChAqJsCmxsQQRh+Wum1zwVrD8HkxZW2sbyl+wjjObNZk5mR/SeOUrUWST0LUUZ7UL/0GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 533,
+   "completion_tokens": 510,
+   "total_tokens": 1043,
+   "cost": 0.012332,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012332,
+    "upstream_inference_prompt_cost": 0.002132,
+    "upstream_inference_completions_cost": 0.0102
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 188,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

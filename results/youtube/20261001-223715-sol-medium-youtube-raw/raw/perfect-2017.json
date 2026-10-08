@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894325-0PJGQt076Tq0Rpx2FhGH",
+  "object": "chat.completion",
+  "created": 1790894325,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Ellie Goulding - Love Me Like You Do (2015).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI'm trying to infer the palette timeline from the images discussed. It starts dark with gray and brown, moving to pale blues, and then shifts to deep purples and reds towards the end. I'm considering the meaning behind these transitions\u2014like the darker openings possibly representing nightclubs and the brighter sections representing rooms. It seems to have a flow between desaturated tones and more vibrant colors. I want to relate these choices to the emotional impact in typical video timelines.**Examining video color transitions**\n\nI\u2019m analyzing the color transitions in \"Counting Stars,\" which starts with a blue-gray overhead view of a warehouse and shifts through various tones, including sepia. The overall palette alternates between browns and blues, nearing black at the end. For \"Love Me Like You Do,\" it kicks off in a blue sky but moves through grays into darker colors like purple and black. I\u2019m noticing how these transitions relate to the intensity and mood changes within the videos.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI'm trying to infer the palette timeline from the images discussed. It starts dark with gray and brown, moving to pale blues, and then shifts to deep purples and reds towards the end. I'm considering the meaning behind these transitions\u2014like the darker openings possibly representing nightclubs and the brighter sections representing rooms. It seems to have a flow between desaturated tones and more vibrant colors. I want to relate these choices to the emotional impact in typical video timelines.**Examining video color transitions**\n\nI\u2019m analyzing the color transitions in \"Counting Stars,\" which starts with a blue-gray overhead view of a warehouse and shifts through various tones, including sepia. The overall palette alternates between browns and blues, nearing black at the end. For \"Love Me Like You Do,\" it kicks off in a blue sky but moves through grays into darker colors like purple and black. I\u2019m noticing how these transitions relate to the intensity and mood changes within the videos.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEDg1WHVWe8zFDARWX3yiY2EOp7Ee8wjSpq6KBTWbDMMBzeax7DWqkH754EmKr4ykHxntWXDeOoTwBDgiXmD714NAUlGVr4cZtl-E3_r6wN6ATaFLxgE4Bjkpp6tqNV6Z8ckH_Qq95RJtSC7UJaryeCWmpZPWhlzNdvQFHTahvVUeIheP3S5k7-ZSNYG-snSY5cKRcvFYChlG0R8ThxqEK8frTof2pO0Th1XvekeVBZ7AYxX83UEXdoYtAVPZu-Vbive2yjbC7emnBrBHr1LPQKNQbSeGVGhqdErDfRLPAvQRpYNNRTrNl6FtqBO9YM1_6tCcITvLRLqwSD_AZ5Bv0dq8hM-P_yRBkZqzBDbGtks6jsJU2xRKiRTk0AzgYz6dG4518E5mO6fEbHtMisCG7ZplQglr7noLA5Ye-ggXcFyZh-lA-ZItoanOMM5xQVhO6b5LZZySIsn3hjmrQiJaySb60oGBGsReVFuU6q16zuz9t5VdfE2sK0ZMQZ59Pja1xzO2791E6Dk_NbhdM2AUn0nWhSpKRmYwO4A2vgIqk1xs4GtttFR8R81kIEmejEM-ujsASbJOk50pyGk4EUalJv2BKyePVlspxdYvMLXYqs_WFeuZBWVgaSqFR-Jd26KCAbw3UP7BhXTMbOHJIIzl8XV7pBWL9hlsP9-tKkvzNw8NDerYvDGC_nWDahOw6tgDTNmP5QWe7kU-Topm6AsFW60ouwj1yK4gWFJbqiqWxD8ha4iD1QALNdYGyJWwCr_keCKV5yg2CNjEPs4OkP2oHZjruBRDKl5k_0eq9SwprdsksBR7Vj58pAh4ZXDgPCIwMz_w3IeTi0RODQsHfYl-czfv8l9v1Rz2QGOmERLqwnfP9p_5YQYACAGCLZ-q48FQswVAhGaMtD0K3Kge7_xDvoBM2XsSANfG9vCGUKt3G2xt8HhCpdRnlaOf5jLAbUhI1fD3fIWMpq9GFPsix3mfxwdDc-nmrasiUCS0pKF6rqdfJjvL7H3wWWD0zHtfFE11tLX1yxopAClMXPkKdBxyjs-_yBI24odLiC0twifR90yKgipFFVyyU0tyPpxoOEwNr0Gk9BfUafQi8b984LzcT--Uwa18SezhAfsbqGF11cl3V6oNP9AveLB8Pf1dFte8o9mlm-j44dK7SgPLb-NSrrfd17vnZyrF_Zd7_RNDA0W8IKN5OjgBT-g2xZ_vO05J24op-_ujmafS-UDR0_dGiYBJdKQFCA74O_7RZyLbT8BCnP9NuwJ_GB3F9GelE5qIWZ3HvwloZtO3vixY_0ql4mb7R-FMO1LhB_haOidftGWI7LE1lPgW3gfGyLcgnGlQy5rc3XSOdJLxraBNHOjyKviG9RoguMykRjWa0uSvcylOyCCsRYVX1fv6aRKlHzVB2xTt5w0t4Xz9jeAwjBBZdr1DXMtZ4z4bGyzo5yy2aXZ_VYb3vBFba9sP56oUZffXyWwvQjEk-tyUC0-JNwr5eSchuaZ6efPVGNFOIzlnXayaTnnV7hbqT0KE3CEJEXo0WHR6XNPlYdxSXPyy_LzOu-Vt8yyhmWe6i43PvNjqbSprAAyYF7gdAcX7zzeY3OcbK06ZoGI3aALm82iIFsTDFMa4axHbTSybZFcntyoBM4CJ9qq8i52m1PwxJ5cbkCNNuMXJzWL6Siei2oM9J4uBFk5Xa1CXDLiOtRpouXKi4YGet-oKdteACWMb2LnoQpNtretyS1Vv4hV06TRpmtmsuE8ONbY3lt2L1qOSf3N3f32bWcW0MEM277huhQCdrzALNLkY4h7oXDDe3qbBNcrMJcI4gkotpxFJLAZCVbcKITOv2IQZrJ5CR6RW911Shildw4H7bfffRocf6t5EGmB1EXBe4fjvnMIumh1yB61dzGpdLpxu9DEWlG8810pFEkGlZiIxsfhM8grSkFrWwFMVBhjEweNWLW17xqotFRpHeuVDB9lh6B_mrpRMMTdi51-SPMYMi1lHdNXCwH6X-dGYd3mPnoh6LxnZ4upHBnricoeHhnGPukajqd8CF--iEEqc-4aI_aKXEeUFaENTHHsMEXkRqoP1_1AS2lQLhZeQlktZNcKLf-e2C84p6bRE-qM-fBunevTK92zvTnrjpNsixhsWGDg-gT8h7z_11mJDSfV2lw9k9h7qMa--85j6vcVIzgzgcOyqTkOf4XcqVSgF1ff34HVcAyDnCGzCFEZq5Euct7idxRRFONfkePz1CNdPCG1OiPAaoHxTulxIO3M2PP_-UVvUXUjywNDFDoH2kMwIC7ND3Li9GD2HcLOJkBU86dlnV_4DBmrVOuu1jPDPI4dXEu0tWTtLJ7rQSo-7LtNdrWJTuvlDCPm61vOM6wQ4xnDSUOYicq9ST4grSxQF0AiN9lNa4cdWuHAX7Lb3KsCd8gBaUSkM8gWhWQZrXL75JvSn3duwCttW1NnryYyS8ixyozHvus5GYdOmzsDpDW0zR8JipBEvH_jX3jVtvVe3w6yVFpSMs_0XVgyfD3-d5gXO5L0ciLDiwMYXtkk7M3C8ShGkR7YxsxGmhEAeMfwhxCuuQQTgX8N4ArxDn9u7vFVjqSy58RU5C1AsspzhQkexg70FzyMiJBF75niPZ1GH7b0JpH5tmSO_LfO3dURPChOlJnO-flCPhT4qoMm97ym9x-bWR7tJ6ggRPPJ0IGSo8UtqhUyR0CF17rY8BHlOjR7GgI7RpCHAOvmQ6UeHhMeSYxijxM8h4v_HvilCFBS3-wlGq1hrIscyUNPCIrI1ipeJ12woAkJW4PynVrobAIi6ZpzVRz_SarwGwVmkhh6Sa00eVKOpFx7YPIMvfs-YRRry19NHY6f6O5tMRx4G7OhbbpsR12bnAH1qUxD1uW_4uCsidRBqvpLh6Vxz5oxOAB5US_BBg-UpJfc9eBhkps_2131YFJtyKJrBMxwtApuJRDz_I_gkcArX-XdKcS_Tj32MTutBqWqaJaq5rOaIMomNrBDKRIfZR1fEYzya5tlEsrWjDwf5jSw8pXDbcdpVugdFWWDi5hHODZeuYd2gHhw-nT51ZtaxDsS3XG9QOpMMresKj3yqEhqzpOcEQ2Q0tL9FAOrECAyfQu13zLSdDliR0l0O4ZsCYtq7JL5yccVkNPMNQHHvCM9UVQMCdj-ifttvPUqPEm0MIxUw9lyc-AarNSb4GA2WvYS5Rq0K5Nqhl8oXxqEXOxZU45RA9vFaWX2mxo7P_k-NoytRQcoAKgvQQuAh3AYwG3be6dLsYNYsLCWfNVPSyl0YfK4ZSRuZ_aQQf7mV6jxsD-0p_-V5qS952aBfTrITZQkgTE-HWFyLALRpk2pW0gi3LkKgYHHe6b9h6RqmVFQgQBqCq_H2YJ3CHUGG_-HxY4UY_1UQawokWCJQ1eWAvZDW0NeGQbWf_4gBdjdYRX8sbjZINUFv1LdW4M1F7Qi2amEOXlTBvy6zXa1KGCsjYj30qUYfmRcXqUPhfflClMY_t9dJDTMwGwos4deOIee4-s-xCOFWMRUZmfxKBaVXSsRToHCrGgpm-DTQ-s7PdzKgT9futNGKvEqHtTsqnN2q_wX7TSPiautDABXXpnLfFwZ034zws4MRHbZiThbKeZ8LpTlELZ1VpGKfuxeCZCWZ1pf1Aj89w4JRqBLC5yZx5l6bJXtQGzYW455gfT3ghJWuPxCzTokJBGwQ-ddYsELlD7Jhm5-kKZzuz5_kNYcTDWtYQZsep6rG35GKezFyIOcD-oduHXtRApXZdkdUBxcgcBgXH6MQoa8Eo-NGv5ryXJMVS41tEMIjculS2ISIpmq61RW4SQKfQGIp95HOXUXb_dfLXgVPZVKPzYecNcEuLZUk7K2czASyJM2zF03COdOe32IkQEKPtar3Hx1XiXw6uzjU6M2jtRNH_EaNlYHdruQgTsNJkz8-qxGWn1P0Hf6sj8MNYaLgPjO6QC8_kRknbBW-MIYxTU65B4.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01312d7477931904016abee0f72b8487d18b2403b96e74fe11",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 425,
+   "total_tokens": 898,
+   "cost": 0.005196,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005196,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00425
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 399,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

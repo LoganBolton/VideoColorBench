@@ -1,0 +1,21 @@
+{
+  "slug": "this-is-what-you-came-for-2016",
+  "title": "This Is What You Came For",
+  "artist": "Calvin Harris ft. Rihanna",
+  "year": 2016,
+  "label": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+  "hex": "#55686D",
+  "rgb": [
+    85,
+    104,
+    109
+  ],
+  "frames_sampled": 239,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "kOkQ4T5WO9E",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

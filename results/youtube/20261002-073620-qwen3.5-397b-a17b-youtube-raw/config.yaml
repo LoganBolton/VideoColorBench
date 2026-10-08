@@ -1,0 +1,6 @@
+name: qwen3.5-397b-a17b-youtube-raw
+mode: raw
+dataset: youtube
+model: qwen/qwen3.5-397b-a17b
+reasoning_effort: medium
+concurrency: 16

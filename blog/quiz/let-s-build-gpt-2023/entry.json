@@ -1,0 +1,15 @@
+{
+  "slug": "let-s-build-gpt-2023",
+  "title": "Let's build GPT",
+  "artist": "Andrej Karpathy",
+  "year": 2023,
+  "label": "Andrej Karpathy - Let's build GPT (2023)",
+  "frames_sampled": 6980,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "kCc8FmEb1nY",
+    "youtube_title": "Let's build GPT: from scratch, in code, spelled out.",
+    "channel": "Andrej Karpathy",
+    "via": "yt-dlp"
+  }
+}

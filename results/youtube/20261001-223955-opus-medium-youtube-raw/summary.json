@@ -1,0 +1,12 @@
+[
+  {
+    "model": "anthropic/claude-opus-5.5",
+    "n": 100,
+    "correct": 33,
+    "accuracy": 0.33,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 0,
+    "cost_usd": 1.1486
+  }
+]

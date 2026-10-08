@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894251-UKZgFzXpap38y7SrTDSm",
+  "object": "chat.completion",
+  "created": 1790894251,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele\u2019s \u201cRolling in the Deep,\u201d given the consistently dark, muted gray-brown palette.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC2A8dYgadXkVZKE1ca3PU7uJAq-W17f006foxvGZ-E_9mIDKHnr7mfrsVQlURwKl21xOViwkmEanzo_srB-CT2DY03QWLQNNwk-OJgoUOg_522CumTsEXQZG4CsG-dJYGPJHkUg7EprnoQ4FYFH_BGrLhLjWCp5_C45D6nEe0jlx_0UcP76qQNiufpRRPEHvdOhg407OuVs0F0PVBwaXwshkT0eY-b6LU6WPArl53ydooI3gk3h0Zg2VCAzrnSh-eQC5WQqzbz0YEMjeTtad3TcAOF9Vfw4EW7pEwQlUwh6iHiyT-Z0emYOaLI8dKH6qfs_tBUMlwoxOJCb2XH2DGC8Hx_5swKHGcmBgtsVC7EZFIv9cJnmN4xjyRxw8pQvMucmCGAQJ62MupgTCZjseiHe06_TCd50I-oAd1-C3SsFl7SW9RJpsyJuv7Y4MWNlmKZKI1qYzhhWdOPyeYQRaFt9v3ZufvRYBeQzMHL-PyokWG2pHNlx-4dfyLpcsgWjJHwhB8O1xHuWqKzE2lGbZwU1fOun8azI1V6Y_IMqNggllxBbF1y0FKOcLQjfI6HdjR9v-O5Oskstd7_I2y0qfOWesDCIfWTWDvu2GyyTZGeL_5L3wePXjkP2inMHi_O3TNJ9PyvZA_R5yovzZDoKVrXkx-jVnbwxo9p9VQ46v-hBBLDcD_0OCLNDJbD2wVXvSYQIZ0kflDtGyjUa_nHKAv3JA77JxILFZoE5jleXOzIqU2QK-kBkimLWtDcwaKXWm-kictLGwVW3ueXdYa9WQnqe42pO4TaLYI4wXUAm62UQPtKg8G7SFWpIjO495V79L44EC78t5LXwTNu_NFf4z-I3n18pEoStLQ6feFBoV5wfVcymObCr_BnpDUQunAgdgcNlwVZMHuBAayif_3xrkQFtHlnWYd45-nHn3PaT6_2GGR0aMeL-yGL7Qn_jEj4ZJCH5i_hLeSeOlffxSixHLnkla27yNy9ILj66Hvy-zUykGz_qn1rT69sKiTNzusV6T1jRlsOJ7I96rYCe6cr8msRl7BMzuBaB-MQpL0-IgzUdpbIQRLKhw_AUULJvT70mLlJcHAGDQGgBlAsp9U_gix9GKM5wW2IIgLTmyT-HrWgtX44myQ03SQn21uTnhr6FLBOq5bbBndv9jckpJ4UUovV4he8oJH3bq2dw3VYIu_GcgxZ29XOCwA8hPvfLDKHwjda_18kzdTAkFHHKmw7eEcUjNnVfk--S-lRldKVvAf9E8YbiKevMZkrWqowAyPbFWR51FvkAeHieUoYe696uO8SErnb9kTNkwhs6iCKq1uIsOVAFwaXTuYLSPPJoEomhTPWy0I1ED_bXe4TlQc5ABOjmYarnw4ynr7Zsti0WXFPDyWFeEhdyNw5sE9l09n3R-1eIF9EuFLiCzbe3u0326CaXuSCzb2OK_y-l2IzaMDXAxukiY3ZLPuvulFN7JtCeMLG0eBct8IZVAoDC_YZTTfXM-mRVRcOmdkjXUnlVfmA3TYR3wVkbc2GpAe4I9Qq3zSEm5DhwPsB4sriV8gZi7QQ0PtYQweC6J2ngTTG0RX6SqjBAZMBGHu2--7TW2_J5YZI6hYD7YXIBrusq3ps2R0FdF8CZ5UKAnSn6FdFQ0hYLR7WqjnnDacq7isWK8Qss9qUO7xzmy6gwnnkGCGj_KUjypYnYl8PSOdecCn_eqxkDJlJkebF2ij97HIhXVzmFAYqJkUltZgtyYE5EwRgPiCA8_vOUpoBnHbyPoVzqr6VgFpDstxf81T_qbbcaxR-VKn-O00OU2LvyMsCjy0JtYER3NSR95uzGQJ_CQ7gyZSOkdpFP4Fu1MSq7E5lFN6djPrxGcDCDzqN3oYcAu6C9OX94iCxtshG1Pk1yUetAqdXzXMShAah99sao2M9D1OtwIZk6Pygheda7BAQOi4Bkx-oNUt7cTa9q8sRt3gqwzygfLuqGxrvo927rQV3jFoZ2zgNQ1Fx4pzj_kr3xYla0MH1W7tlLJTrBy1HeBvotfNg_5UI8oxUL9QSPhj97_vnWfc_2XEqnxea3hAG6RQAvaLfGn2Bi2ml8tKyyX9r8sTX0pUBE0b_q5DxRR6zmuB1dXjGCj7jVkGvPlwrQh_O9VQ1Can1kZukjpn-lB8squkXt9xlGKN2ywKu6swHB_7Al8lfvC4DZ_sFfLmYvMcxscicjc00a3kiKWroimXtweaSg4sJWkZWW0G66EkK7uh_rcmVLKOyhmiEVWiYaZE0CsQlDjziSqDpEVb8zfE2Ura88m22rAMBAa26z_vEuQinpwrLhvYiQn9dIrW2VwOhWcczq0t8-TYC4_LkZuAdD6ZiE9TYJUmFglVe3178i7xfTacX4kcaA_YfHXR9ELZxXu0NqK3JRhJmj2m68hBRcExNS2YCSIFMvokaKMtCCumy_jgsKm9YcsrjbvTtk4PCZMMwbNaN2-tjYWHVIiM3N168emQVzA25DAVRA9zXbEOLtmu4X9VwJaDJhYXaBytlpO6cDWU-JvglZ2u1KfpElk-U0sjFQsqbG3JzQJrVMXaaUtukrBq3e49FehQmtt5YsmbPO13U17rdBICVVzg8yCp6oHEXSr0EA07sM6wC63jBk5vy6WKDhPfw9-zEFMwDSYwwzkl11HYkoHhKI5icvewAHapnZ4qfWLciKePwIZo2u6APb6V4NMOvoOdnzSsRy0uT1kB75prQ9J2dFdrgWxCT8sX7Y-mzAlNKVwFyaea81ub3Cz4W4AQHn_klMLstJV5ApMlEDDN2DeYL8soHNN6AZN7K0nRCXNl9mOs_cnQSk29jDgTH2EnD-zAdZvKdnMfGOt1KBPp73bK6G0-hU5ButuG0Y4MVmdO1QSCyvP1nW-DTMAe4-dS9hzhE73yC6sUp1dpu8R10ulgCZEeg1qk8lZD9sIYhx68oWdrU1W8AIpEqORDJS9acP4i6iuDO-tI4Y5hd-eRB3o56LRNcfO2btcc9u3e1SBX-KmZgpkQZJbv94HT_wcL7JbFqjP_ES8VHPS_-50QC5GPuwZVJTJrZ907PAVp21jE-ETkvjPnlCIpuymU3a-X1QEhqcPUPM-4nwyoNkRWz-TYwmFlHRdgHQ2j1JlHJwwo3f67fo1VtOnk1LAnt2korvFgpiHvekKYqV1USVscUiA-cRLuh_xHlu1vdihz-s3LX0zdg9Ok8R5_n.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0636883b7234d94c016abee0adb05c87d19f10c1de36c407d7",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 470,
+   "completion_tokens": 303,
+   "total_tokens": 773,
+   "cost": 0.00397,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00397,
+    "upstream_inference_prompt_cost": 0.00094,
+    "upstream_inference_completions_cost": 0.00303
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 271,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "before-i-go-to-sleep-2014",
+  "title": "Before I Go to Sleep",
+  "artist": null,
+  "year": 2014,
+  "label": "Before I Go to Sleep (2014)",
+  "hex": "#2C2C24",
+  "rgb": [
+    44,
+    44,
+    36
+  ],
+  "frames_sampled": 5528,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "O4QCHuVpEWs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954986-bPLiCg6QAQPkDjf8b5Mm",
+  "object": "chat.completion",
+  "created": 1790954986,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing image candidates**\n\nI need to guess an image that\u2019s pretty much near black monochrome with slight tints. The candidates are songs like \"BW Thunder,\" \"All Me,\" \"Someone Like You,\" \"Diamonds,\" and \"Cheap Thrills.\" I'm considering the shade variations\u2014very dark for \"Diamonds,\" and brighter for \"Thunder\" and \"All Me.\" I\u2019ve got to account for differences in contrast and lighting in these video elements. The image dimensions are also crucial, especially with that near-black look.**Exploring video visuals**\n\nI see stripes that are almost all black, with a hint of green, transitioning to dark blue at the midpoint. The \"Thunder\" music video has a black-and-white night desert vibe, heavily dark with flashes. I remember the official \"Thunder\" video starts with a cloudy sky and a bright grey building. In contrast, \"All of Me\" begins underwater with dark piano tones, while \"Someone Like You\" features a brighter river. For \"Diamonds,\" the video opens with a bright close-up, then shifts to darker backgrounds.**Analyzing video styles**\n\nThe 2016 lyric video for \"Cheap Thrills\" has a vintage, grayscale style with dark vertical fluctuations and an older TV frame surrounding it. The performance edit, which doesn\u2019t explicitly feature Sean Paul, presents a mostly flat, dark gray background with dancers in black, contributing to the low brightness. The \"Diamonds\" video opens with pale arms in low gray, transitioning to darker scenes. \"Someone Like You\" maintains a consistent gray throughout, but it\u2019s not pitch black. \"Thunder\" begins with a very dark, black shot.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing image candidates**\n\nI need to guess an image that\u2019s pretty much near black monochrome with slight tints. The candidates are songs like \"BW Thunder,\" \"All Me,\" \"Someone Like You,\" \"Diamonds,\" and \"Cheap Thrills.\" I'm considering the shade variations\u2014very dark for \"Diamonds,\" and brighter for \"Thunder\" and \"All Me.\" I\u2019ve got to account for differences in contrast and lighting in these video elements. The image dimensions are also crucial, especially with that near-black look.**Exploring video visuals**\n\nI see stripes that are almost all black, with a hint of green, transitioning to dark blue at the midpoint. The \"Thunder\" music video has a black-and-white night desert vibe, heavily dark with flashes. I remember the official \"Thunder\" video starts with a cloudy sky and a bright grey building. In contrast, \"All of Me\" begins underwater with dark piano tones, while \"Someone Like You\" features a brighter river. For \"Diamonds,\" the video opens with a bright close-up, then shifts to darker backgrounds.**Analyzing video styles**\n\nThe 2016 lyric video for \"Cheap Thrills\" has a vintage, grayscale style with dark vertical fluctuations and an older TV frame surrounding it. The performance edit, which doesn\u2019t explicitly feature Sean Paul, presents a mostly flat, dark gray background with dancers in black, contributing to the low brightness. The \"Diamonds\" video opens with pale arms in low gray, transitioning to darker scenes. \"Someone Like You\" maintains a consistent gray throughout, but it\u2019s not pitch black. \"Thunder\" begins with a very dark, black shot.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84BADKqmM-8wnmLyV-DIpgcyUasT9bGWU0wRY_foH3g8waw0VLefcKp2yseMSRvT6msZ9fCyCQLx8iteLTIT02NPZAavCdrocKUyjj0mB0sawExD6OXKpL1pMv5MkzDEB0lXS-2vj0ka9dWAbO7zeTweqINYE8R62UjtBxTP94JcYc4OjjlJpuUOSCG9XOCkRPSPqGNxO9ew_PSRFOXOZZCAVxIs4v5d-2t6orMTtwBpGKWtlx_jBPQO_f4GR4inYRMKZK-BB6OatkEbOz7B9kj_mW9pRDj28iC5dNMYEpiL_V0EtEuDKTL4yfC7xY6cjyldHSKzsa4QVBYhpNNXqaL5Bwbx_mzuwy0fgabjXbiq1mSZDo96P8n6esPIlICr-uvkttaIH2WOJHBgqoilNACdhApz6xvgrIjLJiW24QjkeRuYv5NMPJwH3QgqaCJ5Xx20pSPnU226J6QUOU_BNxKyonovoGt8rbCm4h55qUPQ34P7c-_1O0FKh7bl2YR5PEYRi9xE7TkcwSBgPWU3NaRaJh79iRM6OnicrqKxi3dQbdc17DR7iDo0Lx_YlW_Y0zdWqtMSKqk27GpVdWA2_wnRPLQhySf8DGZ-HHKaAQjVKh_kumzueDEl6zIGoy8v5lh-_-ZtRTvtZKHFbvgAdNoCL62g2FBkMLNzgZtOiux75fOctLNWE_cEuPgVm5Igqd_Jb18K5g6eohuZcIs_irax6bd8HcyDBeDl4ZYWrBCsTxhk2HwH5yVwqxL7oyS0pn4CVmccTJ2iFm2gL8aS5z8MXJWDH80mA9CsX5dkc2hpbTSFvmBCLyqQ7CYhD6R6NSjUSpEGxCuySJEnrQxvLltude3WsKQPGtoWmi-LtdQ0JW30KXKC2czPFZgdtgHlkLBCOtBgkdghuUz3J6pOJ0QdZp_d5SBvMzK1sbzFxofY8PfPRdwrNdwqG-DwgIBrAav1Cg9Fr4Sh_Zs4ZhMhBjXyyzfD-QB9uBCr0Uw4Ue8gQyGUh8sfZs0kLNLXonSog84t2WTkSiwuxe6WJ9x0kNeAEMlswUYDq6xcarVx-TKrMmA_4vP4LrGlSQDYlzWEgvlv5uxaSej91ZQwoId3zpeqtrnzRNccBTAiJZ00ecCTkjxpWxxUAB_ILiXsWstNcrPym7ImRa3WhB-GJaltgsY5x_5eSN_r6dXpBf577puSl42C5Cco_rjMBCkymcs3Kh8rzXrWVXcLV7qu4yexEDHED_KaejGFtdzHgjAh8hvqASoC_4CQctKEnDWBANo5qeazdSmmPj_nKFyzSGLCiCLfrawji_OCRG4kEZSL2Vj7DPJ2mDcwDg34fg27d0TuajspcvdDSrmwqpUoz3oQ5Tt52SRiOOurKidnKsKivMIlXVnjM8sSnzfPHWaR6nhfU4Kb_v48PMkqcakhIOkqwch5MTjZbjKk9Cif76jRaSk0NgGNZ2VkKnSeA6TcFFgIMZlrhmZJhEviYD9fDHKg9fLSaMl3VjxtcLJKaIFE4e1y5NE9q8VJ1qWwILPic50-2Al9OsfXZ-6ATeNV--rxycvaLXlhd8nzxb9iLY0JB5dW9vyc5uYZfO4bblSyqfNnenmIMmMcEgIFCAQTP9-7lsCxdyDDvLb1YOx__ReVpEs_TK7S-7OflMoOzOcxxY95A9us5YIkFFHEiwG3sxhBiR3IiSbpvWuL6QdR5HXNMIN_rvVyBB-GEtlhYovPXoHp5DtP4NOWE1leb1OEu8wAnr_OJKhHowsnAUEdl8adUOG-LtjhtCN4mRx30cPsZLPqXlHRAcz_JxSJ5AD-ix-PTJxbZQIS2RGPeD985JIUGjCd4p1IBPCiwoD_koi3-DaBbzYjPM15CP1oIHhUdG1N8QvDEWKCcS1nBDyDG3lM1qBOLP1tQJmxTobJaHHA6b2r3U0Bal3vRQEDDk2BnRh74fEf_3SjmveFhAduDyL5IRBFZmiYJo3rkCmm7qD01AlSCVz_rhotyQEC7MsAOxfgCD4FA6fGuvbQPq1JfHG5I7Ds_sclgDm_0np0Rn4HAI3gdCT5E4Jehz6uZ90ejeEpFlv3rGzgAcarCLsVOkuwgrLtTo_fvpkyOYqD1tu_ZPueu9-630ahAF2PplnDqFWPTOBHX-Nr-NJWcNomBbbIBKZvcMZgcPJ1wCGCe9jDcrXEOfO97csE4vBJX9OgVStJo0YbS7Ngp5y3qdPQc8vObmea_aKzjn9UqqKear6fyIXr6sLL1Ba8Kwy3ju7kvFbUyFb0bu7pYv2Ls-eXfx52sWpGXezmJRsiXJAmW1T-JOHDoXIdAartUbZJHg9sJOBeSFi-BcHv6tRNow4eQL7J5oohyIFRa1kH5E2dR78Y1s7t8w9PTUxr4K4-w6uYHglTrQXKINoH_QhJKaGgg5KhzrUR4E2k97pC-RVnLWD3IRJLcTTdECGlGmENaYNUw9o_D-UFjkB40e1aXEAtFtD0hErsuoaC2-VNRvV6D6tHReoz1zYmoY8dt0ueFagexXTMQ2Y0koh6X8x6fj0kCvPmcL8cBMR-224KhLJVfL8poAwmZvhAmUqr9KgKyjGSXX_RN0vk9CdJ0dXs2x3HpwFof0mRNhZ8lDPHwhJXUXCn_KX8fULJVL7UpvdieO2QdXfcaP5MFA8NbV1Vwjuvsf3zAYJVdv3ci1l94jPrGzr7tPbaWvSOfdqIJ5bhmlWQJaS5rn85FfUIoI7QnGOLx-T6eSg77pmpLmiEkN9eVQ02N05Y_0eW3RpLRj963hAlYUK1b1o6ckH0wLOf9YIWs9KtC6v7SpVY2aP16s4y52spKO-NiU_MndKKdG14q2JCdiGHypAVR9vKxmyGLTTC3IAxfFrsKUTd4Loa5s2cAsowsZZq4NLjXmz6HN68nmAIAmWCKvPVBFh0gE_-ZPMMT02kvxDpiD9UW_6qfC51Sakznl4cRsfpzZnwQXrpo3LOpyi5G9cMz1hi8zQUCkNGpllYKbiawcG7PI1coM0WgRC1ilDir6k_T39Xf7OBXLoj0Qb5nzDt0v15qyc9gko_2ubGG0EQSs1W0TPVf_tpb3dMqymGnAF5A2rNvRMen9_Ul6Rx7GpV24kS4EIR5fJjcGuMwgBWP8pILF57XhmxRotl8MuQY7IFPCz3mfrtqKvBEUIn3XG9c1aa-tM7CYtJCgBy9OnF6Zkb4aPjKFwFaf1ehsVDsAGN8rMRHrU3EoijdEQDXiDX7W5SOp4f9M2E_vZtk4kNFbf_bUoGb1JMw4-SQyoJKMmfmc1To1Tu16SqTtdZqTnfONqLJ0Le0z8hoNKSAJHN3jcexVw7wZ9wkE5GNceu-es8SX5vdqiyQOn0vdVGdyuVLz--Zrj78vGf427hHX87dhO_10_-zIhiGfFho3vv8YPyInBh1_PdkRJhZImI_nEhQRcPMtUs13-_yXFp41CiR062Qbb30BFgT0hct1HyVbpULcjb0z0nAfJtdHwpB03WbH3JXWWg8WXpmWiTZFQcbZ_sI5hICgjrdrgYxbEI7ruGPyAfblTHT-ZdONUlXxC5iDYVUNOFPAo5kv0b9dvBfvXHYKrQDbqvZv4Z85wS14Wqe08kVx-FImRMD6vcMDCnV-Zcf0S6mcc9qSle_fpYDFR7bVG9uvlHcvZEGdmnBGj6HS7am4vhQtgfm00y59Um0luZNCW-6JU9-Vd-yLYulNgC9HCLoC6WampKRN9Q1cJyPWCE6OCeengyf4pghVFBZf0LEDNLoCYU5pTFJFZGb_3bsberEYNlsXmcjFhhuFA0JrhzUAa4U71vIFWYViWBegBHDZzIyydzkSCCHtd6VeFaoo7cmoPo3CnnFfSWjqzLSUr-ztndPEOofYh76Q1DrTD4P3sO2cNQNjmBh0noYaY7_9GNzUdzoYNJuI1aPF9R9ItBsc5sH7ZozmmNUIaPg8EhA_KG1L8eH-5t3mDUHUGWRiUKoa9kTB7WUpJC3bi1Rc9FPxhN2kmHLLCcG9tUnu_Ibage6fBxFNAz2YwXR-29jsgyVUPdn0gYvpfMwIQ6MDtBYhtS0QOTlFWy5PTh69Av6SEk1dPv3rnuTTOJxqQkJiucrOBRHEyEMNIx-hP6d2aoyvVmHLjNKNcVt9uY5G8zKGhmvt8sC28M8-GECFdrlYqPkSbCVmpz80YkEjb4VL8dvlnqD6PCXNg2qRJ7BGDZxRV5lA2IQNKXmG70rvVNWiD2nn3W3OviUO7SJrH--6sijCde1QT-oKQOPTLMJPToj816jYLgO2mJ7Jzz0edGx15Ch1aM0S0hv9oCHULeVZoAY1SNHexcHZEeOubBSyGElLkr0cS6d06olFXu65z-qvKBdyeueAteZ8H-9KnD1lfWvN24jZdu63czCOUR4vwEUTll4GB7FiZZJKGxmAIH2G6q3V87PKvsNN5ZphO3oSxI7zdfI1vTUwXIR_tSfOBbNg-pm2bENVlK4QUob8NJgSP7OU0kMiAj8bxGiSOcwDwmy9lJKmY-Fb5Seg01edumWEYxatHkYnQOF2XlS-s0MilQw-7oqG7of-0xcu50nd0l1brobdSP7YxWsdF-fOI8HkRD1BjskRKs4lsmd2pxLaDUHgjKHYipMDNXkvxMmaEp1JPDNqkbuLUXeVxp9BQcPrJ21S0LWiILz06-5f78yvKL0PBm1tEPVa91GvvJoz9pNStwh1oVVXvNGN_hiWxBLOw-X7m3BgpD2sl0T-brJ--v0TSz3QisybVQ9B6n1QUmTZbwNM3-T-Dw3bnwc-SRVclcJAaARz3aOcpNXqrf5h_kMR7Pujiq1GFQjni.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ff15318836f7fbe016abfcdebc79087d18eda790ffe18bbda",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 459,
+   "completion_tokens": 517,
+   "total_tokens": 976,
+   "cost": 0.03044,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03044,
+    "upstream_inference_prompt_cost": 0.00459,
+    "upstream_inference_completions_cost": 0.02585
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 508,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955043-Id0APoHGrGVDr9jCFCU1",
+  "object": "chat.completion",
+  "created": 1790955043,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing video transitions**\n\nI\u2019m observing the video transitions, starting with underwater shots and moving to an empty industrial building. The first setting showcases vivid Indian architecture, and the color palette has a subdued tone. The music has a mix of lazy and lively elements, from tan walls to bright blue pools. It shifts from a darker sepia party to a vibrant concert scene. The timing of related visuals, like the village and festival, seems well-matched and intentional.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing video transitions**\n\nI\u2019m observing the video transitions, starting with underwater shots and moving to an empty industrial building. The first setting showcases vivid Indian architecture, and the color palette has a subdued tone. The music has a mix of lazy and lively elements, from tan walls to bright blue pools. It shifts from a darker sepia party to a vibrant concert scene. The timing of related visuals, like the village and festival, seems well-matched and intentional.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84014zzwJk1Cr0dGPdvrdRubMj47JJyAC4uQGT-WqlZtE-Ef4DTS4hNPKePrmce8v4fk78gUaxdTfavoZ_SakFV27oDsC02zkgHSOwJ2VWyOxJ7Gelo3PavOsXL9XHHQ-5zjjBaYV2JV-IUqV3atTfi3OJqWiknaCbq8BcjpufoBLV46Xfp3wh-HrQbRLwuzWIlQ-26XltwLMS5m9fbgFhiuHkHU2TAEd77fj7dOH-9ZqPFqxNIZNLt1s7tGD33CVk0k3j6ze81BdnEqPh39FHYgZRj4KQRB3RGY0-aXp3fv0GqyL6USzQ5BbJrWkgbTyejoliYp9x55BnVBuIItM0jityvvYSNkgKTpaySKrnY0uXO1GqC2LZTXXd2LPutwlfQp2vHgVc8lXBkQgIyj-UEd_ccjo4JXBI12pocM7U4c_Wn6sUp_kQMxUMpXHImD3_AQxuW4q2fF0HUnwvPYslCLFz2D9GdxBqssk53k62W9MGMqH26cDNsb4U3TSbzZcweqFnd_uMQ_FNBAMq8Kn64edjYOgp6HtPTtxXFK5dfkQJm4fHikt-GwCURvm25Utv_AS-Ur6rKus37NSoJ6F1rZDFqYkXxPthuz8SDhVpSjhgKpMb8P4sfRPHIkAlkl-RlRJUWtC57LS4tyuvENDw75pxiyuGK9dD-TkJa742-W1UF1B2GEyr5KGtr4R4hzcannwCor9jCHzhLOWzT9ksuHfAtPtETiIIq1TA9qzrbfwDMg_fA0gF89Q-wuEWmXtBRp7nJP3qkWxZhllUwKnuxCMAje3AxnZFz5_m0v2Gn7A3AzRCREZwO8mrKk2pHvfgqL5eEh44bwOGDWYZmwyr-Xq-Q9L-ROngRBtTEv0tUEdbWD-FjPlNWfD0QKuYpRQw3uO3qHRt0BhbQC0lmev5gqgGWl2pkoy8tZdgeLvfxt5QpKacw3rW7RQ3ckkBccOYRZta7TbxCZ5ohIg6n1LXYrhvHsWan1SRe4-TrU7Lx2gNpLjyxTBMuQJy6x2g8JQQKE1e3wzmQ6mBz_nLYrrwSxt-kr2OunytZIgWCYA5noanqQvLvse9yCWqZDASbU4yYMPBNrup7sSfSk-BRZ0Ngi-DmpBioBrTnkzP0svpYWglRencpdw_tcH0YKQ62PimIYVaHuWgT6cBpFrvLGBnA_h7t-v-mtzr2tvJrgzAQKGwiYYxnmghKP8cXtjYsZDBfmr84_t_kiPp_fOMahb-cAdcEB-zyB6MbstYdJRBa77x0WafxXz2N3TLbvaWE-TVNAs7RNMXA6qdfR-XGSk616E0LvXcjULUMV9ELcoizQP2TCAUXBk1KPP9aAGzCf07D4RhR-GGbHbiW1nzqmBXTLkybFtt2fzo9RelZaLnzGWX_M2Nq1Rsyo0PlK2mutBj0CQzasq2AlwbvKLIqUdDxN7C8jJ0vrVFib4osOz6UKU0pOmh0Ok30kL0bed6b4qarbtOQ2Ml-RnKoE679e3k8g-ycN6xZZI03LCh6ffxODvt2hZKwDOFiPjfQqHTG5Hixc6CL47rO7MOIK6OaYjwok5emlCSLBjkhc2XTrSibXf1sv0OZPA5gaptAPM3Viq52T6Y-vZJ_debnJEyLXVG6Brf8oxuPZDxfEr2jhY2PXMg9uOBQsLHVu2K7dJwOwt8JUIGWuIVm-FEqT8Q_Dfgb9HlnKNKsjv8SYkd-m2ZmkaH5ovidtSpQmkjU7PJt8KsXhrCd3Tw2Xlty1xQSCarqDd3s4T62GIqsqZtYOnXKKz7ZyQ-KfFe2WU6TB2EhFA0iKls05s9IKepEmbokm2BUSNBSBmpK2VqtXYJTlkdA2W2BDdaQGS1E6o4ecYgy0lqjBulto27kNY4hYMsM769meEeVgGri601Ur1fNjxpWiWib0SgGcBPBDRtvgAIPsxlBSFu7oCoWzwQrx_4sqCaMRngAKpegnuM3GR4lXmirr6_V34FWK3LzEgWiMT5I0Q3yuyM5YIaro6KMEs2BC4o68PZjLK0qT7gFJfbAwcfbaE465yoqShbk1WhK_C9-fcpLnQf7c8LHORL1LyUy5QRTML2Qd-vJGrwmjCpUvrDxTACE_xbZqdNiyyeW5gvB052yLDSMPYvi6r2lDFUrXRf7Ofh9rZMyIZJz3GcNThJsXR2umFhZa2VmvWn2urd7_010Vsu1aDHp8wm-KkXPiAbI7FybEiB7oFZDcyHE7CILsUAKLP0iWF-d7R0TN76Yi2FX-9VwKIjB-22yNhnYVXAsjv2xTBzvoTeL1UU8hV4w8-R-7lkyDYSl_mnZNyaM_gfoS6lx-D2tGCu5LQR-T6nyDPGnzjqNe9e9Xn3c--qhJmhftd5BvX4E9x3SEq6ttetr_dtpL9YClEpqhM_ZOgYWHp5LzUMkQf06plZBxFkYnBMjgNhhdsNfmd_WWOOAHSij70spq2vvhQGXsa9zNoEJ5afalI96C24W16MM_KBlno_0wwTrt5wHY191-IGOQ__zcujc4aQD3tpFDkub0g4aAUihfHy8ZpluK0qYeM_-FWkNecjvcuQjV8Lv3BQPEVXZCBpN5-y3TuI8CAV98axK5Co13xaRlxZE3YFyRDTRshHZ-pTxwd1-jh-xjj2Dy4vVvap3Fp5D5Eeevutu8fUTD6HdTv0wBMMslTrIw9hC_BkDHSOYcuY8r5H5uOZKDW0GvsXSolNsD1ZrOUcUFJj6DlwoyZSBiYKDdhDeQXofcfh9xOiKh0TdNtt8ANHfm9lF7AyYamW_hbFJwQBGG3UOVmJA8frZtC_AuVPsv7acTS9kp3e6zkYQ4cZwrOmje6oMeHdKG-UmOy7YxZgYNPUIgEEU-2sEOn-4wBoLz3VhNQo7EvJX6TPqeT6eF7ZtxuslVy3BJyUtAFzzq6DjYiBiAuVQHQbLHFi0DpCLRMYntwgn7rKKgZI3qWcY4IrnXE4VvOsDbpVXumLjLSDzDmfX5680kSBym1ci6MjJYQ6NnFlc-ipwQC_Vf1Rkm5us5RUoLXZPOS0jDuRLQB1D0cePUYIpdSCy9a1tCP-K3WYZRfVSvKUYjF4Q-Af5WEW_XHbN_m3CZfSfG3faqW8pMgDle8K-KG16GVqAGxVy8pi8gxtx_zUbnQc5sgQYT4pqKJ3gTNTllE_E5pQObm3LXPQf72GyX4dNUlV6xDmruFQh_ehS3YVjrCMcOjMaHYdccfBTLGz360zUAgGr8GRZzbZ_8nCxHxY0Hax8T60j3rDCajswkApRYKV-UNl_fnpECS20OUwE7jZ46NC_VN1oP13Vt3vdA_rzhmDMTpOGgpyD57ep3aLY2vFR4ZbN1lpHU-Dz3ARFl2abw0jSgOdjatZCJRs_8Qf9xYu7jG5a7U2WOZxSKRqAOTx8eCKfSv_ZrMroAAmLiayYbUYswTHMaTi1ll0xOoPOeux1ofByozQ3y4pDPCT2HU3HqcU8xvhnBBHf-uhSTX2yUc0TybGaHKlb6B94dAo8-x2idpHmdJJW7DK5cQ_OjjwSqAoGyJPr3egHiEmUEfMF-9Xsao4iNvDVGQ9qJwWuZm3k4XpYCvhzf50=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0372dd977d1efbad016abfce246b9c87d18a681106a245a0ad",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 482,
+   "completion_tokens": 382,
+   "total_tokens": 864,
+   "cost": 0.02392,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02392,
+    "upstream_inference_prompt_cost": 0.00482,
+    "upstream_inference_completions_cost": 0.0191
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 373,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

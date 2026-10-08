@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907346-dq7w6DqSbVH0jIfe0Ksg",
+  "object": "chat.completion",
+  "created": 1790907346,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the color pattern, not a confident identification. The barcode is mostly very dark, with muted grays, dark teal and some brown, plus a few pale bluish-gray stripes near the start. That fits Apollo 18, a found-footage film with lots of dim gray and black lunar footage and more colorful clips early on. It rules out Night of the Living Dead, which is black and white and would show no color at all. It also doesn't suit The Messengers or Stonehearst Asylum, which have warmer, more saturated tones.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes against known films \u2014 ruling out black-and-white options like Night of the Living Dead since the barcode shows actual color, and weighing dark bluish/grayish tones against candidates like Apollo 18, Boogeyman, and Silent House versus warmer brown and yellow tones fitting Stonehearst or The Messengers.\n\nSettling on Apollo 18, since the predominantly gray and black palette with occasional teal, brown, and an early bluish stripe matches its found-footage look, likely from launch or earth footage.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes against known films \u2014 ruling out black-and-white options like Night of the Living Dead since the barcode shows actual color, and weighing dark bluish/grayish tones against candidates like Apollo 18, Boogeyman, and Silent House versus warmer brown and yellow tones fitting Stonehearst or The Messengers.\n\nSettling on Apollo 18, since the predominantly gray and black palette with occasional teal, brown, and an early bluish stripe matches its found-footage look, likely from launch or earth footage.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS9AkKEAgSGAI4AUIIdGhpbmtpbmcSDJgNGL/SUJz3hiyI9BoMG5NYT7uAeb3WuwzIIjBQc78qF22uIW9ergaiCRDCFBoM+w5a+DQzQtcaqCksQNj9oBIaNHCg8S3iOmdzhiIqkQmjFvieP8Gw/Q7ez+1oJUCSzOY9UOnqUUCUPdB0zpQKvUKHmFmNVc6DFDd/F0wGvSi2SbxDyX95/3AUWSp719r3bKLuwZ6vKdfrKM8rvbm6RKelXNWsvBQo3AhyxBJl1fnFilIMcoI7U6wUi47b4PutlXheRsv5hn+q0HdR3s7W3+uzD5PrYNLmDY138CJHTE8FgC6AhxyN6AdAoEVDNPyMGxpe+uZVKtsEZV9rrKCivHIO9PIx/U/s5mzeLxlEcOPHCQ+W4ZXeDR4KiCwpPRX5gRk/setpse5Gi5gtiUhM1JyndEitrprT1kVGs1Z0g+Fc3r2LBM/zAwJiKKkTWrMr+zzw0/u0U/iCrs/2yfHjW0BeL8oJ64Rg9Q+Y2MHhIFvv2MlhSoa3D2PiBrFce1nyaoA1vxsVcFrezBZTL/cnQ+SE9wZcRqDjbpjp4IBjc6DmvVInWPXP4x0sV1y5s4wKYE6bYEyK3vI6kwFnK9OkFgUTv/yqopfQ0v4njhxTh1+GMAAN/c7LCuCJk+gdochqTg7V+Ksnkl2vAsdAoDcFGxlIWIPOKN7kp+NgkW/DIiyTKUPdMyrKZzYAEc0SDcOPrIVsP2YeuJZgOln+ulJn2To2GxWG9G5RY+kvjWWaoEtt4nm3PTEIoNaEj5XhLYAZVREBmX00S0GZzacf30UlRKorgtcKjn9mJ/bgLFx99hYRy1s5Og/G+0jbjpQOC57vYTuWxZNU/hdh0Ic7KFZSQrq6ePsQ/WrAioFfMsiGhjW7hnbLLmSEgtY3M38cm+HPrMRQL/EON/E41gJR7g6maztu23sz7d6UZKn2WLxqCLo0q4LvsG17GGZai10C5arLYIMejeTj4W2Yr/wOz4M/WEqBrgjB8g+ucNBNDTMTfPl5GeMpdeYLzdalm/3MFyTtYK1DxlwoaBIMoickGepG1/RZMsleXCTTS4nD/Up0DKjSHysqbC0hke9IIfWJucZBLzxI3vKZa+4+qgaxF5QF3tVhdbCSejOHxe8HU7J/slZsZ7ACI/gtV55rG1+/gGgewEBNGv7RVOVYXPog55hHaAgT4s7Lkr8cnqfn4eXLX8B5OuxDtJqtsY1FueK9JwGT8sPvsHwyjM1Zg/sTpXSaPXUqV8dnizIyKctufoBu7aqtapC37CZCl/3MlFAKXS7G4v+Vf0ezmyMGso44sqUSkkcy86Git4La3pPTHPUEj6ltVDk7+q6dAIPMu1ls4ntroVjJ1LibVD0cZzsDUkR9a631DdITGwgkFAOs74xWWMnENp1hsnmA4Zff6YQr6y4brJT5USrxDWJHjENldFL0MM6hn9XxPBbKqZl7TB3ZBk4B8B5X5IIBXNBNGtKetXekFoIcVpaE3G+ujG+Cs//OXB5fwP+8yApV7sQmJhar9Fq1YxtS6udRpATTE1yQsrv3FO7phg2HTKOiY9/T/Cf8R4xohgNETb+RO14J3DdQacv+8BqHosAaySs6b1t600zQsMxqK4uhKRgqJxPrgs36CXtdTjjtpeB9xihgdhx2cDSwsW6jZIktQhHPJkNq1zJ9TBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 528,
+   "completion_tokens": 441,
+   "total_tokens": 969,
+   "cost": 0.010932,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010932,
+    "upstream_inference_prompt_cost": 0.002112,
+    "upstream_inference_completions_cost": 0.00882
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 261,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

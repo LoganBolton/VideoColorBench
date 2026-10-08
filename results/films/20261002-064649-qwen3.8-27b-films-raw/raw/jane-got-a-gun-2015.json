@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790923854-fmV4XZFHTWSLXJnHqE1C",
+  "object": "chat.completion",
+  "created": 1790923854,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Darkbloom",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nThe color profile shows earthy browns and tans (sunlit desert/outdoor daytime) dominating the first two\u2011thirds, then shifting into long stretches of near\u2011black with a blue tint (night scenes). That day\u2011to\u2011night, earth\u2011toned palette matches a Western setting rather than a bright Disney film, a green forest, or a gray indoor drama.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a movie from a \"time-lapse\" color-strip image. Let me look carefully at the image.\n\nThe image is a wide, short strip of vertical bands, each representing a few seconds of the film, averaged to its color. The palette is predominantly dark: blacks, dark browns, tans, with some lighter tan/brown bands and a few very dark blue-black bands near the right side.\n\nLet me look at the distribution. Left side: mix of dark and tan/brown vertical stripes. Middle: brownish/tan stripes. Right portion: large blocks of near-black with a dark blue tint.\n\nSo the film has a lot of earthy brown/tan tones for the first two-thirds, then transitions to very dark, blue-black scenes (night scenes, interiors, or night exteriors).\n\nLet me think about the candidate movies:\n\nA. Beauty and the Beast (2014) - Disney, colorful, would have bright greens, reds, etc. Not matching the dark brown/black palette.\nB. The Gunman (2015) - action thriller, could be dark.\nC. Jane Got a Gun (2015) - western-ish, could have brown/tan desert tones.\nD. Detachment (2011) - mostly indoor, dark.\nE. The Contract (2006) - dark.\nF. Villains (2019) - dark.\nG. Georgia Rule (2007) - drama.\nH. The Warrior's Way (2010) - western/sci-fi.\nI. Security (2017) - dark.\nJ. Killing Season (2013) - action.\n\nThe palette: browns and tans with some dark. The transition to dark blue-black at the end.\n\nHmm. This is hard. Let me think about which movie has a color progression from earthy browns/tans (daytime outdoor desert/western scenes) to dark night scenes.\n\nJane Got a Gun is set in the American West, would have a lot of tan/brown desert and daytime scenes, then maybe night. The palette of browns and tans fits a western.\n\nThe Gunman is set in various places, dark action.\n\nThe image overall is quite dark with brown/tan. Let's look at the structure: first ~60% is alternating brown/tan/black, then a big dark blue-black block, then a tan band, then black.\n\nActually the dark blue-black suggests night scenes or a dark interior. A western at night would be dark blue/black.\n\nLet me consider \"Killing Season\" - set in a forest, would have greens and browns, maybe.\n\nHmm, the tans are quite prominent - light brown, beige. That suggests sunlit sand/desert/wood.\n\nLet me think about typical color signatures. I recall that these \"movie color strip\" puzzles often come from a known dataset. The image style (vertical bars of average color per few seconds) is like the \"Movie Stripes\" or \"film color\" visualizations.\n\nI need to make a best guess. Let's look at the overall darkness: the image is mostly dark, with the left having some mid-tone browns. The right is very dark.\n\nJane Got a Gun (2015) - western with Natalie Portman. Lots of desert = tan/brown day, and night scenes = dark. Plausible.\n\nThe Gunman (2015) - Seann Penn, has jungle and city and desert. Could be.\n\nLet me think about the proportion of light tan. The left third has a fair number of light tan bars. That's a lot of bright daylight. A western with daytime desert chases would have that.\n\nI'll guess C, Jane Got a Gun.\n\nBut wait, let's look more carefully. The leftmost part has dark and tan mixed, like a vertical pattern of bars with both dark and light. That could be a scene with high contrast (e.g., a person in light clothes on dark background, or alternating). Hard.\n\nLet me consider the dark blue segment near right: a stretch of very dark with blue tint. Could be night.\n\nI think the safest is to think about which of these is a western/desert with day-to-night. Jane Got a Gun.\n\nAlternatively The Gunman is more global and darker.\n\nLet me look at the brightness profile: left = medium-dark with tan peaks; middle = medium tan/brown; right = very dark. So the film gets darker over time, ending in night. Many films do.\n\nGiven the strong brown/tan (earth) palette, western Jane Got a Gun fits well. The Gunman also has desert (the beginning is in a jungle? Actually The Gunman starts in a swampy/war zone, then desert, then city). Hmm.\n\nI'll commit to C.\n\nActually, let's reconsider by thinking of \"Killing Season\" (Jason Statham) - set in a mountain/forest with snow? Would have whites/greens. Not matching.\n\n\"Georgia Rule\" - a family drama in the mountains, would have greens and daylight, not so dark.\n\n\"Detachment\" - mostly a school, indoor, grayish. Not tan.\n\n\"Security\" (2017) -? unknown.\n\n\"Villains\" (2019) - super-villain comedy, varied.\n\n\"The Contract\" (2006) - dark thriller, mostly night, would be dark throughout, not tan-heavy.\n\nSo the tan-heavy left suggests daytime outdoor earthy = western = Jane Got a Gun.\n\nI'll answer C.\n\nLet me double check the right side dark blue: a western's night scenes (cabin, night ride) would be dark blue/black. Good.\n\nThus Answer: C.\n\nI'll provide reasoning concisely.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a movie from a \"time-lapse\" color-strip image. Let me look carefully at the image.\n\nThe image is a wide, short strip of vertical bands, each representing a few seconds of the film, averaged to its color. The palette is predominantly dark: blacks, dark browns, tans, with some lighter tan/brown bands and a few very dark blue-black bands near the right side.\n\nLet me look at the distribution. Left side: mix of dark and tan/brown vertical stripes. Middle: brownish/tan stripes. Right portion: large blocks of near-black with a dark blue tint.\n\nSo the film has a lot of earthy brown/tan tones for the first two-thirds, then transitions to very dark, blue-black scenes (night scenes, interiors, or night exteriors).\n\nLet me think about the candidate movies:\n\nA. Beauty and the Beast (2014) - Disney, colorful, would have bright greens, reds, etc. Not matching the dark brown/black palette.\nB. The Gunman (2015) - action thriller, could be dark.\nC. Jane Got a Gun (2015) - western-ish, could have brown/tan desert tones.\nD. Detachment (2011) - mostly indoor, dark.\nE. The Contract (2006) - dark.\nF. Villains (2019) - dark.\nG. Georgia Rule (2007) - drama.\nH. The Warrior's Way (2010) - western/sci-fi.\nI. Security (2017) - dark.\nJ. Killing Season (2013) - action.\n\nThe palette: browns and tans with some dark. The transition to dark blue-black at the end.\n\nHmm. This is hard. Let me think about which movie has a color progression from earthy browns/tans (daytime outdoor desert/western scenes) to dark night scenes.\n\nJane Got a Gun is set in the American West, would have a lot of tan/brown desert and daytime scenes, then maybe night. The palette of browns and tans fits a western.\n\nThe Gunman is set in various places, dark action.\n\nThe image overall is quite dark with brown/tan. Let's look at the structure: first ~60% is alternating brown/tan/black, then a big dark blue-black block, then a tan band, then black.\n\nActually the dark blue-black suggests night scenes or a dark interior. A western at night would be dark blue/black.\n\nLet me consider \"Killing Season\" - set in a forest, would have greens and browns, maybe.\n\nHmm, the tans are quite prominent - light brown, beige. That suggests sunlit sand/desert/wood.\n\nLet me think about typical color signatures. I recall that these \"movie color strip\" puzzles often come from a known dataset. The image style (vertical bars of average color per few seconds) is like the \"Movie Stripes\" or \"film color\" visualizations.\n\nI need to make a best guess. Let's look at the overall darkness: the image is mostly dark, with the left having some mid-tone browns. The right is very dark.\n\nJane Got a Gun (2015) - western with Natalie Portman. Lots of desert = tan/brown day, and night scenes = dark. Plausible.\n\nThe Gunman (2015) - Seann Penn, has jungle and city and desert. Could be.\n\nLet me think about the proportion of light tan. The left third has a fair number of light tan bars. That's a lot of bright daylight. A western with daytime desert chases would have that.\n\nI'll guess C, Jane Got a Gun.\n\nBut wait, let's look more carefully. The leftmost part has dark and tan mixed, like a vertical pattern of bars with both dark and light. That could be a scene with high contrast (e.g., a person in light clothes on dark background, or alternating). Hard.\n\nLet me consider the dark blue segment near right: a stretch of very dark with blue tint. Could be night.\n\nI think the safest is to think about which of these is a western/desert with day-to-night. Jane Got a Gun.\n\nAlternatively The Gunman is more global and darker.\n\nLet me look at the brightness profile: left = medium-dark with tan peaks; middle = medium tan/brown; right = very dark. So the film gets darker over time, ending in night. Many films do.\n\nGiven the strong brown/tan (earth) palette, western Jane Got a Gun fits well. The Gunman also has desert (the beginning is in a jungle? Actually The Gunman starts in a swampy/war zone, then desert, then city). Hmm.\n\nI'll commit to C.\n\nActually, let's reconsider by thinking of \"Killing Season\" (Jason Statham) - set in a mountain/forest with snow? Would have whites/greens. Not matching.\n\n\"Georgia Rule\" - a family drama in the mountains, would have greens and daylight, not so dark.\n\n\"Detachment\" - mostly a school, indoor, grayish. Not tan.\n\n\"Security\" (2017) -? unknown.\n\n\"Villains\" (2019) - super-villain comedy, varied.\n\n\"The Contract\" (2006) - dark thriller, mostly night, would be dark throughout, not tan-heavy.\n\nSo the tan-heavy left suggests daytime outdoor earthy = western = Jane Got a Gun.\n\nI'll answer C.\n\nLet me double check the right side dark blue: a western's night scenes (cabin, night ride) would be dark blue/black. Good.\n\nThus Answer: C.\n\nI'll provide reasoning concisely.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 380,
+   "completion_tokens": 1335,
+   "total_tokens": 1715,
+   "cost": 0.002956,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002956,
+    "upstream_inference_prompt_cost": 1.9e-05,
+    "upstream_inference_completions_cost": 0.002937
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1251,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

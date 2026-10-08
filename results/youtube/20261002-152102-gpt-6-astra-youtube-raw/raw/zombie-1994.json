@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-9bGATifTSxq4J7ZhgQ4l",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing visuals in November Rain**\n\nI\u2019m thinking about the November Rain video and its visual style. It starts with Axl sleeping in dark blue and shifts to gray for the concert. The wedding scenes are warm brown and gray. From 1:20 to 2:40, it\u2019s a mix of 15%-30% gray. The guitar solo at the church might benefit from a lighter grayscale. As it progresses, the wedding reception is dark brown, followed by thunder and rain in gray. The cemetery is likely in black and white.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visuals in November Rain**\n\nI\u2019m thinking about the November Rain video and its visual style. It starts with Axl sleeping in dark blue and shifts to gray for the concert. The wedding scenes are warm brown and gray. From 1:20 to 2:40, it\u2019s a mix of 15%-30% gray. The guitar solo at the church might benefit from a lighter grayscale. As it progresses, the wedding reception is dark brown, followed by thunder and rain in gray. The cemetery is likely in black and white.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vy4jbQf-1b8ELGLhUloYSabGkhHEYQPd_GXA3fG5nheP3eJfVgeHgtoAIIEbwvBUxzyT6nO7zZdPOy0IywPmh0f5mr6XyGU0VBq_EMWRTPi5n9xkIgEOwUr2ntGVi_8oNKcwgtVTlgV91qdu1HZtG2qETRqkvXjlY9QTuF45yw8fCGSaPYXun2oEV-UNP5FvrDnbwyeYeKQnTQRBBjVTp6C94-ETe98-OUsu60ZwCPOT0exI4iASD9L5dLznpP0z4GIsKzKR3IT4MdBZTMup86RND1YwQUmnsCb2uLy7GdnR2hcytNHj0PR0IWA0EvFBXmVCthtWNmq4f31tmjBVk4SpFXdzcSNXGmpY1lmHSdvEkOgZuSVqR3JDF_vkMOlNBenl76eiQB8oWSO3wobQ5cHcrKjBLffm-nQXHuBQ5Rymovtahj25b-O3zzGeG1nFDGnZFwQYdir30AEKcvXTgcq3zFsdhbpTqGNgz1asDLCaDvBq8Mw80s1G-Ra5c3aa1r6VUSo3iRVj6arv12Q1xXibC7Pti9wQVqeohK7op4NZBKE4MQIxkCMSICfGk8wwCj3t1VI_oE3nlFCja4GGE_qHiwTnnT2AfYb8LUtF8v8OzEOyLMD8uuClMMLdGXYA2Lgmwdds09dPB9TvdJ_1KPMHPor46aEr-gN2tgKyI4VeMJvQq7VeBsndms-2XPk51i1a5ZSmkLS_xglRNyw-eNPLzoHnv0mKyOqpDBtRgVnWBh7RCQLq6DOWXDa8mm10T6iU3mJzcL1xmluseRtaXA1ng8NkYMCQCORmj1qWpRwdMbeqQfo9jc1WlHLuQmQ9P1wU_wH3sj1V_y8gTOVdTmWQK39EQkZTfJx1je-sgx03KQZs7Hr_5Mj9CBzg1yxfhUvmXMMJtCoOILBxUc-nFrTqiO5dKd0rVjpxQG3as10WRSZgk6UIyKnSRAdoKmU3XxN1KuVTOG99oIX34KS_5i8jt5kYJRm_GZ2_n-2auOK1H1zZeJMtM1ifwPbgrZMveSmhnralp3xJEUsJwPhE1sVhOOpgK66-CX9xK8KzyGXlZGeZcUH1oZhTggMSluhE7IVbQGzhqXnzhbR1ZgA5PtkJPGZyquD8SKtcyY6gLdhMxwxrX7djVKk6dCNeeAyKp6HMUm0Adzq4aOscIoUQkzyQBYTbq9CbRlV9TmZhfSignnLyXEF3ClzLftxPP0v9xI3jCeoeegk5qhiEDEs3_5SHSo0mBM0bZed2tFLs50ytDwUXugSVgS8z3fUxp5vhkTMoSD39tplA7loWVrpxKRj9qij-Yb9QMQy3M1vsP2WoyBTWon6ylYKSHrUjwnX3BChW0P9v9HSbrzO5w6E7uAXtpwM92CuiNV7mpUz58bE8bhZtytwYI1lkRuDf1eRnoOHdxU8X8YaaksVps1tp5ztbQ8KOmJgQG96xQ669ftbJf7fPuGUZNSA5uPzw3a2NJa_WEtdubqMr2TgA1279zMkqGq6ZXBAHVgGSeK-Kkc8HOzonWRLHARKYZ7cR6vTxRE-RX2jLnHcX-AvWlmYRXAMs6aEGupssufMVkHwWqoQXTexOQNQOoQWt7uOb5HHRa_Xa3vwARwVx2JxRyucdWDIPYiQvIHHhEaBG2LdjJUw6pQsRbJ2Z8l_kdNcjXemqyNGPvlLTrFLj1-87t8sKWElXskVQmd84-w0Vj_eAqYyJ2HmPGweZaHO32gRJ9_W2WWqIgIH2x2RG9mWdCdbAJEZEiiymwNwSBCp_RYAzVea4U2gemwBXsy6IGzjQ4qKUcUPptheUBdr8W8PszS_np3NrxM3U1NMBhz-x6YZhm0SIKNMsL0IWixgnHQZZlI19Isx5FXakXz1ZGJuaA0dnYjBNWEnCkCL-AVPS3czs42IQU9-qwJ07U3O1wuby8_yx30bZ7Kz2A7jnUEvHm-7v_Vgi4er6N4z99OZEFfjzerKRQnybMdGU2d6VmfEuc04YBHoe4PMdfUDF1iQWSZWax8RNrHKXff4DZe_-Ns2mn-kl0r-XCZr9fvhwm1eLthsM5kacJ2TTEfsy1G0WWWxteo343Il5SChIzC7eh5PrKABjUMfTuVsV9g__utkvhCgDG0X1SWiKPnVrrgtGdsRClNwc-A5v3gR5G5wJtl6MMe1Mm3_olq_CCX3qcATk88kZF3FjjNzfxAh9pXPowftHbKZvbINHqebKqFVPMFQD6IU6d1BYjkj4wTLknHo5wWGt9hvCEyJ0MH5WGLaxioaEDbY3YDBHZ9DNHLzvh2EZ1ENHLrDImLJL6VNUYq59tsxDXT6x22kz0Flo1gVvZw3pNf0nTKGlSjiuHVKtpcGHL5brnH6_kWj1DmBWfAbIjef473WLg6AtNr7SKj9fAVlQzXdat-w1gKX0pEW052O0w368UaKhQuC4m9zOwqHmSzgtEELQxKvcP_gM_d0i7r-KlymLHBRLu4dvL24I4LIAPC8TMJ7XPmTSZ86oTl0VF8UubmHmjtQ2smqMu7ntzwo70zQAuOzfvECKeRu5AgRmGYpfpawhw1hLwadKfHBVzq41K_g1sktc4jX4oDKwJUSm_CLi8QgtPw4F_eVAXHj71l88ejc3_mhs6NqF1ngGoN-HkDVepKSHUbSSttlCTUeIXLE5OBgyJYajbJKsfveOdA5SavZ9mL2Xfvj-1idutk0EHvWTX3kEGsozGfi7BuK7Ht3dOeBqtiOyu4jCMKtTmnAyXHlQ6mueAeo4IC_7cWq4QcP6xOAx6VhuHhTQeQY2aeerIOT7pKWMp7zNHJZx4BSsjGP6YcFQwef7R_wWUkgaTb9hmATHHjuQlb6bMcUKhaf1CgdFTIhPAPh5idoEUtEepY2Km3G1Me02ZSzHA5a_TxWzaEaQtpL4hbLnwwEW8UW4yaPPUQ8l-cplkLbyluFOPRLXot8UZ8q2PQpEziAsJUqEYA06RSIi64U4vhSJQh1IMSFzPCAOJz9060r2wbSa_eMXvRUZ31QlyiVUGB-hFqYxLj6az8GmhvCgdkwaEx8SsBF_5Cot6mSJtJekDLoOCCQV_Fd-81v8j-Ghv-k2D6GgpPlCKfl2wbc1oMPWF7JQ1NB8KBtQ5YAl4oxVpt1jSy_VI4lcyQpmIu4mdAWnDvfbTZBUFy53djUfR_wpcPYZfL6cSs0aA5X5t7Gd24odbLSXhn7Uc5p_nQFeBkiGJhHWZ2xeCIPl_pQqokHQyKVQtiCdKgcYcfq733-6eaJ7rsFypb1Gk5z_qIJEk5K5qTG1VymgmNWKinmp6xlkJucLprg9qwaKTymmgUQu9bIQ_i0TR1l29axGBc4H1UgfUsX8iTWz_xf_unZ8Vcez8svNpBLVVNs7KJyHdSOz7O1NmLHEZxFg-0aLcy-oyKkK647kVQzW176x-RnsmvV5Hxuw0Nt8PvY3fyA0eAjpGEa6x6I5tJ-eugccZKLrNmfLwvJ5bXJiwSjWiuXTbSem9dgo4ijLg39EgH6M4AoJnSzTs1owy8GXc4ZaQPfnWRuMWmswx8imUzmR3NHSmGbFaQcZIyWHkix9FdVvN1L8_V8ITM6GMt-GauBv-N-NImnKJl-rqJc-N77Kjw2pPlDpJVNnChyl6hgFU_uiLXALcnOOR9YtpgcZcLzAUzDbFz-ezntStoYbeVPmJMHC6zODlT_3agFkOzSY6dWj8EaJ_VOGHtqHzMExHrAAJkC3ubxi4FgNlr3Cvz3Su7wbdszoSfvNf2HFsYM5vsl7U5KzWoaGG22YTpE3L1uQLz64vRm6jyHlgSrCHEsuTIo-zPL4Sk_ifKPf_p7vQySJRIE8oSrmEaLMPw6FPXVE9ZVUKZU3qhPz4xu5gTttIcmjVM-4UgNVC_iOhSDTESoXd3_-4jn8AmStcBZSGrQO9ZKUJnpjOT6Q-rYN4Pu7eqA6VP-o1yZXCr7TVPlQ_mudYUDP06MkwLsR3ITEuCPyDo6WUvpxUBSIJSvtAio2bKnPhjrP_yMbAen-AcyTgCHZNpLmt2lwNmxJhS90QpPaR28dWcv19PNsDiN4IlyC5z0Sz2P_FflN4ziVkhblcHARynJRKqM9A=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fcf7a204917ffee016abfcbdfe97887d18b69152a7cb02b20",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 470,
+   "completion_tokens": 514,
+   "total_tokens": 984,
+   "cost": 0.0304,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0304,
+    "upstream_inference_prompt_cost": 0.0047,
+    "upstream_inference_completions_cost": 0.0257
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 505,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

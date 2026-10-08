@@ -1,0 +1,21 @@
+{
+  "slug": "black-christmas-1974",
+  "title": "Black Christmas",
+  "artist": null,
+  "year": 1974,
+  "label": "Black Christmas (1974)",
+  "hex": "#261D18",
+  "rgb": [
+    38,
+    29,
+    24
+  ],
+  "frames_sampled": 5870,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Cl3kx0eHYvs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

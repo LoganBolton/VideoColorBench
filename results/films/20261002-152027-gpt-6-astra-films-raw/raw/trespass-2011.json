@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954810-1VxFrvD9wHo5EY9KnCHV",
+  "object": "chat.completion",
+  "created": 1790954810,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: G",
+     "refusal": null,
+     "reasoning": "**Assessing visual themes**\n\nI\u2019m trying to decipher an image with a barcode that has an extremely dark warm blue and occasional white, possibly suggesting a thriller atmosphere. I\u2019m considering various options for dark thrillers, noting some films like \"Before the Devil Knows You\u2019re Dead\" feature bright office lighting while others, like \"Rampart,\" have sunnier tones. I\u2019m analyzing color distributions throughout the image, noting a trend from dark browns to cool dark hues and some gold at the end. I think \"Trespass\" might connect with the themes I\u2019m piecing together.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing visual themes**\n\nI\u2019m trying to decipher an image with a barcode that has an extremely dark warm blue and occasional white, possibly suggesting a thriller atmosphere. I\u2019m considering various options for dark thrillers, noting some films like \"Before the Devil Knows You\u2019re Dead\" feature bright office lighting while others, like \"Rampart,\" have sunnier tones. I\u2019m analyzing color distributions throughout the image, noting a trend from dark browns to cool dark hues and some gold at the end. I think \"Trespass\" might connect with the themes I\u2019m piecing together.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv81FUuz03fz_TL5mbPJtvmq0T51NYJt264kiNeBwFjd3kxh2hREGJTg1Ozj4A_qf1CQCzWBjmEA4KLvfJJ1qX7rcRxW1LZwLW-xuPQiudz8mP5MyHVsAvspGjY78DjVaW4HFrBCS1xbC1JsDFCXiQxIpEdhaA0WeFwPi3okzyu46sjY9REETPm7MCFHaMIHtAahTAXnt4FeERfx4oZxYyiZVM_KGGMfKgebA_QQyn0-XqX6UQWMAllC9ZHg7qNoiwqxorkEedmWm-PTqfEOhkYuT-p1umx2tsm7UAaof0EQSK7HHCSYlleISiPyR7QGzxuhZP6RuxKcHLidPUJlxY3OiPq3w-c2fnPZ-ACpJiKmWbebWZQNJnx7ADf_vm07Qfm1A8CtPkitKKKt1TtJAYKXthuO32tZJgundOEmZF8X2UMk7mUO5-fQEjL1aNTAzznKBieI8cUpGkD39UZ47cH8Ylkk7Pid9ANTJZqL3_0ACsmU0pHWoopOczR1UuIiK_rLDVlHeV2l9j_HUzdwET85c4djFuDpukoacsqy6CE9IQAetUlOp7gSLcJ5QR7qE4SHLewop6bJX5mZCIrfEPH0HWkaQ1ob6Pui4lXp_-U48Xs5SD3-IA6b_tUAoQTm9sXqnhMSsSIsMCVnVbNZyL_ansEJahuKkJlCey_ClQQptEcjKL2rIroe_XJVHC0W1ZFDCgv6wCpm6FuE7-FBsox4cjkzpNHmEOpmvlkBSlRYSUUZmGzDILTnZuxInuMDpCyfJD_RKCi7c3V4Y7d0zSu5h7J1om7V8gyPO8x8qW1h0Hp91H3bcCOUJ5EhpIhwexLUhyRM4fC05jKOX9xx-8adx34yyP34V67Q2y0e7W6IJlDS7i07F_h7H3NIP6JQbgE-qHgExmm2Tme5KSWCC56XHhbXLW8U6ZhTVMbCqkkyaLw3ma3asljYu0FtcO9K8TfuH0X7j4b-1jeIgVEuOKrDRqeuOVvtLyQYCEOPNxf0tzyIDpTQz0owok6j7Vdavt0dLNv_SQR-RbKCcYMPnhSxYz3WnCarGw8TZe3G2hatHtIEiQfoG30ePzE9veKp8LHXyBF08wSUHP2DmpP0xsxNC5pBrnz7JzZDO5hX3T6PYAFvx8YF3dOv3p5AU1Cgj3hELZOJKPQ8TjS3AmCnOed4U1iCs-kcrXZX8SDfXAivIiZqsp5EIdJ09IWkX9CrQ2bUJ5_wLX0E2Xx5zM1lW5bq0BtnozDE7eJYP3gC3_sSR5fGWh_DK8RDvIb32sb-YUJV7H6VgZzKkyKRiRJzR4_ab3yp--x8CO0B8YZd-lRmHAObappQ34VVVWeC_SBVvrKftnx2HEC1ioygG2lPCvu-ireOlnUxER-pNl0KZyxH8IC75E-y-KOChktamKI-PD1Rutm5yjtpJ2sx2QcJcFg9U0kIbYImb7S0e8etntFQKpYuEWo-Ok-0tHd6FzDLyjNCUGnxuqacup-AGIaKQ8tWS-6JiP9XcdVw2gCViBodBpAF49m7qSUzFkvZXgGexWZ8ORVpaaFpME6dC0y8l_9X7_WQDj7w_PjFRRmXJYrUgb7bIgC8gBb0KFCFxeu_FNPan2eolW_yitRMQooZ7F4PiJAsf3sb69wrHE7huCtMFrTnseX036mDosBbdCT8DZ9V5dSOnyvaxj56OneeAMZ0vj51wSrIF6NLTWbTnAEhj_agtFIt8vWQvbXiTXxWEU7s2798Ux6-N-pYCjLM0kFpn7WkBS8GohowN5FiO8SYauMz9CD6gYdY6a2xZcfcVMvgKpV4VdAEfrvcqLc1s_MDvmLTts96SQXvsh0CEjgWdY_xClHl880DMI14mhwKbs8htQ7rtXVMenWHU0-rqkw-GOefdqpVRxEhFDdPcmQSJ1D1EZ87veZvIWtyYn2EiK7IGvLh0MAH4Q9Pho11Fvt5bMdxn-DYu2cGj6JQ7Ti_AxX-qv__KYPQNDjNGwwAVr9LmT9aQIokcy0_W58RUGxQd2mSnnYg1IpJ9EjriwsDkaducYkWmqZmKJOyU8LqBQozsNKcTk4PEUMNU5J_ui1foimRnGwuIKDybxnTZYmBYXG0RhrIFE4yRSEnLONHj4hizfikLtCTtONXkBeDKLwvMScktsTVTfCwMfrbRAsy6XSx_3q-PtL7Claplbc5j4Q0xN7aEMv-en6_KHEqlHXZjB_0-npGrM1LymlANRA2McxM8UsP_IfNRq28XHmEDbJqLVo0tml_m2JfnFAmRhs9JhBFmcSHnKZQh4l76f2P7O75yXhFJkRuMxZL82WDUKBd6q_csfvndxwGz1Bee2reYYIVbLrsnh1IyqfOquB-Qu9hI8upE22CeENmPBcU1QH_0.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09ef511d5f3b466d016abfcd3bb06087d1aad8a49234f30106",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 447,
+   "completion_tokens": 186,
+   "total_tokens": 633,
+   "cost": 0.01377,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01377,
+    "upstream_inference_prompt_cost": 0.00447,
+    "upstream_inference_completions_cost": 0.0093
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 177,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

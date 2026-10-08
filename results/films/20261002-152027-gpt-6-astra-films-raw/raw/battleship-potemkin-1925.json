@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954427-BDTWbs86mfWyz9SUCFQl",
+  "object": "chat.completion",
+  "created": 1790954427,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: F",
+     "refusal": null,
+     "reasoning": "**Imagining the scene**\n\nI'm envisioning a story with contrasts: a dark and gritty setting in a desolate world alongside bright, futuristic elements of Metropolis. It seems like there's an interesting character named Joan who embodies passion, which contrasts with the setting. A little shop adds a cozy feel before the atmosphere turns darker again. I see a house on a hill that starts dark but becomes moderately light with the arrival of guests. The ending seems to dwell in shadows, which gives it a strong feel.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Imagining the scene**\n\nI'm envisioning a story with contrasts: a dark and gritty setting in a desolate world alongside bright, futuristic elements of Metropolis. It seems like there's an interesting character named Joan who embodies passion, which contrasts with the setting. A little shop adds a cozy feel before the atmosphere turns darker again. I see a house on a hill that starts dark but becomes moderately light with the arrival of guests. The ending seems to dwell in shadows, which gives it a strong feel.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vHA-8U_ZaRSqkg5Ht3klHt6-JqaUU8amtg6p-Mu5C5Rve7i6LZeRzEUk1YepqSQ3X7QJyDCorjPE3kz9wMpkKldcpR8KNebHk2g-PQ4_GMISk11q0AkYjUYWJILLBLWcCZxyi5jdhN3ZzTqgmZb1cs6Q1iJKgZTD6Q7uIL6_jDIEQZ5VPXVyd-0h7oJHPl75vmDJpCaQaP1ak9igzzlb5T6Ie8sXv3kzX4PIFwuakpof7ZRxL8LG4_YTPQBVBweAFCijDsO8N_JN9HW_cv6exzdSBnN3Ha9MOvED1VuqunoDAxP9IbNUX4weUzztCqnh5q67E_d7OiA_YFJ2lMN7auemBtWE8pMO7W-a57oc0O6Pj48bzpUpxHrLc2HttqTVacVUEMS-u4cdnRMfJQKh-dsvxjRkw76Sngu8G7YfAqkdrb-X1frc0SSHegC8CwdVltey15y5L8GYR5Hy0l6KM7htf6jpKy5y0tPH3XV5pVSzdo0-LLFh1gM1oZLcCV7LJVpZcmKW_EA5Mb6NWh0pA2BeIdRe8o1UlhatYS7d72Sxm0s5cYa6f0EC8z8zQPd6vYnKtNO44KrijYLMweV-PCy-V74xtgPrsoXHI0FDijriU5kOR4GHfFNaxa62KSwHk5077BObJyKpIQQZijNbonP2MkYP6IBG6lOaX6SoL7_NEE0Z3aMN3hmAu_WOXLRU6F2E1OEyTyle5MILAueRxVs_Ww1SZOb1lVO40XeA9w8GpvWlXaghAI2Z7rqALV9bhCg2h4f4hYnUgXHmu46W7OTbHjvQ_OivV8P1cumBn1oMrhac_78I7bW5ihd50X3GnN5OGpS4PcM-6PvCId13eXuyTgqKoUU0HMV7a2rPPlmdhS94n-4Mc9aoh-XgpIJlAMEueWNFxlLX0Xzhk8fUBUQklvM3yzOVTb98m1TslBu_18SyWHR2zjqj-Fc-_0Y57PSIZKc40wja9eqnh03V_KvEgdRmjeAjH1sDLgTnDBIcjAwJ34sSdL_BvSc4O4bnWnGi_N7Y6MoU2ftiM4f4-h6OcjPtK-5Co8WjXTnlxXf6u6FPbUASpFl53z_GcDsgpeflE4LalDaM2Kf5ITMB032eDK05z4NWMeGclk0TJH7Ql8v30h-foTyS6lQWMrr2eqQywpf3jpgY77Ye4ntvTDkBwoTn7xEj_4mRpKkklkvTPDOdfUwRTlGrH9eUy1KQV6RTyx29wVXGWRbjZCqsQ3RpUpfzhzGrJz2n3_kY6p2Yd8u2W1qSomqRCPd-M8bEjDAtLBbpqDiu870g1_gktWvtyX0nOHuED3_KOd_rTnuYpsscSnpvophedh-WbjaNkBeZ-mNUdvDjYlByXp0hH5qfcvhxXUscNUC8Tcwp1Ho9iSu6lafLqTZ33TUc4t6CsaxvnbFq54Q_sWu5z5jFOY0e6k-xL8aJH1ierg0iWgoZb6wwnTB-u4MygBUB3t2HPG2tHW43r9u5EjOqLNOV-90Z--XufSCfIriCwqQeSesrJZXHnFldhSV13GjqMhz0PkjAgtWFTIaJ7EzbIOGKp2DWMRwknijtLdH0L4nMGO-H2HmUCTHC42XuDiLyimEQgoZH3ImQnhfvW6VKpnc2CfbBCNcso5n5xtkCZFUblICVXdtxBLf7lXCJUdG7Be1vrsR34X3gGolt9lNyRWqy_0OprLCHvdP7n1OnKKao3nhpRLEwNbWy7TPmsrGGfy0bIoHRHRPk1PtbD4Xx0MNfhMJ2CzhR4RwtvlkAgBawdHTW1OJ3Og4SquaoawFqt5WhWRLY7tIFwOFUtlb0hHerfdHL9oGYhdh-SaHHWLwdbFp9gh3TpweJ2bYlvuukR_WJ3qRTMP6JN0rASkNvFw3NOu8am231CiOvH3x--JdemRLiPpMUByYRK1HK8ElO1jWVabSLAXpgSA1tc2cdZP7ux3izF4lTtT-37gBE5g9aahMZlJpQhJCpZMUjdKAi9clrtRehODeAnR47v0o4_5KVFjiRxMWkihNmjWTz51jvo0B4WIHy4fjCQwDBz_IUfaloqyc93YVNBHUlFQOkzEo25hqLLSJViF99EQCcWv9Dscho1vQD7pYuJixi_7fdCog-GZfQlWUM9Ywc5nt-EVwPXbmernjjEGPY60JYcv2ssSndKyItPqXCimf0O1iJYpnYbGcSFOZJv9RIMjKIfJS1A1TQHraanxHkDaZwgdR1z6mWofpHjStoZJrTz4Ex84vd6jsXwfE-vQQOejU2Aq935ZYEHMBIXHq0V7RK6eDzxg9ZHLPS0CX48WjvB6qehppO7nqKUq3revub1j7L6lbTFs9y6AtqhyyT9CegVuXLw99UyeVEZzPubzVrIdSxenTJlZigP-Uj6w5LURpo8Vyspbdirh35MzQ_8tmnBOh0E_ENdt6aQwLemRD8p7AiuhzYMCY2q-GhxNw0mjiWoePKZ-SPzoXqTF0xqk-xiedoZI3GmI4hVX1lqBXQNIr8RjdVvRfTxaFs-_Mhkc5_ezBbZOC13FUlaAti2T-pQ7tG5gOaUBaYDKFx1WSYtXPls0RQe-13alQDq_dp0tqKf0BKayzRlYduHR7PIi3yWG7lYeT2N6buZeDXRVgbYuTrx90nkvS1BSKQu3s4p53xyXwZTE_TVbw3k-_2YE8bb-6ppE1BdplhzGR988kyoi_XtN4SzOQI8GfvebYPzVgTSVAKfKM_6I_l1A5iXt8aeAMuvM418YbllAeihtwoHzHNaSRDkK3VYJ7apeWxUb8Bqwr7qejDjguLUDvuCkvTZP4d3J4UT1Gj_fjOf1DkaEoaKY2Rb86KSAuaq7L6ZYsbbMdo38aK9ypcwsKNoAJc6_6X-X-NqktLObN3wRF7McXtYZl1qsNYJyZDKDDhWxHQgCGfXbCVgUSceIUQ_uD03TRKZov5wTVZG8gZM0JtKozslzoxi4.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03ff74f485dbfb09016abfcbbe1b4087d1a3c28370403873c5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 269,
+   "total_tokens": 711,
+   "cost": 0.01787,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01787,
+    "upstream_inference_prompt_cost": 0.00442,
+    "upstream_inference_completions_cost": 0.01345
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 260,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

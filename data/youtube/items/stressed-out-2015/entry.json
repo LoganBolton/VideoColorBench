@@ -1,0 +1,21 @@
+{
+  "slug": "stressed-out-2015",
+  "title": "Stressed Out",
+  "artist": "twenty one pilots",
+  "year": 2015,
+  "label": "twenty one pilots - Stressed Out (2015)",
+  "hex": "#484648",
+  "rgb": [
+    72,
+    70,
+    72
+  ],
+  "frames_sampled": 225,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "pXRviuL6vMY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

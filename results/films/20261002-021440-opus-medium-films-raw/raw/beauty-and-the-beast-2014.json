@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907354-wNdyNi1jjRIy6UTV80Dl",
+  "object": "chat.completion",
+  "created": 1790907354,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the palette. The barcode is mostly very dark: deep blacks, navy blues and murky browns, with occasional warmer gold and amber stretches. That moody, desaturated look fits the gothic, night-heavy style of *I, Frankenstein*, which leans on cold blues and torchlit browns. Several of the other options, like *Draft Day*, *99 Homes* and *Knight of Cups*, would likely show brighter daylight or more varied colour, and the French *Beauty and the Beast* would probably be more colourful.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "The color palette here leans dark with blacks, navy blues, browns, and golds, giving it a gothic feel that matches I, Frankenstein's tone, whereas Beauty and the Beast 2014 reads more colorful. I'll go with A.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The color palette here leans dark with blacks, navy blues, browns, and golds, giving it a gothic feel that matches I, Frankenstein's tone, whereas Beauty and the Beast 2014 reads more colorful. I'll go with A.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSzwYKEAgSGAI4AUIIdGhpbmtpbmcSDIpkHSIGEP0ARZFaUxoMzfwLXhr7pBiQW0w+IjB/Jm9Qii4lT7hvRxd1kOsSDy3y46SzuQo5k/AF7/+70RgOOG0eibS6KP5qV72TRo8q7AWNe2u+8LnxUMkEIYqajcUjUzFcpG12t477OE0k4inAfKZ6+8Ez57DuEuW+QjPTk69wCmzgzAVyDed2RG9nmPvPwp9aC5XZmGcCa6qc/8udD1co7RK8AJahKnoaWEVL/SSWxEh6kZCdtZlYdmNyNLZRt2U1T5Xd6+38swr3F+dTtWBw7xolBzXLexB0Qsh0UJk7grakHQ5NsXjVjPsFlVyeZDoNTP+NioFjnyST64GZk8Q58RJkZCikWcN6oIT0//5Qx7hPcgzf7uhlJOdpV3pqkKGQBvSgAzAY0spzf1GBWlk68VZBUJDkcq+NzIdrF7c57RFUL8wMGaw32wyKVvMZXaIzWJg/ySp3wKZr7APUUaPajcNvLwSE6xXdh7yQYJJTwXg2K5wLTuexgSlHl9mgZIvaw0XxlsgLKAZTrBzHCkc/g1HJqjIjztO+PRYMZnwQ1N7tYB/qrlMefxbF1+hhxOfKTCVtmpjR4UDeKxstX3L2fegVBZ4dppE/lSVOBt0rtmU9ttJGLwlbYFLQ5OIHG9c+t+a3c5AMfTGQ+zl9TK3l2Pc38Of1BXdsZMIvP8PCULFDEI5HyohlJBPFYKZb8YycSLO3DZViJaYQF5ldu2INXenEcCnAvd/gPcRkdEuuCl2cPR7w6BwheI4y0Ox29un0LIpwXtaDQrYmI9Oy9sg87w+kQUccz561AwyUA7feOlzTLW/z1bmAQRc2dz9C4FqmGDLVe7U0rtSup8rC1TbAXbC+Z37mp5KpmOjoAsKx5s6Ag21V2eTiLHXTQbTzfRdVUz0mQDML+mVphRzmRj1uYblRRuqhIDXDkapSsJlz6oQofIvevpZfTE7zhrPt+RdNDtpVt+8VPiozQ/O+eHi0WckC9EjAEGIP2kTvKJSWx4rpiZk3xkzAdAOItEPaBIDjoh26GAAiBBlFps42PrObHBRgo9LbnZqj9JhmovxzyAVlGwIo8RdU9uiDpDnWRHeP1S4jU7uNqDIVGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 293,
+   "total_tokens": 812,
+   "cost": 0.007936,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007936,
+    "upstream_inference_prompt_cost": 0.002076,
+    "upstream_inference_completions_cost": 0.00586
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 106,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

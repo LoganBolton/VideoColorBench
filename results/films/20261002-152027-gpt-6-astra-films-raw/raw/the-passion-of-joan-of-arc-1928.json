@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954427-dNxmnutLYq8XysdMGuCI",
+  "object": "chat.completion",
+  "created": 1790954427,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *All Quiet on the Western Front* (1930).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing grayscale barcodes**\n\nI need to guess the grayscale barcode by evaluating average patterns. The intro has a black segment for the first 25px, which is about 2.5%, and then fades to gray, mostly dark without noticeable brightness. There are many candidates fitting this description.  \n\nI think about several films \u2014 Metropolis, Potemkin, and others \u2014 with complex scenes showing contrasts from dark to light. However, I realize it's more complex than just that; I shouldn't overanalyze since there's no clear temporal structure.**Examining image brightness patterns**\n\nI'm analyzing an image that starts dark, transitioning through various shades of gray, from medium to brightish hues, then back to darker shades. The transitions seem to suggest a narrative connected to Potemkin and the theme of battleship fleets or struggle\u2014maybe even Joan of Arc. \n\nThere's a lot going on with darkness and light; for instance, certain films end with contrasting moments. I wonder if the brightness represents hope, especially in scenes depicting final struggles or reunions. Overall, I\u2019m weighing it on a scale of B or C for brightness.**Guessing barcode patterns**\n\nI'm looking at typical grayscale averages for barcodes, which seem nearly identical. I'm especially thinking about an iconic Metropolis barcode\u2014it's dark and visually striking. Given that the film has a duration of about 150 minutes, the vertical stripes play for only a few seconds each, which complicates the guessing. \n\nI feel like I can respond succinctly with my best guess for the barcode based on these observations. Let's see what I come up with!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing grayscale barcodes**\n\nI need to guess the grayscale barcode by evaluating average patterns. The intro has a black segment for the first 25px, which is about 2.5%, and then fades to gray, mostly dark without noticeable brightness. There are many candidates fitting this description.  \n\nI think about several films \u2014 Metropolis, Potemkin, and others \u2014 with complex scenes showing contrasts from dark to light. However, I realize it's more complex than just that; I shouldn't overanalyze since there's no clear temporal structure.**Examining image brightness patterns**\n\nI'm analyzing an image that starts dark, transitioning through various shades of gray, from medium to brightish hues, then back to darker shades. The transitions seem to suggest a narrative connected to Potemkin and the theme of battleship fleets or struggle\u2014maybe even Joan of Arc. \n\nThere's a lot going on with darkness and light; for instance, certain films end with contrasting moments. I wonder if the brightness represents hope, especially in scenes depicting final struggles or reunions. Overall, I\u2019m weighing it on a scale of B or C for brightness.**Guessing barcode patterns**\n\nI'm looking at typical grayscale averages for barcodes, which seem nearly identical. I'm especially thinking about an iconic Metropolis barcode\u2014it's dark and visually striking. Given that the film has a duration of about 150 minutes, the vertical stripes play for only a few seconds each, which complicates the guessing. \n\nI feel like I can respond succinctly with my best guess for the barcode based on these observations. Let's see what I come up with!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vNA2RhGiYVwBJ1m5XQLY6WWBOtXVRHe1ox3RtRlspPz-oPQABXD3Kzlt5TO82AEPAl1Z0rWeGKqpAdfhJlWANZzH0UlraEI3iFg08NP1ir08Qp4K3z3AGdXw3X_ieX-EySNWH1ecVz0naSQ_M54yb-vBCrha3AM-M3jIGDa4LsRTuVwKYKe5_AXWOiWpYnsjrjknT0a-TcXSt3OwZEDl6f_RABARpyc5inwTjA9FrgtPL78G2Hhy4cN1oEUyzgxhG2Av98MfXcE_QCSetajgwdTvqm8EyXNGq42AxclTXIEIVyRgJJDv_SqiGC-aJrZtwt4LIYRj5Ek7ioGfqtnfaQdXKZ-6hp2gPjKMFpTBJbNyBz7bJIjHLp06UYVWdLemEltHSMdxhYzg0CuDgYFQnBeSUdaFa-z_x707sgNYcE1MAqFiml3kDpPzaVnjMCFhsky7hD_slJq4_jpy8EXTeBQMIVImgr8pwGhY6HgZ1YQrsQYVmHYqpfawSH-k9yfoHtrjMLvCRpe1dyNwuNYx9onmpJkjohm7USIPyWH6NQnieF2P_nQ0Fj__aw9ANnfZhygB1dDkscshGBmpjPySN1tx02tfR4yqc19zZGPiQgDxeH-6EEyNHk6R1yO-oXr7n25wsRXLRCImxyL2TzZKXNvoxSQsSze_VaRVSVUxGP74P7KBZliFNOqGTow9mLhzqZNtddI4bGQ8tgbYENnwc6v6UslNstO3gVFpq9j3sie9V5dUUW5-Xmhy4NTK-1EmPDknM06a5NnDX8VXSsvitjh6bNqgeqWYXfuloe14a0p1wBbrBE7mpZYrqFb5CoZhu7ZQOr4QUNdvUgfNqx8jXUliaK9h5rynD65ObxOSFfQRlukQooCK2qp6Gu1n85tnkC_iqMpkV49oyV9K-EwKAyKTXUfXasYy9LsEGESfF3HOtWdQyLXcGxpjLxbdqDqUf19Rx1JQUchwlYG-2S-Y4IP3lCZIYhQPbrkKXEZMYbTNnKTaKBugnjgHkZY6CW3YXabrOH5ZqDT3uWzQy7ofNi8TwsIaERiwJM_ZN24Dh62QCtmXqeXig83KFhUptDuFHWDjvkICez3FyVLAx7seoQdqtdzic1hKKvEikxz7QZw2UtN2iEHk9ml8zGmyWehDeJXUwdxG_iArGP-aQCpOuu2-HbXJ5yEA_6UD0GnZ-Soe8u3IuGRLxqPi3d6cYDLfZzwNyVLu-6NegV_olhG3KuQYGmTL1RCplCPGJN7z-10sNVPV2HFvVkXU9W1p2NEl3qV3gh9_DvLcAQf28G_Dyx7CKFNvHXXn9NvTgLTPLD7ZgJAGk1EcO1_ReqnsMqwNKti5HMPi1t8WIrBvTzGozUmUogJZTlzMl-gH-meGuFd4HGU9EUf6NgNZ7EME4Zot6UqEUJf7JpKWx3KHstVXQH4_SgFiGYnxlq3VM_FiX7n8_cTRr6pXk_vgnVmDINaPKM5qYIhMIfhb-wvT6tCK2VhlJ2LE5kvI569akD5g2nqz0D4MNsiXFxcYvaIzDYWFK-mzrNRIa_HStAIXqsuUYI67QlPzh4_6MyacpmubAl0n85YoF05fmSaogrKOPR9p40WE9Dn9Gkkx1Q1pUo60wEAfqQWAeePwYTruDSh6ARhke5f7kuRK8WRo5hnoBD0RpjGhmoU9igEJ5lVDZfYRhN5mMw0sFOeetcz18DXJB4Cvi8OKpNSIReX6lQaibsh6ysv32r_zGXJa78GuCNjzdSO6Yn1bvbyIIquHosMujhPFFlthgnfs6qw7UqXKwyd8ufsGNnu_9OaEC2NgiEwBa-72x9ddrUxFtO78-H8rjQRkMPvmjV3Yecqfr-L5F9RaH7efydqdh0ffPfSnvfAvC2Fxsb6CShMESAAKq7zJPH4zbvU0FTIGJfPQURC8mSewqygfbeXxIpCzA2RyE4zgRSSDfBeG92ZlQ3_cBaZLCg503l-BcFRCCx8Lsgl_mWLQfc3q0tNhRi9Ya0_illXz9GOeBhH1VOkmE8nap4byR_6yHzoU6nw-cdvcK4ERhD7NBeIsBGMJWuWaFjqWgdGQo5s2vmgMskAEWFdOnvAXvEylIwxb2c_jk_2Pi9SC-WnQHov612WCuZOM_QrRdDT435l9JA35tQNF0Qbgq4eXwtQpZj4v4GjznTT0qErqmVMJUZkBy7mITYkI2-DhvIkE4ljLiEl0QjpWXNY0IwPbFoelEhQX_2t0M90o_9IdjGkrMkWZRNlrtscx3VQVxAWH46hntFRKLTAj-h0yUhi5ggBKYpjvVtaD_hSgZN9MwwX0_ZA0s4WuikvzEPOikj3U9vFzyzTXx6GpBDYzZ7H6QkcsQy7IiQHkFCQVBkSxQ4KEsMCb9bQ52y8_R7w3JIyy5PB3zxXoBgEGiMkuIc5_EvHUKkvwlZCpPHHvO5FsALa-5kFVYhz1TvBnESwi5E3oEG2uNiZ6sYSc6oKR82VIIIBMWQcyWHrpCXFSp2LP9IL8xlZFgyLPf9X5ZKHRaH8FbrscfhCjvoGix0F8PONM5RqCgGJqQ5n2pt_SQJBtUuwS_tiX9PQMI1HsmeymQRHYnDOe-Jl7J6CUxsOYEPrqZIqRPPnHVcuxRJ6f-5LOvhGFsHgtA1BQxITABgENreEC89zyk4F0yEVLemYOtJZtO2ys5nHgX6Do9Udr8bfUtzoDFCgnCLnMGwvgJ33tnnqb2VeWa1UPVlD6ir_YXTGM8kQME3cktoyTFyuuUpzGrtKSw9JVGe4X-xKd-iJn7Igwvp3KYmMMD4boDM6twvum6laLxT1HBn-PGzYoZ3SAT8PhTnnwhkKwIuwwFXjyrr-slnHZBr4ve98FYYBbj6cURci4e41Ea0Q5DzppMsWkWv6flehrrhQifWCIfexd74sgx11GQ9gpj5Bm4NrfW8KCJZDPo-YJ2rlDovOSjcx78jnGsTl4fvxRD4QhmbrGXy2BEFzcDcBT1vNv_HlTGsqV4Tfera4xcNwG11OXJ50xUX2JBIRVw3xoqLMDYulhehdv4hvzIaqo1lYEPRbsj7GBx3bs6giJfJ4Srutz20oy-Zyf4Iu67Xwp5k0VjeTFtIcwmuu-atR6plEpw5T6XB8h9c8ABzbG77pBkz1wiE8W-TXPaaer5qA-3wIkrLylLGC80fl4VO2w5WQWn5OyZd2tNCVhlO_BzEUusIxZQlzD8i6Ajl1td82c0aqVWw2pKpa05hsn0irbytc1tcuBveaSCyUG_-DyZXvdb_5h3r27gHWMFoGa6XnicaZoLcnFkVCuF_fbSSRCEcsHtl_i7mvmifWwK3gXhaYo-RaYxOBx2DOxi7grjzgvwE9rq0R4-_j_uMpKsaB-vTnod2yPVH5yG43BQFbO6WayzqnnIZJdrqdpZcScPElb28xv-qD00Zsh-3r7ESbejNcExMVTrutQjGYc9Par_qqNSjkbe9ykhhWFEf6Oi7bBWCJ0AGEjg5cDdXw9D7MBaZJrmT4f9Yn-g15-grhQs5LPOKSQ8wbBVfyvAqKyK9oEAGNNzvBpupQCbHb1lPU6mb_RzwbacJnrpNz9mG7dAXxPGgBo-eJXj8tvcL8MxSaFcvOok_aSm2GOTF2mnez1w2wsNAsn_C2hE2xeueSA7-irIcuDcvnbsu4Dbk-Dz8cRUxUb-3aFZgwL1mH0_lvJHaohu_m8MVAs1UOudoVLcJFxmwxW_NqBgRl7keubfpIjkWsvlSNIQptcbLly6uJlN6zSMHevjy6gHgpPYDwdhE7cWhDNR17IKQZa7iMjr0BanqZ2GyinTEKe6ZUmI1KomOBYEyzJ9Bv6jTTJOlp0ihSzJeKGiwNKgBwaarnOxlCdfxxlPXSh-W3r3qNmTooq7L3rBGCk3yBmep7rjSx30tN2R5AKy_d-bs2o_k0st2g1QN01DT_mK27dxjey-9bGD6xcaDIWq3HDtXPtWfmYpICHfLgqdmzQxk7y03OYNW044SSfkFx3WepVuxbpNQ7EwFY0ATo910ubM6Yqrxi8Q2X_zb4QyXki08WLjNuVB8Eu9jouO6PNzf-F0TnG4QDpltxdTrt1hMcJHSM34=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b885c12d8b83eca016abfcbbd088887d1864e69cd766f1a30",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 505,
+   "total_tokens": 944,
+   "cost": 0.02964,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02964,
+    "upstream_inference_prompt_cost": 0.00439,
+    "upstream_inference_completions_cost": 0.02525
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 480,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

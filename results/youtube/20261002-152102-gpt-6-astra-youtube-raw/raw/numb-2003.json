@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954925-lvEWQqxITLWH7z2NhkQt",
+  "object": "chat.completion",
+  "created": 1790954925,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83BVFRZHO_tdUEBHmS5XTuwus-bpgfShCgdAmH64DscXtGOyB5iApGZRYOKnhcHNEmYJMi9TabcIK46Cdbbu0qslTq4m2evolNSMMUAVOQX4qDt3zKEYlRdhfv0af92aPu-3JEgJuj3xR4mfL6ZRBJxgzt1GuOz3QZteY2naLM7mWEMR3_tYf5ipGtbn9nMxTWsi-e9WOydSnYt-6cczdaoyZPDuH5woZjUdk5y51OUGOZ5NuwXjDD0PpGqXB5uBIaCRMThElxTcEKdoVx04_ONhCsXp0D6M2yykre5uBktQtCUWRFbwaJX5BqJhytOctQBBL3jSqXK7_yUo38giJkF03o7j5Cg_qVdXlwIZfkaV6zYSJc-5gozdY3Cx6u0CAYDnr5lsgxVy_bPW0zokpfrxHNWDEZgSeuMZBjXQ_Cd33iibtmfLPbIzpXppX7H55og3_Ej1eEndgof6dsCPMhMNpOuprYe1sa4lNKnwdiV4RRAH288AZVIZI4egNeij3QZaSqiJEr2oeHDR9vIOxgg5JbrXDy1VcdHZYxBuFUV9l_7hHfuytebcTZueZN0kdOHo-UH0PLsOEbRzL67I1EvlrRP5KPxXfrrqxwrPhmcsbjjGDz0EJ28GuewhhklvXR_xjNGXMuwl0I9fm0E6PuqFwTH7l_nc7FZDR6AXBFzPwub1RqnwJ0yHSdJJbplEZ_PdUE90EyI6irHeP21OEywRYc9lMQpY37E4DelXAMt6JscCAK70zTcC78l8x_UqFq3HEnMd3rPAaoZKwfsCjLT-rfenYqpKgtCjIAlYd-H51VgVwBCW5LgxifmCbHxOiUxuqsFTNdm2NVDawC7iFt45dQr8GaKw_2gqauM_VJQgke6OouNB3Xir-pgZSGv90_o3A6FpeqXNbSO03xSy6sFj9__n0RKDNOmJo64_rGOJCjNARbuqtGWe-cfp_-MD3Y1E3VZCv-glmfizmC9je7GIJkCLJ8fiFmssRkDl4AH8Qug0dDtjwRUVzL0W5zxgqdpjTRt6PSC3UGHGoLtEVBH05rNX7ZLUwLj5Ksxak_bUPgLfupYljpbjI-_bDLcaC6q4FFY2bd9oIaakgtX9Ll0DUwfICy5LYd60r2zn5dVvjwMLs8d3DOPQEPgiFGcse9tX5QIsVkf0TRCMpUL673Uc7y6pGd47hSMxmctXPqBSY-UMRwhPzlXPmLRPJSht9N97Xi0A_yOTWR3DadxxDIT4UeGLwvV0YRXK__MWOynOpVpKK5v8aNpf9dFTodZ4UmwkzW4o8REXR9fEDF-eBxtWGL_mw5zgtcazi666-a8THGGwWzPDoN42s5eKUz4elBM0tk3jR0xoExqBljy6ujR7OhTjpKd3f6NTISPXha1yDdprEfM593zPKZo83ZImekwyvWEk-zOvUQPHKQhsR6kLv3bZL-vnzcy87dOXCWAe9B0GQ0HLmJyJyYYDZsqkVH8QVTRSS3xj-slFx15A3G6cpTE8vjGqAfj-StdHNW6BKg8RUFCN3ACvffLqP-mozCWNIkolnd391PElVnwanQ1XerCwRhXxmmYY7Tnx8orAHRXMaFp9D6T1QXZ2e9kwHmakfEptq2RV1_fCpEXHwg3Jx8M4l6MP7VaZEQVNd1qdmuYlJkplCulN35F2GG4uekcHmwI39WDblwo-c5G1eVSRkEZ5doBpxH39U6I6bnUulRFuqJR9C_xRrrQFejVszqPsclfNJ6JBrNQSIG97pkKRW-qxg9jw1gJSyNwxteEzHxVEOGAmBQNjDShRIoWZRAPX4qpMOB3MlRzCcpPi9sDtA0ZHIniZ3TtRFNdAP6L03340Ct3tbPTok5R10rNZOJgY3FHuWP3oAfx8sibTwq1AEOE9VWAsgbCxh1-a5DgkY734GPkHLzvoN4qmBC-g3vVM8xnddsLj4WSM-SjXCVQRY9vql9gwPlvj4Kmk4beze3Szo20taqxv8UyGKegn4BfhNEfx2YRSj4RMm5g9D_AXwHhv1ZZydl7Zobhd4PoAMEtJBoZuRypaMvUwClNaV0mcn-SLeunwdAdRy1RBi3vjqXUS_P6wSFzrpyOMqZ1gZAfXjaL_XwieFrN7bEpt7ThNSJI6wi3ujSpE5xK8k9NEBroLYOVdAeCxR-XUX0wNoZZMqFhFRG-SXGJ2m_BJDIF-JSzaUTkV1BGM5eueBjuU-nJKxjsP-NiQeHv0GWgkFUNu-1LOMGJr2HfMmU5z6Q61Q_nx4XVv_lwGVHF7UMJEEAnou4J0Stbl3Vs840m0s9W4l2E7qeyCp5-24bQqxFig12a7OQ6MoUj7fqkm-QKSAi0py5nYg3N9K-YU9-ydAZrJjT-naAw7n7XSuFSn9VM-ELuKGA0IwK6ngTMoD7sjmcNKVi1B7pGEjJibsqLQHdztN-DdDeNrqyRRfD1NmqiKPf4kJrUHjU1gMcwCf3FqQO5hcPAD68mIM53-6sqJqKP64_EnpoKfbIFk7vhAUOtnrKe_f2j5cdE1zWM1DYV_OKtNdARSKr7c8X_AXW69764-Y3Qs4NvhCbk-K9DuL30EhF3HxNw1kMEdgAvAjBd37NrO_qiCPGMZI8bRXuTM5dLtrfy4OaUAZgIV6HxB4GBMq7Dj_1Bkg1Rdm3ypcR7VTUi8YTuNSxSyax_fdW8kkhtTmWt1ThJaJSBJtZ153FvZfCn_0PEPj5hEdnmNQT_kCLbNwGVETQQPqHpDSy73Cc3LJS2qe-2GTK-txjnxndY-x5QUe6eDJEKd2Ta6SRmAK24qjfCi0Nxa767aFuoDmawvxyqr0W0S8BRPrmdiVG2GLMIMJf0jUnytlDRgxBB6U5n0IVkJGP7YIxW34FhtZrVD4ulVz-Z9701IKuf0jKYa4I3a49ZHJ1srvZDk5d8BX1zZJ6guLXKDj7VaauNVe6GOKgaQ7BxwOhyEWY99tfeuM2gpTXyuGZVghAnxV5joFUm1hz5Fy3-kEqd9bjXlVaIrUURiEBKJicm-yFkNNnlWG7OX-kB4uLygc1LzlPFY2BwosSvqJb4flkY2hPgjBO25Eh3em-js0-PIdq11a0ZFhAZRG5VvDTUFQUlXP7BpUvNg2pWj3k016DH9tuTltNlfwOIhCfjDrD0nkdpt192iSvtiG7pi07BnNK4WWpjIyVYR9ClPfHqR93FDVp-IGTbvbzIrDb0neCNqNb0mX_9nyDNBrfs-I12lmI95poKzxgnzo4XjqvJPzKSljBQjToWu8AimT3AHJFKPXvzloIJiyOlCTTA-ZzTIV_z16hK_KeRNdf9tq9L52fOBiodC3oUnMPUnx4bVyNAsN9C7yljtERXFkm9CZtDaYx5O63SxSwq7STwAGpAbDNCX42FRQY0IGkxLZqkqQd42iBfv-6L0awGFNDTFdCZ5iMzxmijYyqAzL0iTF44YIbPIlM9Mhm_5bFP_3UDRvdK8TF46-9yU1TpMhiI-ifdh92-TscJD6yWBzBKyFbdKjM6kZffQSfsHFhzybToiOG1cE4KgtMDkqcx1CaN42BpFBCsr5unLNqZXDM4kwBzGxHBMTl2c17TE6p0op7IN-eovoPv-uUi7qAihFDlAXgQQBogi6uFkqGa--XfhKP2bs7yFP7qnciNq-GkAbox0pddQm9bJ5OzaIJ5O__4YAYG8QShhgCs3MBtOaQZ25lnJNXJatj7Iqae5_mjn3I39A4K1Fw-QrDNuzQ-b2XbhR8IH-PPZ_1vWhfqDa_i1g54oUg83UhxACbOgi3yi5Hq8WPabDRDjApTXWVSw-mWo6DKMOznb4t_1ObcdLjrKaQhQZahyt-josJJzZNyhEd8qdQBcdMiV52uBJ_VXyHN3kkAuIMpIb3eLNG-q4N2-PidtW76a8iVe7cSjBZsWhGZgiH3geAVVjJepYGW453ZdmEGlSSg_Z6JCsw_V7kmwL5naYYICdcInhsEgT5JwlZkwzwEkDxl3fO2aL4jNAgXrZRujoa5vhQ3qib90ztBlwd-Uvt_-HAD5fxx7ntp7HXtpJrJNJdzNwojzjdwUWS-g1l2fUe7ivV394CbhZSRRe6yRcWkbLMOA5wbFMk9c6yS4RMmkQpI6nZK3ORjuHkEW-7qbkTEao-OkyrBYvBP2CUdGeq6T8VdHzQm2WNMh99gGLyK5uYgfG_BaxOkSstURq95cpDoPiu5UFvSOXm_gsca-kLamXfLZfU44R9sVI4Zj8ouUoEOjlDeDk9wh7XYr5rbcuQsW1F4vqmWDShQiD3s1CIXX41CIs7iXR4M5dfNpJ30At4zpnpPVdmA887Z207U8jwWZwh7fp-Ksfe2V7GRM4CpqpUwom-5THBhPGKH1-wCU-bY-7nOJPBPjHc9zmCP3-4uHYFabIVl3-UE0vPmc4Ih9bE27isyIYuqLD4mWOiZAbvpujOD__6c6KjhASSn-w_vVxh-n9VWFv2b6yelt45wDTqtAPRezkSJjUAU8tlfWUT_5kO8lu5ZCVGepItXNZ1c1Wvj_rrdGYKj64qSGuYv9mfJ8sf_jmKJTP3eK9aCMUcQamLVizRw_nKODtW8xqSy3LRF6w==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b00a0ce6536c707016abfcdaf1df087d182f8ebba902f5e4b",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 468,
+   "completion_tokens": 525,
+   "total_tokens": 993,
+   "cost": 0.03093,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03093,
+    "upstream_inference_prompt_cost": 0.00468,
+    "upstream_inference_completions_cost": 0.02625
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 516,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

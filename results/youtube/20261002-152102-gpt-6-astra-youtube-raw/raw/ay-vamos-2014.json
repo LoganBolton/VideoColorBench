@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955048-n5Kd0ymVTQU13r4Q87fW",
+  "object": "chat.completion",
+  "created": 1790955048,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Considering video color choices**\n\nI'm thinking about the color schemes for different videos. The \"Criminal\" asylum video seems to focus on blue and gray, giving it a dark ending. Other videos feature brighter colors, like turquoise and beige for \"Calma,\" and vibrant tones for \"Mi gente.\" I'm also recalling specific scenes, like the red outfit in \"Criminal.\" The contrast of bright colors at the beginning versus the dark ending feels intentional. Each video seems to capture a unique atmosphere, but \"Felices los4\" feels out of place with its sunny scenes.**Thinking about color schemes**\n\nI'm contemplating the color palettes for different settings or themes. \"Bum bum tam tam\" evokes a sense of luxury with its gold and purple hues, while \"Ay vamos\" leans more towards a domestic vibe, featuring taupe with green and blue for the couch. Each choice creates a distinct atmosphere, and I find it interesting how color can influence the overall feeling of a space. Combining these colors thoughtfully seems key to achieving the right ambiance.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering video color choices**\n\nI'm thinking about the color schemes for different videos. The \"Criminal\" asylum video seems to focus on blue and gray, giving it a dark ending. Other videos feature brighter colors, like turquoise and beige for \"Calma,\" and vibrant tones for \"Mi gente.\" I'm also recalling specific scenes, like the red outfit in \"Criminal.\" The contrast of bright colors at the beginning versus the dark ending feels intentional. Each video seems to capture a unique atmosphere, but \"Felices los4\" feels out of place with its sunny scenes.**Thinking about color schemes**\n\nI'm contemplating the color palettes for different settings or themes. \"Bum bum tam tam\" evokes a sense of luxury with its gold and purple hues, while \"Ay vamos\" leans more towards a domestic vibe, featuring taupe with green and blue for the couch. Each choice creates a distinct atmosphere, and I find it interesting how color can influence the overall feeling of a space. Combining these colors thoughtfully seems key to achieving the right ambiance.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv841-XCgNP885roqXiJcGL3EBDuAmGjU1v_FSkSZp22IS6U9EojTdDnGybDAmZ01AN61zpGFjfDx7QFjax7IyrOGm8-WIuh9s1w6K6CYptJCVloPk9Eb8PPg91xgd8s1tTimV4oUf-nUnv_klWZk2bLTav6gsrZeHQGkHufVvvrlDl5T44Vb7PqsVJDIAWSjkCBDcgCzZ8TtyiBHcbtAi5-bGMeb81tCqk36O-GzN0PiWFENww6vGhoIG2e95bsrzemMAs6trX4PpEi-Nj8Lf99NT23ydR-70F9icTnPkC1lSt1ekTdyLW1Zv4oy_Mwlv5iJoVDjLg1821dQXuggjImVcSwCy9cD7CJaVtbOJm9Kp2WSlcWLb2r2fVgG6HwF2LV1na6eeEno2W2HWHIxoOkYRf0xQB1rnWPXYTQG7U-llju2CsJo91CM2Y4aGFmrtMBhQYsXvoszgQza8gHtkUFL7hx0lGAM5on3xvkTmGghLTUcyOVYGjFWkC9FetUCohltJUgLHwaKQZSMufkvD2yECtO3kBh2evJkybL-VcRpwtdRpwNXjzuiLW9YfwBCSPW-LF-C0vJesu1rrsr1mHfc-t4Bvup-l5WB1HQWn3jqL47foQuUPfVG0sUz2BxV5zFf5DxXxS058NnJmW5jsxH9QVqN4v1F64HtfWw21nmb-coswvrKecFMwX3yGHIneDGAZ15hSeLV6TrNptpBdi3y14gN0iRiFF-YRphqO1PMtzse3Jau3gg6NchE_E_AQo35KVA9HxmESTXL-zqo8G2eV3Zi13RJmM4eh5xKjK5mHvz0Ka_C1mP95neTCF_6LnTH4fD4u35-TJMkZ8DVYHVJLZvqXhcr9LUt1dxuKv4PRmSDGN4swpnFryo8CT1rRYVzBu3HxdGGxoiOPhydLoyHEnBIAMKIVLAnyd-x7xzBMLRON4bGxdzBKpuB-zsy_jHtRXcKZmqDosZ3pJZjr2R3S1H2RUtraA3lgVOD58G3FRYAKf4QcWBzEUR-o-0rhPzuZM4BbyTV1CBoDtUhKwDPhRh33nSbpGs5w5Js7fKw4Po65C8noSSDTaNoht0RMyZ3HVcJx5slFXf3qO-94wAnecAHi6hL03tueJbPRPVNE7aYZ0AXgY-Smtc6ss0hr_gySqNNLfUIRM7k74xhXpL-Q1RXhzA30QO67lrI_I4gK12QgAuNfW87q8YQEPFS-Ql2jOAHm51zM456VRd_DtQo_K2IbQXI3vOsCbVlM2YllarMbfLHgji9wXzeR917TU8OgSyoIz0WSUJFqTCkIxTufm6ZA5KKGOd8maKWVSECTIXdynkHaMZzb4jH_XFq5uyMVi42934gdxkWYzMXw7JktEMbyhWii0zClyUqi7dusSad3U-J5Os0-Z-oYKUHsWlg0ajjZSrEU9cNjJuHkpq41RIFyiRfT2yz2JfuhXGveV5Znq3XHtQCfZs2OiltRXmtBVMDgHiIkFNF2-0lknICTb2GOXSjTTcrDFa1upk22Bqmw-Gpv9cw5JAOqpWjxQRao1j6Nt_Z6qr1TNJ8hQccvgu4dbgaHTJf48zsTJnck27_aWKodhYVzLz7xEJN-7KupOADIQdfVIoZwGygcmsofeK8_LaQxfUJe7Jqfifp99Y42RWoneLUgP5EkYCjOBXUeaH85JT5oh92EDr4xMFvijJLy34edYllIlHLp68u6K1qUrrespL_G7wDak-qNNr31UfQsaGCUJVfbP1bAt6pUxf_KZW1PoQe0PQDLs5KVwGM6duMf15chsVoOu0dAiyBX6UkGhOZ2XiNyzxi88IZeD0IehvEdhZbjXCMhgHcawU0dg2fHdKo1StV0ZV1d2OZjcQghkjOmyY5wd2X-AUWnFutLIlo2M6Qdeswpgv5nw0hAkqheEoxyheC46LtupSht-oAhl-PJ-zLwTwNgoUKk65SVCU83qhf5k3mz_ttMGUhH0h3q9PBZxeBvw4ypWNlm8UUSTCQr_q65X7AMuLv0QkmgsvUc0ET4-i7UOsvlHrDd_Yq-fDNDt8tVi-okHO0fakZi-fiETOmwz7ZyvZUu0AmIzi5YnZBXKgLZs-NRopZsxUtjrQ-zjCEHfHdKHNz8d4LqTdsCZhR9HLsWVrhXAmhJu0iPTCuqb_qieRCSAxHxXRNqexgWVEE6XIwIMKrjjA84BsyKx0fbrmUn77NbLl2aaLbxi3pb5FitBnlkWIK7b0k-G_s9auB8j0SOUwHlU-_ASJAYw9C4UTFXCsL2aK3_MCnQna58QM6_u5BTCH_fyHDGj2ZV7ziJUwh_VYTduTw5yq23lyT5KonAGq1vCX8_GYsQJiCNqibBjx97AvIn-cWueNnd5-tgWYxyUaLiZCjrgqP0QtXE6Axs53qiRT8uJHPk6MObACAgMl9eda98l2_0xu6umIiiBbLNHJb70si1UQgWGM4iN3fw1K8BUgBXMA_bj_3XAryzu2l5ArNPIY01QnGl51mmSPmv8WizBxB4zK093SPD9dNk4kN0s7Jwmu_MHnMcWiF6nncVBp2KhUiPrfEKa_UOwgRMsaWGxWvzJlUcTkT4MH4IVov6g==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d31898debcd9f49016abfce2a309087d1bd591d6c7251389c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 506,
+   "completion_tokens": 208,
+   "total_tokens": 714,
+   "cost": 0.01546,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01546,
+    "upstream_inference_prompt_cost": 0.00506,
+    "upstream_inference_completions_cost": 0.0104
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 199,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

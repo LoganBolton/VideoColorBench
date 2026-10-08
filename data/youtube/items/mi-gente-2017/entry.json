@@ -1,0 +1,21 @@
+{
+  "slug": "mi-gente-2017",
+  "title": "Mi Gente",
+  "artist": "J Balvin & Willy William",
+  "year": 2017,
+  "label": "J Balvin & Willy William - Mi Gente (2017)",
+  "hex": "#2E2529",
+  "rgb": [
+    46,
+    37,
+    41
+  ],
+  "frames_sampled": 186,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "wnJ6LuUFpMo",
+    "youtube_title": "J Balvin, Willy William - Mi Gente (Official Video)",
+    "channel": "J Balvin",
+    "via": "yt-dlp"
+  }
+}

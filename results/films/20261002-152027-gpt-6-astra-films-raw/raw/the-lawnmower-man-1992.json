@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954656-OVYudzF5lkHZD5udjbuy",
+  "object": "chat.completion",
+  "created": 1790954656,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Lawnmower Man* (1992), particularly given the vivid blue-purple stripes near the end.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8ynHa3eDjx0uwpud8chCxc9tSToOJpDDTCw7SjzMEbiBYTQ_yL2e4wYbK_oUp_IVzFY8Bc4BZWnIpq284mMVgdXWzwzUuSEs4_c9W3j4ly8P8IN3trWN3kQsdDARBA2jZH0FdNQhisdd7sVNtvC8xaZ41ZKm9-pDloJoe4Ffx_7F0-nzlOEuvHEkebmjziIT8DR7TaVjYtYzXh0Tp9WseXLRBqKmKnGbDiFNsU4IY_-sv0Yr2rEbBlrMn-2WFvZJeJE91Noe0f5TlI3ghU04ymIhPIuMB-nvTgWxVKK2ooDt6LO6D2Fzd2LQvH16EzxDsuHIt23np54uNmUTFxvnXwZGB7kLBcS1WjC5rJDVKpvct_XpnW6ayM13ggH_oH1KAz50f5qSr5sB86aFN1MTt9kEcKZIsb-zJzS8jiWyooJ0AQoPwoSEmZreifNFA36YFL9IHhJNv_YGo2Nj6ilDrL9VyzY4RP-M10RZ7QZty0V2rq3wMVSVWDHgLIf8lL_33asL-q8nvAABGw797oqKRiNDnjFtRanlWzwUNR2prKBpE0gWlBIMbgI-1DwbVPGZjHq8C2boJTp2FINgSGCn199JZ4MkvDvZh6mUv0kEQd0fcUQO7lrxLwAL3zx3MzObav0bHleu4pVUSiJTBt7gPB6TOue96ToxczujSqm4Ma-dhOUnBMiHghugkQRWABbhfCiTNQTvEGOlBB30wdeKtqYFYPqFRBD_vznEiMrSNkcfS9Dead0FnZ6PGPrdLdIecK1k1lM7DGb8ta4Y1N2bI055dLeJaEhQLD9jFARFnz-r__KyxNMCi5uuZYCRizotvfynadsTUWKWWbg_faeq23VS-f74Io7L1NapN7q6WLFRkvxQhTqPEWJ3VDogsd1I7e5Hw7zLEMLKik6yTaMS-O7M-L1hXbkAXrcLvZ37z9DKxEdD9DQbCLOEBns4WeXQD81Gjbw1ZxTue4poeGGoRFv9IRe9IV9F_i8NCWGGZH0AyVZ-kkt0jAhh6wRoVnT_Fy7Gx7gRAtrEOCnG3dQUie8LcAJxN01D6pPehdj85uYa7AOcKJUKGbtfWC4AqEKJerJiL-rCPSM10xrK5Tm_eEa9FpZmqlt6fNoaw0nTAj9cLrUM2_ffA96AL97dtKe4uZYmfk0d7pUX_ONDE5GDUCLzeS4xP8lj7K-keApz1MEE8YvfvjTzplcRXd1OYycVezeABWazwkV85pRLMvpJ3o4yY5KGVFPMK__T3XlqWORlobfw0IR0iu6uFw1nZ5793KKc_o_ytuHwuXYlUVZ1NbdDqMBiZBmVYI6KN7QYuRp44RVjFepGGjSg8WiOwGLXN_oqTheR1KbnXtSdO4fcqZ2GlX97Kv80OTRs_lPcrX-XG1wvS9EQE9ACUDahAQn4WTzFyKkpveXhFPeHzVf2smyqQxInCukeirKqnS_6DyJbtwVEsoD42S45DthrEiRs6URkd7C82PGKDAU279gIGr2rmSpGeVNbDb8sLsi764lpSeuEbrtZUL8vG5hdTHvZ8D6-Bv9WIDfDG5SCRObKkgsv5MRGYh9g7yBwtioZ2p_8Sj2SU71Tq-7ZcVEmr_Oj48ygtxpasLta4c_tKcbZokvV-Z6l1dY6xH8R6lnNJ4CCwmfBVE3ziA_QOdwoSOw_UsYFqJUbnpUcs3-CGpfKR5Easf_smcWJqJ6jenTNhb5bULzjlae68TEKhgmvOl8IohsLpTNjYzwq2-q5eqlVzbelHRSPq9Ffuh_64fTCAoqVLWqTQHcmi3ndHSLkLrzqswVoKdx8Zw1tMp8odet31ZDoYWRnThFN70uuxlUt3KC5X7L7UPEItcbW4IQ4ZaRwTmeU_YdyUyrMR1f6bpW8TsOUiVEOUzxiBJB22ml4UTPG_DU5ts4WrUSxn5KdwDbrl7qilWwCDDjMkZrjPzNYmLk5_iWDU9GhMIE7JrxmpwbVUO_cNz36OGYM8-B23OjL4lHPnnVC1pzkwMdvMpEWtURgxLyXuXrNJkCO2SMGwy9tAxT8Y5P1jfyqutJ9918x4XkNYgP1RRAGsH2jtFeYvMKCQdFla_V4-KaIOJaeRD3L97Xu0y4dUrpdLmXwj-Z_L762hvEzgmMJ6oppUbvbEx-FavfnB-rVqux1UKq2kviSvvuVCq-mmhSqXqFls7uSgcSnawIoyT3V2K0IA83J-pEdyIf1EJZosPL7WJ_pTX48qI=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06fadd4434a54fd9016abfcca251a487d19f6368f2a4d80940",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 426,
+   "completion_tokens": 171,
+   "total_tokens": 597,
+   "cost": 0.01281,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01281,
+    "upstream_inference_prompt_cost": 0.00426,
+    "upstream_inference_completions_cost": 0.00855
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

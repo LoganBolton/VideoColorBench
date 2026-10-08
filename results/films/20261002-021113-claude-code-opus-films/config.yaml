@@ -1,0 +1,12 @@
+name: claude-code-opus-films
+mode: harness
+harness: claude
+harness_version: "2.1.281"
+model: claude-opus-5-5
+effort: medium
+tools: [Read, Bash, WebSearch, WebFetch]
+dataset: films
+concurrency: 4
+timeout: 900
+questions_sha256: a22497fa224045f983374fab899eb4c0b8674ed43c24f261c30df2a19df2a20c
+notes: Claude Code session per question. Can open and crop the barcode, run code, search the web.

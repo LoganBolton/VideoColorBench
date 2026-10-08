@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907362-nTsoIF1PdQEBeBItBZFz",
+  "object": "chat.completion",
+  "created": 1790907362,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the color palette, not a certain identification. The barcode is dominated by warm sepia, amber and brown tones, broken up by a few muted blue-grey passages. That fits *The Illusionist* (2006), which is known for its sepia-tinted, period look. Most of the other options would likely show cooler, grittier or more saturated palettes. *Beauty and the Beast* (2014), for example, is much more colorful.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "Thinking about a movie barcode with warm browns, sepia tones, and some blue\u2014that matches The Illusionist (2006), which has sepia and amber hues throughout, unlike the colorful French Beauty and the Beast. I'll go with D.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about a movie barcode with warm browns, sepia tones, and some blue\u2014that matches The Illusionist (2006), which has sepia and amber hues throughout, unlike the colorful French Beauty and the Beast. I'll go with D.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSvwYKEAgSGAI4AUIIdGhpbmtpbmcSDDAcl1LIwtUdhzPesRoMUa8rN+lbxPWliYqYIjDGBhrKGSP6e6UPPBnyOV5HF17FdvUzE5QNDoXh9d+5icsn1TPBnTXO5zv3AhFudAAq3AUJWxAoeTnkUKkrNVn+0zJzYv09s5E96MfpCRo0eLBKVtO+ujN4r5L6cSxZUQ8iR4uNG6I29MOqfCV83+y8cbtTEQmHk9SoFtO0dWevvFFT0SES7XvIJjqPNKSwl6RWRVnNU1Gjl6PVsyrl/yUYoPHQUCmay01Rt995/yV57JaUugJ694nYX2PuGllXIWDTGkIvEGGQR6U6xoio4L5fN6mfySf3QlDAJFNh1YjkuxI9hlROI4xtkWkOv8nNkqTG9pX6FktNzjdG6GRkzrzYNEj9bLw3Lt2cD3DMxqagDIODJaomTHiFmEj1ExlxC3cbT6JuVQReFK6tA5G/GJpvAV5L2Q3yDHOWCfHSf67uxEIXEfwxKK9dTFvzUKkTN8ZbXLCNZUUopgpDLegdN60rgOChtf370fBA6Bw1s0GXA4XDsyifU/hLfp3/mNuIOO6aihkTCkB4auktprTO77HAwoImSYlfcsVmILvXL4/oedFysNxl2+FbvsI9mk0wLumUhnKwlup1A/cQGyOg+t9ASdYTTYtnB+/FwSKD+AU1Wz3kxKdQZkuw4XFlF1hQdPUDKdRT4Hm5PLs/3yb/PVfaEXvTrEtHGQJljcB7Mr3dGkXRXZQuDWDmC5l+q8MzJO3HVEZDhryOFGmJQl+9+PXK5VLzA4/X3Gr5EEZOZVD6A2knd4kEItwz8S9BR22rsHam6gPUo2LWvbJkmsKJiL0vCRPFnuQf0NPvlDR3I2oYITV+bF3PsALv5YIfsZhWegwY4ywr2irO9ZYB6LibSrp0+fQa47e6BoDq8TAbMjieYOLdJELxcSRxTSEk3ONMMplmcH/6udDiSIXBd0rd2dyHRea4yAfs191/rEkUEdbteTA37tQ2UckPv9RBmm/v88kVomANyfPj0g0rP/3fxQuy5dLDosnz4Rj7hM4bhBoC8hIE+JomI9CxuhktIAdyBAfheAVHKPqhZbpRFHQoI1MYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 517,
+   "completion_tokens": 244,
+   "total_tokens": 761,
+   "cost": 0.006948,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006948,
+    "upstream_inference_prompt_cost": 0.002068,
+    "upstream_inference_completions_cost": 0.00488
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 96,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

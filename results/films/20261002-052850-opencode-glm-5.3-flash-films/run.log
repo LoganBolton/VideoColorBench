@@ -1,0 +1,113 @@
+2026-10-02T05:28:50Z  opencode-glm-5.3-flash-films: harness mode, opencode:openrouter/z-ai/glm-5.3-flash, 100 questions to run, 0 already done
+2026-10-02T05:28:50Z  git 2acc196ef1, questions 4214952f1a88, opencode 2.0.15
+2026-10-02T05:31:05Z    wrong     135s  Metropolis (1927)  guessed Night of the Living Dead (1968)
+2026-10-02T05:32:40Z    wrong      95s  The Lady Vanishes (1938)  guessed Carnival of Souls (1962)
+2026-10-02T05:32:52Z    right     242s  The General (1926)
+2026-10-02T05:33:55Z    right     305s  Nosferatu (1922)
+2026-10-02T05:34:36Z    wrong     346s  Battleship Potemkin (1925)  guessed The Last Man on Earth (1964)
+2026-10-02T05:40:37Z    wrong     361s  House on Haunted Hill (1959)  guessed Carnival of Souls (1962)
+2026-10-02T05:42:03Z    wrong     793s  The 39 Steps (1935)  guessed All Quiet on the Western Front (1930)
+2026-10-02T05:43:13Z    wrong     621s  Black Narcissus (1947)  guessed The Haunting in Connecticut (2009)
+2026-10-02T05:43:50Z    error     900s  The Kid (1921)  timed out after 900s
+2026-10-02T05:43:50Z    error     900s  The Passion of Joan of Arc (1928)  timed out after 900s
+2026-10-02T05:43:50Z    error     900s  All Quiet on the Western Front (1930)  timed out after 900s  LEAK  DOWNLOAD
+2026-10-02T05:44:35Z    wrong     640s  The Red Shoes (1948)  guessed Existenz (1999)
+2026-10-02T05:47:26Z    right     171s  Night of the Living Dead (1968)
+2026-10-02T05:47:40Z    error     900s  His Girl Friday (1940)  timed out after 900s
+2026-10-02T05:49:59Z    right     369s  The Last Man on Earth (1964)
+2026-10-02T05:50:42Z    wrong     412s  Zulu (1964)  guessed Manos: The Hands of Fate (1966)
+2026-10-02T05:51:25Z    right     562s  Carnival of Souls (1962)  LEAK
+2026-10-02T05:53:28Z    wrong     771s  The Little Shop of Horrors (1960)  guessed The Little Shop of Horrors (1960)  DOWNLOAD
+2026-10-02T06:14:31Z    error    1840s  Manos: The Hands of Fate (1966)  {"type": "provider.transport", "message": "ECONNRESET: The socket connection was closed unexpectedly. For more informati
+2026-10-02T06:33:49Z    error    3037s  Charade (1963)  timed out after 900s  LEAK
+2026-10-02T06:34:51Z  opencode-glm-5.3-flash-films: harness mode, opencode:openrouter/z-ai/glm-5.3-flash, 86 questions to run, 14 already done
+2026-10-02T06:34:51Z  git 3b0b820c05, questions 4214952f1a88, opencode 2.0.15
+2026-10-02T06:38:58Z    wrong     248s  The Passion of Joan of Arc (1928)  guessed Battleship Potemkin (1925)
+2026-10-02T06:39:26Z    wrong     275s  Black Christmas (1974)  guessed Manos: The Hands of Fate (1966)
+2026-10-02T06:41:13Z    right     135s  The Eagle Has Landed (1976)
+2026-10-02T06:42:49Z    right     478s  All Quiet on the Western Front (1930)
+2026-10-02T06:50:13Z    right     923s  Dark Star (1974)
+2026-10-02T06:50:42Z    wrong     676s  Capricorn One (1978)  guessed Before the Devil Knows You're Dead (2007)
+2026-10-02T06:53:54Z    right    1143s  Aguirre, the Wrath of God (1972)
+2026-10-02T06:55:03Z    wrong     734s  Nosferatu the Vampyre (1979)  guessed Nosferatu the Vampyre (1979)  DOWNLOAD
+2026-10-02T06:56:30Z    wrong    1300s  Charade (1963)  guessed Charade (1963)  DOWNLOAD
+2026-10-02T06:59:16Z    wrong     322s  Fitzcarraldo (1982)  guessed The Pledge (2001)
+2026-10-02T06:59:51Z    error    1500s  The Kid (1921)  timed out after 1500s  DOWNLOAD
+2026-10-02T06:59:51Z    error    1500s  His Girl Friday (1940)  timed out after 1500s
+2026-10-02T06:59:51Z    error    1500s  Assault on Precinct 13 (1976)  timed out after 1500s
+2026-10-02T06:59:51Z    error    1500s  Manos: The Hands of Fate (1966)  timed out after 1500s
+2026-10-02T07:00:56Z    wrong     353s  Sophie's Choice (1982)  guessed The Illusionist (2006)
+2026-10-02T07:04:30Z    right    1396s  The Boys from Brazil (1978)
+2026-10-02T07:04:36Z    wrong     485s  Sleepaway Camp (1983)  guessed Manos: The Hands of Fate (1966)
+2026-10-02T07:15:13Z    error    1500s  Prom Night (1980)  timed out after 1500s
+2026-10-02T07:15:27Z    wrong     657s  Legionnaire (1998)  guessed Jane Got a Gun (2015)
+2026-10-02T07:15:42Z    error    1500s  On Golden Pond (1981)  timed out after 1500s
+2026-10-02T07:17:30Z    wrong    1094s  Day of the Dead (1985)  guessed The Exorcist III (1990)
+2026-10-02T07:21:15Z    wrong    1285s  The Exorcist III (1990)  guessed Day of the Dead (1985)
+2026-10-02T07:23:23Z    right    1412s  Pacific Heights (1990)
+2026-10-02T07:24:51Z    error    1500s  The Lawnmower Man (1992)  timed out after 1500s
+2026-10-02T07:24:51Z    error    1500s  The Last Seduction (1994)  timed out after 1500s
+2026-10-02T07:25:23Z    wrong     247s  The Importance of Being Earnest (2002)  guessed The Little Hours (2017)
+2026-10-02T07:25:56Z    error    1500s  An American Werewolf in Paris (1997)  timed out after 1500s
+2026-10-02T07:29:36Z    error    1500s  Sliding Doors (1998)  timed out after 1500s
+2026-10-02T07:31:02Z    right     458s  Boogeyman (2005)
+2026-10-02T07:34:27Z    error    1140s  Existenz (1999)  {"type": "provider.internal", "message": "Upstream idle timeout exceeded", "status": 200}  DOWNLOAD
+2026-10-02T07:37:27Z    right     385s  The Illusionist (2006)
+2026-10-02T07:37:31Z    wrong    1201s  The Pledge (2001)  guessed Chopper (2000)
+2026-10-02T07:40:14Z    error    1500s  Arlington Road (1999)  timed out after 1500s
+2026-10-02T07:40:42Z    error    1500s  Chopper (2000)  timed out after 1500s
+2026-10-02T07:42:34Z    wrong     303s  Georgia Rule (2007)  guessed Leaves of Grass (2009)
+2026-10-02T07:42:50Z    right     503s  1408 (2007)
+2026-10-02T07:48:05Z    wrong     315s  Transsiberian (2008)  guessed The Pledge (2001)
+2026-10-02T07:49:51Z    error    1500s  Candy (2006)  timed out after 1500s
+2026-10-02T07:49:51Z    error    1500s  Half Nelson (2006)  timed out after 1500s
+2026-10-02T07:50:23Z    error    1500s  Man of the Year (2006)  timed out after 1500s  DOWNLOAD
+2026-10-02T07:50:56Z    error    1500s  Paris, Je T'aime (2006)  timed out after 1500s
+2026-10-02T07:54:36Z    error    1500s  The Contract (2006)  timed out after 1500s  DOWNLOAD
+2026-10-02T07:54:45Z    wrong     262s  The Rebound (2009)  guessed Transsiberian (2008)
+2026-10-02T07:54:48Z    right     297s  The Haunting in Connecticut (2009)
+2026-10-02T07:55:20Z    wrong     878s  The Messengers (2007)  guessed Day of the Dead (1985)
+2026-10-02T07:58:15Z    wrong     219s  The Warrior's Way (2010)  guessed Jane Got a Gun (2015)
+2026-10-02T08:01:43Z    wrong     818s  Bad Lieutenant: Port of Call New Orleans (2009)  guessed Before the Devil Knows You're Dead (2007)
+2026-10-02T08:02:27Z    error    1500s  Before the Devil Knows You're Dead (2007)  timed out after 1500s
+2026-10-02T08:03:47Z    wrong    1414s  The Air I Breathe (2007)  guessed Assault on Precinct 13 (1976)
+2026-10-02T08:07:34Z    error    1500s  The Accidental Husband (2008)  timed out after 1500s
+2026-10-02T08:12:50Z    wrong    1379s  Leaves of Grass (2009)  guessed Leaves of Grass (2009)  DOWNLOAD
+2026-10-02T08:14:54Z    wrong    1206s  Apollo 18 (2011)  guessed Silent House (2011)
+2026-10-02T08:15:56Z    error    1500s  The Extraordinary Adventures of Adèle Blanc-Sec (2010)  timed out after 1500s  DOWNLOAD
+2026-10-02T08:17:28Z    error     901s  Silent House (2011)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req  DOWNLOAD
+2026-10-02T08:17:31Z    wrong     157s  Side Effects (2013)  guessed Rampart (2011)
+2026-10-02T08:17:34Z    error    1333s  Detachment (2011)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:43Z    error      12s  Automata (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:44Z    error       1s  Before I Go to Sleep (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:45Z    error       1s  Draft Day (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:45Z    error       1s  I, Frankenstein (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:46Z    error       1s  Stonehearst Asylum (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:47Z    error       1s  Jane Got a Gun (2015)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:48Z    error       1s  Knight of Cups (2015)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:48Z    error      14s  Beauty and the Beast (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:49Z    error     112s  The Host (2013)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:50Z    error       1s  The Gunman (2015)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:17:57Z    error    1392s  A Monster in Paris (2011)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:52Z    error    1029s  Rampart (2011)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:53Z    error       1s  The Infiltrator (2016)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:54Z    error       1s  Security (2017)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:54Z    error       1s  The Little Hours (2017)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:55Z    error       1s  Wish Upon (2017)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:56Z    error       1s  American Animals (2018)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:56Z    error       1s  Midnight Sun (2018)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:57Z    error       1s  Prospect (2018)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:58Z    error      71s  Little Boy (2015)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:18:59Z    error       1s  Villains (2019)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:19:00Z    right     913s  Take Me Home Tonight (2011)
+2026-10-02T08:19:13Z    error     383s  Killing Season (2013)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:19:31Z    wrong     103s  Southpaw (2015)  guessed I, Frankenstein (2014)
+2026-10-02T08:23:15Z    error    1500s  Puncture (2011)  timed out after 1500s
+2026-10-02T08:26:26Z    error     449s  The Man Who Killed Don Quixote (2018)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:27:29Z    error     571s  Fifty Shades of Black (2016)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:27:34Z    error    1200s  Trespass (2011)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:30:14Z    error     766s  99 Homes (2014)  {"type": "provider.quota", "message": "This request would exceed your available credits given your current in-flight req
+2026-10-02T08:30:40Z    error     770s  Brain on Fire (2016)  {"type": "provider.internal", "message": "JSON error injected into SSE stream", "status": 200}
+2026-10-02T08:30:40Z  
+opencode:openrouter/z-ai/glm-5.3-flash: 16/100 = 16.0%, 51 errors, 0 unparsed, 1 leaks, 10 tried to download a video, cost $3.94
+2026-10-02T08:30:40Z  chance is 10%. results in results/films/20261002-052850-opencode-glm-5.3-flash-films

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955380-JeFFHzOFVtrBg3tiQOsJ",
+  "object": "chat.completion",
+  "created": 1790955380,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing visual elements**\n\nI\u2019m considering visuals for two styles: one with muted olive brown stripes, where a white end is about 4%, and another with a vibrant palette of tan, blue gray, and white. The muted, earthy cartoon style contrasts with a more vibrant aesthetic. I need to note the colors, such as red, mint, and olive while observing the brown and blue-gray tones. The end credits could play a role in achieving the desired aesthetic too.**Exploring color choices**\n\nI'm thinking about colors, specifically a calming dark blue paired with vibrant greens. The bright saturation in greens feels very different from what I\u2019d expect with muted tones, possibly linking back to styles associated with Masha. It\u2019s interesting how color choices can convey different moods or themes, and I'm curious about how they interact. Should I explore how these colors might work together? What impact would the contrasts have in a design or visual context?",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual elements**\n\nI\u2019m considering visuals for two styles: one with muted olive brown stripes, where a white end is about 4%, and another with a vibrant palette of tan, blue gray, and white. The muted, earthy cartoon style contrasts with a more vibrant aesthetic. I need to note the colors, such as red, mint, and olive while observing the brown and blue-gray tones. The end credits could play a role in achieving the desired aesthetic too.**Exploring color choices**\n\nI'm thinking about colors, specifically a calming dark blue paired with vibrant greens. The bright saturation in greens feels very different from what I\u2019d expect with muted tones, possibly linking back to styles associated with Masha. It\u2019s interesting how color choices can convey different moods or themes, and I'm curious about how they interact. Should I explore how these colors might work together? What impact would the contrasts have in a design or visual context?",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8-FoWXfqYZyMUsyL3vjm2_Foj-yCFJP-y3e0dBicc_iFvvPyy6V0zEICf7AhOR8KKsoFwXU1zBd7gpLf3oKrJJvpv2Jk99du3SS-hP6Zy8aafFwppQlQ6qb1HkKacgW1OAqNv72Y_uqsT7ixC6fNLRY-6o0wus6itLHu_ery1M2aHwoFsqjrygqYqaRMaBw5vBXHogy29hxe4uJtCXRYHBmFXVsAREuqO4XntLVk7g72HQqRz76nTp9bv5nagZvSMACvhFiVcqk18pn3Zn4JGqq0TO_LFXQ0w1KUYY4xe-t3ae1gJpKN71i5W0l8xO3YiYB7UCmLSuC6TJF2Vj-3avE2D0R_iFNlK-OUlCgT2nG30gKi-d-vGE85jEZfLqTx8xTcS8VtKfkTaM6ac1KnNLG-LuS_fAL3c2JzS8jsiXyh2ZVo805w1EwkTLCfC6NTR7hbFK7b2mpYFLLjyRZUq_wd499ZEt_MOkBzjk259wWZjIaYgwP5jqoQZSG-eNU40aqewexJX2iThjxUh2ftHIkVQZjBSlCkNA0h5wzCueYeJZ5XHDTX20p6nNgPaxKHX4jOmjs7ekwFtc0QO3VAiNF7jcH6gO9k59J8SlAYQHz1DhZVvb0uOmqhw6ymTVSX24l5YhMacuXLzM2ZghLBz_mc6kzBVwxyyKYNdqdTnRZLim0X1q7_hkz5dTS6O1Cq4ntV3AxuDuqnYTxorvSrg78wD-uwmKz-Z-mwCvFB_Acb4hss3nqXwUpbaxO4GH0Z50oVuxiELfmN_1UCaEyCwbRBOoW6LiELqk5vq9m45UdVD5VUFF2s5rQmT0XCi58vM06uRGClS7bnTlK_McZj7xRlkpSuQo3ypQ65DLDsfZVHv6KGDr8cfIlOZhFy0ki69FAPrPA1xh9cNLAY4V3-8GwGsQsXZYZMGfabJXvU12erM6PzkyvDhYZEK1fOeGH8LBwXFpfCgbP_8TJkOsziy9vRJvj3LpHLPB6nK3vAoPqPdjewN-DJFWACL9ezPSU3rU4ZIBGDgh0sBF9z3uxLLmCaER_c86oo8-4TEGnwzvTTHWo2o3QaAr2CTV0QCVnCbISNsz7flRCBc8o99jG1XRnDPntdPrfNLipwHxoOY6VfSgSrtPTxF0WPK7FTqBAzL4NkX8Nh8eHzYTo7dhKdsi0zcftNiGU4BQ8JroPZCkqw8TD3FtWK7-JBY2JYiNYx5sxg06C-amB6NSEL4frFe1dM2C5pSn2phmnUFUDRTVXvVdKb3LN4l3dtitCGvqVX3kfNkvYCnHmK8iXm9BCyvpDLNSv8KDOF5JXPRVwu7quvc0lJCRl6rP-BFzHADrV613JvVKMGqiCP0bGL421mfTEdo8ngrnAmU_cOqONVJ3KGlpnU6VdBHa3lFhIVO-jXLeobbem8bzIGHYn4ZAZAl2SetAbQ_9z8CRZngVgHHuOrAqED45uu26r5ZCvTgE6HhHXD1ph6ivU0A6F_FgI3ehkFxyhJzC5sumOYiHZdFKKOeIdV8n8q2LZKiOEBglp4SLXlqkybi-XqcqBR6zdMUqwALkwpGp49H8gi5hKNzPYo777AsBNfY5NuOCdGT7ROlNqFoMwcmKh8G81CvE1W7a2xBAEnAORLNpx08pmovuEAgEc-2lhfOjcBmlrjBYskzT6boTqXKHI6_Ou62z6ZT48rrS2ZZ9hzQ-mTJSegXDJiBjvpJVfA0ETRNWtvbMAizOPqMDWzYXLe_EczvvDNvViFMarKkBh5zU-TOn82PsOGRyTPo6odtbFHMU0MINnxe21k23EYGPv_SdnBaEANxtgB2x24EzMqd7AXnD-pU8_fMK8FOgxQxMfq13BEw-sX0vVPgYJp-uzcBEO-KCW4zqHZiG82jtq9TYzCSFq1wek5C8QLRCdP0sFLxGfhGJOPT8h2sfNLyJEEi2VOqWKkwgfhZPe54ZFUXMzhLdI4ZvQfvs0tdP113ki6-__iiSSEVBKF8biKpW_VDm8IraxIMX0rUiqdmb30QZDf9tmdpeqyHIs6KH4-S-vmHUK3yT00UMtBK6bqjKAuDMTUcfJ65VllvNYipPoJgTMR0ytezz_gKvKlswrJXz6PUjvGj_3-6kQQiwZ72PLBcgG9wTH_zt2yPMHVxGFhf8wQSgdkSRy_oG5p7m85VW0M1rLSD-GR2W-J-9-SNPr8O4DQkOj4rIBOF0b1UGM4rraYFjo4alxQ9gUEEzept86_exb6Fo58n-_3u8f8-rz9evm36b3C9fYiJIMEFkJxB-5oKKxASug9P1Ro892z3hrOUYIa5d1sGZSbh-iPQanBNHJuEnZbVSGd3Zt1dW6H1UMGZZrLdH05551tV5HRZSPFXPelTJLYv-uXEHptSXC6AVeivI38lTGRr4_kUAOk8S3B5u2ZQecQFglJZ-Z3GDK_Vow__H1cGBAN96A0bT50yHnufqK7yper96H1d2Nk13zo0SmI2fWsXlvmwDWxJGjkbcIK8pXOmFt8r0xwSIqemZhig249mrqZqWfzFvKXb3De9JCxGp_l9uj_mm1rbKsuHZ3f8c07EhdeAObA3wYOYMPJBmVgHXEv6cttgJe3lQ_UKj403FqnvgWAK6zUGGMNCUp9jKu7QQU.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00747b8e2fadc23f016abfcf77be5887d19b7a786973439c9f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 509,
+   "completion_tokens": 213,
+   "total_tokens": 722,
+   "cost": 0.01574,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01574,
+    "upstream_inference_prompt_cost": 0.00509,
+    "upstream_inference_completions_cost": 0.01065
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 204,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

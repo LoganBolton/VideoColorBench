@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924306-mSVh2ztBxzFQLb4ZxwWg",
+  "object": "chat.completion",
+  "created": 1790924306,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the color signature, the video is overwhelmingly dark\u2014deep blacks, midnight blues, and teals\u2014punctuated by recurring deep red/maroon accents. That moody, low\u2011key palette with red highlights is characteristic of The Weeknd's *Starboy* visuals, which contrast sharply with the bright, saturated color schemes of the other listed music videos (New Rules, Sugar, Sorry, What Do You Mean?, Attention, On the Floor, Roar, Se\u00f1orita, etc.).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on vertical stripes representing average colors of video frames over time. Let me look at the color palette carefully.\n\nThe image shows two segments (maybe a pause in the middle due to a white divider). The colors are predominantly dark: blacks, deep blues, teals, with some maroon/dark red accents and a few grayish tones. There's a teal/cyan stripe in the left half and another in the right half. There are dark red/maroon stripes scattered.\n\nLet me think about each video's visual style.\n\n- Dua Lipa - New Rules: bright, colorful, white background, neon colors. Not matching dark palette.\n- Maroon 5 - Sugar: colorful, candy-like, bright. Not matching.\n- Katy Perry - Roar: bright, jungle, orange/yellow. Not matching.\n- Bruno Mars - That's What I Like: has some warm tones, but also dark. Hmm.\n- Jennifer Lopez - On the Floor: bright, club, colorful.\n- Shawn Mendes & Camila Cabello - Se\u00f1orita: warm sunset tones, reds, oranges, yellows. Not matching dark.\n- Justin Bieber - Sorry: bright, colorful, dance, neon. Not matching.\n- The Weeknd ft. Daft Punk - Starboy: very dark, moody, with red accents! Starboy is known for its dark aesthetic with red (the \"starboy\" red leather, dark backgrounds). This matches dark blues, blacks, maroon/red accents.\n- Charlie Puth - Attention: bright, colorful, dancing.\n- Justin Bieber - What Do You Mean?: bright, colorful.\n\nThe Weeknd's Starboy video is famously dark with red accents. The palette of near-black, dark teal/blue, and deep red matches Starboy very well.\n\nThus answer H.\n\nLet me double check the teal stripes. Starboy video has scenes with blue/teal lighting? Possibly. The overall dark moody vibe fits.\n\nTherefore I'll answer H.\n\nI need to provide reasoning then final answer format.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on vertical stripes representing average colors of video frames over time. Let me look at the color palette carefully.\n\nThe image shows two segments (maybe a pause in the middle due to a white divider). The colors are predominantly dark: blacks, deep blues, teals, with some maroon/dark red accents and a few grayish tones. There's a teal/cyan stripe in the left half and another in the right half. There are dark red/maroon stripes scattered.\n\nLet me think about each video's visual style.\n\n- Dua Lipa - New Rules: bright, colorful, white background, neon colors. Not matching dark palette.\n- Maroon 5 - Sugar: colorful, candy-like, bright. Not matching.\n- Katy Perry - Roar: bright, jungle, orange/yellow. Not matching.\n- Bruno Mars - That's What I Like: has some warm tones, but also dark. Hmm.\n- Jennifer Lopez - On the Floor: bright, club, colorful.\n- Shawn Mendes & Camila Cabello - Se\u00f1orita: warm sunset tones, reds, oranges, yellows. Not matching dark.\n- Justin Bieber - Sorry: bright, colorful, dance, neon. Not matching.\n- The Weeknd ft. Daft Punk - Starboy: very dark, moody, with red accents! Starboy is known for its dark aesthetic with red (the \"starboy\" red leather, dark backgrounds). This matches dark blues, blacks, maroon/red accents.\n- Charlie Puth - Attention: bright, colorful, dancing.\n- Justin Bieber - What Do You Mean?: bright, colorful.\n\nThe Weeknd's Starboy video is famously dark with red accents. The palette of near-black, dark teal/blue, and deep red matches Starboy very well.\n\nThus answer H.\n\nLet me double check the teal stripes. Starboy video has scenes with blue/teal lighting? Possibly. The overall dark moody vibe fits.\n\nTherefore I'll answer H.\n\nI need to provide reasoning then final answer format.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 548,
+   "total_tokens": 979,
+   "cost": 0.00109215,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00109215,
+    "upstream_inference_prompt_cost": 6.465e-05,
+    "upstream_inference_completions_cost": 0.0010275
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 456,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

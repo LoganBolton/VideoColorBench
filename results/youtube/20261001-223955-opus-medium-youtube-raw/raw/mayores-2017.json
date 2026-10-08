@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894473-ZAgZgEAyrKJd9Tx563BL",
+  "object": "chat.completion",
+  "created": 1790894473,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colour pattern; I can't be certain from average colours alone. The barcode is dark throughout. It opens with warm red, brown and purple stripes, then shifts to deep navy and blue, with darker stretches between.\n\nThat fits the moody, dimly lit look of \"Taki Taki\" as I remember it: fiery red and orange scenes, purple-lit shots and dark blue segments, rather than the brighter, sunnier palettes of videos like \"Waka Waka,\" \"Calma\" or \"Con Calma.\" \"Criminal\" and \"Ay Vamos\" are also dark, but the mix of fiery warm tones and deep purples and blues points more to Taki Taki.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm recalling the color palettes of these music videos\u2014Taki Taki's neon purples and fiery reds across its artists, Criminal's dark red tones, and Ay Vamos's nighttime blue hues.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm recalling the color palettes of these music videos\u2014Taki Taki's neon purples and fiery reds across its artists, Criminal's dark red tones, and Ay Vamos's nighttime blue hues.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSjAgKEAgSGAI4AUIIdGhpbmtpbmcSDIjVr0DHEG7Nuo/DaRoMnIdv+FW39qHKugQbIjCeGbC0zERUS45CgAyU6014PDFWWyRWdH7HT5eGO7owOKjA+EMx3tyAeSw1IwV0fzQqqQdqqwcG7l9i9QQ5NcgQvdbAkFIK6hulqjen3lJemqajBNDGB5aPdbfPRsUwOlJ6SI23Mbu30UJ3akpCA2CW9JDa7dZqqgJFAlcSul5R1Tys9TMQzmyqOv+gqPyje0V3DnWSkm52W6yHjHgoDnoKIvrOFIAs4DsH6ou7NZQP7W6TBU1k0ylxHsRmmkcQ8q0nffoJHzKEx71O/R+DEN2iqXaTZX0alilWhbcBl2fhUxJ/SCa32GTY2sdNlT42Zp4S1FnXnlsGG06fFLlT6g5md+bDgQHheFptJVzeNbuotVYuE8wc+nqb/Wen+w9GDyxIZRacKJG/EmIdCnLfol//avlNiMepYRIHUg043yFFGjmpnVbRcLNiHW6HPjIdWdf2XMgsPR//SeYEfRcFAFndtyfdxosKoaC7vo6Clu29zcmg8NfhjtiSPcjt5pkJmNQlsHNHwxNeWvIGbeHupqAVZHTEZvkYXc7Hz6psWs3cRezUlQhE47qYWKLyZgPHe5StuvaKkR484SBuwuU2YYZ9nuJsje5ihvCu8gzdY0Rr9y4bi/V4Z/GOBRuRlRR1r/UHsDeSk4FcoNeV8J09IawCuqz7Gxnb1bkigLx/boRbQLsJnlHgXKQQBiluSxPRVLkA0nMvQ65EctLqdp0kg9lEm84wV+uTpRZutoqlnsT2odf6PwkaynC+LE7031AOJ7BeNuf/LJRx6S6+NJ06cqBfqE6K7Mhn4uxTl3cd7Hf+OcENfTwEUVjx4hPQ1ij+hObQWNh24ma8zFVzli4GTfkyY02Hdkav1CPrCWezQyHyOxEy1VvNr+NG5kzCt3Ng9lqdsOeeSVr8ZlfCa56/tWSmKSBm1SKxIuGNuFOFH6ec84AspOP1YCsyS9GcYIxp8uQGgAS9OS89T8wlGbVD3UWBLAgRFvK+ivF/TAr0S77c57uwHPIcIL2onpN+iojRvP+pGITL2cx0BgL47auxVkUg9IfovIq+1mV0nCeo1ml03c3P6/fviCs5nDq+dBWbFE4y6Z630V3rtEyz5+ag+yL7n9ji6Wuy7DP43rq8A3LhVytdpJMnAbL2LwLpGcLuUTLF0wxQuHWDLVHhHgJL4wYReajMG0ZoYvNN1hBYWWp6qQD+5gh690K+oUxJzN74sjt8WaNpzh6jxholqns9EIup8gSEGi6ISPHsN1TRWGgaxzbZ6Y/Jbevfvvsc6SkZcOST7QQih6UYM9Z/bTnwd6Fmf1a+ZXvnnba9Vy7uGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 668,
+   "completion_tokens": 414,
+   "total_tokens": 1082,
+   "cost": 0.010952,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010952,
+    "upstream_inference_prompt_cost": 0.002672,
+    "upstream_inference_completions_cost": 0.00828
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 184,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

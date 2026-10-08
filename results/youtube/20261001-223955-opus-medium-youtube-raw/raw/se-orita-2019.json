@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894500-KgS5LjjEgdxOaC4fyera",
+  "object": "chat.completion",
+  "created": 1790894500,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette rather than a confident identification.\n\nThe barcode is mostly dark: muted browns, charcoals and deep teal-black tones. A distinct block of deep red appears near the end, followed by a return to warm browns. That fits the moody, low-light look of Ellie Goulding's \"Love Me Like You Do.\" Its video mixes her performance scenes in warm, dim rooms with cool, grey-teal clips from *Fifty Shades of Grey*, including the red-toned \"red room.\"\n\nThe Weeknd's \"Starboy\" was the closest alternative, since it is also dark and uses red neon. However, I'd expect its red to show up more prominently throughout than this single late block suggests.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across music videos \u2014 Love Me Like You Do pulls dark teal and red tones from Fifty Shades imagery, while Starboy leans into dark backdrops with red neon crosses, and Se\u00f1orita settles into warm browns.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across music videos \u2014 Love Me Like You Do pulls dark teal and red tones from Fifty Shades imagery, while Starboy leans into dark backdrops with red neon crosses, and Se\u00f1orita settles into warm browns.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpgkKEAgSGAI4AUIIdGhpbmtpbmcSDJOV2WFygDs/zBRGfhoMnLFVqJpw2TLIfl3+IjDqBNHBT67SW6dnTqLVg9sMDmyp4kDnmNWDQjqz9VC6Gkkwh8O9kKQ313ftY041/EAqwwh8RhmtbNpSVKBGdsjuW4wfqkuRnT26Dv6Fz7618dA3U07ukss2BII8dB4gdDoB5DGQ4VP6OIsoLCjLAOs/H9ymc1TXHa9CE4DrGvLqG60V7VFI3tkxWCGg3TxlHfbUaFttVk0NCl+t1qHlUOWoSfxCyErHVnCe24oWR65jQcgUPSMW6jgqS5yDOQVk5d+IE8ttamVavi/dyo3lO95l3K0PIH5/mU4CLLW5PGok98ACY1/sLj8AubNJ+WKlGC7HeoI0xvdtUghVQIpdFdg7oApohCLNX5rLpKQqZeyE/u4cFQrdPDL9mW0UofHD+BQg11gu6JYibEYI/XgWtZzUdFOFyRRILIM5ZTigLLVyg0FikaRsnWGoFpiNxomqshigPEXIaC83mG00+bUwGLZUuVLEouGyANkM5Ava7bjj/uuFvJWOUw6lsGACj4Igd656F9cpntCVxYCzC/0+8ASSjUeEtGTpezV9gUSgbXc376IW3Xm9sGFmbBeUanNfbuJ/cvvPE0kcWpZeyBAopQ1j9byT1DGys/Vl1O1sHbaYj+dNSd/TOFg2OPb4eUN/6GjxCXi1XeTlIGbH+4SxuwzKj0JQFyN6SFuTr1totTcwV3GY4FuAcoxf1cn0SPZFMWa7G4vATCJYFaV/YoGVmDPAhKwj52h+v6HqNc9yWpNZLTOQJnx/0+wvx86U8091picfjOyGaZSsJ3SyaASTaKW/ljrYCvvKPm57Xjk+gFZRQJaQQj2Nb8Ni496Cm35e2yGCSa2rEc699/iWvBP+hX1kcwrAVJLevS5LVcfnxFWEeQmg5aDQ2he4oMdhAD3J9S30I4wBbvNSyRq8/jJs5xXctRIkltAmL+zuOW+6YSsoraTvhb6iM/IHqMDZIIxUSZJdadVLsYVQY6TZ9H8MH1G5B749xbcoE3o7CwKnnThA5+1h597gKcesOFMTcMKNOlqCpbpjYDk+XzdTLgyAi7NkjlYF8KmUJdZiMuZXfjPcjGnud6DgBKrckTPppoG3Zv3FnS6vSBN4vvTVzmEW7f7wcp69yIIHMMPoxj8aNEFrxfSbDI8cCbUXhSojwli+/1+60vWRkWeYg1Ndq4/6FA38wYqbz5wXKVMdFWGhIdRIOOmH4q73yM5qpKNT2hLvkl/KLMkydifKFVZ6mnzSxCxw25onTBj19nZDXYfhkUbZ0iJQL05Z8qZ6oBmosG6Y5btpKApxIdDkew7n3EES5wCTUJ6vVXJCTOxQAfz5ItTHi8hMs571X7M9HHqEJFUozG2p9bhYWHDFjhhZnKiGFYFq1X0ud+vQtSo53nze/f69GZYi4Qf1qvw13uR3n4xfjBVDtLfE6pKmUdYJwImbJeo+wXLAU5wJGni4HD+IM+3sd2JN6mctT/CvXsrDpC0iIWnCAoWZjuACK03ASp4hcXX3pPM6JllJ2EZgUHJ7q8kL9xUJuBs3EhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 638,
+   "completion_tokens": 483,
+   "total_tokens": 1121,
+   "cost": 0.012212,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012212,
+    "upstream_inference_prompt_cost": 0.002552,
+    "upstream_inference_completions_cost": 0.00966
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 245,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

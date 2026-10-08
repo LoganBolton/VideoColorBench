@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907191-oT75r00YLIrONMXHz8Wb",
+  "object": "chat.completion",
+  "created": 1790907191,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing movie barcodes**\n\nI need to figure out the best visual representation for a movie barcode that features dark teal, brown, and black tones in its last 10%. This likely pertains to \"Jane Got a Gun,\" known for its gritty brown interiors and stylized visuals. Other films like \"Killing Season\" and \"Warrior Way\" come into play too, showcasing a variety of outdoor greens and vibrant desert tones. My goal is to create a concise barcode that reflects these unique elements effectively.**Evaluating visual contrasts**\n\nI'm analyzing how the colors in various films work for a consistent visual barcode. I've noticed that security themes often lean towards dark shades combined with softer hues like grey and blue. \"Legionnaire\" captures a dark desert aesthetic, while \u201cKilling Season\u201d plays with shades of beige and fire brown. I'm focusing on \u201cJane Got a Gun\u201d next, noting distinctive teal and brown transitions throughout scenes. Lastly, the climax moments shift dramatically from blackness to daylight, which I need to capture clearly in the barcode design.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing movie barcodes**\n\nI need to figure out the best visual representation for a movie barcode that features dark teal, brown, and black tones in its last 10%. This likely pertains to \"Jane Got a Gun,\" known for its gritty brown interiors and stylized visuals. Other films like \"Killing Season\" and \"Warrior Way\" come into play too, showcasing a variety of outdoor greens and vibrant desert tones. My goal is to create a concise barcode that reflects these unique elements effectively.**Evaluating visual contrasts**\n\nI'm analyzing how the colors in various films work for a consistent visual barcode. I've noticed that security themes often lean towards dark shades combined with softer hues like grey and blue. \"Legionnaire\" captures a dark desert aesthetic, while \u201cKilling Season\u201d plays with shades of beige and fire brown. I'm focusing on \u201cJane Got a Gun\u201d next, noting distinctive teal and brown transitions throughout scenes. Lastly, the climax moments shift dramatically from blackness to daylight, which I need to capture clearly in the barcode design.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNIQs5ODdY0vdBGy4Czw1NBqMdQe0aqfXYizLPYHVR7FV0EvJO_MA8q8LCI0zQeYutvKhJpST8ETw0CSjmO0athUCY15SRIB2iV5FsmuT8l6JJMljZnqhnKnxUj1E9d9uCpfH1Kw_FPDPYahjueBek7om6nosH6uPsMkUFUTsqv-kHHVONTexWDFSayQOwvEt6_LhMY7z-h9jBGnEebkZTJEo3bQ0SWoTIAqvqa3CSjLmkhYkYGfAxPqUfn2k-Tyb0Wo4B6TujD6LrQkENNk2J3Vs3aAO69SKedmx5sJtF1W8K2pzkMCSwlFSe4qRAUihBy-OqCrRPHERPJQGbQqo6MuxZdBgpLiaqAVi0ycng4SLpy_WmwAfg5WYj1x6bLJKRgOr92jG0LzNqR6pBOUTOinEUWzW6361x4KeISAp7nHgh3XWVz51jlV4xJxXjY_iPq_kIEUCOSmYn55kR6fskX9RPrbRMwNpQzpwn9hEmzhboPDOvxd1sohHP0WaYfrVBEHTobA_kRV4oFMrwI5wgFrIsGt4DGDy5kJKFT57eRdyPELOhJOPawQ86kTzfj_ahzVgRZTPY-sPrMx9DfulEF39YNTci9srZClGsfbDdVFklTmhCWidOXwo0xeVsTZ6kSbdhIYe2e8xDR2Uyly_b-r32clokkI7PiWgdffR1hnmPw8QmlSxHW3XFbBiMPWkg27ZT0QgeF-eeA1RkiuSD7GxbM6rL_bUAtVOURB8hAka9djPz_if-Za_4xrZp10OeQ9NMnkNdiInMPc6MNidUbuY-Cm7b2YJq8KXd045xUALoS_oF0F2064XCotzoVPQmTQSltQ3FamEofy5pW53gcXo0nl0K85gdH2axTbYY-nOjWyWm8Sdy6aalNcKa3SHkkZSkXHsvXUg-7IVsAX7i-5F5n1O5NJbcyAnpOzywPEBLFGAMJZUM-JQPjY3I4GgUZ-mmNJtZ_QP3mEhrmLuDZq8dCtZU0jaWP_3jQiXJOeaAcXYCscg39ISvk7rC6gzwSmjUasP56XVaiDsSMrYMGI4zf7uQo--1VwVi8F8kEA5n5C3qMeAO-U9Ix9IAtPL2UTixUaFTg_IgAqnd1ZHey_YbQUo49PPOM7W_crr3HCrQQlkP6UU_ubcNL8wAhyYjhyTyEXpQYHFFujRWkLFVWN65qp4mnMbOjdgRhiq2faB34Zd7uHea0hbse6hVf6Wt_Rc6NMDOyOmwHVJjR0Y6QW-pnABpr4jQWVvYNdE2PdjlM46y6HRUYQkc8gUb0Ma8IGU1sZ3eIGWXOwpChLytEd0B2_o9UsjiYYlzRcfwhI1W6AgfIA-fx34Mho4yKgOqwSfHjDVvOuVmJe7eRYYH1uF4d-3dh7j3qIdlBw1kLSaapkjoESxIMFW-KLhr6xxUMqYnsPjhou0GcAxuF5_kJD9DWRScWBhmjRdBEECd6x1qQtSL8WchW-L1f5aDryf4b1UanuGJ7c5PPe4iIyBO99DCx9APZ02pqIZ7hEeCYNLvIwVUCXxEUcobpr75Db4_H8kYdUg-d1dHOpHmcyo_DkxFVTYctK0Efw8asEC43vWOyhugITdHsRs71Y4hwGuylBTEUD0EZFA0Z0YBeVdUtAvNMgJ_IjoDNQaGcOp4HLM830aYBVR3xkbNBqs5SLjzZru3VT_-yXbphSEvGvQRXQcgU6UV1UOcS35IC_qNL0byu9hXcv5rKGUOCKF_RlJKB8wv7Qw4lZeWna2FJzmIvmQP3kvMNb3wQIpfcVlTvyeZpufrnRGbjeYbLykGknUp7Gf8v5FixFtiYp2EQR5jAjZqIdTNWGju_fbKz_6jMgNSiloVvcxjABviGRklH3EGQKZcwJoT3LOFIn5lxxolpT32t_-QNN_g3jCR1w94M5V5dv5W4qMgsqfTK24LzmgjSW8LQ6HRSmgdEbdEP333COjGD6nc4MsamPGwCFWgBhDgXxH4wbAyNJ4WodB6_ABKX5G4gIOGKdmf5zP-TokAGUDnL7YIedPwtV2JjpRxxg9VcmwEd4Dq-D4GvaPtdJ7b4KvLdxGoa97sNvwq95eNrjFyE-JXyycFMNTSP5w6Vy5O8-LH_bl56gyLrqQBewcU2IaTD1U26et10w6QkAstUN5Hos0dQUOy8I9Z7wHXmebbHR6nJlIGxqiDwWrn0d0C6VxhlHXvYg5yRObY81hTViVud1sxunvdHRz05seIIfcMaKACczKRmDB3zYoNpmzMGFJGIKkwztU7GWBuvCrNqXtoAf58MKFplPmYK7e4i2SSgvDVSAX6sZb1IaiwNcaey5k08b2z0kprhVdHt6Zst_U_vbq84gMfUNwM3DzlVqY5uUTaVvOiriFXcKKCPGOzgrNewE69GEesf2jiO5FaQX0saHiKZgRKCujUDgxjWSFDJ3nYTJJhloRJ4GlxFUdRr_hEjWrDHUU5luoGmVzkISl3rolY8eFczlgC6Bdp7quDCmLMz4CCUi1ExCKGa6Uudaw8Vojn1FgZh5FtwylOuSQ5gLyOylj9-uAywiR3tj23CpqfdF-k7nJVgo_A59AkQOCJ6r2V-wr1dISpCIxIulqowW7v7ru22qUpdJKyZyDbE5l6mFZY6tF5oBruxi8X6mCe0phrgqGjJC5kOs3Lccc2xl119ygEBiAoVOWUb0HMDDVeA4KlqcGyE7UtcbmBvILzrzMF_s7K--z_45pvhF9_UeFwIUVu9ricigwprsAq_QFLF_bJTrWaHN5cyLCSq-glPnilAvKSnkcfvmnr-I69Yfg6vA5YTs0itk1VE--OpMO_jsaqo9w8wBnzGDscF63LPZ7HJcHnYAOoJRImkPFGucfDc3niyLlbtG4bPcLmTXTa7WH7GdOLVpi40jkBp14Fxg65GTECewEomfid4rfepep6F3mMRnWSTTTrYqKbpBJUZTM5B3Gv8eZMKXDN1uTQyJ2dZmogeBKNMK1GKj6GdGTEnjltT8LvCAv5MoQSIAb2NzC3Yx5x3-KoB3LhQzbt0th7lN1ddIEGwNrFDNmEbdUl8H-g5CfYrr-GDzpGm96ejXBiwpKiICkCa11wB-aO_rD4uIkUCN5jye3aZ9Dw3-YwBox37KqfhdGF_1GWmqRudgHIyaUtncfYD9pSrb0iInuQMM2Cgf2PT4_A_M-Hpjx9bzB6nkk7IsPSgFaqaa82Tu7y-NpDCAKEpGUXG_Q7yxqBfb9tGxsLLPnspyz3Eej42Qv413fy-614EUsislFUNDwpeys8vc9X_K_EHHuEiT2qzbPNPKkbklmoSPcdfaCiKBLG4oyJsrBy53liZey9cj4pimvEc0LcXYsktxpqZh-ADLI_ygizlvKMZPfBAppDKR9tv5bkCNpFUN2qFzEAObpbA26WwIECMNf-5ARMcCzmXKhK2ajpIwz8F9ok39zrr3yIpNDI53_hKFIS2Q1K-a8rQyjoYgD7D2PA-Zjy9fUofVKL3cx006foxptK2a7Fk6vUADqLfx9o6Yw533x6py9lpS_0IpcvzzQNdaeKdTEQCxcwx26_WhLK1aVKqNZ4GasJsODiDGDkdJ2NzyBRrSPgILNcrskVtkhbxa1FJ-Tdt5ugqWaqUg6X7tBKzHHlsQrbMN5gV8P8D7RNS-bREeMyC-gxg1ZnvflfAivjqo_epFD8QWI7zdIKwd4HJEUNa3-_HQkiYIpkMoJfjKBS4hPpx6pOSR63_V8Tpfg82CEsT9hF0S8l0DXoGluCUCRr8OQxDgZN4L-lA75n4pZkX4eaaPrM7ufdx2xVhHXpS-DbJPhRjoLhkSoNnkjOOSkj09EtVjdHVz9b0Cpd7ChCNFqVpEnPrFFFSVrAB_TeP45fC6IXoOw4xb9FEdw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_018fb5988eae6e2d016abf133b43c087d198174b98147ff848",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 455,
+   "total_tokens": 882,
+   "cost": 0.005404,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005404,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00455
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 432,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

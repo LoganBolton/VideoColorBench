@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954937-wlkojPcataQmFLle1mcH",
+  "object": "chat.completion",
+  "created": 1790954937,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is OneRepublic\u2019s \u201cCounting Stars,\u201d given the consistently dark, muted blue-green palette.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Assessing color schemes and themes**\n\nI\u2019m analyzing a color palette with dark teal and gray, thinking about how it contrasts against themes like \"Counting Stars,\" which has that famously dark teal vibe. There's also a baby blue bowling theme mixed with brighter colors. I\u2019m noting the attention of dark red and blue in clubs or apartments. It seems that the overall vibe is about blending various shades, from warmer tones to brighter backgrounds. I think I need to refine my focus!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing color schemes and themes**\n\nI\u2019m analyzing a color palette with dark teal and gray, thinking about how it contrasts against themes like \"Counting Stars,\" which has that famously dark teal vibe. There's also a baby blue bowling theme mixed with brighter colors. I\u2019m noting the attention of dark red and blue in clubs or apartments. It seems that the overall vibe is about blending various shades, from warmer tones to brighter backgrounds. I think I need to refine my focus!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83CNWfv5ra21XUcjk8PU6Sop6juSLTietH0wMYreTNDNoIcKJiayD2NkVeNzHDrK-kmHva-evTBVqd6I0-UfhmAO4bESdnfjDeaX0qm4JorhDLY-ziH0NsTvbDdv71tTyc_dHMmEm97CKbg4c8TBxl63VaZrAyYjPvMeVtR316eantX831yhopD8TpTbGA8cDxalbw1oCWV3n12-ZoNJ3HhyYdMyKx8hJI3A2EOoHDqRMbeNJzr9ZcIxTlIam0gLXy_62dhB7VvKtWs1GDxIeJ3MYLjHazdi0eHcfndu8IgOcgTcJw5w_k0JI7VasAORGzWW17s6nJAtPLSTZA-iLpDSN4eBKb-dbsqJh16uTiqKP0bpC_Xt-0BxJG_CSHr-nYC3cRkJdMuc5XvMTuV5xoDn8-mIGkglDp2A6t0Z_9m_hi2zttKh0eXGoSYCO74ep_VBgqb2oPOz9PNgu90075lkRoyrUQoV6Xg23ANkgSHZ8DQBLEt211XPDGkDUCp4GiCF_0TSFoz6zs2RBB_uDLO1QTorAniQHsSurdPiSfQM5Yw_I3nQb0IHMudbbfKF3sTj_BxnyqL2-MINW4ObqhDdp2ebYTOKDbfbk-318n7-XHVuONYZGcfiGQY2r1nJIx1sPKb-j2H6wCRDpsAN6TDiMRuQUqskKERx5YM_vwADDcSLEx3hlXhXEUKjKZb8jF8QJvpkwJ_nFM4oZ5SrZhXrs92snsKzkdIn8-U_Za-FqhGmjFyRrZKjPwvAgt2vGQOTOFFzPMSpTofqWoLG2gkf2zjeSznLRh2or8pgKLOm7fwYlVW2YmUuGsimFBulqzxTaHW8osEntRDFsmHM8gbd9h4PFaLipYqf2xpWAvgdEih0EjadpUrgl-f52llnQSLDMNnKZl0xfad5l5n-saHEDynUHZ-cm19z9MmSAFqV5uDayx-dJ20bR_eZLndfDB18V_krNOIv88-O8SgT1XfFf41Iw1MNHbVQ0XOQjKLMcDam-9huCCi0p2IKXuDF6u9esLHeLmxG7Ed9ZWl9WJ-oVg7QX5akZq_vQ3tOI48VVpokfm6b70NNFf3FFJjHnaX99GhwrIdEuJBRpw-LrZ1idoIlxghdRIOy8Hw7znt-gufEQ4NBekLv8pYIMB1NI1Tvsn_cJITmMg9VxotIXmn3SZR9gI1YrrzymCo6hKwmH-3y8MeM9I_tnImlzbQF3cYN8s9tEI9PVrDR4BfGVBBDXoqvl-PditnSrhIJ144qvPqSLAa38wMkFbQmUgi1BP57xDi8HSiKeqeWPjShwXP86c58TkyCYPzcmPO2XF-zL9R9iOEC-9Vs6vnkWl1TKieXbGRqLX_qAiw1HCYo4YWd8ON2-6TOXxIx_wk6ppbBld7pXxGOfN5c18DxXUlm5Y6Ivvvn8lIGLyyoM06OMpvs_IjzZ0mY131Z2PXsBub_eCBE9TatO42D2VXPqAXy4Np0OEBiPIEvoPS1C_ZF5Wz3pb_17PqtJxXXfB4XMdPspv6yPvhvlGUsnoLFwW2thPTbhvOTCUH8zDQ54w433YH_6iz3sgpK9u35QY8btqXM0kIzIhQQ3KAwDyk2ntft9AyX-gnpIS6NaFlZdfZPHCbaC8xqkUa35ujVGPWFdGTSrk4NypyqaIVJlia5gnIl9L4j5fFQJ-99YetV8bbdlbOOcIv2R-wxvi3WTfq7hZ50eVPo2g5duczxIJ1k9riNZJv4SIXwdHfCVhXHXxS0YmKQmbtKUbD0HWjj_5YNPLB6Fx5Z0JEsfhOI82uU8C6S-AoyZnfORJA7fO8jhfvvsap07vf7RMAgslrqS7iG2HG2T4EeLY8FE4li-MTFsiAvZA2HUF-BJgau8RdAg7rwuViO1yvhq4IvMtq61sS6JfDg01LWr2A9qTaneEq5v_pUEsr.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08078bec0fafb180016abfcdbc724087d19f4bb37850049248",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 476,
+   "completion_tokens": 118,
+   "total_tokens": 594,
+   "cost": 0.01066,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01066,
+    "upstream_inference_prompt_cost": 0.00476,
+    "upstream_inference_completions_cost": 0.0059
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 88,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955237-JSGFn75YKrwHbBveTaug",
+  "object": "chat.completion",
+  "created": 1790955237,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87uq1BS_IH5R7Zx-vXUhv6J18R8_zuv4-_vgqz67wy3mJnBozUqkm2Wa2rM4sRtVW3PVVR3FQc4xI0rd7mpwp65-RTfRYRl5EBFu74bcXKUK4Y1lt0Q_q238wHY8wqTCWUBYBu_t6-eAfod98eIwPePp38fY2fdacfGxW3DxDHKhy-rGX1AKnJzo4egRX2Mp3hkyr4qrQB0DErOBRCgiGclbNObsFwh4qXcChUdbYy6P7X3fsTKy6gZLfp9NlycPrPjHQt_f0Fc-gEs6LFUU5iK9Jl2GpXSeoxPnzdTFPxuNoPKrknD6pCjpxbXZSreXiXftDZtLcHTm89QvQQnCNNNe7rOdypasgSXRwJp8Dd0wnyOLS3Mon8-K92SqzwEbvunsm8JviFqOt8_-ez6hHxM2xeBVykMpv2_-wvniB9p5rSHKCadoQtuujBXk6eLgxGIpQTgZA55vx4Cf-ycHCug5u_kKhEPb_YFl-qsKtJznhdx4sRUhiZcSeUeNiSZF6pTEZfaQexyothhsJSusugoXqBRgrk68k7GIGlLzsNqLy__a-W6LCrzSo2WKRs_L9iORpIE47DwBSQ5Vvpe-D2z7Sh8WKiVUAJ47pe_fTPPhr8vV4NCS3-jYKcyIgJBrmU7eLfougBQza_59vVe32ynKlBpYD0a_qO3_zewG3hRRX5Mh9V_v6ZZGwPUzcqtwr80XH-xgbxUeig2QNmEBQurRJSBlKPjAdz0TcH4W263hpjgLWTuHbWOw9_YWAFZD4KqVyOIurC9J7lZb7tUGcUbYe2DfpN3QMbkT9Ods2YWWATgX2XU137InelP29r_yCwdTtcS06T1UeV4vxBPQ5Ca3eS2vP4JTwGJ9v6jiTC9WLT7ZetjlBeee0VwAE9pXhsbc9vDcMq_gI3y7z4KvSt15sKXNu9YbE7pdL6-L2VEzq1JsVJbG3rZQTL6JLhjTdG3cUAqra0rMHNoC0I0V7XZFbMXhBN7R10yQhRfaiDaTlOWXxodQqYsHHrul9tn-z-ghYTFjqexQORMZCfbUkBgfFw4KoJ-oTRZTctCrPAjoIESA01HqNYQA8kwRYFq3LrNOwz_qXsMlfOsiWyF2m5PAU4P1ZhM4AhN6XO_OmDbfbhIsCw20pPXLmeIlW9qEwF82F4L2SOb24uwYJMb99KbBDXtn__Ezb3vEkUAWU0PGIIsVwsLmZnXLmyzxpDkd8ouz24nfmCWOg8mP20eA534SffGInhh8rVUU9xfHQQFOKa9t2dhSkKSCwsMI46YPXjSdwX6uNlUfikxKT5bu4KyAjtRsCnlnsjh58uWJgnrZX2hRkh0ZHggWIGD9f85fTyO9THu2oQlCTNAXM7KSWIOIhhugG3msJXI_6qpVQahZw_ogo995x_naMf2swPDHupx8EjEpu6fNSLlwmmpDAzW_zfzBQ_B1_YSwlNLLQDfmrpHySTzA8-FT2wZBwoH0Wut3UQei3YFoh19HxY4PaQz1yP-mOPHrFlKJkn811LsiZxZnD3xg9PVImeBBrE0NfYbC_zuit227Ro-3QPbelamP9wJm2M5hOe8o8CIgG49Nk8RkPf5zhvouNf1ZN3y81Emo-89koiWr5OAe4CssatiHXpMV6uCJg2vw8BFwGV-oAEb_hiQ8wtdzcXiSfSI4z6g7gA5ZqyP2WtCcfiUHnOPp1kmFaMoULkpqUuejHS9lAZYEUaocNU54UV-qY9Nr604S_4MbxIGBzVcgBi-p8CVbIIAPPtobi5bkmnL2fajzr3hneNp_7pYcCeI0L86i4xd3HwrsIkmrAv7jVJ-x4LaOv3ya2mEgi42ERxk4XTv5T5UNLhYWcWH8BL93RrOS_NBQk5P9N8BkmtXSsn89B7-6pxdtD7FIn1YPqCYMuf9IvV1osznxgHrQ8nbnHjEHveUYU9iz2YWxQhELPf5zwcyBEyJ30EEtqE3G2MWe-eYYg6RijNpUQxQ_UwdIiuBFavLzSCaeOhPoSUSCCIam4EAp3t0psY5OaPGVtazyEmrUDJx8EqKl2czaDyyGleas1lEec9uhQdo2DK1_Skkps5o-GkX8sApaiLE2Aemt1HPNfurSTqYccuUOonJJqY2FujnwklqqvYCVL61vXS8fTFYmuwOw8E9P3apWENDIVKvSG_q3e5IhnqYJ6K6et4nvnRwlAg5IiF8U7jLsaOo5HaMHZwFZFcTQy_bVhTBuqZu_wFw6LHLMLmiJI_UtEV2L2sco9o6ubypflc3z4PAQ0YgpwdCUgtkJ_3UUr6AtaMalJSsv1kz4jVhVInUSgBD8KJzAvXDsHNePD-_qFyJ9Clc7yYJ4MwiZjSn1yieBsF80WShOogXarc47AfkS8kTKcpuw4n7R-bo5w_0qS4cQlvxF9zjkEjGuL_pvZyCAOoqHd94YQWhPUoGGYC78F-FhjdWHW4HAKJd18eicS8DsdJcGft6vrov2YjubbtOk5VUBP-i3cjabqZvxMplC8dFFLaI6uCz9LY3oKBUIadZEcokK9YHGxWc3S_oWWJTl8ghxVM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_037f2a110f935863016abfcee7340087d1b7ece3308aadbc8d",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 486,
+   "completion_tokens": 201,
+   "total_tokens": 687,
+   "cost": 0.01491,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01491,
+    "upstream_inference_prompt_cost": 0.00486,
+    "upstream_inference_completions_cost": 0.01005
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 192,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907307-PUnD3k4LIEvhhkS4zZM3",
+  "object": "chat.completion",
+  "created": 1790907307,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode is mostly desaturated browns, grays and muted greens, with a long dark stretch and a section of cool blue. That subdued, washed-out palette fits *Detachment* (2011), which has a gritty, drained look and is set largely in a dim school.\n\nThe match isn't certain. Muted browns could also suit *The Boys from Brazil* or *Sophie's Choice*. Both tend to look warmer, though, and the grayish, cool tone here points more to *Detachment*.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm thinking about the color palette\u2014muted browns, grays, dark and blue sections\u2014comparing it to Detachment's desaturated school-set look versus the warmer tones of Sophie's Choice or The Boys from Brazil, and leaning toward Detachment.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking about the color palette\u2014muted browns, grays, dark and blue sections\u2014comparing it to Detachment's desaturated school-set look versus the warmer tones of Sophie's Choice or The Boys from Brazil, and leaning toward Detachment.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1AYKEAgSGAI4AUIIdGhpbmtpbmcSDPqlZx4KflN5kewlUBoMLlzv6if9Bx9Wy+UtIjDA5DYwjNkeBiLuiKPQ7GNNAsFk1S09N7yxMP02sEZjD2gjqbaDnOLiiwa0sKuMV7cq8QWLY9F48n+Q2tdUoeq1tzXpqRGZKlveKCq1HKyyHX2YfgOERgmGy95G+h08eptAkfKc7m0P1GBPwh2wneSVOyWqpYIFt+RtM1MRmSKp0oNsAMCMv2HaFUjDOT4P05I5tTr51UvHrtr9HAjG8smZNC8yZdliWfwFuQFrbh4UWxR5zM9kh4xgfC7oV0hqF7Vb04iydHCg54bt/yf9B1dcWiJWYElEiFMiTRW+qd+BZIXtNEmqx/byfa2MlzmU1byJeiKwborFVV9hBL4zydH3NYNjFvvfdsnn0BKdPe1uwE/LQTuXJk4RifvnMRTCqT93ELeEFHS4GA5I7RdaPxjsZ2lX2Kd5XjWNUAS1vDGEysjRmDE6gfY+p1kmrxkG5KTFt6SzAIJNmcH6OlQxfhdanuV1fSu0vCUIgfAxkTIpiJIYOT6R4Dgd9X8+cFZsG6Ws3B0zqGd2V+pYXJsnSwyXIw/J1+CCViGVLljsezqrwvJWXbCcHsyguEDZ+GKX48ZacncIayb5y2bsp6IuhtgLdRDsXtFP7bk3OhjEJzDXDugLLBe/WJG6Dhq2BwMI5wgXrnfC7ixbZZXGmhM/DGW/fow67T7dnx4xIKyXo8hCPAdR9c54xDyMAM/ghrwIjLD9QJ0FR3r9WRC4l0yHK0iuzBfl5/0uFsx8u+bq910Rp37dzEtrYwIBWxo0WWFY1LHgcOpAI7Wjvc00LMN7i1cccYyL7C0cz2CKQEKuhP9MHn14TvTBtAMf6x7P2TVp6McPvBqdiQ6LDsH8B8BqRt7ZJa1uI9qBYK+Jw5NtOl6mya8igLaZ1fEHV6fMwjPElatECir+hLIgPdlj2iUjklZdFBtcrzdEBgORqsdHwx8Y1XqQUqbETU4TfAmprWVq2F6JZOYo4hnT1dSLz4foXfR5ankdJ1SoTZZJ5/6CUKzXHRkF0k0ks3nQXkASMRupMRr8pZf1bafYEMl8S1j4sKwi5b1FPnVJhX8X6YWHRR2v0nbyXEUYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 521,
+   "completion_tokens": 272,
+   "total_tokens": 793,
+   "cost": 0.007524,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007524,
+    "upstream_inference_prompt_cost": 0.002084,
+    "upstream_inference_completions_cost": 0.00544
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 99,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

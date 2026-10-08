@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907354-hEyzUsISV6kLmoYeejAr",
+  "object": "chat.completion",
+  "created": 1790907354,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette; I can't identify it with confidence.\n\nThe barcode is mostly dark and muted, in greens, teals and browns. Near the end there is a long, fairly bright beige-grey stretch, followed by black for the credits.\n\nThat fits **Before I Go to Sleep** reasonably well. The film has a cold, desaturated teal-grey look through most of its running time and ends with a brighter hospital and reunion sequence.\n\nThe main alternative I considered was **Transsiberian**. Its snowy scenes would likely give whiter, bluer stripes spread through the middle of the film, rather than one beige block near the end.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's colors to specific films\u2014the dark greens and browns against that lighter beige section near the end could point to Transsiberian's snowy scenes, but those occur mid-film rather than late. I'm also weighing The Pledge's snowy Nevada opening and Before I Go to Sleep's hospital ending, since its brighter finale might explain a light section appearing near the end of the barcode.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's colors to specific films\u2014the dark greens and browns against that lighter beige section near the end could point to Transsiberian's snowy scenes, but those occur mid-film rather than late. I'm also weighing The Pledge's snowy Nevada opening and Before I Go to Sleep's hospital ending, since its brighter finale might explain a light section appearing near the end of the barcode.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSigoKEAgSGAI4AUIIdGhpbmtpbmcSDO5zV1Mf0r9OnMK7KxoMuiYBaQYLVcMh+aX1IjAR/zas4PQ2XPAUXgA28zUBTcPxzTHyxBKcjCDB2xtvTLX5TnTq01xBFRwSnjZrnSMqpwlDxC25RuT3QDk1g4jYj2/bliI/hgGwSzyrLy2ZsNyC5DNm1tRvjjAaLbKQckGnMbUicFKvTv6rmZssMWy6I+59FyfBZOv6agyTW6kGe8j/+sy9PIDSNETuIj4wB6g9H2uSgrBh3VAw4XlfWLOTQhKjqBHaSI3aZ0e7NCUOP0ypAOSAa2j9sZU19AJ0LfN0svxIgBQlG4nfrzgFLJI5IryPGzxXvMrdW4mK6EcMuHrWimGgCRWzk+nQorQ51DtAfbKWDZbj6lJhsoewUheNnvx44FTXXiB3XsWm8fDOc3d8H6QGuf98hhRArqXPzUMxsBgKzKnAMFCycWY/kA/VW4FFV56Bdvy73lJ0UakYPLfj7LEOci+5zxrnQooYwmzpeF8Ysm7HAX7axHUhu8ksn0eG63zk/HNd3EQP1TkINuvtU8ljrr/d7mlKcJvCeULvpGxg53icDjI210naKl3vr3GVKV/nnXkUOzgLkhj5+edJDc/YLVyumHdiMVbxf6zn3EwgUbyrMvFgtwpkf1HZ2f8lDnjiLTBM9AOd5cAEXx4c1NPkgG5jLtThOeCnZaJSWYbFGfe33UDXytyydvysQ9H7bHdY29futE6Qp9bdqVHTQvAa0h60CEGwEU4xVqLua+PH0zwfhmSh19Ewn16nFJ4MnahYGEMuLVl2l8n8N64Q+EqYNKPcUwduRCfGKNAi8b6bu75nWetS+5sjmF5bxad77x201pBE0ImXTS2FdapJbGWnoXGUiywGxQotfvRH29Zfx2aJeVsXuSUJklvzi2qVo8wmSDAVAqF67sp+HSRnGMPLCSdmSlR+eEZfwNuVy4Pi8VYQHP4RtHZgSZvIbzv4SdC0GDqaOuFGotzhe/0EBcYbElbnW623n+BH5oj3jFqsn7saGXVUbAdHRnoNLr8Vs+PPMTq46qeVrQJ7Ee1NvMfoyYzowYKEzjjRCQfnc1bmewXMOMH5GcjYX9OGIXQm+BvvhR5ZG8w8rpNY+gy4g0W0hrBlm20zLalFO/vXMFnAgM2FrydHnuhvOIvCj0P3bTdT4Ov9WO/g/fyds68hf31/arxaW26ZuzC+CdSkkbfZ7W5jvo5RuOW9B+EM/nyW8sBPT3EEGzXCZmF8U9YoztTv6WpTPGBf0ind7z++UpGlh2B+AFHhuSDHaKn5zT+LGD5uezbCr3FvrWODnVnboWsWx78aeefaH+o5Mh0X374tyWMNxBRVmLnBx9odfFlYAGc37hjrRyScRBjr+vHs/7PlyTC9ChiN6mLKRdEDIZF7GYgf3zWsvcJNYSSreKY32sZaB9FvaGzNUzFDjTm1rr1FASN9WILK4WUZCKsKB+1+yR+72cWhZMGO9Og1VVJ6cSRQXcUQLioyHjLu/knzazbPoDrwmAufqYebdX1xK4IjFGoYcJqTrbEPfPe+0Gib3v26UEKdAkbxcEvFBAWr/uefx9MwA4GT9zOXIF9F07kMwhYUDHX3tUhkSc9+92bKAU1Oec0ex/Uo5Fx4xewCIrVtQMywszpEZ0jLJkQbPFCbxnplp/4lwvScg59pgwkLz85QGzMPE2t9qJxv11shOHHziivqcMoYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 539,
+   "completion_tokens": 480,
+   "total_tokens": 1019,
+   "cost": 0.011756,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011756,
+    "upstream_inference_prompt_cost": 0.002156,
+    "upstream_inference_completions_cost": 0.0096
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 265,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

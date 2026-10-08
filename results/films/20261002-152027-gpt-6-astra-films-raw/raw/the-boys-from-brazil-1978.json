@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954606-W0XgBCqoX2aAigfeD6nc",
+  "object": "chat.completion",
+  "created": 1790954606,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Boys from Brazil* (1978).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8x_GPtxb4q02boyz48w9inoqrhBDSbeJzZMVYhIBCTh7_bvT6OoE-59BMAxM2mykoMB4AFdi-CDH4_zFr4KOsXdKfqTDupM42oX4vbO6V-E7QcuxW7sQbaXXUIaMYOkXDxZ3ASubxORvES_PkY7Z3wphENiAQ7_UiDU7PXU_OynKVH5e_BzvzpTYoWTNLk4rZE_DX6wO0ByvCOq3Y0Kogit8PJ0AB-9fWo750kpR5paPBQnpw4Fk3VeT0Tmq4qqFsPDvIaJKWYbaXd_xTNUR4rOKZvH9A4wuv-J3xfBGF5bvVevFhKsK7w0e5YJj5c4Ra56JnwJzgEbxkTHH3Nz5Iet3eVtLmknnwvJRcwJSLa-b2IOACiFgtZACycGPx1IscUplNq1PyNxbF7oMHpv04pgISdGl_QWmdqoV2_TtyLExWxbCngFpCI6y66ak1qRAX24cOeO5vsWm9bO2VdG2_srpBgw6N5JsMZMDVZN3EvJ6YLuYf1xqXOLGyx93uco22fBb45J3Cap1C_VJdHcgVq57WeWChW0WmgUBIibfMqbTRC_3GrEqcx041JPGlANb4yOOLWMf33ppYAYihC3DuFgGs90uIzAYcFGAG-I4q5HqqiYLW3nsuc9_-DlIoEtluSLICQ7WlgrQSoP2iJrvPShrRtSkXgQGUCeMa_lxoMfD0aObOc1BcT6Mgj2DLf2eTw3mwjRzX6dXzI6X1sApX2yu9PFbgu5oxTdDYGLa_94hRnjW3BRj2pggGUVk9JXiHBYGx3u5Eg59CuGIUDw5kmVRdUWcRi_pwEET5gCr_ivQfUtoAqhcfS6UFyVg43Xry5bao4c116b85G_oQrvc2UaP4d8BZ76tiT0F98uOhfCtmua0um4GV1rt2KRuiZmMUt3myuapEx_dkzU9jlU9NM8BYQAuyNECsp4avcLyN7VwGVS9zPdcLcMkuUX0k1gAomQB1m4eHyQVW_QbofJ-lfhg8atfPwLGg3nyT98KJG1NYdBX5y8hrLaKB8buzLIKKpPD19onfBoi2mjwrnXAT6RYgPOxAOeE5gtZSjv8Cq4GEOsrdsELKWusL9xT7YRqzguuLY9ejQb4oevyN2XupCZswegWOV4cHIo4mqlrtPmBYf78dEWvGwsLnF0e_CLF6t6fuPRKn_Z_vQ5_9tPp52K14EYMsJfeV8_qv0p87Ge5AwtjrzPcxWv-BFa5y-HJ1PoDU2p67dss49AUIMN3-GcnBcao-Muc6bxmTBgDB7k-YUxLColdtsLCK2LvEf11cX2NQh3_L9C_pz8YsU-rUTpiHXMxH9MgfSaHNLl3i3ZSAPmp8byF74Sdvx1jNv4OLKBCLQ2Q5dQkjNfO9V__Q95bJDl2CwErIBfKzXB79RwvvBIoUsedVFqjX_yLWJ3dCmOp8tWlLlIzgL57Q06Fm2xPweb5-GjQqJLQNI-rqG0YGIo8XEywlSd9A4ADyUabMDQMPF_Ax5BcVm7IEJqrliebcHmKF0lRxXhMTqdeeZvcuifcVAZMTV_IHR6ZBiy4qyDRa9_Bz0oR7crrMQ8cSPtfqrYA5zhdbarzXuzYxz9orMBznZg-h9Dky4nXTNogi_SQS9CQ9Th_HC0Um3DVnj3hqNXHHSfL_rQVrSFpV40Laxo71AU26qkIKURx3_R-D_bGCqHbeqZbtRamYip_EBwDETHRia2SyhxZmbioYwIX1A9IxFMagX6kMEhIuL1l7hll5FBDG-RFT_xcf513wqk0P5Z4gMWDrmvgXe_suOvvPJf6ucLE0TAy4uIjuBA1qv0uh-lu0n779rhFrI7M2XGCHKd9WzUDIOWziImJzPfWfL9fxfcjkrtSaXkRlP_rxNWu3w3l0WpuVrccEM6u7DEwSYGacbucaIpWjjnJxZdax44oJFk0oCzwGgk445Q21B9TkoK6aOXrDEU627XQ4mIhvzytoEEc-R82hyvARqzDRttV21Vc7t2xNquf-RJXkH7_yqmovHYaoJYbjkECBaWO3u5l_fgE5Y0w0SlS3SMlyD7n7zsNDaeknM9hsKn1SRNSg9vtPsnpJlFgox4QKJJ_lIIFyopQ2kSQjMXli-0PCoy2ALCQVCQ1DJbbSHryMHCc_pRa0jFNuJM5iPdrrj1AFQdWSrLczxXhZTvdhPzK9iyp_eDJwAz70mZXEZPu66J18nxKgJaBKE-RZexhSXOOQhXpHJ9qMY1SfJYsJtGJXvcZRaCzssTPSumQMabMT5e1YZWmEhT6wxlVA5YxXVTzuEkUr3rJoygtTIxyOrKdSJ8pgVQb7ut3-USP0jpGT7VHA_HHUiube6ZDvc0AlwZefYNQO76riyIzKdClYaCTgp2o_mWzPP-YcakTh86nRc6rnSOIjVC6NPNXhgsob8Wiq5fbdNjzJ2A_ew4sSinGL5tIBJhMFIEFCV1BGumad5FNmiPw6r59e9aB5yjNcZBhfrt9jZ6M0ttfofVzOHO_kfz0kgZ_WzKn07fMz0iYw9P5jfUwmqB06_VqEbA7x-8GKldC4vuQnf75kz2q_CG6-rWWjUDrWsAKlEUqtW54BTtYUYWQSWW6Wg5RL5x3JCcrGPGk4qN2OZlF04_DFVBbqopdFPCpxQQ7j8X-jNv9raqIFxxEwjrGFJHziA3J6mNzgj1VT4E7YkPtlK26P8WHZsljKY9wQ3yZZi4FjKZJbyqRnJCqBo2HXffDFJ3U--CJEQfM83u_OUTgPo5n_GZfm0S4svbOdXHEMnE8MDFg2UGYkCJrFVyvP41nWCWUmCQy_iGb_6ppw6lgJ-jveT9wJACS0HQGwwZb6DhZCae3rLwVvn3BJxCBXphBczt1PJmOLquugvZ2_yEr7jd4RDTPyyEytANA7UOy5kw3L0kwgI6sMO3lz1KHPpb-zWwMJAmazedYK8SgF9kRqWIpC0GAzeYu0Qy_WCxs9dyTZyJ5C2AON89mtRLZFphPfW_Rg7Uk1OlhdlcN3LorLXFQw0SCqvaroA2MNiJxCFx-dtG2kry9b2J4S6aAmDf7mORSViy3PgzGTDl993Q_y0u_ZcLH3vRGd-Ru996b9ego1g1uLpLAFcProTQzdyDhwd0NTX4Jum0KHPFp931yE0D9EtL_l5_1MFEyuU7RXjVuVvke-eY.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03ef70abb61fa7f8016abfcc70fef487d1b191d784890d8061",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 426,
+   "completion_tokens": 307,
+   "total_tokens": 733,
+   "cost": 0.01961,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01961,
+    "upstream_inference_prompt_cost": 0.00426,
+    "upstream_inference_completions_cost": 0.01535
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 284,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,180 @@
+2026-10-02T15:20:27Z  gpt-6-astra-films-raw: raw mode, openai/gpt-6-astra, 100 questions to run, 0 already done
+2026-10-02T15:20:27Z  git a514566a7b, questions a22497fa2240
+2026-10-02T15:20:28Z    error       1s  The 39 Steps (1935)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:28Z    error       0s  House on Haunted Hill (1959)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:28Z    error       0s  The Little Shop of Horrors (1960)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:28Z    error       0s  Carnival of Souls (1962)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:29Z    error       0s  Charade (1963)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:29Z    error       0s  The Last Man on Earth (1964)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:29Z    error       0s  Zulu (1964)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:29Z    error       0s  Manos: The Hands of Fate (1966)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:30Z    error       1s  Night of the Living Dead (1968)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:30Z    error       0s  Aguirre, the Wrath of God (1972)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:30Z    error       0s  Black Christmas (1974)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:31Z    error       0s  Dark Star (1974)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:32Z    error       1s  Assault on Precinct 13 (1976)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:32Z    error       0s  The Eagle Has Landed (1976)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:33Z    error       0s  Capricorn One (1978)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:33Z    error       0s  The Boys from Brazil (1978)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:34Z    error       1s  Nosferatu the Vampyre (1979)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:34Z    error       0s  Prom Night (1980)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:34Z    wrong       7s  All Quiet on the Western Front (1930)  guessed House on Haunted Hill (1959)
+2026-10-02T15:20:34Z    error       0s  On Golden Pond (1981)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:34Z    wrong       7s  Black Narcissus (1947)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:20:35Z    error       1s  Sleepaway Camp (1983)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:35Z    error       0s  Day of the Dead (1985)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:36Z    error       0s  Pacific Heights (1990)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:36Z    error       0s  The Exorcist III (1990)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:36Z    error       0s  The Lawnmower Man (1992)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:36Z    wrong       9s  The Lady Vanishes (1938)  guessed Metropolis (1927)
+2026-10-02T15:20:37Z    wrong      10s  His Girl Friday (1940)  guessed Night of the Living Dead (1968)
+2026-10-02T15:20:37Z    wrong      10s  Metropolis (1927)  guessed Night of the Living Dead (1968)
+2026-10-02T15:20:37Z    wrong      10s  The Red Shoes (1948)  guessed Existenz (1999)
+2026-10-02T15:20:37Z    right      10s  The General (1926)
+2026-10-02T15:20:38Z    error       1s  Sliding Doors (1998)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:38Z    error       0s  Chopper (2000)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:38Z    error       0s  The Pledge (2001)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:38Z    error       0s  The Importance of Being Earnest (2002)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:39Z    error       0s  Boogeyman (2005)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:39Z    error       0s  Candy (2006)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:39Z    wrong      12s  The Kid (1921)  guessed The 39 Steps (1935)
+2026-10-02T15:20:40Z    error       0s  Man of the Year (2006)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:40Z    wrong      13s  Battleship Potemkin (1925)  guessed House on Haunted Hill (1959)
+2026-10-02T15:20:40Z    error       0s  The Contract (2006)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:40Z    error       0s  The Illusionist (2006)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:40Z    wrong       6s  Sophie's Choice (1982)  guessed The Illusionist (2006)
+2026-10-02T15:20:40Z    error       0s  1408 (2007)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:41Z    error       0s  Georgia Rule (2007)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:41Z    error       0s  The Air I Breathe (2007)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:41Z    error       0s  The Messengers (2007)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:42Z    error       0s  The Accidental Husband (2008)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:42Z    right      15s  Nosferatu (1922)
+2026-10-02T15:20:42Z    error       0s  Bad Lieutenant: Port of Call New Orleans (2009)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:42Z    error       0s  Leaves of Grass (2009)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:42Z    error       0s  The Haunting in Connecticut (2009)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:43Z    error       0s  The Rebound (2009)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:43Z    error       0s  The Extraordinary Adventures of Adèle Blanc-Sec (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:43Z    error       0s  The Warrior's Way (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:44Z    error       0s  A Monster in Paris (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:44Z    error       0s  Apollo 18 (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:44Z    error       0s  Detachment (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:45Z    error       1s  Puncture (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:45Z    error       0s  Rampart (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:46Z    wrong      19s  The Passion of Joan of Arc (1928)  guessed All Quiet on the Western Front (1930)
+2026-10-02T15:20:46Z    error       0s  Take Me Home Tonight (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:46Z    error       0s  Trespass (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:47Z    error       0s  Killing Season (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:47Z    error       1s  Side Effects (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:47Z    wrong       8s  Half Nelson (2006)  guessed The Illusionist (2006)
+2026-10-02T15:20:48Z    error       0s  99 Homes (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:48Z    wrong      11s  Legionnaire (1998)  guessed Jane Got a Gun (2015)
+2026-10-02T15:20:48Z    error       0s  Automata (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:48Z    error       0s  Before I Go to Sleep (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:48Z    wrong      12s  The Last Seduction (1994)  guessed Assault on Precinct 13 (1976)
+2026-10-02T15:20:48Z    error       0s  Draft Day (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:48Z    error       0s  I, Frankenstein (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:49Z    error       0s  Jane Got a Gun (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:49Z    error       0s  Knight of Cups (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:49Z    error       0s  Little Boy (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:50Z    error       0s  Southpaw (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:50Z    error       0s  The Gunman (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:50Z    wrong      13s  Arlington Road (1999)  guessed Trespass (2011)
+2026-10-02T15:20:51Z    wrong       9s  Transsiberian (2008)  guessed Before I Go to Sleep (2014)
+2026-10-02T15:20:51Z    error       0s  The Infiltrator (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:51Z    error       0s  Security (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:51Z    wrong      11s  Before the Devil Knows You're Dead (2007)  guessed Trespass (2011)
+2026-10-02T15:20:52Z    error       1s  The Little Hours (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:52Z    wrong      12s  Paris, Je T'aime (2006)  guessed Take Me Home Tonight (2011)
+2026-10-02T15:20:52Z    error       0s  American Animals (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:52Z    error       0s  Prospect (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:53Z    error       0s  The Man Who Killed Don Quixote (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:53Z    wrong      15s  Existenz (1999)  guessed Dark Star (1974)
+2026-10-02T15:20:53Z    error       1s  Villains (2019)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:20:54Z    wrong       6s  Beauty and the Beast (2014)  guessed I, Frankenstein (2014)
+2026-10-02T15:20:54Z    wrong      20s  Fitzcarraldo (1982)  guessed Transsiberian (2008)
+2026-10-02T15:20:54Z    right       9s  Silent House (2011)
+2026-10-02T15:20:56Z    wrong       6s  Fifty Shades of Black (2016)  guessed Stonehearst Asylum (2014)
+2026-10-02T15:20:57Z    wrong       7s  Brain on Fire (2016)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:20:59Z    wrong       8s  Wish Upon (2017)  guessed Silent House (2011)
+2026-10-02T15:20:59Z    wrong       8s  Midnight Sun (2018)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:21:01Z    wrong      13s  Stonehearst Asylum (2014)  guessed Silent House (2011)
+2026-10-02T15:21:01Z    wrong      25s  An American Werewolf in Paris (1997)  guessed Stonehearst Asylum (2014)
+2026-10-02T15:21:01Z    wrong      14s  The Host (2013)  guessed Dark Star (1974)
+2026-10-02T15:21:02Z  
+openai/gpt-6-astra: 3/100 = 3.0%, 70 errors, 0 unparsed, 0 leaks, 0 tried to download a video, cost $0.50
+2026-10-02T15:21:02Z  chance is 10%. results in results/films/20261002-152027-gpt-6-astra-films-raw
+2026-10-02T15:22:00Z  gpt-6-astra-films-raw: raw mode, openai/gpt-6-astra, 70 questions to run, 30 already done
+2026-10-02T15:22:00Z  git a514566a7b, questions a22497fa2240
+2026-10-02T15:22:07Z    right       7s  House on Haunted Hill (1959)
+2026-10-02T15:22:10Z    wrong      10s  The 39 Steps (1935)  guessed Metropolis (1927)
+2026-10-02T15:22:22Z    wrong      15s  The Little Shop of Horrors (1960)  guessed The Last Man on Earth (1964)
+2026-10-02T15:22:27Z    wrong      18s  Carnival of Souls (1962)  guessed Night of the Living Dead (1968)
+2026-10-02T15:22:30Z    wrong       8s  Charade (1963)  guessed Trespass (2011)
+2026-10-02T15:22:38Z    wrong       8s  Zulu (1964)  guessed Dark Star (1974)
+2026-10-02T15:22:40Z    wrong      12s  The Last Man on Earth (1964)  guessed House on Haunted Hill (1959)
+2026-10-02T15:22:54Z    wrong      15s  Manos: The Hands of Fate (1966)  guessed Black Christmas (1974)
+2026-10-02T15:22:55Z    right      15s  Night of the Living Dead (1968)
+2026-10-02T15:23:06Z    right      11s  Black Christmas (1974)
+2026-10-02T15:23:08Z    wrong      14s  Aguirre, the Wrath of God (1972)  guessed The Contract (2006)
+2026-10-02T15:23:13Z    right       5s  Assault on Precinct 13 (1976)
+2026-10-02T15:23:21Z    right      15s  Dark Star (1974)
+2026-10-02T15:23:26Z    wrong      13s  The Eagle Has Landed (1976)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:23:32Z    wrong      12s  Capricorn One (1978)  guessed Security (2017)
+2026-10-02T15:23:44Z    right      17s  The Boys from Brazil (1978)
+2026-10-02T15:23:46Z    wrong      13s  Nosferatu the Vampyre (1979)  guessed Silent House (2011)
+2026-10-02T15:23:54Z    right      11s  Prom Night (1980)
+2026-10-02T15:23:56Z    wrong      11s  On Golden Pond (1981)  guessed Beauty and the Beast (2014)
+2026-10-02T15:24:09Z    wrong      12s  Day of the Dead (1985)  guessed Silent House (2011)
+2026-10-02T15:24:12Z    wrong      18s  Sleepaway Camp (1983)  guessed Manos: The Hands of Fate (1966)
+2026-10-02T15:24:16Z    wrong       7s  Pacific Heights (1990)  guessed Trespass (2011)
+2026-10-02T15:24:23Z    right       7s  The Lawnmower Man (1992)
+2026-10-02T15:24:32Z    wrong      20s  The Exorcist III (1990)  guessed Silent House (2011)
+2026-10-02T15:24:39Z    wrong      16s  Sliding Doors (1998)  guessed Existenz (1999)
+2026-10-02T15:24:39Z    right       7s  Chopper (2000)
+2026-10-02T15:24:45Z    wrong       5s  The Importance of Being Earnest (2002)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:24:52Z    wrong      13s  The Pledge (2001)  guessed Trespass (2011)
+2026-10-02T15:24:59Z    wrong       7s  Candy (2006)  guessed The Illusionist (2006)
+2026-10-02T15:25:00Z    right      15s  Boogeyman (2005)
+2026-10-02T15:25:08Z    wrong       9s  Man of the Year (2006)  guessed Take Me Home Tonight (2011)
+2026-10-02T15:25:10Z    wrong      10s  The Contract (2006)  guessed Stonehearst Asylum (2014)
+2026-10-02T15:25:12Z    right       4s  The Illusionist (2006)
+2026-10-02T15:25:18Z    right       9s  1408 (2007)
+2026-10-02T15:25:27Z    wrong      15s  Georgia Rule (2007)  guessed The Little Hours (2017)
+2026-10-02T15:25:28Z    wrong      10s  The Air I Breathe (2007)  guessed Assault on Precinct 13 (1976)
+2026-10-02T15:25:39Z    wrong      11s  The Accidental Husband (2008)  guessed 1408 (2007)
+2026-10-02T15:25:51Z    wrong      24s  The Messengers (2007)  guessed Apollo 18 (2011)
+2026-10-02T15:25:55Z    wrong      15s  Bad Lieutenant: Port of Call New Orleans (2009)  guessed Before I Go to Sleep (2014)
+2026-10-02T15:26:04Z    wrong      10s  The Haunting in Connecticut (2009)  guessed I, Frankenstein (2014)
+2026-10-02T15:26:04Z    wrong      13s  Leaves of Grass (2009)  guessed Man of the Year (2006)
+2026-10-02T15:26:10Z    wrong       6s  The Rebound (2009)  guessed Take Me Home Tonight (2011)
+2026-10-02T15:26:17Z    wrong      12s  The Extraordinary Adventures of Adèle Blanc-Sec (2010)  guessed Stonehearst Asylum (2014)
+2026-10-02T15:26:20Z    wrong      10s  The Warrior's Way (2010)  guessed Jane Got a Gun (2015)
+2026-10-02T15:26:29Z    wrong      13s  A Monster in Paris (2011)  guessed 1408 (2007)
+2026-10-02T15:26:40Z    right      20s  Apollo 18 (2011)
+2026-10-02T15:26:41Z    wrong      12s  Detachment (2011)  guessed The Haunting in Connecticut (2009)
+2026-10-02T15:26:48Z    wrong       8s  Puncture (2011)  guessed I, Frankenstein (2014)
+2026-10-02T15:26:50Z    wrong       8s  Rampart (2011)  guessed Trespass (2011)
+2026-10-02T15:26:55Z    right       7s  Take Me Home Tonight (2011)
+2026-10-02T15:27:02Z    right      12s  Trespass (2011)
+2026-10-02T15:27:10Z    wrong       9s  Side Effects (2013)  guessed Trespass (2011)
+2026-10-02T15:27:11Z    wrong      16s  Killing Season (2013)  guessed Jane Got a Gun (2015)
+2026-10-02T15:27:18Z    wrong       8s  99 Homes (2014)  guessed Detachment (2011)
+2026-10-02T15:27:20Z    wrong       9s  Automata (2014)  guessed Apollo 18 (2011)
+2026-10-02T15:27:25Z    wrong       5s  Draft Day (2014)  guessed I, Frankenstein (2014)
+2026-10-02T15:27:27Z    right       9s  Before I Go to Sleep (2014)
+2026-10-02T15:27:31Z    right       6s  I, Frankenstein (2014)
+2026-10-02T15:27:38Z    right      12s  Jane Got a Gun (2015)
+2026-10-02T15:27:41Z    wrong      10s  Knight of Cups (2015)  guessed I, Frankenstein (2014)
+2026-10-02T15:27:49Z    wrong       8s  Southpaw (2015)  guessed I, Frankenstein (2014)
+2026-10-02T15:27:56Z    wrong      18s  Little Boy (2015)  guessed Jane Got a Gun (2015)
+2026-10-02T15:28:02Z    wrong      12s  The Gunman (2015)  guessed The Infiltrator (2016)
+2026-10-02T15:28:04Z    wrong       9s  The Infiltrator (2016)  guessed The Illusionist (2006)
+2026-10-02T15:28:07Z    right       6s  Security (2017)
+2026-10-02T15:28:11Z    wrong       7s  The Little Hours (2017)  guessed Security (2017)
+2026-10-02T15:28:14Z    wrong       7s  American Animals (2018)  guessed I, Frankenstein (2014)
+2026-10-02T15:28:21Z    wrong       7s  The Man Who Killed Don Quixote (2018)  guessed Jane Got a Gun (2015)
+2026-10-02T15:28:25Z    wrong      14s  Prospect (2018)  guessed Dark Star (1974)
+2026-10-02T15:28:44Z    wrong      23s  Villains (2019)  guessed Boogeyman (2005)
+2026-10-02T15:28:44Z  
+openai/gpt-6-astra: 22/100 = 22.0%, 0 errors, 0 unparsed, 0 leaks, 0 tried to download a video, cost $1.66
+2026-10-02T15:28:44Z  chance is 10%. results in results/films/20261002-152027-gpt-6-astra-films-raw

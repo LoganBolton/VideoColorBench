@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907128-XxFVTxkuXT99GLAFqU2G",
+  "object": "chat.completion",
+  "created": 1790907128,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **G. Detachment (2011)**.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes for barcode guessing**\n\nI'm trying to guess a barcode, and I'm seeing mostly muted shades like green, gray, and brown, with some darker tones. There could be elements reflecting a golden pond or natural greens and blues. The colors hint at somber choices and a football's bright green. I\u2019m considering that the colors might involve variable brightness, with a focus on a medium dark olive and a cool bluish stripe. My best guess doesn't require specific details; I just need to make an intuitive choice.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes for barcode guessing**\n\nI'm trying to guess a barcode, and I'm seeing mostly muted shades like green, gray, and brown, with some darker tones. There could be elements reflecting a golden pond or natural greens and blues. The colors hint at somber choices and a football's bright green. I\u2019m considering that the colors might involve variable brightness, with a focus on a medium dark olive and a cool bluish stripe. My best guess doesn't require specific details; I just need to make an intuitive choice.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMACaU5EcHZNX8ZMNjEs6O_NxuNBT-jkL1pcq9BaCItXPu8QUnY8vxrR3gE6Ljw5cHlLX3UCTp8HMI3JvI787GevZDSsjt-pmNJOT-x7jdz4Vd-cXHG4HfSZRQtB6UQzq0rbJpx3QtaZJzI3ADKtrzl3hE97wu-lrsmf76KyTZbiL0bvSLC1TcKv9nV0HaKxoktW4u4BIT0sNeBrpwIh2pXJ3492SsLh-eiijM6QsqaTP5kwpj86BdPmJcLBsxIftI-k6Ri3Sb73gecvFlB1u0JoZF0dAM3vQPE3uSJ_TZFROmEj0A00rRa9MOi2EvB4oevXg-KH_aUqqrfZvS9gm2q8AMurHf2LejmXczo2jQ3JYxcYFUaDKBuaPNvhLOnotaOdhzrffqhrt0dzl1fJ6B-ggqtkDOCixtNQgyWA72V0_bM3NXRS3ILaEi7uC5bzZbs22XVitRmJggqcaeDDCOZBx8TR0h6hq9_uVKF5BVAHv2a3m6WE-2EiY8ALrZ2vc0GKkkztTQN6P1qwk7cK8pWpY9RfCCOlMCFxbYAG1V-HFyro3i5KlrTHodbGlhS9m1n4LJWuD7YQOYCPTAAzFv7QA1xoks77zNKwoNGiedSEyVfYn0jwPJ--o_ilOYIfn0p2-dP0lJ7eKoh-oNJ2s-iaB716QHJxYa9V5Nj5ZLXL7O-QsYJndpEqYcwm9wx3VXAqbsqEa2Yz7lYc7Ch3nyOu1J5PEyUtRVM6sZMX7MUJg318pgil67uBL73AU-mOSh6SywXdIs35cwn2jMt8DYWAFda-j-z_QU0W8-z7nJCDtlEYNHoAUJD55wwm-6xtSPQfMSEJmEL6Dt80Pa1N8zjYxrDBXsJEoAM6UnHsLK-aMHLVQ0j3HKzZU_nAMwqf823saBEvmtV1e-zPStB8WFSDVo0qOWfBwaaHHDkMzLhRK62YfaEsuCeKT0p62ZXzcxq9p45TZaa9ma9q8WoqZa93GXvO8zFSBEJd21VvAwaNXmGfM9Oz-5ywX955EPSUbiEsn1yyzl7zpGe1vJNHZkWm6s2QMt-iPYAxfxOePDt94qbyB9UY6-aeTT6NZs85789Q9nre0dywOKiSmtalLsRg0wxhDDPr4IL36CickgfV7KBqv1wHYhXHvLL78-pgcttJuy68c-ao6ZoCwocu-9kX7TmNxSlKffShuiqGtVmoW8P6aQRaxBQcubv7KA1ZbuLLs5OCmMAWktUHDWM6rw0ZeOvzU2VhAYWA9a6QzFWDFJo8Utv6zyoPjyTnmYrYXhSMPmFwHS60q6fJt4ra9g9VuJOqVPopG8pZrekjSlpSbgylkgP4rofGXpS4-tWMwVW2NgBdCn8aonSHs61lVBig3BZTB902iY-vOLKTAYM264sN_GJSOmYZIf1mwa4fLPNeaXDhjqDExEiHhqC3UBEpsDARpK-KByCT4-ig3iYgkAEUSS04SD7ztj7qikVRZXYloBiKenGS8XDKfaLzwR4oEfiWWtpYYHJsdwgph2F_wQgQPo1F4danVr3SL9dZeys9ZNbnPdb8ryhLQRWAejllsrDcWfmfek0Ja6WoNTcKPAyH_uEFIPBxwpq7n_Xz6t7yMGuOqcUolOsiO6qumq8z7iXwGQjFRzN1DpeWhM8GVYEzpphirhc_AeFfRSxhMxc-ZKHMDF7F62EuI7_4aNIEyLx6qB6BLdUGGbhFZu6JJRlniLepqcvRK7AeAs_o0cyTxWiLBC2KF849LHCDwVhwdT5_FOc0685IX-2PmeXWnc8MTzX8KeSohhy0b50E9NIQzJMsjyUlRvhubcbN6FsNBsG4qyDXEINoNNt2wXnZ8_GzRJXBZgCRTTQdotldssfEKOT4rI538AvLGRXBveqZ23dcNI8_AEFOaQn6NTI4jid8szwdTupLrrxBZHmaPlE7_vWeouXuj1vW5ctnxBwhII1cEPb5L_Xd50E4Od8tcVeahhpMAi373D4gdwB2zIGsomoA3x09n3g20buZVooebLhuXPXI4VmVRVQTXSMW__poWIji5xymHW_5IEtcgpkkScQe-sJ6Mnp841aKnQTPqT7GjdS-7WcBTkKnsE74Y8AA_LWX7fB3aehDClMVfCkfM0-Dt6Qu6GC2T9mvZl6oPcil6flTp7diUFBKCxskFo=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0153eb989aa78876016abf12fb51bc87d1b9bc489724ee7b4e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 426,
+   "completion_tokens": 144,
+   "total_tokens": 570,
+   "cost": 0.002292,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002292,
+    "upstream_inference_prompt_cost": 0.000852,
+    "upstream_inference_completions_cost": 0.00144
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 121,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-red-shoes-1948",
+  "title": "The Red Shoes",
+  "artist": null,
+  "year": 1948,
+  "label": "The Red Shoes (1948)",
+  "hex": "#231D1B",
+  "rgb": [
+    35,
+    29,
+    27
+  ],
+  "frames_sampled": 7775,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "FXzGcnhmc-0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

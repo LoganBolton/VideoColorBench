@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907195-vQ0BD6LaisExlhblQDbP",
+  "object": "chat.completion",
+  "created": 1790907195,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Silent House (2011)**, based on the consistently dark, muted palette.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Considering film runtime and visuals**\n\nI\u2019m examining the image, which shows subtle green and teal areas evenly distributed. There\u2019s a black block at x879 onwards. Silent House has a runtime of 86 minutes, with around 8 minutes of credits, so that fits into the 90% estimation. Apollo 18 also runs for 86 minutes, with 8 minutes of credits, featuring a mostly monochrome lunar theme. It seems that Silent House likely maintains a consistently dark aesthetic throughout.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering film runtime and visuals**\n\nI\u2019m examining the image, which shows subtle green and teal areas evenly distributed. There\u2019s a black block at x879 onwards. Silent House has a runtime of 86 minutes, with around 8 minutes of credits, so that fits into the 90% estimation. Apollo 18 also runs for 86 minutes, with 8 minutes of credits, featuring a mostly monochrome lunar theme. It seems that Silent House likely maintains a consistently dark aesthetic throughout.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNG7A5QK76Y0cG7ZV-HmWLPjbT5gIxCt20vWrQNZ8zwLqBUJkK8Ax1br0gr574fD4iev6NRjhSUmrGO7hg6ZXSrlW65nd2c8xMBpKM7rXbptapB3sKGtWisN-PWx_Ua05C-W-eLDe6HTFyITXrNYHey6R1KCkSL6EgpC4bTnw8EZsF-EhjyeNuXOdrRgTQ5Sx7mXimeQxQCwIE_ihrWrXWu8V74xQF-IuNpgUXs91t19ObGIf-MDySu7-tFaUggmccSn36Sm8f9vsJWoCfsZ3RwHcbC4pbpIzWN2fZQNQKN7AH4QEGKeaMQh_EKEmOlAXxg8zGhSZWO8iAfV7jf_isxN4mtT5YgXD6cAK-g5gld9DDtuUo_QzJFxCP45mIH1YPfm222EN5v71EMNryB6VwGsPuH4Ji_W8ATJGt9I9sBnhTahGov9XGuCyvKJoN_H5RrqNcBBz3ZE8N3VwORBxSFJAK0K_FNS2JCFnxCW8OY2h9vTPMk-JbiZoT-_iE4J-T2S-NBgTWfIH1Fpt3bYFuHKuJl8jz6UYN-j5_bbvYrBWciamnySZySeP2WTY8Pe8tGTdDf07uPgTSj9ZD5HCULS_5it-4twf_zT0FJC4Ys7nY1Stm57kiX6Q0Zj2ggMvdvL3aEJzVSpgSqxG1BmKD4dp4YWctAAjGxFUzWRfVobuWG8YXgHmRIzAqiyq-Olbt1hgqgv1SYOpD9iacI9AbFy9fIt39CWbhTcgYq9ZzuXBojw8b_t4urjH6ZlGFMEwB783ddhHrULWmJPqV17v5kia-ZmSVIsk97VWwQ59I8SduWIor1Jr9PwE8SMdp9AnNBzkGrGN9MCWsin34_I8COyV8rvQl9BJq0GyWXNZPdwPGGJ-gzbIXiZY3Hn6WpDSEXvmrLMviDgt3O0RMC8OUhthzkjexqxap5ZpM9lHhyq55jLnKPRDKmFt9_fjay9emUNkMh8nXP7-vR2ca-c9R0_gj9FthreSxYsMW9HEizyHZdqVNoM-d7qR_PKA7NoMQMLaxXnriCfryY4BWzm4_2iVejlorfCRZH2FZx4oqqW31dHK9mPKj_-tWcZ1iQf2wKQCCGt8gdKg1ndHM0jBYsklJAg7ni9d3c1kPhx8uviILdZkUrja8RQPEMa0oQYbr9G6Y2cawf7aeUG8LFSd-j0AuhrHQW0pEU3b4elPitk52BKaiXNGu-kjQ5eRh6g17kKvu5kAp6EeSz6aH4FU621YbSxtGd5Q5kmaEjUNvTMp2IuXCw4rsm_Fej8eryA2xT1Hn71Ycc2CpE-gow-oQUm--UmenrAaDQFIVeiTVSsyJsDi5xMs-kfY_4Qt_pIu1xWUkMepwDgUSsvaGJU2ZF3t3Db9gZI4HBx9XGfXEp1YkB1ocAkpM5HxfvrP5QVwL1DJLcRnwMz8stM2OtVZA8BTHmrQ9CE2J8-n6Biv56J3flPijvZu1h7QcC3syh1y5snhvNsp3OceVBL9dgdxewgPkT0lg9kBzMo3XfAnKBrxogeLsC3uA_oNPhQH09U41Sux1Skm7IdQIeBDr4st9EpTXsM5p8Uj6U_UKbsFkzngcML1haJ2sohOgS1lS-MCoIvW3J-amlpwmRh0uoVCh50el00IqnO6EIs4Wd0XpZmWdwrmQaHweoGt5ELukjWJu1vx1BlMh_vD0DKXLVEnWYNuFOu0-o22T5k_7m_zaXFpPD0FndOzXyc1es6raVl_GCLSsFEh6MpVxRr9peCZS37UX9C8M4GNuRzqprKUOz2M4Gp5tEjh87TcCOhKnRJR4emXuxd0fPOiSnt3MAsyyAUpWh-0GXmNXp0n6ayS4MggrgWNYOI2R3DTH84ZxUIYvS_W1PZxqwUUn0OWT34ea14ZXq_vWrh88nf6mGDgrGp6BrO174VCEqjbk6H7zF52O628ItUyEuGc6OTq6eypF2e1GmW05csi3B_ynK6Dhm-D5svvOaFq0SWnfQRzvNqA-NOFUjMty-gfo7Zb9fVjaAJYAboEnkybWq4Wq9SFPl-eCoeG8_S7sooQyJXKoaa6hrStRYhb3ijSX4ceZXffWMLQVSUIo5mlKsX6nohOG1Hn9ldAQJEGjvysZKH_YEeV3b5w_TcoaL6WRwQuf_Hw1w1qyTjuL7AhS_ujayLyjFj8sNoVzfuO_tdktaaHKgmI_3JfbcSO_0khUuXgWrsLRxm94vi-7tNn2Eq2OVe19vIl_N3XW_x9FRosZg_2tr32fzORBHms-0WgVQWW0LUbk6GRWUBIONNFXKfrC8ECk-mm8nRbsxJ1nIFHCHYUXsuajhEew5vs0lIPBFq2nFX9KSV-fR1TmskJp8HD3e5AE-2Lpqm_dVFXlLzzz-wgQTAXzYgJ3taxZ8jW216PJBYblsOVrgh8dRTiU8d_gBRHMdb0x7dF9N-MP08AnoNSOxyFObyH4rtO4mBMwtahrAw-YWwI9cvCCeqJoOOebJAXErhrVgYDwRDAaOPzF8hIe-HvKaq5StYrqRKoshxSyilG0LDmrYuYTpHyHR19M_xbwOAorkbsgfGx4F4zVb0dpHSelfx-W5IK2vSuq_QztqX9Kc1QUTMGwZClDvARodfjwAPP92p7Z_yil6QSLUpTNP919gAfgHceL4ia6Oh5yb1YLV_l0he-JzGIrihmHMUb3RoH51fZjBBxgeCGzG23pMMkKATvJw68bu9gWU6uvCPqhlk5pmhhJktm8uh2mcfVXnqIQPSVhODN28g0ulyLxuI9M4AUb7yCWZszzMVxx-KAd7Zr3GJw8vaouC7mXM2zBtOHIlg5cdsW1zKkSwayOfEnxJ0pUY4lsybJZBlXmYHr58bcZBHciHNRfGYEZw39A_OOrzKaXH9EveCxBCXdqq8PYjklvWiIlVVmF6Nbgi99AX6a1FfGYGOsURNDSY3HN0v0k5qJpL2pARobW4JuasIml_cTaeEZdSX5-3Gp3N9tTJ6w==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04bbc02825de74e2016abf133efd5087d19f0692e39e606ec0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 287,
+   "total_tokens": 721,
+   "cost": 0.003738,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003738,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00287
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 257,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

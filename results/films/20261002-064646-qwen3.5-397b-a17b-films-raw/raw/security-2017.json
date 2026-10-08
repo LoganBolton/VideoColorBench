@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.5-397b-a17b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924260-nG69K5uWELL4LaoBWUt9",
+  "object": "chat.completion",
+  "created": 1790924260,
+  "model": "qwen/qwen3.5-397b-a17b",
+  "provider": "AtlasCloud",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "The image is a \"movie bar\" code, representing the average color of every few seconds of a film. The overall palette is extremely dark, dominated by blacks, deep blues, and dark grays, with occasional thin vertical streaks of muted yellow, brown, and faint red.\n\nThis visual signature points strongly to a science fiction film set in a dark environment, likely space or a dark alien planet.\n\n*   **Prospect (2018)** is a sci-fi film set on a toxic alien moon. The movie is visually characterized by its dark, foggy, and atmospheric forest setting, often lit by dim sources. The characters wear distinctive yellow hazmat-style space suits, which would account for the sparse yellow/orange vertical lines amidst the overwhelming darkness.\n\nThe other options generally have brighter or more varied color palettes:\n*   *Capricorn One* and *Jane Got a Gun* would have significant blocks of bright desert tan or sky blue.\n*   *Aguirre, the Wrath of God* would be dominated by jungle greens and browns.\n*   The various thrillers (*Killing Season, The Contract, The Gunman*, etc.) typically have standard daylight or indoor lighting that would result in a lighter, more varied bar.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a movie based on a \"movie bar\" image.\n\n1.  **Analyze the image:**\n    *   The image is a sequence of vertical colored stripes.\n    *   The overall color palette is very dark. It's dominated by blacks, dark blues, and dark grays.\n    *   There are occasional thin vertical lines of slightly lighter colors: some muted browns, a faint reddish/purple hue on the left, and some very thin yellowish/orange lines scattered throughout.\n    *   The darkness suggests a movie with a lot of night scenes, space scenes, or a very dark, moody atmosphere.\n\n2.  **Evaluate the options:**\n    *   **A. Brain on Fire (2016):** A drama/thriller. Likely has indoor lighting, hospital scenes, daylight. Probably not this dark overall.\n    *   **B. Killing Season (2013):** An action thriller set in the woods. Would expect greens, browns, daylight.\n    *   **C. Capricorn One (1978):** A sci-fi thriller about a fake Mars landing. It has desert scenes (bright orange/brown), indoor studio scenes, and space scenes. The desert scenes would create a big block of orange/tan. This image is too uniformly dark.\n    *   **D. The Contract (2006):** Action thriller. Woods, daylight. Expect greens and browns.\n    *   **E. The Gunman (2015):** Action movie. Sean Penn. Set in various locations (Africa, Europe). Would have varied lighting, likely brighter.\n    *   **F. Security (2017):** Action movie set in a mall. Would have artificial indoor lighting, fluorescents, varied colors.\n    *   **G. Jane Got a Gun (2015):** Western. Expect browns, sky blues, daylight, fire (orange).\n    *   **H. Wish Upon (2017):** Teen horror. High school setting, house setting. Would have varied lighting, not this pitch black.\n    *   **I. Prospect (2018):** Sci-fi movie set on an alien moon. It's known for being very dark, gritty, and atmospheric. The characters wear space suits (often yellow/greenish but dirty). The environment is a forest, but often dark, foggy, or lit by dim sources. The overall palette fits the \"dark blue/black with hints of muted earth tones\" look. Let's look closer. The faint yellow lines could be the suits or lights. The overall darkness fits a sci-fi movie set in space or a dark alien environment.\n    *   **J. Aguirre, the Wrath of God (1972):** Set in the jungle. Lots of greens, browns, river scenes. Not this dark.\n\n3.  **Re-evaluating \"Prospect\" (2018):**\n    *   The movie takes place on a toxic alien moon.\n    *   Much of the action happens in a dark, foggy forest or inside dimly lit ships/caves.\n    *   The color grading is often teal/blue and dark.\n    *   The main characters wear yellow hazmat-style suits, which would explain the thin yellow vertical lines.\n    *   The image is overwhelmingly dark, which matches the visual style of *Prospect*.\n\n4.  **Comparing with other dark movies:**\n    *   None of the other options are predominantly dark in this specific way. *Capricorn One* has too much bright desert. *Jane Got a Gun* is a western (bright). *Aguirre* is a jungle movie (green/bright). The thrillers (*Brain on Fire, Killing Season, The Contract, The Gunman, Security, Wish Upon*) generally have standard lighting.\n\n5.  **Conclusion:** The visual signature\u2014mostly black/dark blue with sparse yellow/brown accents\u2014strongly points to the sci-fi film *Prospect*, which is visually distinct for its dark, atmospheric, and muddy aesthetic. The yellow lines correspond to the distinctive yellow space suits worn by the characters.\n\n6.  **Final Check:**\n    *   Image is very dark.\n    *   Option I is *Prospect*.\n    *   *Prospect* is a low-budget sci-fi known for its dark, atmospheric visuals and yellow suits.\n    *   This fits perfectly.\n\nAnswer: I",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a movie based on a \"movie bar\" image.\n\n1.  **Analyze the image:**\n    *   The image is a sequence of vertical colored stripes.\n    *   The overall color palette is very dark. It's dominated by blacks, dark blues, and dark grays.\n    *   There are occasional thin vertical lines of slightly lighter colors: some muted browns, a faint reddish/purple hue on the left, and some very thin yellowish/orange lines scattered throughout.\n    *   The darkness suggests a movie with a lot of night scenes, space scenes, or a very dark, moody atmosphere.\n\n2.  **Evaluate the options:**\n    *   **A. Brain on Fire (2016):** A drama/thriller. Likely has indoor lighting, hospital scenes, daylight. Probably not this dark overall.\n    *   **B. Killing Season (2013):** An action thriller set in the woods. Would expect greens, browns, daylight.\n    *   **C. Capricorn One (1978):** A sci-fi thriller about a fake Mars landing. It has desert scenes (bright orange/brown), indoor studio scenes, and space scenes. The desert scenes would create a big block of orange/tan. This image is too uniformly dark.\n    *   **D. The Contract (2006):** Action thriller. Woods, daylight. Expect greens and browns.\n    *   **E. The Gunman (2015):** Action movie. Sean Penn. Set in various locations (Africa, Europe). Would have varied lighting, likely brighter.\n    *   **F. Security (2017):** Action movie set in a mall. Would have artificial indoor lighting, fluorescents, varied colors.\n    *   **G. Jane Got a Gun (2015):** Western. Expect browns, sky blues, daylight, fire (orange).\n    *   **H. Wish Upon (2017):** Teen horror. High school setting, house setting. Would have varied lighting, not this pitch black.\n    *   **I. Prospect (2018):** Sci-fi movie set on an alien moon. It's known for being very dark, gritty, and atmospheric. The characters wear space suits (often yellow/greenish but dirty). The environment is a forest, but often dark, foggy, or lit by dim sources. The overall palette fits the \"dark blue/black with hints of muted earth tones\" look. Let's look closer. The faint yellow lines could be the suits or lights. The overall darkness fits a sci-fi movie set in space or a dark alien environment.\n    *   **J. Aguirre, the Wrath of God (1972):** Set in the jungle. Lots of greens, browns, river scenes. Not this dark.\n\n3.  **Re-evaluating \"Prospect\" (2018):**\n    *   The movie takes place on a toxic alien moon.\n    *   Much of the action happens in a dark, foggy forest or inside dimly lit ships/caves.\n    *   The color grading is often teal/blue and dark.\n    *   The main characters wear yellow hazmat-style suits, which would explain the thin yellow vertical lines.\n    *   The image is overwhelmingly dark, which matches the visual style of *Prospect*.\n\n4.  **Comparing with other dark movies:**\n    *   None of the other options are predominantly dark in this specific way. *Capricorn One* has too much bright desert. *Jane Got a Gun* is a western (bright). *Aguirre* is a jungle movie (green/bright). The thrillers (*Brain on Fire, Killing Season, The Contract, The Gunman, Security, Wish Upon*) generally have standard lighting.\n\n5.  **Conclusion:** The visual signature\u2014mostly black/dark blue with sparse yellow/brown accents\u2014strongly points to the sci-fi film *Prospect*, which is visually distinct for its dark, atmospheric, and muddy aesthetic. The yellow lines correspond to the distinctive yellow space suits worn by the characters.\n\n6.  **Final Check:**\n    *   Image is very dark.\n    *   Option I is *Prospect*.\n    *   *Prospect* is a low-budget sci-fi known for its dark, atmospheric visuals and yellow suits.\n    *   This fits perfectly.\n\nAnswer: I",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 384,
+   "completion_tokens": 1218,
+   "total_tokens": 1602,
+   "cost": 0.0044742,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0044742,
+    "upstream_inference_prompt_cost": 0.0002112,
+    "upstream_inference_completions_cost": 0.004263
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 949,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

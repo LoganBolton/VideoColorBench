@@ -1,0 +1,21 @@
+{
+  "slug": "brain-on-fire-2016",
+  "title": "Brain on Fire",
+  "artist": null,
+  "year": 2016,
+  "label": "Brain on Fire (2016)",
+  "hex": "#4A4E4C",
+  "rgb": [
+    74,
+    78,
+    76
+  ],
+  "frames_sampled": 5340,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "qgY119Vv2XM",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

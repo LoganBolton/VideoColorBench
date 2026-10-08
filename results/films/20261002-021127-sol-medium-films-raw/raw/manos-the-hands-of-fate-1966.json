@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907111-5l6g0va32gBJ57YJqi6G",
+  "object": "chat.completion",
+  "created": 1790907111,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Black Christmas (1974)*, given the predominantly dark palette and relatively brighter early scenes.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxL3V81SfAQPXWJgPeYGGqMnsJYg2CxUogtKn8HE-bQpKSB_bSYSpGhScPeE_Jmf6I33VzJQEFMyMGO8EvsZIoDQHvYmJP2bRJPuawj43YS6HWBZXPG6nvYLty9nhgSfG3FOe2wEboq6Qt65hSd-ie3XF3RFQ00CQLxF8kfwKIudKZvuXlxPH-Yy2Sm0XLooHLQ1Kv-MljLWit8YeE7N8G5t4JF7UB4IdTbGhlvJQdxmVAJf9yEn20pxMGh7N7fTCvsFe9S0aoOUsAQ3nC6TTMH3COA5cSKPb_G7YuYNFrbJ-B0qnnWsxvbp2snSlNDYVj6qJF8T93po9gECSOVwZ0ig75edczvx5i02mI4p69QhAkcU_ArNddnpqgwEVoc6ObE1Ru2mitAzUCwkq-xRdAi4NV1BH1ySvE7sz-vxKyn2wtygLVEbZ7HtTo2vwnd6ctL-XzmkOQJb5BeFbyBmCZIZKg5jEsiJqJgzgF8YodBCu_OCJc9SSdMsvaji4NuIzYX3NuG_X2ijSVR_D1mk_m3-mfAZtOucg66_utRezOqcxskmYDy-yFKpOjp88pWCnOItP038n2Fva2YsYHzbbgTWe3bKcw469m5Ckpu0rT5qWkV9u3EWea3Ck2bB8ND8hRKwkXZOCJfK0NpNALJOoyxLAL4bpuP-TcmKvbw0cF24YO1koVCHefwm6SRXArWz2e-lkHs56swWiJ01lKfYeElBZvg02OH0WXWwlNOtl27-W5dJVQ1QZSXXbGHOQVHyvtbsErH4jBXdmjUMTmR2AOGdYhRLubNpOV7hJVFOaeR5X9pjadHy3DhhZB4xHkOzKEooB2vQk37yiXKCooVnkgaSweWQRLT8Xd_9z0pQAkyu1iW-l-iSjHyxGmdp3cH_g5dPHxIO2fvJoVB-JFdCbPKmdHs9NHmjEjOonGvisKhPsXuoH_g4DVYrqYr-zCDJT-zd7P0oXYbZ6ubcqB4kxmtivqk1o9Pr6Kwae2W_3Pr5BogXGsG_Fxr38m6q3NhstjXpZaB4nGENCIGUUn2w5LCPekyks9IcNBTB2SEA1GtbPCYFxjovwEgw3Ce9cdfk57FkhCmgIl4xRW-Eq-ng9LaNYiB9mOSX1SvddpRBVifxnJFnxcTg5LWfrJ9ARtOudnMUB2HdmkTbwWLmCAY6CIpZ5k_zivfeV-EAljjChHp3HqjsO7VhENE5rSBr8sglu2EreYaEYbPtjBVKL_2JavOlssn0nOWo1XdGQfK24NxDtV0wiHvjmc351M7cXPL0-71SqTwJrh-01KsnMOCEAsJRGeqtP-hNw9vWt2f0YXLsqKUO_TP5DajNJLZe_vH9YvK0ON7F8bmwm3dyr1vuof01FOKqkfduQ3w0vFmI8B2eyxKIgGReo-DhrKH6QdcpG4ksyJF98zAbi5qjmtqtEAwy49LHmCh18uoaIOU7iI6EYGi40f0eXKaw6WOCuJUBmg9gdu1lmPYMRuwZux7NlKjsvDSP703Us8qisNh4RzEsa2EYdkdC119b7cDHAVpVrwjR8gPSBv4G0XmWXEZoe5us5fOXSV4ZDdM3RXYvRSKA051K11GGLe0HkhizkiQFgw42A7kySgNLatAh62gc61hB2WqgJPV8QZ3dO-QOishFvdgTQWnc5JkHSpS54Tq9z3JqpHaeMfA59qRTt3k0HVED-8fOc-clDS2nyAnkMPH-Z8x2cW_soDk_VlUadHgfQbZHp_A4PNRKEgvgmgJ_xBvdtU_w4WJz9slCZNQUpoeOyWXXwAsQtftJ3Hlb6c9wCpMWsyLD_YaFW86_zu5wOYmKHkqEoGfh6jbfzpBSxJmNgoEVWL5xMZApG4vOOKsSQEUUAgVtyf_-wt54J5ZLi2i6-v_cvHlYpm_v57vVh-lVt0AFBDEHfI9PBnDQAHkUzMRrXWWZK4RcwT_RFZcUo_XVyFLhjP_qfcFFNeHe3K7LmaEbOoQaF-VqPByqaPtkhb3HBu2gJ0UvA5LtkdeyeEd3Ypdv-loRUSFlJSFx1fHShlx5Pve5bBWSuj3cNj4w2aQiAyZRg8YYCoCAedAmIqt00ZZWmRG7NI1lVDkgxpD0PxPgKdoQfw38b_hwSOk2U0fVLS3ug7yd4yb1-Erl7EE7dl5qKXwUnhzmeShCA2c3PN4cxjIeuhrnG36MeKfKI53AIpdYzeOtJJY1_vltAOR3KuKZo91vKEzNOM5-60vUHyWzRQsXDMMkBOtpX97c-JraYfLJZm2SP1rkAQ7cj7JCDRP2qD2O_TqBH8m4SJYL3R6f_UPWJNo4UCwVnDJoZDKRrvc6E7CUrHnXekgOyj7hiSEF8IjoiRm33thrTaYR-1-o-kheDCrTaqz30ue529ob-A6yf4G5AnbyuHfl2-R_2_vaizLJ9usnOKho3ZO_JXOrEyV8vNJ0msATx4DvhtlhQiqLr2GkNvQN6oNXJhmMeSBln0IMhvHdSG-peGNkGgw3o5seF_u5013RGNxwu_Fgf24QOmp-97ezjrtOStd6Ac-exx2hqjLUPh4R0hrIqFtxKdV40b8vQnnQv5RLrHCkvdsWbJBiXTxdhIBVWL_GR-EkZo7s8T4pQ8MpbTQyzwU_JFE0Q7A0MiF6XomNA3j3oTwFSmQ-Zsp6ZXWk_7UZfmn5_EGrgbZm2V2-ZatzL0eP6MIdLBJOjWYcKIJ8gB2ixJXFN5WSSN2zgmoyF7d-i5f2wnSsrtNGmF2ZA9NWC0XtLBPphqOunp3wg_B1t5S83HAjwi0BP1lOxDaFv_J6gf0bDAC43GSG5Vev9kf9prBqH0IzTUSv_uFTIKm4bnASFqLi_iGSwVyTHGliGf2nXJzJSPkbnj9EUzl6kPldVlqiJZNJPd2lxNp0FneNYjB_9lE_Mm2xV20fzAGusTtwgTXdnshKbZ1sCyEY2hDwhb3GtJW5kgIXeoWldcVXEsVTi6fCH2EtAzXkpWB24xTRLIPwMsQ-WdhW7kSTWtCCScoxNSX4RxqBrr5sn9lmlXJywI9DNF5p1gjbnVoZ9G5SJ9JeAUACgxEsJ7wCdx97SuAmUDfDH3WbPcYU5JGUyY9grUJcB8lpVjn-AiZZH7lKYSdQFr59V_tZXeD8rWZ7JrLLSsiIbPQOSk0LL5BnMXO_QTn2idJITsrdx3rRWYPI73wJkbvjGAe1Pix7qhdLfCr_u7lAatY_IwN9EwRCQfW91BMGkKSAlv0ii6zpcvaONOWNBdYmdgVutxuu_2wudgd8--ZF_XuotLq1XIGT77eh.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_043ea8f6419840af016abf12ecad0c87d1b1a49213782f89c6",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 435,
+   "completion_tokens": 318,
+   "total_tokens": 753,
+   "cost": 0.00405,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00405,
+    "upstream_inference_prompt_cost": 0.00087,
+    "upstream_inference_completions_cost": 0.00318
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 286,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

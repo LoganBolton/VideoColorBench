@@ -1,0 +1,9 @@
+[
+  {"id": "hook", "speed": 1.12, "text": "Can an AI recognise a video from just its colors? Meet Video Color Bench."},
+  {"id": "build", "speed": 1.12, "text": "Shrink each moment of a video to its average color, and line them up as stripes.", "pause": 1.0},
+  {"id": "all", "speed": 1.12, "text": "Every barcode is a fingerprint. We made two hundred: one hundred films, and one hundred of the most viewed YouTube videos."},
+  {"id": "nosf", "text": "Nosferatu, from nineteen twenty two, flips between yellow for day and blue for night."},
+  {"id": "quiz", "text": "The model gets only the barcode and ten titles. No web search, no tools."},
+  {"id": "results", "speed": 1.12, "text": "Five models tried it. Opus five point five and GPT six point one Sol did best, at about twenty six percent overall. Chance is ten."},
+  {"id": "end", "speed": 1.12, "text": "Even the best model is right only about one time in four. Better than guessing, but far from solved."}
+]

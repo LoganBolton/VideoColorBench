@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894412-oBVLd6kbjNdS8HGd5L3x",
+  "object": "chat.completion",
+  "created": 1790894412,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the overall colour palette, not a definite identification. The barcode is mostly warm browns, muted reds and earthy greens, with a few darker stretches near the start. That fits the sunlit street, skin-tone and bar scenes in \"Despacito,\" set in La Perla, Puerto Rico. Other options look less likely: \"Waka Waka\" would show brighter greens and yellows, and \"Calma\" would likely show more beach blues.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the dominant color palettes of these music videos' barcodes\u2014Despacito's warm browns and skin tones from its Puerto Rico beach scenes, versus Waka Waka's bright greens and yellows, Chantaje's darker tones, and Calma's blue beach imagery.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the dominant color palettes of these music videos' barcodes\u2014Despacito's warm browns and skin tones from its Puerto Rico beach scenes, versus Waka Waka's bright greens and yellows, Chantaje's darker tones, and Calma's blue beach imagery.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrggKEAgSGAI4AUIIdGhpbmtpbmcSDHrGJNTqdOgWiBMLBBoMRFY7/GbYcM+5cf1yIjAp1QJrzG/Kwk72ZkM2C230H+BsszoM34995fx0Ar84sWttc6sX6FOxXlihfql8/qwqywdoRh4mKZOxAY3BdWlrJyyjzHcwiY1aRlfCdWZI0gz/PTY7vkI77ueS5/1v+ePMTVSJG6WORhQlVOKJg/HuDan4o9qOIoyB5Rwdd/Q/edAHpKbSLESS+10WWjMKlx4aRqhDRALgp0rKMg5Sn9JPoCOhPZ9reQFqhmVi+OEnVcS1+gwiFsVmBJGSZIluyHxdon3buypoD6WvlcepZoPI58GyTp3oO2jzzVbKMUCjUtubRAFvRYBLZ6cIZaM3cvcsBZxOdl8khZfibc3fRjHlLdjPvBUfPlgxkoBwnxCBc6GIwhncMDXYcJ7Ul06eIjhDX2kFlaP7MJfEV4TIXggO2K81TDVxbcfemz1TcMGIIgwWwPwzPQJ6Z3kJCxY3sm3RtsXEyKfb4MvQI5bAgQ4JQP3sBvDl4E4vbWZjAdMDHK7w39beAo8yIiz3H80ll6cPKcKQPuBJHKRrZou9vHasmaLh3QzlX1ju7+6/DYiptIm4RWyxIYDXfDs+nP96MUCiGNdFTfQfVITvAR0xG8UUn9Il7afn5gUY2r3+kB4CIsrDV39s39TFlpib9vQoTRVS/vBcddmYV7iAK9l7+/6YOKRFyAt8bDC4eMzMahGUTUpJn+v0iZN8j1F/5bJPkKginSjfvnOna36+3pJWFqKNg/atSVFaRC4ohy+1gsorD+PHsu1BmLvQgNyKzV4IedltkphLYFSeeSyy/705eS4hIgXadqH2j25Dkt18gypkxzZDACowGnmApl23HMv1vb/aruvOQLTazaFNYa/jkiu5jO4WQCTWU7biS5XqiXLwUmPNRpmVe4P8Bn+/ns0VPE6knH0xEmWoWJwtrC0AmShOymsHb7xC/dc5KsiQNiiEh/30QmPk4n/JPvgs+3/I0DMnezoZhFTTvNdWILVZ1LMaEyLq/+ih3z0YkSweOv/c9SQIV4rf3g5CVrh0JpzqiuI9bVhPQfKQua3N2inul7VJZpMvwqQe/xGk70VIbIN7g/74COzdmqPUacgP14DGcEjWfyPxJ3F00avc496sg+EDdn1JIsNWOcH2nMHKnzeteLd7wRpfup1RjES4e22JQ65VuditGxL4YGweKYtOr93//yI8D9I4zhXehOrembnxCoqKJZnz5iiyxZfxWxJ5pa5LApLykt6Ntn+/egX0eTPKz40+OxzjtrssHKyLrbEwaPjS7cXFt2KEPvp0v+aQyG0N+qgdx7vp6vidGgqgf/sxqidgi/pcvB+JDD6890DsVV9rdFUhHsexzZa6Wfjqn+oIHkHG9pa2Q4i7ltEFUhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 674,
+   "completion_tokens": 351,
+   "total_tokens": 1025,
+   "cost": 0.009716,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009716,
+    "upstream_inference_prompt_cost": 0.002696,
+    "upstream_inference_completions_cost": 0.00702
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 198,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

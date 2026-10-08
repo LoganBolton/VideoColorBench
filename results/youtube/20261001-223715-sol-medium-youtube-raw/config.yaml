@@ -1,0 +1,9 @@
+name: sol-medium-youtube-raw
+mode: raw
+dataset: youtube
+model: openai/gpt-6.1-sol
+reasoning_effort: medium
+concurrency: 8
+timeout: 300
+questions_sha256: e55dbb791e1ba993241ddc9a8b9c042353c2dbf33651ceb415f567afa4f29acf
+notes: Baseline. One API request per question, no tools.

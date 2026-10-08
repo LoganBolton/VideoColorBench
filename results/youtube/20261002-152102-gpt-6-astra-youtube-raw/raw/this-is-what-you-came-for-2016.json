@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955214-FQoqkI0VRFtdXpdOABjs",
+  "object": "chat.completion",
+  "created": 1790955214,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI'm thinking about visual barcode inference, focusing on colors like dark blue, teal, grey, and some vivid purples and reds. Light grey seems to show up early on, followed by rainbow stripes and darker hues. I notice blues, greys, and alternating greens emphasizing the themes. It looks like I'm comparing colors from music videos too, questioning if I should choose I vs. A for the intro and whether the Believer video has a gray shot with blue lighting and colorful flashes.**Comparing music videos**\n\nI\u2019m analyzing the visuals from Imagine Dragons\u2019 \"Believer\" music video, which features a boxing scene and a gray backdrop with colored lighting. There's a large pale blue barcode element, while \"This Is What You Came For\" showcases a white cube set with dark blue disco lasers. The intro sequence of \u201cI\u201d starts with a cube on a plain sea, transitioning through various colors including gray and bright flashes. It seems like \"I\" closely matches the visually striking elements I'm noticing.**Examining color themes in music videos**\n\nI'm considering the visuals and color themes from various music videos. For \"Dark Horse,\" I note vibrant gold tones, while \"Side to Side\" has pink and tan elements. \"Boombayah\" features bright greens and purples, leaning toward warmth. There's a mention of a \"Believer\" ending with red and orange shifts, which connects to the video's final punches and a maroon barcode rather than black and teal. I notice how \u201cI\u201d starts in a cube surrounded by darkness, then shifts to a green flash in the wilderness, finishing in a luminous white room.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI'm thinking about visual barcode inference, focusing on colors like dark blue, teal, grey, and some vivid purples and reds. Light grey seems to show up early on, followed by rainbow stripes and darker hues. I notice blues, greys, and alternating greens emphasizing the themes. It looks like I'm comparing colors from music videos too, questioning if I should choose I vs. A for the intro and whether the Believer video has a gray shot with blue lighting and colorful flashes.**Comparing music videos**\n\nI\u2019m analyzing the visuals from Imagine Dragons\u2019 \"Believer\" music video, which features a boxing scene and a gray backdrop with colored lighting. There's a large pale blue barcode element, while \"This Is What You Came For\" showcases a white cube set with dark blue disco lasers. The intro sequence of \u201cI\u201d starts with a cube on a plain sea, transitioning through various colors including gray and bright flashes. It seems like \"I\" closely matches the visually striking elements I'm noticing.**Examining color themes in music videos**\n\nI'm considering the visuals and color themes from various music videos. For \"Dark Horse,\" I note vibrant gold tones, while \"Side to Side\" has pink and tan elements. \"Boombayah\" features bright greens and purples, leaning toward warmth. There's a mention of a \"Believer\" ending with red and orange shifts, which connects to the video's final punches and a maroon barcode rather than black and teal. I notice how \u201cI\u201d starts in a cube surrounded by darkness, then shifts to a green flash in the wilderness, finishing in a luminous white room.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87lEhSNB41Q39l4Y_yG6CFVw-Y76MfxHsiyNzyoL_q8M87bt8iO0JifU_5GdqqiSDq8IzGT0WMWIM9DiN4VdTvzfBrcZht0MhPZ45IxRX1Sb1Jk3_U_m02TvUh2LJvzfrEVtOzG6B4euXuZ81b8BrfBegase4uhAE95ntF9LmnkDPx7W2W0OoysPTVzOHJApRtDWixe0MofzqAobF0e5znga9Dp8KxGnQMoD9iGtLYk-erxQqGfdv9FGiSiwnfCxiYUXy6xnknARfD82KsNavuwM3c8kmTtJ4yelWAW4OwYaXqTCjVpKhXglOVsokMFIYe82CeyiBm9QzSDN7ft0CzmxfINlgg1PxBG2pZTpjOBMouAP9eVBIoDyM3tuxf2qA0r4KIAqYBlAvCXYvRdprGipqX-9Gs7S4AGV1K5ng3pqWi0n4XMju9bm3-yH8sH3FUYMANOk4LsGbPjAfXPD1FApDD8eqM7x-QtYW6xPVY8ULTBtDI1FJhTdgxePEfamBDgxFNehzN8teD4vLDYAtdIVUd1DcUTq6sqa-jXMUmId5PMUCIQrTHQdcSZEhTt447rqziFGrNO9RzPQuWjjaH4ZFDzVj6bEJ0Ea5H0o0sQF0Vcb34Fsib20FUp6QT1FnRa1WBRY_zJNnDlL8YWbFSkz5QmtvbHBnzh1lqDOTYYOTvmHJlx74cVnMfS64tIuauMtpDUTOESdW3n-lXktFsjdj2AvJAMaMewifIwNhhcpNaFZZ-H9r10Hk63qLpviSd46nPxJJatf8ouC0tJ7vJJHl2eil-llo0z_CY5Bg0WuRhpSm3hLxVFhx1J8LeL9WasJsiCca26rf5BhjsTua5xTUx-c_1NzffGuaD7qidh3CazexzNl2ydcH4IPkSzMxrGy6W31eIQtLlCcefuKQ4HnVzkXwarAot-kEpdAdW_wj5op7zARuid9Hvliq0dbvbSzEFRZJlme8QCwxgFmxyE5eqfwBAqXr6oAitw1I_ToWo7R3yORNBosLCx39rtHR1Vue7I9_w_xKg4LNqjz3B7l07pG23S_86R795H7RM9UT5DND_3hyAr5lNa3CEYHfp9HfDrPMkDqqXQGfgaLtq4R2B6Z5s0P0HbMXHRkLsv04lecxe8biCc7CHlkoSRKWm65de7OkpMNsa5F7SKTJBSgHzhLf4IghneZjebXXxVmJdCsfANCDEnfAniZisb1aBr8iUypmbI6HSd8x1qKqQFl5zqdc22VgOMnFx-89bjItFVraBZAHA2vK79N3n9TCoTlHkpbE5o9hApYGRa7rEObsTg6pQljeF0YHu8peOuWgwquhOuK7Yny3f3-BadU60Qj65vDHriYA7J28z11j37hwqGbt9_a0-KHKm48h41NFNxPf8K-0M-otDygbfpgxsqJpThngC8xXplHn0y4QcYaGresVubj0URSSqgaquo4cbgXj5msvPrrl_R1y5iwWjXmPO5uFcY-Eb1_tBK8CDnamTNYXiVsc25p9ZWd0vQvPDYSUQoEb-g46vSXgkB35UcgCP0xDvMSEO2QB5fLcq_AZOaz0ieW7z-rmaezkvll6eTgSkZ5T04qoXieZGW4q0QeZGcN-SxkXq5GH4ff6RzzKuwYW_qnb81V-kFjJ4RnaU3TcQJXafrZ3JRMpcTBuBD8i872XmqY2nw5JkopT_MVBI9b9_H-y34xBV02WYwPiUJuHfqQ_qTo0P53UsENS_Fj0Mp_sSB_UviOhKNS64Ge1TZoMe7X5Am-o6iyOGzvF2B6U61BAcXWmYD8xCzZOyXJJj7iry5CiH_AbMDqDyf_4GVr6SI8p1DGuTjw3txkC7eCbScdD__sRf-22k-VGWO4q2EoYTs-eW26B8_nmKgjiw4wfoWRe3AOEQbdGyfnvxw_IZD5pnS8A_cNrH8okpujTddBazijWS5UZ4-_HZANaltrW_q7dmnupw5s7aou61CHMB475jFTQQ0-q9rkipAcknaxbvrIi24Rudt49j3VaHdRI7h3r5GKc3qqLK35rBTLRh5XTePx0WWjNy6FHs4OTdbZipWQinbEomJjwJJqKXvNznw4V7K9Qv-Uhks8Uvq2bs-jioLITyDGm8u6HnankiNjb5kD5Fzzas5GQ2hESmMHTSMSq46zlGRQKVYpsM_v_GfIOwk22bN3WACEBU65-sptPqzb4lv-SauDsidToLy52ejf-WTW6m6LRKWrLgCNOnjhHF1VWoJ5TCEjtlLFD3GE-s3_u0x3N4uNHNgIurqTVPFDp21TIKaMepiMPxjmas5_fgtqQpwhGZdbMclVe0q6-Rvs7EaeJGlKHvjqpD43uyzwNlOMIZI2ugJN4MYOUgQhzJ0eyW_Jk88pnoeoDpx2_sp0N7wMVe4NefTluCvBC8Pm5aLR25eOMWE5wfJHhJwbbG4CNbloL9iELdczwc3xXUKK3xpf55HtWYHCbVATKAnWk-A9i9ZLmn0F6lUuvuB38CuYqw-BgaAU-QoxyuiSHY5RoDFWLQIP6icgaQ8m3fdPvUXsLmVufEo3ntTcBU31B6WU-v6FxVGjvUaNuVn6VdM2e8XXwvAz162UiK5FnPHGgAahOf1bhuE7nOWpgqiW2SFtUfpsgvmskIbodcPIPGjoL7dD_PPr_qTb8WcuavvGAQ_CwcvfUweifXPr9qv3s79AqJMWGJ5_Kh_8oUguQ7zsZHbh3g9uIYdfRnbSq3BvSYyyB-uc5ut40vVGxPEZ6xAK2c-rxkUgehu6Xdn5NzMJ_E5Mm8y8pgGmt4xAwtOEITw4N_9bB-hUCNywbt9ltZ0hOXiqJxJpsI08VH4sOAgdxGsiqUqThrqdjPTwc5lGix51tuBrxwz2C2TQ3-15MhJV96qxYjhZfesJLFBBVNrQyJRn9PLYMm5kfp4P5sh4zQNTwe4Pvk1rbvJY6aTNXPvRQmyEA-ZGTJiwN2Ymvhk0OBCkbHi-JQVMuO_q0hDrrbhWUnFYFhFVpYHJYWZZP9DbFsB28qcgeaaXLUBIzhT_SneX7PB9Y3nVZBpmsPFH0HIM3ayQsfKTimMrQR7LsyN2-rCEkIcJtGshUSsNQs6mT4zYtKFf2Xaw9qAk24cERFTMhNmSVk0HG3L2XzJ_2npy1Yuh91_zEDsPtQJrXDehATL45qc5fYUMN37d8Mog3QjPDran2fyEwe3ivot2Io252tC-URZNfpZGQqPXSYm2v_A8Mx9hM40MJGDuWTxQzu9XTTLiNqrTDuoxNGjV2-9PnfqlHnis8MCEGctWcgmrv0xp5c17KUEL3LtdoScElWPnaD_9rJfHWWKJGws8b-CKdlOjkSYknAh3QMwQ-rrxxDtVXlbubTekiDSBOEQoCl-H3MgEZuIn_iJhvChSd5HiQRZ_hZ0MrawWHQPY10xfe88A3drG_o9_16vwLJyjR1XoHF4lxmmX_5TJJ9v1Mn1tF6ar-QyVnU-D_yV1ztwwIlULb0IE441UUVh8szfW6Q9FO2qiQmn61sWvmjCWtqEdKL6MhAN0QTG4yxJ1e32gR7b2qqiEEXFCQ4Ct9jxu4m0vmFvTyGd9cDkDOYG_aIR9ekyXCvh1wYrTV2WMbVaHIEkAp33FgQk_sjZp8rUOnv2DnY2VSVCkIE5PuWq8QWm-Anqx_oT0nFhXlmqcN52iHZT2vRITkCOWP5YhjJzTSz1xtnrFQnXX-OfZiOjzl_vIMUTdadI8rhnZ9jbqvk3mU8DnMpgO-QDvAvQVUzOrG1bEoNMh6-5s3ovM2JUg60THLQ7bOhLSPXhuEGynpLFu8IqcrultvpbxESEQDmh7IMfOT0akKzOdbKgw96gAJTNrhDSdgEvBHh0Z5K5GPBzW99UHa7a9KS9r58tDb3f7WY3dPOQw3K6r_D21Y9tuWW1cAwoyTzQtuobqw4AkXhq5qGBp1ipurSV9YHubkLUz8-AoYAtcl3UqaKXEV5mcXVilDdwD-UdAp5xUg-GpvIWsQokjgxoPt60H9ZLv2yLgjVJiQBIIL3ZwEuHN4px75WduKIYJG_LjOhghxrCbmivEIciQW-7HyiRlI8frDajB2CzuHKbocRKAPU5zQz5Sjq2GaRdA23iICfE9OizIPCfysLnEbbguxwLkWQK1lFCfUqImbUvK3DoQImHQzinz2nenBAVz9tFC_o2X4bdI9_dt01eajOBRykjwKVVZySEPm1Tc7QG2qe3MJDwWSQ7koGLSqERm9eJbbwz9qV1a9ACAI0A9lUUFyYh5BXWPdohBQ_S3HQFSOYidDf0UFbAGqJsgp7UL4LnTs1Yt_aktL6AKTsREclGmA7gH3wGSvL-Plk3CghIBRGZB-hf3PLfdAIFQFKJAvmLLf1sAh9A9xQo6RdXVo5qxXlKY5f1W8URWXd95INTcjw_rbvxcJRXQkZeXletFLAZzynVXGuDVWjU3w0Ch9ecYuo3yB-gz5J2kEf4zCIxIOZU66JINWDy_4_0C4cg5QG_Q4xj0PGNGFW1c5lw44W5ERhj1oP5VJX3sf0cbwISBaipZxK5XsZkNBK4NdjssKUhrpSv.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04ac3d95a87e39e2016abfced103a887d1b9474b4d6072b3cc",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 507,
+   "completion_tokens": 520,
+   "total_tokens": 1027,
+   "cost": 0.03107,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03107,
+    "upstream_inference_prompt_cost": 0.00507,
+    "upstream_inference_completions_cost": 0.026
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 511,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-lYtBf0WaGco7ZiV8wANV",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Metropolis* (1927), given the consistently dark, monochrome palette.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Evaluating creative choices**\n\nI'm considering a scene that involves a kid starting something maternal, which feels unlikely. The first half should be bright and consistent, perhaps with railroad imagery. Then, there's a mention of Joan of Arc being all bright silver, which makes me think of a spectrum of 100-140. Contrasting that, the Metropolis footage seems darker, which could add a nice tension. I think I'll need to go with option C for this.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating creative choices**\n\nI'm considering a scene that involves a kid starting something maternal, which feels unlikely. The first half should be bright and consistent, perhaps with railroad imagery. Then, there's a mention of Joan of Arc being all bright silver, which makes me think of a spectrum of 100-140. Contrasting that, the Metropolis footage seems darker, which could add a nice tension. I think I'll need to go with option C for this.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLdxVGxCjhi6cB3q6QFfEbwEPKJm282DOInCljPfMSVqDMABX0hbb3MCwVjzrJwo8PEYs3O3nRb6xfBrJ1vfEyw9Vws0OyhErh0_myktxO8MY6vUDJCoax61NisPtOSycV6BRHReb7HSv2cZ2KmrhyZGTUzr1aVu9tsXeiQ1O1KusjpBR1VH3eU-RXMl3J6rGxxrrk4CI3LdJzcEwKmfyLNRzk6htynCKL2S_JvHWVHOVE2X3j-6mhO6El2vvtnJugd422Fap9gVb-z3JZDgseD8NG-D-C2_lIjW9SRps2sOQy6dHlsf5Sbkvw1E_eOy1ksebEf05m8ZR6mUTyiYzf82K8hULYnATWRiQqy5QoRrpu3Q9IGRVKvZX1_WVRodr2AM3Wbj-CTeRxkwzv91lAJbadLjrx_pVCJAuKhxYId2rHoWZGPBZj1AV6ZczGaD4yJ1EEgLV0bi2IX4MoWL-SHCsZDI68A0-noD9TpdRuVQZ9XgEbsvAxPU9xK0fHPAiuQMlBVywFq3RrvzJIUUtcCzY70sm2TFFrtTSPEC7SXgrumjasqKsEKVv-1zPll5iWsUoUngdivcIsPhSIfvzLO24a1IpjVVmU1Uhx1rfD5DgeDNBIXna8Cdbx_ro_nH2EPuy115JjPvLDVxchkrHGGh5ll1se_YFso_5CdOBISnTbjFNUIlklU-Jd0W-Ywysde68OZJGsEq5UiQTUhAFgxgoWTQ2uetlCkqPh65fZgCzmUVWZHrzqh_YYyGRt0r64H7DmHqn2hVlgDNZHrAVLf6aFfUoQ5NJVoSFLEYyPoom8mmtomP8kDshZqsoBAYgF4NP05qH23Z5vN4Yhc027L16i7LgIm0nZ1s4In2pMXD4zwjNRMNppO6nz-9tGIGK-7ImmPvw7jqMm0eMozB_GiaaI-xh7UHF45YwzvUZ5OHSzFKtmcgtDWQZGcdioQSeTkDyIwrLrCMGyvBI-Q6QxceBwUvx5D9HwNxdKZgDcqjQfK9ZzDkfUFwjo8gBxc8fthSke2WPxE-AJn8QcSA9cMZg9mCxH69WTYAdjKaVBR2zWeY3Hmr_mxelNpCYowNnJ_Aiktv_ocf7CN4A19lJ8SdQsn4fv_Q1GmSmRbnzD250HKTPPl4pB1pa6FIc_zY2lPxuXkRjA-7tysr2UCtwc-4sFPjQQXO77cAEa6_o-22mip7mq_L0kQb9mW44DuWJ9Gi6yz3jgXWJmCLskqUBkW3Hjb4mXQqfVv622sD80Uh_p56n1Sfh0ky-7vUqkIO2_O4lxToeiA3fUcDCPetqfaSPQscHz3hLI-tHdY5_6AmIKKPTUk7kN0U7GUs5qTH_1zQqPpUOHgP0w6JEZSiLmWaHCeSYUjY3qHLNL9u1Lyh1DOmaIF7wXCld6amiqzLK4TazAglVHODaGETu98h1dmHauoE6oGEI3BVJCr6jS9dZ6K1u6jrz1s5C_u2bhDVJ-md_hhZ2UKBVcDrtzMGzPLz8nZtz1FESwIIuDodvi1SFY1bIcUWR9P5lezb72vab5QMdpcbgmSHUz3ay2sUi71hu_xPtacoAYx93KSuJ07zJkAn8sRvpWOTA8QBq9m4sC4ZCpHENbyGOUCR8rHbUkwMMDaLDA1pzV0jfwbcxWr6oKt4Cv1arUHrEa6zEnWTgXNCOvftNyzeLg2xkHvUXAPKl_Fz1QFCoTcebCXm4s02S5uY8M1CYQMsv8O4YTTwsG3IO_GFoJtfTaqP8QIAZkORjBVWvGbwgibGVXZg2WbOzaAV08lM7xAtRRnpbSs8r5LAmGud_UVnt5EaFUJJgKhdTok-VXbAukmuBZOfnBLrRLd8GmHqHKSGNd1opWG3NiekBFlUNR85vZujB-Eh902Sf_U-kbMrTnrPrwEy21HxZ6AmFuae1rUL25570Iad-IrF44K-uc3EkyitG05Atv549LaPyctWRWSWQ_9b6PKj_dCvTfLP9EL7lV2m8xu-BzgXE2vlvpJsx2RWMdfFXDarRelx-Ar0dZ5LSnEyK0Vv6vN8MbwGfD57OT6aEC3npoZRfCWTUpNVPypzrFDblQADCiOA2K5WH_KdjtjPYdHyBrNdsN1ZQ2ZTp3IxrvU9RV2J49bIw-JM7kQHCLNVQ1YnZZylzK4SzA4rEzW5u6MdZx9ivhokECIXZVgjIVHmY7DSMZiYXsx9bew0sxg6nu9QF9Ooq3LH1Ge6ksBIkLYp6lzrIB1HCMg_pEK84wHwsCFNA6oB0g-qrUwmv0aJ2gn00ZTFIV7QXOHlk-qZaWI5bzFHL_Rs2tqFf5anIKknyuPWx9kDoH_brzGK_GvCTDqb3ytYMAJpXejuDEhUVVfMcMlH6AEVRjZUQfwSJbradgfZ3fc_bcqjKA0-Uyp-tkGLootxIEuSDUL23KijDiDDwIjqjUO1O7Ndi8BO6kY7vqgyXEF8s0zrG_cTzF6-3XUAJwKrL-x1_3yF7hHFYgTCjsYCncNr6e-pCEOf3lwvxZyVwQwT3oyr5CBdJAVBuq84UQueoJWHa-Adfdy0QDcXx39IKohIAAa-4qeqTz90I5eVL1bC746KLJAv8uaWsXtNnfcVWeMgcS5YPwdfsRLUnZ9dau7qIKQelif036Sg4DQbnPtutDXgJ_o7O7NhdqqjQQE93xVqhZm_-epzYfQTQNtCWcoGRD4pHNWOxwkUqavrHvk_oE3ivcI4hBKqpeMhmI-6RsWDBG_1ggdvf-B7y2ePFF0cKrjOssxz6hGcdLEK36xf92o8sl0LwssgnP-K9yfiYo00BEeFyJB0qyrxKb5TGCf6NbRO3SYdd_HO_R_I44Mn4bICoqDRUG0_-9VIBFEDjmkwLamiUqRxs_LJjJDYxXVGEFgULmMsU37OEc9jWcyZ50UCkpQdTNgC7YjPnCA9RUukCU4DxKR9hCUGy0o1clxcBQBwT5RqYbbKLUqM8OSOBxl1foRHDpZ7c1PlQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b1c81f67b1ae38f016abf12d43a7c87d1b529b82785dfc1d9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 299,
+   "total_tokens": 738,
+   "cost": 0.003868,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003868,
+    "upstream_inference_prompt_cost": 0.000878,
+    "upstream_inference_completions_cost": 0.00299
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 269,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

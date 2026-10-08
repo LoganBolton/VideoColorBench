@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907330-zHfkEr5GZD6pKWbuU6ra",
+  "object": "chat.completion",
+  "created": 1790907330,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**. This comes from the overall colour feel of the barcode rather than anything definitive.\n\n- **What the barcode shows:** It is mostly dark browns, sepia and olive, with stretches of cold teal and pale blue-grey, especially toward the end.\n- **Why it fits Stonehearst Asylum:** That palette matches a gloomy Victorian asylum. Candlelit interiors would give the browns, and wintry, snowy exteriors would give the cool blue-grey.\n- **The Messengers (2007):** Its sunlit farm and golden-field scenes should produce more bright yellow.\n- **Legionnaire (1998):** Its desert setting should produce more bright sandy orange.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's brown, olive, and teal palette against candidates like Legionnaire, Stonehearst Asylum, and The Messengers, leaning toward Stonehearst Asylum given its muted Victorian color scheme with dark browns, greens, and bluish sections.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's brown, olive, and teal palette against candidates like Legionnaire, Stonehearst Asylum, and The Messengers, leaning toward Stonehearst Asylum given its muted Victorian color scheme with dark browns, greens, and bluish sections.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7QkKEAgSGAI4AUIIdGhpbmtpbmcSDB41KUqfAOxUexL5eBoMCuHwTVSRi6yKePlrIjCPiZv7LO65lRadoXL267clhyu3ifbMJW34CDz8KejSq3EuY+ICCQVrnAV5M/sde4YqigksDQaC5OA58qabeJT1vUgP+VsoNotmdlTsgIjFCianHDQejPR1yI2SSaGsVrtHeBZUqJ5n6RB/vOOCV4CNooXxeQ/4vMY/L/tKW0pzkmYnKjoohr9wqJsa63JASzR4abnMsEMS3CizMyqGyt3a3NQCWD5B97jMzgXetllJfl7DYltDzidEFsTnhxyDo90Dpk3ovdJUQfrRQEmcgSUT+qMR5WHHN9UJuoyVdl8pIuHAgR/bIppWGJGWigXBg0aJbYUe4J+Bi+jv51cQf9enjLFiF0ZYipKmbS5W7RX75JwAjHnqmvRkuSfMtAJrzZEQexZGUBd/zQbctjZTzLkOTU+qVeunMrsS585OLLhlRisuzfP+8dIScZ6nvKYnccWz1rErkvU0QujWj3ZJGyTEfKrmsYlfWEaPHUGpeay0Orr7Fd2ampHBEjYxdetV7PgiGe4CeTq90pnaJ9K2AsgZWWdDazBLyDQoCnGGHw3GCBZWDGH3eNCBbziuMGp4Q9mnbjW7ko9o11CgtZr92gADkW4yv3bSubfqrKuuHz+LkAqtj9wus2qptO1ogKvuglipt/pNVbrAWUcTwXalUdbpgRuteOKff1WIdP0FyruO/tax3SDRCeInz8o5nrezyUCxdY7+5SFcm44QBiRzuZJ2FUwjNdwtAhPz0KM5ohXVZNk6/xfkwQgD8tBudTaUkX3gtYYuGT1k9T6aG0SP4AgxIVOExC4YuFBPP7R+5y6bRaN9Fp9ghk4ZEQfSYS05zrhyT1Kd2mc8VcfibCE33eVLjR/L3/QcEbotN+SmjM/tqKzZ8bASXsLccaC8sWrBb6CSlFQQe9apFVugN+FpT7IMderpTKt7XNunS3O2+fBBv4h76b/jnnBNHMXtHYW9z3J7aUDAW+pZIdS4AH8JEwiJRNY5deHtPZzkJOMgljaGIhMyKfagqtE4Hqz4fQG7KN6Zfb1ozyj8mTFuE7y/nHaI2uGFVGk41T7kE8LXa9KX3BVQ27r7ko2dwUk7i6Fpy2wRMfm1z7elMfoNnu3XzKZopnI2oBZMtaK/iw+vZnm3xL7rIVpJzvB4eVVSjxl5SkYe7FDubiRFNNLBgYj9NNSpgOUOxf0OiilYQT6TkVJNsrg3xfYrmtn47/iTX3mFdEXZ5weMSC/lq/eUZUj0pt2VSP4IowKCwg6nt0nA7Bm82hFw47Tpf8B1czlJ4fQbHErf3l4X9t1Cr2QA8HC8CbT1NbckVvQLoUwdZm+smOYucOMuYwaF8RCcH1Ii4czVwq4uXmmhXPasYVx6bJ5ktCXj+pdU+9aUvRknBYYj8alG0hqYVaxu2jk/8/sMNjyKOuRzw1TqlxF4hNvfAeCGwvnwgLOUaYTYuDr9STUgmsWeJTK01tXB4T017+TW09LGXJ/dcD60Rey1mD8fsJj3GpwpNpSG7vDA0ufDKCCGKyZHT1+gkD22SzA+fIQHNlNhOetYlEJ0MwdJxsgPDIm0ULnTPr1j2nBgVlcoKREX/XYP00s2nNiA41APNBkAl/InwM8njHWJ3YLH5nUNIQhNGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 531,
+   "total_tokens": 1058,
+   "cost": 0.012728,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012728,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.01062
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 276,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

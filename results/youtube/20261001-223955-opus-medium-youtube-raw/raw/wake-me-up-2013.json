@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894426-VnA8FnWnOSxZdHCDrh6S",
+  "object": "chat.completion",
+  "created": 1790894426,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The strip is mostly muted, desaturated olive, brown and grey, with a short blue section in the middle and a dark ending. That fits Alan Walker's \"Faded\", which shows a lone figure walking through a desolate, ruined city in washed-out greenish-grey tones. The closest alternative is Avicii's \"Wake Me Up\", but its rural scenes are warmer and more golden than this strip. This is a best guess from the overall colour feel, not a confident match.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of these music videos - Faded leans into cold, desaturated greys and blues with ruined Estonian backdrops, while Wake Me Up favors warm desert tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of these music videos - Faded leans into cold, desaturated greys and blues with ruined Estonian backdrops, while Wake Me Up favors warm desert tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSgAoKEAgSGAI4AUIIdGhpbmtpbmcSDKcPTfqwXYEigVy6SBoMVqIJVBkjfEz0PUOHIjAx6KSjJlFkWQJlKdxvWHfw1pex+ak3BQe86nmMo1O+oSiP3zLCGy1ChOkT4Vc46OoqnQmQ68lfKJC5Hzmfh4fZaa6ljTewWYxKbtDGgQ0yajZ3BoaWsWjOR0nM5RLTDkRXRkMXAMOlvRszcuVbnzIOzr8HV5SlKyRJVIdY5CY9lPJZpdoHo/bw8yLqc1KZZRBb/29XPdQFAqLJqnpRxvdbfY7OKj2qBm2FyCrGqIHlRuvmHya4a+q6TSX4CkfqibFDf2Iz4UMWpELqqBbpKX+dbepVkACljyaOZkp0aH3LAPEhoQgOu3rsEs1z04zYFBPhJLL/xJNtVv2vNaR2XHUeebSArP73I/JrcZROLe+ob4163W8udMCedP5MkOLF7HwCMiBTjGOYMPf9ZEtOpJkBpWiIIOxRHNJaSiOutOoCJt4Tiyv8pEY9exKzwH2C6L9rxRLKO0e+JL/6e7pQH78XIBc97L0UcoDrRaBQ7YgVyRyLaiqWyZ7xKgLBeFbT1MrWh9IrjjtPTyf82JMvurbVvKamShsljbdMRDI5do3c+Ew7Q40W4LJNgpl1B3GtTNiAYQrwkbOqr1qH86kqrOlae6mdc/EvE07BJmfGfBdbIQoqbYorM2ALQMN16jpHvqazJWo+3BbHhpSsLa8OJxhmcE7lcX9hWX6BwCnwhjXjavg8m0m3XSnKZ1+ETbAF6XB8gOqARUqzo3EFLKIhk5fRalakga/8jqpzVergJC0oxJM5RcN8Hj8FW+/ynDYn7kW9HvXvDAPhk7C5hIRf5jlOYvbCMEn55Nhabmr3Km80HfrP2CZjO5p38mnoEg//7V0zXmoVkHNBwFvZeWwYn5eS1Uj4gsPWGVVJK+bKIMvZ1mY/YU/Z48AzQ2BXGNIZ63UVJ660pSdOiMfFnNzb2OZOsL708SDFfZmTOBfJhr7X/6zumAZlSF4hloCeGyiyXxS0lPVfusNtdoGCGzUyODcNbulsTfOtqTrcyJU32YOYkUgYOBCCQXcELlZ6YsqdQlI+hz4DhDmUhpdPlqDwDutG+0556hCnGxThEVnz5/PkDuurQOr1xF8YqprGJlHU8fxUOA0o15GBmUyaOK8egrtwcHNcYFnzsMLpNTufMefV6ufw9mk3PsE+AqPAtBdS8g1USsq2kQTv2SuVVx8z36LPLXBz+sdP9x96n7F2zndJJVz40H22N326BH8KTnbhfPdp3lHoQ2EHy66PNhOIWKFEaVEjQ+v7f1V0DxAn4wS2pYhItgZpJs+orfJR/MDdOPNloKgIyM49PP11kf6SmP3Hpxj8Bl9IduZF6fJ8hs5UkHdNHnlTEGnVIX2G//ykYEA+pc7SVFtAiH5j1kd3x9lesNmXLr8kh10ySFe35unppRqD6qN3XkUS487u/iwCFkI3jOEsjP4mTFV1MVTXR8N+BM36hDyAhIeNabC24nhnT16L8VRgq/JGWjKZqFuMKzfWqpaMgo4Y3nUL6ycWRSTv7XZaRHfKS543OVrffu67NmWxdmKTnObkezI1NYrJpdeoBzQH1QuaM/bA+D+Qv88yiEogxTlioFL/ZbHhTGcZUvUfDPhfhCg/jyQOQT60gJTGwxKYADLCLGa83gaYdapHszB5wWgr8u8m3s3pzrop0BgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 622,
+   "completion_tokens": 431,
+   "total_tokens": 1053,
+   "cost": 0.011108,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011108,
+    "upstream_inference_prompt_cost": 0.002488,
+    "upstream_inference_completions_cost": 0.00862
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 272,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

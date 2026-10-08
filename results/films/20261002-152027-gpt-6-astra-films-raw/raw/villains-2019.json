@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954901-usoxi8IWDMl526P465Aa",
+  "object": "chat.completion",
+  "created": 1790954901,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Boogeyman* (2005).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Recalling movie credits**\n\nI remember watching the end credits of \"Boogeyman,\" which had this striking visual style with orange and blue flashes, featuring the word \"BOOGEYMAN\" on a blood-red parchment. It made a lasting impression! I even think back to how the end credits of \"The Messengers\" looked, presented in black and white. It's interesting how certain visual styles can evoke memories like that. It feels like films can really stick with us!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Recalling movie credits**\n\nI remember watching the end credits of \"Boogeyman,\" which had this striking visual style with orange and blue flashes, featuring the word \"BOOGEYMAN\" on a blood-red parchment. It made a lasting impression! I even think back to how the end credits of \"The Messengers\" looked, presented in black and white. It's interesting how certain visual styles can evoke memories like that. It feels like films can really stick with us!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv82szbIV-qNRnqEAMUluJMiIJSTadw2kfHSnbq2q9Nhc2TOpWveYjt2nd6t8gNUQtfXGLLnrv4P0I3i9xtl59DRWPY9kIhdsvo5iAgVnLEf9gCTJD_XfaBHQMBSH-QTp6KE4p3j9t6N6-LIqOyCK8uCAsGNG0Iv-gtGP3LUxEpOk-vz-wD_F35RKhzQtsCrZT1l63p7FSGrHY6Ki641L89xQ3XH4uNV_axMr8ebGmThZrTNB2LTItCCk6GB7RO5eghk6PEXznjL1KvyexneuKm6mJHFcuzxf3tcZbnXCEUb6s8_eixnhCn-JlTot71lxm65ohQlU5K7LoMQcsgjIcCpO5ROe4z-OHkt2q6eiUVtW3hMYxJxNvLmPc6z1WGJh5vcmjLVKWjVvJ_ZfyxXFVvKS-2LTSzcHFiUKL8H2Tvd1a0wGqMwj2HB_hh3LIMHknA2YoHA3w_1m2Qls74oaBqYFoqhTEVlKy6lWEtHNvmt7uMnkSqzkkmsr3UII9V_A3S01JId0NUtfCGAawNWDVy0ES4hIJjMj2-rY_iIy8N3YR-npYqWErSaO_jyvxnc_hCeKRB9iMzeb61tDaTOZhH91pbUFHEOUpQh8Uv30tM5eClzlPoxp5YDWr41M2Da2kP2ScU78LxanMY8VuPzzesL1x17mRZeSOQKuZHpwLjdcsuMC9lUSk7If6km6yamG9tT9E-zzMOy30mRsKgTM2FdqQINadh4ah6ZnaYqCdmbEJYQ9By3TthKHvenV6NOqVrzZ0z8-NJ892VQQRTMyiHIIdQ65Y2TuaPT7m--viU4WhUeI3bDzu3Ofj1Y7OzsXLO-xWIdTqwSOjykiq6ZRB5r5x13C3fg13GU4KazAipEpgaleGXQF6WUcBvOODTqZLIFR2gfgk8UJss_1WYOipMes687Y070AoJafyf18BrtIhhkbwmdMbCh05CrApex3anVCEJj2ShtrwnaTDhzzr5x6XOKWvifwfzoENxmFrEbd5f-EKbmUXSA44jisDHRpBy7jK-NfCHyAPJswvPayskP_bJujOrSzw_vV4uACGEkFC_KpjsdRLklwcNk28wWhVERfRZRZChMlGaHWgeQT6xGId2uZNKWiE19DlDrZKhflHV9XGgeTiWlETpWMO87LdHKUd4SwXtNB3Qil9yfB35q6kAn7Ra5foLDe_Lw7HD3U-vEVirrPqpUymGXCE4ZPPnDaBXd11nSxbbe7LPC1_Kfn7RXAV0QVUO78iWgbeon8gp-Y2khfQjrTbEa0FvLMuH_iDVh6lE1TntEvQWX4Gy3ADVQnAYp9z0mF0_ht6FZKEgCBUT4ehQXTHgPbHX9G7qAF2zvMYBkU9pV06-hX8zbZ164-ERGk3Eq7dACXDI9oBbQQL0IFqrG6Is_32o6DCo2LMo1JarGU26JE7KhXPoEaesLtCoWXg4heJLBwdy6Ex0Pk1UW6uPOnZd_1MLYUk6z_DKO0oTV84mQ2wK6-53CHpORFJtHJc1NBQ0gI-lVkl-_ahrFomMEW-IldiGCUv_E9jlUwLMs1J9A6ItPoukGN6Y5c_tDriYLiqGiwiLRXvx5ZO-Py_79M0ALdcmHB1vCr9UxozLDA2mp_E4eNUvdS91_8kNVcImi84zvI6PfHMSOcadCpLeTAQdVqdUiX-Sym4WwpvFaYEExKySvMXNAMotjzN_XS_5xT9yOzwbHMIXLrZb6dRl-ywYe6fFSGpOTQPsUiCiMAl87ewTod7Lci7YW3Wt4_PDyZQLS-lLZJId7sDZHs5PD15zfQqkkjYKOBQfTNlD94rvz6VIA0k5vXsmimQRHsIs9jhz5reSM9qcA4eoLGfnss7D7mtzpospWXQ9kIYxEzigN6kyIk1X_Po_mOoZYJxhP7wwKq7oV99u7umksQLyKr83ASIvTt1tswrXYvMPiYKo47zunHlcxWgNxRzC1__yFO4NE7rOu1ePDB9T5YUCNAhN3XWMuJmFYvBztqaB_4jCIn6Qqi3Do3wWWA9hqRr11F0sm83tALFk9TgExf-2IScU02VE5jDf8ZcjTKLHPhS52K8REfODcv1Ghja1wtiltW6r-duJMqdEV8sjMFHPYkvqufdU3_29L6a2TiPWa-yfV4j3FK8bNYOaCqJTPaIAHn_4KNgJzOVk9Cdal1qKrD5-YWOAFA7ixmqrsyzjBQkXhBRryK83CS-_9yuVd8cuYqud6YGZMKuRfZl5eAl7bJMIvzZ92xTYu2wZxC5yEjBGBASPUNW-dTz8jq3jLOESdE6Fm93_jmWaS0JpWgrLdh3X33staa61aJmbFyZCwNXNWauAY_den02MFCxaLYWzBWnVVaRb49dK7mM4VpvPafH9OxdOVK_P3JH6N5VlOjJDIngzYhg_kFIK0OikrpILDiuYsVHTsHiJMhWisQfF0Bolh90rleYR3uIw8GEAq1UoMQTIXIQEdMn-1ei3hjmtvUK2tovmBMJZlbA1f9UxKPdoeNnYTlUndiIQj4N1WAXOLiT5-uA19x-IIWK-A-mruj_86RxVdaEMKAo0tamD_si90ya4JGx8W-9jMM-SIlqkcAaU5TeM1pWcjJ2jFbNQQTpGsFIce8kKOXwN4gQ6MlRqAxplS10YE57mpcfuHTk2g4J46JAJz7rrinngjk1CanRgwtZFMgt3h865LYqDZi6NNxZHN5ubW0rj_oSGi2AOZf3OU3NVj7lyLQaIvWjuaIz2IUihBtmWnJP-s-_-lgUWfolrxRMfg1JKHigaS5oXXxkt3RX1ezWVQ8Ve5JKhuR1LlHG2PU8pHsqj58AhG04euLdBdzuCCEVkLaFCoysgSPCuVoDeEFwf639BMjO5VxpyXUyIq6OgVFUNBYFTo7KF4rRFJgkB-yBXnLoQCp6vPMoUxasrtdSfeswyNk1HsCjdgii-ssOVR29u99QnTdrl3JGz2E0Vd-05dFxBtxwQurtHOu2qnIFZyiMHO5oLUAZZ0bHeo-4oSy43G9ypLP4PSIHpRq3vjsXk6KOFKXEKzh-8uKoJEmNzYhD8aygfkOrFyRNkXJ_a8gLvo5JJ9uVqb_aqL4HnubuMGob2cj09ObIhLNzLliZsQHKExYMpphWU1KrCkrGHwf-7tQoHpo8Wp-p0PpsEfSpHkkUkdgXQPrYB0oHvvGxMkfedrT2SJ3bAmtO5EL3nYCJknRp1rK8Aez968BC47jSr2n-NxgZvZBjheW1SCp8iZNa7wrvQiZ_qr7mihHlyfcyWxYncjSLGIxMb6g-SRezIPRGLzglzYNMrIH_G9HfP0B2OLTh1NpAzppDsCguvWriw53TCnUBgTkJIUNYQ53dl2kpO6g3nKAfv2NSErrUTxDo3pI_-N6amAZeP7pFMOQzx0wjhduEnCPaf2BZP_BdY6YZWtd7nKBtViEkGtS97y0eazne1HL5YqC0jD7cnh0C1KStxxMRs9ZfvK91z6MUfUG8HxUMVgmwXJ0oeMua-OoTzk5b4v6v32324-FmzXwZqD-jyCfCTxpyMji8yiF5FF1SGSlYQJe-UxnYQ1QvPQT_8e8a9i3haUGHAJWPi5WInaQQOJevOLfE3gRUpcUZ-iTzmsi2Rpa1htWS_5nQL-cM9aOfsfghWxzcbEfueuEE7uSVJqx70W6rDNRpDmzambGgJ_VWcTifznpZnO0_VqKdS95ly_EsmxDPicbyDHy_bPquAOW0n5d4gWlSl9_LoBVdsqxkbqRp65LdGb-een2JEFBGCmp8mRzo33CfERm-DKuWntBlCAiKFBWJbfXsit4fHiSFlExPU1Tnx8257GCmSqIQFdbIhpKK3XGoKh9IXD2ArkQYuJPhieStfSwf-BGxzfTnAY1g00bAxQ-726HAWj_Qhwcwpu3ZNaReLXtDZzDlnwZfiQeENL1ajRcjwqaeguYvjZ6BCgF40j2FeQ9AWlzHzlEj8r7fOZJH7tW7_RTcJ9XVgmAd6RmjN4R0LtXbLHoVfhzYsGYeI-YqN3HuH4zkO7wqN4yVYU9vDEUSuRMjDi1DmNav_abfRq-FpVhOrD8kNTq9CSRStrwDC2CNySBFkTbepp9HcrTwcCbqdRcbof41WBnHRqcw_qzRN6FONq8mZoRrLYRMc7JL9ncE17icAD-lrk2jvjdRg7QfyyIuzsoQ_-R64nGvtM_hk2wOV2Z2kxviXLQjhG0bxRkd9ijakZMeeGKxtkNwQI9vWiihZmSAPmKeAzcL5K6rOW3j6ZwyHx5-oOgnRQX4cnwzelZ08Gk1CZYnU8dbug=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d221f5c29cbaa32016abfcd974bb087d1a898193e9a8fa2f3",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 471,
+   "total_tokens": 907,
+   "cost": 0.02791,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02791,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.02355
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 448,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

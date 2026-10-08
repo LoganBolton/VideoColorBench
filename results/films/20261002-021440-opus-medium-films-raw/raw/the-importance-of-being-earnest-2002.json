@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907323-LTZWXhjDNGN5bMsfGRin",
+  "object": "chat.completion",
+  "created": 1790907323,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette, not a confident identification. The barcode is muted throughout, dominated by desaturated browns, grays and murky greens, with a few cooler bluish stretches. That earthy, drab look fits eXistenZ, which uses brown, organic-looking sets: the ski lodge, the trout farm and the Chinese restaurant. The bright, colorful comedies and romances on the list would show warmer, livelier stripes. The Haunting in Connecticut would likely be much darker overall.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "These muted gray-brown tones with some greens remind me of Existenz, which has that earthy, muted palette throughout including the trout farm scenes with greens.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "These muted gray-brown tones with some greens remind me of Existenz, which has that earthy, muted palette throughout including the trout farm scenes with greens.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpgcKEAgSGAI4AUIIdGhpbmtpbmcSDCv6rWKfq6x7Lr/xmBoMEFUMQMjdW+JdVK47IjCxuy+e+qZSCQ2PDoto6rNeybfHqpN6QDoqdUCL/OypWXk19O1t8bfT/1vIfynjS2EqwwalBFcqkwtVwauw8yKPUR2pI1GORDR12S7MdnbktRWMnA6nUYPTV1Il+VOh7lirwRJ1qWjG7A2Y08lkF8Sn+m4aF6hNAqlBM/TU9wGcCAt7O7v2xRT282RH4jOuUuLgw6re5K+W7zjEkxPSYNFSYvz3Q9JPP8jX63Rwbnlnt8C9Ddm41wo7uNfvEGpTzUrURxNyY3oGiNpOuxPuOFdL6hzFtEMAeGijbpwFUyiLjDyGGOIUXziTjHDV5860OP3JqsoNcT7c7+3tNJuCc8naVAOJpk7QDPjg+UCqAQLe66yhFHKVrlYBZnnwghPy6o9nk3HbBMVDXUHyfB+hw7HAGm+TEuzgAej/PvcIUF8UyddxlcpBZwGwoPxsYYSB/Tv5apNYHhR7g7+8kQBZT2cXaYIhhaqwV2O1/gUaeqHQA4C7GXEBAdzgiKJwzaEleot7VbPwImNQNxD9ShCknwsbTppMwZqiy+GZPvhDN06cNdXmXxxR4qVODTmjk42aqDAvbD8ny/vAo67uUNXigi+U83sVY1ENcYFjKoMKj5wWnXvVI1o+8VCH0a/1lsws5OgCDUhYjUVvgip9nPslHclBa6wrhfM+KSSLmIYS621tOdgYV90osv2aV4IplEBTTbiRlPh0SCD7K+NIB74OI3QCUMOIcycYkuR8wsd0xIC30UmM3JrK5o0Yq3T0HBHXdr14CAM5IRkoXDJJaNB0nyJTaEtKEiwUMkLFlKbaZOoDx2qo17jN/hr6yDwIAeYg3/nY4GF8S9xpr85WNrHuTtOp9PoCbl+/V1HIkP77tuFP9am3iP877QjFLzNpfYRoufsb3lM/9u3MoFF8xU9ZoEHeMZIDfyhhjeM6z+5CeV9j0KAJC1+VsZBcopeC0ib7E9dVb+RyZI6wGiWf24mwLVFmtAn7HZn7592GwGzZwa6PUYA/fqGKD7znJKkkRfWXzZGURAkJQTJ4QR9NJEsCs7fOOgoc8Sj7EN/17SERdURkXTxTSIWaV5PuNDr+vROjP/2D3j+vfB4OI+ra7H3JPm7TYuu2/GgISiTATOms0yrXFZZL+JkoOQCUwx+BKghdRKEXuspsLvbNIpq/TX7PimK5UPDhkCwIGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 307,
+   "total_tokens": 847,
+   "cost": 0.0083,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0083,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.00614
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 133,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

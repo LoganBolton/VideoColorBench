@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894243-psvmQktTv2HkLrUrj8ka",
+  "object": "chat.completion",
+  "created": 1790894243,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is twenty one pilots - Heathens (2016).\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCw8iB0_JsfGjgZoktijBqxAht2E6bh0NLmXj8X1bLssk-lr5whAqCuN4zVCn2Og4T7dC1KmINEAt7G3cvwNNsxmT-Da-Vv4tUiWG6JJrHy7oPclO8C-qjojsK9ygC0hGRXSv-ZG1OvtaQX9C5AUuVUVH9I-_9QGLcaJD_3x3leuO96BDNjgRdndJCBJfiIYeTMLzZdwDtiyjv4qO9NQhXdPchuHzTqVN1ZSDNdAIBg1Po20Lm2CkxDGuFC_Es9dYmyRr2Fyve8D202iap9ZQtBv5ywYP2ojuozagWXqiSfnr6qAM55VVeo8hVAQd8efxbbm3oNdsO66yWUXdb-vgRizFgpQaq3nMAXaJMnWC8hpKBHkW97ukn-mPGw50FItYnKICBv15d-sEFsioeANP-PdkMjIuR1D-0IMkn4DXab6D4I1xH8X2z0GrdZXdc9J_ye_WsYOYJWru9lMt4CVMIGi_gr385zrH5prSG_4mV8VQm30uW9O24QaD2q0Q1vrOFusTKQs5G5Uy-5ByooHfxMwwx12KNDZMWXHUnzhjvFVCQ65LZVfPLEiqGHV6-BgBzbLPOaAIP_yTIw2qV8KSFrveXqQrdtD6XPM2V5d1NSC4Y_FrwimybVVhsKK7khg1Z1gNboAl9QXHVvNibfwUBc0hJ9CpbqdgfoWuq-J-XdN7tlXnyB4o36umfDL2NmKvwKOFum-bXBo26J0tt1SDlg9ucGMTlWlgEpzKp8HFKq0HpjN15cboWuoEj9uSzym1VhefNFifSr-P-6e8uVoz8VeUDb_tvns_K7y0WefpBqmpuoDLOSrRv9Guafzf5rqPhVWC4ow7WmnsbzaF4WEkTNiDORTxVLVtkBw7uX1NzdFaExPdSqMyXwgbe_zL6Bo7ACqlrFGKjgua9wqJgW9Rx7VarfNL29MEWezv4A-SnJ3z4qEt9CPyT_bhGr5q_SmtYQeX7BaL9ACvAsFpQLWZzcDFw-LaQLcxcWuo2ebnqbChw_JuBLoevHO1S6K3PcARPlzU5zZZyz5kC961FgJRmPT_0zXUpOOUtLsyLqACW9Z3YCmngeIpjF-KYdrfV1TWoPhS-COtucULyu9qedkIA_wXSzUp6Y6A1cyG9IzLfuSoDSDshnkMKiR8ye8GHDn4wp9xRvnrmzfpU6a366v3rQ89xUKzHimpLDugNpe4m8iQiAkTE7rmXUIV-qNUAf-R13tVvJtZxte4P6xuolOQujkRQQZ2NEFktoE9K-aWxy4_BwKDM3CreVEMkewVBaDnoMrBgr_vvmg8UyNdC_3BiqawVti8iWoyN1sufGPhLHhTFKw7oGzErM4E7UpuBd65-hGSCzTmG7fM1j8E6-WZdVYmnJHEm4KZzEO_f6Pb3D1I-z7oaRBq-fT6SILBgBngxVNpmVwowfh8HH_sGNcI82xe2YchFjzhnDEQFMBYVmdPv8eWdxAjUl_W9ZPQeyWKMsOenYs0yLn1qi6fmoEIveTMJL0EqtSaB6nsZTk93LRe9rKLyg82a2fbuEbecrIQfRBkL8-lL_fyzQKMTJzWmCog4Os9lKUxunQmWcRvB5c2a_O6m0F2nwNfz26m-mIdftG5bF907HZ1-axM8PPYAQnCiKDAmEO0Bqq1J9ZYiUbfx0a0LqYTVREeMkwQTd8w74g9dl7UkJQclmt5xhpwBoCNYz_BdHDtOpos-W9S0ou9kTjB1b1Hk1E4F5cpW_z-ggns4TuIaC4Uoi-rF4mkC5rCD26kth24ay23uOl1qvwUvydD8TfAJPtPY-MOdR23pEyCHummpK0pNx1xKJxXYnN6ju2DBSyJI59TSYB8xzNvERK-DTi6HFhc71ZljhovNVMgX9lMCJenH-QllFnPmNPh-VoPRDl_ovP5IrSmFc-zqSBUw_GsayKu6d9iIETInDyJriF_N_qnoAUomX1iMjKUPMJvJT5fqS-SqpUnMV5r1jNVUKDzCyYviqeo2XJsILIfKyWzWu3BN0B_N2R1alvS37MHV9cHM4QPyuIS_G6wDeEtdAH47HaOMsT6n-a5v5zNAVoqbKwncwR9QQJTyqnNiaBAMx9J4QxyUV7vQNS5uRAiyTb3Bj4nuZ07djC-Y5IIME1eVbQHARq_B4K2L5IAHd1fywmmG5uH77t_wnItSfmRQWXxuxZe3-hgO7RxJNMGGWDaN-YPaZAbTtPYEZSeT0W37kP5CP6zg13v0BCX0ygQVQ3GmyvJNyN1cbIndIrYZZg_9KbiI9UzkCPadUyxBojwDQT4qWJU67Te9Ng2a3WJCCfRa3IuuWVeth5iK3-2NF7ZEDLvAjenklF7fbXgsrF4xl9KkNcpCyZKxnALMm4nN6p73VomCM08ofO6WUnPubozDEUoGUP6Iq-qD6e25DljKhYqzZdF3o4OnaA3LXOM1nw-wWbjTNN38AxDDAK31t_qoycssVW_ADcuU1ITMUmGO6dx3lY-0lLAxUh3PvHwAbyDX36S5pQ9roZJ9swNt5JLYTpEsFcD_WgpxyC1kYKLZYJCtqjPvqNzYbbSwaax1eh2FJ2GxZ8nv8ebL3a6uUDvoOt-69BOMWfsczHDA17cPA0cmockDh3r-ycTGl310LkAtNip-133DHa2JVsVcPmmagG5BgAfh5zNiSU-Sxg1YSEKVKiKZ0mwbyi_vCXGNxVBn5pDOb1deBu0riiiZ5SfeCOBnQD3DRZpOZkxcAecjASIbbTx7GA72mn-2Dl51mPRbzg-O3shUVPb1uplru4bK--RYNYccPCK3ZQM-ZxaQ54wQtCLC8NogWcHSIIVMyqwmK33zHj4DuH8v-01ie5GKdk_hncgZsKB4K322DesHtWH3mEJoeaM0xrlqbdFXsOiZdv9iWNSWtYftGrzARe4unOeSKvsmNM_QrHdAU1wy1C0ZWsTMbJlreR7Ezi3fcXJ8y4jOGUQLkYJ-tlDEyVJZhFDDxmfdTuZ9HxkIUWy-WBOEOnisjRw0oEvh9-BYSrrxVNQ9wDC_k6bcjewAkhGNGEF-ZK63JqomCxQLj3s6SeYzziHO5Uuort5vy8HOVsQbA71KrtgIN5BgyyS9KRkG5C0T9N0MQ0245LHdLnV8epoZre6QNkW6PvXbrwLF_0JmKh76iuD82C3ED_w-YHxDiKmL6ppuduAnzZajX-KuCaBAX-depJS5jkILZXtXsZ4Q7kGAiW8Y3cgOFLddi-1vStn-rODMKYHhALa5vy70BAODEIQSpmOjjjh3TDNht9ytfBoL21PiSvyUAMxoxdi10cUR0q9KKI6_8KOyVNF8pZPJCJg0iX3klLQhG8OukNQkQSu4yl4PtQvh66LQ__Fvxt3vF61xonKusQD54ZAKY7tFPowW6N6CoWDyB1kjiYZy6Gx8qPuYatKhXHnNUsNpS0uBInge4_LLBJMUcKPKYT0148K6kALpAcM1bywRmELYVML3q1OV5-d76nuOQG8YEt9CodZUYrXTgeQviybu_ltMmb8dlRWvQ779aooMTbuIsh27Lz-PuhupNEd00rFM3qVjq6XmVhAmJXjSaVBIixTF-Oa45L3UNSDjQc06k15teAugroXxdhL2oD0IoBRTS6oCCkDK6VXdHMg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_036c54b11ab0e7af016abee0a5827887d1bb9fb3829157a581",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 468,
+   "completion_tokens": 377,
+   "total_tokens": 845,
+   "cost": 0.004706,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004706,
+    "upstream_inference_prompt_cost": 0.000936,
+    "upstream_inference_completions_cost": 0.00377
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 354,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

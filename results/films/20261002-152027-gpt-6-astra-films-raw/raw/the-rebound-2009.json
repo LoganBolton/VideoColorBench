@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954764-dNpLyUrRIec6BY6MKMEV",
+  "object": "chat.completion",
+  "created": 1790954764,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Take Me Home Tonight* (2011).\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80SkW0W3C0O3UQagZAFjgNch9IARqFMXyywfdyx7mn-8wnGy168FcmPhynvlZT1LTK4Tw4BXpVrVHZqvN6MOsvQI3nZpQ-EwmRPg0EsOuAWhn5ULr6gD5GtvPyhb_0ZO2H5lVVf5iKmm25vTcggyYzUOjZLsePrgwFQ1hbFBiCYHk7f3CPaa8kkWba3y3EWnGz0E7Lt4GdclhLoMMQMHKkQZezM94xdWgrWohfx1phBLsm15F_4drgKuabxFy0ZD77HEq_PLpp57iguZc5HYnNYCe1bI7zR4mq_ekp-WRBFd182Op-xMfBm_HM_400jl9ldFnKpY1txRdJE6WRJMInTq5L6rwzHbqY7jKgC0x9c3_FRBS82sWPTy_oRBAIMLOhpjYb3tuRZCJtZ_5lMQ2b2-mW54N0634Rz4mUxDgTzA3hoOG1LxHw9hzIeKxeRWMROSvDd4ji9GgTf6jzfnKpTOZC9LDLXzrluIuorYKR-7N-pVDHwQ3u1AtMYysRRBGpsB1cYRFIa0PVGRPmLOMlGipDedYITxfsVIs3EZzCu6lKj22_lxcQO4YipljmtTyqeQ2KrgKrI4IiaPuh1_klIz_w0onpuHHIq3PRgk3ZXPo-9oVz4M7c-MmryXL_AN9tYqQus5c6_Nr5gRJLG902Ya37yktwVpfWcbN1SZVeARgDqOlm2dGD5MJCrGlLpmo6y3TrL6RNbOjg1mgrKZy-JkQHRUi6sUXhOq8QNBft5YXukkHLLmkKSK5Hel-Pi3bThtiN-zp4BbXAuFVfPZKIQE0ixjaK3YtpP2CAemXkPkFwiuNn_JhD8-2EDZ45qG16KYid9yJRuhgfnv3oK16QbzvvvwFT6sYmO-eUSMPpQsyRzYc9FI-kP6bKXkkbfn70jgtdphJvc0ZQG_wRJhtgWZ4FN2J08dfw6ZiCPNCk7mMLchtxt88X4SVfGGGojFtgtnqwPp2EX8Y3FrKpMMLmzFLGTQsh90qrk_2dR1LaYkTjNvp_D8ywgVlZI6mwcVKe8xw9LIFYcNi5Ys6morzawFSZJjB1WPohBeD4CvsnUqC_xRtoc91kyjoYvGpIX_Qpxv-qUbQ2ZhQ-sPy4tHRrs7J_9HghdlIZXcfAnlSSwNChazck9QgU7EOMrhZF-RkGJol1RLjfVTVOfvYuhvBlGC5_y62-e9nCW-qAVsr5UgGwCPCijRf5VYBS2LlrKYDJnm6589lA1dPqZHMx6wyFl7nlRaQ8Vkx0UT4wfK28qk2j7xeWGhgMxQEWrs08EIKRWGICYhOHbXrE_KxEco2BfGP5wCu8U5qWB6_YreRCpZYw4DNeelcUTW8OVANL0eRqL5yweKlAvh12-bQP5_UTD3uCSYJ6WCtpd8YUVP2Uy3ZnyczxNZjyAL1CCfCSA02oICYUFOlGBNxP58YTgDUvIQI4HmsMLXyYM8NgpgxvA7zsy6fc-tn3fZd4zwN0P2MmT-Kc8mHLiFUBlv5n9qjEX2oEWuf273U990n8HMzo5EozFrJMWHFSYAucWkpRNJBBruWgtHdGaBgTHn2YtxF8ZAcc6pob3KfnF-uV_MtC8vtpdTYVQ4XfmbhpWPNw8Mo8vj-GVtU7xCh4KiJy-UwviveV4AD5lHOUVll64hZzuyzqSNcnkm8khJvorYY6Ng-NbbbiPP5iF65acrCx6iFwd9e35UKdQnBuE0l076ZmOLClbWgbx1_nLxzlSKbZSDirK6CwilmNj4XRI_iPHdwPpmBF3dqTLUDIPnEEaJ0WI40YmU9P1VAKWXQRoz7JWdS5F5NWuN47Wt2pq71n4B6MIxHH5wMp1oqWy0TW_4Q5IV3xOaGpqZeUZ64JxutCTdXNAkVK904UeyrsMdfyfMPdDTI6bp1WNvk1cJcZfHubQVxBIG3WQ589x7W_KkC2V37DC6AHKQWM5cA-DqHB8J5mkFCzYMp0hC4srXE1MDBDB-XTiFhOFdTO6p2sryqyR_yj3MdpTGkkF1M4mL7Q3zvSSVc_MD5j6CKQrQjUnSz5SrLS3sqkXoYbogVoccgHO4D0YJvDPbkED7NB2qdBe0R7hlQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03542fe12f2662a3016abfcd0ea7e487d1bc3db882c89493d9",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 128,
+   "total_tokens": 562,
+   "cost": 0.01074,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01074,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.0064
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 105,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955333-a03JcH4uJgCeke8xneCc",
+  "object": "chat.completion",
+  "created": 1790955333,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Identifying color patterns in videos**\n\nI need to identify a color strip that's mostly green for a video that ends with brown and white. The Masha Recipe disaster is likely set outdoors with a dominant green and finishes indoors with brown. For Miroshka, it's a 5-minute video about learning colors, mostly green as well. Other videos like \"Johny Johny Looloo\" have green outdoor scenes and end with white. Cocomelon introduces green outdoors too, contrasting with pinks and browns indoors. I\u2019ll need to keep all these aspects in mind!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying color patterns in videos**\n\nI need to identify a color strip that's mostly green for a video that ends with brown and white. The Masha Recipe disaster is likely set outdoors with a dominant green and finishes indoors with brown. For Miroshka, it's a 5-minute video about learning colors, mostly green as well. Other videos like \"Johny Johny Looloo\" have green outdoor scenes and end with white. Cocomelon introduces green outdoors too, contrasting with pinks and browns indoors. I\u2019ll need to keep all these aspects in mind!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv89RhGVGeS23rCinmEMnWGEePYICB9ANiEPRLVRfX32lJvHFkl4U5sgrBw-arUhBUod7vyWthvklr3uGehG3rZtRglZMxipnmKxZmB_Ju0jtuWGWDCZ_c09TeS1yn75biJYdm1x1mbV_jBMCOMbbi2XRfHHo63C8iNM3zezYgA3WDV07v3MpEqxhSHnf9zBUXUgJ9jU7Q2l-xcn_q0T21tmyW_YEeQEVOjV3cd2ydtVHoEBxD2FAZbT9YYdCeXQ9Yd6a3MBUjTuk-_5ivgoWZVrcXnbQEfqon0T9dEqKQqmNQVQ8JPSaH1V21PF4wJaoz0e0pjnNM2gbiR1E2k5X6nZEVg5ISc9-YlNfGhq_U4vL4OvAVc89y6cf7OGNXaxccMPyeaNvCfiFKY0hxjvdrCPNYGKT8yIntxoEuqgjAaoJAFppiZ1bXhnvw0Z8ApFOtD2QjQ7R7xkc3j0TiVh5WH30GgFlJ45Kke623xSQXgF7T2zp6L-Rezhy85yqwZOOu1oPkCiYJ-tQqTCDf_8ZKgQjX7aXrr-rjlKi8MlQR-Tk89_zDL7s2vEMrL_14pXTCnHiOY_LIVQyYXCc_t0HbEWu0GHR5M42l4I6vTRsz9ps-xC1Y1yy01fgzmeqvhgOLLoLqfNd9M1Q-dAiJvwTzx9B6xZJh1j8LS-pf4_Pa4H5X_Ni500SFfxc1Bwiw3WF1jN4iHOlBsXtULjTIMuN1GO2BM61G-8BeWL5GvLAQweky_h5GAPwimI-TWvlqL_iU3zyLPAyWF6YQqENb5KKQH5CcrZ89rX9TlN-iMHb9AwGbjXKixonV493uiCG6m0qNNHXYkfXL4a0n5HMRPtq80MWqx23lvq6bfq9tF0i-lfiIPZYF6mcD3nhMO42wCD3SlLZv5OdmGwJHmcHVZG91xs0TolCDktWkWn-IBmKks7eigdNpBAma19POdoyMxSibX7gMt3sQj0RWwqalSgrYFd3jrVp73G9iFEWozmnSnf1UAM_TyRmYhS5-fg6jVRc-PF7MuG9y8-lIdFGJS0V0sZqQy4TcynzZpETdBmKdfRBZVF9hj31K0xRgKVzULL-m-9_pLnDJap-1W1R_epWydFmu9w03sd1jrfV7nxg3XOwbUKtkr94SLq18GT1cFCovQB-NN7t0Y-2KB2XTTVQJcx6esLQP6Mni1l9hMo66xaoWirwthEXNJzluctAMw_gACztIUdQHgspR3wkUjQuJO70-dvhIyme6lGdJtsetMXQIvr0_9RiWD0ItJPoiqkrP-8010IzGqQXLpk2tPa2Jyw0PP3SkP0sytvVyFMe4mCCZGeTYO0HYEksEXdEsZCmgpe9VEtqxy_KrhDNdf_SVrMSedkJn_mC0YLsCE9uDBbW6AR5Lw0Qp23QGrzCTgkEl0w6NWpHy5xerD8JD2hNL-suMUcklSgnuZmiZqgrIj91xJrIBy8xj2tTJ_8VLhzAfQ_goAqQltsd0JW9stieJ3SPHvCjQh_iJDmV7o59Zof66hze3qFa5C4XqD4EwuQG10KAnKtsaqznwoFlKeebLyZKhxSkYl8micSg3pL4ELH9R6SfQAzam3UWOSA_XgTOpYo1ryUPvB0YqOElGwEScXAFOMTQRqaZYnD4HEgd904EYsV3gNQKHx48R5SckwAPx7klLm0TAOj9MKtfkMnx7Z7rtkw4vZ-6GwWMRUn7SIF_9PZMbT3i6zTAvPsFVcKXr2FqWtMnNJBUTlZTHnvgAHlQwXVGpUR--6GNGLNuXI_uS8eSyxw5swEL5SqA9cyTp2IqZiQk6QwJq3PKe2JV5tibX3fzhYRNuNYgA2hN3Vdcn6iMSmA2Ozs1jDYytkZAyNMFVYVTggTtipMJyBSjnyoNkYEuvbteIGKPCBxfcEKnedHzj_Dog5O2QGgVCNgnYq96-iM9r5kbvbipsDBqRHRwnI90BOkI4IFpu7Y-6n9EFXZr4m33A7Q8Y_F9CIpMaNbOlWAOeFl0ZHSAY3NpwLBv_AoXFQybaZKEP8_oYuMgtj8z3tfahCVOKdEaEDmy8l6Frfo_YJdgm59TPQ-wwsu7B-UsZtU2LT9wE5T3CdawsWAl8UHE2f74xbXYTlSAcnuOVoumvGxsp2Au3EbLO08ohkGAYvIHhIR-BpHgi7yXqS72eqVHKU96t_p5m5gw2OsraI1gQf8vcRGAQiyyMq2kw03Y3X791uPvO9ed-kX5amyKJIdWAHmvyztxKwKdX3BYgsUOrAPzFyit5pUbd9DryCx7GVMZZ2xqodu6GhQizcj8Ik8HBd93rFPa_p6Vhw_rpoyC_-JY8ijfsCn_ZLHcSXwY98e1au_hPeiUTUTDTd5gpjihuKS11bjaTiqgHJJdudhNXPvtdMYhkwk9rFxsYzlFbJSjt7yPU4kvdT3p8iFL13apVHqrlATzey5fCh2vIW-CydnTXGPp2_XZ2UtTwYn4I5RUGLXuZIqTFcIDmttex1xQ7dI4_TWx3AlZvEA4770PbzDjpcV1IosR48bohLeMvRPZuZ4FT3qJP7g4DctEFKtH7PY9NIma-KH-UGWXpib-mgf3pCR-gtmxYqOSYQrERP4XVsrL1G04Vk2fxcPSFIrL5ywtPrTwgj6JURAm175di9clhLdd9rHz0lbqY3aGb1TSuDeNnoYROgAYzTfhVNSIywYSvAdBZiF2Rj-5CjtkGMSBRSam91BYO66yLhmoLZwqwZZqHpok81ad3kc=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00790c8dbf7e98a8016abfcf47195087d1a10ee31f42092f87",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 501,
+   "completion_tokens": 221,
+   "total_tokens": 722,
+   "cost": 0.01606,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01606,
+    "upstream_inference_prompt_cost": 0.00501,
+    "upstream_inference_completions_cost": 0.01105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 212,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

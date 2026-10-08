@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907296-ZsIdj0PhHqYBdWHAJ679",
+  "object": "chat.completion",
+  "created": 1790907296,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess with low confidence. Existenz and Automata are colour films, so the grey barcode rules them out. Among the black-and-white options, the mostly dark, fairly uniform medium-grey bands fit a film set largely at night. Night of the Living Dead matches that: a daylight cemetery opening, then a long nighttime siege in the farmhouse. I can't firmly exclude other dark films like House on Haunted Hill or Carnival of Souls.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm considering black-and-white film candidates for the barcode\u2014Night of the Living Dead, Metropolis, His Girl Friday, and similar titles\u2014noting the overall image would read as medium gray, with silent films like Metropolis showing distinct stripes from their black-background intertitles.\n\nComparing brightness patterns, Night of the Living Dead fits well: its daylight cemetery opening and morning ending would be lighter grays, while the dark house interiors dominate the middle, matching the fairly dark overall tone. I'll settle on Night of the Living Dead as my guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering black-and-white film candidates for the barcode\u2014Night of the Living Dead, Metropolis, His Girl Friday, and similar titles\u2014noting the overall image would read as medium gray, with silent films like Metropolis showing distinct stripes from their black-background intertitles.\n\nComparing brightness patterns, Night of the Living Dead fits well: its daylight cemetery opening and morning ending would be lighter grays, while the dark house interiors dominate the middle, matching the fairly dark overall tone. I'll settle on Night of the Living Dead as my guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSiAwKEAgSGAI4AUIIdGhpbmtpbmcSDJq0MYJECV9X+0D1RBoMdiMxeRqY9j36Jf/EIjB9vK6eNlDmqxbUrFSXjKak+Qd4CyEQFVVsN96IhksT0NHNbcFJ9VCU6FPBGz5DtIMqpQur/NEg0rkJHZeDDfQxCzSsrBWfOeKL8w+PfoaU9M25oF4km5hEpajRYTL9CKZxDjdL6GfhDbPq41bmXELGmBI0oBNnuP8+04oTuknI6a3qU0Xau/EXyOhS2qQiyTAEbRG7gPgpx9LeGfxyzHBaZMKFNjJ9kZqQ8fOaq/eug2CbrC4yHzawUF5D6BfQqxf2sb2wF5HkcLyalONqEt5ocMeI2nH9Cle7h1aW2hNyFxBEWaHTaxCuxwyi+bu01/Vu8xadq+2T3kw9JTeN5mPKbwqpCQOwFeeIBDP7DMgDu2dSVdyMSrsh8Jo+U2AhA/xKige4ik84faTteftUrAHsJpvlh/KEjNNSordCOt6X05XWuqMJt4m8YX7/YQoZ7PxU7ffrThPltc1GEeRbG46YVVwpYXTDnO2A/HMSPqgTohnhF67t+K9lk8ir1sZuoR6TedFpiC6tzicUL/D1FvKNwW/QDQ280t+qBtPwO3Ia/FtYUE0Q5pV+Pye6LKC2zXgNhMvG7+d3tVjFQVeUEYWF499kyvjJ+P7BpkU5nZQzQ1d51COuqbH0buInOSY2RUIhGe+ZrgSIg22vpXXiFeZc9BnYQ1vmm5S3XJ6/pXHFS+C/8oSSCmBUduE6HP5ka5uHN09Z1X+r/g0UqY/uA4dTzHDhu1+IOU4LhuVEyiZq5iD6pDWRprgYyybCdCRQ1xmaRjlFRAe0jBNDEqWzCSOWKzlzg9iiKHHHnC9PO0c33EwjzhMVhh8/vWmxmlcVrE1UjDn/PSkVnfyVt0UDjXochdvzhZRwRvXH+irYrmybd2dIa1LD9FVhw3qkW068HJBetwvjQW18LJybVuMblJ2k20smypXz8tQYbzx/goU180VoRGrM0HbMhDuffkvE7OnIvurc+REzV3ElznYkhzCpEH5yWVLkjRJLzB/1Z1RpS1TU5MirxMOGeQaOzl8031DMpLNtrRaaFZ2s99AJwX1z/2KYT2s0W3PmifwSoFig3cDXLvKNxWBYMIvlr79ntcSoXXD2Av+IdWGs98bDhXFWM3TM+G5vta1beSE5dAfIQBMF5baFz0KTiH8YlbZOmrad4h4+4YefWshINri1XtTiuCVc6Yt+MuswAxC4aVjMdM7ZcBpClsjvOAd4vCALGVgx4u11EJFroEpZF7FlaFEL1ho1C5rEPYr0k75lU+kWOvrpfYzUcD3wpayoudwHFeXc/QFAQCqpUSvGUjgJJZr7YBWOercno7OxHkmtIJq49eya3GsiiyiM9FD1JhD12RGwLxHVzt1H810RnOnDBpF2EIEcsHjC2iqmT0l2Ixm8UbOzL6H45Dow6FsbrQq1SH64Zdi8ulxOXmPB/1kq3V86JFC/IcYFyWouGA/BQ3EC/6PyZYi5O0OZ8qqMwMXFOn63V69fxiayVTAuvnYnk8kTPExZ68l4YyDYE9k9LVGLK1BSo1RXtOfiT0KAMpJHGx0RTbDcBD46mIR9Ee4gm46aTZ7wL6hw+lA10GBBKyGcUETgFW158awqzDTNntVQL7wdzKKc4RLonH5FkmSi+ypXGVZUfk6gPuWoTpFXLz/f/P0L7mBMaor1ujp0IjcH+bzFot5l93pcovbBElKI8ZBbVt6Ku644uif00Oya1ijA4hq3okHK7npWfQx8S1ndReqKMPUI47/hbWrRe5U47GI7/Cq8QjyxIsKbQoZC91kZxsAaf8upM0umkravlWfQ+SnMFs8GahI5miDk5VOtJtsE5OBrl+S+z5bnq74Yn5yRMlj8yiF1xZO52UhrpDQh2ihBMczJvx5MWiJo31Z2af1/NFXuchQRMWmZBfFE+d/V/olZ4FObCX/J/6vkrRgzuFWnEzR+P0b0GrLAjb+p6Qz3VBDDD0vAaZHBh2cv3mU+HZQTuphGj5LWm/QC2HyjtTpIi92y0DfbUxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 533,
+   "completion_tokens": 516,
+   "total_tokens": 1049,
+   "cost": 0.012452,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012452,
+    "upstream_inference_prompt_cost": 0.002132,
+    "upstream_inference_completions_cost": 0.01032
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 358,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "swalla-2017",
+  "title": "Swalla",
+  "artist": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign",
+  "year": 2017,
+  "label": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+  "hex": "#544E5B",
+  "rgb": [
+    84,
+    78,
+    91
+  ],
+  "frames_sampled": 235,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "NGLxoKOvzu4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

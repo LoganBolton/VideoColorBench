@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894462-spWzR1PMeRxYoIWftTX8",
+  "object": "chat.completion",
+  "created": 1790894462,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost entirely dark, desaturated teal and gray, with no bright or saturated stretches, and the video ends on black. That muted, foggy, abandoned-city look fits Alan Walker's \"Faded\" best. Eminem's \"Not Afraid\" is the closest alternative, since it is also dark and gray, but I'd expect it to show more varied brownish tones.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of both music videos \u2014 Faded leans desaturated bluish-gray with foggy, abandoned-city visuals ending in black, while Not Afraid has darker, grayer rain-and-rooftop tones with more variation overall.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of both music videos \u2014 Faded leans desaturated bluish-gray with foggy, abandoned-city visuals ending in black, while Not Afraid has darker, grayer rain-and-rooftop tones with more variation overall.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4ggKEAgSGAI4AUIIdGhpbmtpbmcSDNwz7m1MWts9ZUgyYRoMZvDhCnLA49GWrjnCIjApBSFYQS61/d0yGf8fU8kP5qXr7ioKdh0562QeuOXxiPYnbS0hSs3jsQ5OafGaE+Yq/wcvD8gKY52ztqduOAsr0nG+3aEg3eyUSaIgppgnXqNTjESjWaqRKsuQm4+fXGrZdik8O+I9McKKMeDyyxxEvpugFPk5DKNjcd9DwvaXfouecqZ4eeSsUDKumwlhzGOA5rgDDL+3pxClWfOzpUcHkRyGV41JirMjwRtyQNSSno6qAw9NqaXnB6fCBEqPF7xeDLVivBn0a625Rc63i64FcjPp75obPYba8uBuXoRNSxA3awy8PxEIG00zRg7UDOdwolRQQj1kBGcIGGRrvlUDPSzrgWnPON5w8vdXxUh+tRyYM50hqehG6e1A0V9kk8BXLQkXr9VQzt1zlWaujLzvW79OFL/TpE8matik8FWtYYpRXxzbOWzle4jP3kbLIjUt5ROdkYykvYKEtQCpiX/NDLXK/o93XsUrZWmOWY/DsgLK18Pt59UWGACxfyNh3jsZMfzHRXWAwdDIc+VSPhyoktRw83555yU9v+xm6NSgoMbRr/M/b72ljPkWSJj/COHOQJW0C/dW9UAAMpyItLRxZWpVs9JrHo+3yepCNoxPwkTC76awdGtaVal8TQHOLDOKsB2b5J6eXjLj/SdOfmbt8UvGZKe8KzU44ttICezJW9kvbiBWXLoAWkGRvMQB6JHGozSk5wrXMvydyGNSaubElN7FN0jiuxpMMY9836OO535UdqEBSaVYT0iOGDCDrPaoMTsh1xWCWxYj26o6KIuyfbxyxZ/7jCyqDiZNDlUfPiEaz55R+eav+8Ov/3H07R67tKygLp96YI8AZiBYJ48StD0pDStAjoPtzvfhDUCSW28MQkx0NCm+5KwY1rJDO+DX4rzN+OEwTsEKJ0w8L9Xo9CMO+ZXzg107QA5zFsReVgjpn7pwFvMsWs3WCCWJYcc8g3SOrL97iYyBXVUWbb/g3P42MCM1mn/22cW/r4SO9G+KQuvYx6nYs/+4w01scyeEkLkkEi3+1h2mW3beIR7UA89V307ikEtu3kCEHvMAQEGqWNk0heBtOdXlpAuesaXSwwU/CY/j3ISJIvN/5m9LhoUwCVYuLglZ9rjaPRQEwZdd92wzFBRB3iqC25nPY1weQqdxxLXbeOXWV6JOiXWdGTke81Ba27IKP8hQlMNHzda/mkUaIaochbC+yB6cdeLf9OQH6FUb/l1hyyA1OmE8dgURBLrYQAqktjv3OotyKUtRfPIrfV8EHk/3ctVJFAlT1gsuKyybq/9Vnt9h1773UMzFHtAZ9okvTVWaCotisGHxPhUahT3IgOKxhNbgD8kEKhomrTtL1ued+sUwnTT7p8LOZSgpeVaD/ceEbJ68qKSapp8YvEBKfavGm903BsgpagAf0lISkiqy2FQnNkIBqOAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 635,
+   "completion_tokens": 336,
+   "total_tokens": 971,
+   "cost": 0.00926,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00926,
+    "upstream_inference_prompt_cost": 0.00254,
+    "upstream_inference_completions_cost": 0.00672
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 205,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

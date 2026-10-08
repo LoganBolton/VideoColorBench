@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907341-dUrr0BW32lZFDjiqbPAz",
+  "object": "chat.completion",
+  "created": 1790907341,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess based on the overall look of the barcode, not a definite match. The palette is muted grey, teal and olive throughout, which fits Apollo 18's lunar found-footage look. The last stretch before the end is very dark, consistent with its ending. The long black section at the end is a large share of the image, which suits a short film like Apollo 18 (about 86 minutes), where the credits take up more of the runtime. Some alternatives seem less likely: Automata leans more orange and teal, and Stonehearst Asylum is colder blue-grey.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm noting the barcode's grey and teal tones with a long dark credits section near the end, which points to Apollo 18 given its found-footage moon visuals and short runtime inflating the credits proportion. I'm also comparing other candidates: Automata's dusty orange-teal palette, Stonehearst Asylum's cold blue-grey, and Day of the Dead's green cast.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noting the barcode's grey and teal tones with a long dark credits section near the end, which points to Apollo 18 given its found-footage moon visuals and short runtime inflating the credits proportion. I'm also comparing other candidates: Automata's dusty orange-teal palette, Stonehearst Asylum's cold blue-grey, and Day of the Dead's green cast.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6ggKEAgSGAI4AUIIdGhpbmtpbmcSDD18tkMVRGGFznsppxoMspjoxt1uquMxu534IjBZBtsz31dGTaMfmRgzpqttXNwzGm5fjV2QVuYaVSC0pYUBPznDhwLNwp8PAVWi0EoqhwhjeJ8JWQC3PZ/Rs8lkinaa7zSWbBtRpSVs2I9RSUE5/q+KXfnvAETtOx0vP5wKYMIAvkGTFhwqZEW4aD9ONdC5Hf8mq/VRPzZtQ/esjBOrxpwTN5HSA+LesxaLetldM+jRH/68+D6lwoM7IjntKqU0XwQzmU0z1mcfPADNLQ1xBjF0gj8jnR+1+dFCyg/OuUCuvCnEN+Yy206cBFSCUTVbIa3Lbaw4uyCgS8KaQG5Ly3LsmXZ/VCm+yB4PSWFyQWkKDEXK24SVgB8rXq/SpiX1ikpBWpmvB+m0c5AxwSaDWhzF4VzX2/Krxxo2N4cuEuKPHqUaliUZbknuIlm+b+P24DAVWr0MvFyscyVHIKam1VS+ivuyejxlKEjxyRCrNyBW+xkF72NE7TaDXlwKH9x5E2BTxbMsB6b2/f4m/iKeh12mZpMrncbzQI7mBG59n64QwC9TjlxPVsosyb0oGOr8ku1Z48sHPv7vK4uUvMB2tUJw31m+aRgEhBnhIN2bJoFQFRTx0Ekp22LcCxTLZJYrp1HwXir4qUfC7lh8WBLqzW/yJ4kywaJlVvhpNvWT9h0iDMNY11uWZmdr4CxPGs1XU+7rua9retn2CIMoZPmsrJhD6G2Q947wkSER/h82OjD9bbt5VjRPFeZvl4Tsdqv16Lm37+WL9Esvb7BJt07KGcEN4c3HMSOTb/KLxaDtMkl2KcvxJTOidZJyp7zgfrrPo2aNoDxQxDHMi4OpJDmW3w/qcQOnNssPBka9CH5eeDg7k4DG6UT5coceWsSiRYcM5a2C4ONxLNtcAEZ15GaDEg/HzPNe7GTZiWn22TTbA/fRTicycSStsn2dVSlj9MRhZdG5mBcXXZmtXhCv2XJ/d9OuCnc8pHMgNw2rIG3jqhSf1zAGlmq7gcLS2T63FzHK4RkDLfhcGIR+/TISFGTCR8qs/4VxkMUj4lQcfWCHJDFhkXYNtJP5TGqrdbfOQSJ9FpFGN/It9XDOqELeItDr/2RIJBdaDgJ233F4MTTiDD+W8E9ZTqelnb00ZuIpOzqZCG156uWyO9YWyydWmUT9yBgtRird4IQn7e4LeSHQZXzPlYT7v2AReqkME87HstVHN5QxqqMF4QSiDMkUzuratmX4RzNWDsnymOuqYiv+fVe6jTy28sCslIoNruMlcMrJIbfWwjIm7lTE5rQNh9mHQd9R/V3cM4R2gD79ywFFuBQY2AjfWys+x4ba7FCagALOOvQbA1L4sQvGMazuAgILdPMJDvdgmAVDm0JgCa2MiFwwj+e7EJqdIUYGUFajM0xj/NY8+r5UTgxfphxMq9nbWqAjXtNs81EW7YrqkJJJeGSzJxLzGlVg0AjL3tVZLP8JBSZHQ59bjhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 524,
+   "completion_tokens": 408,
+   "total_tokens": 932,
+   "cost": 0.010256,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010256,
+    "upstream_inference_prompt_cost": 0.002096,
+    "upstream_inference_completions_cost": 0.00816
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 223,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

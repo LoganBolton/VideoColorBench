@@ -1,0 +1,190 @@
+2026-10-02T15:21:02Z  gpt-6-astra-youtube-raw: raw mode, openai/gpt-6-astra, 100 questions to run, 0 already done
+2026-10-02T15:21:02Z  git a514566a7b, questions e55dbb791e1b
+2026-10-02T15:21:02Z    error       0s  Guns N' Roses - Sweet Child O' Mine (1987)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:03Z    error       0s  Justin Bieber ft. Ludacris - Baby (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:03Z    error       0s  Bruno Mars - Just the Way You Are (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:03Z    error       1s  Linkin Park - Numb (2003)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:03Z    error       0s  Eminem ft. Rihanna - Love the Way You Lie (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:03Z    error       0s  Eminem - Not Afraid (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       1s  Adele - Rolling in the Deep (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  Shakira - Waka Waka (This Time for Africa) (2010)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  Jennifer Lopez ft. Pitbull - On the Floor (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  LMFAO - Party Rock Anthem (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  T-Series - Shree Hanuman Chalisa (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  Adele - Someone Like You (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:04Z    error       0s  Bruno Mars - The Lazy Song (2011)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:05Z    error       0s  PSY - Gangnam Style (2012)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:05Z    error       0s  Rihanna - Diamonds (2012)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:05Z    error       0s  Masha and the Bear - Recipe for Disaster (2012)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:05Z    error       0s  Passenger - Let Her Go (2012)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:05Z    error       0s  John Legend - All of Me (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:06Z    error       0s  OneRepublic - Counting Stars (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:06Z    error       0s  Katy Perry - Roar (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:06Z    error       1s  Romeo Santos - Propuesta Indecente (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:06Z    error       0s  MAGIC! - Rude (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:07Z    error       0s  Avicii - Wake Me Up (2013)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:07Z    error       0s  Meghan Trainor - All About That Bass (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:07Z    error       0s  Enrique Iglesias - Bailando (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:07Z    right       6s  Queen - Bohemian Rhapsody (1975)
+2026-10-02T15:21:07Z    error       1s  J Balvin - Ay Vamos (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:08Z    right       6s  Nirvana - Smells Like Teen Spirit (1991)
+2026-10-02T15:21:08Z    error       0s  ChuChu TV - Phonics Song with Two Words (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:08Z    error       1s  Taylor Swift - Blank Space (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:08Z    error       0s  Taylor Swift - Shake It Off (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:09Z    error       1s  Ed Sheeran - Thinking Out Loud (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:09Z    error       0s  Mark Ronson ft. Bruno Mars - Uptown Funk (2014)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:09Z    error       0s  Adele - Hello (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:09Z    error       1s  Alan Walker - Faded (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:09Z    right       8s  Linkin Park - In the End (2001)
+2026-10-02T15:21:09Z    error       0s  Major Lazer & DJ Snake ft. MØ - Lean On (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:10Z    error       0s  Ellie Goulding - Love Me Like You Do (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:10Z    error       0s  Justin Bieber - Sorry (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:10Z    wrong       8s  Michael Jackson - Billie Jean (1983)  guessed The Weeknd ft. Daft Punk - Starboy (2016)
+2026-10-02T15:21:10Z    error       1s  Maroon 5 - Sugar (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       0s  BLACKPINK - BOOMBAYAH (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       0s  Pinkfong - Baby Shark Dance (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       1s  Justin Bieber - What Do You Mean? (2015)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       0s  Shakira ft. Maluma - Chantaje (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       0s  Sia ft. Sean Paul - Cheap Thrills (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:11Z    error       0s  The Chainsmokers ft. Halsey - Closer (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:12Z    error       0s  Coldplay - Hymn for the Weekend (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:12Z    error       1s  twenty one pilots - Heathens (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:12Z    right      10s  Guns N' Roses - November Rain (1992)
+2026-10-02T15:21:12Z    error       0s  Carlos Vives & Shakira - La Bicicleta (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:12Z    error       0s  LooLoo Kids - Johny Johny Yes Papa (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:12Z    error       0s  The Weeknd ft. Daft Punk - Starboy (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:13Z    error       0s  Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:13Z    error       0s  Calvin Harris ft. Rihanna - This Is What You Came For (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:13Z    error       0s  Shawn Mendes - Treat You Better (2016)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:13Z    error       0s  Charlie Puth - Attention (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:13Z    error       0s  Imagine Dragons - Believer (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:14Z    error       0s  Natti Natasha x Ozuna - Criminal (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:14Z    error       0s  MC Fioti - Bum Bum Tam Tam (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:14Z    error       0s  Maluma - Felices los 4 (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:14Z    error       0s  Becky G ft. Bad Bunny - Mayores (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:14Z    error       1s  Luis Fonsi ft. Daddy Yankee - Despacito (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:15Z    wrong       5s  Wiz Khalifa ft. Charlie Puth - See You Again (2015)  guessed Adele - Hello (2015)
+2026-10-02T15:21:15Z    error       0s  Ed Sheeran - Perfect (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:15Z    error       1s  J Balvin & Willy William - Mi Gente (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:16Z    error       0s  The Chainsmokers & Coldplay - Something Just Like This (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:16Z    error       0s  Ed Sheeran - Shape of You (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:16Z    error       0s  Bruno Mars - That's What I Like (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:16Z    error       0s  Imagine Dragons - Thunder (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:17Z    error       0s  Luis Fonsi & Demi Lovato - Échame la Culpa (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:17Z    error       0s  CoComelon - Baa Baa Black Sheep (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:17Z    error       1s  Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:17Z    wrong       5s  Ariana Grande ft. Nicki Minaj - Side to Side (2016)  guessed The Weeknd ft. Daft Punk - Starboy (2016)
+2026-10-02T15:21:17Z    error       0s  Pedro Capó & Farruko - Calma (Remix) (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:17Z    error       0s  BLACKPINK - DDU-DU DDU-DU (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:18Z    error       0s  Daddy Yankee - Dura (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:18Z    error       0s  El Chombo - Dame Tu Cosita (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:18Z    wrong      16s  Crazy Frog - Axel F (2009)  guessed Alan Walker - Faded (2015)
+2026-10-02T15:21:18Z    error       0s  Becky G & Natti Natasha - Sin Pijama (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:18Z    error       0s  Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:18Z    error       0s  CoComelon - Wheels on the Bus (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:19Z    error       0s  Nicky Jam x J Balvin - X (Equis) (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:19Z    error       0s  CoComelon - Yes Yes Vegetables Song (2018)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:19Z    error       0s  BTS ft. Halsey - Boy With Luv (2019)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:20Z    error       0s  Daddy Yankee & Snow - Con Calma (2019)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:20Z    error       0s  BLACKPINK - Kill This Love (2019)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:20Z    wrong      11s  twenty one pilots - Stressed Out (2015)  guessed Alan Walker - Faded (2015)
+2026-10-02T15:21:21Z    error       1s  BTS - Dynamite (2020)  HTTP 402: {"error":{"message":"This request would exceed your available credits given your current in-flight requests. R
+2026-10-02T15:21:21Z    wrong      19s  a-ha - Take On Me (1985)  guessed Guns N' Roses - November Rain (1992)
+2026-10-02T15:21:21Z    wrong      20s  Eminem - Without Me (2002)  guessed The Cranberries - Zombie (1994)
+2026-10-02T15:21:23Z    wrong      21s  The Cranberries - Zombie (1994)  guessed Guns N' Roses - November Rain (1992)
+2026-10-02T15:21:23Z    wrong       6s  CoComelon - Bath Song (2018)  guessed Justin Bieber - Sorry (2015)
+2026-10-02T15:21:24Z    right      16s  Sia - Chandelier (2014)
+2026-10-02T15:21:25Z    wrong       7s  Maroon 5 ft. Cardi B - Girls Like You (2018)  guessed Passenger - Let Her Go (2012)
+2026-10-02T15:21:26Z    wrong      24s  Lady Gaga - Bad Romance (2009)  guessed Adele - Rolling in the Deep (2010)
+2026-10-02T15:21:27Z    wrong      13s  Dua Lipa - New Rules (2017)  guessed Charlie Puth - Attention (2017)
+2026-10-02T15:21:27Z    wrong       8s  Shawn Mendes & Camila Cabello - Señorita (2019)  guessed The Weeknd ft. Daft Punk - Starboy (2016)
+2026-10-02T15:21:28Z    right      10s  DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)
+2026-10-02T15:21:30Z    wrong      22s  Katy Perry ft. Juicy J - Dark Horse (2014)  guessed Bruno Mars - Just the Way You Are (2010)
+2026-10-02T15:21:30Z  
+openai/gpt-6-astra: 6/100 = 6.0%, 80 errors, 0 unparsed, 0 leaks, 0 tried to download a video, cost $0.37
+2026-10-02T15:21:30Z  chance is 10%. results in results/youtube/20261002-152102-gpt-6-astra-youtube-raw
+2026-10-02T15:28:44Z  gpt-6-astra-youtube-raw: raw mode, openai/gpt-6-astra, 80 questions to run, 20 already done
+2026-10-02T15:28:44Z  git 3bf3cade2e (uncommitted changes), questions e55dbb791e1b
+2026-10-02T15:28:57Z    wrong      12s  Guns N' Roses - Sweet Child O' Mine (1987)  guessed John Legend - All of Me (2013)
+2026-10-02T15:29:05Z    wrong      21s  Linkin Park - Numb (2003)  guessed Adele - Rolling in the Deep (2010)
+2026-10-02T15:29:06Z    wrong       9s  Justin Bieber ft. Ludacris - Baby (2010)  guessed OneRepublic - Counting Stars (2013)
+2026-10-02T15:29:16Z    right      11s  Bruno Mars - Just the Way You Are (2010)
+2026-10-02T15:29:18Z    wrong      12s  Eminem ft. Rihanna - Love the Way You Lie (2010)  guessed Shawn Mendes & Camila Cabello - Señorita (2019)
+2026-10-02T15:29:26Z    wrong      10s  Eminem - Not Afraid (2010)  guessed Rihanna - Diamonds (2012)
+2026-10-02T15:29:33Z    right      15s  Adele - Rolling in the Deep (2010)
+2026-10-02T15:29:39Z    wrong      13s  Shakira - Waka Waka (This Time for Africa) (2010)  guessed Luis Fonsi ft. Daddy Yankee - Despacito (2017)
+2026-10-02T15:29:42Z    right       9s  Jennifer Lopez ft. Pitbull - On the Floor (2011)
+2026-10-02T15:29:46Z    wrong       7s  LMFAO - Party Rock Anthem (2011)  guessed Alan Walker - Faded (2015)
+2026-10-02T15:29:46Z    right       4s  T-Series - Shree Hanuman Chalisa (2011)
+2026-10-02T15:29:52Z    right       6s  Bruno Mars - The Lazy Song (2011)
+2026-10-02T15:30:06Z    wrong      13s  Rihanna - Diamonds (2012)  guessed Passenger - Let Her Go (2012)
+2026-10-02T15:30:09Z    wrong      24s  Adele - Someone Like You (2011)  guessed Imagine Dragons - Thunder (2017)
+2026-10-02T15:30:16Z    wrong      11s  PSY - Gangnam Style (2012)  guessed Major Lazer & DJ Snake ft. MØ - Lean On (2015)
+2026-10-02T15:30:22Z    right       6s  Masha and the Bear - Recipe for Disaster (2012)
+2026-10-02T15:30:27Z    wrong      18s  Passenger - Let Her Go (2012)  guessed Ed Sheeran - Thinking Out Loud (2014)
+2026-10-02T15:30:28Z    right       6s  John Legend - All of Me (2013)
+2026-10-02T15:30:35Z    right       8s  OneRepublic - Counting Stars (2013)
+2026-10-02T15:30:37Z    wrong       8s  Romeo Santos - Propuesta Indecente (2013)  guessed Rihanna - Diamonds (2012)
+2026-10-02T15:30:42Z    wrong       8s  Katy Perry - Roar (2013)  guessed OneRepublic - Counting Stars (2013)
+2026-10-02T15:30:43Z    wrong       6s  MAGIC! - Rude (2013)  guessed Adele - Hello (2015)
+2026-10-02T15:30:48Z    right       5s  Meghan Trainor - All About That Bass (2014)
+2026-10-02T15:31:00Z    right      18s  Avicii - Wake Me Up (2013)
+2026-10-02T15:31:02Z    wrong      14s  J Balvin - Ay Vamos (2014)  guessed Natti Natasha x Ozuna - Criminal (2017)
+2026-10-02T15:31:08Z    wrong       8s  Enrique Iglesias - Bailando (2014)  guessed Passenger - Let Her Go (2012)
+2026-10-02T15:31:23Z    wrong      15s  ChuChu TV - Phonics Song with Two Words (2014)  guessed Pinkfong - Baby Shark Dance (2016)
+2026-10-02T15:31:28Z    wrong      27s  Taylor Swift - Blank Space (2014)  guessed Sia - Chandelier (2014)
+2026-10-02T15:31:35Z    wrong      11s  Taylor Swift - Shake It Off (2014)  guessed Ellie Goulding - Love Me Like You Do (2015)
+2026-10-02T15:31:45Z    wrong      10s  Mark Ronson ft. Bruno Mars - Uptown Funk (2014)  guessed Justin Bieber - What Do You Mean? (2015)
+2026-10-02T15:31:52Z    wrong      24s  Ed Sheeran - Thinking Out Loud (2014)  guessed Passenger - Let Her Go (2012)
+2026-10-02T15:31:57Z    right       5s  Adele - Hello (2015)
+2026-10-02T15:31:58Z    right      13s  Alan Walker - Faded (2015)
+2026-10-02T15:32:05Z    wrong       7s  Ellie Goulding - Love Me Like You Do (2015)  guessed OneRepublic - Counting Stars (2013)
+2026-10-02T15:32:12Z    right       6s  Justin Bieber - Sorry (2015)
+2026-10-02T15:32:18Z    wrong      21s  Major Lazer & DJ Snake ft. MØ - Lean On (2015)  guessed Bruno Mars - The Lazy Song (2011)
+2026-10-02T15:32:24Z    wrong      12s  Maroon 5 - Sugar (2015)  guessed Charlie Puth - Attention (2017)
+2026-10-02T15:32:34Z    wrong      15s  Justin Bieber - What Do You Mean? (2015)  guessed Ed Sheeran - Thinking Out Loud (2014)
+2026-10-02T15:32:35Z    wrong      11s  BLACKPINK - BOOMBAYAH (2016)  guessed Ariana Grande ft. Nicki Minaj - Side to Side (2016)
+2026-10-02T15:32:42Z    wrong       9s  Pinkfong - Baby Shark Dance (2016)  guessed Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)
+2026-10-02T15:32:52Z    wrong       9s  Sia ft. Sean Paul - Cheap Thrills (2016)  guessed Adele - Someone Like You (2011)
+2026-10-02T15:32:52Z    wrong      17s  Shakira ft. Maluma - Chantaje (2016)  guessed Becky G ft. Bad Bunny - Mayores (2017)
+2026-10-02T15:32:58Z    right       6s  twenty one pilots - Heathens (2016)
+2026-10-02T15:33:14Z    wrong      22s  The Chainsmokers ft. Halsey - Closer (2016)  guessed Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)
+2026-10-02T15:33:18Z    wrong      20s  Coldplay - Hymn for the Weekend (2016)  guessed Ed Sheeran - Thinking Out Loud (2014)
+2026-10-02T15:33:26Z    wrong       8s  Carlos Vives & Shakira - La Bicicleta (2016)  guessed Romeo Santos - Propuesta Indecente (2013)
+2026-10-02T15:33:32Z    wrong      19s  LooLoo Kids - Johny Johny Yes Papa (2016)  guessed Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)
+2026-10-02T15:33:34Z    wrong       8s  Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)  guessed Alan Walker - Faded (2015)
+2026-10-02T15:33:38Z    right       5s  The Weeknd ft. Daft Punk - Starboy (2016)
+2026-10-02T15:33:45Z    wrong       7s  Shawn Mendes - Treat You Better (2016)  guessed Passenger - Let Her Go (2012)
+2026-10-02T15:33:57Z    right      22s  Calvin Harris ft. Rihanna - This Is What You Came For (2016)
+2026-10-02T15:34:05Z    wrong      20s  Charlie Puth - Attention (2017)  guessed Justin Bieber - What Do You Mean? (2015)
+2026-10-02T15:34:06Z    wrong       9s  Imagine Dragons - Believer (2017)  guessed Calvin Harris ft. Rihanna - This Is What You Came For (2016)
+2026-10-02T15:34:13Z    right       7s  Natti Natasha x Ozuna - Criminal (2017)
+2026-10-02T15:34:20Z    wrong      15s  MC Fioti - Bum Bum Tam Tam (2017)  guessed Becky G ft. Bad Bunny - Mayores (2017)
+2026-10-02T15:34:25Z    right      12s  Luis Fonsi ft. Daddy Yankee - Despacito (2017)
+2026-10-02T15:34:35Z    wrong      14s  Maluma - Felices los 4 (2017)  guessed Charlie Puth - Attention (2017)
+2026-10-02T15:34:37Z    right      12s  Becky G ft. Bad Bunny - Mayores (2017)
+2026-10-02T15:34:51Z    wrong      16s  J Balvin & Willy William - Mi Gente (2017)  guessed Shakira ft. Maluma - Chantaje (2016)
+2026-10-02T15:34:52Z    wrong      16s  Ed Sheeran - Perfect (2017)  guessed Charlie Puth - Attention (2017)
+2026-10-02T15:35:05Z    wrong      14s  Ed Sheeran - Shape of You (2017)  guessed Shawn Mendes - Treat You Better (2016)
+2026-10-02T15:35:05Z    right      13s  The Chainsmokers & Coldplay - Something Just Like This (2017)
+2026-10-02T15:35:15Z    right      10s  Bruno Mars - That's What I Like (2017)
+2026-10-02T15:35:27Z    wrong      22s  Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)  guessed Katy Perry ft. Juicy J - Dark Horse (2014)
+2026-10-02T15:35:33Z    wrong      18s  Imagine Dragons - Thunder (2017)  guessed Adele - Someone Like You (2011)
+2026-10-02T15:35:45Z    wrong      18s  Luis Fonsi & Demi Lovato - Échame la Culpa (2017)  guessed Becky G & Natti Natasha - Sin Pijama (2018)
+2026-10-02T15:35:45Z    wrong      12s  CoComelon - Baa Baa Black Sheep (2018)  guessed Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)
+2026-10-02T15:35:57Z    wrong      12s  Pedro Capó & Farruko - Calma (Remix) (2018)  guessed Luis Fonsi ft. Daddy Yankee - Despacito (2017)
+2026-10-02T15:36:05Z    wrong      20s  BLACKPINK - DDU-DU DDU-DU (2018)  guessed BLACKPINK - BOOMBAYAH (2016)
+2026-10-02T15:36:06Z    right      10s  El Chombo - Dame Tu Cosita (2018)
+2026-10-02T15:36:19Z    wrong      13s  Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)  guessed LooLoo Kids - Johny Johny Yes Papa (2016)
+2026-10-02T15:36:20Z    wrong      16s  Daddy Yankee - Dura (2018)  guessed Luis Fonsi & Demi Lovato - Échame la Culpa (2017)
+2026-10-02T15:36:35Z    wrong      15s  Becky G & Natti Natasha - Sin Pijama (2018)  guessed Natti Natasha x Ozuna - Criminal (2017)
+2026-10-02T15:36:37Z    wrong      17s  CoComelon - Wheels on the Bus (2018)  guessed Masha and the Bear - Recipe for Disaster (2012)
+2026-10-02T15:36:44Z    wrong       7s  CoComelon - Yes Yes Vegetables Song (2018)  guessed Masha and the Bear - Recipe for Disaster (2012)
+2026-10-02T15:36:48Z    wrong      13s  Nicky Jam x J Balvin - X (Equis) (2018)  guessed Luis Fonsi & Demi Lovato - Échame la Culpa (2017)
+2026-10-02T15:36:56Z    wrong      11s  BTS ft. Halsey - Boy With Luv (2019)  guessed Avicii - Wake Me Up (2013)
+2026-10-02T15:36:57Z    wrong       9s  Daddy Yankee & Snow - Con Calma (2019)  guessed Becky G ft. Bad Bunny - Mayores (2017)
+2026-10-02T15:37:15Z    wrong      18s  BTS - Dynamite (2020)  guessed Shawn Mendes & Camila Cabello - Señorita (2019)
+2026-10-02T15:37:21Z    wrong      26s  BLACKPINK - Kill This Love (2019)  guessed Luis Fonsi & Demi Lovato - Échame la Culpa (2017)
+2026-10-02T15:37:21Z  
+openai/gpt-6-astra: 28/100 = 28.0%, 0 errors, 0 unparsed, 0 leaks, 0 tried to download a video, cost $1.87
+2026-10-02T15:37:21Z  chance is 10%. results in results/youtube/20261002-152102-gpt-6-astra-youtube-raw

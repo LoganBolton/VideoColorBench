@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955305-jIbkkp9nrI4ejJZYHexD",
+  "object": "chat.completion",
+  "created": 1790955305,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes in film**\n\nI'm looking at the colors used in early scenes, noting bright blues and muted tones that reflect a romantic vibe. For \"Love Me Like You Do,\" the blue scenes contrast with warmer oranges and greys throughout the movie. The transitions show a playful mix of colors from a boxing ring to warm restaurant tones and end with grassy greens outside. The final scenes use lighter colors like yellow and pink. It\u2019s interesting to see how these colors evoke different emotions. Overall, the palette feels very dark except for specific highlighted sections.**Examining color dynamics in Dark Horse**\n\nI'm noting how the prominent light sand backgrounds create beige sections, complemented by colorful highlights. The initial image shows muted purple transitioning to navy, while the middle features a rainbow of red, gold, green, and grey, ending in beige and pink. The \u201cDark Horse\u201d video starts with a sepia desert intro, followed by a blue Nile scene, and the throne is highlighted in gold. The colors evolve to gray and blue, culminating with a pyramid scene at the end.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes in film**\n\nI'm looking at the colors used in early scenes, noting bright blues and muted tones that reflect a romantic vibe. For \"Love Me Like You Do,\" the blue scenes contrast with warmer oranges and greys throughout the movie. The transitions show a playful mix of colors from a boxing ring to warm restaurant tones and end with grassy greens outside. The final scenes use lighter colors like yellow and pink. It\u2019s interesting to see how these colors evoke different emotions. Overall, the palette feels very dark except for specific highlighted sections.**Examining color dynamics in Dark Horse**\n\nI'm noting how the prominent light sand backgrounds create beige sections, complemented by colorful highlights. The initial image shows muted purple transitioning to navy, while the middle features a rainbow of red, gold, green, and grey, ending in beige and pink. The \u201cDark Horse\u201d video starts with a sepia desert intro, followed by a blue Nile scene, and the throne is highlighted in gold. The colors evolve to gray and blue, culminating with a pyramid scene at the end.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88_X7UpOuhl0_s4UkpRjSe93pHGDp0WRIA-KxnPOb-r7xAAozskZHomCKGrMVh0QSQ1XcTsQlE2u0ezip6rH0vn4PtT06p_uRCe9FSv0pYJuevrJVJhqCtUHLJ_Jb53s2YM2JKJTuIV9NwKN6W1oP6ZMzPvx1XdQMA2Ho2kE48OiKDx3CJ1EZKJokk0iK_khmn1xg6_uzlX7HOuhdsZoW-BxqUsiVz5EtM4EAbR0zLd2UW1MIcjAhdAJhBgmJhBYZqhwNVsvPQtsm_5armgNWPiuEYvdxsVTMteFdbiGutgQQ6D1fl6z5zYPnczM-KCUeX3xeDuI8c9S5_mC47lh_Ee-AAqiN5G3rEVF1mWD1h2Nkruj92bziyR5FXfG6vN6cmkXSoP3PRdMvmfpxCBJFlANGjBZxZTPeKE7jTxoAf71zxw4qVcsMZUik-BU6m3982opxmAEhmUXuuKdHY-X0CtdtI6WxW8ihHw2U0ONbWU7g0z3bgAHpjb-mvliqxFbTwjE1xKlmtWpe9xCULvfm0J4EXNhsNRIPih5sRQHfqISi2ZpmjCVlhVRlCoTVvPndPdamgXeXdrggpByTW_h2kcS5ljny4117kEKatGWNS0dPqKbBOnRmnaG0tmoGFwAI3pV8YajI2QYD01vg6hM_61MYkfhaO3BnEEAgayxB9KMCjgxxF2yoD5AiG0Dm5OkfNjzS8hIToTUAdQWVZr4v4Cz6xAcwQT74m5zmfG4E-MVk05OPY0Dpy-w3LEfgM17oTqUTQGAkF0oQBZN5wcbS9BFMsrWqZlCEFUkBVWtuxFYp2UYlQxRfbGO1F4QNY3GTg9y0iDIeikj618ySbnP6blUpdiB75Jp7B352LZrf9yjampkFJMu-aDffWMHYeOFXdq_ImHpr4Zg7s0tHR3cnGiecMuGRmT7qIKO658_KPrQeddEPV0vo3LyR-CvRIIdeLXCOilg9WdBPYXD7iUzHYloZrJfJIWrx_EKMjALUWSRxzmpNptd5VxXDxCX6aPyn8mzZ770RPu6HJ36xVACjT2U4Bn96qbWktkfqmFOZBEWyckZEUXVv_xZCadUQAO5dYwy2GlLPNzKMrpsaYfqSU8sKXXx7rRj0qfNhF5BEF1f-31psAKgA350YkPMy5tx7jO-sW0esjql1mpF8uRuWgarhGs3BK3jmAama1LbMJkR0sAnrktuRHxrSFVL6U13Ey_h-6geyZzzZPLlILavFp1ppcqo0dyFE26v-kpqshcs0_mEl-EGzhvvgSoxCZdEh0OxxR74Uq_cfVAsFDkOQWiR7ihCrX5RZjrvMHm1hE5FJqAoiREAwYlh6og9Idmy4OrvQFVqQ-i-qKTvdR38O-kj6JnZQHG36KJqv-lPi-4KMx427PwyyU9ucgv8GDTUrdlInwKW3hKe3S8olOrSe_LwcLmYkXwgIeTJ1DSGhJ2_w1r-0k1aqVwzlK7tEyy5iO176PGHAdZfEm-kSPw_XQ1gP0Fif5Fm9pZRmsO5rUoFRvhsjhWDFdSVywgQaFG7hkZz6Z0NYeUVI5NoGFXYPwItGZbIAmQ_SNlkJM0LIQZzpWzyDVCfdcrXPVzHc1EEpgz0ibGFe4QEmWbkTydiR32ATMaFiE6wd9xLltt3yV8CXG3BaO4ZigF14Iv-0YHaAQiSQ5VCgiDoPKWW3FL1qqlWJsMuEPgI6Vq53epf3d3kzoXsagoeFRGcxBhUYHpgR9jqCQ2VDWLvY1T58R4jEDWmVMhtIqW_pIwajxyjfeprftLwDgCpuiFfQPmMLBM57tZw11S8BK_nmqrEVPIAbjaccap_ljDYhMVktvM-NagJzsEwsDu69nh6sBWj4y8Dz8Zt-ZBV-kA3NcMn7K69-TPc22tWoGwKPtT88WKsl0LC3eDgs7n-ZbbEAuF-zACGYayA8V9muM0Y0DhW0mQcBZkqvQSFZtEWUBeebO-xKSloQ9PAFzzBIO-lgYEPWVSvdMkf54t-tBoYksVpee9KwCG7GxlpHWfQM4EbwlSD-GBna_tvlMtlgm4J-4RcoywUcMQ1fVLRhiDKKECpFsjGTPp-9S0qeE7MxdHqXrGDDOsQxfMzZDgdBGz_4n_3CZJuaAnJLjerUycBvICdH5L7ESqhFX5hOn7ni3E7MNGdwvzYTIpFT2ymfYhb1QGoRfRiXwrJrXaWVh5OY29wJVAi3GVSYkmdP6I3DuhFQ8_eQZLtdaIlRGN5NBpq3omxghiYEgWQkcAZMTq_LE4DXwUEzpR-Z46ojjSG8salgoygox7qDlhYhhF69ljIsX8Cdkjh_Pu6nuKJGWdfRRGSAA0Afvok5UgrbWctq6tCHYkusyBLdu0xG7zEFa7APrDASKKS3XVStKwdcw4mOfSaO7NTH2AAK5Iz8TvaV1bMGiTQNSC-X8tP1SdMe-9-QfUR0wYeY0QTdsq-7nlNE0fxi-OMDnRbLEp6ZKFAVtXNuqqOUHZLwhXNFihT3VnevNlSLrYqJPdNPV7OLuiDZrQquHeG8YA81EjwcUwEkHjft9eAag4GmDw_gDSlGm9ofdiCT7TCn0KR8MKpcmgqMGJVGUUZ5PfnraVOffi3T3r77FWs4Tyer_G_FXUQJUBfrcZ67cSp_KSnTlGAS5H0tp6a451cSlbrHg7xNTSpoqZ2Y5o5ID6aQdplgnsclcKsQF3JsBEcGMUY87ZaqJJZhsme6q3eMu7-TD4HhvmwDDg5zLZMAQFnH_zAbqrmYEGGKwkEtngJ3CkEJc2L6LT7CaVfoTpKtMrG7ETN5VRRTT6h14gAKLdSqijY8iMGWnZMvEO3JQhljWh9QQhu7WwrXJdiGao0MhWx0fHWyZqiwCPMViTDP1ihO1qqcBMfdM-uC-b_fBFKokKmar5RaY8iRcKN9nVlpLO__kAkW4uNswY54glQ8HoJsl7BCgsFvWY0kp9E3UXUViLjGAR0T3QEygqHWsmaG_-KvEi1SZkhIdNTM5oVAKvv321AY6-DqLDLDFcu5XifZxineWK9asN4JV9CLoI4eoiA6nq45-ybStUIHKg27U4DV9_OG9-qSySfpeqIY6zbL9swXxJLhS_tNT85oEhyIZtrY6QK5SU7Bp0QZGCK-lubxQL6KjAIR-q8KdRMWs_f9d_fj5HDGRAD1K5op_M7V0ZMO_eQLxjhWwLPZaq9Kk8TzUlvcNekUJsA8jhGanPlOLiWCy064LzmrfRI56SyoyxGRD3pjLnoHwmxczvn5_Kqjh8SVZLuwtrK6h7Clc8zUqfUyAds68Ip5_IHbxBnURP0osYTnT1Z3NSwX6bjq8xgsRW1OIlYUVXlm2HfwS2fiyFh5vy3rfSiBX9oKq9sb-SEIcfQ-LFRzlCW-2QN7Cusa0vL4FJkv_AW4FulEMas2wXLbaUJKZG6Xu_2fV3aPXtSNE8XAByVsGIRRv4kJNmSyG1uQsPp7bboEnONC0Y1n65_sP4oWfakq2vsA7GRYmpQWX5onLOLvV5viI-hWSwwe8aQcOh93vmdRAbny6310FOWoHE4rSHOzIR6N-EuWc14XiX9HUrrzdwFVEjhODP1fSYBCPKQP4gbyFQVSLMemtl3KH08jZNMQdfd7MElCb9YloFZrFSjr0AnrOqUoMeLzDNnUcXTwR3S6vWzKTWsJENad1pq2hPmEmILZRXQ0PtwtUIqejxrLLqj75EPeNsRUxj25fwPXiUOatgH2qeR7fMZyJcirJlqAPGXJ36bOMfrpsI3Uyxrh4wD25jR6gs_-Pc6XZ_JTkS78x0RFWf_43s2g7CPJVCrMVaNrJLZap1ArCYrS7G1abkHRaLDgRAWlmlqv54BNh0M7d8x8zs0nFX_L2oUnGfNOnhbpw5pRmDwYu0sGZW62QmbaW0qecuDiL8KQEjWOMDPWZtebNOe592Q1KXv3bQQG8MlG5NqzSNZ9YObxDuKaPHkb27vPGXv1R24gCZJL8mFqZ_pP7atyH0HHH0XRYcETVzWVks8WEDwyQ5KNvhhrHovnrYjNg8A_vCAh8gwe-8DAgOt-2Fhc87m89wkVCDgygRe9qYfmve4NEKVwLo9_R4nezoDqCo_0XgTllhfTSiFBB2yxTHy5snaNiMham1_3PSpxd4Eux0GxV9cx9D4wIV-qZuOPkrcRcSY28S2LVGI_L9foB-kFWV4Nn-UykuWjLurECwXUbPlil57uDpPDkEgJ6LCuJDZeMKpWBBMu6px4xWbXWTfCF1NsPN37pupUT2CZmq8gLqUyuoLUu7xBxjNDXfhX5Q7MVVa4_S0vyex34FrLB010_M7i7zo1bqT9E4zXlxE1scys358wrhifLMq5BcdQHl1c9tUAi6xEc7CAKAaBMlp8fQjJX7CeqBdql0RMJtll4fVCWU_OSiKqcsYrEMTt8DnVqRKz5Z-mWiHBCzT5h5GYF8HPWvv-IU4-Fpa8w9nCEdiQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0015d3eb8098ad67016abfcf2b358c87d1b473a3c84f198d33",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 497,
+   "completion_tokens": 525,
+   "total_tokens": 1022,
+   "cost": 0.03122,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03122,
+    "upstream_inference_prompt_cost": 0.00497,
+    "upstream_inference_completions_cost": 0.02625
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 516,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

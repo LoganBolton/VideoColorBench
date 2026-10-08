@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894291-8AnTAc5m1fhFQKEeFnI4",
+  "object": "chat.completion",
+  "created": 1790894291,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: J",
+     "refusal": null,
+     "reasoning": "**Analyzing color sequence**\n\nI'm considering the sequence of colors associated with J: starting with a clock, then moving to a warm beige motel, followed by dark blue and grey for a kidnapping scene. This aligns with J's themes. The \"Counting Stars\" video has a palette of mostly brown and teal, with lights from windows, contributing to the ambiance. Based on this, I could also choose E for its brighter white colors. J has a cinematic, dark feel I'm trying to capture.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color sequence**\n\nI'm considering the sequence of colors associated with J: starting with a clock, then moving to a warm beige motel, followed by dark blue and grey for a kidnapping scene. This aligns with J's themes. The \"Counting Stars\" video has a palette of mostly brown and teal, with lights from windows, contributing to the ambiance. Based on this, I could also choose E for its brighter white colors. J has a cinematic, dark feel I'm trying to capture.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDc0xSlzvyt0H73mXb1anel5b6ViUsWMBWpDlCJ_0byQdmFNkeexPqNVFzbiJiBX8_Bv1PvKmKCDCwCaVoVdmG5lc88mtT-i2PUD9o3k8k_VHZKrBH24COiuEGd4sOojBSETMRb-dZ_4PDb0j4RJttqS8vONPVwxFDhTOoOiQpJFo9VFzZd2Tci3B5mYYkFb0LOLuWdw3nRm_CjaeK21MKEif1wWjTa_O_93OdTgPWE2jmWOW4gegADf2U65lRi3qTYUwQabTE_NIvoqDHpWMN9efD1bJCPk2kzGU9e6JoPKvnqAm7WG4DUIyW1Ql7-wpVeg4exLQ5-0BZdwIzekB8Ts6oSmvPD7sglMQx02g3ldq9pW7l1atSrcNSuJBi8bZF4EGx960JPqMoIhtzrYCwkkuSTS4boHx1tVZc4eqf5WJX1cetGB0vsjtjH5gkziZe7cLVI3_PIKtf-Wp96xIkWm4j5rT2PIagKUWH-EPaCpYIidfNr_Eif_wphDB5NKhK8I-nCTF5yQueT5vy5BfbIh0KQ_MR5rfBHBHK475GagddkKTuYa-VZMV0L8CBEYQkxiHy1jOLxF11vdpu5eXFGDRGoR_phkVtgm82sYkFx8QD2od_JB-zVpVOQ9qWVmSNQ9pZv_5tIHmTDxxrdY2uIOSH8njdwPDHKui7AXAB7AiSTOu8w_IZzpI8tWCmFClxUsnVutfciGE-kHqSJKlePZCWI2zbWTsd5WZSRn5Z6r4cOzMr9NJIdsOtDj0Nx_UfHt9gJUncYod78FQfWwQONbCrotW8y-UzGZxTBwGLtZoNLesuwFblqrAqDtc8301V-4cuUqMdkEb2hKDEwdb35nHjr_objLsP1Cs-xxlPFh4CmSLrYNmw2Z5si5TRD4IbPRsSeAcIgSrOi2myNN-Ur7NBq8C-VMtRJrFiOXLrxSUGS9yc-mt_qgOLtkLF1Wlb_XvZ97SzMGEaiicUM0gysxZlrjy6hp7p7pP-0oj7DDSiWlitYoCAd-rJDLJUEBbS_d5z-hsjWSbJm6YAz7kAifgi0oKtcjqX1rdhtLNS5lyMwenp6NJpZTEXvm6KuwgrBSYeYSXkv9MjlERBqmB48cwNON_0EPoPVwHCYrmgy-XbN8YIQeQ165GnrId5Xs3WkxWlh8GJsKgtoig3eBy1-9vVwlzJrfMs3_X-LbDmR-smY0O_aZJRg7Eoa23BB0PZjE8PSL5eMm5fZ0sblz9x7wWnzwKCKqBz9MgJUjkyAK7k5NhS2x3iRvsw0gSEE0lchFUKRw5t6L5hpB50QQs5CwvXyP6pRAacbM1z-KS_lQnJ6XR7ti-CQsorbNbiFC4tWfBaF8qEQSfi1-SXV9FoZ7uTUt8SRYI1gOeHOUP6GT6A2T9XJIz9oUfr3LUYA_i3_p_O3kWusM3-NHwPs6N2LQVpXhvCuo411JOhbNAoBP0oTU2GiE-9TCixsXgPPC6X2sMjsK3deQ7EerwhnUmUgZL_X8qf4a1fV2jFyS5eGb_86gEW722ZXB0GK6Mq-fDjF7iHlvt_voYMvYa1mgYBsskjvru5XfVnibw231wr1Rvk-pR5zwHEccnIGjoSOTyRaE80bYoB8cm9fqNBMuCY_1xcR2TgKjQZ5x3JmtndzRyX_5mmcks5cZJRG0gm8LjO1dBdMmy4EUDh0FRNYEHmrQlGagrQKrne-iTvE0LgO5R4xX1Lak1UIii8PrvU4dQJjLyPBzvDEzttrXjD8yo2WkqZ39oT5HD4nHsdMwzDE8YECshHC2dLBf6dImrIG6UFmq1Y8KeoU-DPxZE5Pr_bgLGqdk7W_fWYDYNBf3iTZ3IxCtrGuvoMelms7Q4b2es_egQIP0-Z0ItRk9dJwsOzFnY64uSeKeAiy_rSQBVFnD-x4V1HUGsMvITvNozVBgXRrKINej2ONe7HL_RDebmFd5CWNcQZXVrTfU1-25uQXX65i4hlJUoF-zMEDjU6JCY9yi4hT_WCrXpilAH7riBimKQC_TJr8YMkHNPe87P4AVZOyzmNu7kvwWG5789d-AvRY1nyC6moniezInRaq5Hx1eUV8mNQLVrJvE8W5LVX_xcrbyLhYZZRGmXKVc_ZQoVQq96i22HzFypotCr7-8UJuNVIbLRC8DAXfFLrkaZsD39kg5kEFYEnw6oVaEcO6AHCoL3VV_gaI-UyCgecg2kUrBfU_59c1pZxSP6Se_Iu47db81QYahD71hwPOgwdIthjooJygliNYq_bJyBejZUtCeCkTr71NR-wmm5d8IcKMUtJGYemTCvsV2-ieN-k7GTHD4FIoSfFnnAN8gvR1m-ycTTyEpb_o5_osKVyB12u8FCcOj36RweDphLGyc0o5lAzI4XKwyN2S7hY-_3tBP-bRuKdQxpg0VgJ5AyS4pYk7opoTqD3EAsTsvVUrA3vC_8SCthWI5qGU8wjmwnBp_nk9fo8vQluQkj919unAHgpHWmj0bD31LNU83hsZH0gZ9I-1UKRmFUoCB14yrNyGREh-v_yxL9OgyXKATNP1NzfpUq2SHOeR2weZRiTbHne-7R8VlOBqRe9H8rRn36Vou-WwawEymgtGQCAdGSVkdmpKC_PUC6AWTaIoEvk13CFgaDVkXPxAgS5WWxDsAIG50u9a91MwRjHP97F7m5nKriMFt6H37WmbGhol7zpd5vpO54ffJvzqVtgip2EfXq26Ym8JISJ3kI7H1cHNB_jM2ligoEJVXcjrk8CLk7wnZ3WNsavHXjZXAdKvFeFN5i1h6Ix3nI8ROd-0MCI-En9v68C2IkwVneUV-Eu8IsNZDsc_-8wGFDyFDgvE0r12Ddanxi_9Rrl8LyvXNaVnN8pQ9Faydv6ddAw3n7S15ajRxBXiQ88HL7nTkDu8m9YAsRdQDgz4vRXZVt2V6whBvGrCj3rVjUY=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f74f24dd53d71f6016abee0d544a487d193a85fe89849bf4f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 478,
+   "completion_tokens": 261,
+   "total_tokens": 739,
+   "cost": 0.003566,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003566,
+    "upstream_inference_prompt_cost": 0.000956,
+    "upstream_inference_completions_cost": 0.00261
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 252,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

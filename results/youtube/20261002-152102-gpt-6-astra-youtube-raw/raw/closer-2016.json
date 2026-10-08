@@ -1,0 +1,79 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955172-qreRufC0IJz68RzAXLf2",
+  "object": "chat.completion",
+  "created": 1790955172,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing music video colors**\n\nI\u2019m considering the color schemes for different music videos, like \"Starboy,\" which has a dominant cold palette of blues and browns, with a title concept that might include red stripes. The opening sequences from 0:00 to 1:05 are mostly grey-tan, shifting to a magenta cross during the chorus. Then there's \"Crazy Frog,\" which is bright with CGI cities under blue skies. I need to decide which video uses the best colors while ensuring proper distribution throughout.**Considering color themes of music videos**\n\nI\u2019m thinking about the color schemes in various music videos. For instance, I want to wake up with bright daylight, but in \"Rockabye,\" the strongest color is a grey-blue with some dim orange tones. \"Starboy\" has a black beginning and transitions from brown to dark grey. \"Rockabye\" opens with blue sea, and I feel it should remain blue rather than brown. Meanwhile, \"Party Rock\" starts in a grey sepia tone with warmer browns overall.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing music video colors**\n\nI\u2019m considering the color schemes for different music videos, like \"Starboy,\" which has a dominant cold palette of blues and browns, with a title concept that might include red stripes. The opening sequences from 0:00 to 1:05 are mostly grey-tan, shifting to a magenta cross during the chorus. Then there's \"Crazy Frog,\" which is bright with CGI cities under blue skies. I need to decide which video uses the best colors while ensuring proper distribution throughout.**Considering color themes of music videos**\n\nI\u2019m thinking about the color schemes in various music videos. For instance, I want to wake up with bright daylight, but in \"Rockabye,\" the strongest color is a grey-blue with some dim orange tones. \"Starboy\" has a black beginning and transitions from brown to dark grey. \"Rockabye\" opens with blue sea, and I feel it should remain blue rather than brown. Meanwhile, \"Party Rock\" starts in a grey sepia tone with warmer browns overall.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv864nNY0fcueljwMg-hupfiyc9SWLYsd1HPZuftxetF8YD5CM8-CzBDYT-x2VLwOL6VhZSWtC2AKTg4k9L6kypBCCv4WrP0yiE4jVmq8oSv9gEB-uQOqj5gPjeh-vE_vckDO2I3QF2YYm1o2nSA5bANo-0Zdkqj_M7iHU2V5v8Oqh_5MZLelKkc1CHteAjkKK62P4TSUffJJzFPpO5KMM3gkXZcsg6Zwa4w3zlNNV9ow1NF_cAx3vh1YLWgygeXZKEZHL0Kd5B2z_xm8gYW0WHBTRemxdlz57Rfxu2UZZiYkloUhcU72XjieRlwwTPD-759E0lfyImajxYML1bUt-ATS7adCMTWHbE-Lza1dOwDuANCMSImq3HoN3tue41Dtrjp-BqLfolCpctTkJNrIs7F8ovFWuWGJ3O8DNXsyl9ozhjAP2UR5uEEOZXzzWUJdx7HFDbA4WNK0wcCSEkEb5-qZepLqVQKjUWFBr1wUBzK-f7ls4LKQ0pi_0SYddf9sxmd36k-zl2r9wnMTOTH-e9yifhQCkuQa9tOUwq4whDeiYgQGpCSsxBbt0eftBWlKd0NPzAr3Re2Gd7TZ59G85p_TYPTngEjLSu6JyHYGPOmjkHixgNZ5jtxfniqSsn-PioVikM5uCwOKxd5xYNNfzP-pVel-BCzrP0-fhxz_uaIYIH_zJ_DYyzPg5OuQFcZyR6P2VnAgFZ_CoslJOF3DrhktnAAy6lwfulNSAiQ8y1fYp68aG_wIeaTS2bA38YHC-jpJDyFOhq6YqGvSzhADRTqM8OWEeIt2JRRv7onL8eIgD3-wuTh9BGFBB7B5prKLU7fMsKGJgrsOueRD1QQ07zBdGCVsgrJsk4NrmdOHfrLYR4cJTf0t7Y1NN0j31ldgnbuHlnPs5h1K8DbPL6Xp9HrWvDmf65BgC8-Nmz273dz4ivKo5hySvisljLCEz6pEP0gbu2w2hw7Yo21tniBrNMxNc0Mn8X-w3l7lCtieSwUVxBUM1TO4-DrScFFtb3aTPLjb9KhQOHFgE3_q-E1KMhb005qqngobHVXbLNaKB98yFIx6DQoJgE2H5DPV1MWYNgQL4bn5aF-n1I3X9uH_3RO-4PDUyY9pwDca5Y0M7boLDY3_yE_yTM8bJyV_HHFIF4Z-Zvh65H1r0x6gE555fkBO51fYPFgDbjNWKaw3gEyvS4QjYn4IQHOvIZHTocMqfZMkp2LIoJ6oZ4AOKOEtlAHC0qxP_r-pbM9sXnlfkLTohjV40Q10R-bsaGpTDLaMzWHCwsdLAaBkkwWW89tpjBNg-UkA-ghZL_NmLUL4np7qgZNL-YCMRzW4QE0hpCU6h0s4Ef5n5sswY2E7mslxtP0sXE8PWCprQHYhUcv-K69vk9TXmxcDBHqNXdSAX6wSdZ-j0_gCoh3BvavlgQzYVB8BA38ch8uerWW-U4IT29CqF9ZvkRwnpQN5eBUd4TIah6Wbtbwp4oKN1LRRdqw51RpjAygpU7DQv8_hO-eF7mxN7PQpzJ9fH_8im0vWsNadx8BrsGUAFhK2lAVdQTfI88dXZHVqQC6HaI_kElF1EHYEZaepqVpmI6nJ6mqcBxxaODHDZXI8IaiPcVUXkf4HSFx7sE2YJYtefsrctHgRpjqMfy_5PDj_-ccMYZO_HZsiopQucWbQKGWjrRGoizS2kaGNuyRNeAPwYEujdJ4R0jbgN52X9aFbl0JNsU1NcF64XvAXJIBtr3S2N1o-1HDBb6oGgCUOjneA3Wvl9kxvGS5tKIvVV5KqIBLGRNEsQpNT62qCn2m1K-7V-sca_kt2VTIEZSsmtwPkjYMY5MetJgbRrlS2PKfYHaQI_zD43tmeE4pWnhbyltqQUD19fNNVwAL40ExYjBRDWNzogm3gy1TawPqhRIUGrlwgNs0XwCIGEHOJroiqc2wTA84SXWFDADj8vG2qOQaq4jB31Imha_s_IqGCcQphb5vcseGpTyLobmFt9BAa66qgMwINFMeneurz8sUuYQFJmE8DAlBXXbUKRn-39JIhW4IqpAwyO_vOYnkjWOhhW_MWFPTF8dVZpSPLr-nVNLEL1-k_lwe56g6erGIDriJPTowQx1_5Qi-JKIjLIsvjS0pI2XovU55e3oCgGvVq8ABrtrnAMAuICoqKU_Fu51MCviDP3R4C7Bpp7CjJR30MBFJD4DIx2uZ5jSWRaIoEGLr44N7xbRIi-AuFv98yExjr6tQbEFBTqo-v7BairUStBkTxi2KdFy1sJ_XK5aK0Fj1TBmeNsF0VByzX_eESRi7yl18V44jLujthIx3I59WD2L4VSVNJsHRhSvEwkqbdvU507gV1A1g6FY2M1EBn3H-qv05CYTPQQ_oX-5GheYNIFeC_yLQ7FoxxQbxS-8ZppyZHHXnvu9biAXQgDzhrFgd5xlZcYgfbeP8vPIHmG8FO5qscjIBYZjRtx_tGuux1v5kotw6Y9_2wnIN7dbySfngcUnqMe8veQMPwLvj64eDaiiiT6lcZC7VWPn4VMVywjMvamk2uwnG8D80dSWj5CycB_JfMQIvyWAk-h_evubiiF9rdcFOQ_b15j8X5g7X3h937f9e8tF_09gIVd2FijgmfEz_Sh9HB5s3kyjGvwBQvyK4iAju-6Jps0DjwrPNSJC65u7OW3YiCo3gGubLThscSq8CUY4Zkx22QkYV29dOpJSimRKe4-lHRaAlwn30uysA4Eg47nvlaWD7-RRM9RsljPCpMhXJ8zAk-HX5LRi_q3fIEtCSZJE5CqDdA1uuMd7GxIOsk66pRW3b8GL0dqGun6aqXSPHc0ncUogQ-BItgtQEA4lMexn-5hlKbUkXtdkUeFe-diInv0T58CzBFVbH_ZptJKUm9q5-cFt-7Igvp7y7XtmncwZDpGTBEq0loxvNq2Z3FZp-3vj_3o3xlJTqyC641rXBSNu3OpAFqW8mGvktskmzUSf2Eyjz9_53hjFfTF5UUOf0ZKrS8Vy6WXZtSyinYyRF5vsyKRat1GgiiK31wi-gbZedNR6J4g-3B_0wjjarHyqvNynuVECgVxaa7R4eSUlWa5LM0cCq6zQxbb8lsKR7fC9pbbfAJ7vbZaZyiSI8v8hSJjp-dPQG_HXW8nxkIsArVth_y2vZdRUBDlf1cJDZa9Moh4XwN1RFKZuX1PRtHzM5xOuxFT06yKlH4n9vX_jUcShVvTNobvMq4s95Nr29oRcjk69QwJHcb4XsEBLLvymWkWr_kx6bKIXRg_OsRSnbb2UTggGJXY_-rSN5SdJ2IGGn-RJkrZZx3T-YZ2j3VUDIXs1WNrBOzNm62lhCGy75CKZmCcTl-Tnidm2y0KQaoxmMRPASlvrEl1zrdNA0jR471kBa23dpwmzJTYl1D--o1G6gEtD1ExHzqlhCJT-hSrcsHggjtr4pW2hP0a-XYTApy9EsRv-AVjtVHMu2z6Y2gtL0wHhF55s-BANq7DzgM3MOgF1Ki9BFgzJDQk9jo4RyZt9fo2EbyYUKZrmOMOTglY2huc3vqjG504jtf0D3RhRKwGuscoug55JqvtyISXUbX6_iawNkU9DDeM2sivUD2d9OutH7w2VRpHDTVGZuklM3YJW7R0djawIR-zWTHEB3gpi0MLGvZLNOEfBCjyeL9o5c3L1xAWsqIPuB1xYwJdCT6-Zhqf-jJ3ud8tKpz9VhrmvZzO-ag2des49L5bznC2OoJWfg-Dtxk5XKeysTkPObJksB2QhqqJOsbcxrSmj-vN2eoKNwgK1q9KRTeWIuijcwqpdAXrIv786NR9lx9UtTWNzq1uvRbbY_7uoxYtjB5RNkScybSM4BeKLRtV5-HGGQ1b0Pm6U7ntcJf6VLnoHN8MJWFRK5c8g0N8fDO6Okm6cgwFia7Qy3wjmNyi1t8exuDFuASsGIgCtP2wnX2QBz5HBb9--gVCTRxylpQY_pauC2tOj-L0uECST_3nwSrEzrHj_F7u8B31tsQya-9mD2ak_feUQMKA6Lx4rNnL2r13Jim55Im0IqZ0-j5q90QeRUVzT4jV3ykk0ShDvZ54IudWO3skco_1QZGB7-Igxpnt5Y9XhmoQ36NMVbkNWWt3c3iZk8E97ejDitNyLcO0vpILw5JGFH-dvwzN30cRGRkcT381wvNNZVspIl-x1IWWJaMCMIg1VzPbZFqeX0yQs5Wd6V76ONjK8JpqcwFNn20ltVVJarf8alpmI1PwiuUAHihUVDmi2ZwmS05JmLkNxKvLAAS3-XsseKcw1XC7FkI1F5VYROtIMX7YdAUx6Dju8NLUNvuXdGWRluUCGAJzHrYtymSfw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09ece307b5cea0ab016abfcea5adf087d1b93dbc926285d0c6",
+       "index": 1
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv865SHHu2fGmParjBJ7RLHROjMIU2FwSMyVznfuUFa6rUwRajQH1oDNilQQC4hcWXkxgAat5EELV8ZDVIYHCq3udFXy7XvsXdkVVIYEWb6xqi5Z6D56or1R3e6G5r2XemfWnrRYAf5_36FGZgmnbGNja94JULmZPnV-V12vVwqEceqk3Uzp03lhXQpiaP8SRuBcOUP4KovtQOWAlJ0tRPUHWhluhkXXljAxt_B9afqoz-u3zwxDsmtg0-5XtiLI-yK44j6eSbbHDYib0By65sLWykWE75B403NK_b7o0fLq-XLRYV3aeaBTU1lbAvF0RiO5Pfy6kGKl0allMMFwGecesM3pScJ7Mi2PdJYBQZ2BPEkDAkHdBytv_iWo0wxdOTernQzKV8h9Dr3Qn6XfnRAlQK-fBJdcbdORzpgFiHFcGMPAPTxMwr3gjZOVxun3p_9iaCnf96WG4qT3LP3guBugQHI2X0xMxruGV-_D2AfLShC0kHL4yjIbpGZtgAs409SWwcR8gDkPmUlK7WWkC_mGl_oF3WsjxOYc3ezj_9osdKKqoADhgWAYtwSV7ZCvLsbtAeDqP-jyMSnObqzVEgntUVCBOAcS6kMefbBPRDdXnxXW9FXsAaUrA_cshtMtazJXgGFuurE_bRv6G-INdAEpJZ4K965hNiAIj0Bp_ziBIf6Q6Kg79jCqAM2e8WvmfIJB6HFi6KoyIe9K-aHs3ZnK-_qsh-wofwWApS2t65D9Gzy9NPcxa2MWCxyDog8gSIhz7SLQ44CjshLJhFS8UtvI9g5roYZVZmMUbLMuvamuPj5d3M6OqloDkPQ135__xKWsEGFxgprwcDHwBqOzzsJV9yRe9Cdnqj3pYwGCdMlZ2K2WM9KZgtW8sXwtrKyRpzgcCYVF7Skorc-T6JvEP66HfPmow6n7jl1RNo1EpckK123b04DxokKIBd5U0OlUb0uusIaKUob-S9hhcd6r8Vyilpq-GNNqL9IBlO23k689_Mq93eqLwXqXtVNMWGQIGnp0tiLA1vDaNEoNC7AJNs4g1xYoLD0R8p5Fu9Exng8HjW7wYglDr_0liDs1_Q9FFNFMB81LN2xlqyexhjJ7JoQE6YKFkAoL7gJBNpHZJO8HtVGFwF-cZFfN_SdxeFH9_mJIKKrfu_Fn1TRJZyThNnYPstZnJ9GmyAV_TtC77xa47b295clhTNF692A50SUbGEPakh4CboUzXIC-9GW96qCeaLfwVbfLHWMeWjx-QQAOH3GvlOKIgjjPPubYc3GHPRcsE0MNtL6G-I2UOEma1k4fggYmhoZkiYypPjenYsUxJyeiQrugd4oYOZuz6gUSsyU5O_rZwEx2KuQ_QVnfv3yD5J3fvcW5bhw5Xbx2iCDJc1omBtN_y6DfvivQGbBxlY2pIPSxBSTV0sZkPTmfeIz6WV8et9AR0JhSwlK_Pxy9740I3Fddm037o2NcAx3h4S7OGZ7X60Vr8gbh5Uyq_Wu-AW2vi2GFAE_ib_ff5Jvpncl4dnTHvIigfX5Ye1i5h5hUx-uM90_BrX18Y7iYyZaiOCHIBz9ZUcS4mlTOg59rswMhG1gAS4gtciMg7P8K5lcN10ykdv7i9S3mkXpis2T4dNHeK3MlSrGj2c5jkW64AyYcDgNCXJOMiwcGQh6ito058NVAhKVSlP_QTIKXr9pqeyZtzITeWJwJIQGPuPRKVF9GAcVBI4kDZp7zyv79B2xwsZcVlgckHK3Osop2adil7EelLTETfXvkKfovFOQ9u84RLTQae2pAq6C0G45w_FdOraFstkr2xO0FwhBJ0UgZl3s1rEljpSnNiyjmIKW9UvB-KOWpeBqgmwv26F_5ZzGSEZGTa3UOlRhQY-TDHLrIuOA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09ece307b5cea0ab016abfceb857f487d191f45a7cf23063ab",
+       "index": 2
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 494,
+   "completion_tokens": 623,
+   "total_tokens": 1117,
+   "cost": 0.03609,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03609,
+    "upstream_inference_prompt_cost": 0.00494,
+    "upstream_inference_completions_cost": 0.03115
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 614,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-1GPGcKpTxXb5AMx6HAr2",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Weeknd ft. Daft Punk \u2014 \u201cStarboy\u201d (2016), based on the dark opening and predominantly muted red-purple palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI'm gathering color themes from a few music videos: for \"Starboy,\" there's dark purple and reddish tones with a somber start, then a mix of muted colors and vivid pinks in neon. \"Billie Jean\" seems to open with a dark city aesthetic before revealing some warm, reddish tiles. I notice how color contributes to the mood, with \"Starboy\" bringing a stronger overall darker theme while playing with greens, reds, and soft beiges. It's interesting to see how these visuals enhance the storytelling!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI'm gathering color themes from a few music videos: for \"Starboy,\" there's dark purple and reddish tones with a somber start, then a mix of muted colors and vivid pinks in neon. \"Billie Jean\" seems to open with a dark city aesthetic before revealing some warm, reddish tiles. I notice how color contributes to the mood, with \"Starboy\" bringing a stronger overall darker theme while playing with greens, reds, and soft beiges. It's interesting to see how these visuals enhance the storytelling!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuClAUcQ9Ne2NcpzOSrcoxAyR01szMmqhQaBhvmlKogh60t6lL4z7k2hajqQlH_dtj7F0xCgtzNzEksiPCnoTPu9jseQk_jwlVgj1AeJs7r_m0PMIZORkru0lPjiVdY4namWDVmNRtYuppGZvttUkBxLk5ZI-s8coTIVc6UkQ8IkbICkjjurCqafFGMw5NEUcnLyP5yoLTJ8bO5aHlSw-IUuBPOgjvH8qeQnjAPhGQKyPhXp-ikVhinTpYv2SIca0hzyxt6muCh8Hcdb-rq5UbFjuI9-eR2HcMl-kIaDUKzBGHUvGJ-VqXe-f95qsrdnKNVbDUZ7ICMOem8QY_hl-V3M2bnkvBGkKGsQtaUuFitjzmBckoSXZmm4Uufox1bOn5T-mFdkaLYeDqmd5OSy8qT0l6LwsCpIvqaaskX-W-LuS3CISjHXy5973GmnsaB2tToTv-_4NnRFSt11jmqMcUUCw7GN-_QNSFmGjbznfn69MQmy8HnQtOdPUG-vdD8JG64sRkDHDQ7DDXvQh9lHUoMFfcf-_ie7rYrKz_Dq2VCKe7GQU94Fbez1N_DjrFRJEy9UXK2Gkrtl-bCwYx5pbd6LoB6N4ksuy3VQuaXBJL2iSWvAzuvlRAuDUWWdX4nLb20kuMbxSnGHlhM2daioWmi_PyFw-k35xOHYIDkIp95QfX_kKw5oGKMcko8YaMEVILuMTyusgqASWrxF101LZabBK2gPXBMsEcA05kEL4_fR7c8ficrgXmYkZQBJA0Cupi0gkiHNgOquUBWG1Hah87V1ktQt0GHIMBM3lRDQTCjqnHOf4uCUJSeZxrrozm3dMnb-57lgOGwKkUgY4x3loDHBzuq0xL-wC3nyxa8_bjJqmcaaMWmAXcQsBkQRi8eL6L4r-scLPJL_93r833y-ar_CgDvAJ_UNlbyFkMXGQ3xMk-XG1Uq5ORIWBDV-QNuAYWiQonfHB0OdAYSlLlLrOiMUxo7fVl4n5xjDWjPCsWbCVExDzh8k0FMZmCGzMSjj4b5bZYNaNqZN_czMvUb-Rs_6XnLoTjNHnN_R8WzzKLVV05SAuUfAUsqu3SPP94NRMxScY-k5M49lFPd0DzQK3LG0lEOygIcvrTsRQYJfg6CWM0MmKHGoLTAhKGAKf2d6FmY_UB-Cwh8Rt_eDBS_vDYo0HVMJC8Far0XfRoTu5kX0FwDkN2EJYErvQwbA0gMiqdQl6dg_YH7LlYF8DmAleWI2Hz2vpawhn3H5x3posKphJu3dM09376s_aGXlyBdAwmBJpRCvjqxMJlKbBDuIVhQthXciIYch0VyurA3ZLhExkXXom4SukhvDvuAWxlt4xmGAiU8SA-jZHkG3ojTiIvu1uCGjY85G5xrzQ87y-cX_ufml2cu6aS3tzaTjraoz11T16l0XuTWuFIKeC3YUGciC9ky4MZFVlmX7mUDPbmOWiA5F9MoOndvs24Yzn4hVv2f0GKrI0lzwG6wUH1yoEtAdftTFCg1uyU67xRLvPCXCIp1DcGkjHeMUu3a9l2wyvgkc7bW-WsTHU5jtBr0aeo7d15s33jAH0HsesJWrK8IJuFTcSG4yXwb1exH3NLpd5wx1m6qxlah_OmSLjLkq4F4nNUMkaCJw9Lu39dBtYrjRwN_wJYz0SB84acX3X4gnpo_EqM7qp3UcEmWSDZYICKj2KvA55mj1BymB_uPj60IW16bcICknNBWbKKqmf93bLiB4fjJa97aPsQ5jbpgvMARuBcMhlZdRwVINsKxirudPrGAjBi1E1rvk1tiB3BtQoL807xIrMY2enZ5eCqk-y8qQ4q-fpG2Q_9q8UNLLKjaRMqR1EC8Q_uwBhXewJqcwCOcWq0A4PAS5jCh6IAj6uudMI-KhNq8R0483xQl-wDO9P-Q8IyGLR3RMNqgc8EI8YsEqNF7ERZs6AAs2QbQL1qU9Rio3P3iK3ikNK8lRe5OhBjcYp6PRlO7cU_PBh-RVN4tBPPndysL9gfhko1cL09KjOZWmqjr6CxpYYh28Bxrn35xzKnImA9Txs3R6QsYDOrAtc-2z9k1BAgUL977c1uXa90j409axttojHqHP0TBx6c2I3nHS__VXk17QVDMcyVDZ3LpJa1pnso2X9xUL8T4U1M90yJf4zgvVUNpX_KeJCvLuIawiJ4xOv-dbfds3_gZ6JkiZxeWWMEmRgORKg5uGfDG_oufwpqWNlgUBSfy7t2V3QVJL_RMkR6oCrfyAEwIQJkX3NRsZ8T1lB0TuxPvjHF0xJ4kKBba1GblW3TJUMdiRTPlfK0J3jvjQfwgYGlhGjB-abZifO5zWTRVaykFTDY88jY8_rfjdWoPfmrgq8cvbpRdFtGMmjLNXpaw7wUgDPz4rst2jPOZDV_FpcKPG9z-CGR7xBd4bhQqAON5IrL21z596Pz6xyk0S8sG0D7RhC1yFw3p5TXrsP4JvkCBGke_1kkR8O6pblqy__DErcBdIbTDEULo-_qfiLiLy3bZXrLPOxOn_pt5yHaMk4mMmgvH3UYZCM7NFpQ1z5QNJ4Io=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05ea249c772ccb0c016abee09e151087d1ba3c5ec4ea662cc0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 234,
+   "total_tokens": 707,
+   "cost": 0.003286,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003286,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00234
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 192,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

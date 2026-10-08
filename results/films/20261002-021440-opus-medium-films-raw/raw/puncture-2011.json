@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907342-6hCnsPBYdXxdl3WKRssl",
+  "object": "chat.completion",
+  "created": 1790907342,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette. The barcode is dark and desaturated throughout, mostly muted browns, greys and dusty teals. That fits the gritty, washed-out look of *Detachment* (2011).\n\nSeveral options seem less likely. *I, Frankenstein* would probably skew more heavily to deep blue and black. *Midnight Sun* and *Knight of Cups* have much brighter, airier palettes. *Beauty and the Beast* (2014) and *Candy* lean warmer and more saturated.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across films\u2014Detachment's muted, desaturated browns and teals feel closest to this barcode's warm tones, while I, Frankenstein leans too heavily blue/black, and Candy, Beauty and the Beast, Midnight Sun, and Knight of Cups are all too bright or colorful to match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across films\u2014Detachment's muted, desaturated browns and teals feel closest to this barcode's warm tones, while I, Frankenstein leans too heavily blue/black, and Candy, Beauty and the Beast, Midnight Sun, and Knight of Cups are all too bright or colorful to match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSwQgKEAgSGAI4AUIIdGhpbmtpbmcSDN4YneN7tFmUDhzwHhoMZeZ2G4s2U+OibHXsIjDe3qlYeN/dPbYcI/rlCKfa9jKgvG2lLLAvU/AxROlxWgT6BZq9xR7kLOA/dffGbb0q3gfTYTBQt1srPBAo7/1y8f+6KFfMvRsB75/MZUi4+FzySC9nWbAZbedmKtoGhjVBeuO2+p32hYwKX+UMHhoTfz6Qpgk5wZkpry1MBv4VqV1Zk/1DrrgBRor++2uOGSu0f8T1wpwamdzZFQ+gmu+sVrz+OunTamyTyoz4zYAUvp7jFuNdOlENOW/j30kkCqlApHHB7UKLw30IrVDjHe/cGGI8JMnhyarg2wzFsfekKCmCHOndFtfY2EObNo/3O09s/tM8JvCLECMmrf+ursEqhXU8IcDEb+hLeaB3j1KkwU1/QHnyKXXzTLWcorsCBSnCHiAx3E+UYaPI8efIL7pqgros9rKjyUR3TUE6+6/Uf0icgKq7N8nSMMnooAnvxJBaO2vA3SEIJQykcxgTe3HDIMDpzQ54ZUAakGp3Oy2qw81AC9sLPHV3+qGZAH0YprUo462ixZhk2v5h0HQ39EnM1YWnuRn4GZnccbK8jk/3yxleAdOR9B8AoW3F6V3bw5Wh/9jFkp5y/7CE6ZSHOaHfqRsjc7rbr8KM1JEAWy2zUHRUxrDLfdfrI6bkAoZkyco8xjky5tNvSWczIBos1xAJFhRu6mdhuHMfNGlxr7wibubWueKhNCzUe5saY8H8Gcfb7+8Vbmv6w7KWOVpZt8j+bmafd7rYxMbINr70/4BZCPgfl/V43JqyabOMm/rtPNWMKYeVUhiv/3KlagmPImWup7NF1Fic7jTf1PVcQz9FS9pTLwhnmE0+P1JW21Ip8tmZlklEfB3mlIh6e/97ZCqnf7DV+4HkzebnLe28bJDAj8BcypXUa4lj1vMAREI/eySWICj72nLOOV98deawWJUgwnFPB9PZfS4gih+5EHlpHKlajfPnwRRJx3XaKuSHZyrn3ggolp7/FNMSf3nXDzQZobhGiGBVFaA0KdTjueZNrr30GoKwYZj3DxVUdoYTQPS/eE2gAtj+MjUpOhcmSCEwTCX814dNACTKMtldXV0BwpszaDYHUpEYKG5bdXNPHheAojXo4Tmz69BqG6zwLRJ3CkqNDPNhcyozVhcg5KHOFYuFP/djuqoiF1R4BbojlbnCjo+Aag+iSRhxg88JLS3U2tbeLlukYPz2JhGOn5IMQAjXpPpyudNsYzAv77Ajr1zKEhaUywQEjs06ndftffZv53x/QuXn7mBG9OpgNugKnbLNhIhF4Ow0/EC11cJDYNcipf0iiY2yz2X9vusfIqobw5dzEDthHvQO3n9NyG4MkGpEjoWSLN2/DxoW3GbrxagtPB3XFpoCi/2SQXG5eORlA3qjPQa5n1rFmeonMzEpzb0YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 377,
+   "total_tokens": 896,
+   "cost": 0.009616,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009616,
+    "upstream_inference_prompt_cost": 0.002076,
+    "upstream_inference_completions_cost": 0.00754
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 199,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

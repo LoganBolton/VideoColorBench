@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894402-HOkciIKumxoAuk5xgM4U",
+  "object": "chat.completion",
+  "created": 1790894402,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The palette is dark, muted browns and tans with no strong saturated colours. That fits the vintage, sepia-like grading of **Uptown Funk**, with its nighttime street and warm interior scenes. The tan stripes in the middle could match the gold or light-coloured outfits.\n\nThe main alternative is *Love the Way You Lie*, which also uses dark browns. I ruled it against it because its burning-house scenes should produce bright orange stripes, and none appear here. The blue stripe at the very start might be an intro card or logo, but I can't confirm that.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across these music videos: Love the Way You Lie leans into warm browns and fiery reds, Not Afraid stays in grey-blue nighttime tones on a rooftop, and Uptown Funk mixes warm sepia golds with its nighttime street scenes and interiors.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across these music videos: Love the Way You Lie leans into warm browns and fiery reds, Not Afraid stays in grey-blue nighttime tones on a rooftop, and Uptown Funk mixes warm sepia golds with its nighttime street scenes and interiors.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 627,
+   "completion_tokens": 634,
+   "total_tokens": 1261,
+   "cost": 0.015188,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015188,
+    "upstream_inference_prompt_cost": 0.002508,
+    "upstream_inference_completions_cost": 0.01268
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 438,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

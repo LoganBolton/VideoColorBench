@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894474-Z5MDnbUOByl9b05w5lOc",
+  "object": "chat.completion",
+  "created": 1790894474,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour profile, not a confident identification. The stripes run from muted greys and dark greens, to dim warm browns, to deep purples with neon accents. That fits Shakira and Maluma's \"Chantaje\" as I recall it: a dark night-street opening, a dimly lit bar and purple neon-lit dance scenes. \"Criminal\" (B), also dark with neon touches, is the closest alternative.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm noticing a pattern of dark, moody color palettes across these videos\u2014purples, browns, neon accents in nightlife and warehouse settings, like in Chantaje, Criminal, and Taki Taki.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noticing a pattern of dark, moody color palettes across these videos\u2014purples, browns, neon accents in nightlife and warehouse settings, like in Chantaje, Criminal, and Taki Taki.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 658,
+   "completion_tokens": 645,
+   "total_tokens": 1303,
+   "cost": 0.015532,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015532,
+    "upstream_inference_prompt_cost": 0.002632,
+    "upstream_inference_completions_cost": 0.0129
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 499,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

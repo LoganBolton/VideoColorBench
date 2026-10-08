@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894492-uPymsFwws8V45NJgkC4E",
+  "object": "chat.completion",
+  "created": 1790894492,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are green from start to finish, with darker olive tones early on and brighter grass green later. That steady, uniform green suggests one outdoor grassy setting, like a farm field. That fits Miroshka TV's \"Colorful Eggs on a Farm\" best. Masha and the Bear would likely show more variety, such as brown interiors. Most of the other options, like Shree Hanuman Chalisa, wouldn't be predominantly green.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The consistent green tones throughout the stripes point toward something like a farm/grass setting rather than Masha's varied forest/house scenes, which would show more brown and color variation. This leans me toward the colorful eggs on a farm video as the likely match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The consistent green tones throughout the stripes point toward something like a farm/grass setting rather than Masha's varied forest/house scenes, which would show more brown and color variation. This leans me toward the colorful eggs on a farm video as the likely match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxAgKEAgSGAI4AUIIdGhpbmtpbmcSDMuMytlEx1r3iH0dMRoMLgCWzj1+2zx8gi7GIjCSZmwXFfkRXirublXbUIGPbbaAVuhgMJ2cbGArxfnhL7Iv8B4GxdFB5cIFp2dl9wEq4Qe98WVFBfv3KpsC6DX/WIINdy5S+ZklpuCDDP8gk2PEm+hqY2jcyuO2Yli4TTlf+XLO4RxsdJlXxXyRM5aSqJMnrhYcEFUOLXcIZYBztKA038jjCHoc2s8xIdx3C2QqMwyRh95cvGNzQlV4kRNvq+XAPFXylnJZ/CVHxpiGOdVdVZx94h5w9jBRQOmkPNSUomOQfw93cT0yx/ZM3j9S08ryrPw3JVskl8KCIa0sb030XAI8wNicfmnIsMvchu19nj3VZTFI3moXTR65XYGJBxGvcYWkfM9nhSFs+OA4qtpNaWWbpSioJNljsbjeY/pY8DvWIwhjCl8faGXk5GvRN5hxUzPifi6OGYix8tsT2isv+CrvYGMC8S2ps1V0gVR59lMzTqA9qe+57X46Hg0RLfrj/BIymvDYD9Xw//hmYnfIhrYAguGvmNqFM5xgMcuLgNbRoikHNq/laZoAcauylSlGje0KnuLpiKbXjmYp7unDveavPqfO4aJWyrrGbES7kL8Z3yfiwGJa2ChKAMxnFRJIaL1kGzxKKtTXmRiv9j2eBPOoTADygHEKXBgp6XZxx10hNpPsUjJq9uNkAhqJVNnWRqPxqhd7DOTprjNF+7FqIGjzyl2dcK8jy+rJ6a8H1J1GFzCHsB13neXnVQFpznEzd7DGpMj2cIMU8H1KEQgbISkmRud+Md+xy0/qqf3vl06J8WVgwZrFcN5k1UzWt8FQzmAOlN3Wj9lxyTatq5XoZxjt8wKT/xrXmBfePSmlEkdjx2t/DcuVUXAPM0CFZKFAezN2Cf7VdGh+soUTh3G+p70jbQczk5RmZ7RNcTl//ISH9/30Loqw5Y+yMqyCZIdsAlUl8WJJBP2AiJAzPuGfyeZvd5aYVnZVfNpscwfnSf9Ylh6r6IXitTUX/f3d8EKtuz7mGxFu8+o1cgF3w338bR9Px4uEh3jbkHFh1UHd+5i78VMz7D2pYsVxaontlzRebPqugPsPdlN5aLDd/BcPAdeGNTUGzV7UlMWexnGIu9q7GCpqtHp2PADASCRyOWduw4qw8u6T7nYzE0UuLGEsg85qOHl2mxHNUsV6HczHRVdmSodVAJqmLvG+Jxzs0Cz/bCGAog+nURqTP8u/6Wmo7MTgb/tibJ2Skf0pS0hRhHyeYDdRD7kgz7hearQJe45L8TqslKqIGbW+TWjVA587+NfcbdJio46rqVrJkf02RUb0xjDUPz7K2qEbwL2csd8q6xt9FWWSFjIf1GtG5w+auxasMmKU3RalWI34bF7MQ8ojCa8SwoYKmHllXJoY31wXCRl9tU6sBkSFtUd2+VtQ3/wYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 660,
+   "completion_tokens": 341,
+   "total_tokens": 1001,
+   "cost": 0.00946,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00946,
+    "upstream_inference_prompt_cost": 0.00264,
+    "upstream_inference_completions_cost": 0.00682
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 189,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

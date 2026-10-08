@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954477-LZFWtgIPVKzKGrOpnMNS",
+  "object": "chat.completion",
+  "created": 1790954477,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Considering design choices**\n\nI'm thinking about a design that incorporates a mix of pastel colors like beige, grey, and white, with some stripes. I realize the main colors are quite vibrant, but I might have to balance those with some variability to avoid clashing. The video should start with reddish-green and then transition to more muted colors, particularly beige, maintaining a consistent brightness. I believe I should choose design A for this concept!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering design choices**\n\nI'm thinking about a design that incorporates a mix of pastel colors like beige, grey, and white, with some stripes. I realize the main colors are quite vibrant, but I might have to balance those with some variability to avoid clashing. The video should start with reddish-green and then transition to more muted colors, particularly beige, maintaining a consistent brightness. I believe I should choose design A for this concept!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vz6Qg8DXY0rN6ZKsXXpsDKIFLgrwOqazSIvIM2s_Mum_9sSvAzVjAMNiybh-HKdxNIndKzsK4f3Fe9McKLpVfkgW4i4u2ejA7xVnPJ1TZIKlGwuuG4IioHPC3smWF8xGF-JwNJ91QM5RD0fhvgHrtmLY6iF7bTwO7y1AppwLhGtFdwwYRoNovqCQBaM9Fkq2I2uVh9QOK-iXAVf_hb14J0rq21Rx92v6Z5YAyeDVdrs6pdoSKNLsLJRGG_dVgFgEb8qYW_r1slaWk1J1btzIpTJh2btvsev3tdyfTB_LTbEb_g2OScpdlGwjs_5fzL8AyHTRtSnhc75_LO6qhZIFMCxjfNzH4zdbU8pEb1He6uV_0H6E8bCQ6bhlvirpZN0O7S72MplhmrtzZ2hbZKgEhzPTloAZJCD8OxHoDQv2Rchnud0xAFYI3ywYzyF54G60OpwuHkBeSkU_u6RKrPIEWTjA792geIW00eTj93hxDByyaH_DY1XIVgvvnRXjInCSM-mPMp29ezHG3OlFq4HlcbfLUXeIjGV41mfkuPUfqP_SkwfBrJj9ToycskDwG-NYyE-FE6gHS1UiGcUPdaXkyoM4AbF9kLhm9IrFPdijSH5QrV4WJNndJ-LKhWKCYHRWVGkpTuZ4yZiUD6dIQKpGCz3koZa3Fx0GDezr-bvLIUxfMErVOoRh9hGkHaCs8PXx1Z_MoliZvZgfqK6By1l0jNMhPS_K451lTYu9A_bKHyy_nCTQP0jASJThpamYrjsNIYwSwpCVEE5_pTFZb6FtVeWs7EHKofYRmk_luoddFTcB1PVQRjuhCPBu-PSDW6thJ0WCoA5DSmVJOS12zizvHYiEb1XcoKSpJBsDwBl5sWwOXM9YOH8GenTJ1xBm5Mr5sl6mbuKa28w2aG59xW7vRRtxKmChmn7-ri-AUOK4Ee9u30gG4eNgZ-qRDwOkMGb2renwVLrrO0yy7dBrwG3h4anlehY32jwjl_zBwyWG1tEwxnIyT8AnSY2DKGb3ErxlqKvMvwFDfsJyxiVu3jsQcGuIatG7cSOR3MdBzdmQzV1QvDtedkpGXogXutOphowoBlYbQATpCorB7z1g5ljnPIBZdK0Wtfh4jzYNHLR8_hqHE0cmspECuS8GA9jZdSFZtLh2FFTiVyrNulQRWkJd9qqXwwDjfMMATwzMbUZTJdAWgvFuFW5APAmwBM7wJx0GRuhTC0Glgdsu8HmfQlOREsLA2X9zqyAu0BmGTPsZnXUjnbXvfYfSa-QbKp3wFbEeQzR5zSHXvQ0U4orQkmaiMReqa5eoin8jPbnrFzettROFF7FWBv-E-itx76R8qf6sX594TWeC5pH9SSGa8cPMZWhE0nX35ujIQY3531ptKiJHOcuSOCylMBdsSh-n2qiq-MHbKe9Uea2GhMf1gxH7m5S2ewc9Qvpm5EdiYlHSZV6sjXyOLbqBRnEws1Fn_2-6XPPgRm62IpKyMF4tmeWbSxFquC9hlHASjCgm13QYEEN5V3LFurER42v3DUrqkkAHOkyIWrRr_yYYZ4ose-cr0ggSPL0OBypP72qv9b0L5AIcmjEHGByRnnAAqedVBbI-DHWM-dzPZ6Y8eQJv8K3TjO2kwthZW4TFv0DadRZszBplQcXGnjXnOGXVuRio6p_pnp8MoWbAjPpN-wcK_1s5-iTigEyxYopWgLp5XQDqGIRom273ivu5k5OOy9Nyv4GyXI0z5i8SLEzG4xv4DWxP7ezSGExz7X_Js2XZIfw_wWc8hRY4NSlJa7nPSSyM6LdiWVfsSQXaswBwmEljZaO3zeCMH7Yfjrn1BPgf6GpFv6LC9STdKCxZF6NuOaWB10cc4eifakP9SnLYDw-4DhAb6cUZj5BNoyn-S4rWaBiUfn4Dk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09723c8dddd38a1e016abfcbeec7e087d1a654b0403ba3d875",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 488,
+   "completion_tokens": 87,
+   "total_tokens": 575,
+   "cost": 0.00923,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00923,
+    "upstream_inference_prompt_cost": 0.00488,
+    "upstream_inference_completions_cost": 0.00435
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 78,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

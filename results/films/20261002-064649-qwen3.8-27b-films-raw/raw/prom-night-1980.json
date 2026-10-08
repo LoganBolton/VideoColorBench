@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790923654-ryOleWPPF2TU5iL9Hxbd",
+  "object": "chat.completion",
+  "created": 1790923654,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Darkbloom",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the color progression, the left side is dominated by warm tans and browns (bright daylight desert scenes), transitioning through a pale cream band and rust/orange sunset tones, then settling into deep blues and near\u2011blacks toward the right (dark interior/cave scenes). That warm\u2011desert\u2011to\u2011dark\u2011cave arc matches the low\u2011budget desert/cave horror film.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a movie from a color-stripe representation. Let me look carefully at the image. It's a wide, short strip of vertical stripes. The colors are mostly muted: browns, grays, blues, darks, with some reddish/brown streaks in the middle-right area.\n\nLet me think about the color palette and what each movie might look like.\n\nThe stripes show: left side has warm browns/tans mixed with dark blues and grays, a lighter cream stripe in the middle-left, then more grays/browns, a dark gap, then right side has dark blues, some reddish-brown (rust) stripes, dark blacks, and ending with a tan/cream stripe.\n\nHmm. This is hard. Let me consider each option's typical color grading.\n\n- Prom Night (1980): slasher, mix of colors.\n- Manos: The Hands of Fate (1966): low budget, lots of dark desert/cave, brown and dark tones, maybe a lot of tan/brown and black.\n- Villains (2019): vampire horror, dark blues/purples.\n- Nosferatu the Vampyre (1979): dark, gothic, lots of dark blue/black, some warm candlelight.\n- 1408 (2007): hotel, cool blues, dark.\n- Sleepaway Camp (1983): slasher, camp, greens/blues?\n- Stonehearst Asylum (2014): period, muted browns, blues.\n- Sophie's Choice (1982): period drama, warm browns, dark.\n- Black Christmas (1974): interior, some snow/white.\n- An American Werewolf in Paris (1997): Paris, blues, some warm.\n\nThe image has a notable rust/reddish-brown cluster in the middle-right, and overall dark blue and brown mix. The presence of a light cream stripe near left-middle and right-end suggests some bright scenes.\n\nThis is too uncertain. Let me think about typical \"movie by color stripes\" datasets. There's a known GitHub project \"Movie color palettes\" or \"every movie as a color strip\"? Actually there's a known visualization where each second is a vertical line of average color. Some people did this for movies.\n\nGiven the muted brown/blue palette with a dark middle and rust accents, maybe Manos? Manos is famous for being very poorly lit, lots of brown desert and dark cave. But would it have light cream stripes? Possibly the opening.\n\nHmm, the left portion has alternating brown and dark blue vertical stripes fairly regularly, which might correspond to a scene with warm and cool alternating? Hard.\n\nLet's consider the overall length: the strip is wide but we don't know seconds per stripe. The number of stripes maybe ~100-200.\n\nI'll guess based on palette: Nosferatu the Vampyre is dark with some warm candlelight and gray-blue. The rust could be the vampire's clothing or blood? Actually Nosferatu 1979 has lots of dark interior with blue shadows.\n\nThe middle has a strong dark blue block then rust reds. Could be a scene.\n\nHonestly, I'll make a decision: The palette is dominated by desaturated browns and dark blues with a few warm rust and cream highlights. This matches a period horror/drama. Stonehearst Asylum (2014) is a period piece with muted tones. Sophie's Choice also period.\n\nBut the dark blue blocks and near-black suggest horror night scenes.\n\nLet me think about Manos again: it's set in a desert, daytime exteriors would be tan/brown bright, and interior dark. The left bright cream and tan stripes could be desert daylight. The right dark could be cave. Manos has a lot of brown/tan. But there's blue in there too.\n\nGiven uncertainty, I'll go with Manos: The Hands of Fate (B) because the strong brown/tan and dark cave mix is characteristic, and it's a notorious low-budget film with brown desert + dark interior.\n\nWait, but the image's left side shows brown AND blue alternating which doesn't fit pure desert.\n\nLet's look at Black Christmas 1974: interior house with some snow, would have whites and cool tones. There's a cream stripe. Hmm.\n\nI think I'm overanalyzing a low-res strip. Let me consider the source: This looks like it might be from a \"guess the movie from color\" puzzle where the answer is known. Possibly the answer is Manos because it's the most \"brown and dark\" and visually distinct.\n\nActually, the strip has a fairly even distribution of brown on left and dark blue/black on right with rust in middle. A film that starts with warm outdoor/interior and ends in dark could be many.\n\nI'll commit to B, Manos: The Hands of Fate, as my best guess, given the heavy brown/tan and dark palette typical of that desert/cave film.\n\nHold on, let's reconsider Nosferatu the Vampyre: dark gothic castle (blue-black), some warm interior (rust/candle), and pale exteriors (cream). That matches: left warm browns = some scenes, middle cream = pale, right dark blue = castle night, rust = interior fire. Plausible.\n\nBoth B and D plausible. The rust red cluster is fairly prominent which might be a fire or blood scene.\n\nI'll go with D? Hmm.\n\nLet's think about typical average-color strips I've seen online. There's a Twitter account that posts these. I recall some examples: Nosferatu tends to be very dark with blue. Manos tends to be brownish.\n\nThe left half of this image is notably brownish/tan with blue, not super dark. Manos has bright daylight desert which would be tan/bright. So left = desert day, right = night/cave dark. That narrative fits Manos (desert trip then dark cave). Yes!\n\nManos plot: travel to desert, then cave dark. So early = bright tan/brown desert, later = dark cave blue-black. That matches left lighter brown \u2192 right dark! And the rust middle could be sunset desert.\n\nYes I'll commit B.\n\nFinal answer B.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a movie from a color-stripe representation. Let me look carefully at the image. It's a wide, short strip of vertical stripes. The colors are mostly muted: browns, grays, blues, darks, with some reddish/brown streaks in the middle-right area.\n\nLet me think about the color palette and what each movie might look like.\n\nThe stripes show: left side has warm browns/tans mixed with dark blues and grays, a lighter cream stripe in the middle-left, then more grays/browns, a dark gap, then right side has dark blues, some reddish-brown (rust) stripes, dark blacks, and ending with a tan/cream stripe.\n\nHmm. This is hard. Let me consider each option's typical color grading.\n\n- Prom Night (1980): slasher, mix of colors.\n- Manos: The Hands of Fate (1966): low budget, lots of dark desert/cave, brown and dark tones, maybe a lot of tan/brown and black.\n- Villains (2019): vampire horror, dark blues/purples.\n- Nosferatu the Vampyre (1979): dark, gothic, lots of dark blue/black, some warm candlelight.\n- 1408 (2007): hotel, cool blues, dark.\n- Sleepaway Camp (1983): slasher, camp, greens/blues?\n- Stonehearst Asylum (2014): period, muted browns, blues.\n- Sophie's Choice (1982): period drama, warm browns, dark.\n- Black Christmas (1974): interior, some snow/white.\n- An American Werewolf in Paris (1997): Paris, blues, some warm.\n\nThe image has a notable rust/reddish-brown cluster in the middle-right, and overall dark blue and brown mix. The presence of a light cream stripe near left-middle and right-end suggests some bright scenes.\n\nThis is too uncertain. Let me think about typical \"movie by color stripes\" datasets. There's a known GitHub project \"Movie color palettes\" or \"every movie as a color strip\"? Actually there's a known visualization where each second is a vertical line of average color. Some people did this for movies.\n\nGiven the muted brown/blue palette with a dark middle and rust accents, maybe Manos? Manos is famous for being very poorly lit, lots of brown desert and dark cave. But would it have light cream stripes? Possibly the opening.\n\nHmm, the left portion has alternating brown and dark blue vertical stripes fairly regularly, which might correspond to a scene with warm and cool alternating? Hard.\n\nLet's consider the overall length: the strip is wide but we don't know seconds per stripe. The number of stripes maybe ~100-200.\n\nI'll guess based on palette: Nosferatu the Vampyre is dark with some warm candlelight and gray-blue. The rust could be the vampire's clothing or blood? Actually Nosferatu 1979 has lots of dark interior with blue shadows.\n\nThe middle has a strong dark blue block then rust reds. Could be a scene.\n\nHonestly, I'll make a decision: The palette is dominated by desaturated browns and dark blues with a few warm rust and cream highlights. This matches a period horror/drama. Stonehearst Asylum (2014) is a period piece with muted tones. Sophie's Choice also period.\n\nBut the dark blue blocks and near-black suggest horror night scenes.\n\nLet me think about Manos again: it's set in a desert, daytime exteriors would be tan/brown bright, and interior dark. The left bright cream and tan stripes could be desert daylight. The right dark could be cave. Manos has a lot of brown/tan. But there's blue in there too.\n\nGiven uncertainty, I'll go with Manos: The Hands of Fate (B) because the strong brown/tan and dark cave mix is characteristic, and it's a notorious low-budget film with brown desert + dark interior.\n\nWait, but the image's left side shows brown AND blue alternating which doesn't fit pure desert.\n\nLet's look at Black Christmas 1974: interior house with some snow, would have whites and cool tones. There's a cream stripe. Hmm.\n\nI think I'm overanalyzing a low-res strip. Let me consider the source: This looks like it might be from a \"guess the movie from color\" puzzle where the answer is known. Possibly the answer is Manos because it's the most \"brown and dark\" and visually distinct.\n\nActually, the strip has a fairly even distribution of brown on left and dark blue/black on right with rust in middle. A film that starts with warm outdoor/interior and ends in dark could be many.\n\nI'll commit to B, Manos: The Hands of Fate, as my best guess, given the heavy brown/tan and dark palette typical of that desert/cave film.\n\nHold on, let's reconsider Nosferatu the Vampyre: dark gothic castle (blue-black), some warm interior (rust/candle), and pale exteriors (cream). That matches: left warm browns = some scenes, middle cream = pale, right dark blue = castle night, rust = interior fire. Plausible.\n\nBoth B and D plausible. The rust red cluster is fairly prominent which might be a fire or blood scene.\n\nI'll go with D? Hmm.\n\nLet's think about typical average-color strips I've seen online. There's a Twitter account that posts these. I recall some examples: Nosferatu tends to be very dark with blue. Manos tends to be brownish.\n\nThe left half of this image is notably brownish/tan with blue, not super dark. Manos has bright daylight desert which would be tan/bright. So left = desert day, right = night/cave dark. That narrative fits Manos (desert trip then dark cave). Yes!\n\nManos plot: travel to desert, then cave dark. So early = bright tan/brown desert, later = dark cave blue-black. That matches left lighter brown \u2192 right dark! And the rust middle could be sunset desert.\n\nYes I'll commit B.\n\nFinal answer B.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 396,
+   "completion_tokens": 1435,
+   "total_tokens": 1831,
+   "cost": 0.0031768,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0031768,
+    "upstream_inference_prompt_cost": 1.98e-05,
+    "upstream_inference_completions_cost": 0.003157
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1347,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

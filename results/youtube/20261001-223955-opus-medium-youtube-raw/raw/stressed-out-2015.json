@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894446-gGOZsbaXIxbPcX5Qoxrn",
+  "object": "chat.completion",
+  "created": 1790894446,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confident identification. The strip is almost entirely muted, desaturated grey with some brownish and sepia tones. There is one notable dark-red stripe and a near-black ending. That washed-out grey look fits the desaturated style of Linkin Park's \"Numb\" video better than the brighter or more colourful videos in the list. Alan Walker's \"Faded\" is the closest alternative, since it is also grey, but it tends more toward cool blue-grey.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm comparing the muted, desaturated color palettes of these music videos \u2014 Numb's greyish cityscape with sepia tones against Faded's blue-grey with orange accents, both sharing that barcode's grey-brown-red quality.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the muted, desaturated color palettes of these music videos \u2014 Numb's greyish cityscape with sepia tones against Faded's blue-grey with orange accents, both sharing that barcode's grey-brown-red quality.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStQkKEAgSGAI4AUIIdGhpbmtpbmcSDFdXKeMF+O2Mg2KasRoM/ptEUWRL5dMzlSyOIjCIT1t6RYiEYH5fBBU0ltYttvkzkAN0Hdch0XqzgHu1DNu17LQ2U46igwtsk9om5SEq0gi2iwNdWuR7vDWxU6IV9+viTuOdnRPQMa33j+6j4/KhPy5+Tj368B+FPztBdZX/hCBq8IIQnyPHb5d2vSyyiAdkiIuZCE7EtE3+8mpbmK/mehMmXfw1RcHiKAbrEcY+Nbq/4Yjvb5lay2hgQwuIuYAooQj0zCR4YKxatnKrfvg6dPmq1GxgZoldlmAiI7dpkrDm9vZkBT3pP92i1rLdn51DMsf/HWJ/B6rfcTCzWQh0yxENgNB580Ar5nkt/+bGbBb0z6me10z2twFYTwzYQ0uF3vIeeDs+oC7lEb83shHWfF1KnU58DivRUrhd27RCHiUsTDGUDP8xhmnYQ8wciiiEDqVa0GZs8JRVenNbeGi/RxDPkNRWxeoVhbYhPculICbdu114tjWIAfeuSt6RRqHVpRK7wvr20nix5cKy9Hf1w5Wx1YpYxRnFZGEZD5clXges40MZgyxgJ/oBM4bZIYF8u2/LW1QKSUdV9ThMeqWqTXgSjMX7Q//6x5teMpGuZpdCGfGbLIdsd03adnaHvFN35UFLs3Plg2WyYYGQxAdv3cVud1zdlzjLFeR6aaY3DMxQl0eF7Iy/zzSu7vbPxxitEM6hCNS6qBsi6hx6RgCeJv+EqKnee7qm15+X+O6jjsK3CATqOKYrKYlc+SBduQDunsk/IbjUTOrbI4skBl7PAHYX8TPMChosss6JJPM5d+Ih75j23QBqNhBRECeErsGKavpRDqbXWQ4hk/seGmgLrIsDT6ESiEaI9R3VkDwif/6wDYrkE42hL54Thgr1UgVQgbXcZEbO8Wm+JxB5+owFpSVGzZAnxtqavMTo2i17nRaKZo1WA0L27B4M+tnfApvTryf8hP+lQLDRv8clUGW1qcAkZE+BVi2eP1IEW6UbbFiWnud9KVaw094YbEUXyuNwoGKHfDr16HwpLwroUxJlAXXdWRrAuy8K2tCsN/LTbglfeOZZzdHxCPm/iUWHLOWHt+8JgWtv8N9R25RHiJb+0rB2rIJLZjAUscJGRktqR3wrEBcQuY45b7n9ivzs6fm39w08TZ4+WspB0lul+lpMfWFbj0qUPxFCVVAhpnVdDiOlewSiOK4do4ueKsOF6RVb9rTOcZltbUP1G7u9pSLTMRewbzcF4K4Z+13E0Vgw4CyAUbmiquEpR8zVSPi5Hb2FESMnNERAAGT4QBXBm1wtJnq6/UBDKLMzzeFzge/+Cku+4CbV5JLTbfHLvqsTsbegGYGUtvNzO4BgJd+qSYknApPjsKrZF9w7EKTPp6pI1KQValsxdlTvx3yAOX1SuebMUr6Gds2/a6ck0UxuhgZvybL41P8peZQuhijpg+RPJ/xNmGeniGlFU420vVh7U+a2BhhI1DjYS/eKs2h8bAYLzCG95KRAqlKTvCIwJdeqYrosDwBrfzaP+N4nRxyj9psSpHj+ORUqMVct7dx8mxiPxCeJh+luUREKd6cfZPoof0Uu8xgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 607,
+   "completion_tokens": 393,
+   "total_tokens": 1000,
+   "cost": 0.010288,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010288,
+    "upstream_inference_prompt_cost": 0.002428,
+    "upstream_inference_completions_cost": 0.00786
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 225,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

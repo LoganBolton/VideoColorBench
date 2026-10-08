@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907185-Vbeey5Va8jk5QRkU4UrA",
+  "object": "chat.completion",
+  "created": 1790907185,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Trespass (2011)**.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxM7AdqOSnhMQlhaUFZUKKYzwaTYCM-f5JISJ0Ls1U-bexAdNJkxNxK_h4OkfbGZtMv5DH1fDGMHIlC09Qzra16VueMqxsumcPeDNDOhRAWvIHrhuPqK2fJmr7F21NxkG0yiJYX5GeK5Mw5F9Xt3IAOolCCkYxVQcwTzoownl99u07_e_JNR9g6UsqArUWxUM4SaXlhk-RbaQoHPqEe63haiBMslD3sIAo9_oXXNU58OyeKN73aw0YVWpzdC-eIEeu-S_Qd_TDaWSWYtUcGL_NC144ssBoPkx2eVLueB9ScbiEF2ooY8Qv72km1U4IQqt8J9oPOXOnwTHMNynl57nnhw46TaB3CHuL7pdh8SPnHhrRgmIeVYMm1JjqCUxjpkUonihz_4qwOgEgzY1NJlMJCTo_xmCT7U8GmRLCiBgxrWWCwqqENpzP0G8aMw25F7h9URJhrbtAmv6HvUX1-bDlZZ3tOgKjklJKyBMeoOglZIfVSQ4M4DS_nyPo8N75jUvm8fpnargwlahh2lcH3sp6SFLgZSzVJwVhdNYjioG1h1eDS7BwErsjEsfiAp1Lp1LvTKZIgIRTOvSLFKqGqCHnlABQsL-OPJqjpBc3PVhD00hV0f32sVqZXkjRhla6xaSlxRiKA9PSW1Car3_DaBUMJF02lcVUYJQjtticT7lTDWXf4dmTyy1JN5D28VsMJTX2jBpsCUvhJEs9rqg4ggZCEvHzg56VXXHVRcfxG5uIIfCtXT5lm5NVo9WP3tt5OSKnpVmizQZqBxAVpqG45UH2qnJZv6qtpavnUS0SyLY6Q17Ahg6RYYkxWA-Osw_9bMpQAkIA8mLJyefb2_SyY1SR_qD_8pAwsygNFhJoKOGP6qMLfpF5WKNjd1FafdXXIW1kOAZtGcCbz2CxtvFpytXmAv_RPo9U855b33XEwvHyZKNNGtQUQ-7UbgletCeEfiD-P2jK3XKgSvtJybhneZMeEHpqq2Yw8HnEuLH-KWnI-w2zGE1eSA4Ex9mDNvyajPyF4ZCQBX_FeRBwSFpWrjO5a2qiqvR3kjaRzLQp7uNq3DP72cBce_q9GA05z8atPmN9WpP6ZjozavLdnTcjS1q7jEkec_oR8NZRy_iTUh5FOmqoGlE-j5GJe1RHrAlrD6w-PcsXULoRabMsR_z0rde8PcIIXm4URACLFwCF3TlkW0fJSl7mtk4qmj6r-sfusu8s7IOjIPPbSL8O1W1ZFFH_rtD8d82gAiyr3E-9opXA16FnaRTbZWWiuLz73dGLvn2hyDYVngviNJ78hGP1y7qMVcTr_ogasLzfQ5Thm9NxnkMrKNyzWQNJUJgBOgmetw-auvoFmoddmxp6RppaFGl0_d5Za4YCIv1_ZVNaPUfu8Z9cSTaCJlNHl3STz8WABslUBqLMBaGxSR02RR5cx8qNHAL8LgNIkw7cUqTxDrHe5PagYgs_2nsA-lRbyxHD5VpXvqXHLBSpTF_aPSHPmbHMPUQzF7IXUNK3hCFCnle7NWRVUU5zQQ3JcoO7duErnKdvnAfKFttbWcPZgvdOdimwfYpBk5lwvWS5Zs2PMQ_yZCpDmEmss86d4t2BsoBAydCsATAkrMl9tfMGso0xYFhvv_UDoRo4Wkm54M0AX5VQTQpaoz95eCgx4gBoyenwu31tJY2X_dasCVCrm4KEmhZeKNGdGtOv7GmaQ4WboHLwuOKKqKaCFTSYCTROf_oTAsxWS8MpwY10P59bxGxBCxzzJAmXZNGvnkWNlxWtCN4Ghr-XD4gisWfctzK1EObX7dB4Hm9SByHkgbFefWmLbJoX_szFkUL6kfhNPWvL7h_BQ_dCm0VQobTCXmEMFGu_6VwEvcBSqM4-DR_NwjUKspUGWRCnP3i_kP7g8StrkDmwx7DHwZb2t2WQ8363ZzpeT14Sp3Fk9JZ3FnqW10lS8oVIsaviFnnZ_DYhhAsp2NyO2jrNPO7ZIhwJubsZ-Z6FLUzkmAN01KJ91ld0tAITKdoOo32IGcRTsBEIvG3haeCAcKrs75v9BUH3w3DXXzQKzA_QcBf3ykqPxLH9DbCvA_Z6N7I0Nqdi_gYnCeAdq1qwdzVH6FovlebVOR1Z0xOe5515savZs2npUJDjpEDaXlYS7Z8B6G5VG-418GGPGe0jRZjw5TpN5f-5yRrE3sZyzWa20BdBez1lCchCL7VWHqWGnhxjvjArvSBgiNNPM2DjRr-UtfGpELYzHf-IuVdozZUyrXcCJmpR6yLN9PYT4vYSqP1K8_4Eky2kN3jeSy9RBe4NApD9Qirh1OpKi4nIHzqEcYUh7HleAVQv7HAQKw99LaJODstOl_9VbQ4XujPl7gbCvsBQzzy3xcsxFW6XyoNSItDQJ_wnVBxZTCEAM1W3GWKGwHWBbY_yy6ys2NRYlQz4jUCV__n4IAghtsdlciEihCU_WRpKzWgk-ZElJgcpXJCsURsYdwTHHfgzwVtjs4PypaHwttXxdEQ7TySadMf1eMGIW3gan_jboa5InhEXB_XISEBT5ePv57321YAlOpO2PCdvfyr6twWFY2HymsHhlzvunFrkXtlooIr-GFI8or5bmP9Nmaj9b-0kJdck-_LQU=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ab5a1b5f386e789016abf1335e9b087d1bfd03eef9c82cfe3",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 438,
+   "completion_tokens": 209,
+   "total_tokens": 647,
+   "cost": 0.002966,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002966,
+    "upstream_inference_prompt_cost": 0.000876,
+    "upstream_inference_completions_cost": 0.00209
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 188,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894455-2rbpclf8JKn8QV7nBSrH",
+  "object": "chat.completion",
+  "created": 1790894455,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette. The strip is mostly very dark, with greenish-teal and brownish-orange stripes. That fits the dim, green-tinted prison setting and warm accent lighting of the twenty one pilots \"Heathens\" video. Darker videos like \"Numb\" or \"Believer\" are possible, but they lean more toward gray tones.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes of these videos, the dark green prison tones and orange accents in Heathens feel closest to these stripes, so that's the match I'll go with.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes of these videos, the dark green prison tones and orange accents in Heathens feel closest to these stripes, so that's the match I'll go with.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSsQgKEAgSGAI4AUIIdGhpbmtpbmcSDED/Yzv1r5+d2WXPTxoMffxL7nudZnygRbAuIjCpdyxkF7k8f9uSsWWIEhaVEep0kjj4ezrFxrn6f5zeBskJ9aQrmb9l8dIpNkT7bloqzgclcsaSEFDszA+7eXmbfPHAcLQ1ZQIeXPvzhgJAXxfr5KV4CkTJBrcbqa0u/a9ONP9APJE0XzQXpW34UnRgw888onag7XzwPeXLY6IyaAJLqQHgVtEozcTBjCMYxk1+dz55BXrdS8eXhy45w3XFyLuoacdCfqUTZigLzP5jU1SPPI20fy6eUwBwat7IRT7RfZAGO9a2xlhQpoure2ZQaD0IcZljSBsCzf+QLUN/szxOzZ7s8QUrSaZODiaTpyJ1+kUxuJWmXgCgTcL9tblIlxf+arVY92xvkr9zAia8L50ZS2hHpGCJxTfZJONmfDaPWKs1RgW2S1e7Q2cLJ871u6GeHOo53nt2xdIXTdUfVkpLvXT7Jz1dCaswQ28eoVpXn0Tbha5+EgidNmNW4C0AMhgRSr8UzWD+aRptyKvlKw6mwn+y2nC0bY8JOHCvjwnretZexaQ2axfP9w3DwT+gdl+AQEXOy/8q9nP97usbZVxEtSV0+em81cw+ux8QDSe9FbsNQE0PIGw19B7JVg+IBbqZZQdpj06HzlXuNMojLNdIsLncy88PYnIKbPZj0WldsmN2iKJ3Nw7Pqv9fn+XzhMa8DdotXgGBBpMbM+pd4Vw85oLaujLPbuGpi9aDCviCTpmQrAKWil1BjZNylNweBZ85znmwfbHLvCiSlMsaOqJ45yG+C6FFpwnbBO95gNnZqpuKJQZ81qzGYjnvZi/AvajhOzdLXUdW+8tdO3br9C0jRoqY7cp+9TllMQwq7WBjpaCsBdsBW2vEPvcZ1vjxjdqKBZF2FsQxUdnPn1t7PitgCVJEZaH8cseGBYNYHhUH7bxDGF1BzLarJ2sBCCEztEReMVRYGuZ4JF/aPNOZGbBzEwBvJ6xoABNf/r0rB7MwUv1SOLEkN0MxS7Um/owSFPYLZrYuTQEGZ4bYjVizstJYGvGkASgefcIjPl3yS8nDYzINUi8419dFDQ5m4anJNiexI5JDXKX5Cye36yQx34WilaW0OjJ+wSn5PWP/yDkGXEIoH85+/Vrsz6NYxCY5sYJ+6mktTmLZb7hOM9HxVJnFbOLvSgizozU2jWANuqLHVM8n7Ra/iqO9GEqq5YPZQ2I7tPmTwpW+U+hoUdaji2JNMxGbycNa3fuIk0W/qdf5M62fqtfW78EDqcZ7c2gVI5FnPdM8VoBeqPcjWnSeXS3VKaGhPi7RysTkDP11jlW2isXf1pjDQmJzsfDCnHWQPw76h4YkGeMdLg8MwKa3uIS4iQD72t5tpqwACGqzQXuIreijpK3QdJmXmzOWL0+5pxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 614,
+   "completion_tokens": 316,
+   "total_tokens": 930,
+   "cost": 0.008776,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008776,
+    "upstream_inference_prompt_cost": 0.002456,
+    "upstream_inference_completions_cost": 0.00632
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 193,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

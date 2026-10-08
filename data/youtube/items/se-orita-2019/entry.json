@@ -1,0 +1,21 @@
+{
+  "slug": "se-orita-2019",
+  "title": "Se\u00f1orita",
+  "artist": "Shawn Mendes & Camila Cabello",
+  "year": 2019,
+  "label": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+  "hex": "#32271E",
+  "rgb": [
+    50,
+    39,
+    30
+  ],
+  "frames_sampled": 205,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Pkh8UtuejGw",
+    "youtube_title": "Shawn Mendes, Camila Cabello - Se\u00f1orita",
+    "channel": "Shawn Mendes",
+    "via": "yt-dlp"
+  }
+}

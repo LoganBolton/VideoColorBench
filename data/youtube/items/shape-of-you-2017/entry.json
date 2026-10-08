@@ -1,0 +1,21 @@
+{
+  "slug": "shape-of-you-2017",
+  "title": "Shape of You",
+  "artist": "Ed Sheeran",
+  "year": 2017,
+  "label": "Ed Sheeran - Shape of You (2017)",
+  "hex": "#202522",
+  "rgb": [
+    32,
+    37,
+    34
+  ],
+  "frames_sampled": 263,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "JGwWNGJdvx8",
+    "youtube_title": "Ed Sheeran - Shape of You (Official Music Video)",
+    "channel": "Ed Sheeran",
+    "via": "yt-dlp"
+  }
+}

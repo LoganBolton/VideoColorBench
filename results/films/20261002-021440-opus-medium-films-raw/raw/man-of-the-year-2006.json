@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907326-KekwxBwPQ0iInDv4LR3r",
+  "object": "chat.completion",
+  "created": 1790907326,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Paris, Je T'aime (2006)**, though the evidence is impressionistic rather than conclusive.\n\n- **Block structure:** The barcode breaks into fairly distinct blocks of differing palettes, such as teal-tinged sections, warm brown stretches, a pinkish-tan block and a greenish block. This fits an anthology film made of many short segments by different directors, each with its own look.\n- **Overall tone:** The colours are mostly dark, muted and earthy, which suits the varied urban night and interior settings of the Paris vignettes.\n- **Alternatives that fit less well:** *The Little Hours* would likely show more bright, sunny countryside greens. *Leaves of Grass* would probably lean more consistently green and outdoorsy. Most of the comedies listed would tend toward brighter, more uniform palettes.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm considering which film matches this dark, earthy barcode with browns and teal \u2014 weighing The Little Hours' candlelit medieval tones against Leaves of Grass' greenish Oklahoma palette, and noticing Paris Je T'aime could fit since its 18 anthology segments would create distinct color blocks like the teal, brown, pink, and green bands I'm seeing here.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering which film matches this dark, earthy barcode with browns and teal \u2014 weighing The Little Hours' candlelit medieval tones against Leaves of Grass' greenish Oklahoma palette, and noticing Paris Je T'aime could fit since its 18 anthology segments would create distinct color blocks like the teal, brown, pink, and green bands I'm seeing here.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2QkKEAgSGAI4AUIIdGhpbmtpbmcSDEKI7f/BAaxSXDtR1hoMuKWfTAvEPMNrNIOHIjCUG8Qyrf5czC5RWxNH+CCStYmwyfOVl+aOVTgksP6jACpDtbN0pFG83/FGjikWpW8q9gim/zj2e7Lz/XeoF/E5MPP6M6EHmHgwAzxi5lz1ierGMp9LLYWAtn8bP9MwgPkWKYOkHWyrWCOkvwLBKrzQQVu9iPdOacbmfUeJQfoqaL+q7oEbtObSd+4f7PmimndwHsc9Yy/PsQV05d8hpxIcks+JoG/S8vqoaEQQGMpJRtjX3Y992zsmJFeVRayIAeQ6HDwQk3webuhEeayHigy2bhBsCrtGBQzzVvX1nDVOgYoXUMkGcznoyRSXx+Ft10Y6+jqjVkkE3L45Adw9C4RNz7NN5KjluHxjmJcgm1O2w9HNsikNmmGGdOylgKDg3EeZYsoIdh5i5iyGUuVdcoD3sKZ6pbb6pIUWEBc3vy+ccctVlLgky3hvsIRbLm53VUc7dXvZ/UP9CAJG1+T+JkJjONYKCMXREqMh29n2YZOz4yfX7JzrsF7/EpI68SUAdbPERkjSoAVzNYhLbcgLvkXgSyaU1pcWEJSVf1xnrotvXj2jVX0+0r3PhKy5WY7OPOx7zsV9WfSQsuWdQV7nuYOgeZaVZ4iBrhLPh2PJanp55WFedXJxIV6W9ggETbioYCBor+yeKDfP46NwQ5RxClt+DvTl5Jzd1cQQj4m8yTc9LdtQSLQ1ZXExIyTZnF8wX7xGlwHT4NCWgWUP9KEbzPfG5RFmlS4cy/bM+Sddcb9T49Qw4OG1JBy0l2wnK4DkVejIv0P+d6pN8Ev71Pfnp7wRo+DPTR+c071VlMA7I36epOpz8wG14s+VFozpNqIvzRJ4zF4VaY7zMaNt8IFGPNwiMCIKsTQo+GMZhlsYZs8S3zIey9TkgVXXFaAtfHrbyt6lHDkWJSU/HtIJnDaMzJsBN30pJ4KKThg/G6I+gf3BKC+D6+M0YdcencnQoKe2YvihMImYxtKG+ksXy4IpqjnaAx8u9rDO1PJbgva5cwSXBMj6xqfiNCUAd4QCFypTx+SyEm0aoX311+cGwn7J+FJiMVi1VGF9ik9HFJ+FlAyz7yPU4P5GljJrnG04QUdI1nTqr+K8NsvfSyMVk4yK6J5Xu7TcJCkmIsXglTOeJJ5uOmxeE3TwZbQXrcllomoBLMRMk6Q7o95NptBktkAyWecnMV4+x7FoPbKaBxQfnaz8l3c8nzn+VUuOxp8oMXqjiJwU5lP8mYirgdZRUwFNcyG1oBruy41c2jopEfc7QSS3UmXN5OicTrzuQDe1izefhsKyfnTkn0VaArl2An38TVcEEmLPces1x23d0Aq1PuUsv/mot5NDkQDwH/19L1Gr18Gd9CO0gLT+Y1HcVTikO8BOxiOHZYjlGUA9Nx5Ez+hIWvonBgnxRsb4wPdumBdeXTGEq1joAqvMs318OXNyaB+I2DZ5P3H6kiuKI1tkCJxiDJqrT//c2UOG/oksO8YFyyHJOBJZ+H7oJSpSGNtL+NwaZd+ktFlUPn/47FUOVz0emDLRyA59VCR+5GxYAk8XcO3sKlwOOkIyKQnEzj4khMnE+8qLEHhKOIWpbVdQLhRAwcT520THsyRluhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 532,
+   "completion_tokens": 537,
+   "total_tokens": 1069,
+   "cost": 0.012868,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012868,
+    "upstream_inference_prompt_cost": 0.002128,
+    "upstream_inference_completions_cost": 0.01074
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 250,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

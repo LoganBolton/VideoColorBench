@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907102-eoB9XmDn8Pycowf8dxAM",
+  "object": "chat.completion",
+  "created": 1790907102,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *House on Haunted Hill* (1959).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Planning video transitions**\n\nI'm thinking about starting with 30 seconds of creepy head shots in the dark, then shifting to bright house shots as people arrive. From .13 to .20, I want to keep it darker in the basement, then move to bright dinner scenes from .2 to .6. At .6 to .85, I'll ramp up the darkness for ghostly terror and reach a climax before ending with a mix of medium and dark tones for the credits. Sounds strong!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Planning video transitions**\n\nI'm thinking about starting with 30 seconds of creepy head shots in the dark, then shifting to bright house shots as people arrive. From .13 to .20, I want to keep it darker in the basement, then move to bright dinner scenes from .2 to .6. At .6 to .85, I'll ramp up the darkness for ghostly terror and reach a climax before ending with a mix of medium and dark tones for the credits. Sounds strong!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLwsyzFkKHYnthtviPNiQkTygIXn5PlDItah3xb5J_N4G2fToMMT5B9GgcmrXsiaH1RdYa0_m8arGj5e9fSnJ6T9XaG5O0iiV07FeTnDTTGB5k_Yk5yUeQBFOunamTXIn-GQ5bqvwqfl3WgsNOFbEh2UQ9wodT0VcUJFGmslVCrqxZ2WBGK-6_AWzvgevcCuN4AqQcTVaYhYPdgaXll8bN5h79NXy_TIiW4zhX12MduZh_bPkH1OHABVo8sbE2tcLTjn7ul958pAnw1RmwlbtB8Zh-BD-Xytxi3TVL32qPs5Rsn22B4wsB3VbnYt-0JZCFIpYe_P3sjmGE7gFPw1BgG4ab2-rVXsP53SY8_1tRPdZdujv4KvLNt3xk1Dznlx6dkMr9KbhOJI1eyv5KtALdZ09m_aBoxEHrwt_wBnl7RAhruG9mzgJmlg8s8PLlWVog1m3e2TaUmnCMFWDOdtWwop9UaKOwWFSttodMiu46Nhyw7VK0faZc6Hg7Sx_WTWqV5CX6BvnEK-ptz6UllNlBv_jsRzed581vdmIDwi2kKQKX0VLr4sefFS18aUhHC3BZsGUI-Ix9QJ6JEq-eVo3L7u3rsBxdNVrEOCNA77EVNCh4i2Gf6UsflM_UCBtnV0QYbBcANSTcO7qXvLbmUSEDc2kUrpt1APTajU3vnEklnV0DlrZHmpaqw2u932U9B-SciVPw4Q38YUm0S9G0vYs8fXyG9G56WNFY70e32c6E7jOXSzQe_PDTlfTaGCJ-OENqOgbKc7KgQAGGLyPv80tFtj7Jh7K-3dYMqfu3yedaKzGrofsVtYH4rX2sXXDiBgi79UW2vXY-MCw6dSnKBLX4ONuUOk7sAChhzN5oZqA2eccq599YXibw8BqyT4GH_SutUV95dD0YtAcnquI8GaHLLv60dZuA92UB-8LZbfJu5Yjzh8H4UT68pbKr4CMXFVDbgEELsXcg_awhFu_mbduFjsR76B0KYgOy6gMs-5vWHiUc6VEnMHgWXtGCx5x1bUAYDyIWtbhLSIrsLrYEqvnkgd9IrisMLL14NgoO6aNLZZGs6VIKOdmEixEN8fRMv66H_ThtBXyIgzeNVEiWcQnnJ2MZ1RJ4urL3fmTncv4z42UoKANU1jphnW75nzBzlS7wu63gAQx3CsVnA4fg2dyew6DkCOKc7rjmVO3jauAu3Sw1ioy8FrD9mqrZDZ1Ybac2jIBsf_TGv7jLV3bo0Yo003OxZ-m_QiA_PX33DU0ZjS5fo8kd-ZaW_UMWCVkUK8thAaH7GHTB_dLqrv1497F1KHYJE5uNhrlQapo2pbzIVTLDHMmursAJh-nveFZksGDze6J9mzxT2HhGhwi3hnhSrPnwQR9aAZrKt3wcZco__x_rXL2xM82nsqSbcnCw8o1xhE9MFib5d2q5b34aeUccTefC478bd-s3Fu-R3V9iXI1RdW-hQNPabkRgK9RRPlOm0XEuC554dNM1lVqRjdQGSeKt0zfFz2O4xyKrwX75cUvRNNf-87vASI2eHiEpmi1ihDU5PoUg54XMCHaU7HSKwUvMnwVu26R_TFyVQobFATznQMDoRWQhxTEt83kccpGR-pF8bmb6RAiFjW2dkFTqdxC9s5x7UZePrl3rl7zp0GhEjX6-GO3N2nBpRzSdZNzrZvFVUDehabMSr_yODiHS_PUncq0S9MVpFp5hwKX-WbDSlK8E89teVLgI7HV-T4W1vzIT2sFdxSHZMyLS6ISbdVkMsx_V21l9v82rsYR7ycosglXjiIMxxq-IKEVNBGYk1WL2-ULTbciTEgYAHPzGUtYwUm2hOHkTjsptPvEmZfatXMzWzLzbqN27U-EW5N4Z1MQnFeYsQurg-4fkKnnRIn1bSKmwKUvc_4Qyy8rBA1dhrcPgo8ZbPz4GkeGBVwteyun1XcvyQa-EAU4pwSMkzxC6r8XZikh07zRoCG8GIz1hlXGZ2vxRpaEcRG82cZL4LnH2dE3thGv8JwYIEjlkHRxcQyImOQhsFtAlYxG38r0rr0kma1ztXMRImA8Xtpm9tRrZVFQD_wV-XAmqYoF0Pf5NQrQ06DC0Z8yIsLbAeWGixeTkRRJknJhYyjSTdTqY7sMcrV9BGOGLKEvwZtzSm9Qx93VYhQW8_CCqRCNepa1Y4ww8LcjtWf-OhhIpHOHWM4HrlP6VUR7GUV1fPePa2BEClutaT17eFAHvrUBhqPMbfclE8kVfrMMat2NXOAeM-Au7yxdzCNZPNkaT8-hN7clwDwUtZbkYidYrTUfuZOjZD0uYUWGx8ow-9AJx_I2q2uOmruyx4IcjHosd38PSIvYdmHHg-i7b68wSET-cT5LsiIDsiRuuh6OfLdPcRM7jmyIXlPyiyGnsZXjELRPL8n_BTElyLpJaZBE-jIpifqJBGUZQiHsEYNQH82ZsHCqjrvotzCZeS_7I-gKZPTIxYOEq4bAbkd1Bb1IpY565tdYF8FcQLqt7NwTtkeF3EMddmokHd8wAeirqJ6ldoh2-Qc4RvVnx4hZouRogPPxeMEeyMrebHNqXBZyjahGX1tTdACDuKumwo2DIp4G9fsw4CQKqmHA_aZ91uRh_RtoiKLOJ8uV6d0xCiP6h6_3Ut_Nz5W2Rh_AyDjLb1_yPQTgvusikugQs36Udd-fdiQLAGEsbQnLpgxBaSeznEOtVFI36_muILJju5vCGNplxbgXAVxGBqidSExURWeLRiYniuuuD0LfGmhiPCIwbuLyzumi4QSqUAvV6awM-jWtOx6Uy6XhNYEFYSvHkVxnW5CMgOIgV17PN0VNaziDOgVCuBQVoYnGq_LQdBh5jNp8Giwd5g5S6_mOGBzDHAarEY1-bzVDQ6I2vGR66d9l2QFamD2shjA1IrYrvZZ2QW4DS1N33DDwZlTFsLi20K0wrUOjC-i2fG_rFakBZ6GeJycsl5riLtvtkHTlco5d8cI7yh_NV2fyHTJvv50CkrgRGQwzIUCeK1XKx0zNVls1WoQQWkZ0vVmMa6xOiOOA5OSu_OTXqWmSR6q9K2vYaiRZCBT5Vuj0O7FzS_J47qt8g1l7U1ynwoBAjog1cDIiC0bhJ8HGSAodqrEHxUCRUhyEDVWQbnok8rNT1qVut_rV6J-ZboVrGHTf4kXNYZ1QTWIgi1RVr3cIhrrMWGrYYSkNq1BqNTzvB51MF1VA_jY9-SDePHSeaemhZ5EaxUA4O1NXfJOEwDoxrWfKPkkajelG7CdS5A-evjf42tLqVWZoIh0c80hicMhbg5JMO_dxJqDmP5LpaNDBqe35gzSZSQXxvEMHfr80tqgpx2y-kxAx0-uYFXxeFp-Inx9MIwH3I2waR4hX5sY6kJEoMt1NK3CllcwzxyZnjWC6NTkoB9vPh7-ufMkRcTvjIsNMhBt6XKlPx0IMYU7hcn_mAGQf30ueHAXymZqoBdkSmaVYg-puLpBlP365_UqH7yJmHEnSVWjBuXahi_BcgS-ogfMT9Ahe0jBl_eNMB08d39gpvRsZt3Jn_4xfMdDR5Va_tbNOVi0Qu6iv5oz11e8NiVUCZ-KZP0tGJ0Um2pzWUJwQ3jSATzORUzaWGEvNDjlGYtWG6c7glnkyjRCccDg02tx_czz-uq6mZJkDD5gBf5KelkJcEuBOKxm1CxxZ9zeqiDW3dZIDaLdWPZw_lbFvB5BCOpax-MIqS76Uyf_DBC_bs5bc8icjpQmU4F492G2cSexn0caGK756tsEZ-EQHfdYCKh26IRUn1qfhmFyauM51mdQcjuhuHl5fuoSQ6lLg2hALwfSud6GS0FSShmMVdiAzkBGx8ycAaZlymxECldQ861UGyYk6qGyAfaGWMKfP8Ci_Kl4ILjEouoUfBa9IJd7AnlLYjSeMlPlunGfiEXdPmu7inRosUT_FR6UOMYFSqqW3YJhizGgd63G3V0x-Ri943Ks4shL1H8Pf4=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09450e06d3f91f3f016abf12e37fac87d188ddd3b494979be5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 465,
+   "total_tokens": 907,
+   "cost": 0.005534,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005534,
+    "upstream_inference_prompt_cost": 0.000884,
+    "upstream_inference_completions_cost": 0.00465
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 442,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

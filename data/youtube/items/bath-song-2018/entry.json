@@ -1,0 +1,21 @@
+{
+  "slug": "bath-song-2018",
+  "title": "Bath Song",
+  "artist": "CoComelon",
+  "year": 2018,
+  "label": "CoComelon - Bath Song (2018)",
+  "hex": "#C1B8B4",
+  "rgb": [
+    193,
+    184,
+    180
+  ],
+  "frames_sampled": 172,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "WRVsOCh907o",
+    "youtube_title": "Bath Song | @CoComelon Nursery Rhymes & Kids Songs",
+    "channel": "Cocomelon - Nursery Rhymes",
+    "via": "yt-dlp"
+  }
+}

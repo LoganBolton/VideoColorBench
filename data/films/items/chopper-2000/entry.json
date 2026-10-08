@@ -1,0 +1,21 @@
+{
+  "slug": "chopper-2000",
+  "title": "Chopper",
+  "artist": null,
+  "year": 2000,
+  "label": "Chopper (2000)",
+  "hex": "#323A38",
+  "rgb": [
+    50,
+    58,
+    56
+  ],
+  "frames_sampled": 5628,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "DGN5RYZPfkI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

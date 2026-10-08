@@ -1,0 +1,13 @@
+[
+  {
+    "model": "qwen/qwen3.5-397b-a17b",
+    "n": 100,
+    "correct": 23,
+    "accuracy": 0.23,
+    "errors": 0,
+    "unparsed": 1,
+    "leaks": 0,
+    "downloads": 0,
+    "cost_usd": 1.8509
+  }
+]

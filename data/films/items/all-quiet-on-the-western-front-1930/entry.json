@@ -1,0 +1,19 @@
+{
+  "slug": "all-quiet-on-the-western-front-1930",
+  "title": "All Quiet on the Western Front",
+  "artist": null,
+  "year": 1930,
+  "label": "All Quiet on the Western Front (1930)",
+  "hex": "#202020",
+  "rgb": [
+    32,
+    32,
+    32
+  ],
+  "frames_sampled": 8005,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "All.Quiet.on.the.Western.Front.1930_201605",
+    "url": "https://archive.org/download/All.Quiet.on.the.Western.Front.1930_201605/All.Quiet.on.the.Western.Front.1930.mp4"
+  }
+}

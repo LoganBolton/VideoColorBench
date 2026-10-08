@@ -1,0 +1,21 @@
+{
+  "slug": "taki-taki-2018",
+  "title": "Taki Taki",
+  "artist": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B",
+  "year": 2018,
+  "label": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+  "hex": "#1F1B22",
+  "rgb": [
+    31,
+    27,
+    34
+  ],
+  "frames_sampled": 232,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ixkoVwKQaJg",
+    "youtube_title": "DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video)",
+    "channel": "DJ Snake",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894259-SBz0POuHF14lbzTk6xhb",
+  "object": "chat.completion",
+  "created": 1790894259,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is the consistently warm, brown-and-gold palette of T-Series\u2019 \u201cShree Hanuman Chalisa.\u201d\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Comparing colors and tones**\n\nI'm thinking about choosing between a brown theme for a Hanuman religious video and a cartoon-style recipe house that has more greens. Hanuman\u2019s colors lean towards warm orange and brown tones, giving a consistent earthy feel. The classic Hanuman Chalisa video also uses earthy ochre hues, which might work well. I want to make sure the image feels uniform, with an amber-gold base and just a few bright stripes for contrast.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Comparing colors and tones**\n\nI'm thinking about choosing between a brown theme for a Hanuman religious video and a cartoon-style recipe house that has more greens. Hanuman\u2019s colors lean towards warm orange and brown tones, giving a consistent earthy feel. The classic Hanuman Chalisa video also uses earthy ochre hues, which might work well. I want to make sure the image feels uniform, with an amber-gold base and just a few bright stripes for contrast.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC3I1SMj0hOqcy3vfrN7kD6W9a8TpYY5ng5SRbLcYDY0_qQoQ9ktOJKDdNPuQQr--v12oFI-i0W_DFwjsiA9FknVHExbiTGTa2yPaEQNLcGncsPuR0PPIu1G_bblAmrL_Tz2mQ22YDXPvMy74ylRgamtu8I6dWHs9foNbe0Z8nq5uLT-Y6NxKlJDWR2MxSJrKw88iB-aT8yXBXvlxhPahR0ERRk-hOBil-Nob3ME693ytkgwlnyqja95MYTOjDtRP5mhQmSXEqgg_LSkzrFxbstXD9byUjAlGeSngM62-6rET3dwewFpKbrViSEPXgvoQgoYb6dsu_DI1uQzGpEdLVAwozn_oT7cjdibE7-tup2zgNsJ_Z2rvra0KNDNfXYibFAlemt2-w582PmRlZGZIyaxFl3nhXXjvfdwB4sVXK3Jn5ME6n1fi_Hpo6HxTkcYGNFvWviaf5rEEzfYl_8uTkOUCeDALykBbWS-QUu5G-OJxwRYU2lUoC9fsGYR7LDofa0tFzvgOsMMX836TDxVDpsZMIZAbCPkdyi7EZv-2zScwW0YFbKroosDVQChGE8iQyn0p8sOYiKa10RAVhoWSF2ZIX4HlIXfBReraIT1plN-qDaAEFPaP0aDoNKKiL0JgOMRr4-yda5po2eYIAXJi12ECz9D_bd6KLEE8uuXKk6HpkWFmmjxZ4yi25oN9PQBilz0_SdI3qj1QNXTWj3MSatKhBRUM24d5PGAzX5j3WpUazR8XJAobCGgGvfYAfiTkKiNzaX_CVZxTXO66QymQ30PTTqczvA0P2-3oTidhrviHYP8UeUwj9j0BbFGBy1h9FlhGShnWOulqPSFFd92ueDF0Blwv-b-ixkJiUxOR4hCNAapYeGPL_gWtVVChsL_O0iy1u16-7wXEX1Og_kM9ABwHeIOhC8kSFpWqUpOMnaJiJ9-zqzFfiTX3QSPtQ8xE0dA7amdlprmepmgPKJ5OeNzoMAUDe9s13W2RkxC9izakRT-gzCqQHYLssmoZqNndnU2tE58ktR-gijBWBa6ROMEbZXy4bu3urWEeDqMlJzn3GkV7AieQRQ9fekHexY2y3Ah5HgkzClKulXUrgysfqWbBH-0lO6Y2KSOfQthvyV5eaUe8wddMWyES9sCS9dvFOkn6xTbz6p5Ic1ITK4p4wdNACmQouoRhD0oRPV8b4iECDWClIPSsZVSnR3yOSAsNiU1bCiLXVqPXaVLFJ7wFnVlYs2fx-1WfqUF5IDGgO559jO_v9YolRWjPNzz8Kl5roZaKCjPPNGgI6ZKpAlE_LE8bh4edA5BVDv1BDPv2DoStv5QxvOgF8G7Y7A5YqK2b_WpugPph4LKXh81eooaPc0JM5bXjgz0f_NsMbQbMXxZ68oSu2--nCB2spo9rcLWN32MvDdMSq4FiX-dicFucUEWUYu2lLVDtfQI3N6kHNIljj9ZjLTLzZr_fBdxY-gg9BAd_uHvyzoj7noNpA7PF98ia7S3PkjjBlieLRr5LadhBlPASUFQDoy2pX4iWPuvMG3vdnIjIKtHIk1Jq_STEjnNrsz5QZlJMvyTLJkddpRHjVSGdN9ZX7QnuoucBj29CeopFvl8jO_Dd5fH7SNXEIId3uAtvi9RUt8JUoIfxDoqjvXSmKZATOtOMUsX5rVvS6vGYWMpSIENG6wMLpuifTu8kPU-sdvJa9Op2B3R2OI17nWj3c7M16_gBrZApoch1Mu.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07b05464aefb1c7a016abee0b54de887d1b38269ffd028d5dc",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 516,
+   "completion_tokens": 93,
+   "total_tokens": 609,
+   "cost": 0.001962,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001962,
+    "upstream_inference_prompt_cost": 0.001032,
+    "upstream_inference_completions_cost": 0.00093
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 59,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

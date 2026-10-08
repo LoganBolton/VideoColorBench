@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894445-hzjNyqAeRc6aVvmycoFM",
+  "object": "chat.completion",
+  "created": 1790894445,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are mostly muted browns, grays and sepia tones with dark sections and no bright or saturated colors. That fits the desaturated, sepia-tinted look of Adele's \"Hello\" video better than the other options, which are either brightly colored or, like \"Love the Way You Lie,\" have warmer, more vivid scenes. It's a best guess from the overall palette rather than a certain match.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The muted sepia and brown tones, fading to light beige, feel distinct from the fiery warmth of \"Love the Way You Lie\" or the cold gray of \"Not Afraid\" \u2014 this palette matches the sepia-toned aesthetic of Adele's \"Hello\" video. I'll go with that.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted sepia and brown tones, fading to light beige, feel distinct from the fiery warmth of \"Love the Way You Lie\" or the cold gray of \"Not Afraid\" \u2014 this palette matches the sepia-toned aesthetic of Adele's \"Hello\" video. I'll go with that.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2AcKEAgSGAI4AUIIdGhpbmtpbmcSDP9dCGa4E6aKIqR+7hoMhgfeIMlTUhaiTEApIjCSX7+L5DAWRcoL2ubMVLVZFp7VllgLabIgppg2UGj9LffT5Yjr2H/uuSPprhZoz3oq9QYCyyFVYcSjarumoX/e4Pa5xb3wXcyNYLHYrB5Cy2LXFmvBK+SFbLKspc5yiQPxpKUCweX6gw5sZdeiR9f/NOOnDGoVcvSkNI+3/25idwlEtPXhEkGqjSxi6QZYmUvP9Ab/T6JE+Dako/lHklN/Nw6NTKIS9cGWcTGat2VYc6UCE3UDscX8JdqOz2bxfRPAP42EX9U+mwGDjgAG2FUfVy3hVrQuPTDUpOZVAj+InnM5rq10vmuk3bVlbol/ffPjF9AxjOGBst+yejNoz8F2DTdJhflDHgHnJec4n6OwWyuPt+6O0Yrwr63wud2qPcQZY0RlVS9GEr3jbJ0K29pcSUYnqEBuVtZU5n9GLK9kgzIC5RRdiZsdsQ5Gs1bOBWqtFKFkBaDzmpaFgsgRJCQ2tQHuq42cE4cAYxOk7vjgmfLalGGc2a8jDO+jUZNBX0BXIfiWGR1cvHqjuZRkLVmYTbVXqznZBmbOJnTlyNOSsSsoy8EWCF/Mw9pnTNJGzGuFAhp5bUkEqIKkYicbyx4uQ4Vxbui1QWSqKargCWQKCp7S1Y7TnnY+IxhSHJa5VhUgU7YKxI/pP22c02hCdManmUD4qsmkqBTeroL4bVmri3m4rcS63+ANXiO9IuuGCicTxiPVEf0/q5yglWSQUawBcubclhGr/9HUKAGxHO3tht7Y6BoT7htzhU0W4dYjPrDjv1jk2+HyRpXhd4VYEv+JmAODJsdUCcMWO+pvubsb7ODbIvG2kt0FqIiYkOz4aRP32gW5MW+Utxs3Ib31tACb3zEVh6918E6stdm2P69ZSK2ZvxbEVSe+Hg9iVwCYUYC9SZoS3CsfgN77ukcjH1llWpzTQ1crMtRpRNJkEd+JDjC1DxWyb49fu4ovTw96scR0sZc0xusqXZr0cEvI2Lqz0z205q5M/Ht7fg1sVeBiPj1q8tKpfnTUQuz99ftEAEGNzaMw2tIqRVvTLrb6D2YLRPbuq6hCdkYDP9BnqVC7Q49JZFlmRDgTrXGsrLbnrvbtIM3dDwKvx2d7AGj7+2regnHBIyts39XVG2h9KiSFiXaiS+sTaZfF2JVkDLn5U82LHrWmi0bILXmhK/+vrj3s2foUxC9N4YkMbfYKOtG4Vd5qyF6c5jg4hM487NFGPAE5mbjrs3mawQSQf9G+ZpxYaw75TevwhJEYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 620,
+   "completion_tokens": 299,
+   "total_tokens": 919,
+   "cost": 0.00846,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00846,
+    "upstream_inference_prompt_cost": 0.00248,
+    "upstream_inference_completions_cost": 0.00598
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 165,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

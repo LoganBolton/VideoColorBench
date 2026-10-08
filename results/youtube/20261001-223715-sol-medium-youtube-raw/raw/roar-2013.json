@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894269-grvrvFpLZgeIT27YFpuF",
+  "object": "chat.completion",
+  "created": 1790894269,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Katy Perry\u2019s \u201cRoar,\u201d with the dark opening giving way to predominantly green jungle scenes.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Analyzing color patterns and themes**\n\nI\u2019m exploring color schemes that shift throughout different scenes. For the initial parts, I see a mix of dark and green olive tones, and as things progress, the colors transition through murky greens with some reddish bits. The imagery evokes jungle themes with varying greens and even some dark teal near the end. I\u2019m comparing these to scenes from a music video and assessing the color flow and how it matches the overall narrative.**Examining the final scene's color**\n\nI'm looking at the last 40% of the imagery, which is almost entirely green with very little darkness present. This consistent use of green gives a strong impact to the overall scene. It seems like this vibrant green might be a key element that enhances the emotional tone in the climax of the narrative. I'm noting how this choice heavily influences the visual storytelling and creates a sense of continuity throughout.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color patterns and themes**\n\nI\u2019m exploring color schemes that shift throughout different scenes. For the initial parts, I see a mix of dark and green olive tones, and as things progress, the colors transition through murky greens with some reddish bits. The imagery evokes jungle themes with varying greens and even some dark teal near the end. I\u2019m comparing these to scenes from a music video and assessing the color flow and how it matches the overall narrative.**Examining the final scene's color**\n\nI'm looking at the last 40% of the imagery, which is almost entirely green with very little darkness present. This consistent use of green gives a strong impact to the overall scene. It seems like this vibrant green might be a key element that enhances the emotional tone in the climax of the narrative. I'm noting how this choice heavily influences the visual storytelling and creates a sense of continuity throughout.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDJTALN1S3Tevrk16NQT9QHc6pTXX5plJBUbqK5aukgpWEZWEuKe0bZnULjo2XCuYt2Xrgx26fjqF5CP6SKvYxQXS4wge4r8qXyWu0t4M-BdWZ-NjWMwzSam_JEEPPFh4_l3ZMq-1NSWhxuCvOnL-0zAWLedne6wS_oqx_l-MvAVVdHyVgem3ooSeLXOmCqLJVuditDcG43qDCAws4ShN84PwOvU-wRhKraklvWuIYGE1a4r6Cajoc4OwY9SO8GhYGMNaIcirH8Y_4n3mWLFzhoG-1hsN4_tAqwASg9IkhL53tAV8Br8lH4KgEcXHEf74w_lf4k9VhjCvjEXeOrg3AmauVnjuSAb4w50IIyb20AUzfVFXAlTYNCIenOCIcIuMvdrpesJrg5V15oeC3PgRYUAsvosyXBDXPhrKlrZRXUSnjBss5Fi9oDhvfE2NfiNoSq2dDlHKXaGfqmTVWo_ayCkhlBi3umEWql8WI3LSDPExiYtIXpYwhwJjiHzUGWJnaQNJiIqJ3A-IOh32_5f2eJff8f4r0FRMdexigOR0R3CPjjj1gr9aQ32bFGpz0NjmMnG3TI_u34i3ujIX8nJ8sQbM_WZ9bot4WCIhdzelW8mzFT1Oxe1iLLJOaMeDwbNPGoaf9W7zamt7D21YU3P3yGu6kjVquG69yPBECSnqtqT8QNK-7MBS8tCoLFQN2ihPwGZ8Y8U-sc8o3zXy7d6oxkrFO1YqtQj4Ro-kml42mcGhQX4c8-KVKs49psT57E5JWSzanb2a80LEaGDkBKhPDun6MLBF-c0QYT5jxYMfNZjzsWZTBCbJVwNgh82n2MWI7j31a-ZZCi57TF4nzAW6uNMXy8nYqLQxexH2uIh-NzFdSVoK1i9z1BGoe820ISK01FW42vZPX3lSRzWQw2JIhn9Sh6BeuVaxSNJqSn32Su6c52dQMM0e7BF4GJKRYYfP_ed81o6XjnLgvTV8QHpqd1jaYzG6qy0OHDwCFTe_CeOt7aJ9YAfDg90YFUmr6J1TOk0ys8nyMCE1vN1p4ZPa8LkVUHZnDiwHBVVxgsj3Fp9iMTr27F80uN5cuGF1GVClTZZRTl7vKvFs8udykS8ChQbloFLHRQcpbxF6kB8nVidJCRPt7l6FLx-QNFpHhOAw6uiVB6KQQBtXQbgXTadvR_1hcvmBavic7pL6xbo-mJoND7ekRlUVQw4k5ENmyvOl5sV24WUUR7rZsEi8qkRJol9PWpc6-ujQIQwqiFXl6T_MZJS-kuxyz6U8gV4AP_-hkj9bnamlnqjZcxdY7VlA1HYZ6K85kLTJSaUuBqT4rkziVdJg_yp21NWfDOaByeJ39YgtfJH5lBvVvwYG88DqcUAmHGFgPF4ts1__QiT0zXyXp-EOnQD8nhR9iO0sx_At91HM2MY3jup2itObLLTJ3miXL90UD9sueNi8qj_G9NeIBOTg9XcGxyt5wnrRQim__egp_3Il92GXOPUilHHexoM5p3afoFi0DrSL_RxjyQimdjp64wjwJp3s9F27W7JnxCIE2DnMkYUhKkbQUNl-xVKJ8oYjPL-I8ZTZKNsOtz_s9vXYZq3aqZwEiEUMY_En4ujKHFPdYKSdDh8G7Ci6zlLIVDT0fUy1MgPxJH6dRkJgfDzBpiWP46C6-tjl3bnBVGLL7DjB5gyv6nQax7SG9KPzw4eYXyfuXgl2r2gigdyuEeK9hL1APnb1OZwElqbJ5LoZW8lk4Q-KGyqqfg2nPYAwlObwc_Y7hOmCnOen68u-wmR8ba0f_6JpZJQ1HqHJNhSqdipvkolSqPN7lHGt46BVYOMPxIa8ExoyD-J4ZMjSxbgNwLlDYIUbFt_kpxUgc4fqnAAZiunhf5SkrletqkjVKiKeEGmSEht1R6Psb666lKOeTr3NVwQN3aI6FJknxn7gddr9-m1e1D7FrOC80JIQewweaHQAOowV9Uly1i1fnrhoncHqEiibQqDu5k-Z5vD4wLFd7lLEwIABUIqt8nZCZnhyGshtNmeQfwn5kxz5gz49dHDDCYvu1i1CEwKves8uFWbzNEoxRT77Ic1aB6lPBjeu64qOGcLlgi0rWUF_-UMOygDWvcsxnFB4-78eFwe5-QSf3kPuQdoIcGxWYG1hcmvxmmh14dh4Up7qFoputVUyTc7oZq2ODWg5jVWptfltmgEA3Hju9Ghfas1rY7zxU0yvtKsaqnZYTm66WPMbRRm58ORuKIYesUuOlJaz5F3sxeA2ro6HSmC3jCcFaRvaLkx-Y92NnC5l5hAu1kbqJChVo8emqdyz0kWySKFETfLdQRA-8B6onS6bNd1FMBghj6rU_MOIJmKmf8VBV89u0v171mXFWFBLE-bmzSTDSk-s2ww7-Q5yUsQGYaNTc90EWA5vJh1DsxgY7zEm4gSlrvLq6QVgHvFpc0q_Mzak5LF3iLATjzhpSs8tnRxuVMuViJlg-5LCJApci5DF5z2AzdjUHiKB0rx1UdBl-cOqFQuz6IZhNQheEMAbcA8-jCx5-uczqqB9RxeBwkkYAR_zh00KJfuT_K3B8GITkb_hzolXWJZT4cZYECdmvClL6PfKn-ntIQTnnGFGxq4yKnGb7r5Jv5LWUY7qScYt9_-rSxZy5LYvKq7ySFudtECTK1cLl17v7xfsL35CfHXg2pLjWcS7toFkPovMnC8ppfmquDfmVr95YCSX3lkRPqXmq0WX7a2oMwicUrByu4WAvL8co=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_060a2aeba1b1e40c016abee0c00b9c87d1aecd5f62cae8d61d",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 245,
+   "total_tokens": 718,
+   "cost": 0.003396,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003396,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00245
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 213,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

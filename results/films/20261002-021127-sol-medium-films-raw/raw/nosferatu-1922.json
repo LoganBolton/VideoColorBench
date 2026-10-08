@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-g75015aRrmGQjJNRueWz",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Boogeyman (2005)**, based on the predominantly dark amber and blue-green palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Considering color transitions in design**\n\nI'm thinking about the transition of colors in a design. It starts with a dark yellow-gold in the closet, which then shifts to a dark gold-blue in the house. The finale brings in a strong blue, followed by yellow-gold at 80, and ends with a dark green. I wonder how these colors convey the mood or theme; there's something intriguing about the contrast and harmony involved!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color transitions in design**\n\nI'm thinking about the transition of colors in a design. It starts with a dark yellow-gold in the closet, which then shifts to a dark gold-blue in the house. The finale brings in a strong blue, followed by yellow-gold at 80, and ends with a dark green. I wonder how these colors convey the mood or theme; there's something intriguing about the contrast and harmony involved!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLch7Gf-TI10ZCtBdbHBeqEyeswzh42JtudRlfxpE3wR7gDQaubXvNgijf6ZP9FxSlS1kMB3bpOki1WlsroMHhe4_w-6GiM3xD-IoTFdDouIwCTd6gjFr2iQSd8KVhOtKLYXXk2GmZ9Bt0v4MxmoIM0MGmCrb86MBt_198NyYZ1zPixNqDo6UF4n9Wj3S-cds4XkMeekDqlwlctXq_ves9lHcypMEnMezLPCggNiH5CTMKUXD7fBUX43ulf_DnHhxezvQjVkOkF7WqojLppsCD-nneVE9HmRdQVOGUPBDdMwBPh2LqfF5mkXQoIoAizyPEu2B-3mBF1QvEBi8b0OvFrRUEd1VA7tywfAFj_PyrLKl_pKMmYHXUAlRkeNVCx-tiKmWA9r5Q0cBYOrSV1oDUGJCt5VMzEvW3Ln1k-BYJiKwaxW9jLTVH0xP9EoF_7OVRajay_nHMxXdU-cflIISSoOvdKHdr5V9nL0euhEnErFnZKmuqE_4YQ7tHqO49U1tq0g-QUW58tcnGFikGpAZ9vg58nZsBp08z0zcitMOjycEH-nEt3nBhHoDVFNdvY9f7mh_IRNrSTJHzvWC1q_ded7MseIPBUJ-q69CbkjQDiV9uod5U0nPO64M2eiBbGhNGsg36PDos-c0jR8E8AZdThCYDCL1ESQLHwUCOUJPNN8jzgOlbw9cEd7XYbBsiGByVL3p75f6ylH9evIpuLFe2bhW5FpU0VEHHGyhDEEndzkkoeLqJdj-CEhJ7wVarLCwczL0Uvs6tzqxZzR0OMUOq_zJY6T9Ior2X6IuX3V9bzk1vSwjknhfxQBTCjbrGP7MfQoKda_e-hadryF9YFyNXTLucgr31kwyBJfQu4LEotjkpIP8G4Zg0G612LtOdiaZ3jUIYVF_gCmTatuU1SWxl_poZUizQLpK3a119SvYTvaQxhb5Pus0Wd-A5v3TYrqxUz7WrOCb5rZSXULksVbgkgwPsdNxIYG53cJnH_A3F9idWKbypS0IdU4sNBYkei_On1NUjmAf7mJJj9mZujt0safooPwjyYoqBwDKFER-Fmgp0uu_uCCXFFeVvaZdiahNDX3ZIm-gr5_coPvDElP9ATTY2Q9OX4eAlyRBiltNzPIhyTVz5ZZ4e8aw4MjLWTS2Iq8nbMDgVzwMQCedvkHqUm0fY-ntG-d42rxhyzklAR8Lkuwq4wEb0ID89qyUG1QsV0NXaQT44ISIJk9pQrhIEywJavxN_KHFvwAWgqoxDa7nmJsxmSe9Idfqs54mthPyC2aAjgwA2IBi2Pmfar4snqXAEmbn-TM5kXRVup0vpiipySJb8Kq_zuXWfXsure6y7dHfxwfFpNpmQRMBuv2peNxV923rWfN_xA5USbr8-UUGdLvGR281bh1fxeqPVMcefkCA6eKLP25q8QHAEYaYVbfLjESa6T99jYWq5H3AeitjRFu9jDXftMs-6fR2SMppR-CwBNg4GauPl_bXmwqvE3btn_-m7AUzV8WxgASxiTMmK1uAiIWRM0dJ-12XNDz97JpGws04vik00hvRkn3bEA2YBNCSXVImkzUsgOR1zh8pyUA7O7Mxysn9OgD2fHwlfCP2E3eInT5BTlc5fM3_U2293OO_ByR9h7WfsFhxfmr_RwalPMSsGNj6_JI-sxc3X9rbyEBMfhoVsP6FwW-gUhBR3CGL-5JabUQKa0X-ibbhsFfVXdd-cG9jg4_-Fm7Br8zS6WT9E-S1SIhTdPuP1ab5SQp4iP4-HJEdWtFb8t2CK2a0f_-o6PbbP8bijL4V8XkVOAZBhr9wn0_VWh76gJ3Ae2z9i0JTSTNeP-xZJXt0owj0J20oK-F4oOaOt1sDvujm7VxGmXyT-AyDUtbTa1AlzTKFnx0v36wR-bit0j5_MJFHyi-sgkPsmQx2WqhkW1JefTJlOGWaBPSfIChCY46JQzxR-6i_paVdnwEyhl1zU-RrM0_gLwW-sbjha34zoCMHWUNAhfWBCZs7Yn6FsAmiLPJBI0rv6DssWpHYoXGY0F6yRT2aGwTnLhr-7UBOWIBUR1RASLu5GjnlPD1rPOeDj8JL2gyfNtmI-te9Sn44yxR8u9hQ6lrR-S78KEGhhBNMmVWkDj0BEhsZLneQUMUD6obQKXRD0sxDFwgRxfnosP9s50hYmyoB7-RnRLVXGS8brFbXfczEE5jPqg-elWP5GIHfaULDodwz7d7hDmfWEkS198ViCSuk22cQbLgcoB9K-_0i8JfZ1XiOuzQNOpyiwNVo4_lFTSUPq3b7-QV-8r22IRYDk4lQfN36dvr4rpbTvzes-UrJ2rIDrKWpW07AP31Ij7WP-VOOSeveFcFl7BDHKrEuxCTWR6ynJtw9QVxc39nFSNpoz-wi1ebk5hka15e5bo4amieQwqVfDb3zjaxHyaI-9ufE84pKE7j9x8qj-0BCvw4sqX7vhztTwiMZli48ABVwneCPN6R1kcjTSGcVJ7SMjT2C4a0HuB98trLLwBWxQ7_OsTQFt9zdEUU17PS7n0zpD4BraEumJiR23-RCU9QwONoUtGJiVEXeAuYauZi-bCStZYNGNfQzvTjy3AvkRk-rLAw6iE0taMuLL63hPOEa9TfmKS9-E8zEuc.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_063db8302b5f0973016abf12d5385087d1b26de7c9767a4e08",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 438,
+   "completion_tokens": 250,
+   "total_tokens": 688,
+   "cost": 0.003376,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003376,
+    "upstream_inference_prompt_cost": 0.000876,
+    "upstream_inference_completions_cost": 0.0025
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 216,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

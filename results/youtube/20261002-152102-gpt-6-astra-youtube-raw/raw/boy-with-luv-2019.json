@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955404-CJZR50ZQgCscwYXctXGM",
+  "object": "chat.completion",
+  "created": 1790955404,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing visuals in music videos**\n\nI'm trying to guess the visual tones and colors, like muted earth tones and blacks in \"Wake Me Up\" by Avicii. It seems there's a contrast between muted and saturated styles in music videos, like K-pop. In \"Wake Me Up,\" the video starts bright, transitioning to earthy rural scenes during a concert. The color progression changes from white to greens and browns, finishing with black. \"Sin Pijama\" opens in a red mansion, while \"Taki Taki\" uses volcanic themes. Overall, the visuals appear earthy and muted.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visuals in music videos**\n\nI'm trying to guess the visual tones and colors, like muted earth tones and blacks in \"Wake Me Up\" by Avicii. It seems there's a contrast between muted and saturated styles in music videos, like K-pop. In \"Wake Me Up,\" the video starts bright, transitioning to earthy rural scenes during a concert. The color progression changes from white to greens and browns, finishing with black. \"Sin Pijama\" opens in a red mansion, while \"Taki Taki\" uses volcanic themes. Overall, the visuals appear earthy and muted.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8-X7m_pvgBxVsi0QS5YCoGLCsVsrDIgV7EpHw7dp6VLrbFtSNPbj6bl5kCBpgeyHiZ8P7WH0aYHGH30wJQzAXA4oupXaer342Mv5M0OllAxv8k8NM1RJIMPmFGHLuHrBbyrwyus1jkYU1tpOR7FpBT5Ff2F-91hWwfHNuAP4pkW7wU_6VZv8OBcmUc7gH5BWufbQtgaV9wr_-gO784Fc7Gf5o1irvu03PNw-LDuozR_7CTNxnnQAYVX21quESukBfQ1cwTaT6Lst7j0GAM7wJIGC0hd79ri-EXSfjO_Jbk_cv7gzCRF3buWFOaOVnm5QZjGmX5nGDx2NzTuzmVL1si0qiJMszRbeDYW-cHpDwL6Ux5E2UtZN7ZX4IztlfiNkJZX-l1b2CV0y0mo2rZ-FLdZmLkB8dhgoeAiRvUtdPCqXA-n53vNSEeaOR3M5UbBntX1EBXfnorkN6L37wx-u7sXYqNZP_tXThcDeHlaS8gVhQZJoQdtDE0t-JlnFoFMjsc5quYne7qYdE152XlrDzL5BTSKma3gBYazCN77xanYvZ6z8s7urWTXDeXTYC8AQlaKV8GYIhtQm_LXr_WwHFAr_QV9xEPbYjqpPzNFNmSkMcPCSSUktWT0MK0cjwUIDcK1DIg1nm5O5szTbriB7DWk-im7C38Vbff0ikJ-GSDZzPvGL1pbPOdfpEQLl8hjkXs74g0luiTyTjVvWmsAmclS5DLkzso_mZTk8RjCGs3cH_Sfsqad8ECiGCQpIXxTJ_SPLcM3L1bEFubo55RCYnVLlT0gSIQSimxziFTCVAnhQCvO_yHtjXOzwk592VqkQaExYpNHMjEeSRBeXl4FdLtbX_larcI4wh09_mQ1eAFIbBcYSeCkNM0v7PejroxVtcDZeXfwfzbUKSgVwptSkBYduTmY466341L0iA61Tq6s4RJcTFi4AX6uFl5DSqPz4MfGYpGqYmI172JDZa58H-BsJ1B3Z2CsGPOCVZ3cNwFJ4ClpFXg_l48H8GAigDsrHk1d9dwiizrAOLB_jnKlZG5Vzvkj4IjCCqfhjM3cyz6IkuoUI_iOaOLrNZ3QrrLKa_-gKQ9rBbNc5FE_J8satO5yX8hrQnUgcJTH491mQY2R28_BC_wfrCq_0z88w2sm54sCKy1PAbpTocKAsgmaEdnFvZMgJt4Mx7ormFk3siSdSsJYeyWR3r-TGv-KZrwQrBqFNFea_deDWcJOO-IDKKsIeE8-RrkPQi8Tw7OiJENEcrbPBi2USFd85cUxR2pVIqydcGPphM-N2J8tyuOv57PIO3G3C6TBn0MXvU1MjfmzlK7baHu9Hzpvyc11T3eEdMzX5Wc7vQi2P41lKkrdODK2YOyDdfXHJh5HEhA5WsrqZCWXSAanPbdDJ60-wnxNvFFSwi5DPFDPKnNlaJeCEbuXNo1mke8HUcsBJxF-7uIl7Ca3QSY6doZigj-52KH76yr5rGL-ijuKIMeBA_dMIKnDb3HZuGibT0Imq7Mhr6Zx7KRyXcGMjeJqXYuX8ZSKOeZm3Z-rwj8PpMUBXeUamCqNInW3ySxL3hgAEncFRXantxx2kCYNGPz7A6ZBYVmJAklrH2fhL2wO66TvbgtBop-l3cUO_GsR2wGpi2CUhFYl8tmDocIqd0q2U9JS9Mp9C2JUbqeI5mSDfWiI-bf6eiJk0C9QK_ajqEdq8x22bN16cEnzo87RF1Uwd4xMMVsh1oln0Lz21soTXVrRAfJohZ0f29HNzcB89HLX0bWNMEZd0hjKVOkvq5pi-eO0PIIzGIhVWcrjOZN1RAwrSTxvyKLoomie7z5CRCKRjoXlrgxi3Fn2uvqGSM729Eibu8tk7PTNZH746HQAwJ1pTomaqiK3Qo60dTXc_KPuvhhUnK1INKM2JPTw6B4jbqpVGG5BQMd5d4R0qMZLL4AcW0U4uHydYmMLQ5WNW6-IB0Chdq9lr5HSNWnoTrlpG9fssmJWaL9dSXpwhMN4gKKaJ0Ba314o27LuV7Ts-gb3M1YUqvM18hKdfdD2_A7sRGEy2f3E6dYlEOWU7XL8qQCAA1QSL-mqMKa92OMXYGAkwwxbAutM7C6GokJf9CcoAXQN6g3EwPxzOpILHfbl63NSW4EUS3YWHL5uKgtUmz9DGSUYhBrAYAXlyojRbNuSpOfgXA6B-dHpBbkwlpZjxtvwRF12g8RT9RD3CffgStHysEkCJNrlSY2dEv83q90aXGlo0ftG-L2X8-q44NyE0SaV_GrdtV-xCD4HSXGCwuEQdHlYa6MVFr76WfuSrgLmb5M1GPVixKaOQMSW0FF8zNxEtXXYRE9PGTlRkylM4F3PCb4dybfJTVRfAWwsIdolnpqOPy0rtQFpit9BDzwMwE93APzD-fmaXmB231_UM9fvyS_D9aRm8PPNdGsJ2ALiuZEIdWvpHRJxuvpubRqSXyuq-pzr4Tu-YWWSLZHpvMd0weNtHzlhfE6pOOU_t5krz0X5hlX4EeWClyRipYYTRgU7HZ_hr4aBk1_4rXQwZAhh4yTahML1KQo=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0eb89ab919e214ba016abfcf8ed65887d1b49874754475b62f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 495,
+   "completion_tokens": 198,
+   "total_tokens": 693,
+   "cost": 0.01485,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01485,
+    "upstream_inference_prompt_cost": 0.00495,
+    "upstream_inference_completions_cost": 0.0099
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 189,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

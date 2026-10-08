@@ -1,0 +1,21 @@
+{
+  "slug": "transsiberian-2008",
+  "title": "Transsiberian",
+  "artist": null,
+  "year": 2008,
+  "label": "Transsiberian (2008)",
+  "hex": "#2C3732",
+  "rgb": [
+    44,
+    55,
+    50
+  ],
+  "frames_sampled": 6681,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "zq8TuNWFl4g",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

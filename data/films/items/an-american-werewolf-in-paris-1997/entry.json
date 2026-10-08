@@ -1,0 +1,21 @@
+{
+  "slug": "an-american-werewolf-in-paris-1997",
+  "title": "An American Werewolf in Paris",
+  "artist": null,
+  "year": 1997,
+  "label": "An American Werewolf in Paris (1997)",
+  "hex": "#3B3630",
+  "rgb": [
+    59,
+    54,
+    48
+  ],
+  "frames_sampled": 5646,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "QvOmRoMwgX4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

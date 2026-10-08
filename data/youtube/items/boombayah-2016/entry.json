@@ -1,0 +1,21 @@
+{
+  "slug": "boombayah-2016",
+  "title": "BOOMBAYAH",
+  "artist": "BLACKPINK",
+  "year": 2016,
+  "label": "BLACKPINK - BOOMBAYAH (2016)",
+  "hex": "#775365",
+  "rgb": [
+    119,
+    83,
+    101
+  ],
+  "frames_sampled": 244,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "bwmSjveL3Lc",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

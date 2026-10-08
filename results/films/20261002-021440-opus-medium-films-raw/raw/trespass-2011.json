@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907347-TPN8DSFoFUGhmcUaDskZ",
+  "object": "chat.completion",
+  "created": 1790907347,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Trespass (2011)**, though this is an inference from the colour pattern, not a certain match.\n\n- **Dark, muted browns throughout:** This fits a film set almost entirely inside a dimly lit house at night, which describes *Trespass*.\n- **Orange band near the end:** This could match the fire in the house during the film's climax.\n- **Lack of bright white stretches:** The snow-heavy options, such as *Transsiberian* and *The Pledge*, would likely show long pale sections, and there are none here.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted brown palette with that late orange stripe before the credits go black\u2014considering dark house-set films like Trespass, muted thrillers like Before I Go to Sleep or Before the Devil Knows You're Dead, while ruling out snow-heavy films like Transsiberian or Pledge that would show brighter stripes.\n\nThat orange burst fits Trespass, which ends with the house and money burning in flames. I'll settle on Trespass as the answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted brown palette with that late orange stripe before the credits go black\u2014considering dark house-set films like Trespass, muted thrillers like Before I Go to Sleep or Before the Devil Knows You're Dead, while ruling out snow-heavy films like Transsiberian or Pledge that would show brighter stripes.\n\nThat orange burst fits Trespass, which ends with the house and money burning in flames. I'll settle on Trespass as the answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStgkKEAgSGAI4AUIIdGhpbmtpbmcSDHYMrG0tkVYWTZ2zXBoMnbFIEdAtBbUqHbeqIjD0dz4oSlb0XvddGoosnbIE/4b0bJ2bNT8KBwTYIaKTMwGlxRlaczFoctrA3fdMO2gq0whT7Xxt8qT9etL2TXGP+jF8NY+LH2kjLkmj6JcGLqmyA2EnftTNqhs46FFi+R5yhyI/KCVO1J4tnnYHYQWWxWxslBTNGI6iS6x8LcJslVNy5UtgCCkR2ZIT90CjwoJD40OD1pwVNi9u1ptQHPveFRYo3noFPxZlCFkmk3at60+5ngZ61vqyzhaFuFG/SuQV664AbhflhOfaGNHT7r8hGT4wCsEl4DDriB+FZn1jQDfjUYycPB7e/h1JFj85QEcZ3R4IcoFH4jcZ9qmFF0hN4mU15KQLi1M69tMAPHRfz5cyZ2o9uyb4LJSzfzi0T2T0FTgJJN+DP/Uo59dEzTU82IdSN8+3nhHfgqZxGsXsegrXr39bhUF63wTGd2cnWX6tZemHDp5ciX6gMmhTtQDpYg7n14xH8Um7BDjogDO9Wgk23Khhg5qJW/Y7nSJNFiPc145CbFu7w7lZDGQbz47mlTjWUcqi0r838sBYqm39mqjXthTHnXQPzDI90uA+24EZg5O54pfVopK6URgsKuX0Ep9YILw0mq+EEtBpopSFKBAMe4xTpYmOpN6v0qz0Fg0vGn1T6VPHg7V9e5CfkjvFQFvtxhkMWXuwlzLSEvLOF643Wxsb56LvHkmql4iqZ93fzCb7oXBfIii/jt/D8KUzHJYa+SVVZFAPeTX2IY8r5sgtLsvVSg4m6ahKHpz5hhuaqhfNMonlcWmXhQT6NNuIAHaaUUZwo4LZDRrxevLi0ABfbiWdLqe0H4BCahxqF3pNTfgaPgyX62K+MAEMQZFjLe/saYkF7++jsZywO+begnULxD3Mu3RwYI4JJAg+jFAv/eQ1yDQ1tosoatj1x3lGFxwdVcMzwyNBsTzolQtaqEOgz14OPLSDUK0jx9mT7tDAGNymyhJQOf9Y7uKCGSnhMfufe+205sDZa4BASonK72DEB2HuJOgPZCRJymbth4a36806uiBmH1oNRtt1tdEgat7ElmktKLQzpp3+u5dupV4M1ALwvXmMKRiNvauAkMD3c5sn2u/v66gQFcjJnKIvE45xtvBk7Yyy+lS2t0L1NRleD8khGbd9gM1YIragqqLL4Mr8inAd7M1hZNoUYDnUPjo1T9dkakbWElZzHWStKR3jw7vpA4KdyqpOhqATRHS/api2hPdeHcC6kpRmtEK2lHGRiTL4ShTDlkB3Ae73aZT8oxqAip7KSOrOkpUR88qh4ypl42rTmR5QS5ypDNIpHAHcskbAtpdYhHl2lvHQHIBTYqUobwpjmX25zxqjwZzkb+xT4DMqDtRF3czjMyRRVnnTaAz7JmqXgwQQPd7h4dqlyske7g/6gnJGVI7m5qupVVoMFfbWS6554Ugg1e7avAp2Xpfz0GkvzTSpkTqJrucF8xoo0G1f6Tk+z9vYffnDtCuBaJwKEDKoZbCHiFvd01nZC9Cq7skm6pQCPorf5KbEqHFkKYtEgWryLjhW90Cyw3pySBkYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 563,
+   "completion_tokens": 415,
+   "total_tokens": 978,
+   "cost": 0.010552,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010552,
+    "upstream_inference_prompt_cost": 0.002252,
+    "upstream_inference_completions_cost": 0.0083
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 235,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907313-Zyi3VTGou9kRK7ZZfGEN",
+  "object": "chat.completion",
+  "created": 1790907313,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **A Monster in Paris (2011)**, though I can't be certain from colors alone. The barcode alternates between deep night-time blues and warm browns, which fits an animated film set largely in Paris at night. The saturated purple-blue stretches toward the end suggest stylized stage or concert lighting, and the dark stripes at the very end look like closing credits.\n\nThe main alternatives fit less well:\n- **The Illusionist** is mostly sepia and brown, with fewer blues and purples.\n- **The Lawnmower Man** could explain the purple from its virtual-reality scenes, but the overall palette seems less consistent with it.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes, A Monster in Paris stands out with its night-time blues and purples, Parisian browns, and vibrant concert scenes against dark ending credits \u2014 I'll go with that one over The Illusionist's sepia tones or Lawnmower Man's VR colors.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes, A Monster in Paris stands out with its night-time blues and purples, Parisian browns, and vibrant concert scenes against dark ending credits \u2014 I'll go with that one over The Illusionist's sepia tones or Lawnmower Man's VR colors.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSuggKEAgSGAI4AUIIdGhpbmtpbmcSDJIOwmvF7Ob0DEkyKhoMeqrdmSJZboHexGSyIjAnhjoc/FfrLjFV9Ftu1YpMnKqMKln6LU8M3Q/mFHS8nX3RFDI3FT9fkGmGGhTEMZoq1wekRkiIPNfJ7Tn1iUfF9sBOxuMYL57ob18UdL2o5FXmOfClmiZeQ2QOrjHSzQ/SHk7+DttR4mrxvs/viciQwGKCGRL3JURw8FkXhis9CxCRlaCx5vnbMLJ29Pea7oS8SFxXGI6RCdLE5JdLOn+jqIBSIO9YKLGR48X5H7XJM83Jo74Z8NxwIio7YT8fYAD14a35nhaW0np9PLqh1mPLsc2RMDqZqIIq6bhsuMMBrjjdoqBto8kkx55yqXEyz3D/llC4JiUo25SE+oPYfVUvwhyv1XEQXa5H0zyRvYjtm+ljsLmzwcfJuhBGEUGktQYroNYuiHMevQmqnfejgiyOYtruSWlZZpiLbY/JTGvT3bkY144fCzeDNITEcna98/pZbz3sJ8bB9EgCWaRvnyecB28cE8GtkjPiTh0zpV81dTfPam5orkNEyWkKqnkUZPbTx87AUhtP2zC2AVmXiAhYfBSp3iJFGDA8GlRzWAZNJb+lczkdsCkIi0b/OB+GgAreTyT3K6bNPesT2TDsR9uc3pXKdSZRdgGjo0UrB6E2ghgSoIw9faFKhRHSIGTCK3TRldXxhr9CMEXjlhQIcfxovw3Tw3FF6R10rCpjA0QA+BQqd2JjGYpFBFhiNiYvxjgwM3vkMjlb+C7qW1giD7IxBGyf+UxkHnlbp7EvijvVn2FE3Csreswa7XkiKUJYqObs9AVZkOI6r2S1fl8h/B318VJml3d517J1/LfisTucojC7vDpRJEufg9/0MkRCEBUJ07Uf2kX/6lcpQRXqvqYCNjHY0lDE0iIfQXGmRzO8B2FOzgOmfBXCepWTvdXeJrPVcQ5pSWgIpkGotisNgHrOMM52gvniTuKveX6vDJLMZ+GfPxOVFhI5u0QkqHiTRp27dvVlg/YWV99K0Q69cVUdUsVXUmoTDdh+eZEG5j4QT3LLBvI9qq0z3oZ/BJGPrHb+LzN1N2Hr3Xx1FMbqOh8FwXxXacE3iQqCwXcRZSiXJBTAmm822Hh8+bOh8P4mpKxXH+oQqG4jnT9Z/mM1sjbNb+qrANKj+vYxSVnUJQYjTCWeNA0qfU1j1ujMNGJ00WW98NdNBaQoc1wk22lNQfDe8uZMEzJOK8081tlLVBKbbjglPc2fxekNyDS/SMyyRhkyaL0FliCQiKdzQPHwxEGXp+kM22yTdVH3nrRsh1dorZ5GfvlM8iAy5EOGUA+2OdS6KeDMvEISQ2CPwr9LoiWwdXFeV5BXXTr8oWsquS9T8W5I/5MVQIDN+IszQjNCj6hKNDcKEaCN/NWjUysCKrqkkHlrztsBP5g7HRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 515,
+   "completion_tokens": 401,
+   "total_tokens": 916,
+   "cost": 0.01008,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01008,
+    "upstream_inference_prompt_cost": 0.00206,
+    "upstream_inference_completions_cost": 0.00802
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 184,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

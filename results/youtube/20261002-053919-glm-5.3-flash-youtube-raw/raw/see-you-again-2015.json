@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790919698-blSS5uQzHrWXUcb6GdD9",
+  "object": "chat.completion",
+  "created": 1790919698,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Based on the distinct color palette of the image, the video is highly likely to have a very muted, sepia-toned, brown, and vintage aesthetic. \n\n**Adele - Hello (2015)**, directed by Xavier Dolan, is famous for its cinematic, rustic, and sepia-toned color grading, featuring dusty browns, dark grays, and warm beige tones throughout its entirety, which perfectly matches the visual representation in this image.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The image shows a color-coded representation of a video, where each vertical stripe represents a few seconds of the video, averaged to a single color. The overall color palette is very muted, dark, earthy, and sepia-toned (browns, tans, dark grays, some beige, and black).\n\nLet's look at the colors:\n- Very muted, sepia/khaki/grayish-brown palette throughout.\n- Some very dark/black segments (especially near the left and middle-left, and middle).\n- Some lighter beige/cream/tan segments (at the very left, middle-right, and right).\n\nLet's evaluate the options:\nA. Eminem - Without Me (2002): This video is very bright, colorful, has a lot of comic-book style red, blue, yellow, green. Definitely not this.\nB. Eminem ft. Rihanna - Love the Way You Lie (2010): This video features a house burning, Eminem on a gray/rainy rooftop, Rihanna. It has a lot of dark gray, brown, sepia, muted tones, with occasional orange/red of fire. Wait, let's think about the fire. If it's fire, there would be bright orange/red segments. In this image, there are some warm brown/tan colors, but not bright red/orange.\nWait, let's look at \"Love the Way You Lie\" more closely. Eminem is on a rooftop with a cloudy gray sky. The rest is a domestic scene in a house. It's very gray/brown, moody. But is it this dark and brown?\nC. Taylor Swift - Shake It Off (2014): Extremely colorful (pink, yellow, blue, black tutu, cheerleading). Definitely not.\nD. Eminem - Not Afraid (2010): The video has a lot of gray, city streets, dark buildings, some bright colors (like a blue car? or just gray/desaturated). Wait, \"Not Afraid\" has some very high contrast, dark blueish/grayish cityscapes. Is it very brown? Maybe.\nE. Justin Bieber - What Do You Mean?: Bright colors, yellow/pink/orange, skateboard. Definitely not.\nF. The Chainsmokers & Coldplay - Something Just Like This: Coldplay has bright colorful visuals usually, but the video for \"Something Just Like This\" features a man in a suit/spider-man suit, dark cityscapes with neon lights (blue/red/purple)? Or maybe bright? Not likely this brownish.\nG. Wiz Khalifa ft. Charlie Puth - See You Again (2015): This video is dedicated to Paul Walker, featuring clips from Fast & Furious (which have lots of orange/red sports cars, sunsets, beaches), and a very bright/warm tone. But wait, the Fast and Furious scenes might be colorful. Also there's a church scene with white light. Not likely this.\nH. Ed Sheeran - Perfect (2017): A snowy mountain landscape, very bright and white/blue. Definitely not (no white or blue here).\nI. Adele - Hello (2015): This video is directed by Xavier Dolan. It is shot on IMAX, featuring Adele in an old, rustic house. It is very sepia-toned, brown, dusty, muted, and has some very dark/black segments (e.g., Adele singing in the dark, flipping through an old phone book, the dusty house). The color palette of \"Hello\" is extremely famous for its sepia, brown, earthy, and vintage film look.\nLet's double check Adele - Hello:\nThe entire video is sepia/warm brown/dusty.\nThere's a scene of her singing with her eyes closed in a dim, brown room.\nThere's a black-and-white or dark phone booth? Wait, she's in a phone booth which is very dark/black.\nThere's a dust storm / brown dust blowing.\nThe house she is in is very rustic, wooden, brown, and dim.\nThis fits the brown/sepia/dark palette of the image perfectly!\n\nLet's also think about \"Not Afraid\" by Eminem:\n\"Not Afraid\" video has a lot of gray and blue tones, cityscapes, Eminem walking through Detroit. It's very desaturated but more gray/blue, not warm brown/sepia.\n\"Love the Way You Lie\" has more gray/blue/green and orange/red fire.\n\nTherefore, \"Adele - Hello\" (I) is a very strong candidate for this sepia/brown palette.\n\nLet's verify the palette of \"Hello\":\n- Starts with Adele waking up in a rustic, brown/sepia bedroom. (Left side of the image has light beige/brown, then some dark stripes).\n- She walks around an old house (browns, grays).\n- She sings in a dim room (darker browns/blacks).\n- She is outside in a dust storm (brown/tan).\n- She is on the phone (black phone booth, dark browns).\n- Flashbacks of her and her lover (sepia, warm browns).\n- It ends with her singing on a windy, overcast winter day in a brown/green field, or in the house.\n\nThe image has:\n- Light beige/tan stripes at the very beginning (around 0:00 - 0:20, Adele waking up in bed, bright light coming through the window).\n- Dark/black stripes (her singing in a dark room, or the phone booth).\n- Sepia/brown mid-tones throughout.\n- Some very light beige at the end (the wind blowing, or the bright snowy/cold scenes? Wait, \"Hello\" has a scene where it's snowing or windy? Yes, dust/snow).\n\nThis is extremely characteristic of Adele's \"Hello\" music video.\n\nSo the correct option is I.\n\nLet's write down the response:\n- Analyze the colors: sepia, brown, dark grays, beige, overall muted and warm-toned vintage aesthetic.\n- Connect to Adele's \"Hello\" music video, which is famous for its sepia-toned, rustic, dusty, and muted brown visual style directed by Xavier Dolan.\n- Conclude with \"Answer: I\".",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The image shows a color-coded representation of a video, where each vertical stripe represents a few seconds of the video, averaged to a single color. The overall color palette is very muted, dark, earthy, and sepia-toned (browns, tans, dark grays, some beige, and black).\n\nLet's look at the colors:\n- Very muted, sepia/khaki/grayish-brown palette throughout.\n- Some very dark/black segments (especially near the left and middle-left, and middle).\n- Some lighter beige/cream/tan segments (at the very left, middle-right, and right).\n\nLet's evaluate the options:\nA. Eminem - Without Me (2002): This video is very bright, colorful, has a lot of comic-book style red, blue, yellow, green. Definitely not this.\nB. Eminem ft. Rihanna - Love the Way You Lie (2010): This video features a house burning, Eminem on a gray/rainy rooftop, Rihanna. It has a lot of dark gray, brown, sepia, muted tones, with occasional orange/red of fire. Wait, let's think about the fire. If it's fire, there would be bright orange/red segments. In this image, there are some warm brown/tan colors, but not bright red/orange.\nWait, let's look at \"Love the Way You Lie\" more closely. Eminem is on a rooftop with a cloudy gray sky. The rest is a domestic scene in a house. It's very gray/brown, moody. But is it this dark and brown?\nC. Taylor Swift - Shake It Off (2014): Extremely colorful (pink, yellow, blue, black tutu, cheerleading). Definitely not.\nD. Eminem - Not Afraid (2010): The video has a lot of gray, city streets, dark buildings, some bright colors (like a blue car? or just gray/desaturated). Wait, \"Not Afraid\" has some very high contrast, dark blueish/grayish cityscapes. Is it very brown? Maybe.\nE. Justin Bieber - What Do You Mean?: Bright colors, yellow/pink/orange, skateboard. Definitely not.\nF. The Chainsmokers & Coldplay - Something Just Like This: Coldplay has bright colorful visuals usually, but the video for \"Something Just Like This\" features a man in a suit/spider-man suit, dark cityscapes with neon lights (blue/red/purple)? Or maybe bright? Not likely this brownish.\nG. Wiz Khalifa ft. Charlie Puth - See You Again (2015): This video is dedicated to Paul Walker, featuring clips from Fast & Furious (which have lots of orange/red sports cars, sunsets, beaches), and a very bright/warm tone. But wait, the Fast and Furious scenes might be colorful. Also there's a church scene with white light. Not likely this.\nH. Ed Sheeran - Perfect (2017): A snowy mountain landscape, very bright and white/blue. Definitely not (no white or blue here).\nI. Adele - Hello (2015): This video is directed by Xavier Dolan. It is shot on IMAX, featuring Adele in an old, rustic house. It is very sepia-toned, brown, dusty, muted, and has some very dark/black segments (e.g., Adele singing in the dark, flipping through an old phone book, the dusty house). The color palette of \"Hello\" is extremely famous for its sepia, brown, earthy, and vintage film look.\nLet's double check Adele - Hello:\nThe entire video is sepia/warm brown/dusty.\nThere's a scene of her singing with her eyes closed in a dim, brown room.\nThere's a black-and-white or dark phone booth? Wait, she's in a phone booth which is very dark/black.\nThere's a dust storm / brown dust blowing.\nThe house she is in is very rustic, wooden, brown, and dim.\nThis fits the brown/sepia/dark palette of the image perfectly!\n\nLet's also think about \"Not Afraid\" by Eminem:\n\"Not Afraid\" video has a lot of gray and blue tones, cityscapes, Eminem walking through Detroit. It's very desaturated but more gray/blue, not warm brown/sepia.\n\"Love the Way You Lie\" has more gray/blue/green and orange/red fire.\n\nTherefore, \"Adele - Hello\" (I) is a very strong candidate for this sepia/brown palette.\n\nLet's verify the palette of \"Hello\":\n- Starts with Adele waking up in a rustic, brown/sepia bedroom. (Left side of the image has light beige/brown, then some dark stripes).\n- She walks around an old house (browns, grays).\n- She sings in a dim room (darker browns/blacks).\n- She is outside in a dust storm (brown/tan).\n- She is on the phone (black phone booth, dark browns).\n- Flashbacks of her and her lover (sepia, warm browns).\n- It ends with her singing on a windy, overcast winter day in a brown/green field, or in the house.\n\nThe image has:\n- Light beige/tan stripes at the very beginning (around 0:00 - 0:20, Adele waking up in bed, bright light coming through the window).\n- Dark/black stripes (her singing in a dark room, or the phone booth).\n- Sepia/brown mid-tones throughout.\n- Some very light beige at the end (the wind blowing, or the bright snowy/cold scenes? Wait, \"Hello\" has a scene where it's snowing or windy? Yes, dust/snow).\n\nThis is extremely characteristic of Adele's \"Hello\" music video.\n\nSo the correct option is I.\n\nLet's write down the response:\n- Analyze the colors: sepia, brown, dark grays, beige, overall muted and warm-toned vintage aesthetic.\n- Connect to Adele's \"Hello\" music video, which is famous for its sepia-toned, rustic, dusty, and muted brown visual style directed by Xavier Dolan.\n- Conclude with \"Answer: I\".",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 508,
+   "completion_tokens": 1395,
+   "total_tokens": 1903,
+   "cost": 0.0007737,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0007737,
+    "upstream_inference_prompt_cost": 7.62e-05,
+    "upstream_inference_completions_cost": 0.0006975
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1297,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

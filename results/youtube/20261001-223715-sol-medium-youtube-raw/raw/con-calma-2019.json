@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894352-rLTN2i0RsAwemG7awTFS",
+  "object": "chat.completion",
+  "created": 1790894352,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Becky G ft. Bad Bunny \u2013 Mayores (2017)**, based on the dark blue opening palette shifting toward warmer brown and purple tones.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes for music videos**\n\nI'm noticing the need for a color palette that starts with predominantly dark blue, transitioning into brown and purple, with a final 6% in black. For instance, \"Sin Pijama\" features a blue bedroom and scenes in pink and brown. The \"Mayores\" video opens dark blue and shifts to warmer tones. The outros tend to fit into the narrative with dark blue leading into purple, followed by a warm resolution. This all connects well with the themes involved.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes for music videos**\n\nI'm noticing the need for a color palette that starts with predominantly dark blue, transitioning into brown and purple, with a final 6% in black. For instance, \"Sin Pijama\" features a blue bedroom and scenes in pink and brown. The \"Mayores\" video opens dark blue and shifts to warmer tones. The outros tend to fit into the narrative with dark blue leading into purple, followed by a warm resolution. This all connects well with the themes involved.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEXyYAPtlksKH3ANQn-rydfQAU0YyuQWdmXLN-djFKjz3eTXmSoH1E_n0af0LoDaqwjfUa_3IeJjFT7ehedCNLFpRJGAkVbFL9Lw18bC6SStnR80sxjCbwucer37iV74nlDEyL5u877277kBIegc9SNNuqExjUunVvNM0qd2PnCQfQ3TLeLrwwlL7vrVAEeZusX7jeXUC3oJPDBDbhPv15IglvEVSmsaB6XgGBy7SCG2HW6O_xElUwlOj7kaAq2zAbWHjvm8P6iPsC8MIqE7_-wJT-AiW2o76eucDpk2ir2aeqeZ4XbZULTfBaHcKo5KOsDGrg2yEliHK6oUGuDTzrxMtOakgj92S7zG8zFKOszSFFo156-ZaTix9cIPc5FEuhL72Pg25GjvTupvmPbw2jiANkv-u_CaQOhLsjJYvMwc_iEk98VYS4CtIGX74bIuW0DZ36TIFDkDSIl9CFpWJKGi6xhJ10iO3j7AVshgbWgP4RqcuIvmTobGLEzRQl_8fc_IrESJ81zcTG56H_ktpbyo0X01uK_b6XVJYCRK4ltAdIh9CqwncoR7bf82rMRKOBx3RB-Y7-UXLkIsVQtcuR7m4DnB3-FBRV3UKnlibPN71O0n3qgaJFWHuH4uED9wK5WgHz9FQjQatv-LqPeMARTMBCwiHEer2I933tsc3LdXXwp0Pe1Fo3X_fy5SY9A5ZNojiRMpdoF0NrWy-6zmar6KxTJ_9yWTfo3hlE1I87KronG02Z7bQ6Ksw0j2w_wNAEWqzKPXi6WHdZws7EeiB9iRGsOL7b8LcfLw3034nTNM33LnnU5ri3FlH510dKYChWeoavy28esTiX0AVtFWWUQvtrS6KYQIMHsgq8amDV5BvMLncHPq_6xVVFVpYlUqwRG0dveoPRQ4umsyIBEAnWB_PdtPstozfnP8fY9lR6pD8LRTF_yWThYKkHCqsPnRaoTDjSLNx9bpVwtNnDlWch71atTqz4-JJzFWiXqsDg1uHlTkjU1nq5r7dz4WFJSnTn5c5sjGROwdkKXazxGJLL4I8P3uhD5Js8h1DYM5irs6NRw0kCBfw7_7nWpB44jIF4PDd4EK0lnLRQlg3QNIucPr16IUbJ7bmpvYHPCPMslc9Wv9U61_jSZbYBsOPUsdeYpypuTv6adzGvk0Y8fZm5W97qwgARpT6funTPqmxYiAUPCzsxSmtdwCCmof6T968LsTaEVJOTryBvB_VPYuXcbjUeSWKlHYMK0UEepnPUx2Ii_7qcIZJ_SDXoNyfomfj7uAwrQVB8s1WcGbFP-P2c8UYWzYgPn6gBpMaXZ03LkaalHYzmYpMymTDK9YIXIxUV52wRAyxKb35Z8wbE3P5RE6xzSKzuJeyFiQCcN4olZ0AluDe8WhzFGP7RHzeP3P9CNnZ1FZZpIj-5DrkgYf_9tAgSpqQZB0nbZFrwt5WH4OBNKBgEC79uhpfkXD6aPQXWVHXTMfKUT180ZgBRs8FcqOzRLW8Qpjk4cklRj0yIPvu1WddC5cab9U5O9NWYo0aOJ3bmcmLqCMpBVXpWp8Uv4PGwcfL5h71UxZsoF7Ec-2p71g3DBW0z7mRmz5uAxt_Q0lRvpCCBTTCuRt93Km26P7ebTZ2HYkYdKnwqBfUIFsD6PLNwgMOoGymQoCDwsR1JvoSBYxgm69WW87XoW6W-4gejXsMMNWoKioTCOfbVaQth7CDQuMNzz75pnc-wnTYrkKpM-cmxYhmfQXId2my6la4vsfwxqXw5-Xn2YnjPljrj-rhseMgE7Q4K_CQTNFqSnImdgz7TLWDtViIZ86vVwQ7sTP_QU4Naqcgft-rat4JKoNezb5BhzFm6y32lIGDTQ-4rdAkNXc-TYTSdRq0xd53Ns-zT2SXCQn63n83n62DgS7jOWg5LZ0drbXWYB8Rh5HTeN3B3D5AU5R9G00pFDfiELIGrKLTsWhPvnEsMQVmmX_tYJrTV47FKeS6nMdKlyHE674cxuUMkFR-5Jf7gUODWfRDGQeiLkZolfWxX2SfkVc67pFW7OKPpdYk0ol3uGbIGak-O9mvbCjKUFTC1hDYX8BsEDnoFoiFbJmFVIPDDwqngj1E0b6IBWu92zBitHOATS0RzzCSOaCvb4POEpeBAqpKvHH5jDgEOiSkQyouo2fFWRvtTaZwRMV29gtpcbxYtEng9XJ1VpDFmPyumULrn6qEhd-qAMD2zQWdAQgaqNj9EuMPAYU3O2r-4T-nGzwpMUN5PZeOZ_rQAsBeZ3iz7Hfw9dsBeBhZ8D9_z3139dKGs0J7U-yKgNBKvjgII6YUJ5fmBJUIqBOdp11nmS5XdOxkdcrKYpgXXt6hDQaVc9WrdplVY0zzpfndwVoRWgWZnCtkPCIn_tom2ow-z47qFo1p5a3n46sm7nKKuhRRIoC8IkzFbEwRInYiFxC_DGBfWwdGwOzyPeZWGtMBZizhxQ_5EKrbrkzdiwIsHFjcbUQrO9VedvVdt8KYt3J7NBY7eKE7mk2mrNVfpQ69gRvWkpY-So0PLjjUqwAXFe5593nAfJaUttxO_ycTUwTCyX.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0726c06d4b0ec1b6016abee11178e087d1b1549168e21eab4a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 507,
+   "completion_tokens": 247,
+   "total_tokens": 754,
+   "cost": 0.003484,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003484,
+    "upstream_inference_prompt_cost": 0.001014,
+    "upstream_inference_completions_cost": 0.00247
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 203,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

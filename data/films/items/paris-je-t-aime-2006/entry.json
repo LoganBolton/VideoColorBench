@@ -1,0 +1,21 @@
+{
+  "slug": "paris-je-t-aime-2006",
+  "title": "Paris, Je T'aime",
+  "artist": null,
+  "year": 2006,
+  "label": "Paris, Je T'aime (2006)",
+  "hex": "#3C392E",
+  "rgb": [
+    60,
+    57,
+    46
+  ],
+  "frames_sampled": 7248,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "1-DjcP0FaNk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

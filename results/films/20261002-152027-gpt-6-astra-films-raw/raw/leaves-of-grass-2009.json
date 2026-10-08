@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954751-xat1Sz0tnB3yqLvJRcw5",
+  "object": "chat.completion",
+  "created": 1790954751,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Man of the Year* (2006).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing visual elements**\n\nI need to analyze a visual that has dark brown tones, with blue mid-tones and a hint of black at the end. I'm considering options and think the \"warrior way\" theme stands out, it potentially has a sepia vibe that feels warm. The narrative seems to shift from dark training scenes to a brighter town, suggesting a dynamic between action and setting. I\u2019m feeling uncertain about which option to choose among dark browns, blues, and muted greys for the overall look. It\u2019s a bit challenging to nail down everything!**Choosing a visual theme**\n\nI'm considering an image that features a lot of vertical mid-brown tones, which suggests a dramatic feel for interior spaces. There are influences from \"Georgia Rule\" and \"Rebound,\" which are lighter in contrast. The colors also feature green leaves and grass, and hints of black and grey from \"Fifty Shades.\" I see a connection in a comedy-thriller vibe represented by the \"A Man of the Year\" with a blue center. Overall, I think I'm leaning towards option A!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual elements**\n\nI need to analyze a visual that has dark brown tones, with blue mid-tones and a hint of black at the end. I'm considering options and think the \"warrior way\" theme stands out, it potentially has a sepia vibe that feels warm. The narrative seems to shift from dark training scenes to a brighter town, suggesting a dynamic between action and setting. I\u2019m feeling uncertain about which option to choose among dark browns, blues, and muted greys for the overall look. It\u2019s a bit challenging to nail down everything!**Choosing a visual theme**\n\nI'm considering an image that features a lot of vertical mid-brown tones, which suggests a dramatic feel for interior spaces. There are influences from \"Georgia Rule\" and \"Rebound,\" which are lighter in contrast. The colors also feature green leaves and grass, and hints of black and grey from \"Fifty Shades.\" I see a connection in a comedy-thriller vibe represented by the \"A Man of the Year\" with a blue center. Overall, I think I'm leaning towards option A!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80MbN9sYhhB2G2MpPGf4YhqoHnTKaFkodAX03i0muWkSTCJsGVgdaGMPPETIb4u5G0EOdmP3XtQ-zxYnmD2UctMQsCcDNcRdZt56vP9pACZz_vLfELVOSK-W89fWEbNPrS1sciUgdMhdS9R0wL5Ut7hNe8NQtHTNX_zyV2E-1yhg2QgGzwxHLcxmzw6XghqD7Jrn_eNy3DBzGqpWHr63IOXa_jN2JXpDisoUYY0NWmyNZjF8CT1U83qk42YQ3SbFd_A0oxYtzhMoIs5wtg2ZsSlZA86b46UyaW2IvRRNpP6tdvqpj_O_BNzbwjmZNmqDWU-svNbmsbBP5KA7_-cRi79QopIcIEg0J80BBMmtKmQ7uH9Q1ikbEcSDrZBduXvjO1CwtrNuYOaf6mb-Tq-ZkTXpoanw470HDR82sEmCHjqmWH-GT3A-o3Z65ow8cQrId2-3FJ4qweVAX67c-PCYY3Qm1lNn973seYvA-SypbC9DEPYkMWCNDG5KdeM5E04G-dy3PgYD-dt0HCgkhA46zpNJ6syH8hNiw7rKp8VpsyGKEFmDpZ4Ewj7ozVslnvo37Vqi_f66tKuMpUC47tmlJh810VAIoJ1pE3FsquIvLS5YCMMCTdpqif3QoDcJKA4lV5poDlTJWyrRRdRQNnlF7l5Wv3NypkU5NgTzrVnDT_3c13irnJPVLv2GOwrcOXmWBP8QA0zA1z3Frrh-MAaHqNidX3J-DN4I73wJg3JECbSOqronka5Hp0aQFqbzCi-b9ejjgUiigE6sYuGEFWbMUKRHscqLhihcyqZ59qSw_jj627DkHdf4f_swyJscxHpmR3IMxImII7ExFIdWL2KVgOd7LripQI2uQUNWsgNu6Fwe0r3rvQOl76rVfD7HNqpY-Won6LVgKhie3VzGDQX00tx9zTsS4Jfi_u_JE6VwjwT7doVi5jK2hqsgxUTbxnBcdwMRJxN3MRC1jGO0hcAB5UvkTykmJ9aqofuwwIvScAwpVrN725DHRYhyMzn4mIMwy5wtHgEWR1j-GhQbKMsnx5IPpZLHBPsjoc7ILHZrxaQpysiM4eQZ-uAVZxwjGUhbur5nl9kiAwmjxu0NRtuXhCSVrm3nCKOHpjDRiSoGK2HlbCmMVteaYemZwC8NRv2H9WqbchktlXB_vKIJpy5ol532l7Fp8mOaVwdX-8zHvIe7xpx4ktGw6NQcZRlt6x7jTEQxSnE2H5JacI8IKeEmCOMvtl1dcMStJVuRqdpwoTEazMvzgbUZ26U3IIaTxSihm7QnL-rGE3jADaCYvbhQvsISJSlX5NMWHgrKToZlIDWzD192kRgJvqCtYZiCo68OecvLokYocwA7BSDHWoeS1KxfGM4AJJULcFmK4I4R971NsaYZegYQe9TrjTpWN4NcO-XQXb9-AggUwTrtSKTvD5Gcowaef9sfQvVXo4UiSvnpmeThgZUps6CY_UtaVcwmpLE7mlwUOdFulATZ7gmrns8cAIgo4a7WiqKvp6pvfCiTgPn7-YnbJAbS6FqVQp_gN9Kq0mpYI3gD7KAUi7OKTZKK6pKg2G4oVRpWG8H_aAmd8Ghncn8GQTQ4x4nej_mQok2VDXxUH1WClAQTZloYvazSizhD_X4-V9ogT0ygC1HjL907_yG4rboBnSl_UXCNpQLYxh-FcqH869SPB2EKgAQNF3lACn9j6CLNstFThr9e-6wz9wfuDYTx0q3w8zZ2SSmF6PsEcYsyJo3eTxW0Ngnbv3NFUY2H0u0pEYoNOQUE6wuPEtRnqEunItBL5HeZqHtOrvinW4g2B8A-qfqbDKzrbu4Q35dx_8dMIC3AB14pzd8f2E0RiThPyL4h_lORkhMBNZW2pjgmrvmHp3diI7DZLiCwAf91KZAZLfEBYFaq3HV5OMdvzWy0F89WJyci2KaOz_bWt0L6jUwIBSU8KwjUfi4S25OVUED7IwhZkZiJpILWmfwpxFUZWsCea_EI6zcTTpwWQQe0lcK7-Qp3-OlFtNmjQ0WqMRNfE3Sfydo1nOKZpaV1WtYJ-v1Gs9Du0HgLiaEflXA8hc3hV6Sa2fLavWpI2vrKRDDeZpkGlK3zIsM8aPjOinoy8U-lv3XArqSmn2fwB66sNpfdItqvxeYR-AAOVuhIH4O7zXG7vck9dRC61KWZboU6IyJKyYH3J_Gb0Treji-04h6_yLC6jYFJ_bdKEcmvHxK7N27kbldBxJo23UUkKMg3HpSnqRrXVwDWkJTfAHgkqPXOYBR2RPULAPLf6FDMzDPjn-ujkHMrIa4_EHAWunNfUtv4ypGbKLlFDrVWwg17WYHBd2zdUUIvZAHjkeovpFTu-jrkwXbSeSIOZY3f_FAZZdw9kd7ep84CrwOQ1UJwCtW3fRH5GxK5_I0BRyvYM2HVSJpIMapIK4liQlyTcXtTcOA9DWqwmLayAu2QOAzETyRAzrMeJnbNjKZfNe4HHFoG2TuYTlBRYfwo8UnjiX45g9qLcHZqWvmBg7vKrP6MvfLE4IyJf6dM8rRfmYsD-ltKYvfGTEECXvba-LRT2-uS_sXPGoyhvkhtqzxpK929II56vz-jIHSeoLb75cnba-MNkPQXf_-682-RA-VjY8AQlG7SpUXb4W_-0FEoAKKzT69mtifkeo6-RPY_kTpzxk3TFLxry4RMtDhbQLMDEwbHWZRlIuv37McXzdjBEvVxGydH_Dpzq1byjpGYiExD1mNnFhHVuIcasxXjGAaG75GSGVRtOkOf2rkOxz4tnPMVAPnRWuhUe9Lt3v7jkcxzDW6pDeXb4mHLysM0Vo60SjhM_ny-uYPwi_i_9cYKIxyz70mA6oEEKTIKv-R8Xb-3ZjzbykSckI6_SNmQpAVxcjYb4l51gzjjNckJCKyGDQaW0EKuqlIQec2D7aNrgzZR8Lpvu0GAHRy9I0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07303ec8db669427016abfcd00b0d887d19a0ea3a0e2a58003",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 266,
+   "total_tokens": 700,
+   "cost": 0.01764,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01764,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.0133
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 243,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

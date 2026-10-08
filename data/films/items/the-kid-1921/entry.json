@@ -1,0 +1,19 @@
+{
+  "slug": "the-kid-1921",
+  "title": "The Kid",
+  "artist": null,
+  "year": 1921,
+  "label": "The Kid (1921)",
+  "hex": "#4A4B4A",
+  "rgb": [
+    74,
+    75,
+    74
+  ],
+  "frames_sampled": 4097,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "Brzdac1921",
+    "url": "https://archive.org/download/Brzdac1921/Brzd%C4%85c%20%281921%29.mp4"
+  }
+}

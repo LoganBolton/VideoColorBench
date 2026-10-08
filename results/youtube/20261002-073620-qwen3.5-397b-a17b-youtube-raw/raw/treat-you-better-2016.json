@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.5-397b-a17b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790926984-heAbJsGXOcoKh98l8LgD",
+  "object": "chat.completion",
+  "created": 1790926984,
+  "model": "qwen/qwen3.5-397b-a17b",
+  "provider": "AtlasCloud",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "The image shows a series of very dark, muted vertical stripes. The colors are predominantly dark browns, greys, blacks, and muted teals. This suggests a music video with a somber, cinematic, and low-light aesthetic, lacking bright colors or high-contrast scenes.\n\nLet's look at the options:\n*   **Uptown Funk**, **Girls Like You**, and **Bad Romance** are very colorful and bright.\n*   **Shape of You** and **Thinking Out Loud** have warm, yellow/orange lighting (bar/ballroom settings).\n*   **What Do You Mean?** and **Counting Stars** have a mix of lighting but generally brighter scenes.\n*   **Hello** by Adele is famous for its desaturated, moody color palette. It features scenes in a dimly lit house (browns/blacks) and an overcast field (greys/muted greens). This matches the dark, uniform strip perfectly.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on a \"color strip\" visualization.\nThis visualization represents the average color of each few seconds of the video, arranged chronologically from left to right.\n\n**1. Analyze the image:**\n- The image is a series of vertical stripes.\n- The colors are predominantly dark.\n- There are shades of dark brown, dark blue, black, and some muted teal/greyish tones.\n- It looks very consistent in its darkness. There are no sudden bursts of bright white, neon colors, or high-contrast scenes. It's a moody, low-key lighting throughout.\n- Let's look for patterns.\n    - Left side: Dark browns, blacks, some dark teal.\n    - Middle: Similar dark palette, maybe slightly more blue/grey vertical lines.\n    - Right side: Still very dark, browns and blacks.\n\n**2. Evaluate the options based on visual style/lighting:**\n\n*   **A. Justin Bieber - What Do You Mean? (2015):** This video has a lot of scenes in a house, some outdoors, some with bright lights (party scenes). It's not uniformly dark. There are whites, skin tones, and brighter lighting.\n*   **B. Ed Sheeran - Shape of You (2017):** This is set in a bar/gym. It has warm lighting, wood tones, skin tones, red boxing gloves. It's generally brighter and warmer than this strip suggests.\n*   **C. Lady Gaga - Bad Romance (2009):** High fashion, white bathtub, bright white rooms, red outfits. Very high contrast. Definitely not this dark strip.\n*   **D. OneRepublic - Counting Stars (2013):** Set in a church/basement. Has warm yellow lighting, dark shadows but also bright highlights. The band is performing. It's not this uniformly dark/muted.\n*   **E. Mark Ronson ft. Bruno Mars - Uptown Funk (2014):** Very colorful. Bright suits, city streets, pink buildings, blue sky. Definitely not this.\n*   **F. Adele - Hello (2015):**\n    *   Starts with Adele in a house, flipping a phone. The lighting is somewhat dim, sepia-toned, grey/brown.\n    *   Cuts to her singing in a field/woods. It's overcast, grey, muted greens and browns.\n    *   Cuts to the house again. Dark interiors.\n    *   The overall palette is very desaturated, moody, lots of greys, browns, and dark blues/blacks. This matches the strip very well. The strip is almost entirely dark, muted tones.\n*   **G. Passenger - Let Her Go (2012):** Performance video. Usually well-lit stage or outdoor scenes. Not this dark.\n*   **H. Maroon 5 ft. Cardi B - Girls Like You (2018):** White background studio set. Very bright. Lots of colorful guest appearances. Definitely not this.\n*   **I. Ed Sheeran - Thinking Out Loud (2014):** Ballroom dancing. Warm lighting, wood floors, suits, dresses. Generally brighter and warmer (yellows/oranges).\n*   **J. Shawn Mendes - Treat You Better (2016):** Domestic violence theme. House setting. Lighting varies but isn't this uniformly dark/moody in a \"grey/brown\" way. It has more standard video lighting.\n\n**3. Deep dive into Option F (Adele - Hello):**\n- The video is known for its cinematic, somber look.\n- 0:00-0:30: Interior of a house. Dark wood, shadows. Matches the left side (dark browns/blacks).\n- 0:30-1:00: Exterior, walking in a field. Overcast sky, dead grass. Muted greens/greys/browns. Matches the middle section (muted teal/grey stripes).\n- 1:00-2:00: Interior again, singing into the phone. Dark room.\n- 2:00-3:00: Exterior with the son. Still overcast.\n- 3:00-end: Interior, smashing the phone. Dark room.\n- The color palette of the entire video is famously desaturated, relying on greys, browns, and muted greens. This perfectly matches the provided image which is a sequence of dark, muted vertical lines.\n\n**4. Comparing with other dark options:**\n- \"Counting Stars\" has too much warm yellow light.\n- \"Thinking Out Loud\" is too warm/orange.\n- \"What Do You Mean\" has too much variety and brightness.\n\n**Conclusion:**\nThe strip shows a video that is consistently dark, moody, and desaturated with tones of brown, grey, and dark blue. This is the signature look of Adele's \"Hello\" music video.\n\nAnswer: F",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on a \"color strip\" visualization.\nThis visualization represents the average color of each few seconds of the video, arranged chronologically from left to right.\n\n**1. Analyze the image:**\n- The image is a series of vertical stripes.\n- The colors are predominantly dark.\n- There are shades of dark brown, dark blue, black, and some muted teal/greyish tones.\n- It looks very consistent in its darkness. There are no sudden bursts of bright white, neon colors, or high-contrast scenes. It's a moody, low-key lighting throughout.\n- Let's look for patterns.\n    - Left side: Dark browns, blacks, some dark teal.\n    - Middle: Similar dark palette, maybe slightly more blue/grey vertical lines.\n    - Right side: Still very dark, browns and blacks.\n\n**2. Evaluate the options based on visual style/lighting:**\n\n*   **A. Justin Bieber - What Do You Mean? (2015):** This video has a lot of scenes in a house, some outdoors, some with bright lights (party scenes). It's not uniformly dark. There are whites, skin tones, and brighter lighting.\n*   **B. Ed Sheeran - Shape of You (2017):** This is set in a bar/gym. It has warm lighting, wood tones, skin tones, red boxing gloves. It's generally brighter and warmer than this strip suggests.\n*   **C. Lady Gaga - Bad Romance (2009):** High fashion, white bathtub, bright white rooms, red outfits. Very high contrast. Definitely not this dark strip.\n*   **D. OneRepublic - Counting Stars (2013):** Set in a church/basement. Has warm yellow lighting, dark shadows but also bright highlights. The band is performing. It's not this uniformly dark/muted.\n*   **E. Mark Ronson ft. Bruno Mars - Uptown Funk (2014):** Very colorful. Bright suits, city streets, pink buildings, blue sky. Definitely not this.\n*   **F. Adele - Hello (2015):**\n    *   Starts with Adele in a house, flipping a phone. The lighting is somewhat dim, sepia-toned, grey/brown.\n    *   Cuts to her singing in a field/woods. It's overcast, grey, muted greens and browns.\n    *   Cuts to the house again. Dark interiors.\n    *   The overall palette is very desaturated, moody, lots of greys, browns, and dark blues/blacks. This matches the strip very well. The strip is almost entirely dark, muted tones.\n*   **G. Passenger - Let Her Go (2012):** Performance video. Usually well-lit stage or outdoor scenes. Not this dark.\n*   **H. Maroon 5 ft. Cardi B - Girls Like You (2018):** White background studio set. Very bright. Lots of colorful guest appearances. Definitely not this.\n*   **I. Ed Sheeran - Thinking Out Loud (2014):** Ballroom dancing. Warm lighting, wood floors, suits, dresses. Generally brighter and warmer (yellows/oranges).\n*   **J. Shawn Mendes - Treat You Better (2016):** Domestic violence theme. House setting. Lighting varies but isn't this uniformly dark/moody in a \"grey/brown\" way. It has more standard video lighting.\n\n**3. Deep dive into Option F (Adele - Hello):**\n- The video is known for its cinematic, somber look.\n- 0:00-0:30: Interior of a house. Dark wood, shadows. Matches the left side (dark browns/blacks).\n- 0:30-1:00: Exterior, walking in a field. Overcast sky, dead grass. Muted greens/greys/browns. Matches the middle section (muted teal/grey stripes).\n- 1:00-2:00: Interior again, singing into the phone. Dark room.\n- 2:00-3:00: Exterior with the son. Still overcast.\n- 3:00-end: Interior, smashing the phone. Dark room.\n- The color palette of the entire video is famously desaturated, relying on greys, browns, and muted greens. This perfectly matches the provided image which is a sequence of dark, muted vertical lines.\n\n**4. Comparing with other dark options:**\n- \"Counting Stars\" has too much warm yellow light.\n- \"Thinking Out Loud\" is too warm/orange.\n- \"What Do You Mean\" has too much variety and brightness.\n\n**Conclusion:**\nThe strip shows a video that is consistently dark, moody, and desaturated with tones of brown, grey, and dark blue. This is the signature look of Adele's \"Hello\" music video.\n\nAnswer: F",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 1289,
+   "total_tokens": 1718,
+   "cost": 0.00474745,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00474745,
+    "upstream_inference_prompt_cost": 0.00023595,
+    "upstream_inference_completions_cost": 0.0045115
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1080,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

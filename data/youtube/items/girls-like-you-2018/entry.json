@@ -1,0 +1,21 @@
+{
+  "slug": "girls-like-you-2018",
+  "title": "Girls Like You",
+  "artist": "Maroon 5 ft. Cardi B",
+  "year": 2018,
+  "label": "Maroon 5 ft. Cardi B - Girls Like You (2018)",
+  "hex": "#2A2931",
+  "rgb": [
+    42,
+    41,
+    49
+  ],
+  "frames_sampled": 271,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "aJOTlE1K90k",
+    "youtube_title": "Maroon 5 - Girls Like You ft. Cardi B (Official Music Video)",
+    "channel": "Maroon 5",
+    "via": "yt-dlp"
+  }
+}

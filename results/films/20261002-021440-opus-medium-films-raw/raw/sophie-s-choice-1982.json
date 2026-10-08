@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907310-Bzh1kbWRt8HGe8zqrjrW",
+  "object": "chat.completion",
+  "created": 1790907310,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This barcode is mostly muted browns, sepia and amber tones, with only occasional dark blue or green accents. That consistently warm, antique-looking palette is the signature look of *The Illusionist* (2006), whose 1900s Vienna setting was filmed with a heavily sepia, vintage-photograph style. *Sophie's Choice* is also warm but has more colour variety across the film.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The consistent brown/sepia barcode tone throughout points to The Illusionist (2006), known for its distinctive amber, sepia-toned cinematography, more so than Sophie's Choice's varied warm palette. I'll go with D.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The consistent brown/sepia barcode tone throughout points to The Illusionist (2006), known for its distinctive amber, sepia-toned cinematography, more so than Sophie's Choice's varied warm palette. I'll go with D.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxQYKEAgSGAI4AUIIdGhpbmtpbmcSDGVjorQn1yKHecQuoRoMCatfZgumsYpxfTIFIjAWG0De1QSCkauv0wH4j4/oXpla3VhuuwqV1EgExcJR5BvNeJ0cgrPT2RsQAT/vBUMq4gWkgMoPZz3CnEdWI2pNfYGYRduGXJ/hCaujH/L796XDPrs+upCcfqtmO63nXC4+jWqpiZaQ3BeMe6WYy7rqUceCOCaeSDZ7ooXjqdaGxWoKBc4Bj/jtmrGksCx66/vsgB8gyfSCzb14SWdrOowgHhV7cx0hIrYr0Znjhx+Ogc7dxhDREohSKt8SgexWyWX0Vyp3c9wTyJYqnmti8z3icSAQlnalq/dFKW1X111cBvBguXfVo5RQAOd2nJ50Js/tHNxk47H/qGKhRqDRZx1AVqWqDdiARZYV7Xk0tMc9qI1lvvwUiqSuddFPr1nSnQYJIWmbWiVg7Lx8LGE1/pVAf7yFhIB8a4u+7n8spgWKU3Y+3QgY+Cw9MfbF39W2NVZyQgoi2yQGgK/ZQ47t9t698V7nLPpzst+3J2YCxey9DlfWMtiWLSvOPwzoETnuKfTVLBpCUd2mqax8aUT+zzrkwztJtFbP54lXimBvgX3ikjj7aToXKYNIoLn6Q3yXLvS/KZlzHTbLHzLeW7c649+DNcZb1ADAScQzcD34XDAQg8RCHliwvKvWZiGKawnPq2qTGpmId0OG/0dgYqb0WRIvq+FiN1r0fUQnBt6IkldMrn5t2yZT0Y5w2FLsyWsnHaDDARJfcqXS9gQebLO1jGbg5v3YpkFImKBlBBGIGtvKH9LZdQSTLKf5UiNikEK6Fue6aBKo5HxuxILzeVN+bhI0VzOlkP6YZq+uVjG/Z5mXybitjb+cm0TYzfwrmnEnL5z58P4sWnLnYrjbRh/BRS7w05+FNESKzdMVd40Bm8kSxmMSUSdYbWMrVypqhZMUsjVFXmHSgm1cHD+MgpE4i3u8Du8jeGbhT7F64fLh/te6+CsE3WyhatQZA5m2+Eg7gRraydurCzBYLy1kKp0ej25/sGSBIJ6v9iJD8/WAn5h/uXlES8NVsniSX3wfoEsxzF65eaVS12BTRMmJvvBawYNHniguUoAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 523,
+   "completion_tokens": 228,
+   "total_tokens": 751,
+   "cost": 0.006652,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006652,
+    "upstream_inference_prompt_cost": 0.002092,
+    "upstream_inference_completions_cost": 0.00456
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 93,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

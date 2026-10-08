@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954593-OKe1p8SOldUeA60JG0VS",
+  "object": "chat.completion",
+  "created": 1790954593,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating colors and themes**\n\nI'm trying to guess the color palette, like a predominantly dark slate green, blue, and gray. The initial options seem haunting and modern, like B or E. Nosferatu brings in muted browns and brighter sequences from nature. We have other choices like Aguirre\u2019s lighter green and Zulu's bright brown. There's also the contrast with Eagle's gray-green, reminiscent of WWII. The barcode looks mainly muted dark, leaning towards B or E. I need to reflect on the shapes from 1989 to 1996 and consider how colors transition throughout.**Analyzing movie credits and themes**\n\nI'm considering the end credits of a movie that starts with a black screen, which could mean something with grading. The first 10% shows daytime in Florida before going underground, leading to an intense zombie finale. The credits take up around 10% but seem to be only about the last 2%. I'm guessing the haunting final fire sequence should have a strong orange, while the colors range from muted green to reddish brown. It's really just a best guess without many details!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating colors and themes**\n\nI'm trying to guess the color palette, like a predominantly dark slate green, blue, and gray. The initial options seem haunting and modern, like B or E. Nosferatu brings in muted browns and brighter sequences from nature. We have other choices like Aguirre\u2019s lighter green and Zulu's bright brown. There's also the contrast with Eagle's gray-green, reminiscent of WWII. The barcode looks mainly muted dark, leaning towards B or E. I need to reflect on the shapes from 1989 to 1996 and consider how colors transition throughout.**Analyzing movie credits and themes**\n\nI'm considering the end credits of a movie that starts with a black screen, which could mean something with grading. The first 10% shows daytime in Florida before going underground, leading to an intense zombie finale. The credits take up around 10% but seem to be only about the last 2%. I'm guessing the haunting final fire sequence should have a strong orange, while the colors range from muted green to reddish brown. It's really just a best guess without many details!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xu5QsAcr0HiyAYqgHwAW1C_3jZz5qBirg_mJAMwql22OUvDkfEAaxjWya3k_QDfrHBFlxN5lurM7Y9XTxTFfBMblIntwwigbiqIXzSBblxjau2R3D-I7Mk9cdDMD2D1hWIe0EYKlaDyQrWm-GpBay4GGEqaP6yddBuVIhyVhgkXA5r4HAVMHCvDQsxk31njjZNVKQ_qm-w22MeKsItFCRKKDbfQ3p2LPME8AemIGLcwR-HdN6YN7liU6vAUQ75RdHeswdYYKIo5hM0lWvMQMXjMuH39ga5zAnDSOY6gTeSABh1jX5bME2JnYD3cBMT6nGeNTGbFGPq-UqL-iI52c9kSDL0t4xwIa_Y-buZVCSQThL4-ctYjJY5ld1g9okhwl4UEZ80D6aKef4EW8IvsmSPJD6prt2QBZLeiwYCr2ioQjWriQ9FdA2JIX8DBBxgKIOqTBDAfHSYcqbo3_J6JWGoP71_6ikUnK45rUHzM7i5O7SQhVkFZun9qJR_XkRlEA8gtK7Fa6l2QwBrjDJAXIAr4OKeW6AqHg8-S84d339Jkjm-dhJfH9wcvBkeGgkhrHSOKqwbxXB7mNNvBNm18JBKZr4oymPiiQCrZa2nvN5SYLBNlFZkRP09LV51e3O9kM-2DL2mO1JPXSZG-itUv2yw9vaSqs9sBi1nEZIFwPc2G83sxtH-JFEjc3CMUcg9SCxDm2NgbdRWryL8VCwxOnUqWWJwlPFxWb0LD9_xSRLMdScyR_Cgqu8EyicA6yja0AvF1EjEFPXvJzihmJRQyiecqw7_WkygO8ozSBr8YaEgkZPoAZNWxJq-rqxAGnAJ_SYLvneDkOWR2m0fxfurhCZr62gIGQaCgxCXxSC82nxNAlaFPyB1SUTLzMhFc9RsVQudN0HwjGFacrBrs1LlSJIs8kDD80oJCsAqt1zGd5Dy1a4ceKYv48i3ao2xJvMY2D5nGczCld23AaWEXCImhlbCxi6CP9Ol9YSsKIt5nDQR85QDxnEpfujvXcfBpIOQJN_50ar55iFJoYH4w4iiH4S9nGQWgMXPd9d5e_8NWDdivbxvRSPoLL56rcZWmPGbN0_vI1d-Brmgk3Jf1sigdn48MBEexns-2kK7M9sPjY3C5nY-vfWC0XwedzTKp5xTjLtPT3y0DjS4xdHgyikHkA5UKMVDi43k9zFgE5XyTl_7ZCcMoVL0YzB-LnpIcTOp3aPwI68As8UE9g0BCwVvKWcYuZ_49SwqBOWdyqEirp2ZeQdJH4nzCkBKESXUiOHc0TDwXYxWdLF8iRuaNJAKJBq1Xr7-cSeQX_798bBsv3rGzeDAYxDdSgTJj9KZqXklezW6QQbMEXieng4w5SNr0U4JtAkkuLHW8RtmDcNdFwesa0CW-GjjhVZX3CujlN4UmDW8h1yfkZ4T_rMK60ahp0noAs__cs1AGsy0sbFeIaZ4gW6V_ZJt2reK8n7kPfES2p-HwSAk7IAEI0UQicVtAgkraaEYJRkVw42inOK1FIDZJYrBPy7JeJExHFWQhR9VB1O6hFWE4SrNH3-uI27dptqZvGZ0Ru3RbGt-ACPphSJTB8d5t9E0C_4Tsuo8GAX3kcGofjZew89SlqZ-5CXILvdH0OIAg6UC-MtXYTgpaCEHMuugSy8Sp4iGqTFeBYPY-u3ghT3BpKSkTtbZ1tyx2sGDHNWLudU2NBBs0s5iGJCOK-FG2CKr0Zac6r6Ofe8driZzsh_4J9ra1xaOfMOjMoPSYY-CagXlgf5I_QQcmZ16BAb50PWEQf89l8_hJpM4psoeyQjV6Cf3tXUlkFUIQdx1_crXIw61CrTgERWFv7QaUpbFwtGFTALaK8rxN4AZensEzBsTUqtEbCTX7GCDUYBHlzK8HkwhiE_C7xyHavS4B8qZ5QW639PkT4FvH-984_5rXWy-TVr1hV-AynJOemiFtaNYUxv_yuL9Vr0vxhOz51q5g5U2dST0LpTnoHoySif3wKxx5ZBqGMk7bKh54umDGBOyzvdhUnGn1sCLfOzByxxloauiLtvurVfNaZGL7S2BbRDPlm-pS2w1FDeD5EitmSFcFmb2u_you8MSYrilWtnheGljlJp-uPqNCn4Qdzb_5g-55QQTwF_Wg1MOLyLfh8dzf_fytEctuu0qjcqEcTd9hBbRmrD3QLD6yb71w7Qsx6nxSCiYYrFOosVzPATbHYR0BgLWq0F6KFm7jU4I-HwauqzjG1TZKD2yRsoTMz4IqzdGl-Bd7SGV6VWqjBNN5rHOQw1Nl8xM7aierT6OL2F3oi3XSAkbi6a3tm8i6_WcQIN64XXBBis1IWJw1TsIhC-YmC0a7QRQJYVFMSPUJmobS5Qj4AJFlHh8e2P94DK6fdfm6bL7OtaGfjaZ1b62YWH0RTWChwsxkj_hFONdXfgcdyuUD5dHBfnA-Q88FF9XxFhe_Q_D06l83DlT2DCpClXNZOpdF10mHPoZtilUs6QjhzjBtOvJB7ig-V7jWuokEYa5nQbW8tT3-7CMEptDEjweYdYeGejExc3_U-60HjjoHitItNzqbNMc_5lq8E1RlTPo75kTsP99ckPUKaXeM9KU3-JEZm4kH-qSrSGVkRbA26trd0RT5OZbf4-Zjj0KVwrXuHQoZonYnCcP29QtG8W9I-l2fp8NpNzZT-sG36gOPPJRJbEtKRCP_eE0yuOuWoPi0ioUB877Y94DUWuS5plg9ueXjAPHN_-eXJfiJPtZca-nRihqHSDAClRLC0v0-yCgquB_hr2VV4yp-Mnb_T1BIUNAX5Bc3AUSYYVDRgpObB4_iHbgBRYvuO3wwQMZInlPQgla1HP7nAgENe40Gfaw5syXxrqtrOk2WOS42Ql0CWwj4pEEjzBNhqlhOLRCIkGVIYhv1LsBFKilkvV2Q70d6_8i3dlYRXYQE2heSzmoWGmqNKWoRFL5AiBKdUlxmpgkwZVX5T4azsdVqSts8uMCgZhadIaotEkpEIBLVbdWQeei9Fip3DFkqTOhMVRcxeD61wijHiP5Ki3Hu9zboS3lEWOsD6thzIIvev0Q7AMptcHNtiOvw4H8p485f5OF3c72BOgsBiaoWtVpzhcYvHtGlDropd-XgR0HWFKbx77ILT2qYwqGHIKEGHF3UkZkFzS4i6DxcMop_4-l894SQri19J7UygUUX-0FFSfLzVa6c7g0kXZdoBz5hrCWKnvRlAm620Is3er8UDuulXYEQYqQ_YRC6xlhX8B-06JuGpQ=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04f19a2e50829953016abfcc63060487d18ebffc06da9f9d1b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 445,
+   "completion_tokens": 333,
+   "total_tokens": 778,
+   "cost": 0.0211,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0211,
+    "upstream_inference_prompt_cost": 0.00445,
+    "upstream_inference_completions_cost": 0.01665
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 324,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894275-KroDe2yYWf8RvDxwSCN4",
+  "object": "chat.completion",
+  "created": 1790894275,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is D, \u201cNatti Natasha x Ozuna - Criminal\u201d (2017).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDK4-CtUNnCFPdIuhW5U9IRBpKhN5133BmLjYc7csYLN9ULtk4L22pWlc77iBGo-RT_WOBfKQfCGqssu7xOzEllIL-TKbHWpoKYQHqg6_E4EtPMYoGgjporqLRaCiVAxmjrT5IVhMqV3UqnDdwWOVkWLiG3IQu2C3Z1ao9I81Ek29TayXo2irnL19EsK6gwTZK1LILzo-mclXmgajYbnEJUX8c8V5ueno1zPsgm7yBe3R8DjDkXh7D7zoYNoZtu64cihGmFmCpwQn0ZN0QMBoRGoKrAEJVeX-5HMf1Mu0biBy7qCPxfxqNbsE99JLAFB_XurKDszK1gvRZYgHDtHWbgxpBj5m2GZeHx_e3u89341A6E9XA8Jn1juhdnJH5Cr5cYINvcsLA1DhFWubn4G6iJoKjOTvigZH-4w3qyk35LN8enmB-njL-a94qcaSihygNx5DDeNCnMfJq5QENI9-v68GLiXGvx7jqTW--UrTaZ33TcBfKZ0NDn8a6uMkZXVBxEUxSTie_5EPuIJYSEj2lKJxAKmNe3KafeWf6qymC3srGv0YI1BlrnxeiJovIe9w4dYTLTfE_Fsc29W5rh8XdiImRSLydaz9PONghn5YoTJqLW-9rQia77rYWR2YwoGBHeA4-nLJmkrYVogVrkB9lnlcGjFCj6TPXMB7X5nCq8XkeOQviVAsmBipTJmUKS3O4oWfllFCTQkTxwHdYhLCNMcwIqdYfnySjke5urnK9MYDqnbIqtT-Qf9Kp9XDcDIH5JBxnEdntq1DeW8mJxbjEBQBJRSctd4pi43o5x4qPf7sjIhPE1a47ZvlkTit70JSxDKX0awhLRrUSaNu1U5b2sRIvxO6T_lRkIuRBTLk0rt34hQvU0PrcnBDsRiW76aoayb8wdiLPYBtdc6YxZQr5IuVazLLre4byvhWSqZ8OiVXkgkD4EjLOEKxf8f1TeFGLVG89wfDhbL57Q9f8IJlNvPjuGaLveTJzZru01x1CdUQ53dQhm462Op11RnXefiYrdQ0bUv6BX42a6lyRRCUx19WiEvHBuSgaSmXmEsVF0grsw8RAkDumlCgpGZnOBMnJfKtuI1-GD-dvtyeVS9V9-PbjiiOztpObOf1OsHHzIrMc5OGAWye5tFgMfh70QB_sUHVdl6V5V0F7HP_b2oqrRrkv8K1RjBUd0gliIWV2NyWldQk9wZt3lgukka6IOkPi66-B466mXZzrsmuOzXM0PIofaY84hEHUvh5uLm1JMo54CKTQJYMh0HuPjeZLtpBsVdtaXx7dw7evJzxajvZy2f2TPiyDmON1NuWp1s-vIcCDjSvKaAIrYG1RdALx26ZS9ZIcqC-zT1wzrk3RzZmXuqJq9s6qcwSOsU0vIPBMnfythhDYPSVu7Mw5U8HDI1u1UTPeF68ar-JJs0VFWHbrVSpUeDlliS45rYR3ln5fMwrOurH7fjiKWuZ7EHvFZhI5uZ_CgFiSjewhnDgkGPAm-Js_TfP-qqF_7qwMUAODWTutCymLbsBweHSisCzvqH_S-v6Pciy7rzdg9xcLHglmtofmwL8eJz5yIV1G50u0JNDYlgOXfhOtqnQyM3uKBguBCVaVNMb6ZT4N1-Z13y4SfxwZsj_ggEcczLsEQP2nYN6hmVEGupbZhqg2tR2BrywGPDP-Wo7K5VffmO7wOVd2lx_01XUA3dvZgPC5Fz7fJHdzRgVYde00Vx8le-oeefKpxxv_dZQaQbgY_IXGWK6bUYe3m-YZg7jpcVNfcwpSHdmb72JTYgM18oAzK_Cjk5X6Qu7d2MLBnbaQ9zcKOsxST-qQwJR2yl-2PWsMcFhB3h88XvSjw2ZxTRFvcVUr9bjfphnJst_UDkuJGnwg6oWvGPdqGEhVUPSgTVMWQPsQQICpRKx32StOAy1KkHLA4ki0JcErujukseA-d2zRCHoe_eRNt1ZrwlK6AHqotyDJTQVQ2td8DC9PQK8xPgMBCaPphHKMmMJiHg7DXD_Tfkm0FKZ36kG19bcYd51PyvIQY67YQiYgRepwtKV1Bqh3uWFZg8K7GoE8tx00Ut9lxDplVGR7FBfVxo3H4ipNjiXQ6t0cW1xk_6aeCBzSt8eLfuxCsCz_HV8ciA7fsvcw3-6DM4rBLfxFGo-EiEtlxoX3oUkmvb6eZKprfhFtrvFFbYI8irXjocH6lkt3EYn-XNA20sSe2VOoOxaazFStIE90C1rR4cqr6rk0AUIRZgWlEPEpc4hOINboKzB_njmGGX4Dl1p4RynXwSeaC3AQvm2kFdexV43NGBRcck-YCUueWUUnQN_6wBa3z7MmYOKtbRoSq2RSSY0TRzEHvE4A8DJl8pgI3OwShxLrUNxW9GiO090_d62oXV9A2aitn4XNyorQTO74O_982fwJm-9RFFGgQVcM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0209162b52b50233016abee0c5225c87d1846087140fc9b4d2",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 506,
+   "completion_tokens": 198,
+   "total_tokens": 704,
+   "cost": 0.002992,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002992,
+    "upstream_inference_prompt_cost": 0.001012,
+    "upstream_inference_completions_cost": 0.00198
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 169,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

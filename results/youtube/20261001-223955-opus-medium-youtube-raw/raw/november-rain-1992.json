@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-zHR7sE5x1N7YIv7NJNU9",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern, not a confident identification. The barcode is mostly warm browns and beige, broken up by dark blue sections. It opens on dark blue and has a long, lighter beige stretch in the middle. That matches the palette I associate with Linkin Park's \"In the End\": dusty, desert-like tones set against a dark bluish sky. \"Numb\" is the closest alternative, since it also uses muted browns and blues.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm picturing the color palettes these songs might evoke as movie barcodes\u2014Numb with its blue and warm mix, Smells Like Teen Spirit's orange-brown gym tones, Zombie's gold and blue, Take On Me's sketchy grays, Sweet Child O' Mine's blue-tinted warmth, and In the End's desert beige against night blue.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing the color palettes these songs might evoke as movie barcodes\u2014Numb with its blue and warm mix, Smells Like Teen Spirit's orange-brown gym tones, Zombie's gold and blue, Take On Me's sketchy grays, Sweet Child O' Mine's blue-tinted warmth, and In the End's desert beige against night blue.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSvg0KEAgSGAI4AUIIdGhpbmtpbmcSDJd7axMx5Rdr0rFLShoM1dWEwcrxU/hEP/sfIjCZslEqFTt3JJbfpFMiWOQCJVjEJU1YjC5UOEzZEUjteEfv1n63VLNhNXa6QVyNp4Yq2wyrHZvqP6mqBa4mbQGzhH5NgDtp2y0TI4N2qm55dVXFDIFJpj7kzjbywR4pLkp43Vrw6SVs1gFMlklYHbWPYuxlnJOlTrjQloThwMGEUXbjVfp0GD4vyeGXoSsEYPeRCft5Iqs2z7XF+TPclhOA4z437Fe7RRPN1OmD79LWsa6Lbp0SqLmXMru1xq6NfwSQUeAScfPiMEaI9qnQfpJCm0HnBa55jcoLRZXVzznU/xa6DFD7FFYuVLzWYsEixjtiVL9WJL7VpPfJ8cdVbKC838SWMu6/n3Oyo9cT+sNF2b2Bi+KMLG0PXjaJk3RHQZaqXGqVsGgZ1OybGdLpxnWYSeSQ2GykX/sONxXX2tILKJ6MGPNtZhX44XC2w4YDLb2n19NuUfydQgHm6E4+ao/4Ggv9kMVhaTjVEgL99csvzVQNf7VBC5xi5xGRmF4V2iPa0hFJuT3A6bYK8iKtvx13Eyvdqpf6Kzr1ao/r75eFjd8KMlTC3IU9ahTnrzJxKvu7N2YByKC/gdAa7xfdneWAfbwXr/zREWNvO/P92lIyNScHq/mCphaPmJkv9K2fa4R3wme/qLJ9AKxRhrsF0axgyBstTzj4+oCBUrviFdRgBiWwyYgd1F0dg07TLDS4ZoH+xDwcT/PxMmRWrDnYGqpfpWi9qEniS16i1qq7hJP+rHEtdCOjSkwqbH67YnufCYofFxpc+PfhjzLFB3mHFQSc71BZ982cBtPrR6FpGt3ntQRumMtsxvM3t9g1cW1KUXulbiCBPy0G0gWZPdJmYrkjQx2UAQci3sIIZcGwekioXEVDcnFxkVhlYJdHwj06DBbwLz+Q1yx/jBtaXZTqC9qwk1I4Fvk8rbFuKfLpB7LF8Mvhdkr0YiEOjO7o3ZKdck6YOfye0g+YQgjNmEqPcrRR28bcxGoSw2E3ISoHrXDBZ4nRjUcjZ655pXbBXE1HFVs39hWQxUXYJAAWwKRbEjySY6JGpgi+dROWXI47zemZ+68qrT02BoEVXu9CgC/IKlCDJPDhMWTo8L3sL3Kq74bhf+Xut3DF1PDaisWfspVTZ6SfA2Ff/3ElGL2AlVUAtY7iLmqK6XCJ/oF6CT29KvP0qy+i/pD+16zxd3LMjPk4yI9jea2zHAFQ1wU5kBQEnx0t4A1F72q7E77yqwFR4CIuCP/SCvIi2eBQy4FoE32oKyjerBil8IFqUOqwhQWA/slcWo9uK3nm/RchsTUZ9vT2i/9yTb+c8C9b3OgTAjhEy386uwF3AXU/fcZQPBmpJ8TYfNy+6qgHmsfH1x3AY6FcKV8Z09LS8kR9HRJFEQkWg3ncWc0OEhaqbzbsH0SYv3dK1Mq6aQuMPlqCvEksaQPYIA1URw4+PC2VSNq7bd00CRZZwUdA54TXlh1p+Ij2nwMNHUIKJC71GAwvKaNxNsoq50+RSyoIAbZcBFMn8Rhf9DyaR4dG7e9y4m9CN8tlcnxqXFGpnl22CVpG3JyCdicgG9Nc+gj3Ca1NxVmccls8x2FMi5r/iilUrLG+SYpaILw5wgLbq+NkiP1Z13TNe3fB+o+IfUaueoFmX2Xsqylo70vqGmr3l/S2rXxhN+RGo2DZ9mVOALalKGv3FUsJSdfQ8K9y2nEzt7G0HT0Kf1DZLtIipT/fawMdVrt1COq0m5B3VqJ9LyGOhnCa1MsRU85X3ysGrQ6DA5iC5U70A3jJ98kRqkIKvIPn9hExwLePYqHAPsfK8Rp9NFhuM5PjFWw/kHQPhJ3W3Tk4RbIzZ+eTJPBas0/eRYKSF91FpzMjxNf4P1oV8j18Qcc91hfnTAGi+nAvjZV/kkEnMbP2ZjQwbSjLRKsfMUYPH0E7ioJNKD9MVHIC/cF2rUYPBZIfxxx9OrNL7yTbVVfDmfU/uLW5Fki+c+rIgLuXfCI++lNSq4M0ssY0I7ZsyM8HyvWoc+4wnILSG81PCnmnFi+Moa5nxVNWrG7Ai5o8ql0GA/hK7Iimg8XUrCwyWrz2KMf0tnRmciZNVqdOR6+WQ4Oqfr1DhN+BEvIfL45tdaeqkzes+0sBLTGukKmR6KzfDUEwWDEuFcL4bs8Dd168HzAS6zd3RJdtFneg8ED9kkWazA/CtOH5Rb0ZLOvjBckay/+0D8X+1GBdYmyO9TPzQGJtLl+6lB61+gy8zCHaYimA0mx0GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 603,
+   "completion_tokens": 590,
+   "total_tokens": 1193,
+   "cost": 0.014212,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014212,
+    "upstream_inference_prompt_cost": 0.002412,
+    "upstream_inference_completions_cost": 0.0118
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 440,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

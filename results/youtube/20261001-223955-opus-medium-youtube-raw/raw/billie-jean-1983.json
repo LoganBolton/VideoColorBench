@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-Ux8yHUr5n6F0YaKF5UN5",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are mostly muted mauve, dusky pink and brownish-purple, with a dark greenish opening and a few brighter peach highlights near the end. That soft, pastel-but-dim palette fits the pink hotel setting of Dua Lipa's \"New Rules\" better than the other options. Most of the alternatives are either much brighter (The Lazy Song, Sorry, Rude, Sugar), greener (Roar), warmer orange (Se\u00f1orita), or dominated by stronger neon reds and blues (Starboy, On the Floor). This is a best guess rather than a certain match.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm cataloguing the color palette of each video\u2014New Rules leans pink/flamingo in a hotel, Starboy dark red/neon, The Lazy Song bright white, Sorry's colorful dancers against white, Se\u00f1orita's warm orange, Rude's bright outdoors, On the Floor's purple club, Billie Jean's lit street tiles, Roar's jungle green, and Sugar's bright wedding scenes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm cataloguing the color palette of each video\u2014New Rules leans pink/flamingo in a hotel, Starboy dark red/neon, The Lazy Song bright white, Sorry's colorful dancers against white, Se\u00f1orita's warm orange, Rude's bright outdoors, On the Floor's purple club, Billie Jean's lit street tiles, Roar's jungle green, and Sugar's bright wedding scenes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrgsKEAgSGAI4AUIIdGhpbmtpbmcSDI8w1gGi4qPTCIwH/hoMQuuHXV3nCTO8J8TFIjBC4W7MZDcfE3QShkgTAXwZ++sgd8buBTIyxJIhBZTr9mYJPYpAgm6XikxPQuKozFoqywru7lEnvEcIHy5u99RbAgpXd1fcGbIJ4pVMirbHapCsC/PuzblLDZi9KWEC7UV35SHaXwoaZ3eWxXGpQOShFYzZ8hxMkPj39UYh6F11Aoy0bDw9727WoQQcyQjUrloWIw95XXrVZxlkzh33NfbVE/bhEv2HvBRulN18O3+eDZbyMKZS/OBq5fnm+3BJYbfDgxdZvTyANd+XjXVUzvoncYw2WkOeQwTbM2zeX0DthQ2L0tJWAc2OUvzUxrWr8SLDSWzy0WXFJiaOq9lnzzEpbwQCZUTgwsjQNnj92ZXxa3P/Qyt/gVQSBjhyHwtExuvUJ2bs8Koj9zHeuT0iukXcAF5O3Hi6U2fp/dI/2sXg/uSyki18mMNiQuuXxm4iXD4/Edb1enNr1MBeT0XMIWzAUn9qTOcspm7Q4hsVt3x0uWi161Uhk0Iu3d9rjJ3dGR6KdIg4m9hwANuHoGvizkUucLJJ9aWlDTBqufvhJaEzC35/NqCzrj/MAZZ6hsLiHLacmBJt4lI7GRRMnNqGRbG98R+rAgTA8lmf7J06+7IeoPw/badJA45lx5SgvSKZI+E7y3a/pWJrCuE/V8vjHpFv/Dnq2MJfvrlfL77AfsIQ4HWt3DMILvGfagaoSNUaDEVJiSXZd6agzOViSg7iwsCOG6aGxcq7huJYDI599nvFU5b6MfA+yZuMoAVmWZHbHVw1Vz3IiYTD7Xr+7rPRLSTYSxyH27N5T1Zz/J59U8fsvblp92Nr0Jig1YiR11HhmvNk8gpIz/8ma4yvLLcCX7PUZLtixspAHbVfxBcKPgIcIXMIxgBRVDJhJHxc4PT9AAOrePfBfbeHIF/jI7c7Bpij75/Q1U6CBN/hFGgDy+YNO4rJKGvDMAT/HNt8WRzYPMLoLKPTsTK6TtvQ51+wbd1XFqKDfz9oddUs8MXJCjW8ge6RHYux1O/+lTqB4Zy7HeA96NrqJX1CIf5ovHY5CHJVwhlqe0l8+IzH6fvgU9PRSKgUNKyOIYtRO8n95u5w/lBn3DvbeM1+mzYZ/j/2chlCH4Y0Xup7dzh4VKhCA3InPlkRIIY2l35Njl23nry69BHR57PpLNkkNQ2fxYMU02aZ3HS31zujkinmMKA3mIfuXwB8pGpQ8YxIhdYCRIN25H8Ry/kP6EyGhugVVynFAF0kvpoaOCFTNagtxhE7u7UYag+nJwOwrnU9/RgFmTgK6I6/hAGmny3tCMf1VwuxnUaZXzdg/0trpKsrdPcBIcccePU6EfXJJXQBJBU+GOzAYkxzbeuVjMEipnV1yufNNewgVlrkUetzmAGj+GA+kxvu8ShOIUsg38VwTvuXLPfaFjpTRcLGNe0CY21NxHdXW6YgWDv5Rfu4S/7gm8FvbyR3LwHdtp8MZqff4zjDUfl/Yr4prO8uG1hxaQ2rzQR2ztobUfN2VByVnLmZB1YB/MyJ2rlzvSN+zXPfOVzvTd/eJIuxQ+e9tSc59tC24qMIITPIHkqFxULhqOtahX7BpoYw9ZJGL9zR7cOjEFNIVkHuCUuPqyquEvjjEOiswo4wtSCZX63bw/4Y/z+dFz0rzSckc2vTDTAIJfo2t3IVNiZ0dDwg+cWKpjgG9LyIIY5g/+DXm2BYCRjOdovs7+qNrjCV2Rnbuzjqc/V3skRTzaOSUK78TXjeRpLx0t8wbrFLp4Akn/H0KRwDfsyLLxWlS8IqwlDbKK8phjPMAL8Ns/lsDAi7KBvdHKfvwBJBtnheMKn584sGlGbbyUgFlwSgRutL0hJzaro/USQd23O4lpeZxso/fJuc9/xna/IpllDZ7RgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 617,
+   "completion_tokens": 548,
+   "total_tokens": 1165,
+   "cost": 0.013428,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013428,
+    "upstream_inference_prompt_cost": 0.002468,
+    "upstream_inference_completions_cost": 0.01096
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 348,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

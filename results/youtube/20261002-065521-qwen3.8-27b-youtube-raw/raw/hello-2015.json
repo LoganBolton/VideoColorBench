@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924238-Veu8SLhK662aDJT2pgur",
+  "object": "chat.completion",
+  "created": 1790924238,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Cloudflare",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nThe palette here is dominated by muted olive and dark\u2011green tones with the occasional warm tan stripe. That strongly matches Bruno Mars \u2013 *That's What I Like*, which is famously shot against a solid colored backdrop (green for large stretches), producing exactly this kind of repeated dark\u2011green/olive striping with a few lighter moments.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on a sequence of vertical stripes, each representing a few seconds of the video averaged to a single color. The image is quite wide and short, with many vertical stripes in various shades of green, black, dark olive, and some lighter tan/cream stripes.\n\nLet me look at the colors carefully. The dominant palette is dark greens, blacks, dark olives, with occasional lighter tan/beige vertical lines. This suggests a video with a predominantly greenish/dark color scheme throughout, with some bright moments (the tan/cream stripes) perhaps representing light sources or bright scenes.\n\nLet me think about each music video's color palette:\n\nA. Lady Gaga - Bad Romance: This video has lots of white, red, pink, dark backgrounds, the \"poker face\" scene, the running scene with the white background and red heart, etc. Not predominantly green.\n\nB. Charlie Puth - Attention: This video has warm tones, a car, sunset, lots of orange/yellow, dark night scenes. Possibly some green? Not predominantly.\n\nC. Justin Bieber - What Do You Mean?: Bright, colorful, lots of blue, pink, vivid colors. Not dark green.\n\nD. Justin Bieber - Sorry: This video has lots of tropical colors, blue, green foliage? It has a jungle/tropical theme in parts, beach, bright colors. Hmm.\n\nE. Mark Ronson ft. Bruno Mars - Uptown Funk: This video has the dancing man, dark suits, the street scene, the warehouse with disco lights, lots of black and some bright neon. The palette includes dark tones and some colorful lights.\n\nF. Ed Sheeran - Perfect: This video is mostly a man on a boat, dark blue/teal water, sunset, then a wedding scene with white, then a dark blue night. Predominantly blue/teal and warm sunset. Not green stripes.\n\nG. OneRepublic - Counting Stars: This video has a man singing in a dark room, then scenes with a woman, lots of warm orange/yellow tones, the city, fire. Not predominantly green.\n\nH. Taylor Swift - Shake It Off: Bright, colorful, lots of white, pink, various costumes. Not dark green.\n\nI. Bruno Mars - That's What I Like: This video is famous for its green background! The entire video is shot against a green (and later other colored) background, but the most iconic is the green screen-like background where Bruno Mars stands and sings with dancers. Yes! The video has a predominantly solid green background for a large portion. That would produce many green/dark green stripes! And there are moments with different colors (the background changes color: green, blue, red, yellow, etc.) and the lighting creates darker greens. The tan/cream stripes could be the bright lighting or the dancers in certain outfits or when the background color changes.\n\nHmm, but the stripes here are mostly dark green/olive/black with occasional tan. That fits \"That's What I Like\" where the background is a muted green for much of the video, with the performers and lighting creating variation.\n\nJ. Adele - Hello: This video is in black and white/sepia, with a woman in a field, lots of white and gray, the letter scene, the phone booth. Not green.\n\nSo the strongest candidate for a predominantly green palette is I (Bruno Mars - That's What I Like). The video's signature is the colored background, with green being a major one.\n\nLet me double check by recalling the visual of That's What I Like: Bruno stands in the center, dancers behind, and the background is a solid color that changes throughout: I recall green, then maybe a darker color, then bright colors during the drop. The overall average of many segments would be a lot of green tones. The image shows exactly a lot of olive/dark green stripes. Yes.\n\nAlternatively, Could it be Sorry (D)? Sorry has tropical foliage which is green, but also lots of bright blue sky, pink, etc. The stripes would be more varied with bright blues and pinks. The given image is mostly muted greens and blacks, which matches a studio shot with a colored backdrop better.\n\nThus I'm fairly confident it's I.\n\nLet me look at the lighter tan stripes: in That's What I Like, there are moments where the background becomes a brighter color or the lighting hits, producing lighter stripes. Plausible.\n\nI'll commit to I.\n\nNow produce the response: reasoning then \"Answer: I\".\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on a sequence of vertical stripes, each representing a few seconds of the video averaged to a single color. The image is quite wide and short, with many vertical stripes in various shades of green, black, dark olive, and some lighter tan/cream stripes.\n\nLet me look at the colors carefully. The dominant palette is dark greens, blacks, dark olives, with occasional lighter tan/beige vertical lines. This suggests a video with a predominantly greenish/dark color scheme throughout, with some bright moments (the tan/cream stripes) perhaps representing light sources or bright scenes.\n\nLet me think about each music video's color palette:\n\nA. Lady Gaga - Bad Romance: This video has lots of white, red, pink, dark backgrounds, the \"poker face\" scene, the running scene with the white background and red heart, etc. Not predominantly green.\n\nB. Charlie Puth - Attention: This video has warm tones, a car, sunset, lots of orange/yellow, dark night scenes. Possibly some green? Not predominantly.\n\nC. Justin Bieber - What Do You Mean?: Bright, colorful, lots of blue, pink, vivid colors. Not dark green.\n\nD. Justin Bieber - Sorry: This video has lots of tropical colors, blue, green foliage? It has a jungle/tropical theme in parts, beach, bright colors. Hmm.\n\nE. Mark Ronson ft. Bruno Mars - Uptown Funk: This video has the dancing man, dark suits, the street scene, the warehouse with disco lights, lots of black and some bright neon. The palette includes dark tones and some colorful lights.\n\nF. Ed Sheeran - Perfect: This video is mostly a man on a boat, dark blue/teal water, sunset, then a wedding scene with white, then a dark blue night. Predominantly blue/teal and warm sunset. Not green stripes.\n\nG. OneRepublic - Counting Stars: This video has a man singing in a dark room, then scenes with a woman, lots of warm orange/yellow tones, the city, fire. Not predominantly green.\n\nH. Taylor Swift - Shake It Off: Bright, colorful, lots of white, pink, various costumes. Not dark green.\n\nI. Bruno Mars - That's What I Like: This video is famous for its green background! The entire video is shot against a green (and later other colored) background, but the most iconic is the green screen-like background where Bruno Mars stands and sings with dancers. Yes! The video has a predominantly solid green background for a large portion. That would produce many green/dark green stripes! And there are moments with different colors (the background changes color: green, blue, red, yellow, etc.) and the lighting creates darker greens. The tan/cream stripes could be the bright lighting or the dancers in certain outfits or when the background color changes.\n\nHmm, but the stripes here are mostly dark green/olive/black with occasional tan. That fits \"That's What I Like\" where the background is a muted green for much of the video, with the performers and lighting creating variation.\n\nJ. Adele - Hello: This video is in black and white/sepia, with a woman in a field, lots of white and gray, the letter scene, the phone booth. Not green.\n\nSo the strongest candidate for a predominantly green palette is I (Bruno Mars - That's What I Like). The video's signature is the colored background, with green being a major one.\n\nLet me double check by recalling the visual of That's What I Like: Bruno stands in the center, dancers behind, and the background is a solid color that changes throughout: I recall green, then maybe a darker color, then bright colors during the drop. The overall average of many segments would be a lot of green tones. The image shows exactly a lot of olive/dark green stripes. Yes.\n\nAlternatively, Could it be Sorry (D)? Sorry has tropical foliage which is green, but also lots of bright blue sky, pink, etc. The stripes would be more varied with bright blues and pinks. The given image is mostly muted greens and blacks, which matches a studio shot with a colored backdrop better.\n\nThus I'm fairly confident it's I.\n\nLet me look at the lighter tan stripes: in That's What I Like, there are moments where the background becomes a brighter color or the lighting hits, producing lighter stripes. Plausible.\n\nI'll commit to I.\n\nNow produce the response: reasoning then \"Answer: I\".\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 420,
+   "completion_tokens": 1025,
+   "total_tokens": 1445,
+   "cost": 0.003469,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003469,
+    "upstream_inference_prompt_cost": 0.000189,
+    "upstream_inference_completions_cost": 0.00328
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1073,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

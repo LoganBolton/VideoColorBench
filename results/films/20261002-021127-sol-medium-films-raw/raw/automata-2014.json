@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907209-PgO3YX8NsBxOHmB1GFLs",
+  "object": "chat.completion",
+  "created": 1790907209,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Apollo 18* (2011), based on the predominantly dark, desaturated palette and stretches of pale lunar gray.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNWJCzJcTsfYqzjtpAogwtnNXmZQwpEmOOFIb56s1VxPx2Ud1CLIj08zL0nOSHMuqvLhVzpH8LtrtyMn9thWLMECzhFvYutf9Ch-8dEeShZNcRxumNpOpj1QltZdLK51pC4rHSPKYh2-VJYU-LDbH5KvdsfzRG23bvQJpQq_robS7Y61r1cO1sgAWbdTq2BXZ0mVT1dJ9XMZ280hU5q2rVH4XiLro_KE4IbirREyUWfPTiuZkSKh-nTYs6Kza841tLymsgm6CPy6qN0Lf9lQIxhhoFFRiSXRue6B0rnjxUEj9tBlepBTPDsomHWR0BpSPi0BxVYRed7it8MPe_QFuYhEw2jufMoBmlJL96KD20n_GIFR74-sNnVAEtHIePgroTTaqX3Kw_Fd1HFcvHE4ZwpVCnCaSb1hPPFC98OQuelghwWgHwhsGf4RR43craNIkKFdZasGpbULfYJSxcpF9oabD1z_FTCjeYt3h6pamzlhVX9V0rhp7rcwIKLdJ0if1ZwC068Pr8-pBlNUiCt0_1mL9TnOrvuAuSFS3fqB8wMrPmOI5rQfLf3qOeA5gBWicmAsQwut6L1ipDjW_JQ4p6_v5mNkBZrBzGBkcdmZ5wmFHFeSZwaz-uOsSBARUZqzD5qENYjN8DFCFnjLUKlOAbAao0gLVMW-Mh9_j-7HDxpYID5LE_LTCakDBGtMqeWU5GUHocCRiwPhm-7sJPb8HEiMgbbFv_CpZnTsFab4D1WN--KlbICoO3mMJDOmFsayz0V4epz9tv-3jyES3d7awpEcOrfFzHV9acApvYU4cK2FTy2eXN5B3qMTRM44CBsSfwNAztjAYKGWA6ClPErTzNL-bTsPG71NsqzQt8D-g9uAv0c4lL03_jKPe9nSODkCinqKCqzzod9Qbtn4t5uPfCUQOujo6QOcvDR_qDLgZrtAPw42FrVAtQ4CgmY3lFFNKHw25y5QAekmqGTfI06snDV6VfaPkX1y3N7Ewt-e0k0gQHL6hpPZMCyKQ-9RhphO_OuV235DUM3l2__UmPeiSl8DgXWxtS1s1MNG5xqjFRtgwgwhEp-Vlonz5hvqtH_3yItU31oIe_4h978W_geadn92u4nXZq1wgS4bSrY8jKbhjbRw13meLigymVWi_DsZj7JnvgSJnt_iZIKn76zidDRFLAT4lbNxQVMAMKh7WP2N0bL8pKuTbuE-cZedwck_UwhmcI8fDRHwT-s8DBxQJf1BfE8vmDnCn9a40Nmo6ksobE-Sfxvft919p80u7apLnvmggBrwfERq1B0x3r6gZ5agJUHMcLCDqp5ARvvZoAS2DG9uWEeHhRIful0QR03aCvaSo26Cb4-Tpp8yikMu3YWWqMGfdSfVQFHNX8QpjrpkZo6p_4cXxcj1RIcwb-YO_sYk6x68RKfAulk67kzkZi9mgzyqDLs5pXJlW4Nw5gzBUYuo9mixg2LhViyKM96M6g_ZXjN3YB7gnLqIc9LTcgq8TwC_0hQsfbZJWILqeEEVNPkxaArlhoT2Wniervo-mC-TXuGPe8aZXwhFAzIBNUGDY6iJ8-8YSwNgZHQ24T6LkYwClNqBw4LzgGMwi0s3NUbvDfBgVxAgebyqHo3p5DBmHQSm0TXfMynCQz6ky3BF5uUAyQPLahICBEZlWPqYy3Yjthb4JOmVlxPTBd7k5gJtTRQH2mQKZy4mRstLydSXoBmRBC5B8ABb3Cgxe_ropz_kpJ4eQaHffXNQ6gngVeRxoqN1OcfO6rPZ1w2jQ9-D1Qq9Hp5ASddatGsnm1soCUFxqjq6WvocIQTlh41NQUl2devIEWe6nBUOFNMvwssoly-zbG_liOaGB0n7l6s8vYjDbPqp5kVo7ZL_AeuQqOY3f4DVqI5BEmrbrY5HHj19HBUULMsP6wsb8hWULdBffHfqxyhJo9D1EJ62tS3uOlXR9WHfvPHb_Cajss7TIY4Ah7c7SMkAaOI6XrEKQv14hJSZVb5evWrAPHubjzPULSIB3P8Op-se8Pgh9bpP05PBpdmHrKKlZrNg9uU0E_uCF2EPxBig_GpdyF2p45C-Qj2iTtTbKn7FNGMGnMPEfzVfIJUmnLaCtlxYIL6V2IfGBwaH2Qvr6l1VAS4dayIMN0cdS4fF6P05T_aTTRrpsLmjMIpZb4CBydjpgnYqNQB9GiUP2fJx-iHKFYsNWOiVoGvKEzHJ4aXkhd2qF9qtPsyBl4HdHeKJoPyht8_Zugs_GT9lMEspqaOcG-v4hMB97N5llg-aKBwsFo1d9ZgiGuvfl2-fmHwMe1WnVkh6B2zPbgRFHFQBfLLAxZX9dUilKJZ_yLqm0O_YxrYvR7y0DmhPDjD6HR5a83IWE8GhKPZ8JxRwgviOesF1UBCAOd4xdCMdRU6D-AO5kbMnuhj3FI2lvYcc4XA6AG8y_NPvqDmTa1nd6I_CfYWnfBnRoomWCcYFd385Zo9dRoMT_gs5FZmCHNY8MNZRptR8uFcQq2gTOW73Zkek63pVUj6WiSUv5GuHEPGZ0D5BkxeuJjXxVwCTR4YY8ieNhzOU1tvxDBNZQjjEyE-Kom-VZ9rG999DXAt29dz4cGIpnU8YIiZP-TTIxiHIYbUbKUBP2u9VahB8L6wh3MsaJUjQ-rglRJirmxSCzpXAq4aJsb8c460FuBEcUkGokBY85B64ALvvA3KMg8v6ueZcf3-o-rDlF962-Sbl-DgvE-QDnDurAB3nWgl0myQUOFa2HuklgrucZGQVBIiaLVc2J1qZ1xuzfKIeu77IikME2R69Peim_2fbi2kpiipFOdpHZbu9DSjygy5E0MOPc7KDYZvBbDH3IymwVxjz-CeBzibHQ54NzxmNiP_iEEY36ve7Cbqqtynjv4r-e0QLvPd9kvWrYyTejAz9_GVZKgDOIVMGdQgFzr2khJdlM_nyEi4Y8w43_i-HlhKBU5P.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e1a25b047ac388e016abf134ef2fc87d1a7118cb19cbab26a",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 424,
+   "completion_tokens": 321,
+   "total_tokens": 745,
+   "cost": 0.004058,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004058,
+    "upstream_inference_prompt_cost": 0.000848,
+    "upstream_inference_completions_cost": 0.00321
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 283,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.5-397b-a17b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790926759-vb4Fy1zU178XgxmD5rXx",
+  "object": "chat.completion",
+  "created": 1790926759,
+  "model": "qwen/qwen3.5-397b-a17b",
+  "provider": "Novita",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "The image shows a sequence of vertical stripes dominated by muted, earthy tones: dark browns, grays, sepias, and blacks. There are no bright neon colors, stark whites, or vibrant greens/blues.\n\nLet's look at the options:\n*   **Maroon 5 - Sugar:** Bright whites, blues, and wedding colors.\n*   **Katy Perry - Roar:** Bright jungle greens and blues.\n*   **Bruno Mars - The Lazy Song:** Bright, light beige/white room.\n*   **Justin Bieber - Sorry:** Bright white background with colorful dancers.\n*   **Dua Lipa - New Rules:** Bright teals and colorful outfits.\n\nThis leaves the darker videos.\n*   **Michael Jackson - Billie Jean:** Mostly black with glowing pink/white tiles. The image has too much brown/mid-tone variation.\n*   **Adele - Hello:** This video is famous for its desaturated, sepia-toned cinematography. It features an old house, dry fields, and an overcast sky. The color palette is almost exclusively composed of the browns, grays, and muted greens seen in the strip.\n\nThe consistent dark, brownish-gray palette is a perfect match for the visual style of Adele's \"Hello\".\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on a \"striped\" visualization where each stripe represents the average color of a few seconds of the video.\n\n1.  **Analyze the image:**\n    *   The image is a long, thin horizontal strip composed of vertical lines.\n    *   The colors are predominantly dark, earthy tones: browns, dark grays, muted reds, some blacks.\n    *   There are no bright, neon, or highly saturated colors like bright pinks, blues, or yellows that would suggest a high-energy pop video with colorful sets (like Katy Perry's \"Roar\" or Dua Lipa's \"New Rules\").\n    *   The overall palette is very warm but dark. Lots of browns, sepias, and dark shadows.\n\n2.  **Evaluate the options:**\n    *   **A. Maroon 5 - Sugar:** This video features bright wedding scenes, lots of white dresses, bright outdoor lighting, and colorful decorations. The average colors would likely include lots of white, light blue (sky), and bright colors. This doesn't match the dark brown palette.\n    *   **B. Shawn Mendes & Camila Cabello - Se\u00f1orita:** This video has a lot of warm, sunset lighting, but also some darker scenes. However, it often features skin tones and warm oranges/yellows. It's a possibility, but let's look for something darker.\n    *   **C. Katy Perry - Roar:** This video is set in a jungle. Lots of greens, bright sunlight, blue sky, and colorful costumes. The palette here is too dark and brown/gray for this.\n    *   **D. Adele - Hello:** This video is famous for its sepia tone, muted colors, and rural setting. It features an old house, fields, and a flip phone. The color palette is dominated by browns, grays, muted greens, and dark shadows. This matches the image very well. The stripes show a consistent dark, earthy, brownish-gray tone throughout.\n    *   **E. Michael Jackson - Billie Jean:** This video is dark, but features a lot of black (the sidewalk lighting up) and Michael's black jacket. There are also distinct pink/purple neon lights. The image provided doesn't show the stark contrast of black and neon pink.\n    *   **F. Bruno Mars - The Lazy Song:** This video is bright, set in a bedroom with light walls, monkeys, etc. It would have lots of beige, white, and light colors. Not a match.\n    *   **G. The Weeknd ft. Daft Punk - Starboy:** This video has a lot of dark scenes, but also distinct red lighting, car lights, and modern interior lighting. It's a bit more high-contrast and cool-toned in parts.\n    *   **H. Dua Lipa - New Rules:** This video has bright colors, hotel rooms (teal/blue walls), and colorful outfits. Not a match.\n    *   **I. Justin Bieber - Sorry:** This video features a dance crew in a white room with colorful graffiti or overlays. It's very bright and high-key. Not a match.\n    *   **J. MAGIC! - Rude:** This video is set outdoors, often in daylight. It would have greens, blues, and skin tones. Not a match.\n\n3.  **Refine the choice:**\n    *   The image is overwhelmingly brown, gray, and dark.\n    *   \"Hello\" by Adele is shot on film with a very specific desaturated, sepia-toned look. The entire video takes place in a somewhat gloomy, rural environment (an old house and a cemetery/field).\n    *   Looking closely at the stripes, there are variations of dark brown, gray-brown, and some slightly lighter tan/brown sections. This perfectly corresponds to the scenes in the house (wood, dim light) and the outdoor scenes (dry grass, overcast sky).\n    *   Let's double-check \"Se\u00f1orita\". While warm, it has more vibrant oranges and skin tones. \"Hello\" is much more muted and grayish-brown.\n    *   Let's double-check \"Billie Jean\". It's too dark/black. The image has too much brown/mid-tone variation for just a black background with glowing tiles.\n\n4.  **Conclusion:** The color palette strongly points to Adele's \"Hello\". The muted, earthy, sepia-like tones are characteristic of that specific music video's cinematography.\n\n    *   Video: Adele - Hello\n    *   Visual characteristics: Sepia tone, rural setting, old house, muted colors.\n    *   Image characteristics: Vertical stripes of brown, gray, dark tan.\n\n    This fits perfectly.\n\n    Answer: D\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on a \"striped\" visualization where each stripe represents the average color of a few seconds of the video.\n\n1.  **Analyze the image:**\n    *   The image is a long, thin horizontal strip composed of vertical lines.\n    *   The colors are predominantly dark, earthy tones: browns, dark grays, muted reds, some blacks.\n    *   There are no bright, neon, or highly saturated colors like bright pinks, blues, or yellows that would suggest a high-energy pop video with colorful sets (like Katy Perry's \"Roar\" or Dua Lipa's \"New Rules\").\n    *   The overall palette is very warm but dark. Lots of browns, sepias, and dark shadows.\n\n2.  **Evaluate the options:**\n    *   **A. Maroon 5 - Sugar:** This video features bright wedding scenes, lots of white dresses, bright outdoor lighting, and colorful decorations. The average colors would likely include lots of white, light blue (sky), and bright colors. This doesn't match the dark brown palette.\n    *   **B. Shawn Mendes & Camila Cabello - Se\u00f1orita:** This video has a lot of warm, sunset lighting, but also some darker scenes. However, it often features skin tones and warm oranges/yellows. It's a possibility, but let's look for something darker.\n    *   **C. Katy Perry - Roar:** This video is set in a jungle. Lots of greens, bright sunlight, blue sky, and colorful costumes. The palette here is too dark and brown/gray for this.\n    *   **D. Adele - Hello:** This video is famous for its sepia tone, muted colors, and rural setting. It features an old house, fields, and a flip phone. The color palette is dominated by browns, grays, muted greens, and dark shadows. This matches the image very well. The stripes show a consistent dark, earthy, brownish-gray tone throughout.\n    *   **E. Michael Jackson - Billie Jean:** This video is dark, but features a lot of black (the sidewalk lighting up) and Michael's black jacket. There are also distinct pink/purple neon lights. The image provided doesn't show the stark contrast of black and neon pink.\n    *   **F. Bruno Mars - The Lazy Song:** This video is bright, set in a bedroom with light walls, monkeys, etc. It would have lots of beige, white, and light colors. Not a match.\n    *   **G. The Weeknd ft. Daft Punk - Starboy:** This video has a lot of dark scenes, but also distinct red lighting, car lights, and modern interior lighting. It's a bit more high-contrast and cool-toned in parts.\n    *   **H. Dua Lipa - New Rules:** This video has bright colors, hotel rooms (teal/blue walls), and colorful outfits. Not a match.\n    *   **I. Justin Bieber - Sorry:** This video features a dance crew in a white room with colorful graffiti or overlays. It's very bright and high-key. Not a match.\n    *   **J. MAGIC! - Rude:** This video is set outdoors, often in daylight. It would have greens, blues, and skin tones. Not a match.\n\n3.  **Refine the choice:**\n    *   The image is overwhelmingly brown, gray, and dark.\n    *   \"Hello\" by Adele is shot on film with a very specific desaturated, sepia-toned look. The entire video takes place in a somewhat gloomy, rural environment (an old house and a cemetery/field).\n    *   Looking closely at the stripes, there are variations of dark brown, gray-brown, and some slightly lighter tan/brown sections. This perfectly corresponds to the scenes in the house (wood, dim light) and the outdoor scenes (dry grass, overcast sky).\n    *   Let's double-check \"Se\u00f1orita\". While warm, it has more vibrant oranges and skin tones. \"Hello\" is much more muted and grayish-brown.\n    *   Let's double-check \"Billie Jean\". It's too dark/black. The image has too much brown/mid-tone variation for just a black background with glowing tiles.\n\n4.  **Conclusion:** The color palette strongly points to Adele's \"Hello\". The muted, earthy, sepia-like tones are characteristic of that specific music video's cinematography.\n\n    *   Video: Adele - Hello\n    *   Visual characteristics: Sepia tone, rural setting, old house, muted colors.\n    *   Image characteristics: Vertical stripes of brown, gray, dark tan.\n\n    This fits perfectly.\n\n    Answer: D\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 421,
+   "completion_tokens": 1302,
+   "total_tokens": 1723,
+   "cost": 0.0049398,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0049398,
+    "upstream_inference_prompt_cost": 0.0002526,
+    "upstream_inference_completions_cost": 0.0046872
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1023,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

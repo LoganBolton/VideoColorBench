@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924121-JfexugJIYsYEpno6f9fj",
+  "object": "chat.completion",
+  "created": 1790924121,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Darkbloom",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the color sequence, the strip is dominated by dim neutral grays alternating with warm amber/brown blocks, plus a few cool teal\u2011gray stripes, and essentially no bright colors (no blues, greens, or reds). That matches the moody, candle\u2011lit, low\u2011key look of the *November Rain* video (long warm\u2011toned acoustic intro and dim stage shots), rather than the uniform gray of *Zombie*, the black\u2011and\u2011white studio of *Bohemian Rhapsody*, or the bright outdoor clips of *Sorry*.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video from a thumbnail-style representation where each vertical stripe is the average color of a few seconds of video. Let me look carefully at the color pattern.\n\nLooking at the image: it's a wide, short strip with many vertical stripes. The colors are mostly dark: blacks, grays, with some brown/orange (amber) vertical bars and a few teal/blue-gray bars. The overall palette is dark with brownish-amber accents and gray.\n\nLet me think about each candidate's visual characteristics.\n\nThe pattern shows recurring segments of dark gray, brown/amber, and occasional teal. Let's think about the typical visual content of each music video.\n\n- The Cranberries - Zombie (1994): This is a mostly static shot of the band in a gray room, with Dolores O'Riordan. The colors are quite uniform grayish. Actually the 1994 video is mostly a single continuous take in a gray/white room, very static. The thumbnail representation would be very uniform gray, not much variation. Hmm but there are brown/amber stripes which don't match Zombie's gray room.\n\n- Guns N' Roses - November Rain (1992): This video is famous for the long opening acoustic guitar solo with dark, moody visuals, lots of dark brown/amber lighting, candle-lit, and then the band performing. It has a lot of dark warm tones. The opening is a long sliver of dark. Could produce brown/amber and dark gray.\n\n- Eminem - Without Me (2002): Fast cuts, lots of action, various colors.\n\n- Guns N' Roses - Sweet Child O' Mine (1987): The video is the band in a field / beach? Actually it's them performing in a field with sunset? There's a beach scene. Colors could be warm.\n\n- Queen - Bohemian Rhapsody (1975): Mostly band in a studio with white/black suits, very monochrome-ish, lots of white and black. The thumbnail would be gray/white/black, not brown/amber.\n\n- twenty one pilots - Heathens (2016): dark, reddish? Actually Heathens has a lot of dark with red/orange tones? It's pretty dark with some warm lighting.\n\n- Linkin Park - Numb (2003): has a lot of gray, plus some scenes.\n\n- Linkin Park - In the End (2001): gray/industrial.\n\n- Coldplay - Hymn for the Weekend (2016): vibrant, lots of colors, fast.\n\n- Justin Bieber - Sorry (2015): Hawaii, bright blues and warm.\n\nThe image overall is dark with gray and brown/amber. The presence of teal/blue-gray stripes too.\n\nLet me look at the distribution: I see from left: gray, gray, gray, then brown, brown, brown with teal lines, then gray cluster, then brown cluster, then gray, then brown, then gray, then brown, then gray. So it alternates in blocks of warm brown and cool gray.\n\nHmm, this could match November Rain which alternates between the dark studio/room scenes (brown candlelight) and outdoor/other scenes (gray). Actually November Rain has the band in a dim room with warm lighting and also some darker moody shots.\n\nAlternatively, the pattern of distinct blocks might correspond to verses/choruses.\n\nLet's think about the most iconic \"dark brown and gray\" video. November Rain is very dark and moody with warm amber lighting on the guitar intro.\n\nBut the stripes are a few seconds each. The image is maybe 1-2 minutes? Hard to say width. The video length isn't given but stripes count maybe ~60-80 stripes. If each stripe is a few seconds (say 3-5 sec), 60 stripes * 3 sec = 180 sec = 3 min. November Rain is ~9 min, Sweet Child ~5.5 min, Bohemian ~6 min, Zombie ~4.5 min.\n\nHmm too many to determine precisely.\n\nLet's consider the color signature more concretely. The dominant colors are neutral gray and dark brown/amber, with a few teal. There's very little bright color, no blue sky, no green, no red. So the video is mostly dim indoor/warm-toned.\n\nNovember Rain fits: long dark moody guitar intro with warm candlelight (brown), then band performing in a dim stage (gray/dark), with some teal-ish stage lighting maybe.\n\nZombie is too uniform gray.\n\nI'll go with B, November Rain.\n\nBut let's double check against Sweet Child O' Mine: that video has the band in a field at sunset (warm orange) and on a beach and in a forest, plus the band performing. Could be warm brown + green? Not sure.\n\nThe image has noticeable teal/cyan-gray stripes. November Rain's stage scenes have some blue/teal lighting? Possibly.\n\nActually, let's think about the structure: maybe the brown blocks correspond to the acoustic guitar solo close-ups (warm wood of guitar, warm light) and gray blocks to the band full shots.\n\nI think B is most plausible.\n\nLet's also consider twenty one pilots Heathens: it's pretty dark with red and orange fire-like? Actually Heathens has a lot of dark blue/teal and red. Hmm.\n\nThe image's warm color is more brown/amber (like candlelight) than red.\n\nI'll commit to B.\n\nFinal answer B.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video from a thumbnail-style representation where each vertical stripe is the average color of a few seconds of video. Let me look carefully at the color pattern.\n\nLooking at the image: it's a wide, short strip with many vertical stripes. The colors are mostly dark: blacks, grays, with some brown/orange (amber) vertical bars and a few teal/blue-gray bars. The overall palette is dark with brownish-amber accents and gray.\n\nLet me think about each candidate's visual characteristics.\n\nThe pattern shows recurring segments of dark gray, brown/amber, and occasional teal. Let's think about the typical visual content of each music video.\n\n- The Cranberries - Zombie (1994): This is a mostly static shot of the band in a gray room, with Dolores O'Riordan. The colors are quite uniform grayish. Actually the 1994 video is mostly a single continuous take in a gray/white room, very static. The thumbnail representation would be very uniform gray, not much variation. Hmm but there are brown/amber stripes which don't match Zombie's gray room.\n\n- Guns N' Roses - November Rain (1992): This video is famous for the long opening acoustic guitar solo with dark, moody visuals, lots of dark brown/amber lighting, candle-lit, and then the band performing. It has a lot of dark warm tones. The opening is a long sliver of dark. Could produce brown/amber and dark gray.\n\n- Eminem - Without Me (2002): Fast cuts, lots of action, various colors.\n\n- Guns N' Roses - Sweet Child O' Mine (1987): The video is the band in a field / beach? Actually it's them performing in a field with sunset? There's a beach scene. Colors could be warm.\n\n- Queen - Bohemian Rhapsody (1975): Mostly band in a studio with white/black suits, very monochrome-ish, lots of white and black. The thumbnail would be gray/white/black, not brown/amber.\n\n- twenty one pilots - Heathens (2016): dark, reddish? Actually Heathens has a lot of dark with red/orange tones? It's pretty dark with some warm lighting.\n\n- Linkin Park - Numb (2003): has a lot of gray, plus some scenes.\n\n- Linkin Park - In the End (2001): gray/industrial.\n\n- Coldplay - Hymn for the Weekend (2016): vibrant, lots of colors, fast.\n\n- Justin Bieber - Sorry (2015): Hawaii, bright blues and warm.\n\nThe image overall is dark with gray and brown/amber. The presence of teal/blue-gray stripes too.\n\nLet me look at the distribution: I see from left: gray, gray, gray, then brown, brown, brown with teal lines, then gray cluster, then brown cluster, then gray, then brown, then gray, then brown, then gray. So it alternates in blocks of warm brown and cool gray.\n\nHmm, this could match November Rain which alternates between the dark studio/room scenes (brown candlelight) and outdoor/other scenes (gray). Actually November Rain has the band in a dim room with warm lighting and also some darker moody shots.\n\nAlternatively, the pattern of distinct blocks might correspond to verses/choruses.\n\nLet's think about the most iconic \"dark brown and gray\" video. November Rain is very dark and moody with warm amber lighting on the guitar intro.\n\nBut the stripes are a few seconds each. The image is maybe 1-2 minutes? Hard to say width. The video length isn't given but stripes count maybe ~60-80 stripes. If each stripe is a few seconds (say 3-5 sec), 60 stripes * 3 sec = 180 sec = 3 min. November Rain is ~9 min, Sweet Child ~5.5 min, Bohemian ~6 min, Zombie ~4.5 min.\n\nHmm too many to determine precisely.\n\nLet's consider the color signature more concretely. The dominant colors are neutral gray and dark brown/amber, with a few teal. There's very little bright color, no blue sky, no green, no red. So the video is mostly dim indoor/warm-toned.\n\nNovember Rain fits: long dark moody guitar intro with warm candlelight (brown), then band performing in a dim stage (gray/dark), with some teal-ish stage lighting maybe.\n\nZombie is too uniform gray.\n\nI'll go with B, November Rain.\n\nBut let's double check against Sweet Child O' Mine: that video has the band in a field at sunset (warm orange) and on a beach and in a forest, plus the band performing. Could be warm brown + green? Not sure.\n\nThe image has noticeable teal/cyan-gray stripes. November Rain's stage scenes have some blue/teal lighting? Possibly.\n\nActually, let's think about the structure: maybe the brown blocks correspond to the acoustic guitar solo close-ups (warm wood of guitar, warm light) and gray blocks to the band full shots.\n\nI think B is most plausible.\n\nLet's also consider twenty one pilots Heathens: it's pretty dark with red and orange fire-like? Actually Heathens has a lot of dark blue/teal and red. Hmm.\n\nThe image's warm color is more brown/amber (like candlelight) than red.\n\nI'll commit to B.\n\nFinal answer B.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 424,
+   "completion_tokens": 1306,
+   "total_tokens": 1730,
+   "cost": 0.0028944,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0028944,
+    "upstream_inference_prompt_cost": 2.12e-05,
+    "upstream_inference_completions_cost": 0.0028732
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1183,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

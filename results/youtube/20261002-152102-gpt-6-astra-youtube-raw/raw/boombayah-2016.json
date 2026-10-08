@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955144-QfK7h4jf4TMHCtz7NUaT",
+  "object": "chat.completion",
+  "created": 1790955144,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Ariana Grande ft. Nicki Minaj \u2013 \u201cSide to Side\u201d (2016).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to guess that the stripes feature a dominant muted purple in the first half, transitioning to oranges and browns, then ending with magenta. It seems like there are visuals in \"Side to Side\" featuring pinks and purples in a gym setting, moving to browns for a sauna effect, and finalizing with pink again. I should analyze the video further \u2014 it lasts 3:58, with specific transitions of colors throughout, including locker colors and varied warm tones.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to guess that the stripes feature a dominant muted purple in the first half, transitioning to oranges and browns, then ending with magenta. It seems like there are visuals in \"Side to Side\" featuring pinks and purples in a gym setting, moving to browns for a sauna effect, and finalizing with pink again. I should analyze the video further \u2014 it lasts 3:58, with specific transitions of colors throughout, including locker colors and varied warm tones.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86S8rkJIosjEsPDpVlKufYqm3GKgZThgP1UnXVUMR-Ddl2lUvBlQbH6B7E7Nbd6LuExwQ2SfsNHD6L_CYu_FEkkefo9lcBpsW_FE8R4J1xgemFf9KRtprNqQIQ8lPTdICCdbnJMq6oaHGwomiYdw5vuAfha_wz7pUIsgpqcB1SfckfqvztHv8Y2b5HBCKyRdpVArjV_nxah5z7yPOMzdYbWCJltjHLrZdbWJtbsh_EyBrfwKl7KmseOw47RIAZ1_0oM0FZss4lULBArYk6wNJS9bEe-qGIe6CafsdwvxGTL5zgf1Pia8GTGrkaOl0QKIFxkTiSbksSszqdEMVU6UOq9YWWdDaxk5pt5aqGbRiDJEWGu-2RyC8NRj9oTrIBUxHtnbJKgLZgWAoT6f6RwNh-ue1uwA2KCpc7w0io_ojD73CKh6TBueYA0leGi2MQFyJaF0jdDkBGjb1y--JfCXVCb1DkdAM8st-_vk77Qf8QdU_BYZ2K04UBjJbTGlmWty989Bx3y-9Ja4NxheyNjRaBhBstS0LL3ir7H1mWQQCo_2MyFBe16ysNwELhdVrszfXS0w9Fr8HmoUwDDbWcIyAaHe1egVRc00tgjDKYLg5DVpIS2sBQJ3jd3lp6xwTvBNbfLTqMK8Y3CO7Rk4L_PJNpbgT9OpVHFjruius-_A_cjbSo0jjBT8s_isyOy2Trv16zFOIlUcTO33LNXWvRUIxDTORPvJFP87wBtZxoXDq3Z8HkfJXwzzBMsxyp4dhrLu1Pb2dOAbDrLjSzyf0-X97_HpVdyjBodXs-eGqpVbZG2grQDtI207iZ6wxoxO8x2RPwwx981ODuT68Rl3pvOCQUaCQW1BGTRE-Lvu_544KC6OfXcB4dhsh_AWn7QkOTrL3XNSR0VedxpYjT88yi6wBn9Ol9MmM1TYeByf3HaEzhJcd-rhNWBS__mxnpxJcHWNiZwiEgEliRUiMuRyNtWhK3UI-fB0IykQkC7tB0RJqc4AWVH_RuOgJzs4mPTEkyvCuVstrDNC4--cLHhYM0AmB1-RdFlvPK2NMFZQ4lzyMpSGfCYviNco2GTHjAl7YhpIXTarKG02lzVsmLGdyAfKfgg2zw_mOpsUPOrTLMgJB2KRSKOAV2OBKrJFXzp0w5nIPI4Jnmzz5ceKxZpj7j8rJukhGzmhj25hVlqJBC1IU9UNIuf_8AmJ59qcu1YOYVlXNVuojDpFee2DD37R0SsgJLTogBg4jFIauOY_GnLAJqajh2KRt3d7b8QgkihYgNuKhziHrsoMydZJy-pz7nxJ_d4pvLW5S_pvhnB66Lr6wFH1g3W9UXoITB1FWHD_xz_VUIzrzxAfZqBZ9tHebHd5XW5-2YwMoWslUvgh1gN7K8NxUsLz12wQ5jvsEncsGt-O-TgEfxQ117YNavVIk_5_I6s3fOIW66z8kfbRBAsldSWoD79U7rVIZ-EqAFKkBXnlBODs0MgD5iMsTcrVQkQdmCUBCrt-qp8_-nv293aA3mL8fmSAp_D7OKo_8cxn3McfffOJ49g_arV61nV7JEQWt6Uvf9h-X0M2sbEX8tfG3GcMw1yLdEv2XcosKgLbkGHtKCpJFw8DIjoVUJmu37bj1MPpdo_8EN4sIyNznCQlxMZuxnhraGfsoc8sjkeYO1DKFHvXbzQJ9rOwC0WBSb3kYNXcimrbQP7UapSi697Wov3jhxoNHRbdCoFAEfxulLCuFN8npiDW49UkqtUV4_sA9y7cnaTjPqdiTnDP8hbp_R-QFkcjeo7yYfZewKyVdPCFWVhUngC54_ZUtrD2PIht3LBPk2wWkN5F5tkX4feTrmxDzOIBPrFD-rIo0s5EdxZkq5jY83LRqSB5_LCdl2wELka6Ydi2bAMfDi28GX5BCg8YoPFqKWmQSSujTIvHX5qukYtay0NaYHJ5I9Nu9aXazxLmt4Lk18f9N_S2OQHIWU6uk52lrPSfle1hbLG8siDOrI5VZxE-PBGy5NwK8HtZx3VOyY7Fh__I-lUHb5DS1PR0HhctAnUpODVtoxLwl6gVrXRK_YxofPZzGixr97pI9_kxOFYel9s-SsWlgsT63h8eno0mP8cg3WD48IpYC3UAINvD-P3HXPxC_r4o6_U8aazfKLeyzr2UKrQnEXk1b_AZNaL2Swmxxn7oQZzGpLnQ40n1a-Ztn_w7w3N-jZPNNJzPYjN3Qq7vIc-opMhgggx-weT2_1EzC_E9IIn80dONyTMDLS4lObRdywKNWLDNjm2PaUe-3Mo7ebAcHtRy8CqBuVLucnYoQYgu9qAymJCeMSxniPWXKI8zLBHXxeQQ-YLNNVGzEkFLuroEeXu7tFS0DnFLymE3gn3H_v7WVCYtkncHUkdhSxJdXj3ZpCY4O7kbg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03f92b0e52be135c016abfce89d84087d18f30e72c3b9739e7",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 222,
+   "total_tokens": 714,
+   "cost": 0.01602,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01602,
+    "upstream_inference_prompt_cost": 0.00492,
+    "upstream_inference_completions_cost": 0.0111
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 191,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

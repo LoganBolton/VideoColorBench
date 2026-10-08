@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955006-p5XrgpIgwSQ2PC56kZL2",
+  "object": "chat.completion",
+  "created": 1790955006,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Identifying colors and themes**\n\nI need to guess the colors in an image that seems to have muted green, tan, and turquoise tones overall. The \"Lean On\" video has teal and golden scenes, while \"Roar\" features jungle greens and tan with a waterfall. I notice a single beige and brown striped room that lacks teal. For color choices, I'm considering various shades like gray, brown, cream, olive, and then percentages of teal and ochre greens, ultimately leaning towards a warm palette. \"Roar\" seems to start with a plane crash and then focuses on vegetation.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying colors and themes**\n\nI need to guess the colors in an image that seems to have muted green, tan, and turquoise tones overall. The \"Lean On\" video has teal and golden scenes, while \"Roar\" features jungle greens and tan with a waterfall. I notice a single beige and brown striped room that lacks teal. For color choices, I'm considering various shades like gray, brown, cream, olive, and then percentages of teal and ochre greens, ultimately leaning towards a warm palette. \"Roar\" seems to start with a plane crash and then focuses on vegetation.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84I_ctgBlWGzEMMiL1rV2-0HoaQUnufxBeCVYfgWd7A4wKCPEphKpq8te2siTZgT65DLwHv-DsYHOAC4aWiUZvZxyf7Q5oYPycX1OSk8jR2TUsgDotgYJv0x2os8L4WlTlJ_WQZIrWfzBpJ_rrvrEPhfx8nx97IxslNLd28siajM5Ei42pAuhFHREsLV2x29BRzJcit23T73tmim7loAhBPkJWMY5NQP7YNHEt_ZS4l-t-FhANxef5DLterqHvagasd0IxHgzhCrD6yf6ZXmy857OQHI0f0fxY_RTIqNHoFDXuEWemMOYZsGRSLVkK1chwQodQ4IF9G3ymzpFPdciye5dvUcDIK_a5NAMJNGWAyosXwfx6jRkKSqGsSTXNLswyKIiohSOW7XhR-2nrKTr7gnrE5CIRY7LlJq5anSZYm7YxfqJgjdRAFDVumHtTwbBWrN2UfD8DCYIdVGM5AH6TXXNMmqWL6f_GQr0ksh1E1WQz2kwmkBX9YPBJu_QqKR2kGYLuMU6KabPzAMTB4jTedsElv4bNlmOj2zBGDFAngl2e23b5C0OBHdhdFGTvxboOBuJmEVTHiNeckB9VqJGp3pLdzG7yjcliWobrExjilDhN8pp7t7KzxvxyTo9kXpYSagnaQtxHmRJAPWvD9tvuq14ITOjIMy4AQI2d1RkdYjfEZ6JmFaLT79rztzL3HZp-RM16K93F-2D_ZJrKuD8cgyRG_oFYCMR027D9YblzPqpNwMG6F8IAx9jXLZv2hBgIAZFN7r-GKSy1vHnJ2UCVSrefeTPANMTjf8aV5f-djWC1QBC9uhn30u_Hlo352EkjxdnbFTcUjaxU41iTOvCTqqTqDqgRWp7XO0r21mQtAjR363EWRkEshhKbgjxDDEh_en9cJz_7peEkkMc32YrDI3AH0borpk2g__V3jfgkPqOqNmioYKNlDSsYLpVs0nBKGM2sGW1omjwhgeRfziUcOyCl-xKqdzNTIiI3EQUNASIxcC2QMGGdlq05j4ekNNW8fP8tejw4_oJ2uFUdJrR2xH_SmJPV4upEm_kLJCeJRvAVD46LIRx4KZSkifdo8BL9dMQNhT_InOG6d87ZOTkCRMfyaNuCyFx_qzWaQNEvkoNStLfhljqXe29EJAMU5EmWjlE2CnjBvfhHYRdBMMuGi5QwfL10OB7X-sg78FpiD31McDb7EpYc1e8YR3d4xDfaSGSWOTuATZiWnpl0wWjIcE54yGj-_CUANx34Oa8pdOgZVXo7PKuC4Z7OqUI-B-po0_LMVfUrTaeyGHSRQpiiACops5l4dPUJXCmLrakstUJpXkt0wT_roLTKGlTd2Ku1bjLDMS92owocpFmAMIVVwbG1539NRebKkFOi2fSP935l3kn-xXUgWXBwBXOuJcbovas_oKbNSVOdOgyCKem0FZTiUQdcUra1i1HtQkvi3-nnk96kxqjt_XcrWsRxmI-xBSgqWzjGtiAM4SOi2zu5OPT5Hn3_tfw7l4yRO3gZ4UQtgJNycJP-okiPVzLWNcEIcq6YStOaEBzrHoShEK89WGO60o_Ou_PxKasthiPdBLOIbSt9UetgkTRxhl3iURfzXf2qTBndqsnxSy99w-QH8p_FXViCpMn1CuYFfdeUk5LkSCM6IeE3TnebNOf20wMWxByoJmkp81-CpQAteNZvBYoJ4DJb5P_-bonsgvCfpyZF_c2i1UEtVDy6wAMOWHSLL7zTD4wyBzSnDOML0aa9fOCxqd0jVdfi6m9c0wx0ISmYh9n08SC98Xu0LD-3HiiAztPa-c2n7yUCDxsRJMoRkWlqdk9bll-S18_BTI27S7UKP96Bcrto2LvznlJ4p8Bu-t4bV36FYIs1kDK_sHmH26CNoQnE0Kh0ZCMUlsksi0Zn7icz-XjKpbj9tCt-rEMAdy5YpCwU8h-SjiWsAboO6H5TsJlgjakE0PdBFrxWSVFDkt2PMxHtF-6axKFtPDZUopYtovkq-S9bkgOeZFC1zub-_rM1HdIuStkg7vn2U0SKCqa3xwyg_aEFzdk6WUw34rA0d00AwiZ5Ub_PKfCwZVtnhMpKxtQcvBX9lfkqdJx-AkfCWYITW11Dq4n1qgEjZB-naGEVsEy7zJ3EhRvJVYE6Xt-UBiIFJVhmK_Ds9eCw6JW_wa5E6q7mOhYKWCWdruDoKofrNq8nNKaV7hTe3TtqirWHUB3TS_6Kib-T7pGl24RWMSeTDXiqkEBBfEXyEY2kvqzJdMrWRFIqtiKfK8vmuK1XTvCbTlf_6nU2hPPpiTC_QP0SgrB_UGqd_6Yl68pIA-rU_bkSZuNCZ459MUandPtT8KUKruULElTUWz7qF1S2qO8oIG9p4-rN-u3TNau3GlwkL4oPrgqYwikE2EBedxjCXODJbU8zYkDA6PTrx4OOS_Lh6T0If5KpDRqSM.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00e6c66339071907016abfcdff7cc887d190e2cbcbef8fe201",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 485,
+   "completion_tokens": 192,
+   "total_tokens": 677,
+   "cost": 0.01445,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01445,
+    "upstream_inference_prompt_cost": 0.00485,
+    "upstream_inference_completions_cost": 0.0096
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 183,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

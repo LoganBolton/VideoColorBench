@@ -1,0 +1,15 @@
+{
+  "slug": "hotline-bling-2015",
+  "title": "Hotline Bling",
+  "artist": "Drake",
+  "year": 2015,
+  "label": "Drake - Hotline Bling (2015)",
+  "frames_sampled": 296,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "uxpDa-c-4Mc",
+    "youtube_title": "Drake - Hotline Bling",
+    "channel": "Drake",
+    "via": "yt-dlp"
+  }
+}

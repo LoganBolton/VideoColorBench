@@ -1,0 +1,21 @@
+{
+  "slug": "criminal-2017",
+  "title": "Criminal",
+  "artist": "Natti Natasha x Ozuna",
+  "year": 2017,
+  "label": "Natti Natasha x Ozuna - Criminal (2017)",
+  "hex": "#293233",
+  "rgb": [
+    41,
+    50,
+    51
+  ],
+  "frames_sampled": 273,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "VqEbCxg2bNI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

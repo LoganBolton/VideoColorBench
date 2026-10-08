@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894502-fsjdijQ7JWimuJObnXcu",
+  "object": "chat.completion",
+  "created": 1790894502,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The muted, desaturated palette fits this best. The stripes are mostly greys, olive greens and faded browns, with no strong saturated colours. That faded, vintage-style grading matches my memory of the Mi Gente video, which shows people dancing in many different locations.\n\nThe other options seem less likely:\n- **Saturated colour:** Gangnam Style, both BLACKPINK videos, Dynamite and Boy With Luv are vivid and bright.\n- **Strong red tones:** Starboy and Criminal are dark with prominent reds.\n- **Bright or golden looks:** Sugar is bright, and Se\u00f1orita is warm and golden.\n\nThis is a best guess from the overall colour impression, not a confident identification.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm comparing the color grading across these music videos\u2014Se\u00f1orita's warm sepia tones, Criminal's dark reds, Starboy's red-black palette, Sugar's bright wedding colors, Gangnam Style's vibrant mix\u2014while trying to recall whether Mi Gente leans toward muted grayish-blue, faded vintage tones in its dance scenes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color grading across these music videos\u2014Se\u00f1orita's warm sepia tones, Criminal's dark reds, Starboy's red-black palette, Sugar's bright wedding colors, Gangnam Style's vibrant mix\u2014while trying to recall whether Mi Gente leans toward muted grayish-blue, faded vintage tones in its dance scenes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSnwkKEAgSGAI4AUIIdGhpbmtpbmcSDHP522QyHT6NACZrMRoMvgkX2TYYsaOngnB5IjBK08sHCNADf/6cJzp5cqnLwPv6xlavR9eWMUufe0etUPfM4nnf9TAucjnOphPBnYgqvAiVqIlywJs0vbqq/kRaVvWh10Q+hsthAG9+q0uLq2QTAQvalEkYTt1JMCAzXguZ5zH6P/BM9cKJtVuqQdbtY+4DKi4f97ujp5aUteCeTQ5DSMFILO/VObVPc/0B38CvwrqL4zSC3jftx8HakD8H81JDlz/TB/kCgfa8GIaCuXySwWrOuQHgXYdTuJrLz8AyRKqKEwEIe9u+nJrj5dB8HZd51hQDynVraUAHQJGjpofvCFLujd0ijn9dhM2IzIMzuGZz4st/Qq8xfzt6aiSizCwJ2xID7ghW9EHb4Bb8O4BPmedjzAMoWSB5Sx6RG4kEbduAbSsOqec0ca547xNg8ZA8SHGz++RhDMDIzWwzt1AxJmy+/vq3O+8iOXpdvwUsK2hsznyLXyZnBOOuJjnrRHmstKMkhevKhjU5BHyVzzM3lsx9SXKjPWA29ia5Luxg35FKdpPTFuXBu2pRT74gXTiy7cpJ7MZvJlFiIKbnK+UsHszc5KJRLAvimV7Wp3oym/alS5ylQtV+kKRw8zvetJmhc+0hXYFwg9fj4Ub96jAUR9P8OWSYLXMsckldLSRxTCeYF/Dq7WmwDq+poDJBoE1tq1t0kcgIbLy4pL7oC9e7v9+QdJItNqvsX9ziqkGyftexKqWidE+pxoZ0wssf0MmvHKhg1jKHmgHasgs/TQKdBfc+ihwObxxqfxaHSwwfV/IC0j1ULVPuDRaRDqI27gBTwumkrEiNMLTo9RWVor6QBPnBYH288EjcEpETyqrTtyS5TB6rLjB0lCOIJe0bVMbnlJAZaBCmZGplRvLG8T8TqJTq6EmhadFWP6XSebdiidqCJ0sNxxu17X0gE2tx7LzGYd4P0Fetm5Z9D7mB1Nm3+A5ZOVHsgv8aJpoqz+5AW6hvE6NT9kLfQWNAkvLOGmBHMftOguAojXHfz1KMynbhAKOBzKPn0AegvSi/AsnLSHKcdBSDqK9hg7E0anMk45EQk0fOiP7pWOZFai/jYyykYUHXgXi/1s9JsXFMjXAt4A+bEEQzAP9UQ00aL/zoqktIB+svwwdanMDYztEQ80+CKFJEEoss466k3U5wUWUEwYPhO6ZS5oKlkvqZMMBEaxBIWB3o66k/fddsvm4G96DFpJnz4kf6Y7Q/kX8boCcnLGelwLYbCChLzB5o7slemBRUze+KZQuw2hd5UuBhnY/UPUtyO6Dq8KVTvo/rawikDjRZUeecFQvj9OJXjivMa9r5Pyu6sCiJU87qbH1+Z8gtkZGO9a4UTzneISPuy+96rD21BAFByqiCskFFwDX+d1SyujvIYhVIIgier0MDks28iAr6JGyOIQo207SXDKmZlYagxmieuluKJOaq4+rKZBjS6mmE9vf+GOATDrrrnu88dBwQSErSFXutjBE8PteNP65+4ee6ogWep6fDFoE60AFzgi7cC3ePLkO/HmoeGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 631,
+   "completion_tokens": 461,
+   "total_tokens": 1092,
+   "cost": 0.011744,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011744,
+    "upstream_inference_prompt_cost": 0.002524,
+    "upstream_inference_completions_cost": 0.00922
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 221,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

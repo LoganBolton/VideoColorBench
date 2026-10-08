@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954727-Th0d0XmaYqF2Oq0Ydsfu",
+  "object": "chat.completion",
+  "created": 1790954727,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Apollo 18* (2011).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to guess the barcode colors for dark, muted olives, blue, and grays. I want to consider \"Apollo 18\" with its desaturated black, gray, and olive tones. The image is super dark, featuring some muted olive-golden light. It has bright sections too, while the barcode starts with dark black and white, showing spikes in the first 6%, followed by olive sections. I\u2019m exploring these options for the best fit.**Evaluating image brightness averages**\n\nI\u2019m looking at the average brightness levels of the image across different segments. It starts with 30 monochrome in the first 0-5%, then transitions through gray-greens and dark browns, with varying darker grays and bright greens. \"Apollo 18\" features astronaut night sections, leading to a terrifying escape with archive material toward the end. \"Stonehearst\" begins with a light outdoor intro but shifts to dark tones. Overall, \"Apollo 18\" seems to have a grayscale feel, matching sepia and desaturation closely.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to guess the barcode colors for dark, muted olives, blue, and grays. I want to consider \"Apollo 18\" with its desaturated black, gray, and olive tones. The image is super dark, featuring some muted olive-golden light. It has bright sections too, while the barcode starts with dark black and white, showing spikes in the first 6%, followed by olive sections. I\u2019m exploring these options for the best fit.**Evaluating image brightness averages**\n\nI\u2019m looking at the average brightness levels of the image across different segments. It starts with 30 monochrome in the first 0-5%, then transitions through gray-greens and dark browns, with varying darker grays and bright greens. \"Apollo 18\" features astronaut night sections, leading to a terrifying escape with archive material toward the end. \"Stonehearst\" begins with a light outdoor intro but shifts to dark tones. Overall, \"Apollo 18\" seems to have a grayscale feel, matching sepia and desaturation closely.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8z_0R-kAkstpxPcttm6rYYitBuJCCLwG3Pk9qZ50xRY6Rj7xTnjdGGvhC-KG9h0twaG4-hZ9YA0pMibAn4yiiFbWind4YT35cJTzKoHzPqpj5h1U8hTMBAGIls4SVz_S52DCSD4U7pbOi7AWJGZXbbDMTkYmkzKpkCNN17wnV6J_sifW4QW37PZJZzTU9l6HB-tSCsjfkXcutS_WYVlPdXR-v-RjAGMU1hCSTgX___Pnje2uUrD8EY2e0PaunU-CSZlXSLaelybowg_5_KOCpVtHFVhZhyy1qzaQGFKTQ7nGm2VnbNT0dzdgY_ZEyHD8gDLB-QJRCS0Pk8ujbtiFAC7B-EAqOvXZ5T3OyhLLkbFX7czu6aPWGN7RWWnE6T0p3gTJtCBK3TkINcOEFtznh2PEzjTOoLQazSlGBja6MopyWO7Gyo6F4H0pdIDMYQ_L9iqpzsd7ZY_dalxl1IRsaa0hmZSisbXxehHzlIYQ1EIEakRv7gAfSkm_-xV_8IRVJl9PqWK_GJrDgGbivtXGy-CfMkGxzMv0JNBSb5uk5qPndVfMc1UOVKGa4H16hNUIm2GNJRNE453q9ZXKMxFRi3qim0_WqoSTDeBhqxuw9F1p64KrC7hfbNYX2eeXh_dlroXnGerTZe-RwbV7oHzLucPnMX2naflmUP94eabEYU9Z_FyiyfyuXs7P8W2pC0emBj2Dkk_BHnZlcvmLjZBrKPCsdoVe9_J7lrXH-SBCWtpu878cd5V-P8EUv2H0tOI2Apqly73W0mJimg4QtJEZevbv6u-UOnkou7n9OMuD9DD1mofSnjShxA9EZNcNFdEc3ig5yJ9seRERT6xmNM6-wYQaEupnSpuR4C0fspxUW8YhhH_mnJh2-uNbd5I6db_H1qUqIKGdVdrO97NaL3JvwJxTGD0rIFNB7GEXQzQbyHDGEChV9xvN5bG0reXPml3uAgqwO-ZSHGCReFO_DE4z6-keQnMr_84bfD6rNLgN1qAdDnAe8v58Ll4hUj0wExqURwHu3RJ6GTy-cJginefVxaGz1neGBp2aFVeuodGunf22JpQynaO5XICwmpkRnv6WLpas0pjha-njpSvBHVogIvhDv7RI7i0TG4L3YN4nX19jOxLpWw3S_kM0zFS0KXkDewo9kb1rArTtEUHwqqp-xAZGZLH8UtrdbcNyU6Szn-Hb1rpxD0RtKTyBc5BWun-JmeUwhkEJifywnath8WROI9c8cGJQJp8kTzmBXddr6nAGblLNNt97MipRZshjIpgtY0Y3NQ8z9w7PpYRR7qKJg4QlfgL1nkZeKpp80RXVa-VOquKx1KTJwTM_nJlZf4m7bpccSdL7zF9h9-mfiWlAndM7jLEtfZkIYEGSzUiZoFoWZm6JeOirUSRRJMnx-xpFzcu6efhnuo3ifCgyELl7o1r8GX_gh1EHNh33zKcLWzmTtiflPuABi8QOlJukSYX9cnyr_gTr-HIKb4lEiRPGLMBg5xX_dVZDwiGafuA5U1R6tbEZmyCa2I2YWZkWx-UQ0sl7iVKz5IJMJQxu_ri17dYRV_8pQ9fAa2XEvbOC6Gwfr08lGhm7C2XVX04HXN0kJLSR2ZoKHeQKNmGcgIrgShlAgG3gGXiKPjNmEJ0qHADRe4_Uru1YhJpthZcj51g9XVv5K4zBx9gGyhpbmkgPs4TbVg8CCBSyJsXxpDCetUVeqvQb_jEtPJTFBX47x-crgIEj4CKyrd0Kz_qsCq1Etrm1R5Ym2psmZeMh2D9Tb0pG7PuCMITQRf2VPRbjMkFF4YZWTktTJ00vV3jEv-VIgACheNpTSk5L7N1snEJjhVOzUqc5yd6Ah-eQ_8eAARDMYNeCvvDcKE9k4uW-43CLBLRZopEZJWu8B3lOVos_HfkifjkJ_K4eM9pCbIt8P7RuaIiN9oNNxLJPBUsOzeYIXhXb-sYmnrz49ZFBplEc1FeOjHIh-2B1aq3Lbilli1BiTJaBZzfzc5SAhmF2lwJwX1vVEJfFaRHIyaayYD4H04utABUDPeFEO8pUfoiTTAC5sxoopbrawoCOsG0EUk4ZHaYzqY9i7WQDBfm6Ik0ZA5bk8rjSvatRGWIJ0eq2YhMnqLWIKOfprvtPkSGxJkr29yOa47K10z9w5X-8lEu0au5ZYtCdWO5i7XpG1XTwBE5PLGVWL3PBVGBupbfFnA8O5hL_nD_tXlKARRGSbCQc9-iIKgRu5hHgQOvdWepDNeA-8Y_3I-l3p432fnT6TgZkGJ0AnJ5EI4LW37m6AOu8mzH8Bnu5bPezXngaBwwcSiHvm40t3vUNPFcA0h5F2a0CdExBRI62VZRmRi1MQyY6dUhyQBbNrUfusRG3YxERbewI3YLOoJHutoBAw7Dw458WJpuRhSZPU0vG6AF9p-9rZHiGMGaNlwnZfHdfG9roWHZFZqi1GA4dNSu6IIzRYwUMPIle-YgiDAWPblwjTy-2gAJgwYEA7Iy8ZSZZR3s8fe0jWM7bF1XwgQeUa_W8yytC4PQMkc0IaqdBnQ0oJ0_-hJZmu2Myd2TjCIHc6H9325Ilb0BqSlOCCZYD9CTTia00FBqHSeW-A_2ClGyDiLcieSLBJOP6rMttKwnLdAW_xL7WwUlofPJwxD45fuVKW1gKabiKZ-flAnjcNKCpQ5N9ZB9pEQvuTa5_21S6pETnEoAgp3ROZk0gmOP7UM4o8rh7brcZtkNlP7cB_boIvXpktuCtjGesN8FSeD7LxwGF1t4pnUO4e_ReRzS8RT2DCAANeEmgiS717DDARZJC_gLw57PSsfOjfK012u1t4LG1CI4QXVaqNX4uhfBw_SlmG3O7zA0UJrKI4kKbartJgsJq6MsZHobGjgyEvox9ZziqcVXXXfR5-3Pn4IdJKVvzF--ASGKIOI6EM42L_BjuSpmmVLkTfboyMyHLw8kVXQzZmHi_5jvBm0xpSooftwGILtn36KW8FDcGqxlocwatWrnq37xR9-xNMiWHscMRYJyxbjs1H53Q4l_Y-DLHpgHFmATf19MrEXuY8EmeYAgANZkkeTVfOlpix3_GFxD5bwDXLZYqRYmCsQwHF8SFy_lSjFMHR0WQ9pfbxtQGJ_RC4ngOpmNq75buRkX-3slJBH7hlrzwTNSPt-TUX24FIzKv_o6FBFWHNmo2z4s9_RrzgF7OdoHwu5kb2DJuE_6tsuV9wfjP9DDOI5iTkLlkUL9gW2b5KQPik2iAs4wx0SBcqH26elGvm0rZAtHLKCnU_CcFUu6NHDIUh0LK3TXqQ_Q9YlZDgzv27IikaF6VD19Yp9z0C1R9kuodd-U1dMqHTcJO6tlJ5G6XGupK2ZqUNy9rcYXNF4vtHlrrfCkcQup0q2-fRQVrV0ZMn-9LbER-7citOcENp-KJiRuLZY8xkeR_Sy51BJzkXJpqIaIhskzQ98Ed2Im8-UwFB_lJAhii3Wv94wYOMWUN7Kgqnk96TF5VwrvAVfWHG7nLFBv8xHHgQW_EMWL95oGBh5FQ68UCJXF_2H3c1HhIYIqa-kdFogKR8jdNBnMa5smrlcjX5-Rd3-EyYDm-XDGQ5uJL48R3GnN3GgednU-L-nS98nVTg-YFYLLJLjpJPpWK8ICjQJKX09Tm54STbpK0aQG89GdkY_K_ycBd3ViGfZicWotCgI5pdu4fOk0A-_bO3xc7Y7Vjx40LN7xcsZBrrvLvxPacHKrhg3wsnLQa34_4OYUXJFdU-jXmJdoFDhkSlWHaXZU1w9d7Sdxv_D5h94VfjRPB5e6FFzhVXxM7ZUo5AEtw7go40nP6kZqST7qVRUTTcNibuwjHKHHDZzKxW7xp6gYJ3xgSzh_O4yh.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0737c629250e04a6016abfcceb8b0487d19dc9eb7e4d8a83d6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 433,
+   "completion_tokens": 429,
+   "total_tokens": 862,
+   "cost": 0.02578,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02578,
+    "upstream_inference_prompt_cost": 0.00433,
+    "upstream_inference_completions_cost": 0.02145
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 407,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

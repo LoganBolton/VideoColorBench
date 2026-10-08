@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790917913-iFirIj4VdQ52nTi9nTnW",
+  "object": "chat.completion",
+  "created": 1790917913,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this movie barcode, I can analyze the dominant color patterns:\n\n- **Heavily desaturated palette** throughout \u2014 nearly monochromatic greys, blacks, and dark slate tones\n- **Cold blue-grey hues** dominating most of the runtime\n- **Occasional muted greens and dark browns** with almost no bright, saturated colors\n- A consistently dark, gothic atmosphere with no warm, bright sequences\n\nThis matches the famously desaturated, cold blue-grey color grading of a dark gothic fantasy film. Among the options:\n- *Black Narcissus* and *The Red Shoes* are vibrant Technicolor films \u2014 too colorful\n- *Knight of Cups* (Malick) and *Midnight Sun* would have bright, warm, varied palettes\n- *Beauty and the Beast* (2014) would show more gold/warm fantasy tones\n- *Brain on Fire* is a bright medical drama\n\nThe overwhelming grey/blue/dark gothic tone is characteristic of **I, Frankenstein (2014)**, which is well known for its almost fully desaturated, stone-and-steel visual palette (gargoyles, cathedrals, night battles).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "The image shows a movie barcode visualization. Let me analyze the colors:\n\nThe image shows many vertical stripes with predominantly dark, muted colors - greys, blacks, dark browns, some blues and greens scattered throughout. There are some lighter grey/white sections in the middle-left area and toward the right side. The overall palette is very dark and desaturated with occasional bursts of blue, green, and reddish-brown tones.\n\nLet me think about the movies:\n- Brain on Fire (2016) - a drama about a journalist with autoimmune disease, likely brighter\n- Black Narcissus (1947) - Technicolor film about nuns in Himalayas, would have vivid colors\n- The Haunting in Connecticut (2009) - horror movie, dark tones\n- Midnight Sun (2018) - romance, likely brighter\n- American Animals (2018) - heist film, mixed\n- Southpaw (2015) - boxing movie, dark gym scenes\n- Knight of Cups (2015) - Terrence Malick film, very dreamy, artistic with varying colors\n- I, Frankenstein (2014) - dark fantasy, lots of dark blue/grey tones\n- The Red Shoes (1948) - Technicolor ballet film, vivid colors\n- Beauty and the Beast (2014) - French film, dark fantasy (La Belle et la B\u00eate)\n\nThe barcode shows lots of dark greys, blacks, muted blues and greens, with some sections. This looks like a dark fantasy film. \"I, Frankenstein\" is known for its very desaturated, dark blue/grey palette - the film was famously graded with heavy desaturation, almost monochromatic blue-grey look.\n\nI, Frankenstein (2014) - directed by Stuart Beattie, starring Aaron Eckhart. The film's visual style is very dark, desaturated with blue-grey tones, gothic castles, gargoyles. The barcode's heavy grey/black/blue palette matches this.\n\nBeauty and the Beast (2014) - French version by Christophe Gans, also has dark fantasy elements but likely more gold/warm tones in the castle.\n\nKnight of Cups (2015) - Malick film would have lots of bright, varied colors - beaches, parties, desert - would be more colorful.\n\nThe barcode shows predominantly dark colors with grey-blue-green tones. I, Frankenstein seems most likely given its famously desaturated palette.\n\nLet me reconsider - the stripes show mostly grey, dark blue, some green, black, brownish-red tones. I, Frankenstein's palette is famously almost entirely desaturated blues and greys.\n\nThe answer is H. I, Frankenstein (2014).",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The image shows a movie barcode visualization. Let me analyze the colors:\n\nThe image shows many vertical stripes with predominantly dark, muted colors - greys, blacks, dark browns, some blues and greens scattered throughout. There are some lighter grey/white sections in the middle-left area and toward the right side. The overall palette is very dark and desaturated with occasional bursts of blue, green, and reddish-brown tones.\n\nLet me think about the movies:\n- Brain on Fire (2016) - a drama about a journalist with autoimmune disease, likely brighter\n- Black Narcissus (1947) - Technicolor film about nuns in Himalayas, would have vivid colors\n- The Haunting in Connecticut (2009) - horror movie, dark tones\n- Midnight Sun (2018) - romance, likely brighter\n- American Animals (2018) - heist film, mixed\n- Southpaw (2015) - boxing movie, dark gym scenes\n- Knight of Cups (2015) - Terrence Malick film, very dreamy, artistic with varying colors\n- I, Frankenstein (2014) - dark fantasy, lots of dark blue/grey tones\n- The Red Shoes (1948) - Technicolor ballet film, vivid colors\n- Beauty and the Beast (2014) - French film, dark fantasy (La Belle et la B\u00eate)\n\nThe barcode shows lots of dark greys, blacks, muted blues and greens, with some sections. This looks like a dark fantasy film. \"I, Frankenstein\" is known for its very desaturated, dark blue/grey palette - the film was famously graded with heavy desaturation, almost monochromatic blue-grey look.\n\nI, Frankenstein (2014) - directed by Stuart Beattie, starring Aaron Eckhart. The film's visual style is very dark, desaturated with blue-grey tones, gothic castles, gargoyles. The barcode's heavy grey/black/blue palette matches this.\n\nBeauty and the Beast (2014) - French version by Christophe Gans, also has dark fantasy elements but likely more gold/warm tones in the castle.\n\nKnight of Cups (2015) - Malick film would have lots of bright, varied colors - beaches, parties, desert - would be more colorful.\n\nThe barcode shows predominantly dark colors with grey-blue-green tones. I, Frankenstein seems most likely given its famously desaturated palette.\n\nLet me reconsider - the stripes show mostly grey, dark blue, some green, black, brownish-red tones. I, Frankenstein's palette is famously almost entirely desaturated blues and greys.\n\nThe answer is H. I, Frankenstein (2014).",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 461,
+   "completion_tokens": 802,
+   "total_tokens": 1263,
+   "cost": 0.00047015,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00047015,
+    "upstream_inference_prompt_cost": 6.915e-05,
+    "upstream_inference_completions_cost": 0.000401
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 553,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "all-about-that-bass-2014",
+  "title": "All About That Bass",
+  "artist": "Meghan Trainor",
+  "year": 2014,
+  "label": "Meghan Trainor - All About That Bass (2014)",
+  "hex": "#AB859D",
+  "rgb": [
+    171,
+    133,
+    157
+  ],
+  "frames_sampled": 190,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "7PCkvCPvDXk",
+    "youtube_title": "Meghan Trainor - All About That Bass (Official Video)",
+    "channel": "Meghan Trainor",
+    "via": "yt-dlp"
+  }
+}

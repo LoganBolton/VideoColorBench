@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907354-8VxROZpMskcXM4lDmuLt",
+  "object": "chat.completion",
+  "created": 1790907354,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette alone; I can't confirm it from the barcode.\n\nThe stripes are uniformly muted: dull browns, grays and faint teal-greens, with no bright or saturated stretches. That fits *Detachment* (2011), which has a notably washed-out, desaturated look throughout.\n\nSome of the other options seem less likely:\n- **I, Frankenstein** would probably show darker, bluer tones.\n- **Candy** has more colourful early sections before turning dark.\n- **The Boys from Brazil** would likely look warmer and more saturated, as 1970s film stock often does.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "The muted brown, gray, and teal tones suggest something desaturated throughout\u2014I'm weighing Detachment against Boys from Brazil and a few others, but the overall grayish-muted palette points me toward Detachment as the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted brown, gray, and teal tones suggest something desaturated throughout\u2014I'm weighing Detachment against Boys from Brazil and a few others, but the overall grayish-muted palette points me toward Detachment as the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpwgKEAgSGAI4AUIIdGhpbmtpbmcSDPvsyBxYaXctmW+VJBoMQwcVhWY77V6FBcWGIjA6yAqUHno8yFGLde98iO1nKTxHXFd0PrvbPPAHTDcExP4RSUk7isw0SY2+iKywhTkqxAfg4RxJZ8+0HpmRm8+kPR6D/Ks3OQIepqHekL7Ag56t/I9ZRup/tCUcqzyAu8YeTbCXZPPMFBcWK6/+1OODKV1bqOZxSjAKVhacEQD0Lat8cRXNqV7qBweQMQqpkZXQq939hg1yR6in2+lwtrz1EU6qTswlJSis/vhHZkLgGykH4cX+VLLPcRZJw1Dp2G5JdbDcyLpNnPKkIWrNM1bFzd75XCD9MSBlg+vrJXur16qgMf3UcF+tdPVOy6MxN8xw9h0asCGk4y2w7cOTsal0YOAacnVbkQtrcda24u3qeE3ft5EyOO3dnfmvXjiuUEElugEPLgc5ccVdS24YcfzU2FxLfhfmQkvn/U8IXIOGiyGA2vOX1okIxAqHC9BoSJ2pb3NjfpBjYbyph3CauKbCLmUASv1l5m+LtTEc57f7++4IHBPI557CZc9YL/Fr6PMEu5zLIPhkEqvJPLnWVpN3yBrBZ18lNr/HLHuqPN8RhThSMd/aiA6pikgn82fO57Y+/9PwfPu8Pp95yCEV3weQX9JoO3QR+hfVxT5b1Zjn4yfUjVfsineww7pcjzgExPKXJYSkUealaxeBPuyJgsiKJq3BbF6C+HB7eBGJAnAANK0BLuSlHyUTS0UdyEmC4pbDU/nMQlbHAXHmhLcbg8j2q9Cd5JCEsK0g9oJPFFzyWID8rDsd9ocr/4yl5WxP3YLJFFG3wYWeQ/40G42FDY4VqxQm8hDVf7fLAme5744+sdDbgULMbGMG1GY1WoWsW9QgIyisItN3w2+WADw+VyIwKpCykfXEixIU6EhLv88nEiUaZ3iN+PphiBz3YNtzOtSJ5+NZ9TK3aGUoIaDOGTcK24FTO5Ttt/VvS+NTnQ1gaVUuaZmbSzejZGUQuFf/HiaO0Hl1GvfFUdREcRD8638FlMGiGgtuFkqbt0+3Xu+y1Zt5XDffu8m4pQYeCFImQJb9ygbodpcUxCzL4LtK66+nZfbsbN0mTmOcnvk/11HFqiVjJQulQscsnrrE+M0z3GBywPpaQOAi/nkR97BsQvduePGkjUkQxNI4RwHs2mlI9fafY6AhJgOaYlXHGNoAIXoYgG+Y05qYAnm3UVwor2+ny21EYr0lu9hqw6pEYb+NaZaKP+AJGMTBYZNjwzNaIoR48ilpnpS3aJsSIXIIVICJB5MrqwJXJJC/PgjzHlZtE9HSi7vDt6Ei4uN3pJbbElNbh06gFFPscfSEaV32ZKX2K+1WtlNk4AnZxZfCOSnwH3bTCpAxJIMBQpPBQ9pquNiEsC8uGL6zGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 394,
+   "total_tokens": 913,
+   "cost": 0.009956,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009956,
+    "upstream_inference_prompt_cost": 0.002076,
+    "upstream_inference_completions_cost": 0.00788
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 189,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

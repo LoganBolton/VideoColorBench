@@ -1,0 +1,21 @@
+{
+  "slug": "draft-day-2014",
+  "title": "Draft Day",
+  "artist": null,
+  "year": 2014,
+  "label": "Draft Day (2014)",
+  "hex": "#3D362F",
+  "rgb": [
+    61,
+    54,
+    47
+  ],
+  "frames_sampled": 6600,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "lfVkIYMfvcM",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

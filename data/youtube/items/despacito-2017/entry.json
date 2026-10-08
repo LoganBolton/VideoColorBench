@@ -1,0 +1,21 @@
+{
+  "slug": "despacito-2017",
+  "title": "Despacito",
+  "artist": "Luis Fonsi ft. Daddy Yankee",
+  "year": 2017,
+  "label": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+  "hex": "#5A543C",
+  "rgb": [
+    90,
+    84,
+    60
+  ],
+  "frames_sampled": 281,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "kJQP7kiw5Fk",
+    "youtube_title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+    "channel": "Luis Fonsi",
+    "via": "piped:https://api.piped.private.coffee"
+  }
+}

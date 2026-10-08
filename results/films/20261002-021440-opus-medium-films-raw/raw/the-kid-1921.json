@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-VvRzFlt6wjWRohIBdzzr",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; I can't pin the barcode to one film with confidence.\n\nThe stripes are neutral gray throughout, so it is almost certainly a black-and-white film. That rules out the three modern colour films (D, F, G).\n\nAmong the black-and-white options:\n- **The Passion of Joan of Arc** is dominated by stark white backgrounds, so it would likely produce a much lighter barcode.\n- **The General** and **The Kid** are often seen with sepia or warm tinting, while this barcode is cool and neutral.\n- **All Quiet on the Western Front** fits the steady medium gray, and its darker middle section could match the night-time trench and battle scenes.\n- **The 39 Steps**, **Metropolis** and **Battleship Potemkin** remain possible, so the evidence isn't decisive.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "Looking at the grayscale candidates A, B, C, E, H, I, J, I'm trying to match the medium gray tone with a darker middle section against what I know of each film \u2014 Joan of Arc would skew lighter due to white walls, while The General being outdoors often leans lighter or sepia-toned, so neither fits well.\n\nWeighing it against All Quiet on the Western Front's darker trench scenes versus The 39 Steps' nighttime moor sequences, I'm leaning toward All Quiet as the better match and settling on answer A.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Looking at the grayscale candidates A, B, C, E, H, I, J, I'm trying to match the medium gray tone with a darker middle section against what I know of each film \u2014 Joan of Arc would skew lighter due to white walls, while The General being outdoors often leans lighter or sepia-toned, so neither fits well.\n\nWeighing it against All Quiet on the Western Front's darker trench scenes versus The 39 Steps' nighttime moor sequences, I'm leaning toward All Quiet as the better match and settling on answer A.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/goKEAgSGAI4AUIIdGhpbmtpbmcSDJZiy3RS7m/55MO6VhoMEmBRMifFRKy75hhOIjB7Xjqtl1uj7XOAfgdmS8wz/D/i0RFcrTSW4HPG6Sr+GOuDm6YuhkzT1qmLmRBdCu0qmwqPmwqNvGeC3fhHDABeMoiMBtwwDpRqBehQMNMXN0VahDy7ikJ5H/HB2yi1OYsd2EL5k0lAWEu7VOwxI/KNzu0AXFbPvnN68edmSEp9SZ5iaf8fIZMUtsR/luuNlMrxGVmqhd3UKLAf2CknvPE5asPaJKeQCJ4JkG55cSxnjrAg/SlcJuW16nj1ZQrTduSabatCCJYswHeUFHepjrXT2vkutzE1iUUetgsQlHqeCS7TTIP9f/r7ewe63Ro2szxmJihVYl3i/38EGmAPj9VRCKuN+kmsNNIBgCIlVsxQwl0HHNz2gt8j9+fFsx/g3KXvVdOLv4gUrYg8YSiGWm9JM7t/aqKYh4J5sPVhi3YeVokCpqRJyXmgvjkJMva9R49NMgp8X4UhNZQqtIlnYfsTjSioOqZUAc2qroLBm2jX46Se1ZdfZMEPn1WAvJG8FY5Tn2GtzF/Dykr/flP21QmDYiPacRFVh+DwVRwyRJKs2QAd1m6EevdVIxJ5mMgRoQsS04WUTUDQCpGeAJW0yPdVcKzT+QxfRMho1TqHdqUB5FT2r3joB8uqQuYqWhlCLceVmLkbrnRhiU1PwYeh9Juc9MW7muKkPSrc+bDjgchaFIJfWbtLw9pXS9trekZqtCeTVBffcSbG/YSrFeUn9JyHHqVTsJoKWW6b1u0al6HZHTCjKtf6B+tRCnZZQyvCYguEXKfcfsisJednNDCqc6HC4LQYOO4K+aJ3sL1POTyHi0RbpW0Mj/5QPcuBJ9uLGR8NTg3TbvorKrt+e3gSssgwqdw5xPcbM19eLHOYTeTcH00KMgAKg2NpypuJnfQnM2Xt/1yUZquVmsGscje+fLdq1O6BubyBxsj5auMcucB4ZC0kQUM4RYcsZ/wkzoo+PqvaLEeWnxWtkBfc9Ix15kJWNdfFtj7vg880JvoRHHTLcGjeJwUc0GVDZjWqYEOrJ3xih7/9eKCz5vFte6cqVi4rj0bG71xb9QTo9/HKHrgoeLcToyL52M0Rq21RsBQXy0dDZRTl+IOimGMgZRnVEE6ns30pF+i5gcbevNWY3qvIdF5PXpLAZzAaSNB3F6syJHl//6tfsXPSmzgUmm3UcBRQ4sdpD2bCwobcKwP9nU7dEKMncoZy5koPwrhDH0bGKpmmcrA7snyp4SB4Y8fgBANREGQ+rNDkNL7w8OWfh282qeyEdGu/FTxYPl3KwEsJMzM7AcczwjL92glCapcyTYVU8IRQjTjCkWsJohr8r3MnhCHQE1GgLCoyzjbq6gNiYg2VuXdp6Stgm1SlZBJ1v6E/vVlfXC1ZtWqVk/q2VWRd+i121fLVmV+LQhRAMgdTBTw9m2PARHvFHQ8EPKeBbUmk+t4vwBlOdPfQQehH4hr4vz4iHj0qZLUZq1O/38ZOX3nU0WxKf8CoC8Geyphf48ar2gzsUXX9SwbVmbliOQejTPkTcaX3Aex2SedUjQo2Bh2pv0TniAmdTsZGM9+q8XpFVPAMnc5BzUdEa4W3LS04G00qQRfPYwuV8ojFhFoiDE8qzCp1VxiNlBAQGnqTF1Yhz6pcj67kiDpx4BdHA62GuYpf/9ZcRnMaPMbi2rHvKLbFTOZQNvg7VMEQaYFgJNj3Ip5ZwH4b+yTzTce26IpaWps7ixD67ApDY9zTTZp5iywor+CZK8zeERSBPQ3ZTNhX4ezWuJ/nhTwWiCoDeCi0NzbYwt0OoQPnsvSiMpOGhqkLwOH9zFTmbQUOlt40dhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 536,
+   "completion_tokens": 591,
+   "total_tokens": 1127,
+   "cost": 0.013964,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013964,
+    "upstream_inference_prompt_cost": 0.002144,
+    "upstream_inference_completions_cost": 0.01182
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 317,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

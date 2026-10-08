@@ -1,0 +1,21 @@
+{
+  "slug": "love-me-like-you-do-2015",
+  "title": "Love Me Like You Do",
+  "artist": "Ellie Goulding",
+  "year": 2015,
+  "label": "Ellie Goulding - Love Me Like You Do (2015)",
+  "hex": "#2F2E30",
+  "rgb": [
+    47,
+    46,
+    48
+  ],
+  "frames_sampled": 249,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "AJtDXIazrMo",
+    "youtube_title": "Ellie Goulding - Love Me Like You Do (Official Video)",
+    "channel": "Ellie Goulding",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955306-7xTlkJLqyQ6Ob5Vk786V",
+  "object": "chat.completion",
+  "created": 1790955306,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - \u201cThat's What I Like\u201d (2017), given the predominantly gray and dark studio tones.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Considering video aesthetics**\n\nI need to assess the color scheme for the video: a dark gray and navy alternating with light gray for a consistent look. This gray studio background could work well with Bruno's outfit being black and white. The video should start with gray in the background, using close-ups with a darker black shirt to create a strong contrast. I want to keep the colors minimal yet impactful while including varied warm shots.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering video aesthetics**\n\nI need to assess the color scheme for the video: a dark gray and navy alternating with light gray for a consistent look. This gray studio background could work well with Bruno's outfit being black and white. The video should start with gray in the background, using close-ups with a darker black shirt to create a strong contrast. I want to keep the colors minimal yet impactful while including varied warm shots.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88z2ORgEgBuNq2896K0YDBMmB8KXKdHPLjXkZuewmcX_IXF-Pe3ji9OV5xJXlykKbrzlXkEaiSYQSPcOC_aSz1tni4Mu2lG8fHv8LWaLUnSHJUhvUz3W2jwB3SOQfChRkUMgciYigNLCv2Trk0N-RmmQO7uIs-WH5-WBIQnE2Kw5Y-AAbPosPHqL0ibmLxdlszRdm7ANNRp-vWV5wUEXwtkmeOhAhtF1AZukfjeKeHvmTdoxJN7YbsUQrWSZD4nG5n359DAyX_QgTB8GzT_PaMjkGsPKb7DZqW0uq7sMcXRqxNgjnaCTU8YZwSJyX_9YT3vW1AduY_iJSHv3BENzLZxSQLJwYJ3DxL0TVJIx58nWcGXUrp03e05SroKwH7jaBXHqvzHQ9dBDV5oSb8v8I8JYKWstdVqN7O7uxEpdEKA37qXLvBzTsN64gBcjdlLpZdcXjj5hfct9JUcRtlEm5cDWojacHNCQV95k5ogIOWJzt0xjPt5vpoR7QXq5J-PzTor6wWhBGvR58TUPHDTT6OZz7LMfBbZ-Ta-tnVVmv6Mq2R2vVkO4vdDHYtMlhiUlAzP3jTfMbys-lDIh11vhKvQExpVMo3ELLlqNDhS3cFdagbfrW1sNaPUM9ULZSe_ApqKlmgcDx3DWRtAiHQkfVc9DBeFQP16K8fE2c-PXeNPZioMZ1_6q90yWiaLtZ-miq89OVnWXk7y7t_8KVJ0LzYEN3-hhJQoWPeJev2Qxo4Ehx0BaJ6cW0AgrqTSEWe3XbFRn09gjHNOEwgTCH7v2tGYkYomwgevkl6VMox6LS0xz-uGth4N4sgdnsu8BqinWS7QYEdXZ2oMB9-gmXXqzsC9Q0eZThXb90AVaEuHol1BwkOJAV5D3aeJmC1P8NTNmDDND2g4bvsXjlUyjYPeXXQ_HkYhLnH4AiTV1qGxp928Sxo-mAqBnLcE88Vt-eKKAyHv7RAq_aFtsJl0greQ9_IXO7jTMnxkMx1lWac56tdiP60K4eB_l1yuGztEzZIe1nFvSNggNkYy076h6HZDtGStJ1ojKs-To_8tPc9XXNOexK8kF2CZ20fF4Sw0WegzaEZN2UT_KOATCIGY-4_8Td37zNYQNooQb2m6mVSgbr20w7sqLseURAWOS8guf-eOQk5igD0UhKf20CJ7RHPYUn61LQ4GDYObnLlDd9zs45X1WwztrYyow0cw_RwvZqiZRZO4Kmh1yZe9efU61WTuNjnw3oZnmFoDVlRxIbpdZVYgfFk-7jMk-BEWj3crHJ4Q844xwdrffefws0aqgjOyy6Dhti3YKElCt4FjEDx_dBbcYtl1cv0m23cx0B55yvsCNNUk9YlHUDi1wpJuy1pfNq2yB367zmgdR95yU26YRF6sW3yHcHzJ12csHwpgYNgqHPKk5fqP_ICcOMOi6C_BeI_OtmXgtZSVHa15g7T-wXS0Cai0R5NpFcvWUg4n5fK3KKAFnn1DIl45A0cP1adHgpHBmMIqQa45iBWbqwikSSwMElireg7d5APGYsh4WcyobbnWH7f8nAPQcfNeOWPZqhCTFwQlr40gYIBLftYvC60MSTu0iMRckwuCjLx-xIzA7gwtuoSWcWPHrpbZq0og1f4eIhy0h8IE5wcrLkmLxSM7LX9lPWuGfPnOxexYc93Kl4enZKMr_9bnTRO6tiFImwGsiqwLB-lM_XvjuzmbNCn-p5zXabMN4DLy_gYk63U2qRiUK9vMkxnNrlMD6cxI0S-sQybTLu3kqOGKcp3VSSEAwDrAIcVn92eX0gQpgt3TlUlWzFTRDpHhpnhEBtLzmtWyf9o-eBee7JQpBYXhrJ2C3d2XlewYp6y7YGnZHgjFJjaT.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a753a50b12c9b44016abfcf2df50487d18b1bb8da08abe180",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 475,
+   "completion_tokens": 106,
+   "total_tokens": 581,
+   "cost": 0.01005,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01005,
+    "upstream_inference_prompt_cost": 0.00475,
+    "upstream_inference_completions_cost": 0.0053
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 71,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955172-rkoGkLgW6HoDjkIlTGLz",
+  "object": "chat.completion",
+  "created": 1790955172,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is twenty one pilots \u2013 \u201cHeathens,\u201d given the consistently dark teal, gray, and brown palette.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing color schemes**\n\nI'm looking at a palette that includes dark olive, teal, grey, and black. I see how these colors can work together in a dimly lit space like a prison, where dark teal and amber could suit the atmosphere. In a brighter room, a chandelier might add contrast to a beige setting. I also notice that using dark blue in a classroom might feel numb. Thunder could create a grayscale exterior for more contrast. The proposal for gold and dark shades adds depth. It's interesting how all these colors interact!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color schemes**\n\nI'm looking at a palette that includes dark olive, teal, grey, and black. I see how these colors can work together in a dimly lit space like a prison, where dark teal and amber could suit the atmosphere. In a brighter room, a chandelier might add contrast to a beige setting. I also notice that using dark blue in a classroom might feel numb. Thunder could create a grayscale exterior for more contrast. The proposal for gold and dark shades adds depth. It's interesting how all these colors interact!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86qlTtquJ652XNHe-2ANhZfRI8DoKBTdVka2b6E6Dg28TNZusWbYBR_cDHMlk39k8c1Wg9QQgdRJxHIY3S8emS2CFm7uYAcuCGAst5-hkXLblXOVNAdo6XPE_j-9eZ7bBurvrnPCidGuUW2S6JWMMRInw0r7W7yaz-Tnd-bdggIqnRfZiD0h4fdozuGMvbR_FVlQa4uyzUT9OOm0OdjMiJ5Ghtb4m6eOCQ1SGPVvcUuyIRc-F0y57dAOtEAXACpMKwkGIw3lwlYTnQip4WZxuWgHnufkqz-Cw-lwiBJ6Ewf957iwVsLpyNkaBvvUd7IlNf6ahV7ulJdX01mtg5JDSFc04aYe_FArbb99XM4X9SGne2MNiUVI7eTNBxw572PWvryJQk9sJr95lC_Bzk6Cc5Gti_2Udo_wajfBGIMLaUvN_7sBltGXEKZdLJOYUgReBk4TZB732_bhtGRH6m6j3YkdHSmwHuRUQyxnOdv0pMQ9gQ9lK_uK-pzVxic6S5dr8X6sYhobd0j8fFpJO9_crRIjQjx0hqYXYp4QYIo4n1qTjEbQt2ZXFuzTfMbCQnnaQRbb_l-YB2BfzCT65MaIYXHWCm-K02K_MXkSHMDO7FYOy0elN_YuSymbE3XEAGYZzYWUTPTCJuXw7TZKM62qQJn6sQFZmuXbCig9m_CD7AquApcgDHMU8CxCI5KWXWQ3dvOvZU5kcC39Eqfi6R7xQ8gXDndesPHDovfI_jNSKP3tJDJhiY2Iufe0qUDPu0GNqs27r0aa7ZQn1uObgxkIHSBCa0kgO2zvpEtlEYyuOSF2IuM0trTHCzX11JGYmVLHEieXLE9dbioNUM3RA7E6HbrTRzjgCylwtkdN0v_VM6xQcA8eI-Nb70lGY_fCgVc4hZBbjuN2NtBzXVjUjKUTpLoL53HuLgm3--Uy-ptygiUUXhS02B-iXi_P5BhP3dp4N4QWtZEQc9fx1UL7jdgT7STTOCTTX8y87aAeLTAWtKxYbP-WzXyUmBoMfKDymgm0lTpzpwITOYBwA2c1bzcKJ71JnSQMwISoSF_tjHYAn-_DhWRWAhqypNaQOumPbOcAZtD0Q4zVLy4MgHXOcvACMhzWCdHktxYhudDRHYHw7Lj4JzpLdCmbL-b76Qt384r8t69JFIsZjtQZzuSj3bLeJ9SB1CFx-spJhFEjHzaW3c2VtqqIbKv_np48KEusc68ZmsGIO3o1ZK6tIfrI8iyAgTZVAn9CvXNJO6DU8M3ZnqyaeRYV1gTIBUQX-5wAsBKXXWA5JWfXgkf3LsujSiwhC5nvOTpWJJt_4S1NFgZYxoVCU5-PjZCDLUfW3IbMQRHZGQ5SriDqdaNOM-1P5rLPVxNeP-Em_HlGkgiLhtSNz2MEBVX3j9wVFv_6h_oWIxP-NRRCxhTzL0rIs_FXVUFb3O-FMMe1Zabvmt6GJCG9dt69P6oHkXPD_P90EyDx3aSZnPzDWhyXwfqP8l6Ha_h3OSbSMuFhyriD8CaJWywOOAYaQL0OiNg-Bugt9xHliE_Q9qwQ4Q8ZSCEsbUgltkraA_6QNGMDVJPDDonyraPMTBaYHaEE772QF71YEaxtCbxgdnooSc2OEAf9MdPV2gYOgSqVMLSo9KK_ZVGCMSw6DX9CARR0fdCUTyGYdm_Lz4vurCCUFgXJt7pwjdTMsVDYgmBwGGSu6Q4JdS3oyN3XSP9RI2VCEw3o3fy959_Zyk6v7Zpzuk1SIebLAjTbF33iDPFJTKLlc4jdlraJhEnl0mmQ00z9jLy_41FM9W5pjTvmXBMgU1nOkV__8GA9W2EvEv64e3hkienPYpg8Up7IgNbult2LqNH_-89yrm6qNq5h8uj.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a71fe82b9bae7f8016abfcea66ba087d1900d31a38e86ce40",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 113,
+   "total_tokens": 586,
+   "cost": 0.01038,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01038,
+    "upstream_inference_prompt_cost": 0.00473,
+    "upstream_inference_completions_cost": 0.00565
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 79,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

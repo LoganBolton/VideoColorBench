@@ -1,0 +1,21 @@
+{
+  "slug": "believer-2017",
+  "title": "Believer",
+  "artist": "Imagine Dragons",
+  "year": 2017,
+  "label": "Imagine Dragons - Believer (2017)",
+  "hex": "#352B3C",
+  "rgb": [
+    53,
+    43,
+    60
+  ],
+  "frames_sampled": 217,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "7wtfhZwyrcc",
+    "youtube_title": "Imagine Dragons - Believer (Official Music Video)",
+    "channel": "ImagineDragons",
+    "via": "yt-dlp"
+  }
+}

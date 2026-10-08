@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954475-Fl3o542MPXWQEX0EmCEV",
+  "object": "chat.completion",
+  "created": 1790954475,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": "**Assessing color options**\n\nI\u2019m evaluating a mix of dark muted colors like brown, grey, and teal. It seems \u201cAttention\u201d uses a lot of brown for dim apartments and teal for studios, while \u201cSenorita\u201d has warm desert tones with golden teal. I\u2019m picturing a backdrop with varying shades and brightness. Most options like \u201cAttention\u201d or \u201cSenorita\u201d lean toward darker schemes, with teal and brown featured prominently. Overall, I\u2019m considering how the colors play out throughout the videos.**Breaking down visuals in videos**\n\nI'm analyzing the visuals for \"Attention\" which starts in a dark club for the first 15 seconds, then transitions to brown apartments. The first 5% features black followed by brown. \"Starboy,\" on the other hand, begins with a masked figure in an apartment and includes a mix of grey, brown, and blue, often with red. It ends with a car that's dark blue but has colorful elements. Overall, \u201cAttention\u201d seems to have the strongest impact.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing color options**\n\nI\u2019m evaluating a mix of dark muted colors like brown, grey, and teal. It seems \u201cAttention\u201d uses a lot of brown for dim apartments and teal for studios, while \u201cSenorita\u201d has warm desert tones with golden teal. I\u2019m picturing a backdrop with varying shades and brightness. Most options like \u201cAttention\u201d or \u201cSenorita\u201d lean toward darker schemes, with teal and brown featured prominently. Overall, I\u2019m considering how the colors play out throughout the videos.**Breaking down visuals in videos**\n\nI'm analyzing the visuals for \"Attention\" which starts in a dark club for the first 15 seconds, then transitions to brown apartments. The first 5% features black followed by brown. \"Starboy,\" on the other hand, begins with a masked figure in an apartment and includes a mix of grey, brown, and blue, often with red. It ends with a car that's dark blue but has colorful elements. Overall, \u201cAttention\u201d seems to have the strongest impact.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8v3NlkjyB7vMlBuiDBw2mqrwYupe3mgWefgAOpZeOE1Snnj_1zChsaMJF3-pHlWl8LBp_cJ-i5z86AYjIA7G7N7zeLfAx1k-k1qIGDv75_DDIKH86Uhe3oOdKn4abDZqP0RI-42ge-iUBLS6xxBY_KNJSkBilsl9YWngR_WJPG8_8CUJ208vkqAA38QeByJbhXgVL8cOJhYGiD8kSRo7Pp_3WjAzABt4fS1IXL6nn2FOHfRLtM2D6dCYtAgCnh6GKT2tTo_U48bDQemg1zeZiTrhQoYJFXUndMPp9dXsG-2iffwkzcdZKiBatja17kyoKoERdGy_6ci4LCqgzUj9sXi4mVqwJB7xHS_VPRiQchlYrwNfMObMR9GIXSjCNgKiuqrlsavlNnlumTuwkzalFnhPr1iIor0s5D1cqWnXREDusnOdWwyzw8t9rD8RCLCIOSsfjV8elX4hgzHsOYWXNsZEqAXSr4YE7YSx65CeQT0h6RJ01sc-rw6Aqd26bv8Bl2kTbeWuNdJGUf-4ab6IyofknmcaFsf6jqkRCJ7SI2yVt7HuJAuCf29SK-qgPs-4cYu7oQLSeTHaUEk1J2TRJpY6WHjq9MLsG5jQx4RsgEjs5Tn-fDbzVhXWM20rpegNq1N6K5YqDQf1hT8llXwrZOZY46Xou4P_tXeTH9iJvzb__TPH_zShUBmP-Jdx318lRsyQYwthPDO6ckLF05Uh3ozcdhaD66f4n6N_FKEnx7zAbr1dCnRAIkN_Hrcg2tO_ZrDS8ebzn2mCAsuVFZ1hMxNeZpzgsSeNflZ0Ka0_4IYj8PYgK-0tKWmRWYusMI0Kw_Q86tHmKQwUE3Tjp39AryaRoAewCuumj6UghG75n8PxsT7j3AI2zmVRIpwXoHIqu-75pkOD-xsjX5RA0RZDl3DnkSUrLJS7V6uEZu4ARJxFHD_yqFil3yW3hqIk66BsHpkSrKhu7x_ly9luJCJ4j-B3OoOqC_mWAux2_ODCgY-ffUXr1PiqmQgC9xaF-G4KkXw2vpr7KizDStoW8TSMrECrxlCA0xPh5KnSXa66TF3sCafmdbWPanyQ3VhSgVDUg9T18k3c4PGTKn3oO_TyI7gcOxWCAzqeRTuBaq_-V2xQILi2JyOGdnIjzyM8i3M_6oPele7u3BQy6J55tgBHLQ4AwJ8XVJ1TV9gAgh7TTmV2adsHa93a9D7nCwkuGrzD_qr8WDwf8Vv-t3snZLcdGQmshu0WaMvXkIlw31kg_7KEoQ75yRyRHN1l8Z0T47jbXf-lqG-v70Ej2Q2p7e8RPcvm6_YUb5InHazZVvuAviAhG8pKKkh2p0HaRq9whK5qjOFNG4TGTrBE4PwFyFSDRjOll1y7fK2mHukCv2BMZpgFp3euskwTTY1c22Jqs6DjlaVcNsuD94p_2-mNXEadbfI4NObOcw-g6TWUYLc-l35Hc04yAdQdjzbWrzqfU3hYg6FMGLUkqhbmS8FF4QaDPSwjNmm19BFzIQy_p5hPkfLFxYt0V8RTQrXtxjmmd2gG82hm0bx9F8DLC7nWqpFpKFVCX6wSffVqhuvbGEvmm0O-K7g9BnQQpCmf3MXVGbWLq9WOaR7erz0l6gHuorGntXAZntWAfbrXZf0ff5N8p7t2NgSBjouXDSqGxAPBTSciOVZcoRs2Ba7q0LVEyUy5CqnP8bxN7WU-XsBGNu3Gya2nSLYwv0b2O2nhNAI3NMU9ilfDzAbgLxyXPLLLEV8yZcKvxk9Q3ZdNFbcRGU_F09wHdaTyXiBsmsYlVK3US5m66gBq6ArBroh0j0Yav7V3GkX6caboJpmO0jM4KeiEBPaczi7ddjuFifPKKpuwNobuo5RIoA6-j3JZ2Apn9FYdv96-yo_e_Wv7jfvnhpNNFT6-JvuNuzH99HvFrYTLV6SfiJ9UtZfLgu-a320HEjgOMOOOrNhVBl0be8KNVeqcugpkbS8jDD-2UTYTvh-vkc2SyIAM_07urPycy2hpQ5uSBNdXfw6na4z3iJPyop9AUFLMqB9W5GBi7bBu-F92OPsc0wZQ7kagxFgzs-kqOqeG7fqCA4R-i-rTBVrSHlBuyA46oBo6mAS8WfgPUZwjnCssnUZ7PGeVtdnDZgOth-rYzqr4GegAKRl_hVtzfUYo7U4ioShcJfsZlw3pbZ1NfgFeKQZApAUqx9nSixXBag1ic-AfQq4rkWoGZoA9L4LvurUc6UZ89pDfYgKHYzZWowgSb9qRTzBljpqeIfIgHpASMvPwUcYk5zdGCk2YYnUlbTrFiycyRLdsVLxUtn64MJa-N5xPErRETwoDqTxltZbLB_D-2PfxO2z7-epl53fUWr7dH3pa-4FNMo1CFmeoP1CK-63C80Tw5KWn24Q7BLi9QuEkSZVc3u7UAgxnjT_OP_Aro4y5y_icO4BT4hSViAU1Fo9WAFqzBMIe12o3AM_w2d8DBkE2zQGHsdO4SUYbJEDboZ8iH-cJtPhHm2X9QpYaQxMzCe3kbvEVue0sqX5uxfaXLRtKdMPlkhr_YVM-bl1hWkAkmSgezmAm6733Sg6p6KSbVi2MVXq9DTZz6BayWiZnr2NWNvH06fFhb-bHVObm00M17f-KdJPVyXh_V8GXxiqylBFShP6oJMvPCYUO_l0kt6eEbWnFX42W_WIM3kYDFGQ3FqVGgKKgW_STO0diRhv0qQCof0gRzqT5oTUWLu3pGMUQc7pwZtBe_eVZ0kkSnArDEFCNRdGulG_ZLnVZ81xwF_qlXFM-xD5cYVEedZbG9oZbi1S8de-rNsVFTPFlRp9bD15Rhytac5PfH-2yIWqb11zCh7vyEZATg3mCyhqIpVwi6NZh8N8a8jnALxPmvw=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0027417da9289b5e016abfcbeca96c87d1b61db5ec665986e2",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 482,
+   "completion_tokens": 240,
+   "total_tokens": 722,
+   "cost": 0.01682,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01682,
+    "upstream_inference_prompt_cost": 0.00482,
+    "upstream_inference_completions_cost": 0.012
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 231,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "rockabye-2016",
+  "title": "Rockabye",
+  "artist": "Clean Bandit ft. Sean Paul & Anne-Marie",
+  "year": 2016,
+  "label": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+  "hex": "#383839",
+  "rgb": [
+    56,
+    56,
+    57
+  ],
+  "frames_sampled": 254,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "papuvlVeZg8",
+    "youtube_title": "Clean Bandit - Rockabye (feat. Sean Paul & Anne-Marie) [Official Video]",
+    "channel": "Clean Bandit",
+    "via": "yt-dlp"
+  }
+}

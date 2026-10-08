@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954845-g7hJvSNrJOChdW4S1jZj",
+  "object": "chat.completion",
+  "created": 1790954845,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating movie clues**\n\nI\u2019m trying to guess a movie based on its color themes. I'm thinking it might be *I, Frankenstein* due to the dark and predominantly teal, black, and brown hues. Other films like *The Haunting in Connecticut* could fit the dark vibe too, but I don't think they match this specific color palette. The mention of \u201cuniformly dark\u201d with hints of orange really points back to *I, Frankenstein*. So, my answer is simply B!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating movie clues**\n\nI\u2019m trying to guess a movie based on its color themes. I'm thinking it might be *I, Frankenstein* due to the dark and predominantly teal, black, and brown hues. Other films like *The Haunting in Connecticut* could fit the dark vibe too, but I don't think they match this specific color palette. The mention of \u201cuniformly dark\u201d with hints of orange really points back to *I, Frankenstein*. So, my answer is simply B!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv81j6KtwvDx87ICI0ag8RRhIfjeP6247U1ZUCx8KNSUxIsTVC4drkVo4EhJzduA6_0pRwVJXLkb3J1wzPTxzvnKT7GtSo5DCfoOnqx9u7YxiKg48jixXJV2eRtSLFcn2YksM2zbis4Rm2HVNv7Kybar5MwjjU1Gv-If8kpw80G2i9X699Gc7RiDqqUb1gQhKNISyWfEiKifqbjgE2DjszPV6qMILJiOKuXdB7INb_POQbSc1lGTTlqoaxXg1JS90_EZy0wFPNOGptZujUwJnuIrE-Y-1HhNVAFaw_oF91_H-kdqlqkyCqilNvva6uTCBSlt4k2j26KSt7FOwqND__0Ctu8WTy4N7pffjzalRmY_bLzvG_QUNUNlpADCOB2b0CybyPTRuZuGFTihZU7EsMiL_fkhWTHwrvBxl70n0tilidwj_cPNnhPATdlZ7v0ZWa1UBO4R8LL5KzZaMyQLVn3_lWgpviEawDbBT53PZTJR8FCRo5tGkAYaI0sn8ccenSMpj1QFzkf2OSKZMxm8A6PH40CWMIMCAYJKoZVnsYKwgAAO59XqsIB7XPQd6UUjaV4lFXiwHeJ6wnw6g27fjyqZIDcLeh4v_zgRx3qwX7m3dDLtjIGJF8y8vpBW9w0FISqggrFij7sODmtQ5VdHXMvdPs2OPPZxOf8bHHXZZWhlTKkVzgNs9DLDDqkISaB78iFRLeoLUQNL96THxpcn_tiQOuGJVJz5Ysb-dqZcJPI-XWHuHjW8j1cYk4nbw0MJBPxvZdpg6fFcm2sEWg9XNT2wai4XWxrh8MYdhkd3mfhcjj_TCDeNdmU6UlmqYuj8Vh0hb88Nuur9VGQjYzk2GuHoXTG1oboa-MJhdHtwAANwnt1eoSD8IX6vnAQaYldLsRFihbGZjUeuUjSg4S0DDgG0swUVaKIdopBvfp1xxWEMGa-O7znKjzbJ8VY_L3vw1LzWrIecAARV-9V2oNDuphpJQ5uLFJ_ak-v_aeLpnwTQrwY8gv0wFltE87IOooSe1vF3Wd6GVlkwo4XfDwvMZNofc1KejEUdOW6IJLPzY75bkkGAtivisa6Ls9jevypu1Gko3iuztZS9hjXkbNXqGR3nT3iSveoyO1n0-SiFkr2JlJCj_jQTXpTdQkoBSWUvVO0XDUnpP1FeY9v030K1_Wbs7YURraIauYqDgAMXg0ULeFM2Cy3Lf-Wh0wX3IqBmpmkTGKksYcI7drzHCFYbLtAoVN2blzVSQ8dBgCD914DnF3irHKzvXODH0gDEhA8OvHrKtkxFjFl6CXvpPWHxsygNSebyx2fSrx9ND8iq-UPcTjZkOUJj5AxJ8Mg5AOJiR6WFrrj7UFAn6RpSBR8TSm1En7RIoNDQQ_qm2HBMGGAwsBC8mSRnvgKx7XvaFRZlQIuaSYBph6hgWm3LKIaYzG7zJqQNZmcrRj1vVxo4qhlkP_rrxeWNYMC_smGgDPfNd1IUjF8p-IYWteG9N6jcJ_OFdANQkkbTqNUYnkWaIZibtX-yUHq51UtcYkwtkS3CbzrdqVY3sJHT2X77DwAy1WjleFXDf9jDEOtpud-v6zT0QNYGY--zTNYJfGjJ7a-y3AFRRoMpt9hGmwVzc31MIuVDv3ETz-aks4karmTOdtveADqvM9pUju2GPCgvIKDzSvQbBYR3az_VTJokEmkhtm8BxWhR8YD9F8ikYqMtZscmQ2Wi8QzQwWg_w22yzB9EyNa5oOnad00RANtBBjpynuw0AHQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07e07dc142a0a613016abfcd5f1f2c87d18b6b44457f4bd5af",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 67,
+   "total_tokens": 496,
+   "cost": 0.00764,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00764,
+    "upstream_inference_prompt_cost": 0.00429,
+    "upstream_inference_completions_cost": 0.00335
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 58,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

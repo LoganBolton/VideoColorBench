@@ -1,0 +1,18 @@
+name: claude-code-opus-youtube-videos
+mode: harness
+harness: claude
+harness_version: 2.1.281
+model: claude-opus-5-5
+effort: medium
+tools:
+- Read
+- Bash
+- WebSearch
+- WebFetch
+dataset: youtube
+concurrency: 4
+timeout: 900
+questions_sha256: e55dbb791e1ba993241ddc9a8b9c042353c2dbf33651ceb415f567afa4f29acf
+notes: As the plain harness run, plus the ten candidate videos on disk for the agent
+  to inspect.
+videos: true

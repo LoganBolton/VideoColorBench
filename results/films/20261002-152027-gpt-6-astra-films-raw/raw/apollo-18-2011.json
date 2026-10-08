@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954780-qcngOYD60AU0J29YSHgL",
+  "object": "chat.completion",
+  "created": 1790954780,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing video imagery**\n\nI\u2019m thinking about bright monochrome lunar videos that are near certain color spectrums, probably between 15-25 and 45-55. I notice the colors like green, gray, and teal. There are also mentions of barcodes, and maybe related to moon movies, particularly Apollo 18. It seems like I need to make my best guess based on this. I\u2019ll keep all these elements in mind and make an informed conclusion!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing video imagery**\n\nI\u2019m thinking about bright monochrome lunar videos that are near certain color spectrums, probably between 15-25 and 45-55. I notice the colors like green, gray, and teal. There are also mentions of barcodes, and maybe related to moon movies, particularly Apollo 18. It seems like I need to make my best guess based on this. I\u2019ll keep all these elements in mind and make an informed conclusion!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80wco51ObbyrqVRdaU5lWvSPO1OM3wG5Bev8XlWaCNf_vO9BKA9IT-aVseGvR7bw9oYLFZitc9SH8MfwxmAiFRj4U3hBcEEvO5UiadYIB6DcbyRUOA8Xs3dJhIobb-rRDaY3EoCkXpsey-L5KRYtGblMvENnvH5W73aRyrUhnvw78XDNlF8zCJXbkX4Mmm9FKx3ef5qCN07QVDTBdfTql2QVEOg3FYQE-yTwpjXGaX7R7psMgQkBarvEJtiWT2KpPAx-bIGeBvL-HODbM7qSmspKi8meFxmore4h8GHHVlGGGNQXlqMr_RCt5b0UNCpnkL4qvzbyrnCWTp43a9IaL7kv5rm9eAgARjHoSVG29B0S7bggCHJSxUehKMS4O1OEvSQSuPBHGq6FMu6-TpKnpww03GxMWXJPfByjgHeOWK-bfE4rWRnXahB9IMe9xH3jvA1Xy3esCBU1UFlpdwtJchu5OeAZM4LZdhf30GfzuCGu6NdnFpW3y3joXNNa25DCKAJ-qfUfZ_VFXA0jsaUKoHCHO4Ld-VrVBHgVl5RLYAQj6rc4YazntQug--t4af0-sxwVFbbPRfx95lZn6MCGG1xIBaMala8O6IJKDx8qskwG6_91OUsMIVhUrNntkvTVl47Conhqh6rGRy04_WJ8Ri6iSbc2FbunkYy9qGY8BXhugbIM7LZLfp7mt85b33gTPN0OkKTl9BDiuAFS2f8wh8nlNhQKQa702pjqEbMH5sTSMNweSu03LgK7t-Q-y6SMR1UE2HPNZSkDxgmvCP5hAvXCMQL9JA2gGWnMAN9ll-IDdXd3m4Y9XKgrezKgN6gYYgSTr23A7ZpA3-Y8Z_FgaDQvtRXJB-t79nbMjT0UcBkHd-hTcQ3_UMoCbg88ZQE2oELfLrrGnQ1lXsz7PWYFp_FSUQ8JXsIZxRW3-oCKdnnfrzNuHg0n5DGbN0Wt6Mrts4x36gCKYYMN5WWNDI44aK891Tq0gBzrqp3gjYU4qr6Mie7KP1eaz-TbafHhR8xAhk0aze9VPLDB0yeFkBZDEaMCwEEN7DT76Gj5SC6QPzovNt3zs4Gs83B6QIHYLtJdQjVnKJa5ms4knkcXfOh9VsqTP12X1ftG_Bro8hy8_yv77DjNLYnFfXTJyN_blpVQ39ZAH4owR7qTPqLBF5bHmc6EgMdOjudhW-U9sAXJWavzeJYPW5TVzARQuKETgQW_I66wJZ6LlJNy-jGUGPflBf-nCTLjci8kSC3Bso-jWhrBhYX7qOhQD7DA5AJOYH-HgRVigGEDtJk8ALZQVNaBfg7iYQ-_jJFES0n_wlcJxi8rb_ZlT33O8sNd6FSeTI2QYhfpPagtveZM30mpj_H8b8mkasxZymABl_3Q-XJio2qN5PdZcocj-Xf61fNq_QMkE52Zbbt3BgkqYRFLzfq7ME28r_OWsik5yHvNst8AzLTVQmqOXB5VYezQS98mWZattjG3zrTS6MF5ejG0Bu742hWGk2g-oUKt4BRf4XTenYcBQK9VNM9IBB6bD7oL8zBRCSj9peCLyOroKDOnvLGuBQ_dKGMnrg6jYkFctzKQOF233uceefqfHaSTLvv9k5PBaESM4R4ifI4HQH5qUIX44bV0joGqSJ2xWhhKn2Exd1S_VKaXJfS03AqOiTr4JeNOQoRhzaoK3lFYryXpINjpunInMBVpCIOr67vctCgOYRo0N-GfQld2glpiaGlSEWFWIBwajn2KCSlIy7M3DerVgwswqIiaR9BscfdKOd58nQPQ1c5NTZyBboKCkCg7XCbeZClnNi9YGLYEnJQDlF7cwZFSaSdji5hU4IltO4v-Yg_cmJpifh07pmLun9v-5wdwSISIkIV4E2RhAJqgWNqiBagF5BF5JQeD3C-oMKR5M3886MSQMfmRC3fwroee7bEF-6Y4qJoOqMvjp-vZ8qZUMJtJlggalPJdYVbkzme6yeNjWabhRNu_OP2trNlHr34mQow8BR2CWmI4uKBMZ8oU0v1VS-GilTtCwrthwP1MgpKmlKZsQZvCi9npmUFSOwwfPFeh1yBFtjeoxXJnlosEQD68Bzlk9nfAWM2ngXGKVGjAwbtSlVpRJicMMsBDrcTz7h-rT6r-e83hHBZYpb0abYTLrNbxbvPGj9zTFhzAy4Wa2jVovpL_zKZ6bnenL9FQOvll7dtU_3JmQgFZyfdQThiLS3LKuAKS7r4tZdqG1YZ_THfp68VqceIyrxQ_Ee7hMBh63CicoFqEDQq3FL6gkD95S3mC6r7eT7SOy-arnl7PEP5p50Kp6ugy0-qk0zd1yY4VZJLlh8s_DwxtuWEk2IhBxC-vCMMXQYgvqICHF-uI14h6LRwbB29s_VmuBuTr7JTLy6b34uc_I29olSGe1c_Spi1UdH3_emD8oL0_tX7HPfLALFddwh9o14PL13ESqpJGrLxM3HpqOlapA3eICWeySt0f8eaV663oP7VdoNtJKJlrkwkmgWFS9_VGYIdQ7GB2ll2x2e2h_8x9w0dxT-JYhh8F7f1RlZKq_8K60OXByxIysghYrbi_9qyVLBOA-a7zABEA4V3Q8hOjkOFnEhW0dHxQ-iHWc2rU6TFWi_NpIR6s4xYLKjAbhVLH-xhM83LQJtw9SNr9EhrkJ9xWAxCqf1obXhOFChLnBZU1bKuD-MIXWTXo3R5kXR9NS2HxwxutTVSNHuffKZ1sAUmN6FXwDF1Yoq2M0HdRoGpB8yTGiS8y4HtL0ZLymLGbiShPSqHTyMGI4jsqsbERWmQAj1OSv3QFw5y4byMYDDzoOLtDj1bJ9X_jrPeU4SCF4lyK6VbtWWS_ugUV4TSDHeKc5CciI1MiqA4dyNYuGq-lhMrGA9RBTU3qanoN32hT8RR8QQdLPPq8cxhsLZ_3tnS6NYN58E0H9IyE97iLewwe1vnZxiFP1fxcd_R4frIf8igz4zxR5D2kIw4Qh-x3OWEX4CUFAUw5y-lu_HxvNSASXT_uRFX5BcbmpPraaFXgtX1v-5as5NErYNa9QaVrnThEYN6Sxsnj5AWFQgtPk3LGI54yS3X_EQIdLGm0QwQvDn3RgWSpBG506DAVN9qPMeLQEEv0K0kq_yBn1BOx1GU7wviin6tHIFsLPlpaF64R8JFsD1XzimKHTeF2oS7NhrqJ7NUw4MXDvFPCL1dHoDQeYUmnXf_Ekw6Vgcz_19ui59uZDayiZwViI4WPrklrEjFfaE6YScEAa5HyEFxzJ6Hn63yscyRXnYdUh51UQa83qNJEz3WR159GUm6v2CaaI2sKUjAfjXsnuOpbLfoCEng-ThJlebcis0pVmXryva8mPqoyVSdU_OI97rx1kWn9Jvk-JKn63rgvW3I1CcDmADZywLnpTt1U7OTijRTOvhqRH3xmLAZgHnjat46GYWc4GER736vUXL0VV5j49x6Pwt75gu5jyk6rL5dbobT9HMgEUUKNXkIIATz5Jum24-JgdaWJ1On7cxtufLOjj_h825fLm7Ci1InR17Z5qiOdb2Wrhqznny0Eyp6IYMqNtQ3zE1itBwCZsNccQs_xSxdyXc9-7kGHbLN4jXq6qQz1_OPp-lxNidpmepVvo1g5m20o6wwac27fHsQ0YRKq7PL1K3rZlHsofBMTPbbAK8Aho6DW0Puaq1NQxN2krjCSDUs9dBPb0429GxsDX8CeiGyK_SCPpoCQoggqIspbO-ZN4IGkF2dWgeZBD-PC-3Cjw9y3G9PV55jRXiCXWM8NwMA22BgdyUkWyNqBI4xNaa5XG6JFARdwJFAcB-qgrjCH79myJ7HP_BgBSeIGrhwRON78CUzqsAI9-YyByq8_cU62EJ6ExswYyQewMgi18WlwLpjHP9PnzBklkjUszw96YZnPmuXpSG3waGuK8TQWaDDNZxwrS24xxc7WU5tT4lycxK9bBghEK-7Ua_5MB2_uD8hc5PHkp4evLE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a35c7d9f656120e016abfcd1daf5487d18c22b846a609d12b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 432,
+   "total_tokens": 866,
+   "cost": 0.02594,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02594,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.0216
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 423,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

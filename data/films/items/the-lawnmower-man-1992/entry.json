@@ -1,0 +1,21 @@
+{
+  "slug": "the-lawnmower-man-1992",
+  "title": "The Lawnmower Man",
+  "artist": null,
+  "year": 1992,
+  "label": "The Lawnmower Man (1992)",
+  "hex": "#29262A",
+  "rgb": [
+    41,
+    38,
+    42
+  ],
+  "frames_sampled": 6484,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "cm2FbJE2wsQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

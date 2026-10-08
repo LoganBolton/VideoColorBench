@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955292-8Mf3nWArV0cLDvrThbFO",
+  "object": "chat.completion",
+  "created": 1790955292,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color concepts for designs**\n\nI need to infer that a dark teal uniform with faded bars is a key element. The video has a predominantly dark teal and gray feel, but there\u2019s a clash with sepia tones. Snowy brightness contrasts well, and I might consider a navy uniform with color text resembling the \"Something Just Like This\" lyric video. The image should have subtle shading, and I'm debating between options C vs. F for color selection, aiming for a chalk animation effect with a lighter background.**Searching for thumbnail colors and themes**\n\nI'm mentally picturing a thumbnail that features a child in a cape with orange, off-white, and light blue colors. The video starts with a blackboard displaying lyrics in yellow and orange, but the scenes are often very dark. The footage is faded and desaturated, but it shouldn't be too dark or limited to stripes. Based on this, I think a dark teal background for the image is likely the best option, possibly option C. I need to keep the output simple.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color concepts for designs**\n\nI need to infer that a dark teal uniform with faded bars is a key element. The video has a predominantly dark teal and gray feel, but there\u2019s a clash with sepia tones. Snowy brightness contrasts well, and I might consider a navy uniform with color text resembling the \"Something Just Like This\" lyric video. The image should have subtle shading, and I'm debating between options C vs. F for color selection, aiming for a chalk animation effect with a lighter background.**Searching for thumbnail colors and themes**\n\nI'm mentally picturing a thumbnail that features a child in a cape with orange, off-white, and light blue colors. The video starts with a blackboard displaying lyrics in yellow and orange, but the scenes are often very dark. The footage is faded and desaturated, but it shouldn't be too dark or limited to stripes. Based on this, I think a dark teal background for the image is likely the best option, possibly option C. I need to keep the output simple.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88p-fq6VJxd_-sPbhfq4OmrfdAS0fbbdKYTldntpJCRyb7ogq_jAG6IQbNsI307U4OhIoBN7tN8UD19FSwZd2B5Mtxag_H-unZd0u1CaatXDj45tzjzgM-rU46G4c3GNPrGDScNdwOqRSqhKVLstMl1ER3jMahUKgYx6ZG_w50iGGsbcgs6cT3ScaeaGFp38QTys1p_l7YsW8LanOFBGbX2IAS81UDpE-XGaGqnwaCuWAfWvqCxfLaJujIwRWxreig2u4_D7rnwgps-rglOeC1qoZFS-rhAEhKH2vXbDuqQrxNZ9mqjSqBiMMDO284XAx4etk-EN9Wdz6hZaYlnLngMzFnlYf1LdULjnjpqoFFZrNJePvIMQna2rfJIqWrLBt-q_Vjd8PhFEz4URaQ0gVen6pSpeMRHD9rBHhuXyABDd7LftbgsWYqEWBnzzGodHqmi9QgMTGpKRNU3BG3YjzcZjnfoMf6TWoPgZQf9wkoNafkJgd8zDgnh-k7s-nIUc3IRdBBUlG3TuqEUOPuI2lE4IMx0J6geBH9nDqOLRyRBT-z-1RfGlvdXmW5V0IxUNGuviVloFEmP1rKLZ4xx4IgLwXUv-Qa7IzC_lgz_ikAmaCu3sUWdFrHM3LDfS3NrY228xWmOfoGnjUWEFqXXxCRn-bJRVL6BOGMraiwBeObyj-n5OPAmzExdNdei9_NphfpFd-VHCQ8vsJxM1zepKx0wOaA1KrJ4jvI593FcrapNRZ2gYSnX863miq1dyVoyrMRN8cR7lQY0RauMU_mFmYBx1r7Fiw2KQhJIXRHF_jWo7bKuK9OHpkFbxP08zWfO2PMpPvgyHvg5sIbnyVhOmj8IQLkiA7H8fWO43oQK3VxiSNkhw48YTOUVa3G9cDqj6JMQTZpCqjkiMr3WoFReOKePNBNAAoxHtNJOFHBD_okH33GwqkEAxD5Dmn9xB6Qo2kutwXChsdt-u0E_t52mQIPf120ZGdwZ1aExOeCFNl3GEZDLnkFBhJWCnGJLImsz8cyWihXHJ3nE2KBsfPDIIeeCckCRNULiJ-7_15gtKvBVMLQrh-V2uorBPhkjtvslM5azD-Tn4cQa-ELrwoQoRvvS2ZihSCCt-8F9rDsPrDYuF7dW6jDho_cvWt0aP_U8bsLjfmOWEeESWDPeMVPoOeKk3EQ5xa9Ctm-gORLJZ9Yh37FV7qPkKbopGJDAR5I1kEwBjIm0p9MtFUI_VFUsnqwgHqRzTi794KR3LkosHCRCfNdE-rKYYQ6C_LXybCD56ZvSyiGSuz5mCgpoTSWvCwUlNVOtJorvoWzSVEyujt7l59fb7wkG3CCEm2RoJhwJvwGiWpRCkV84deQ8KiQyeXwv32QoNWCHT7PucqUnJSGPWlDg9MMdizNtoav42Fscgh50lkWWgXk89M9UY45op_6uZG6230tJGSRnt3DkMic7cIPBsZVCvE4KMGT-MCKqohdQibdiUBwuGxXS78WISuA3-U7hD4TiLmBsEYLbmYXLmIrrs3FVlhih1zPcFwl-fXWPKgjz4AKeiR7IAR-6C1F2U5AdUaiH5JucV4nT54_76C7n6M2jWe3YXANU5MlT8WF3lIPt4iWnAhNPXOO7na4LteC8gJmxJm9vLUPio5HbPC2kRJPdTscKr_8EwgyVM-ctPP9Gzr7tgJshlJaxmvxa22sPJEdEMPua-aMRRf3w6NQVMTP8fWFc0jFR4ny8VDimrth62hIMCM_2iNVPJX1LCi7RrxssHWI765Pd8tpgmQCniu38cG9Amd_immhtd1BHYWqtpsD6ZLgtEcJUaxjTVSBL7o8bWA-PoaoXsIpdkU6PqQ6dHe8MKmbxbKA7w051k1-XD7RVm-HwQb2UtBfBh9871xLCSByQnSUW_PIIMQvTughghbxL2WvIieUDU6EK5pMtU3QnIbzHhSuFqaE-_JUGZop63S1Sw5ESD-RidAb5G5KZPfNFy37zryro1Z_cHbhVdggVJMF3kaMb4BdDWZCkEApcAVqhFve0vbPTquty5y4NsrLZte2Q0TL7MuGLqG3uX0Ju6e4gz5KUjAdiGO7ldffyb_oR_u4ogpCfjaVIGDoMGVzMxfmcOLdTIucBC13q_ifIvbg6kmsRjufh_zISE_nSv9R9a4pehd0cEN3HVS6keEyILhimqgq_79MN93lKibC7iQuPLcOd8kzjxo0E4ZxoL3LHyUTNM0CLcGatUDN1S8sGS4Stq0lOkUqakbPrAlQaRMDBK5F2qWDyCsITH6ia_CZTuVqHUt1uRWodn_JP6uf6EZPLUJFGNWIzuZep5hhysOwXXYvt3N72eMBgG8sBKoVNmn8ta4_UtKNOR76LvK-Ov0A-DkSytELa6Ncpec-du-8Ty2fF53t6xZQUTPVC_0KKbj-In04vn4NwfgvgQ0xNQsmYcyJsssw3BFH69mEx7FOtQSLBnpCHoeA7z29vN_XZnZ2AJFDHGoPsulFzEywPKydnFtiIgEjyNxWaAFl62dEtZamj-bBge2B7VEZQdsqr6VPCgkKOZTVntV4BwX1AXO5BHjin8dVramVq4Cbr8eLqtr1BHOd1XzbPVfO7Ykzc6fYSTrJ1hDQgwPjk288z2VGzLzExZL0cRk5mtQcOYhifU3L7urIDxIUgAb3GSpZtUtjYV0qmYmmiMOZ-_5VGaJGJ8pPDy9qZCnykFcDt6o1DA86fCaDOvnGrOe0428QTv2qpPFVdVkq7S0Rb5S606Upp8ioWJ2Z6ExD_iaI6I-LMaPUDoHCG-9zRJ33ztDN1wFS0Cs1UNW0lNZeAVrUf6WApwVMDuw0kMZOCn1gG-AJq_66yln_VQWPtGPVgNIbUqNK_Kz7G-rWlGKyz1_M3lQf_SEGWh4U9IMgPLp48fgjRht1kOTiTwKJcl_AnidRULhsH_umaKd_KfTDo9_5QvxweKq5xkg97qMlBy6wbGjRzWTFASzc_Z7B_EUUH-ylXbJOihGd0SBtlTPV1kjWN5G_Cr-8axzq7.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05692964d5a41c0e016abfcf1e679087d1915165212aae0357",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 490,
+   "completion_tokens": 246,
+   "total_tokens": 736,
+   "cost": 0.0172,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0172,
+    "upstream_inference_prompt_cost": 0.0049,
+    "upstream_inference_completions_cost": 0.0123
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 237,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

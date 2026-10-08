@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954520-mHSa48tgNcRlzFoBangx",
+  "object": "chat.completion",
+  "created": 1790954520,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *House on Haunted Hill* (1959).\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8wfAWaM5uui36Y7ZzVUEz_oKcw8rmLy6OABTccfOIPQYML2HGj1TMwLUFAqCZ54VkB0Wo_b138LOlkEQUuu4QOJSqw0LNLaBsF18bLz3GnRG5-qcTsM-PMqmv2EsupHdy6KSqcWfZvrHGDBkmE8_rDDKot47quteOXdK-8avNS0l-oRQCsv17c8h49ZVdZkF_JYjOo5D-w9GpX_Lyif4X3DXm64AWwhFqy7yVqxOGajRR1Zo1AOe5pnZ-eEHIdLzVWD656GgC5x2j2vQSOmOxU7jXREePG8wl5r0GjEqH7yA_-0mhvpJfLlj-j_7qE8gjVU1SgkSg_wJ4nqv_ckAYPy8Z4eq0FDXO6ePtO8sfgG75MNIaQwCrmyanUHkTgd8YvEl7ld1ravNWsdHNXbVaZ0N0lzgsokitskocBjS7QR5zD7m5RFoEHdKI_a-ymJTUbi3z4oNJYiTjbRSwtK0wjHoXa0wI9dwucfFl9PlhkO85wm1LjC0M1yUqSI51zH9J9vpCnXdhO4Iy79s0EKUZ28-PNx-pOL4fmNWDOyJz0E7VySDvNuNOi3z_iefFSQyC3u0EMj8tlYGFCWEZ59P43PK6LYDeh6UUTXp-9ArWVecTgQDD-Jr4BGXFqzapUvcA26wnA_fwUWtbo9h7uPxBXzrOc1eZUm4cbtpGp3e7OJip0iduf7h-PnD85Hc1oc1dIxYS3aOrMcxntyxMOLCH1pDyLyjNi8pesRtyuN43WI5v7B-gKKwhsDvl6OclG4vEUOj5nJj9zTxWlCU11cuNioTUAcdFtUrgOXUc7U2epwpQFqpjnDGm94iY7rjLZi--P8IkYbXxnRMOjjj-Fmc7-RNlOLyliQP3bVNyrqjuxAy1l4jjR6p-jGk72ToTu5k5U7AmUvE-ITJ3bu1vpqoQcLgRN_frENY5E1qGhZNmUTgVFPBXz1FUvL8OqJBTdCjUEdU9G3YSlzyTd4FbQ8OyXGE5PYLm1NsByD6B3rwNCRfjFbThJmesm5dgJjPnW64YZTqKR72WWGoPygkvHd3dB1JddofwuOiKw-JLv9ZNMXGaxwv-zS8Hk4Kj1G2C16Js2KLnvLUb4GpTiOExGpEBc_PndwOHedF_IiAS58VdGEI6UPHIXDt_F4PUy4AMHCtwwdekSmzxTSOy1vMy6_y-R1q3rebwDN8YwAsFo3yRNG9_BNJXgBwAo7NGoUoxnJXKrOzC2msuLUtQ25P3YmXWy3Yw_1rhlJiL5oId102-EkIp7gi2IebYAuWDD8hGe7XW5ny3pgV1CYyqAa9zVCTsSz3o9CZ-1vSnwVED7DdW0fyVc0RMfC2qrYxw_roP-On4PRVHgPxXwTynVJBNaIjEjvv-rhwuaNRXRIgxhqg3L983AGYZZ44BT59bn3NEj2ZOnV5A3bvpIV-MpVwwa0u8Ie141Fa3CbDtAknCMbrPncIJmbmNsGXbElXpGGeSUQx4R2aT0h5puEN8hyDtJXY8WzToZfSnvEc0WyUwuMWENy9__FwfGVO6qlz1QES3Df73MOGkUGLXMEfd4BH_ZJXUAyAQfxQ-ZoHb9hqSwCjR0wSswQ6OAO5f1e7mzrAGYhmeVEtICo8Tu0iF6zzYA8Au0m_VcE6viOOvTX1CDLChCFataYugqrAWflCPvwZYXorZCjU96NZ86E194pDDlShi3MQoZIJoVY7PRBZ7Efxmc8zkWnMNWyFy7rp6scpcLlX8dReNApMi9D9KhjzYOzg5NFvIdpGRxKL-_0Dqn5_hhu5SZ8N5OqV5Tw-oG8ppxPZEXnVnRFicpEOFPujWhCYWM5SdueVioyng1uyAya-gnVL9O45_zqN98XpBuHR2N4Hlhm4nHW3a3lcln2-LdeAU-SjNnEhK8cNxRH1NLAiJucG6XhNE4KL3QKuMR11Q7zhCFr9jV1CdNKEpETpFqAPRorSRuThydi-Le0nYXSt2lD7CCdmffZ--tEGluM245Ame07YYI7b55tKDnV3lDt7C0IyGs8bXkjD-rGGED4wwiLG_pTbejZVynIWqdzuA22hXWEYs47BOQj2SwnfIOJOoud_YzibDyR9qCeMB_m9mM4fowvHGcNXx15EOv0cH8nxE9kop0U4g7H-CHYZ2fjtjas8Cp4Po4xcp8TKIgojkkDs0DTjuyaS-j7QrKOHCTImw__LRcI8gy6GqpDSmR7emZ6uID92tvIgpFUBns7UE-TeWrtTsnXSSGw-hFTGSzEOvh8XmBFlh3kwTWuZ-1_fkbcYOtdYoh6t3_oGlIoYaCGG5g=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_005cbe707fa4498f016abfcc19e77087d19e22310f40cb5e30",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 441,
+   "completion_tokens": 156,
+   "total_tokens": 597,
+   "cost": 0.01221,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01221,
+    "upstream_inference_prompt_cost": 0.00441,
+    "upstream_inference_completions_cost": 0.0078
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 133,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

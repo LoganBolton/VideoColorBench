@@ -1,0 +1,21 @@
+{
+  "slug": "hymn-for-the-weekend-2016",
+  "title": "Hymn for the Weekend",
+  "artist": "Coldplay",
+  "year": 2016,
+  "label": "Coldplay - Hymn for the Weekend (2016)",
+  "hex": "#3D3835",
+  "rgb": [
+    61,
+    56,
+    53
+  ],
+  "frames_sampled": 261,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "YykjpeuMNEk",
+    "youtube_title": "Coldplay - Hymn For The Weekend (Official Video)",
+    "channel": "Coldplay",
+    "via": "yt-dlp"
+  }
+}

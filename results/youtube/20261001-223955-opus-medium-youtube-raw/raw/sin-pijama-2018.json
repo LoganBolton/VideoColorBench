@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894493-A3RSFvqPjukpS61eBxFS",
+  "object": "chat.completion",
+  "created": 1790894493,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The color profile best matches Despacito, though this is an inference from the palette, not a frame-by-frame match. The barcode alternates between blue and teal stripes and warm, muted browns and beiges. That fits Despacito's footage of the La Perla neighborhood in Puerto Rico, with its blue sky and ocean shots cut against warmer street, bar and dance scenes. Calma (Remix) was the other main candidate, but its beach footage would likely give brighter, more saturated colors than these desaturated tones.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palette against the video's visuals \u2014 the teal/blue sea tones and brown/beige bar scenes match Despacito's muted, desaturated look at La Perla better than the brighter Calma remix beach footage, so I'll go with Despacito.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palette against the video's visuals \u2014 the teal/blue sea tones and brown/beige bar scenes match Despacito's muted, desaturated look at La Perla better than the brighter Calma remix beach footage, so I'll go with Despacito.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3AcKEAgSGAI4AUIIdGhpbmtpbmcSDMUok1tPARV09m7eJhoM/r8LuD6aBp9h2JwRIjAlcM0X9iGvbFkMIXofE5j4QDXySQM5zroyivD7r2jRbdEbGkRgpH2NzBrm+ee32qAq+QZ9hB2aNWbfK0Bah2SkriBD3QYkOFoEiKOd/gGTc4KN1iwz1KnVasF5ttzET0761RLLkdb4PsKwynHHv6eUMcjURW5nluh2x6DZKpqztISQfjzBp1NJ048+VAbrpCKv4VgvLJhznlrbsPJjnSOdhmk9iBQZjIu+Vqkyo98s/hzJ0/3w1z5oc8fDqcam7R1TpnpxGLPiJiXpW2zVFNEXMg48YRugl9JnjKhBPu1xT0/ZG4DH1R1g6s7CiaKK6roFoidsiNfC8mthwb9zwt4r7ru83FwcS0Loa0mT6VfPYwZBEgNTJvYPsLtcpB2IabBl7EEbswnithPMuw+4D/PANFQSE4BDG4WWJPvGdwHL4Qq4Om3L5Wgv9tc+F21cy6E1qX4/J8xcUtjvJuGkY1tQ++dyrusWipw/NemoKQsTQ31/lU0V9N3lZbC3Pr5iwomsNNmJg7qJwp3Ug+BNnU1X+Shu9/GI8SkeoSLaxpKAp/OmO3flhBtUXUs7Zu3SfRXYc0OMl4uChXQvOslIJjMwSudxmt3WwzQzGskEck9cxRy6N/psVZjCRX3+lCTG8TuknCYD1pPB5gofQ1h1pvSL9NjLXh7uqJtQuH5qrWF55n7cbqrbE26qb+3fhdqGnszEci01Iwf0K0+XPshu6BRf8y9HKc5SwHYQ1cuCNV73XNk14v83OtD0nDeBsv4LSyU0hXJXEQASxPqgUPAR30Mhy+z5VN+3KcWf6vasTQIGUIFFburhEGgq672g9P9sFPyLZQQ8mMYZ9pmTeKnCFTbnlU9/lbjKhPKK9VN7g9JSjYM7qCdWSlKWSYJwfF6WpuBpJ2R86Hg+Vz3Lsw51ruEsT3YxhzhSUVgtGYfCUGHN7FOozht6Fh8rfZ+Rr4/DvpY/VxSWHG/AewoXFf/cASSeE6Yu9+beyJX72EQvQ6ImeaEdqhClo9hZQoZF7H4HsrUpteknJOWP9859pWZ0SUY3dI4kWDc87vmYgTVeJdc6Dtr+FcHn0i+GZ7Xxn/VrnpSqGKjDExCWlDb71iXw9QkJ8A92xnMmO3vEspK+0QMGxPiA+C4U5p3xDqFSfqn4UChmz8d/cbXXBYf5CSDmw2k8ftTQZeeJu8avecSdjgc2qWgQRyASv+u2UVXCzvqYC3ohKVUvQK+X/5s40E9DSYJqJVIZJMeIF/iPbsilGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 672,
+   "completion_tokens": 340,
+   "total_tokens": 1012,
+   "cost": 0.009488,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009488,
+    "upstream_inference_prompt_cost": 0.002688,
+    "upstream_inference_completions_cost": 0.0068
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 165,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

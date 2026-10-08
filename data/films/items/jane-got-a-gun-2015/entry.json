@@ -1,0 +1,21 @@
+{
+  "slug": "jane-got-a-gun-2015",
+  "title": "Jane Got a Gun",
+  "artist": null,
+  "year": 2015,
+  "label": "Jane Got a Gun (2015)",
+  "hex": "#221B13",
+  "rgb": [
+    34,
+    27,
+    19
+  ],
+  "frames_sampled": 5877,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "2FgJPtAIguQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

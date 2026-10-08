@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894484-L7LAjebpgwgx8Ofy077L",
+  "object": "chat.completion",
+  "created": 1790894484,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the overall color pattern, not a confident identification.\n\nThe stripes are mostly muted, light grayish tones with faint pink, beige, green and lavender tints. There are no dark or strongly saturated stretches. That matches a video shot mostly against a bright white backdrop with colorfully dressed dancers, which describes Justin Bieber's \"Sorry\" video. Averaging bright white with scattered outfit colors would produce these pale tinted grays.\n\nThe other options seem less likely:\n- **Shake It Off:** its scenes vary more, including dark and gold-toned sets.\n- **Children's videos (CoComelon, Miroshka TV, LooLoo Kids):** these would likely show more saturated, cartoon-bright colors.\n- **Moodier videos (Hello, See You Again):** these would likely show darker or more uniform palettes.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm weighing whether the muted grayish-pink tones match Bieber's \"Sorry\" video with its colorful dancers against a white backdrop versus Taylor Swift's \"Shake It Off\" with its more varied, higher-contrast scenes \u2014 leaning toward \"Sorry\" as the better fit given the light, tinted averages.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing whether the muted grayish-pink tones match Bieber's \"Sorry\" video with its colorful dancers against a white backdrop versus Taylor Swift's \"Shake It Off\" with its more varied, higher-contrast scenes \u2014 leaning toward \"Sorry\" as the better fit given the light, tinted averages.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSwAkKEAgSGAI4AUIIdGhpbmtpbmcSDAhpSIO6cK9RqXtRMBoM+6LayD3RIt2PSqbxIjBZfKbkEqvjVzlRv75AU4pQbHEs29+fM/R3CaPUARoZxCVJIDTg1uhAQJiLH73qrNoq3QiDy+s0Z46Nh0FjkNa6cSs6NuCBxaSG55I45v3SI4Py6JXx3i2U2blpNN8+R1ikBlmNxl9faK+BAxvcZYvUGjwTIEpaICqwDKxWPQrWFXRlBHP+VF4Zn6ci6nAqR+pFXVa4l6WOTTQ4wYbe1+StFVbqo/RthpSCsMMZVqdB/s049NnTiJO89YHvkCxYCQd2bNEaQaDQRS0ybY75MSpSSFwVCYngEYRTgK446HEOKPt52dL1erV3TLktLi/U42QgkkwJyZjVBvA7Q9Ul9oSDhfBXBHkWYaj25aZOYCnTZsvTddDGiz45uhxRl1Y+8HoRkHqDDXwSbkAtjqvBDNQmoE770KQqxd+Ztw6pmumHJfrtd2LW2Ai5M/xR9J+SD93ldYboOaF8HZzihSkiCxYFYvOF5XnnsVPHl09iiLdDkzBAJOZnp3a/r9H/Y9SekolF2lvBfuLeNfgtBSr5cpC5rIN0dQWnokoT33PzVU35a2leLeXYDXXlnLbrB9gzxZMxYi2JPpkKwmQy3SLfuajitIX1fwkBnU+Ay/kmLtjm92ALs8s1A8dn/j++bZDAmfWUTNDAi4lgQhOBpZ7uLIn+Lvjuaw5L/Li8z74KcIxjNsIyUAPtIKFjqtyd5rcO2Jpk1uh2/rPWKsSi2CABZ1fuZp4aUQ2rxZRYL0zaka7tNAYwFmRqN1dCOoVUF9d+wZp9Q3HBb3N8XdNnsA1ioXJoQtvgiDnamaxP7IpzWMWA7mS2hOxHSZW5N0j5U8c08ziSCIUgic9snIyTxnZON3JwK1U9plBBI1x/6tY8hhOMHCQMBvdfyn+KyhP2hF5aYw5Vsfr6Y3ZuV+R3P1mbykSweNZpBIIFH/f1k5cDjOfPgrRBmIgRhoq9xy+JnEXsAxKOJsydP0myWIUGq0QQhgdo+H6eZHUSZfkANgpPomAVn+j+BvXIxoewJNH1ODL+qJiiKmHGZiImw/pHQoHtjUA6yr64VquSadKDp43xMf5pwZCX/C1pli6/YjqPSJ9hmGol5F6YA2P7yB+IX3twjlmsjw7uVAfXBznDuNqXPEDaQmm0akzWXBsgRhFJj9l1UUXSOWm1x2NNfD2DQd+xqn6ENFn9Rq7Gy67TJ3mBfPoGg7ceBpDintLBiVK/YtL3cfzPFHR/w6o1J4F2I405a9+4Hgothocqu3ZPw5/p3QLQggONIVz4zQTDbO4xGGdUnUuyVLw4YgID+wOzpTXen6QYHjqjm7HbdLhlOCHWHRwfE2zPoMhD2uPr+qpIb/a/FoZZlDqKNwryRmbJIuJnGwLgcFOCJxPo9t9cJb7YtbVXD2nRi5AroEwsYoFs+sw6kdqVgKE/gIL/oP3jrZFMsfNhfIhmx1or/0/6Ls4ACxI6W0tL4YLQqXJTp9kTeLxdze2pIUX0Sgc2VPmX04wyfB7zts0+Y9IsB0HSHLAbKV/5rxCnI2zDuw/soAVrZWCv9PmtwuotMWenxiNqu5jGmz4ZGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 635,
+   "completion_tokens": 515,
+   "total_tokens": 1150,
+   "cost": 0.01284,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01284,
+    "upstream_inference_prompt_cost": 0.00254,
+    "upstream_inference_completions_cost": 0.0103
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 226,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

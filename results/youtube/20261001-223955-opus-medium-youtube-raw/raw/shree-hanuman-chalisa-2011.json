@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894414-xKC4yNkVvzaJmjXyyzmp",
+  "object": "chat.completion",
+  "created": 1790894414,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost entirely muted brown and tan, with a few warm orange and golden accents. That looks like a single warm wooden interior held for most of the video. This is my best guess rather than a certain identification.\n\n- **Masha and the Bear \u2013 Recipe for Disaster** fits best. That episode takes place mostly in the Bear's wooden house and kitchen, which would produce exactly this kind of steady brown palette.\n- **Colorful music videos** such as Swalla, Dura, Kill This Love and DDU-DU DDU-DU would show far more varied and saturated colours.\n- **Children's videos** such as CoComelon, LooLoo Kids and Miroshka TV tend to use bright primary colours.\n- **Hanuman Chalisa and \u00c9chame la Culpa** have some warm tones. However, they would likely show more saturated gold or brighter beige and dark contrasts than this muted, uniform brown.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across the candidates \u2014 Hanuman Chalisa leans golden/orange, Swalla and Dura Yankee are colorful, while Masha and the Bear's kitchen scene has warm wooden brown tones that seem like the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across the candidates \u2014 Hanuman Chalisa leans golden/orange, Swalla and Dura Yankee are colorful, while Masha and the Bear's kitchen scene has warm wooden brown tones that seem like the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5gkKEAgSGAI4AUIIdGhpbmtpbmcSDP6iqFrxpiKGCYhu6BoM13tzZpxnmrAot7BzIjBCvAJLdsHeERRNc4oAVbp0LWwY0pbngj13y1xJ7MKHT8Ro6/IIIV/4IIydt25OG6oqgwmKO2LRlUsudKl5iUZjWPYOasWFrBe1CRv7AJ+zoRIal8jrOEGOztK8K5MiKP9/8cABmlLjnDX3DcrLuVHINhMBw5E6GUQ9NEy56eE73PjphcxHhUaV5jvE8lDP7LmTBl+d8pxmo5mXzw1uLKj8SPUZ+0Dr6DoVzYa1EruLlgcaiAaBygDEJ2XnKCYgOvUXMSR7a278O4P48GmV4ikXj7yZYytw+cs1nSEjF96mOQZzA9WccbPcyEWCNjqZXwLkePdJDKh2DNGzED70GcnP0DG6CwN6Uq/7naTHVelcn5Zih3lDG/oBkLEJUqn68nk2FQmVBr9xYHit+z/HamMrIN5oYnxlKMUmhDvrHbc2fJSapIaov9lyEkXSFcnv4CUts+uUQ7/qxQiGoHMP5W9ozJT+g61oIJxIHQtrvV6iUCycaERqxAinrE6KYF8TewqSMyfJzoc/sZAcoaCiA6QZM6TTnB4IjmXuH1Z+cFloCUgzD8hmQ8KIEnn+8D7b5ylu66aLsKtNvR4GvoAYgeO1I7+zC5ZLLJBg7SaiSbwuowHQDXIALJu5Ue906LuV+HCdB4ZtLMGOR1jlOXxB9R1MgEVgkUwZ2NNkE97Nx6UV2OfQNAa0/VXqxyswAjnv8UY9Y8PdOTu3HX5mEDf3Lkk4l2e3iEAb87DjGEqP2exxazer0qtQrQKSld+ucHMBtDAi3Ym9pS6ZDQ+vXwwSIopPVJBhqNDFLsvhR/kauoLKXnDC7ONEbzPAM4JBEgVQUU+iv/ChWnHKx+uA3ltjnMbXVOyBoxNqbFhFJjYqCN5ueoX/1/AxC3m0PZ60M7C+jk3AJgMG8/4v0Vdvs6WhAx8RdKLUyIyuLImzdB8AHxWsjJYTBvTO8BeJ5SZ1tb54LcYIciTC9sSQcVt7ieQ9+liDKu4gD4MP+LSLo78xepQ1N/stX99JDlywqZiXz+szrfraAf2n8taHSm4+/fVOokEC7XLCWQ+7d/D7bMwWRC/BBthno37oKnYaEsDTvN4O6uFRjQJBHhv1RtpfxGpzRQ+IlRaOYGnQMQ1T9Hvr6Qmc8to8Jtj1DGWtSYodcQuJD69zR1Kr2/ZoLG75HGZEPiC9tw32EVEEo1a/n1c/26SkNAHNRT5nbhn6jrLzPAiOq+1vWBL+HwPzv94vdUarcBfkK74EVxKUUDHi8FYC9Ik6Jjp4nGwkqHUThMrkWhxRreheUx9+D2EZvJZMIgsekljA8jtGbALoWV4gNwUXv2fe7H//bFsMMUIk7rnMGrDVoi1eoeu386r42eI/j5BHDhtSHc9o/PQC6J3hd7+D2KVpuQ5x6I7kc3gmeOSJ5/iiprPKaiB5f0+k9SlvI000yEanZBNoo55Hl/70FpK7tulMcXvFj8Uu/kUgKYI/ZqBqvr88DSM6BYH5yegO+WlZjxfH1NKljsnMcix/LTCVfE5PXrFQXwATLCerefjjnfkPE3jkr2VwLBxLdML3HQiB533VgRrIXtZU4C38/O/l7iKnZrBcPp6tf4OHG3iGK/XbZunBw8NDfHwYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 677,
+   "completion_tokens": 580,
+   "total_tokens": 1257,
+   "cost": 0.014308,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014308,
+    "upstream_inference_prompt_cost": 0.002708,
+    "upstream_inference_completions_cost": 0.0116
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 272,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

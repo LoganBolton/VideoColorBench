@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894312-jXfhOgKXkJdTbT0NUOf6",
+  "object": "chat.completion",
+  "created": 1790894312,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Passenger - Let Her Go (2012), given the consistently dark colors with muted blue and warm stage-light tones.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDtUr1YvMD5pz6aHRjC8YHofysLNr6N3Kk8Nsu1qA0970UCmhtcghAhCRA3Y88dLLGuaF3arAmfBX5np5Gre-sKUprGA36LYmxCS9UNxk_qL4PXjX5NLTh2HsYnt5Fer0uBnwPcSMJRFXVbaMPubLthLjgM5F2-wly4N5wgsudECB3LhpKS_1aFi2WagQDc_H1-IrERRs_yVKdHzVUMu5bRqz-zp9rClyLp1zoMYmSn42C5gIswIbn3i6xwn7khPJgCscqNFS7ui8sjj1OKafgbugZrfVc3hZfKOoc8y9wucZFzEjXbo55-kvfZ4rMl9xbycXnDQvluealXPyiGhC7ALpO_LAwCwX8PHr0QcydbHKUSIw1X9YpIyzXIl5_uXf8tU5pgfU4ER2ElYmOH3woG1WZlQASYAQjKv3Vz4EOfrr4v8IjEi3fyrgp5TesOnTttK1ZgGj9hrbZ4w27WcJ___zGQOhDUZ-J638dzarblaAK6vqzdI6HQa51DU7bp3ZGRPEWoEfnKoUJUN05DqIUw5i1kMszGGpcwTL5A2XrfpqAAO7rI7i0HuwzumigcdHXUXAea67EF7rqjifUEg3IqCmCkchlJBVc8fuOOQX_xINQGsT82bATntGjLqNfZOLaSCoBTDdUv30HyvtwTZ4geoiLP_PWDjoUH67FgTl9BPDSVxr6JCrMpppqf4-Ny6COESauq9-N6siZVg56LKPad82wWtrRt9SnddakpgbwISXVAdG2kjxN_4SUCIgCUC5R4QzKaD3TVK_hkIPz2ZrgUCn_ibmOHBfY5bl9NL8WdPNPOWmjvqIJy6yKE2lWvuHltfQTmzX1jx7qjNOoySGJADcS8BrKh7VJwcXF70Q_kOQ5pnsOfKECh0bHudjqb4eq9sMv9csiMTclKkGcVhonbKXJOEDb8JvpGkyUMKXupyCew1f8fMLQTGEEqT5oaGCYoeu0Q6LH5sGXejemfRxG9y50_MWB1zOpZgjPpvX8wJGD28Vj5UNLqV2FhRde3NAEl3aBDebb8FhsdZvZzac4FGddZqv1ypj4K8EYeskLnCkV5gYV_PgZ1Y8dt3xhuiTYmV_TZKAen7Ivn1tYGLhF1jjwM2nXtt0cKCULJiFXTZSS6PeZTV8ge_17THTx4smt9rps93f2I5m0KCgas6vZ9Lh2LXVRyUBBs4o-rG0bJe5x7mSFm-_mSX5Ey94XzcPq-As15AMQ3tQ66V3kNj_2KdeGJk3uT_U9HGgG9GZvlHAcAjL3I-YWqPetddtaVCX_yLTfQ2xfdJxFytBozVGX-pKHZe3YUevsVPzcZYNdC9LM_BnYLlBxiyOCe4E-I7jxTIbz_7LFzT_62MAw9v8rvZXHXs5FotElI0lvfuOStfnPzASbSM5_gr79UffoCEyvUsXWpgSl8AlaIuNpB0BcJa3sxO1GPcPlIwPXwtwz1lL1wIExfok9rjqq2iOLJN-D4BF4Pn6feJaUL8ZMch532eXpgDIxilU1_wrxP_Gf-n7OVJVqUtlI5ikELYBRGV8ycqrAQCpIdO5Ssv2hbX-Kr_3m_yTR7EGXv9Np7MGfn0goaHEJ3ZhKeMW-79krOjCowpfnoJSpNxg7zUSYqhjlVjrjRl43DV4VY03xgnfR-1jm40hIWrBlctdFJlQpalXj7UTnlDnDrcjC7qagQGyg6DlC3GRm6pm7y-FYGf8vlHAjyC8hIes8OmQR8MmMkyg9H7ynB-MdHdcT8PpzLrDP23LqrKuHIUXOiM1tCX2GmjJtD4ernF1eoDXDrJ9eW5ShisPbxSqXp1Tp_tPKxNwSeZ3ugwor7DanXS_tJ9_iZM4ljctXtSeaJnur1rS7waFVyGXCuhlW6lGyO246Yp6ipre1b5wsPjSAs9Qo7NMsqaCEEPoMP1pOZf6fnkrFGhQqiOhcFM8o1DQDAs4gqI2d2mCv8yBY9iG-hmNQuAPAwNS7GewSR8wmTXFm3k8pKgmDTYSXEFJVuN0_S36W88f11_V318jq_piYF3jckAfFivJQCnRz9881-h-6KtjWVrLdu.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c5c1a9f47867abd016abee0eabdc087d1a1c920fa0784b56f",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 474,
+   "completion_tokens": 137,
+   "total_tokens": 611,
+   "cost": 0.002318,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002318,
+    "upstream_inference_prompt_cost": 0.000948,
+    "upstream_inference_completions_cost": 0.00137
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 101,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

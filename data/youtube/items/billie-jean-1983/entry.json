@@ -1,0 +1,21 @@
+{
+  "slug": "billie-jean-1983",
+  "title": "Billie Jean",
+  "artist": "Michael Jackson",
+  "year": 1983,
+  "label": "Michael Jackson - Billie Jean (1983)",
+  "hex": "#553E40",
+  "rgb": [
+    85,
+    62,
+    64
+  ],
+  "frames_sampled": 296,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Zi_XLOBDo_Y",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

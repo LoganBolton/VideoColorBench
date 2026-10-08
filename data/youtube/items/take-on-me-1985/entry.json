@@ -1,0 +1,21 @@
+{
+  "slug": "take-on-me-1985",
+  "title": "Take On Me",
+  "artist": "a-ha",
+  "year": 1985,
+  "label": "a-ha - Take On Me (1985)",
+  "hex": "#656872",
+  "rgb": [
+    101,
+    104,
+    114
+  ],
+  "frames_sampled": 244,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "djV11Xbc914",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

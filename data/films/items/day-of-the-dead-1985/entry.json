@@ -1,0 +1,21 @@
+{
+  "slug": "day-of-the-dead-1985",
+  "title": "Day of the Dead",
+  "artist": null,
+  "year": 1985,
+  "label": "Day of the Dead (1985)",
+  "hex": "#3B3532",
+  "rgb": [
+    59,
+    53,
+    50
+  ],
+  "frames_sampled": 5991,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "bnb3Tshsl0w",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

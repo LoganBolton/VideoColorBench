@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894351-tYN79Iea95vP5a959Z0p",
+  "object": "chat.completion",
+  "created": 1790894351,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Masha and the Bear \u2013 Recipe for Disaster (2012)**, based on the predominantly earthy colors and white ending.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing color schemes**\n\nI need to infer that the stripes are mostly muted tones like ochre, tan, and green, with a small percentage of white. The Masha recipe disaster seems to include a lot of brown, along with pink and green elements. Kids often prefer brighter colors. The Miroshka farm setting features beige with colorful eggs. The Masha episode leans towards browns, while Pinkfong has vivid colors. As I consider these scenes, I\u2019m looking for the best guess based on this information.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color schemes**\n\nI need to infer that the stripes are mostly muted tones like ochre, tan, and green, with a small percentage of white. The Masha recipe disaster seems to include a lot of brown, along with pink and green elements. Kids often prefer brighter colors. The Miroshka farm setting features beige with colorful eggs. The Masha episode leans towards browns, while Pinkfong has vivid colors. As I consider these scenes, I\u2019m looking for the best guess based on this information.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEXG9m-JNXyhS8gd29EMMHkI5AbmPMqLizZ3kHRwUKt_H9NtkZQT9Qm79wULP6a3SpKkP1bQlyqg36LXWdhvoFikSg7nHxwl6lOz23pLAOEq6wtUOnTfNvYjtipcfiMyvzOMGW6H-TZyRk6aY68ftR0os1apKGwlfArLrU7SgEVHlP3WSvezbRiLzjfb9Yf4gpUkuwb28kClUcoi586zJ_F35JWfTBmqGcbTMy_DENbU9O6Q__AF3uRhz-UG3BDSshTHUd2bZfqJujdYany9NezI3VV7dGeGPoLxFYo43OH0oI40ATU9dqTpRdWETNBRdByxg-q33Tajh6_WfZ7osr0CPyyBg-9U6COUtL_Mwr9VJxVqbrbB9knPjUAtTbFKF4nNUhKqdBnYuSihtaShZMWPPb50O1jVyrtS9Pr49YuECU2oIOlQEqKkrV3dz9NkoTIZ_DtBlcHup2b9iK5QoEuIjoJxJv50XGkn4vdd6PwpO-ZQTsroYaN6AAiux0-2-QcJ5wI1-sVLNVLR32tyf-nUjYIDX3lLYf54D5YoK_zE5oBvUbvmNs3huBk1m49hjxNKhZ0OkQtSiFNMt6xtmLR4LJ-HDp4hsDbA8zPOUdS114H2UzR3iSKZPbikKFIpYgZUf2C-PRGi_Ktm3obZOVPSvZmtVKo5p-wuPEOrA1RmeCNtseetUmdqOxchr3tH3a7voHXxC8yD-rhuvMz7TmYLLZuUoRBWP0fTY3NOyQieKe-d8G7Exy-dLQ0QkwGP22rTfB6mC6hqEKdK9qvkqsxS_MZoH6lDTAEVrd-e4nsvb8hpzP-2O-YJlrfc7ZcuVR3rhVz5MwTTwGd__28IXzOFQFDCxZliFlDSR1LbyGPDpoobka4QMPWGrMMoqELZWegU1YEBp6zsBCTYfAVhBcrWdDQ-UVRuBGQe6j6nDOb0yEWf72qt9YXiX7fYb-C4kntm3pRcNzCkn1cHNuzlr-n7zDYwrWRJjUJz6ZZM9adSO_rGmo74lWE_MEf2T9ln7MUrFxbE-QBaDiN7wzUDURI0ugduL0OUy39ztLuU16kTYAUCDg5p9raPzXUzzCQhZAUJMSLl2RBGHBup7FjAl632n5iXcqERROyelPbmcGqYV0EM0pBqDFNSx-OG_sGCNshDWzLd4zWcz-LLvDEmAle7j6FDV9Jj1X78o6Iy9jwjh_RHvD4ntOkh3hmrc31bDuuT_eDovwe8aYEXK6XVwfZalkrSiDGW6Yuru79bH4sAvfU0uWQPJMpXWt7WwKmhCM-dIz6ai0KJYIYjttgzRRIklea77mYL07e9p_qgPej2TptBy3tfXbIeZTt1jVmOE1QXemdoLJ6GCbuXWZrQbgRAGRAzlUTj3dPX0lFW7JBSR8t5QbikuWMj6f6z6NdlOwp84BTBHEpBjt5qAA9VELEcdHeXjdhlHrLksXMMVtHDsixLwioPBQ-Bgwc_hjh0NIzJ5uSNJXX5bGTUGEPdZAF9cn76nEAFQn6rkwm5wN5PBfw-QBZOzkwzSeSGe428s3pBsb8qgSo3tZA9ANn8QWuWOXaujjsAUwxnGFVjqdjfjBBU1jCKTfS4GNmmIiIvIneQXMyJAJz_nZSeTvfTVzpHlAcNCVO9oOannNDlmFrdjY55GLqe0ccbruGg_wR6WTpSD409xVa5s3jfzZLPaGuaRj-8NVHDVvCCUteVUDDi0YpO9wHdex9mcd-0NhuIGgI-V3Vzz8PPPTVHb5DlGWBk414dtZS4Utc7KmCbZKqzwxwcNFWKeyIKSxSthwrNN0LA8dO1_hW2aKfKX97GSEunTSJicYvTut6pJ5-B_ckuZlhY6aed9_0DlC5mAEPxt0s2ZRnGuAS1f7xWDPf1HxhWTG7o5zZa_EAthKJ-pWb7JzmcT0Vu0qYKOphyqzhAiSEWn32jV9ZJEureDZMkuPISgbEG1PCh9FGbY1tJgPhPEVIqkI-GqaYd17a0yO6EvbDCjUj57MX0cJEjUgrgw7hxUq1fAO74UtmdXUerIvHrnNVjvX6jb4oA0gVNoj8ORWYucNxuqISpHggq4FFQyHmC20RjItyTnXakVbambw8Rwn2hCjX-l7hGVjk2fS5GJ5v9zxmygvdZEyia5ZcxNrElVfogQNVDWlDsdMbho2n1IT_NnJBSpNY6IfJlXhD1mgRjtBLGF1T94iJsSx9j9hbV9Aj24dIZYO4TYlDXSKfgQMRdb617ywL9nS2AQxB7dvew87CBn0RL6a58qOLv0bVQMk4-B05Xbk71eHIxLD8xiEe3zTIRSF7Jkce_TqCFSEOO6ePojGbgjl0pxr52gGn0w==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fccb54b4edca73b016abee110f1e487d193718b0cf473c19d",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 500,
+   "completion_tokens": 192,
+   "total_tokens": 692,
+   "cost": 0.00292,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00292,
+    "upstream_inference_prompt_cost": 0.001,
+    "upstream_inference_completions_cost": 0.00192
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 154,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

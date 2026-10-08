@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894474-zPry7ZUEv6BTiaP1GN0R",
+  "object": "chat.completion",
+  "created": 1790894474,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the overall color palette, not a confident identification. The stripes are mostly muted, film-graded browns and grays with a few teal accents. That fits **Se\u00f1orita** best, with its warm, sepia-toned diner and motel scenes and some teal tones. Most of the other options are clearly brighter, more saturated or darker:\n- **Sugar** and **Sorry** are bright and colorful.\n- **That's What I Like** uses vivid backgrounds.\n- **Attention**, **Starboy**, **On the Floor** and **Love Me Like You Do** are dark or nightlike.\n- **New Rules** leans toward pink and teal.\n\n**Baby** is the closest other candidate because parts of it are also fairly muted, so I can't rule it out completely.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm recalling the color palettes and settings of various music videos \u2014 Baby's mall and bowling alley scenes, Se\u00f1orita's sepia warmth, Attention's nighttime blues, Sorry's bright colors, Sugar's wedding brightness, New Rules' pink/teal hotel, and the darker tones in Love Me Like You Do, Starboy, and On the Floor compared to That's What I Like's colorful backdrop.\n\nSe\u00f1orita's heavy filmic grade with its brown and teal tones, diner and motel settings, feels like the strongest match, especially with that teal showing up near the motel pool scene.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm recalling the color palettes and settings of various music videos \u2014 Baby's mall and bowling alley scenes, Se\u00f1orita's sepia warmth, Attention's nighttime blues, Sorry's bright colors, Sugar's wedding brightness, New Rules' pink/teal hotel, and the darker tones in Love Me Like You Do, Starboy, and On the Floor compared to That's What I Like's colorful backdrop.\n\nSe\u00f1orita's heavy filmic grade with its brown and teal tones, diner and motel settings, feels like the strongest match, especially with that teal showing up near the motel pool scene.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSkgsKEAgSGAI4AUIIdGhpbmtpbmcSDDFoJcHF8DxIzSz4qxoMJXGtQBfGH223h0viIjCrLJchIxAxYC36SYHww08f8t3ZFHPeW1Ghm7Ixqxg46ANV6TiE0ITdW2nlRQ1jJsoqrwqpxzhktZLCj2292tIQgwUHkV0phqGjQxt/W88Jl5hn1zdqEZM5s2ZhufPKMr8B+0TDKgDDzhHBk3gk1hlGgxSJVdTiVWrUvrZQCdOtRvDrh0s9Rbgb/WxsjSzKIC2obQ+VCb1zpS/e9+IyKhHNiuuirr9dIc3hp10Gsvfu+8sznm1opVlc/do26+xs3uHdhCKbd56exGDfRs+Bj7Zvl9jzO9EwLXBt6OkTrpNFgkYSv1b7y+pTmISIH/4YY402h4PHrNcy+24yXUYLJgkgpM43Rgz3lx+iGRwMntinLdEhs2hq45Vh4MCeqOpeSNQpG9FeLUWZBjo0SfKnIJpVDR/VA9GGJB8u6y2GFyurao6EddhriPG2M6WoaRHY0P/M0+tPt6MDDTbmbjPwFuOiMNIB2rNo2TOiyz5xQBySkRQ2utXmj4d1QZxIxKjMOaYNZ8adJZJiHrnGY5DimHYU9UgVbbYiFkYCea3XnG/xco9hcNAYWO3/RWi3/OkBPmZg48kpDWWu8zagVFBm1WYdHerR5v0VPsDJ/5s/LrHrEuH971Ti/m6Bn9XzFwxqmwIMeEB1VbMR6avX9/QYdBkZvRjt8U3IK6gbFoJqFcrVjVI2ZTer4NlZi6rK6h8tsw9CMyCM+p6+3qOZkG/oRB6DhstrP9RCQqfdDqye/QEgSJoN2UsJS+nvInJRqGc+yprJ1EjGZNxEYLZo5xIrOFhicfu8JUIC8gEYPWg1TF66sDqjaclV+bzZn79eJ+UhnqMCocANpEAsqMuBGjzZy0XtB3YcldXCqrpSd7FgRfS6ymZaG2f3XdsWm9Xol2l8QeNXd6eAD0qYgOiBkIzkq3rwjGw2bVkKzGQU6A7KBhsy+A7sxewo7DrYm3ALzhgJxBS7LYw6hHTFZjwRon94a6WO/2pGJZsDhn7xjnh+RxeekMk5lwHWXH91domD/rEfSOThW4UwTCSACoh4girH3qrBsLLIXLO55KO5izQo2rVShv9SL07ROUSvydQUXRJNhCYh2NwRGJ0S1xHbyTByaClPisPxqXrKf+rU8T35NeoKnsEYOssmdUw62JVkbL232MbnDIqCkHx8AnXtGOFxriEgDGjzELkygAoLKiga4bFau+BDNPsKoBTDrbLS2QEIvDer7bKjcIAibKN3xG4CgOu2YwFLkCvDrd4omxSkbVeX4ADL/bohOlPDUYR0ik8am2nzS5o32ud3rsSHVQa0I5ioxVU4oCdteQjVjDpqO9k91pgQcI1uOSNFLDzaGDUR5Uex01iRqUDkCvsy5REdj3SmJFxf5KxjCq3CCkcEVUF8YLsSfEFssmQoNmKu7PM1LXJ8xgolJw63dru8ufHT6upnJzhWyekJt/eb1toC0IQLpaQ335DoUJYoPJAoWOkX19UbPhpRZHfQmGeOYnJRsQiAmyza7TEdK/3t4KCvvxQJlCW0mvNHJRpEvlSSloPK1LE9DglGIl9BW6pXFGORNP/F25EJAAzap9ngvh1oLQXM0rO0YdzQAARmSXcnTE0H+vIfzSNSUANG9DJwCyaSsPcJcyQJnfaSn65Np3QGKgSIKbzloQps5kejBB3T5rL1ZozOp3h8m/pyYodN8ocVsAOtvkKZCkSzT7FVgQ4KfcVfLDKbfVvh54A0uHxGZPDmhJuPxXaoA1rv3Uuvj12lT49kgajvLXlnC3tiknj/iUtgrJz/k4IqIIlkuPUVJENQguniyeRxVvsm7Vk+bAeV1ZGu+MhF4tPuPDIRndfgOAV/qXKTGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 630,
+   "completion_tokens": 591,
+   "total_tokens": 1221,
+   "cost": 0.01434,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01434,
+    "upstream_inference_prompt_cost": 0.00252,
+    "upstream_inference_completions_cost": 0.01182
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 332,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

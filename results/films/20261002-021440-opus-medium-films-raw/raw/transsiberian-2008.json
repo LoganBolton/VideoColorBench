@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907334-OACwW6UnZFSQlN48ZW2H",
+  "object": "chat.completion",
+  "created": 1790907334,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette alone. The barcode is mostly muted, dark teal, grey-blue and greenish tones, with some brown stretches and very little bright or warm colour. That cold, subdued look fits **Before I Go to Sleep (2014)**, a London thriller shot largely in a cool blue-grey palette.\n\nThe main alternative I considered was *Trespass (2011)*, a dark home-invasion film that could give similar teal-and-brown tones. I also weighed *Transsiberian*, but I'd expect its snowy setting to show more white stripes than appear here.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "The dark teal, greenish, and brown tones in this barcode remind me of cold morning palettes \u2014 I'm leaning toward Before I Go to Sleep (2014) with its muted grey-blue London scenes, matching it to option H.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The dark teal, greenish, and brown tones in this barcode remind me of cold morning palettes \u2014 I'm leaning toward Before I Go to Sleep (2014) with its muted grey-blue London scenes, matching it to option H.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSzgcKEAgSGAI4AUIIdGhpbmtpbmcSDN70zr4cvczE9iB/UBoM4tgrvrdxwXt6wnmUIjDzxQsi7iWQKMDuQeYoqFVPEpAXkGA+mVbdtAppjh0LKxEKDDG+ymAUQUXxFOaHSj0q6wbimJDjBiDUaba0o9MaoyVt4k9vT0iaJcBZZtJ8K/r/I1Jxz6oakDa++MceZ0LPLWfG3IUQeKSdCi6JWYY5jgkUmKyD691M1a1gVRPA3LdA9hoQhTHBUnG4tT80388U2V8aUvPKG5JzSGG+xfJpHJ/kNkypadTwV08uaXktrtquk3IvzYi8XaZjjPqgGaCjWaWkzJAqe7ex1id/+w/s6xK1OMepY0UjhMle6JEw8HMx5GytwroEmxTqcCyIKLgAgyFpCUKNoKFuQYxLbZJKZWohuPYbFZB3lnfc5WT9CbaUdO1wNkn0liVE9jaPuHbvdk0ieE2+sFVJ9ca7qAZzTULwSzKD9TCNE9koV+syeE7umX01IDsu62RXkJ59XO0nZYVXu9ReOnbdA/NMZ1PNxN6lMwkelNVli9dTqNNeVnMCUd2oGLCSFlzT9BFh3UiuzIeV36dfWTFtUONwYzLJYHAXfgdzSuGBZE3p8ty3VLgnZDe3HbSH3uqb8XW41ciVJ/kvwhmHdkxBPUgPOQ/Hx0FIhCKn1y1q6Ygh/RJ2LK5dZCnlPeuklCQ3VWsbCAxWfjAcGJsVqT2N35HXH+0Newaqghm0k2xgk+FYffHrvAbsC1DPjTvObaPXSs2xwL7lFkqLgHEsMFQXVsAgSnoZtOA/Pxhn4KvUuT5uURcvdipbMp9dFzBNMQw4ebWOy2R1bIzBjyEiLigtHal+6gzSeP2GEH3FgSbVcocV9/l+EFeV8FnT3NnWrmEXJhlVTOWuKlRrb1HAs5VTnpA1rMFdNeX2EYDqjiU0lBfC1qblfoD4hk6EoY6XcHsx9LZFa/u57qMshhlHvSmdvNKDwXPTo6NO6UCr2RYx9YgCDkFn6ZbcUvYY3LrIU9AYC/lowqMwvNOkBygYs9WvwDtHMjhQnDiIOApxlNxHTorUCrmcmhgw8xFnyQbn59fGzT6l7wep//8i4jhKE7MsOWLRCjUVAndWaBBCJDb2+VynRHy5qqrkvif3lCdE4UqO55q2TLWF3Yz8c21+49z4qgwRXWB+6Q1UrzqX2gekkkPGKkMCOpcs34muDJn3cnfWmmJDdHGqGBQ6FNJ6WvXi/LTZVRUJSSZkbuF50A6wovPJbRDENUJgoi56OdLeEyCzGEc0FcwsoRVoLf387N2dadaUgRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 545,
+   "completion_tokens": 361,
+   "total_tokens": 906,
+   "cost": 0.0094,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0094,
+    "upstream_inference_prompt_cost": 0.00218,
+    "upstream_inference_completions_cost": 0.00722
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 161,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

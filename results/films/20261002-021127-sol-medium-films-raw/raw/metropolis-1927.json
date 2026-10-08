@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-pSc7f2QcpRo5zFwRMkCz",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *House on Haunted Hill* (1959).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLbG4_Wx84p_yWB_Aarg5xohO0pYN0pPdqjDSIW17_0eDAhhoc8a9WPQ8O18w0VgnofRoBvs70rnuumJ8RN_fpAPOiNDhWwjMoygyOg7KlQw34nYo0d3G7PEJ5holJiKdhcoPq24R_ufKP6s8wbsRiT0dN5d3GNl6lYayUR6MrawbG3iiRAKGwgh4G6H_nOpEK4gB5cFwFCUOF52vu8Enc6-qmVTv9l0b_OKFHFdRejn0PCtg2ChXxxIGzNhXXM5NKANBNMEnS4day2SVpMg3-3pTE6-mW2dNytUh1HLNYzMnOrYcCzA_H8JqGdcfNGPF-zi8s6SDT30yWRx1yKz7b6B9CpLWkbtPVlKttyVV2odCdXXOYlMlNfvVBieFCKVB2u14mtCFZuJbBLnDjNr108ks3SPs-B5IQe5wVe81LICOaeNhbLKXpgp-yQE93CP9CIu91l5btXWexTRvVXMG4_x95pebQ3wQ_sYENWpB8jgDL1E49szFX7wtN81dgRs2_NPeTSZ6HVCZ78c6nIDUWIX0orNTT2WTSrRHUsebv3TkwespUNvQ0dGefMnK_cDkamXT5zxX5VmjAIY_hzAh7eNJ9YGkZVtBNOGcJNTyj_WoOUOTiBao__ATQAx7vN7HET6ENd1qGSoff5KemHB8wq_9R2QyHCVg_Xx-Rb8Kij_tmxe2yQHLjldMuDIUpas1wWbaytAAVFvsOMjw8bC-hFmiXmG8wFrcOt1ee7khdLwI-ARetwLsyzBlWlkmXluPKj4CI-pb5AU6lnMNU4E6x4Vtj_E07U9CSIpFOR6vNgFehXqCPyyGAvbd8al23CwE02yv4NPrVyUl0znixuQgwz6wVGykaV6Fu-A31Xm5u9GgXE_Uwm1bio2hyd8uSyp7zX9TbuaaWLbwFJeYQPwAvWk2z0Aq0uiF-8rroNCemZgJXal4fCzvNQ6epaDfZtpvswtiDHWLdT9VSoBLodaNsRSlTdlw8r4zANGwNiK5icdjQFanj1LMS0HDZKeAeBIBQ77diZ0L4zufA4AwWgEiw9kwMDOj2tMygA9t_1LHgFtIeJSbE1LxGWmPDaWCySKJL8pJGMd9llFXrmk7qfeoA7sCyQDNUPTp6lx0ZoF7r1QTUQWhrbwPYUxkYtzYMAWPVBJu1Y22Y5T88Ivtf9EJZ2pHV2QhQQZQRtJ7qT0C0M0up3LOpPNpdB1o5HOs1ulVj6hoBF8JR_m-_5HgLTlO-0XKXjE7Y2gvmJ34htGFkcglapiawk0zYBtWIbEYU71ylH_Zol3ATRkB4cVj9cfJE-S_1Bkv86w22LZVW7yuFAf97yV9AOceCGt73w-POPmxfWv4-HTKpAUQ7pg5tugXuUapREgXQBxPFJTC0xxH9RBstSfcXZIAqp-ZTd0u0eUDWeHBCkn-WxddSftUYhRvATiGGME_ztzHBOMji0eXrQVsFTNgqE9gedptiApNJJlAthFAZH4Nryy31iCfFvg-9BbF0J_4GSfWH3gvEPEMk91dHlAUgdD8GsZ4mxDLnOwoUASpMuamNL3v5KSuttH_vAqeAOh5gm1NArkbb_cRSt5IX6J_XbcAaGjc4J01WU_4HxUCE1OakFVwgnFrg_SvgI8pAmlbQn-YzBVFy1FQNw1zhJ8-pHPVtdchZjTj7mUXIIOqt9jm09m2LdiQKxKTV9cXPvWZcPY7pu_FQzijNTvwQNkaF8roPBDf3MF_YlW9JxpM9z-Hok7Nt-gdayrvqZ_N35UhGiIbnWdGLDEpJ1MmAHNlvbxaPsRrhuKIBYiEIlqBJ1JJzwbOyp9Tg8p7e-IrR3qAyeJ5XAPCoqzmnpdQMiLQ376_g3abHUuRGDhjlh8JZE6qPEfxBzaS1GeIPgqNmqhhuaAGL43KIS65QD6JAkl8Uw6o7_nR9hdVOacjM5HhdE7W4go6LojUHnR48pUlmh7i-kCVsvykIH5AeWvi9sP-Aqb-8Th8EWRyeT-Eg8OBI9YL3WgjYdL0JC90xNJ90z3eLAl9SkjKP1qCkuzj-NI7UOOfsGnoTCOguCZZgA8SUNGZoSZKl-_i-OjWOEOYDQNFtdpybWkD94_K_Q6Ydivpe3L8Mbx53Ir_DsPaX_1rxriu4a1HzsQxVvVApZplG4tSqmSB6Gqse-npan0qBSK-K2x9qrWcLA4G4M9D6W-qNwruwT11fsN8AbFR-m5AZiWsC2m2MN4VhWZFFLYBsRWtwhINUpneZbbX-R_8rz1G9wW4oyKNRmEMTHZNlvewdVy5DrD_3whvLQZij1-Gc8bl4uP0dxBNAPOHKW6zWbS4hc5jjvb-0k0ApbY5UhrQoZHapKXForUaLAGTl1aoMtAb1eJjRX0C9ASAMPTx4AF8iciGo5Xp_fiIzcFqb3PkANRyc4IFMAijOpBEAg3fDy0a3FjAKkRdk0duJP1bON3XeDfg2X_7DnMNGix8-MKTxruYysdHKbM8uD--VAnUmcjAMWXB4PRlDCQN7ZH4-h5-QxQZMFYUPZncz1gi0OXHYU-3VdakCZos3cC3c6F60OW_9u5_TDr8pxS0QFdaG3mADZ27smUN_jmzIhgiGd00y07VmDz6bp6pTYqWEDCtCJ-rKMSbfbtSOKviIXKPVKTA0z6umsENdxJUmHfRD0U6IoLXXoziV4CJH7I4j1Q9o=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07289e53ce709363016abf12d6191887d19f6c9f762bb272bd",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 235,
+   "total_tokens": 674,
+   "cost": 0.003228,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003228,
+    "upstream_inference_prompt_cost": 0.000878,
+    "upstream_inference_completions_cost": 0.00235
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 212,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

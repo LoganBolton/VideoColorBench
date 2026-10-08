@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907337-ACqmqy7uCKtxgCpG80aB",
+  "object": "chat.completion",
+  "created": 1790907337,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the colour palette. The barcode is dominated by muted, desaturated browns, grays and dim olive tones, with almost no bright or saturated colour apart from a single blue stripe, and it ends in long black stretches. That subdued, gritty look best fits *Detachment* (2011), a bleak drama shot with a washed-out style. The other options seem less likely: *Leaves of Grass* would likely show more green, and *The Warrior's Way* would likely show stronger, more stylised colours.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "Thinking about movie barcodes with muted, desaturated palettes, Detachment stands out with its brownish gritty tone compared to the greener Leaves of Grass or the more colorful Warrior's Way, so Detachment seems like the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about movie barcodes with muted, desaturated palettes, Detachment stands out with its brownish gritty tone compared to the greener Leaves of Grass or the more colorful Warrior's Way, so Detachment seems like the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1AYKEAgSGAI4AUIIdGhpbmtpbmcSDFaaFFNMZx4tANGWaBoMxe5DtB/m9CQaGL90IjBol7snyvyTKs9/L/YWC/BcS2YbxK/J4IFFfGMMiju9QQV+FKm4YA39Iri65R+bKsAq8QWfqDf7KhqNi7BN6o7CCYc/CBfe3WRq/9gAhvcgmAn7flsK9I5p5xfFzFX1NAOeVoChfQohesgkIcnqer48qX5lEOeMLkcGjBR5bbNGX/3X8sV9t5WoHWFmFAAlTLWcDvaBMiMM9Q5mXsJTEjyT6/75A6L0cO6dl8AtTJsDzSwoLBpKAiyNWRg4AsCuRIZWXQtqT8rMWaJgVGs8N1t3SerFVHQG92hqli37I0NkWy4KvM4h1nNMMG6Fwg46IWZnM0AYar+Ik4sttumGQ9/MQR/41YAXJ26FPeSZTMbWOc9i7xru/NnjSAO3emnHNgPAuoOsqhn9q5tMojnpU6qtCx0GMM8OcuAnytxsb/dFfdSJPcVszllawKhPkyrhzbkNprcNcmJlJTxNYx7bmplUVFlFFofilC4/WtYZazq2AWar9cuw+noeRKn6QVgY6pxOsJr8WJre2sldmj34DH0ikm5wGVw4eueP7jJ7sm0WDj8rCh/NdVEEjhCzLQe5+I7/7mJW4lD8U1ZXZDWAsXF3NE0Cy8G0qvhPKAv1yNcsSuxAmBcdgKE4E9Ry1HUx/rhEvBAWMopcuK9Jou9mogdb9qzN36hjx96MTVB+rOiQfO0jz3+4iwibcDuh4P3YfPxb/litdqJWE+hwtDrq7dvV49prOXqJE6ZmXHenSV5lmrBz+6zGWwWkdRWduuMsrPJewSDOGDxssBnWGNA2nBQnTG6b456F1uLqPTOxYrX0tUVFu0O76d5atJsfCI/Ik5v+7O/aEpxvvCXe1MrKpRPuTv2ZtrRQrMSoyhERKJ0gy7kX9xHN9m6nxKZmyWvLn8wW5BU2t0o0Elha8jAfHYB2+xem9TV8dZqDFr6UwxwLhRpbg9T1wmqIg7+LNiSdUf+fDgrGdSv4OKeOpnSSOh2N6ljFDHDqGDrBT9JUneSHkT6SLv3VbrpAps36myIs1bDmkh19RAAMBPvlfHFY7HlkX5B1FGX7RiiZ7W1UwKr5YRHED8oYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 535,
+   "completion_tokens": 269,
+   "total_tokens": 804,
+   "cost": 0.00752,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00752,
+    "upstream_inference_prompt_cost": 0.00214,
+    "upstream_inference_completions_cost": 0.00538
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 95,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

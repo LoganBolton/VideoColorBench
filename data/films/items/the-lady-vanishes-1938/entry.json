@@ -1,0 +1,19 @@
+{
+  "slug": "the-lady-vanishes-1938",
+  "title": "The Lady Vanishes",
+  "artist": null,
+  "year": 1938,
+  "label": "The Lady Vanishes (1938)",
+  "hex": "#2E2E2E",
+  "rgb": [
+    46,
+    46,
+    46
+  ],
+  "frames_sampled": 5510,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "1938-the-lady-vanishes-alarma-en-el-expreso-alfred-hitchcock-vose",
+    "url": "https://archive.org/download/1938-the-lady-vanishes-alarma-en-el-expreso-alfred-hitchcock-vose/1938%20-%20The%20Lady%20Vanishes%20-%20Alarma%20en%20el%20expreso%20-%20Alfred%20Hitchcock%20-%20VOSE.mp4"
+  }
+}

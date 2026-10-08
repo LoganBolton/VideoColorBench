@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954542-W53x4ZMKbCkTyPdDTy64",
+  "object": "chat.completion",
+  "created": 1790954542,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Trespass* (2011), based on the consistently dark, muted palette suggesting a mostly nighttime, indoor setting.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Evaluating visual tones**\n\nI\u2019m considering the best visual representation of dark gray and brown tones. I have some candidates like \"Trespass,\" which has a dark interior at night, and \"Before I Go to Sleep,\" showcasing a gray-brown theme. \"Assault 1976\" offers colorful daylight transitioning to darkness. I\u2019ll need to analyze how these tones fit, especially in \"Trespass,\" where the dark mansion scenes stand out, and confirm if they match the overall thriller mood without any credits at the end.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating visual tones**\n\nI\u2019m considering the best visual representation of dark gray and brown tones. I have some candidates like \"Trespass,\" which has a dark interior at night, and \"Before I Go to Sleep,\" showcasing a gray-brown theme. \"Assault 1976\" offers colorful daylight transitioning to darkness. I\u2019ll need to analyze how these tones fit, especially in \"Trespass,\" where the dark mansion scenes stand out, and confirm if they match the overall thriller mood without any credits at the end.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8w24I-eTv-wHzfSM_T9Ssh8CHqwL422PQ5OM7fTi3b269xhWz1xIG6_39LdCx-wrfe_WVeeP8unF7HWPjugL7HDSJWckqhpJ6kd90R917d0MV-8_wC-BtrfIgsKj7Gm8-aLKndYZQhe5q_Pf8-lAxPCNBcbtHHcs1BVeIIZVn5sIsx4bvt4b0uj46BAUQl1j3lPYCTDc2mOYweeHt6vKQS30x3ZR9-GHNm-c_T7VkplVHiKmLGlf9jaZnUBueMUKT23fNaQOyn3BKqscDGhFTNoMuzmKcFBIsfH3VHHFCdBBwx5nvcbebow_LavABLWm_zkdnopxG4ibgIosAHSnhVoKM9hNUPFd-1B7U8IFOIOGiCAP5UO4NpEThpOVtTRtI3rdhZU5kAvqsn6Hgwr0ZzXHlqjW0Z6xuOnxUsOAT9eKCdQ5TPcrxlge6KA6C1SV1ePI8Dog6_FXISYZzkd7F0iN-D4cpyU04iIENyFBkpd4CQ07NeXcUAYLxePFzcrti7GFujEKuqBIoXq6PmHlIvimfnSBSeeVizAIrrI9rkKXP_L8w8nhOjAU9YKDzK5BEaYlUMc3oF5sBDJWJ0IyOuqBsWPSSPuJBIGoB2Ny3eVlcjMT8jQ1L27gz2E9kF2ZGus9bO5clXfhfd4Y4LMyKtGP8ZgACfgv_tt3VjNr3HFKsR88-JyY2l6a9kCNLcaxjhlOm9CL1OJj2odtcn6xCnQHL9yV9fi6Wi4rwdzL8fDtvjVmWVwKY6_ukNA6hjVhe1pifkhv6dv9VflgreHwVwco0DADVU4SA6j6fvT4tMgnLpnlTctJHES9DN5ym5MG3lcPd7a3YRZSh8QQ7_Cu2F7NeQgiW4ha25KPXslOGzr_qDxG-vNbnxEpq1vkLvwN_lzMDonkvCLPVhLfiAHBUFrYODM6dXXFVb3_gVXk42q209GDLhpkGpqVyejGFzMT2s8bo71qqVxDwCn3go7MmJBxyRXamBpbpwUjRwpxN18Ll956Jop4_0I4qWK5iLC9Qp8ORGJ7KC656E7AdJ_etrxhint0T08OGn5KM4xjTs6omhwHDbmEvk29N1_aCLw5BpMKWRm16dadvlDHlieT7oXeYGa40H984MaJN1ouqp4bsRdyyrManJluFOxY-9S85KZGUGHyy8UUgETrOA5gKysTxJhzfog_2zVB4hAAs9bhvShl2KSEEbV1TmBwTh-sDS9mB29ZguVhJpLd3vJcy5sytUAE-FrJ7OY5hJDD2is2jxIwX6-j3Anx1Q1U1c66IsuH1n8d2yJzhwkvmBgbCCkf-Nm92rcI_vv--aiiTeE5t8CNzRvq7fMnR6OdlQChoEkwjKr9o_CnfSGM1wh3BCswz17VyuPe1A-RW4gLIrL0ur6Me9xxM0UlB9o0oDGTOX19QmOLqfw1Cas_MIsFsYtpd8VR-aOvZrd8G1kO9cC7pDTM11Zsnhzme1IZn9KKC2BFyliWfkTSuiCfQcvbjBKQkldtRUu7JwqnAk7dBVl0GsFzKmIUcDvsElwtwAZIizPznGNK65l6LR5OEHLv_ZJg-49oFmVkKxSkwZyUrJC66sjvE6pE5Pd4drGsz2tOvgK6idg43Ct_ikAhLZBrrSxzAwp_IJVDKU2Ty08QLMUHntRi7qMtm__ZCuWpipsz9JiUZbqJRoOPDlppj9jnbEs_siK2p9fUei3W1GIwI6OSpjWRxDDbaRXfA0AoU-VGbsXE7mgwXDpX6OE7fWlRTMsC335mHyXTI-AO_G9X7UTi-Eiv6AFNK-kNm9tezQzH3zjdf3PXupMRvxUTPRj5YxCgdvVPrhfNw1BbwqdIfk3-1LawvTMHq0hkvk6NUfCMLHQxUG8tcZrgFqnguAfwSLngOi2tocxLDQkK_qYb0h9qHHto8ohs26WI02qv2d801cyjNW1mCfQI93TcQcl21y9DK15kjAoO3VjBZIILxrb8CFqrihrpqmXqqsYqY7tTrLXaQh1FLrIbZ7tz6TjqjpnLsTxajJJfKrj0CUaDgkuRGsjw08m2qY_ieF2PH-iaPZtMirtmh2E8lr4u5WxYL976-ZcFo-muWHZZuZeFhjXTVfX-BWT5rLKiz9REghEYrpW6E6evV8apeaJgcUoiaM1t9wS500_jEyN1UqGN9s1gP4iA7CQWzVkM3CDl4z1F0hIpQ5jd1jjEVTUJeadjdMTphvjdJcnjIFFvvJMzxlWeus=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07a58d52a539d540016abfcc3023fc87d1b1a7948d8048112f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 186,
+   "total_tokens": 625,
+   "cost": 0.01369,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01369,
+    "upstream_inference_prompt_cost": 0.00439,
+    "upstream_inference_completions_cost": 0.0093
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 149,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907233-EhIPiARU8VwEUWEoTPlt",
+  "object": "chat.completion",
+  "created": 1790907233,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist* (2006), given the predominantly dark, sepia-toned palette.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI\u2019m trying to assess the colors in images, focusing on stripes of dark warm gold and brown, with a subdued sepia tone leading to dark black. The Illusionist likely has a strong sepia consistency, while others like Beauty and the Beast are more vivid. I\u2019m also noting an almost muddy brown palette with low brightness. My best guess needs to be concise, but I'm gathering all these insights on color.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI\u2019m trying to assess the colors in images, focusing on stripes of dark warm gold and brown, with a subdued sepia tone leading to dark black. The Illusionist likely has a strong sepia consistency, while others like Beauty and the Beast are more vivid. I\u2019m also noting an almost muddy brown palette with low brightness. My best guess needs to be concise, but I'm gathering all these insights on color.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNqJo-gjpOrkKOiDc-NI_gxuTPvFDl7saV28HV6MQcs_z5RYNr_JUIN3JMBe-hLvbQveB3WylQ9FgTBN3pcHLkfyrkQdIL_axhE2rWxbbDB_kCxTGJsOZlEOlC1ZZfL24FaUlwscKtTN2x-CiqBoIYgZoQUQSBchVWZZ7_YXvlJg2vY2X_p3uO9XyjB9oMpcXJ03tb1uoAiQrwJjs75Uylx-GDtTKcSd5zTpTFfQTP7PUUZ9UmnMkE5VmfjD74ghudpuOhQYyv0cYSKZi3WOXUhpmC8k5Gf6_V5EdsEs8UOcH0l_itvkyoWOYhCBlkbW15p0O0YN-5fdV03yjUPB-ipDu09LApsVUuGt2N7IfkBFDATEMdW-QLsPw-QgYBMMdpjhIIPKdYSYjol_Rmzibh2wlJDta0a7mMmzlP8KENl-NzPjux8l5Nv79skw5nJg0GkxrMY5DacFIJqZrctV4YV2fegWvJHqfb5XHJJRjMdZYQmNRgDR3jhTEVlOMT9L6lkzyLEzmG0T130dwjrtO7STQm9jhi-ADDhYxX8gk7KsXX2IBiFuD2fnaU-8rTEP4gQ7lyoLpKCzKfTZHaQfkCPnNApxZ1MnHKOLJDiAZZ7P4RELxYXVvkYJV1G0GU-XGq7NLdT9Kxx73t3lkjyzecJCiQDmhCYJ3qDOkfA44aj1u8oaRTFoyRUOgCtJkpr1AbRm4_Hf72Rxt3g3tvu9V18aEwzCYJrv54JxTwTuPHQ71KYGLjVsrxesBuPEQ6TioOznVnoFTp6r-von8o7fUE_6t0WAsOFppgfYpw82omEokRhKGXvva_sl7gaw8uYxyvG2GAHicDljPNsbm4APKBWx1EqSw2A_r2svSXHY1OAI6hgzjLk8fAYVWrtlxrDUBSCmK_ImozFOajAaBfhiGufOMJyJQKYBweBdIWuNPujpwyZMXcYEXGAHUGe1RrnVKbSwEa4rxxLUxPT2pvHvvjXjil7sfkFKHf5Z4rup_cxfdYKglkInZ3Bm0d6CVg535T0rzRVzT_x4Y9oT5a31vhJcoyf9bikURPlhzuIFj9XkrgewdGkdn167T8kFne1b2a2n39FNPZf7yPxu8tWU7bmbbAd-HKIprt6ysNaak4hOkTx3TfDuSKVECKiFnIf-FQfheYNluu_Urxd0ppx-n1f-YG2TNT7c9E4ssuAPsYzSUNumSXapU0LDEd_KqNhPKJKvQO635jN40n3Msj8qMUbhh6zaRers7ywnea_xosl5JTSvITItiXgme5pTHyVecdOPGjAY5KzFh5Bzi8T4NCxiUDOXzUUtKgVgmq_kUZMiVYd-_3IDtV5GuTnx3An-GrwZEoz6yH3Kvp-PrjPFDSX8ODA2wXvkSAOTpO1uyPQMS72BvEeZhOjFlPFOz5ivRrt06gRAyi1h8X6IiG0WlrLSOllcePzV2MEf5U_UoEDWGZGNs0UCIlacOq7f1dz2QGyeFd-YgPdRGJy_LQ38sQRfxSlkuBqqUkbLQmmVtYF2czHFDjhokBlPPOSwFrEFmiYPgyKK68Zt3M6S5F5jPUKvdnDT1qCcvU18Rn1r3muq2CkqaToHL6pbDANO98P_ac--oboVQJbRJyNeDKFhzq-9nG-ZFA2cSMJ50Q7XHnnxhNCk3bTwOB3ieVanyMrEWRKWi9IHCt843nvnWBL87mISbkISWsKIhXXkq2Ap9vSccbkbxDv8-jipj2j7GX30f92pNZRIa84E7YhX2JmZ_Ex23FMrqtNRRKkXAmqdaMfuLN0aeXgph5yj1UrHCbcfLckELO1st_mp0wQfu0tcrllUr3j_d17ERicO-DocycMDLZisZ_MTjID7H-AQCPF-oNO-rsWX_4PLRz-o6QVceZ01ONgvlRcXvkHwYiA5OT5ubYzt0Y1iJUi22TF-zL1D4zwsxYJGIdPGoPL9CQNYcEAQw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0426e3d02c52c461016abf1366c08087d19334370efe008aed",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 428,
+   "completion_tokens": 127,
+   "total_tokens": 555,
+   "cost": 0.002126,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002126,
+    "upstream_inference_prompt_cost": 0.000856,
+    "upstream_inference_completions_cost": 0.00127
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 93,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

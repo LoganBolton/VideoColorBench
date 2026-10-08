@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907154-IerZTc3PMBWhJ9lEqKMH",
+  "object": "chat.completion",
+  "created": 1790907154,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Jane Got a Gun (2015)*, given the consistently dark, earthy brown palette.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMakXosCVpm30Cs50AxESffAOm_X6mzIxJUVA_JEwngqLQAq_wHA0ufTet_Bu07Yfc4FyvvAJL-AH4NQpPT_jgzOp3W7gHk7M5Fz259g1-uWv5k0OS4x_uujIU9-XtjzKJjEfcQ43E22f4CWOKi4IjERHtpcMCI6lLkCKLUYZ6UcRVNP74Rj5-83QRBI3EZosSe6dCLy8Ywczj7G3-olouGtm72QsNy7yeyuiTXtEZ28_Oearbzq-u8Hp4L09z7iyL0KLfdCZrwa3JVsFn2ioRssVoTu12se7SMcAYWO3CClAZy4oT-Y-yQrKHi6SvIIdm3Wj6wErxjPhe9xM5CKPf2kX0bFlP7QBWKqXgn38F9H5R48WlQvU6XuAbOL2Mgnsi8oE-KBnUdUCB8bmnf6oWaLpqClvgVIVxFlZFqIuSuTqgqxCu949r4JBoF9JqKZHLkBKWLVvD2B-4a2R5bbBFrvaJ3CfW949OYQ9ihXwpoKqkdKF89ogYbAqsVBxthRpdWQdtaqIGRXsMd2PSKDfvYAddKMF_UajYI-xm2IQIKOqOwtLsgk-wiA2FoVRUjRstDIhFxPKSIc2gaGQH5viyrTy4hrEXHi-zoVogQMVWKfh9vB-SEOGHKwg07looPCGc2yftY2iXj-RthqtM52ZJRz7WkL6Kc7QXh0henCN_PrsWEazGh0678zvhUPupdi1J-6PbA4lDJxsIOsVp6Pe9GxWovPS8pNeCKYVtmzbsDA9GTE-tbVTcHvoGXJLd-QrT8_TuMiqVl4OnIKAHC5jPxaKVD7PHGsym7T_oS1rFKrbsOZEtVIyDsCkzOI9sRqdAUpFl0xgxf9VNzOUNZs2dsQDjuarx2uN2zDhTkzb4Z8RB-BpBLt_rSrC4BQCTU48u-B9I8_36tSBs9KYCJwiv63mWIhm2TzAN6QOBeWN7u6UX7cSTwDqmFYql6KjSrvgk_VkU9yeDPGJL_L2O_567aeKtA4xh8qrcX9KrXfj09ZiozU-KKTKIMuVIAAjJnc2oIahj8rq6inftF11zJawLAjFcpYsNRXEzknBukDd2Y9j9BfxVARWuMv4BbHtzCnLiothQlRFyAIA8h8agOh1KlWT3GmYG1dnnr01Ur11NRxSIfob3EJj1qeHvoDc66Di1FjGSuezGLplLBbZ157fpi39Q28Wm__nTajHcvaKKwa3OACqwmpGaXBLVgQc8DHcpVyGRgTQeVtZ4MSYl2q57ojblax1bIK9yNwh-vDaS2aB5a0u0oF6z45y4DMUnkTS86fPHrtNhEvljTcdfmHlAGrGUaGxMDnifZdWCxOOyTgR5vq2uNyNdZC6dxd69VszTClcoJPnBquR4QmtJvch5I07eg6LkQL7Tr2VeDpYY-emB89P4TofylUvcxXt_kof248_hNQZoq0ZrgT95WlgCpMeLB_qdpOkz0hiCTXqXwMUK5YfzUukwURf1qb38u8mGoPNYPMYdot7mkfzDMJdEjwmvqWWXrPGDS0gmHSkq-7FpzdBy6KV3Hu3qysWq3JT7isXQ6-Rf497DOihVQpI1oKp-mXmdN1Pege5NBpqJsjQ3fJXlWO70mCiRx9XxrP4Obs6aDV1fkLZr1TRvJ2uFEa6u09dXK0oie7ZJLZo_pTU7Za7lodAbeUPFjZOU9IPr1R4xsM8lZqn4w1SjPx_4kEJYnnpfB1QbhMTfkW11uETqXmyzrtbcoF3KUVg87sGn_R3lTbOkxB7x42jBhQSSnDOqM31eDzu2bxu-NPW0Mlqw3MBpixLeJFHN1yEXHBnXAbY7LNpVii8dAExTuCm4dgK2w99zP10ur9GafsAyAFmY_uxIalCnKEQj1u_wzrXxJLNEvq6aap7TmkLu-KZADwXFYuVEAEeop38rCp48K6qPyeU_jQpE2n0PQAeY14TodN4e1c4OQi3MRmEda9HBo4he3WcBkL0RxgfKgjz-0MPa7ft18DL7Zn8d9FoCHWNmXLScD35YnH-7fwLiNogGE-nIAa8kJCqYfHNUPCl6pFKdhA6t4M7TzrbYaKku1zpUCs2nakuhoiCk80kFSiUiZXoms8IO5F553Vkd1v82WBpVroZznLvPSZL8AaPV1KGstu0DdAqVhv0LgOd19TEeVCYAC7XzHrhOkzEbIDM750thFYKJWRL9vXF1tPNvggqzL.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a0a191df3a42aee016abf1317327487d1aa88f56aa049ff42",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 168,
+   "total_tokens": 597,
+   "cost": 0.002538,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002538,
+    "upstream_inference_prompt_cost": 0.000858,
+    "upstream_inference_completions_cost": 0.00168
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "boy-with-luv-2019",
+  "title": "Boy With Luv",
+  "artist": "BTS ft. Halsey",
+  "year": 2019,
+  "label": "BTS ft. Halsey - Boy With Luv (2019)",
+  "hex": "#66584C",
+  "rgb": [
+    102,
+    88,
+    76
+  ],
+  "frames_sampled": 253,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "XsX3ATc3FbA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "piped:https://api.piped.private.coffee"
+  }
+}

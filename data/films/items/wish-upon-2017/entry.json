@@ -1,0 +1,21 @@
+{
+  "slug": "wish-upon-2017",
+  "title": "Wish Upon",
+  "artist": null,
+  "year": 2017,
+  "label": "Wish Upon (2017)",
+  "hex": "#26221E",
+  "rgb": [
+    38,
+    34,
+    30
+  ],
+  "frames_sampled": 5396,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "AVgFwlky2rE",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

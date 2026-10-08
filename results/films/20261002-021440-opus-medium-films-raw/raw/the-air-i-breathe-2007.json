@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907334-6wsTnp9ZzTeNtQZFdCAT",
+  "object": "chat.completion",
+  "created": 1790907334,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern, not a confident identification. The barcode is mostly very dark, with muted grays, slate blues and occasional warm browns, and stays dark nearly throughout.\n\n- **Ruled out:** The faint color tints rule out the black-and-white *The Lady Vanishes*.\n- **Why *Trespass* fits:** It takes place almost entirely over one night inside a modern, dimly lit house. That would produce a consistently dark, desaturated, cool-gray look with a few warmer interior-light moments.\n- **Other plausible options:** *Before I Go to Sleep* and *Assault on Precinct 13* would also give dark, muted barcodes, so they remain possible.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's dark, desaturated palette with grays, browns, and hints of blue to specific films\u2014ruling out black-and-white movies like The Lady Vanishes since there's clearly some color present, and leaning toward nighttime-set films like Trespass, Before I Go to Sleep, or Assault on Precinct 13 that would produce similar muted tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's dark, desaturated palette with grays, browns, and hints of blue to specific films\u2014ruling out black-and-white movies like The Lady Vanishes since there's clearly some color present, and leaning toward nighttime-set films like Trespass, Before I Go to Sleep, or Assault on Precinct 13 that would produce similar muted tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrggKEAgSGAI4AUIIdGhpbmtpbmcSDEf98aj3g3/urZeUAxoMMTxJseijl/KF1SAwIjB58WWTvN3B1AlulJx95JU05n5yAJmqUGHYSyCtgFpmqJoJ4Ixb7gaWUc6nc3EEQ+QqywfgysC/MXG/yFPoraJ0orRSHiYtUehbaD/uhTRcfXxMiwUYdW/0T1WCjb79xc0IVGapW/BuhtsYZk22e/lRIu7xXdArCBjHY0fISt+E292oG9Dd4H10yOX8TFgV2jGujA+JgeGwR38JRpuHJ+l5Zk4XYvo2grtwUF/ZRaC6SwnhyY9VlSQZbhJbOMFXDLVdINL2WlmasZtJK8oCfrxK3Gna29yJoxNgvotQUfHJ2yNxrsCWkUaXPeBq5m5puSOIB02HCBakPxkuqbAuRqgBFeaz+bUhLGpYVs8NHXcGs4NKRKJpugiMfvjH4u1qrxzEas8UflHM/AyQaGsXiYlwGVtgJW/qY6x8GGPa2FeVIyA/zM/q+9vlkHhLjE5M542u0/zqxaf3+hwF5PR7Jp+4dSNoQc+gKy1A37RWUt8+xcEDZnrasSik9S1iETWxCn4NXFGZignQZ+aMkSiZy3z2nX5B7yiHivdDh/sw3D0MzbvWwM4vd+4fiQyzCF3vOAqdNjWRrXBrLO2pgIBATXj7iTccUPBQ5NdV/k0TXOJXcGJK1k6Q696GibJoLuv/vyLJGZzBvZ46PHMmp+yXLa4FtG7QCA3EhyxNWDLYowdeHIQR7APuZ702tz8+VA5UIZa4S7QZaSLGDW5n4Hd0d4c5+TwSiPbm1o57454zKOoFZUxERxGrttT8fmKABqX2tlNqy72l1/2yLL42rO34dYL0kGnyvUlfad1iWQ3agQ9+eAfjLFS5vDW53VZeZmqpMB6WNqQjHk4pyhrXiF0BdBxf4SF5zrpanq1sB63P95ztgyHJuNBXp0xBFaXnOGsNkUIip5hXC6EDv/mJ8nG+eia0K9xXeDNv1CjZPh1hyP7Zb5cv5Uag9M6T8N3hkanHHX/XNS3EkpIq6P8elAwgPQsLLNtKvFItCTNmFOXwHiltpTNmFccElm7nEJn9wc8mzOlSdpqfPCmbs5zvCtiTf1Ixk5ZB1EtWjZX5wAUjpn72w7VqFOWE//B6zLdkux/Ka4ABo5aZHk/PJPL0/pkuz6A4zg6STSCCzxj464V4e3HrvTFo75c/Avq+gwmD/1kpz1V9a6vd+dhlecLcFd1HqPS5KSMNIrwcXkDVXSPvYX71rvm6Ycz5R/weFaiiGZBIqwoCh6soXWidHVNaIyqumfedJVDM2K2kVwE6L3QWYoLb6kyjrLwjbbU/5KNgSYQBl1NQhK7yi4I6n/lJ0oNYGiLwh4VwXPJSYuO0w9BRKbhGKDxfaSzSV3Jc8kKUHhYJ1mWmSI91dlMDWL8wB7Z2ZRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 554,
+   "completion_tokens": 430,
+   "total_tokens": 984,
+   "cost": 0.010816,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010816,
+    "upstream_inference_prompt_cost": 0.002216,
+    "upstream_inference_completions_cost": 0.0086
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 191,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

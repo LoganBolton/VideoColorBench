@@ -1,0 +1,21 @@
+{
+  "slug": "killing-season-2013",
+  "title": "Killing Season",
+  "artist": null,
+  "year": 2013,
+  "label": "Killing Season (2013)",
+  "hex": "#292620",
+  "rgb": [
+    41,
+    38,
+    32
+  ],
+  "frames_sampled": 5457,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "B7HM7XnSx5o",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

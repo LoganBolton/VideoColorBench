@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954527-xAOU0oAQVvuUfAp1VpQh",
+  "object": "chat.completion",
+  "created": 1790954527,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Last Man on Earth* (1964).\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Considering film plot structure**\n\nI'm thinking about a film plot set around an abandoned carnival at night. It starts with a character named Mary driving at night from Kansas to Utah, maybe filling the first 15-20% with nighttime scenes. The middle part could have flashbacks contrasting daylight and nighttime settings. Towards the climax, the film transitions to a vampire city, building suspense as it progresses. I need to refine this to get a clearer, more concise outline.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering film plot structure**\n\nI'm thinking about a film plot set around an abandoned carnival at night. It starts with a character named Mary driving at night from Kansas to Utah, maybe filling the first 15-20% with nighttime scenes. The middle part could have flashbacks contrasting daylight and nighttime settings. Towards the climax, the film transitions to a vampire city, building suspense as it progresses. I need to refine this to get a clearer, more concise outline.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8wuW-3A17Z4ly_J5YAnigRkHnHAt0MmAFkwxelXQYEhr1TYcCmMjYEN-8L_z3hir0erzWzkcGtBEKlMJzYs9aQUOGDMOrYc3_-f31fAlCOfqS-sGg1-CXrJNJft8uXcVAINfFsrUIjX9Dc8paHJKkesDnMJ9lsbVHtNv5ZcxrfIuUA7qFeHgRc39i37zTcvHGPLakTIDn1G_dEkKtXFKaS_tFBpjBKkazzMHyHgWqJhd7ksOXKFtQMig2_g8omP8xwfJt5s6-MXSI0OrbTKIK0H_SlAZ7fmHHPYJ5YtEbKuElZZxgpONKZKUO9QgmHEJ7GW3qGUSrVgffUMcgDMtpDVjJhUUjBh4iu7vf1cCzb0I9v9f1JPpYtwO5oeE7RF_XggwwDbZlzPsFRvscBeSRsohGrbzphrb0yP3iux6kmD0UEenioeDPiIt0vfQEXBFfhFympS7OCxyZuRjK7Flm8Pulhxqg5nm-_zdA4kj8vkQsv6ida7nNSdD4H1smXFePe3Cr2y-Y1X5DJuZx6j-wF4I2XVZctVMcG8Voc0p_KVp33rY0b4qD7LkWCh5IRwLOJdsbbA23XrO5CBXatGJ1bP5FcsmndO4WPVGFs9ygkCC9ZEQg0yuqKff87cCIrh2_SLy1f2JGwMb3QelLvaRYsU1vW_3mh3hKQqe6_PzKJZ7WcB6MmCT2NJVVIf7dy8lMxQbVzvAgD4nUyqTMBI-lNZ7s8w6xr8F65jTGflZjW6j-xRUcy8D5yIuFcatgaruAZWKSJEgQUDysNiL2y61S8JAFn1cvydOYJv7_ZRrWHmEE6ipp_SgLWO-CqOWoE4nCWDunMiTRJhr-sCr7RN3t5Pam9atomlTrZSrcSsBOnghhUfPAGh5fL-GTs8o7-Rf30mne3t0Bb7MUALGpI6VkzOw_JwLcU_b1dEmXrOOh5UsukOsueEzXyWpG-Z0sd2PhmlaHZUmpLFzOgbFVKWzhbIuVZIZ8piZJJLAngKDP-1PNwELs55XKrCrzVASFisPaCTfcGzmQNK1ARUPwwfbSgWszvzXfhYMy7GojfHr-yNuBma7h1hkP5fH1Sltot9qgZNb-AsU_RyYroEBuzR3sZLgOaBe9jItqujFy_801Ap6LLZD-zYIXmsidD4Fax3z8OBnjZLR3wQARPcN8mzfbBLteX6g08ijuHtsO5ucL4QdFmHNcpQ6Vig7U_q_emeUAmoFme11NDHIAulQllr_NfxYz8TZi1tJ5x58XNwcRO3xOrL_B5L6z1xTx-XjJZ7B4z3YNQ7a5Zj3kl4bvU3XLU1yxjjD3abJhdjykaq70qrKoipQ2ouhbwmGYHgxtuWiuqUHKcEOG0gyShxWHteN5JaV1gkoDLJoRTd12HHLuRq7GcQQs9eURMY5V_6js-a0JI9MoGMiFMXEFPBEKe3lZffwoA0JGYVbkvl3OSLm5Zac8-5YLx3wPkzKUSP9cEGvXNNhmMXLC8LtlrCtLrCcZb6lBl5EU0Nf3QH02QFEDS_yBAz8Z5aWV9k6iXGy_ePZJdrabjZomHW-IuAYodTHupMFGSP3pAulVX8VNz-FvesVGPKbwft69K9zP5KqnhNThfChe9CH1JG_r2HoK5neRkNUTHk-1NtRMKKaBDXmYy1eomxHE-1EG5tNAGTwEHXnBINbhl5kEU9xtJN22OPC77RZd1i49Vn6UuMa2USU_KH3dZYMWdFtStDTdR5cHNW0tzoMBI9gwO5X1PzC3SVIWVHfaKTJ-45Kt7DZ6IYu3XUA68qttUQkhHYI1wEfKD9ptzWuGLmQOgafoGuj4rAqG5mfLwI01kS1Avt8G8Vvb_3m5YMHNuJnEDWzAmekEvYrbh_36GGfT2pkozjMNgIf3p7bcVbM4IEz-CLc2w5zfbNKTq0AP9fhZtHEA88pTCw81NiYdqDayv-HGm70pM8KZC1paoA5iV289kE_0SH8T6Ws2nFpFj67iULtunhs-oBX_xY6ZRDyUSfOXiwV5K53dS9hoZq4bjhKDfx0JG1r0a5lYSQpzLsHSUk8CoDfHbApuc5rfcxNJru9ys5J9-Mmgq1Fv9Xfi9SNbU-hCeEPZv4Ml76V2fqVgjkX4JngTZ3l4ZMrw91T7-USAw4mONeavKEr5xeKpRw0BGRZ7L8t17RpXgTDVaYVoJ7-ZdmJD3bHfbJlm7GDOejgG_a-kL9fu4wOD8jzxY2dlU_wGml6BvDJkJY2_17I5190ouxWOAeI4FJMOmjOlcN-BVYgPTPZTwFkEb9-1wTMebPY6O1tayGVv5rm2Ki0GErLUjSsmNtzoDahf8aZW5Acyz-V2Ie71PShoa_IfTm17d_B3darab_lTthvrwyi4zQ9N6kIhuB0Bv9mwauCrtiAZ7Qi4ZdyUsidxsxx224lzzkx3gB-gDamLNaXLl-0d109OkepaBV-xuffwlAxRBtFbCpyxFnToK5yU4jJuYOlxo24aDprI-hBOkiiwsacpIrtlfTxi7jrKMoblL4w8YXxtC2PQrvn-3J992fmshGvcZb37edkdyNNkMiA5O3DyJwCElfh0ffRfMjaDUILX-WnZk-I3ce46VW-k8Yv3DMS659WjgyZSZpzsoa6oEOYRwrk_hG6ZakM-bCBERyPFmorbUz_tPXwx1zscdxhsBR2c1cT_HjYkiE5MSvEZew-fwYn_J7ek44PvFPYpvKz8_ml8xxgONlmrLVMnJbphS3lrZQQf3TMmipdpVXAPvZtvbjYRnLIjBPuEf7sBfS3DQsp_qcD7DCBQtKTJhJZvNw-QMwsP9li8pfIUkQsXLiHNdhEEHMVStmwIKKC8fMy_AFMBwhmgx6NDXfMd-IWk_euyYKN2vkcV6t0Sg5sWlx9a1BsAVtsGL-V3o7Df32SI-KUusEIDS0WwDUymXZzdpgbqruyywdxOzBVZUTfUfx1ap1jPK5XGuXyeSgl21yjltwUT77GemtONPfriRj-eLLWZXUbOtfN2W7Vp_I8GjDh_RBahjLcICgV42rq20L4guEUEsaPVwpxpZrLwfTwwUlOPHHc46SHefsHlRERD40UUiIZarBGl7PbLTsmgKe4pDQ9rQtBC57DmRYbg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c79516001f0d5bf016abfcc2139f487d1b0af6668a56c1c34",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 446,
+   "completion_tokens": 326,
+   "total_tokens": 772,
+   "cost": 0.02076,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02076,
+    "upstream_inference_prompt_cost": 0.00446,
+    "upstream_inference_completions_cost": 0.0163
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 302,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

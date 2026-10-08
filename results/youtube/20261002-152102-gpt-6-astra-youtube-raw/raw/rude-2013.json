@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955037-zFPwzOyXZgxm38PRNQoZ",
+  "object": "chat.completion",
+  "created": 1790955037,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele\u2019s \u201cHello,\u201d based on the consistently dark, muted sepia tones.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Choosing color palettes**\n\nI'm thinking about selecting a color scheme that features dark browns and gray. For instance, \"Hello\" by Adele has a sepia tone with those muted colors of brown and gray being the strongest. Then there's \"Starboy,\" which includes varying shades of dark browns with reds and blues, while \"Billie Jean\" leans toward dark blue. I notice that \"Hello\" has a warm, brownish feel, which complements its overall aesthetic. The \"Lazy Song\" single also shows a stable brightness with browns.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing color palettes**\n\nI'm thinking about selecting a color scheme that features dark browns and gray. For instance, \"Hello\" by Adele has a sepia tone with those muted colors of brown and gray being the strongest. Then there's \"Starboy,\" which includes varying shades of dark browns with reds and blues, while \"Billie Jean\" leans toward dark blue. I notice that \"Hello\" has a warm, brownish feel, which complements its overall aesthetic. The \"Lazy Song\" single also shows a stable brightness with browns.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84id6atkODbae7jR-qWFFWZXGpLRMxqwj7BP3hBnd1hL88uuECVz_wQ21vSpXk_Wu9kgv9PMs-dY4NK7m05G72QcqxDw4K-ojM7JFRILIhxc7AdKRoT707IA5OvV64Myi6WEvg7s5QNrbWnxfeQRAyWIMFOtbOPjafviOK4Bw251C5s-0LkakmYESqyRCI3Q_rPEkFKaHOd36umd7WnIwTgaR4s-kEDhBAlPkU_ZVvPp_LgvdPwP4QNcb1lMNK5vnmQEQllqoaJmL3zcqERw87Ua-4UWC2SOdS5J2OWapYAZ-9tejmWLG55zXXyZwbw6oPgVPNzmjYQzVSKINRp0S6FNVfgMNDU-HwmFYpOKEzAQWMyqCM4yO0zhfOraA8n2-bwr9bSYy4_kj6s38-NAgMfLUHs3h9T-WcQGZEdPWyIfp5ZufdKDbM26TnnePTtMtr0-dDMs3fKoaKS7GFOcCLMYl33fnvQBrcl6hdA6uQC_Jm4BJ_eogN1pSYtXxhVCMvNAtY9B47omPQp3mEhXYrUE5TtHlD_jdvRSi3WQUoAPpxsI6A8L-eo-_5RFzhHY8bm7Pli7JEk5TcVVwFeacICxEv4U5hJGbw5rj7A1O-HdMFWqARk9zo73EUOmHE1nYisVDVast36woT9Gr3tQLbf9ZjTgHV9xx2EPknW-NLiIKazXWfmn9LoCc4quENVQB0razxinjHNCPzhf1vfjQHSW97QJwt6b35tH8Y5E08oGFwxRypeS_Ic5mhJmCSwkgaFBCZak_mZ1oEvWPm2PIeh1SbqXSvAGjTEsA7-7-PSDQoexpoKJAHK0rCee9OOnIpHVjZAP8ba7i14PjKVrRYzDmlhaRr1rBlWeXBTRWfY5HnRFc78W6P0B2l9yIrm9a8UW1SSO7D-5IoMBljcqCPY-gRvg5y-JdjP4rD-Q2frrkHaCIfwFNZ5wfX5WkbCWEbHkJTKAMxVgFwjZ8q7hHG3rWWinf_oCXYTYe9MYJdC_dQzuEhnAVjQC0gGev_9m1lC-V3oGTDaxfLyilh5BLMBNJQFmGZFKC-ekRmrOTPTpMvaL1X897cJLhOyQjJk35Bfh-Au0hkL8tmIExUmEu4fXNBvZtS4c5GmWjubYTv0zZrrgtfnmJrCVDEImVprS5m9m8f7it3v7rVnmLmtK6iddOAMfAtmZDHehO9dJjmvhQRRTXErpstTVyX7-0n-iji3WD3gCbnI63yp-gIQUAFOXWpz8HMoeFn3nCtaKVbXXhCtmfsKCmjzb5_mUuHztHi8J1y1jBHK5auiseVR2GBoD3kpfY1lJi9RfRqKwlopPihhyaDltnXTEIyvMlBB8RS8a_qzPfzwtgbEpfBj9km67LcJCaRI9QKgKR_zssxM7ChDryfFbTxR09awwyDAleIqq7o-XRf3eLRmPg5bugXLqENpSUkTQswOlMT-3drRgM0g5k6aZEanaDpevGuahfVDyIKmt-fCAKpR7jpxSTxH25A-9X9uxYn7LeiJj7aUfTuAYoVqqhMCrqcTz84CMSayaXNt3oRcLgAwP-HSmzwUUJz8o_F9oOy1ZssgNy-5SRKQy42byGWhJREJkh5-SiYdcAtBiBUa5A4rST5ir9hQf1qm7XA9_VmPNbGHm85G1KQ1J3IJlGi0_8eHEL2E-jfEqpVzutS8MzyNBYrAE6GPAjMW5AenqpouyP8ZfC2CPg4cJ5t247lLurnZLyJ_isQBrEztyaCm8x3eUJXrSyZXKpCqgymoI03-SHLlnY69i4YAGkr-4hFgxOqgN8tu3mLs.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04ee852b6fa6bdd3016abfce1ec70887d1a823f05d9593d75d",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 466,
+   "completion_tokens": 98,
+   "total_tokens": 564,
+   "cost": 0.00956,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00956,
+    "upstream_inference_prompt_cost": 0.00466,
+    "upstream_inference_completions_cost": 0.0049
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 69,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

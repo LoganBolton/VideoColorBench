@@ -1,0 +1,21 @@
+{
+  "slug": "something-just-like-this-2017",
+  "title": "Something Just Like This",
+  "artist": "The Chainsmokers & Coldplay",
+  "year": 2017,
+  "label": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+  "hex": "#172327",
+  "rgb": [
+    23,
+    35,
+    39
+  ],
+  "frames_sampled": 247,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "FM7MFYoylVs",
+    "youtube_title": "The Chainsmokers & Coldplay - Something Just Like This (Official Lyric Video)",
+    "channel": "The Chainsmokers",
+    "via": "yt-dlp"
+  }
+}

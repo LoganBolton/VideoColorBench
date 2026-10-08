@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790919559-xsvL6nZb9DJsl5tSEesn",
+  "object": "chat.completion",
+  "created": 1790919559,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this color barcode, the entire video appears to be rendered in sepia/brown/gold tones from start to finish \u2014 there's no blue, green, red, or other color present at any point, just varying shades of dark brown, tan, and golden hues.\n\nThis is a distinctive signature of **The Cranberries - Zombie (1994)**, whose music video is famously shot entirely in a sepia/golden monochrome wash, alternating between performance footage of the band and golden-tinted war footage.\n\nOther candidates don't fit:\n- **Take On Me** would be grayscale (black/white/gray), not warm brown\n- **Bohemian Rhapsody** has mostly pure black with warm face lighting, but the barcode here is too consistently warm/earthy\n- **Smells Like Teen Spirit** is dark and desaturated with blue-grey smoky tones\n- **CoComelon** would be bright and colorful (blues, greens, pinks)\n- **Believer**, **In the End**, etc. all have cooler or more varied palettes\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "We need to identify a YouTube video based on a color barcode of average colors over time. The image shows vertical stripes of brown, tan, dark brown, black colors. The whole thing is sepia/brown tones throughout. Which music video is predominantly brown/sepia in tone?\n\nThink about each:\n\nA. Guns N' Roses - November Rain (1992): the video has lots of desert scenes, a wedding, rain, concert scenes. Colors: dark scenes, some warm tones (desert, church), rain is dark/blue-gray. Mostly dark with warm highlights. Hmm.\n\nB. Queen - Bohemhian Rhapsody (1975): the video is famously the four band members' faces lit in diamond shape against pure black background. So it's mostly black with skin tones (warm) in the middle. The barcode: mostly dark brown/black stripes with some lighter tan stripes in middle? The image starts dark at left, then a mix, with lighter tan stripes near middle and end, ending with a light tan stripe at far right. Bohemian Rhapsody: intro is mostly black (a cappella intro over black). Then the piano section shows the band faces. Middle: opera section with lights? Then rock section, ballad section with the band playing (warm stage lighting?). The video is mostly dark backgrounds with warm skin/light tones. That could match a brown-dominated barcode.\n\nC. a-ha - Take On Me (1985): black and white pencil-sketch animation with grayscale. Average colors would be gray, not brown. Sepia? The rotoscoped video is black and white. It would appear grayscale, not brown.\n\nD. Sweet Child O' Mine (1987): video is in a rehearsal room, warm tones? Actually the video has warm brownish/orange lighting in a warehouse. Could be brownish.\n\nE. Linkin Park - In the End (2001): video has a desert-like futuristic scene with grey/blue-green tones, a flying whale? Actually it's a CGI desert with grey-green sky, and the band in a dark chamber. Colors: grey, tan desert? Hmm.\n\nF. Imagine Dragons - Believer (2017): video features the band boxing against... colors: dark grey/red? Actually Believer video has a monochrome reddish? The video is mostly grey/desaturated with red accents? Hmm.\n\nG. Nirvana - Smells Like Teen Spirit (1991): video is a smoky gym, dark, desaturated blue-grey, with cheerleaders. Dark grey/blue tones.\n\nH. Stressed Out (2015): video is in bedrooms, warm tones? It has sepia-ish home video feel? Actually Stressed Out video: the band riding big tricycles in neighborhoods, indoor bedroom scenes. Colors: warm yellows, browns? Hmm.\n\nI. CoComelon - Baa Baa Black Sheep (2018): colorful animation, bright colors, blue sky, etc. Not brown.\n\nJ. The Cranberries - Zombie (1994): video is sepia-toned! The Zombie video is famously in sepia/golden tones with the band performing and war footage golden-tinted. The entire video is a golden/sepia wash \u2014 brown/gold average colors. That strongly matches an all-brown barcode.\n\nYes, Zombie's video (directed by Peter Care) is entirely sepia-toned, mixing performance shots and Sarajevo war footage, all in golden monochrome. The barcode would be entirely brown tones, matching the image: dark brown, tan, gold stripes.\n\nSo answer: J.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "We need to identify a YouTube video based on a color barcode of average colors over time. The image shows vertical stripes of brown, tan, dark brown, black colors. The whole thing is sepia/brown tones throughout. Which music video is predominantly brown/sepia in tone?\n\nThink about each:\n\nA. Guns N' Roses - November Rain (1992): the video has lots of desert scenes, a wedding, rain, concert scenes. Colors: dark scenes, some warm tones (desert, church), rain is dark/blue-gray. Mostly dark with warm highlights. Hmm.\n\nB. Queen - Bohemhian Rhapsody (1975): the video is famously the four band members' faces lit in diamond shape against pure black background. So it's mostly black with skin tones (warm) in the middle. The barcode: mostly dark brown/black stripes with some lighter tan stripes in middle? The image starts dark at left, then a mix, with lighter tan stripes near middle and end, ending with a light tan stripe at far right. Bohemian Rhapsody: intro is mostly black (a cappella intro over black). Then the piano section shows the band faces. Middle: opera section with lights? Then rock section, ballad section with the band playing (warm stage lighting?). The video is mostly dark backgrounds with warm skin/light tones. That could match a brown-dominated barcode.\n\nC. a-ha - Take On Me (1985): black and white pencil-sketch animation with grayscale. Average colors would be gray, not brown. Sepia? The rotoscoped video is black and white. It would appear grayscale, not brown.\n\nD. Sweet Child O' Mine (1987): video is in a rehearsal room, warm tones? Actually the video has warm brownish/orange lighting in a warehouse. Could be brownish.\n\nE. Linkin Park - In the End (2001): video has a desert-like futuristic scene with grey/blue-green tones, a flying whale? Actually it's a CGI desert with grey-green sky, and the band in a dark chamber. Colors: grey, tan desert? Hmm.\n\nF. Imagine Dragons - Believer (2017): video features the band boxing against... colors: dark grey/red? Actually Believer video has a monochrome reddish? The video is mostly grey/desaturated with red accents? Hmm.\n\nG. Nirvana - Smells Like Teen Spirit (1991): video is a smoky gym, dark, desaturated blue-grey, with cheerleaders. Dark grey/blue tones.\n\nH. Stressed Out (2015): video is in bedrooms, warm tones? It has sepia-ish home video feel? Actually Stressed Out video: the band riding big tricycles in neighborhoods, indoor bedroom scenes. Colors: warm yellows, browns? Hmm.\n\nI. CoComelon - Baa Baa Black Sheep (2018): colorful animation, bright colors, blue sky, etc. Not brown.\n\nJ. The Cranberries - Zombie (1994): video is sepia-toned! The Zombie video is famously in sepia/golden tones with the band performing and war footage golden-tinted. The entire video is a golden/sepia wash \u2014 brown/gold average colors. That strongly matches an all-brown barcode.\n\nYes, Zombie's video (directed by Peter Care) is entirely sepia-toned, mixing performance shots and Sarajevo war footage, all in golden monochrome. The barcode would be entirely brown tones, matching the image: dark brown, tan, gold stripes.\n\nSo answer: J.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 504,
+   "completion_tokens": 966,
+   "total_tokens": 1470,
+   "cost": 0.0005586,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0005586,
+    "upstream_inference_prompt_cost": 7.56e-05,
+    "upstream_inference_completions_cost": 0.000483
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 738,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

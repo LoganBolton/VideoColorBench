@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907289-Ibc6UOeRpl7o3LlLDTRW",
+  "object": "chat.completion",
+  "created": 1790907289,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, not a confident identification. The image is grayscale, so the film is most likely black-and-white. That leaves Carnival of Souls, House on Haunted Hill, The Little Shop of Horrors, Night of the Living Dead and The Last Man on Earth.\n\n- **Night of the Living Dead** is mostly set at night. Its barcode would likely be darker overall than this mostly medium-gray one.\n- **House on Haunted Hill** opens on a black screen with floating heads, so its first stripes should be dark. Here the start is light.\n- **The Little Shop of Horrors** is mostly evenly lit interiors. That doesn't explain the two distinct dark stretches, at roughly a third of the way in and near 85%.\n- **The Last Man on Earth** would also mix bright day and dark night scenes, so I can't fully rule it out.\n- **Carnival of Souls** fits best from memory. It opens with a daylight drag race and bridge scene, matching the light start. It has dark night sequences with the organ and the dancing ghouls. Near the end the ghouls dance in the dark pavilion, which matches the late dark band. It then closes on a daytime beach with the police, matching the lighter final stripes.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm narrowing down the black-and-white film candidates based on the brightness pattern, comparing how Carnival of Souls, Night of the Living Dead, House on Haunted Hill, and Last Man on Earth each open and close in terms of light versus dark scenes, trying to match the light start and darker mid-sections against the barcode's gray distribution.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm narrowing down the black-and-white film candidates based on the brightness pattern, comparing how Carnival of Souls, Night of the Living Dead, House on Haunted Hill, and Last Man on Earth each open and close in terms of light versus dark scenes, trying to match the light start and darker mid-sections against the barcode's gray distribution.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 546,
+   "completion_tokens": 873,
+   "total_tokens": 1419,
+   "cost": 0.019644,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.019644,
+    "upstream_inference_prompt_cost": 0.002184,
+    "upstream_inference_completions_cost": 0.01746
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 464,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

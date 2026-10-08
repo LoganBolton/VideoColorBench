@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954636-VqYBe2mdeGM1FJXC7TtR",
+  "object": "chat.completion",
+  "created": 1790954636,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Silent House (2011)**, given the sustained dark, muted palette.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing film aesthetics**\n\nI'm thinking about the visual aspects of Apollo 18, focusing on its monochrome usage and warm rust tones in large regions. The interiors look yellow while the exterior is black. It reminds me of Silent House, where the final scenes shift from dark browns to a luminous gray. In that movie, it ends on a dark note, but then the imagery from 1984 onward feels brighter, especially with the brown tones. It\u2019s all quite intriguing.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film aesthetics**\n\nI'm thinking about the visual aspects of Apollo 18, focusing on its monochrome usage and warm rust tones in large regions. The interiors look yellow while the exterior is black. It reminds me of Silent House, where the final scenes shift from dark browns to a luminous gray. In that movie, it ends on a dark note, but then the imagery from 1984 onward feels brighter, especially with the brown tones. It\u2019s all quite intriguing.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8yYFhmSW4nb2-r7HFd5mIwgDG-HwxbphOxYGOv7ZsngpnpUWBgLreAWd4gU7ngfv9QYqW4_aT7XgABugSGieLMCBAEAoLoEN-mVNXMaSntseR7EmRRlIgvnUoWn4zhkSUiIwyEAZ1uNd22HrY_kecoTU45Ct7lp4cn954oDHuxis99SFxc-Nr6t1VnOniUasXmaXp4ApdZ-M-hkrqItQtOrV4t2g37ICJJ2yjZKZxy02iZ2idiPEmdtNOZCWJukUh9ExFtlE9DwQGltJYtNyAyD1lRzjiM_I8veVwJdnxd_nv2hgut0pnetncHpgI4dfEMy6oTAT_Yz3R2vcszSsxPXQcClSRGFCSDrIPBa0JQjAC7mCC-Y4pcITCbZGamFCDuf7FRyCi0-Wi_3GI4rbQtjeuPeRpoYGO_cwsc-ZksR1SL2APiLswlcwkdtY8mBrEMkIi9JtAxZ8snzktelam9lKvQDuyiedKsWST6SVwMeNkq3ELUrIEScIjWSxVzsgstXtZhakBug6vD4IjtcK9xD44YDLdgWgZfiV2namoWPRkXLaVjXjMuoBi1WpsodrSETeZ-dFFvXy-3GToy6KxlQwUTcJpxcjhMAaldMROkFxjf04uu0bTnaIhIAun2RAzeQiaQ_y7S5t_WOu4RjpgyCukQAxX34ctsj7KvIvywPx1IQ5gyaZACpqBEs1wCU-sHHvv2uZ_WjrtbEsvQn09mALPeMR4m1_7DxoenR4KjJhzoKVdOmWvo8AxcnqpN3LCbx-I6Jk1cbvPy0pimD-Je5ZPA5-pukzYSBakFqJdC_TGtl9LJJzHERk8UawE_1Zd07I01sktcBNAixq8CY0GjnEWMWCmH5thvLt-oEIG8JTEQvV4Esu4oJXVxi_OLx7P686eiUZwCYJPYOXrEPOLB8rwPLrFvmHuakDzj-aG0i17tpXedzohHAvdrRpmjrqfNfdum-8rsQpfc0sKq-RQP_AAOds5fHc3SZBR_VdKDPTYlELctCUC7IoA9BOhQ2vYfTRmIoy16VG02dlvO-vEETIdk5vGy1SU7iD6EcTxsdDwfxZuVgTDEGseSGZ4_DsNP7hSs6tNeRWFZYvFd8ETm3cTJ5eBV75Vc4JZjFF1SDcN_eFIFULvuVTTWMNcXnwFIwmmzI0BGCAnzgyjXqcQXH_2WyGh5qdvRql0tyoN3kXT3Nz5CAUPjNw5kTCYAG2JNAlKLEyxADEYOa_qzXiuuLypaJUmSR_sz-_R9RRrbvw4NK0e3K2MGPRFxi_iIxI304p0lg6NNs2giXlf3qOjFSFrlRVemeN-R5jZpnCKqqR-FrTKeOfFEsJffawQK-uTOXWj_u9XTFSPm9WgMh2HckxSICPOevDPCw1VZ1g_QNQVze-gAhXfa5Vu4RBgse-0LLaSY50HhZDDZCG13cEf1JlZ1KQbTU6yxL9MaUJmPXICsnT_mAcqQ_m9fA5njItNYJx155dAygFchzVyQNLLtwdLm5xMDkdkYxqb_GmiVXBoq8kcMF5vRsWatsqqiL9YbG4OtvE988HkaKU5TV6DIyy0dXZFcOgaF1XdzpoX31Rxm6gzwmIHABNobshSDfzOXeKNz1oNlPclM9ZiCPgg2YkIdLAD7Chx4a1vWwmMXHgxYsjzRbBRVzT8Xq9sWbiT6ugSSZlWqYsX9vTj2F1vdSEI2zpz87PGQas-D7FCgvJ64EEwNKWYckeLq_7I-zRJ1QaZMSnzCxaR-tgYrWdQsVHKp9JCabg1DKBGIXtbAcMhJ-9j2k9xsby8PapTUx7dvpile5EwFNFhr1RVu1tred5jfolxuIdJs46whqCMe8EtMaTotC1CxvLRZk52OFbMyxj1xT9KsUqMVF_DYywB1jfQzgo2gZ3TuzQATCU_8OQnG9aQTUhXhCsXzyEfiyViFJsENvSJ85b1wpHXKj_DvK4SxddtS4rIyXT7S4ZjorXm1fal-YPiqQRa3CSAGxGuJX-29o4T2VP-Pf2ZUHZSkLU0s3AnC2KyM9PntfY1qfCy5OJI1_ZbeeM4V6XcqQv0UMFKCGQy1HQ26dZGA1ZTv2eMBa-QDCdXim9va-zXV5oD3OUadlKBSE9JGHNZCCeXQ4JcskvNNabME0cPkuDQeBHezVg9fmNpqEQ1N4jH7Jhux9mG734O700rk5paG03Aie2cLHMVayTl6OZ4nFcBYvGZN5zwEx3PR2CfRL_TxSg5jckaCBiLDeWlWorSeLPUUtXPG34FDL7Q2qRCoMTp_5CsO_X6vXL0FFhLMxN7pjoVLx7f17fEysYqqQQqmo6r8ayQihAXQIjl4D0p3i5b93P82wIkJ9TrZYNFPFzFr9_EzNiLem7Szy6KeMq-87bfJoPHgLYuWwiWpIfZgNDGdgsjeidSy_KF200hvrVT7fpidXxK0TJdaGDQ_NAbm4FgDcsiPvjFUV3Y1PxiHMGdfObGGfUNhj9FGQHlmlFrS9t3EFUac1dLlBCeDgg9Iyh5IZSr2LKEPnh87z9p8wE8jyuc63u82rQ5p49VmEQ5ESZD2XYS8nLSytTIycLT1XUuCglFB1TWdyIhzrwaUO2GpfkV5FohsW9becP9g_Ukfp5cYg4iOgJ3hgJL3Bh4BHLQAN_aDYHl6iX3cRVPQ5XtQjcjmUtw_yj6UMwZEB6CoxzYEQZUuyjvE4aGhDQ8PiLcMo2obTOXOugiwiTOCpNBFD6f_g8ICgzUYlVcNswdPpkMyxUsx5lnJUzBhtwRX-t8eGVAO3LxMB4s3doCicl2hbMBJaccG-X-cw0k9fKZ6z_OxJ_2G4zrbdHB9INXC_Odjtn2UEmhFVs_9Za3VacIeD5w6aX8rCiWIfOKXXnBc3pmrSHFfp6mGFMf3JsgULE165jbs7bXcIJk7t_G3x9Jz_ON4tZTrjyObGmNDvmXu4R2QyTzGGGKThPJEE2OJNuzomLw7oXdQa3vUUqYDKo9MqGqBttomrXFR4TzMME8zz3sA=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_028e1c93dcad7dee016abfcc8f2e0887d18c2582925ef33214",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 302,
+   "total_tokens": 736,
+   "cost": 0.01944,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01944,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.0151
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 273,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

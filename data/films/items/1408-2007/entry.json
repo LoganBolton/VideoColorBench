@@ -1,0 +1,21 @@
+{
+  "slug": "1408-2007",
+  "title": "1408",
+  "artist": null,
+  "year": 2007,
+  "label": "1408 (2007)",
+  "hex": "#434233",
+  "rgb": [
+    67,
+    66,
+    51
+  ],
+  "frames_sampled": 6264,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ELOQ0O2kKGU",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "ddu-du-ddu-du-2018",
+  "title": "DDU-DU DDU-DU",
+  "artist": "BLACKPINK",
+  "year": 2018,
+  "label": "BLACKPINK - DDU-DU DDU-DU (2018)",
+  "hex": "#624B64",
+  "rgb": [
+    98,
+    75,
+    100
+  ],
+  "frames_sampled": 215,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "IHNzOHi8sJs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

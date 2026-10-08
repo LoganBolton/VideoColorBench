@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894498-Ak9Tmq1FewJoYJbxIufU",
+  "object": "chat.completion",
+  "created": 1790894498,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are mostly muted earthy tones: khaki, tan, olive and wood-brown, with occasional touches of teal, green and rust-red. That rules out the bright, saturated look of CoComelon, Pinkfong, LooLoo Kids and Miroshka, and the dark, high-contrast palette of BLACKPINK videos. The warm wooden and forest colors best fit Masha and the Bear, whose episodes are set largely in wooden house interiors and woodland. This is a best guess based on overall palette rather than specific identifiable scenes.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm noting the muted earthy khaki and brown tones throughout this Masha and the Bear episode, with the forest and wooden house interior dominating the palette, though there's a pinkish hue at the start suggesting the title card.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noting the muted earthy khaki and brown tones throughout this Masha and the Bear episode, with the forest and wooden house interior dominating the palette, though there's a pinkish hue at the start suggesting the title card.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1wYKEAgSGAI4AUIIdGhpbmtpbmcSDBZu5X6Q8VP7qkdmuxoMMIFWcya910XHfA4nIjA8VthsEe1cP5jTp8pXr9ddDxeuYd+X0986K1OU1Q6XYrOki0P3qmo6Elta5xya8Kgq9AVVTjJwspL6q5MJwjmbggjCoTLhcJuR0UJ22pbkRF7dLXSC9ozQdeiPQ3Ozc3u30g0pSsBrSsEoY6cSXKiGvTzYvkdxK5FV3npYThnCKPJEFGdHR0Nt5r7JGOVX7y1lsCekhnl3c61NV7S8STe85WXFVcDohigCxpDAIxrZeFX4lmgH0yUn2sHIp+NXUqRzloXfhjgUqrSehPGJyIeItf1icEjIu1rZTgWnjBEeaX68HTQWBOq2NhfundG+2cCd9mz+7KhjGRQqaYwW1JSCm7YVFqzE8bTG4bEOiCQ6stvbu6AhipZJAlqDpaUF6Z2gAdLifqAJR7vqPXLZSzDAFDM2hoTM3bq5wJC4rMCkMzc9bqptrRyvkx6jbOWvUqL/sAcG2CqzGDmfiVjC+b8I2cJWEz5K5KFBNe0CUppll/SyScTEsZLbbIaHlIy+7O/K+3BeH3W/kPNcw/qWbuRC4RlQuSW2xLbKDYvsJO3caAk3y4Lvlr/2lfnV+/6FRC5DFO2W0cawCycPtRZei8spil/KYxrPNufArseLWH9y/zRnkR6C/0n40HgGlqsoyTs7fXhQ8VisX9mVdTaY5bg3pm5tIS7joGz7GapwZlUadjLZz1pdE36Sp2DVIm0XtOz32fLjT6zVKVXNJGV2NZ+T9iUPVr8s+3Unk0Aeqm2TTNIJa+TDmV94aAcPbtO1SxWLPTo5V7wwXMZGYrA7E/A91nh/x5H5kvxD/TZubwgEK8iVx2i7NltNvjTpxF6TWhMnxb2ODNNFjb0qvpTUKSWqAmdhNr6eoFJkxEh+mxwlWOceM28ef1GZN3l5bq/R1qc7OQUn8ywz3QBLZTOd9lUkcKrG7FGqhFRkAsWNHIglE6CQ98Hd1+hVPej4htccPCuzGWgOBY1GYPcoTTxSbUxcYDRCU6+8ToP5pEWGtVDOnhtKWeO+V0bZ7QPNkbEvsRohOXnJrflC/JgXVWU1PcPJaeb8gmyi1t61je/BmhlRaNqf/yRRZGAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 648,
+   "completion_tokens": 297,
+   "total_tokens": 945,
+   "cost": 0.008532,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008532,
+    "upstream_inference_prompt_cost": 0.002592,
+    "upstream_inference_completions_cost": 0.00594
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 106,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

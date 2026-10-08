@@ -1,0 +1,21 @@
+{
+  "slug": "zulu-1964",
+  "title": "Zulu",
+  "artist": null,
+  "year": 1964,
+  "label": "Zulu (1964)",
+  "hex": "#423732",
+  "rgb": [
+    66,
+    55,
+    50
+  ],
+  "frames_sampled": 8318,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "YWZKEkl5Wxg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

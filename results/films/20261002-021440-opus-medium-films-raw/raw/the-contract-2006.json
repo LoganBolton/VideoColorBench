@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907328-HRQJGZaMj8JJM63URPw1",
+  "object": "chat.completion",
+  "created": 1790907328,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is mostly muted grays, cool blues and dim browns, with no long stretches of a single strong color. That points to a gloomy, desaturated period look, which fits Stonehearst Asylum's gothic gray-blue palette best.\n\nThe others fit less well:\n- **Desert films** (Capricorn One, Legionnaire) would show long warm orange or yellow bands.\n- **Jungle and forest films** (Aguirre, Killing Season, The Contract) would lean green.\n- **The Messengers** would likely show yellow from its sunflower fields.\n- **Jane Got a Gun** would likely run warmer, and **The Warrior's Way** more colorful.\n\nThis is a best guess from the overall color palette rather than a definite match.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "Thinking through the color palettes of each film, the muted gray-blue-brown tones stand out as gothic and desaturated\u2014that matches Stonehearst Asylum best compared to the greener, warmer, or more vivid palettes of the other options. I'll go with A.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking through the color palettes of each film, the muted gray-blue-brown tones stand out as gothic and desaturated\u2014that matches Stonehearst Asylum best compared to the greener, warmer, or more vivid palettes of the other options. I'll go with A.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSjAgKEAgSGAI4AUIIdGhpbmtpbmcSDGDrmwtCmzWGlUzcUhoMx4zjlJaDeBnbR68SIjDfuOOTZ5IT7/63N6BB9lcdSnCfjg1em2dg040F9yCOGy/6BAjw70OeLrvMlTSRE8YqqQdQmpBgXJESpNTBesXEstEijRQ4QpvVFxyMeby9xAjlr45IlKyIKrEPpmARrJWPslPVjKuDMGFIl0nCcje4dTKHeox2+MYeZNPkKYLHG1e4D79mQAGcvt+Pyprw3E87b1eQRKiaerRMP04KIM4vTDVoWdiBvjYfXYOJADYkzstnvzQ6g5tBWLqq1gS3xArTV5eqFM/V8n6/vtcmrHMZ+XC2hZNYnZa+sQ+i0a7/cpRHznoWVlVFNDZjuHjVn0w1jXzGKK1jBr887hcXkmi+eyhmC67miqMosYX7AcjlqjTria1YkDjzx+XeEbhxIqpCot7A9G/69zO0pLKpSZIItyABiWuFwoKtCU1rqhQTPa9cpzndNNr2ephfaAemQ1Y4sNurqai0lyz+qnsFvGVhXYhjGcSyuFn4v9gX0RwcmJ5bW90YgSHzXRbPNPY6c9Q1IrMPtpQHrkurfoI2hizB4A7P+L+gWCozEJzMS4YKvzPg3+VJMv3mRgqz5JMZCJ32xmSKPUa7dMKLQzK6/niXLZk0y0tUBLVF+1k5MBwxQaRLA8VEYsiszCQAArd9l6NuKqPMvKL2NoTC31Wj6UEA0TxKqv8/QcfKJhAg8shmcv39tvLgvHDfghK20/Rc7uH+RV0zZyS39bkFTa3GqYPyvNaO+DIVNNdtdUzqSZObtn1S6wMq2Bd6J6xPf8I4q58S51Y9Ns9NoOwnTv0LXTzZXnPpoyWdEObvXvDg8UG227Ou15rpRcHfzAjuKUUr0dgvfJnNbneavFrPR0DQO0GvD6rEE+C+by48Fgmb1jUWWlFSgrmX5vEIyK4zqEAAOFjbRWZRwMRJ7A3VvWyTGyCkqxjG5U/ZC2Mn3kPYN80XcE/kBFLH2RLphNNwJ9673KcAsSBqLV3NljJ99WmRkFUYfWYAo47QvnjmKQAI2tLQ7gCcFYXJ0U3Xk8eJxFAS8MUBTZwTR6sq9aNTwaF/7qCuT9xI6AystZ3EbiHVPSdfl1Di7EI8K27ie9YhwXUFit+7Y40u7KwdNhOZh5t4q6Wkld3GLIDLjaxtQHGNs0V1KAl1c67ywvxORD3TmduH5QKR1SFv2SFpgjJhqMoEhuOC7ug6bInyr2mrJAD/GIXCwht7U16DEw90Roa57moQayJ2r77NjBQFK94d9f0MRb+tJ8EMqFn0iqNCa3U1vsLXwuyuoIJLlZU3pajFsydNvj8jLczBKJcBNONRTQAD3HY7PHUXHMwszpi85YG8GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 434,
+   "total_tokens": 961,
+   "cost": 0.010788,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010788,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.00868
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 184,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

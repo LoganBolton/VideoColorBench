@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894479-7lYt7TNPHASRhLvrFNkj",
+  "object": "chat.completion",
+  "created": 1790894479,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Katy Perry \u2013 Dark Horse**, though I can't be sure, and **Swalla** is a close second.\n\n- **Opening:** The video starts with a long run of dark teal and navy stripes. That fits Dark Horse's opening of a pyramid floating in a deep-blue space setting.\n- **Middle:** Bursts of gold, orange, deep red and green follow. That matches the Egyptian palette of gold jewelry, red fabrics and green accents.\n- **Later:** Pinkish-beige and mauve tones fit the later scenes of Katy Perry in pink.\n- **Ruling out others:**\n  - *Sorry* is shot against a white background, so its stripes would be much lighter.\n  - *Johny Johny Yes Papa* would be bright cartoon colors.\n  - *Hello* and *Chandelier* would be more muted or monochrome.\n  - *Swalla*'s neon colors on dark sets could produce a similar strip, which is why it's the main alternative.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm thinking through the color palettes of each music video \u2014 Swalla's varied colorful sets, Dark Horse's Egyptian gold and blue, Side to Side's pink and blue gym aesthetic, Shape of You's boxing gym tones, and Sorry's bright colors on white \u2014 trying to figure out which ones lean light versus dark overall.\n\nDark Horse opens with a space-like scene in dark blue and teal, moves through pyramid imagery, then shifts to gold and later pink and beige tones with Katy Perry. I'm settling on Dark Horse as the answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the color palettes of each music video \u2014 Swalla's varied colorful sets, Dark Horse's Egyptian gold and blue, Side to Side's pink and blue gym aesthetic, Shape of You's boxing gym tones, and Sorry's bright colors on white \u2014 trying to figure out which ones lean light versus dark overall.\n\nDark Horse opens with a space-like scene in dark blue and teal, moves through pyramid imagery, then shifts to gold and later pink and beige tones with Katy Perry. I'm settling on Dark Horse as the answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1goKEAgSGAI4AUIIdGhpbmtpbmcSDGT4hPcESO8vEnKplRoMXA+0hcWBz9UTj7G7IjDjJoCZjo1z4UxBDOZzoe0O+lISeKZMVle2EokNC+pyh8Exzrwcp6Jq5f96Au+qJ+4q8wle0f4pok/d2QU5xjv26hpi6jZZoTB4cHps5ruxOKBaiRXgtpHE3yCoA5Gq1iwPzifNuFhlDe5klF6Rhs7N3V8wiAW7uN+VpZZEBu4uIRuB9/I1QNTmWzphp0advQH7pL3knUbI+CIamdkZTOlNHXB+JbEcDuf6JN53C8+zK4hyKQUwzdMUbdfa0y9quz3I0bbLw7e1jOsTgF4xqDShAQk+i1YP87VcZ5IEw5BZjA2er+LN2QCqLJLoVcSwH/lZDn7Y2NpLuqg6GTavuFGPYuI3zY0bXe0kEUKAqLvrzVdYEovr1ekZCKnh/Pb8XFe9fBOnK6tLIh7/qW+9uzgni+9qYPYOsJ62bBqdG6gOWiYaj+qi48H3xM0rW2v8IKFKSeci2vngDELslq4ohnMoxZE8idc7Ge/fThMukYjHHjinf8HB6qA8JNVyTiAi6r0sQxtX9Jd+SzBnQFszv3KjRkS2lUL/Q+C8YjtpURzcygX/Q6uajaBo1mYpe0eaXHAwA0CLnJs1jbKlcd5T6HV8SDOZZPWNaXJcYVPAbilaNl2YOGO60kkar0QKQLxy3857fh6Qe8noeLjAc3towoWKlUypL+RAO46eysuontb5NkZFZQDoJ6b9OgilSjv0Dzw7BTRYPOMa5ABxtRsMn5olKPmz0h29r+LkwYPLDrl452UWIFiVfMnm8Gs1Qp5oTuF7q5gSQaXzxx6hBLsYQ4beQli3IyZWhYLm4/+pMcBVfQ6EBBczgmznKrKgblzZUNsonDcJnH8h/OY8ZSFEJFRO1N048VBibUNq6oimLWmwmJWykIBj9BzAzrqYL6zFzOoBUc1ZAEqZEvuwH0dGCoayge3iBsNbKUYtqio0B3KCmq8slMO+7m5fhJXuVB4E7FJ6RbIcNVbmXwgsheUBPTNZ3qxwskALip2J21sVa9VbVthgKNtn+KuFBuBQ8RUs4pTSRx4EVgif8zaPgUyQHp0mTylmAMDrtZ7m2gXKSJxap3THuTQ87lz1qpcwfNOn49paxwAQplxeEMyqZmSYz0W7s/M6uW7JbWFMYS/ezGClMXtkd8Tw/zcFmzjdrZLdf5BC3kwyY0IkzyERLXvDkcmZEsmRzcwsEbOKdQ4YcBQ/9JJxrI+bjBnff7771AXO/O2wAi2epWnTGBzVmXrwb07/D5EE+vlymMtQIkbta91+mot3Qk6x0StCGG+U7Jcmnmly1FeXhaz6NUR9f2pPsSKdZ7G4cLOrkYjRIv68TrzaDJo7Y7J8O1HZxBquLbAV4e0kwV/3px50QAnRtKOLG7MFGgWm3vST57O7wv9Y64gpikCvt5FSWDK/YnodYQIibmj2WfaWTE35YSpFQ/Lo64QtWYJHeLglHMxzuGLOzACFI48d0Ygu58tztCOotGSrem2geWfHtS9yzTqPthHZp+q+aUMJog0fb1RMGj41dCH8tYGT9GucPxm44vcWGlVQ5XkIRztpcb8E2osit15ukle0uTPlnQmIbQCY28o3ONg7I+bicpa8DcFVuIfv96um8aRo7+O5TPFMu8bQWAcp9Qrve3EwIj/O5YoCo+Bu+QKu2COENpTJ4Xh/7laI8MQdac84EdkvxcfOCdF/p/nv3xraPcBWX1j1rtnZCGS0Q74BvLicHRwJRfICN9qabrOGCwIkhZN6M46w1YbhnYnaqzO1D8nEoen1GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 655,
+   "total_tokens": 1305,
+   "cost": 0.0157,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0157,
+    "upstream_inference_prompt_cost": 0.0026,
+    "upstream_inference_completions_cost": 0.0131
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 317,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

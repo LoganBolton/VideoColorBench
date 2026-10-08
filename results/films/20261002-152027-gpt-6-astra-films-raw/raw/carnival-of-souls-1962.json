@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954530-0NMN3p7nQVEfioMtkJOJ",
+  "object": "chat.completion",
+  "created": 1790954530,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Night of the Living Dead (1968)**, with its grayscale palette and darker nighttime sequences in the latter half.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing grayscale barcodes**\n\nI'm trying to deduce the pattern for a grayscale barcode based on an old black and white image. The image has a bright start that shifts to darker tones as it progresses, with a last segment being gray. I need to consider elements from movies like \"Night of the Living Dead,\" where brightness varies from outdoor scenes to dark interiors, particularly in the first scenes. The analysis includes detailed timing of brightness transitions, making it plausible for my grayscale assumptions.**Considering haunted house imagery**\n\nI'm examining a scene from \"House on Haunted Hill,\" where the introduction features a black ghost\u2019s head, set outdoors, transitioning through varying brightness levels. The image starts with a mid-bright quality, indicating a shift in tone. I also notice that \"Night of the Living Dead\" concludes with a photographic montage that fades and isn\u2019t particularly dark. I guess I\u2019m leaning toward option B, considering how these visual elements play out.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing grayscale barcodes**\n\nI'm trying to deduce the pattern for a grayscale barcode based on an old black and white image. The image has a bright start that shifts to darker tones as it progresses, with a last segment being gray. I need to consider elements from movies like \"Night of the Living Dead,\" where brightness varies from outdoor scenes to dark interiors, particularly in the first scenes. The analysis includes detailed timing of brightness transitions, making it plausible for my grayscale assumptions.**Considering haunted house imagery**\n\nI'm examining a scene from \"House on Haunted Hill,\" where the introduction features a black ghost\u2019s head, set outdoors, transitioning through varying brightness levels. The image starts with a mid-bright quality, indicating a shift in tone. I also notice that \"Night of the Living Dead\" concludes with a photographic montage that fades and isn\u2019t particularly dark. I guess I\u2019m leaning toward option B, considering how these visual elements play out.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8wzeanA91vKbrqS4O1eZcqqbhWctw2sSrtq_KIQCPfZhK7YrLxTWFj9yUn2KZENdAZe0qn9N6_In_x6NejqN7QKaWFA6GwQlq4ya8iMtU_Q0tZoIGjUCm3av4pRh47DMoq9njuzj7-6xpSuzrvd-Qe3iarZD1kVGEGlTg97LpmoS7kF_f9xQ4qtQnvl_i4zsmzLykSbmv8f2YFaoaCQcnT6KCUcv2E8sK7_FomWDBCP4UjFyEEqKuDwgyTfQx-RjR3IwrtXgIGDg4XBcm7IUsvWXKxUhljItScQEz037k3Nb5gtaz7X543DUixkf5Mek1QccRVJ_IR1q37UNxDNjtow1vhr4glwcSR5AH2PKucxUeFaZxyJamxnaSDT5bf0NZgek9vTMwvrK7VY16BqqFhiFIc7a5pDZaU3ea3mPkup8HMxlsqovf1FPHWHMob-OxAlNcn72UGjgpVCR6LeKSaoj0PzyDC6jZR-PBEQoyPOS_-MtI420CInYfXA0BuPrk4v8c51WiJd7ffR4o763rDOx1x042-LtoB_0mKr5eYmuoRUlcI4FBXozDUi3cC7KaLEqhhDdpeXEz61OQEEe9ZrzpVg12240kGALjyfoYwZZ7a1IoI9c-Ncpb7hX93ZI7uj2_0E2ktPQa-qoXAAjdQIc7d4gwG0630acgOUX0_nDeBaAcsLAn50T08cz76Lst_jN3RXOTDlQKGfKceFBXhrhPx-FocskaCF9rNLr14FQCFliZv0EbZMvkO_1S00ZfEMIm1SIlKiuOzU0g4GvD3BHMoZqdl6li-M8N0mXbi0cT0lEyIWRT4VKB1RKtCg02DMDSdydtkI7tTIgak20VIpsJiKXKUlZo6_tKAeDxDT2NoxfN9lSiaWyGyR8D9m8GD6FUCN5uP_TXxjPXE5fyeHWe4xTFrFYZNUDg7l1rNFe0A_UiIkuAVNjDjevrlCtvwhoWKdh9xp9hV_ZxpX3ltffLu0GlnDQvQwMXBAxOyX4bNkNR9SUMMjiCEtar2mx9zupKea-TEMEmK6Q37s5Y5hFXZjrAqyvUtWsn0K-13OTSl0Q1ldHdge2igB8UNcQJSYGNdjmr2bC70dlMpUea0reekyr9mMaGmeMi65UF0FX2dnpTYmlWmenaQUKs2VzDYKT53n5skdcuHmr6iZ_jPIfTcGb1zP3N3QdhOxZ8cQTQKSfTOU-PpMZk82zM7Ff8Y1kCxD7Vw-UcWxF4pK_dkcLyPQkkdBP42ABB4KBQhQQKFpb11wGIKxU5qtjTuSTAwH8U8ezp_DVCKROC3zbxMyYT8CgFc36m6tkwk94CgOIVMspo6fhE3kCSGQL7Ri3LEMw1lzbERa4c0gj5IZfdOFD6Qo1i6092aKEC3tdLhvbkbxKXzaGtm8PF_vCaNdsOCiBd5A1-8W6ko77e6ZOpYquaO6JL84e1Vmt8Ll4m9iMmi1Yp6atXLMtuvIKLuy7_3OVveobfEIlMvoMq_m-I4GOGmmvUHrOnpuxZevYnBCu-vQNZSyWN34wX2uMaokh8i60lI4eycFydFfAGp5_uUEozhLgkknVln60Zp5Nnqu_TQEENtlampNpZhUvRfEMrIacZp7jZfhItu0lmaAFA014EvsiQ6fdic-J3osu4cPxNZlVmHKL9feJfhBUjj7mNDQNMYp0TUv1qWRzX9ambx0-prKIIXpLVOsCgJDgfPes5gO0BohTUr5TUdyMFw-0KWYj3IxAhlj79RyT_BgMTuSFjHYTFhB0tD84HqPk5Vd_Ic5LEsGxT7DkHmRHm_Qgx71ADcmmZgqUlaOywH4xQUcYaGSpzrFysQWZCqD5P-pQ-7zl2n9avDb2c7rvojhyaoowvoH9Bid1rNh2uPcLRhjXc-vJv-eKaO7eVpGhAS12H9kvyqlbR4ZWqeyBzqTZUQ14K9LjjHxGB80Q3XnHweOyd386dRsRLdBHXRb4BYMbsYH9aQStoBorr4B_-u2_0zk-lYLUS11Phk4QcCwPP2k9Sfk6shM0IYlWnxwXsXLEXk8BiBC6jkYf3Li_l8DzS8VDye3LZWSAUuQAop55dR3ESQu6Qhd8g9kDqlI_ou4hVudS3JDe0Cy2HhaoN51mxiJUhcafcl6V74OGGF21ezRrkLYLjtHFJ_pIbjymanyyfyWMd8YEO6Rl6tOZ5Z7Z2VVRaBtTYfFFBkapNr8wt9SXYg4uvo4BLFjOk9OV3fHajGHn60wpPoKkV986F4O-ytQM0b_fFSMzf62PCa_IXdleU6lWvDeGxf5_0V5bzOPqBvD5mR2AZWBiNqPpUZwrXouvmwLg14DJcYvxfZRfcU4A5yYT0-nFMzpD5vraXRxUqsdtJodx6Zmr_IKBaWg9ooJwzuIzBd89yIiA1ilJikAkuaZI5pSIXaN11FVNoPb60doUopJVXJBNpAWFWHxFHowigao7ILHxRedJJOgvbFJ4WI6HcH35RJ8QW-IYPCIWj8-oXPHIqwTitfWSq8HIv3128OHYBouMOAnyGzWmabS7AJ31l1ftkq1FGgwOwietMLDKcZ82wWaFVb78x1vj4TXyFJWznNZfvRggNRB0BMd7-2tMH91To-aQ5_ojChEAu6qTvTQc9dNzekhBiwTqLtX_Nmq3njn2zp2IICCKT8P69HLMQAK3os_AOh89ALJcI04JO7BwXNE3XnnBz06pxMkYLZhrzbOWi-zzo7g3JmWYkbMgZxG94AJAz8TGD2vENTmVTaBowSlOgSJ-gd2boPi.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0277e10523c19d3b016abfcc23e1d887d1bf17d51cca1d01cd",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 278,
+   "total_tokens": 720,
+   "cost": 0.01832,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01832,
+    "upstream_inference_prompt_cost": 0.00442,
+    "upstream_inference_completions_cost": 0.0139
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 241,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

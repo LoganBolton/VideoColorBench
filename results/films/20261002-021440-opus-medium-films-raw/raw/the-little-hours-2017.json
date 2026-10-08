@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907364-MeVm11IKHXJ3kbdBNSNU",
+  "object": "chat.completion",
+  "created": 1790907364,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette, not a confident identification. The barcode is muted and desaturated throughout: grays, gray-greens and dull browns, with no bright or warm sections. That suggests a subdued, clinical-looking drama like *Brain on Fire*, much of which takes place in hospitals.\n\nThe other likely candidates seem to fit less well:\n- **Security** takes place over a single night, so I'd expect it to be dark from start to finish. This image has lighter stretches early on.\n- **The Little Hours** is a sunlit period comedy, so I'd expect more warm, bright tones than appear here.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted, desaturated color palette against candidates\u2014Security's dark mall tones, Brain on Fire's grayish hospital hues, and The Little Hours' warmer medieval greens and browns. Brain on Fire seems closest given the consistent muted gray-green coloring throughout.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted, desaturated color palette against candidates\u2014Security's dark mall tones, Brain on Fire's grayish hospital hues, and The Little Hours' warmer medieval greens and browns. Brain on Fire seems closest given the consistent muted gray-green coloring throughout.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrwkKEAgSGAI4AUIIdGhpbmtpbmcSDGxnJaM+Jqc+qA/HJRoMRYPlfomwMnmMCaDsIjD0JtjQpkO7mtewsAloLxboEWBeFn+k77PYSAi73eg0FjLp/dwmGljKf48RrqNbjHAqzAgXDyR7dK1oGYGBHxzMKvpxLXXvZl8bK802hGXNGfeohRfCrjeMXZz9OSh59UhmamLjVNL8rYoHmO3ek0GjER4IhZMWqIc0yFdr54aTkDdyM+VWHRc2N5S173rrt2BFuXdG2xyBQgWM2YGsvNdVFPs+qSWP0ZyjNZYnE3OtW0YTxtpbTL6BVgiXtsAealGmpAZJ/2URWOAqbpA5v7tjfCu40tmbpumLNGaNuWuC7U6nKgNX6DYYEOZ0w0WjH9mO3LxfMWEj0FZPwFaChQRZuK9sZdbBizoMz5QBFqcKbRYbvYjXYCB1/S81xHq7A6sqbG1uEAxdSvBcmXr5gZfaRlmj3d3bN1x8Tnlr4mYflw/r6sfKbVxOgdC+tOVDFzpAriY0O8W3Pik9U9ru5md9qn5wIzWM4CC3CHONNKtzHc4LRKQ7eIun23MA5y7zIWAYSDAwxYyckJW88A5S6xKgLMJqZ4anFzA2hnB/UCgegtmG5jqpufww/8IWUD8tdPGZkTm3ixg0g2QAQwZPyHZgPABfdCyfMmb4zZjRs8YUaK3cUbtp+KSBgtQs6AIVTNxXHy476bHwXDDMIuY65Kl2Ap/f/FASnCdRN3DUsxvmYZQ5BwLAsapesqvBBFM6FSpjI3ODZrFhtgafhMUsEWwveKIOoVt6ekcjwQxxTAJ0+aFF+674DzLfp7m9cfPpafOwTm+rmj0EFJWajdItIgPYPgKxHYIQNOFicEqvLv/FLum+2dXT+FkWKaDfPo4GyNeJ1bKd3sXYc9LKjLFnB61EsOClYoqSsCxmiHotyfhVpZUCern0sn6PMzuZA9Y2Vo/GfYeCBM6U9SCobFC6wHvt0Q7/zIuFhNnzz1gA/bme3aTOUFzgZlVKVnsb3KT0goydbg2cvQkp+UU5bbaEqdZ35o5UsIyfPpnhocP/ES9QzcD4VwMdfiCzlZKAQb8FeF7FprfSrAos/ph/+ulsZm3is+dmHP/N55tG0FtL7zQzi7RUtMieotpKPy04l7KttTJqfv2Ct9hSNzVC0u+i2lqMCA0XHEUeWqoUD5MkusOuUI9oDwJ1WXW5+u7G6Pi1r01A9m66hkJflzEPuADJnGH7M9qr4MWC5C1hVdAH4jWF2PzNHPcddbmZ/ov4rYu3pYGhDQ+MvNetED1pe5uhvrao1ilTyp6LUBooVCEBO7A6gZqOJuVlTN9sZp/a+f6VbtLhC2RHWpwHgXJXN7tru1ebQlqiM9DWtkOwtuM1UjXqwsn2VPI3g8O4YBrdoP2KKQ9iwt37hx2GAOAKoS6OFXzqtT5thZ2mPZU/PWSvvAOX4Ajt/XBtmutTzRT+diy8Ft7J3PNVnDGr6dlyTGqawTj9jvkZz6qrBN0Wi+h9+1zQAoGwa+cM7H6paKRcwT7VshsyPxH+QxOyJCRIAQRqQ4fEoqjtiME2dkeEWA/c7sD1FbaZzUIodjyGAYQeMnz77BgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 534,
+   "completion_tokens": 440,
+   "total_tokens": 974,
+   "cost": 0.010936,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010936,
+    "upstream_inference_prompt_cost": 0.002136,
+    "upstream_inference_completions_cost": 0.0088
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 234,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907338-KkdTtC1gc2p19szNatkK",
+  "object": "chat.completion",
+  "created": 1790907338,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern. The film is very dark overall, with muted teal, grey and brown tones throughout. Near the end there is a strong burst of fiery orange. That fits a gothic, low-light film that ends in a fire-heavy climax, which matches *I, Frankenstein*: its finale has orange flames and descending demons.\n\n*The Haunting in Connecticut* is the closest alternative, since it also ends with a fire. The cooler teal-and-dark palette points slightly more toward *I, Frankenstein*.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm weighing both films' fiery climaxes \u2014 I, Frankenstein with the demon descending in orange flames versus Haunting in Connecticut's burning house \u2014 trying to decide which dark palette with an orange ending fits best.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing both films' fiery climaxes \u2014 I, Frankenstein with the demon descending in orange flames versus Haunting in Connecticut's burning house \u2014 trying to decide which dark palette with an orange ending fits best.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7wgKEAgSGAI4AUIIdGhpbmtpbmcSDEjqXH0d/jUIw6okMxoMwzC+vHH8HH6k84lhIjBQE+x8z/ER1aJPFNPWeNYBwMhX8cEeExeiY6N1ZLK82B8oZ7LJnWMKHd5qRa96JZoqjAiTHSrUDbbfUBuNCm+5Vp4um20DZQxAHg+tlf8219p5KEHust2Nn4UrZZRS3jLq1+V/R5Ad4Uf6OJJt7QaLl66tOYx6tM4cAjnRVy/tdb4rXDi+Y4LH/6GLa832fGgjVTFReJhdnHwjibIn/oSm8DUpcMwlofXqbDJQJUMdPylUhsmE6zSwuMU7fhQc0/ZhhhuSvnTjiUVCScfprFkxA8qwzf4x6xHD/Zyhis2LDtktV979NNWppcZQKiMgtqEO03jX/Why/7C9/TjXgUJ4s5I6ks8SjyIGbClNdKiXU655g0WH32549mC0CB/PA12eWjJMzL62YjjSmcSNw8jmYctgjMAXzGoDnyaQxuDXrne6eS+B0JXQiZ8CD8+aD6N1X0dMIEc+T+gD7RYwZHMlVUgKT5WzMKYAj/8fM2rY6iuBX2N/kfigGafxQxS76lLt+cxyVZu8w0K1a/wyMZKy0uodJ0N1as8dYDU0aUY+5rMoPjT9q74+rN/w9J5440Ih/8Ve3W9aodpiWyWuczxlgbbT8sKncBe4HEnspAJbjH+ViSYlNW4XTiapEegQoCl6tYNtOXtrqlD6ByKu6ovvN6K2bc4vrouTvRF0F8G6xM4BL+z+54pl8PMSAaNu0/uXi4452zuniPw9Epk5hAJR+O3e2E2ir4hA84hVpzXI7eievbXoIANT9BAn4lwzfWrEXLktFjMxsj/P0PN5yRilko4fcsgH6SSNzT4lEFuU369zVTKJhc/e/d821OEnoULOmnm2HEkPn4IZaV6E9/g3I826QGsQX20L/PvIvMkAlqjgeOE7cJ6/kuaGVu+6TlUgWJ9KCPH8J7I9KzAw3A8y5T/9mAvAOXmTstm9L5s+UoC52mE53UWI2RPzSg9L6c4aXsEtKCYNQTe5eqSxAr4X14/HdKFvfXzWy1Pm+lWILxI+kuWlUSvnkvrqmRAuhJDxGSfBTq+aIXpfJBFqfhoYIyLfD4WbaZ3p2YKuUFeQ3T02taw9nVtc2UW3Rs6RZjK258ubyU3V8lA7dBQ5H2VtJS/gUPiehFifRQYI5KBgyak8DJDSRmbbFdR78JIlnCvtD661pCNTMF8cllpIdvva0YIhmUoc41u9cLoIkP6zEcmM3htgg1rDOuPpjcSrKDlJH/GhrRfNFsIb02AEZv9rs1mneHR6amuimBGJ2PHWj77cYfD6C4tbqgCT3djeJxBS4Gqnw4TF9l2onqpaFKD3z1a/ob97+25cEygW8GHkAdkFuaPT1VDVNstC7YZXB6njP280zJn5taeVlInlLp6iMbDzh0p+WFAergb1yuqo4FT56C0QrlXz6OJTinOJ0OP5GeFPJKNxNbICPv1nFwRE7OQUASbPZ3L52NNj+emvGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 522,
+   "completion_tokens": 382,
+   "total_tokens": 904,
+   "cost": 0.009728,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009728,
+    "upstream_inference_prompt_cost": 0.002088,
+    "upstream_inference_completions_cost": 0.00764
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 199,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

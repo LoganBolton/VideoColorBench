@@ -1,0 +1,7 @@
+name: gpt-6-astra-films-raw
+mode: raw
+dataset: films
+model: openai/gpt-6-astra
+reasoning_effort: medium
+concurrency: 2
+questions_sha256: a22497fa224045f983374fab899eb4c0b8674ed43c24f261c30df2a19df2a20c

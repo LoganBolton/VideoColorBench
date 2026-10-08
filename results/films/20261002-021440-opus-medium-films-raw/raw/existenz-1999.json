@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907320-oe45rjnlzexkDzq7c4SS",
+  "object": "chat.completion",
+  "created": 1790907320,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the barcode's overall palette rather than a confident identification.\n\nThe stripes are mostly dark, low-saturation grays and browns with faint blue and red tints. There is one bright orange band near the start. That muted, dim look fits an older, low-budget space film set mostly in dim ship interiors, like *Dark Star* (1974).\n\nThe other options fit less well:\n- *The Last Man on Earth* (1964) is black and white, so its barcode would be pure grayscale, not tinted.\n- *Automata* (2014) is dominated by warm orange and sepia tones.\n- *eXistenZ* (1999) runs strongly brown.\n- *The Haunting in Connecticut* (2009) tends toward a cooler, bluer cast.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's dark, muted tones with an early orange stripe against candidates like Last Man on Earth, Dark Star, Automata, and eXistenZ, weighing their color palettes and opening scenes to see which fits best.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's dark, muted tones with an early orange stripe against candidates like Last Man on Earth, Dark Star, Automata, and eXistenZ, weighing their color palettes and opening scenes to see which fits best.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5gkKEAgSGAI4AUIIdGhpbmtpbmcSDLkGpxyLfVx/a3s/XBoMaABkE2X9gF+0bp0CIjBNkMhm5l+Aqi7FuB+mb7N09xUp8aYAuuScWNEYUCgtb0a9O3gqS0+XQTuYVZVZyUQqgwlLZXbhqTBCGB0/6vE9f7Jr6O0P764XgjQ7YuG9cmgSjWdcicKSMTdtVaJ6g0OnxghIbFuFO6VczhDl8+ruWbUSkGjqIGQ/vjtAKoie8M0VhEoft5z6oZEJjw+rnkX3zstjvwvCaQityOPig6uYYmXAvLk1PqiVIPbMS5QcbtAJLckfYJeU1VgO6w+YtI7fPDIwBodUA1V0+iqp32Fd+9PvoX3ZKn5jGrDTTMPNLO7uU58I99swQchEzdXOBKoTY1MPzbVsXmO2B7XwZ+5NPjBvyT4Clay+JbBTGpzoH2j3e0xnQm91UGKeyBCbH/1XSux7Cji7DNQfe5QhcNugah16IQEUaYDmYKHHKdbIZtAkLkqqh167TSWiIi18kpIs7DXVLZV2iRp8jX4ckivCgEnMX/z/TGzs4b4DBqvg7o8YpMQ4RRnv8mvXgYqctCuSK3Nd8ZzD1kx6caAQcUGipQKRcmZKHOJjeJcB9OejQb/yIeWf7LlhUye4KGc3IKvDRIbpMl6069IqujYR0ACZMfz11vSpsJ1M9BxHn0yycpvgQBzR5jRitygO7GkwOdhFtislrbmi9LhEvQYi/MvzR/1Ashy+AoRmUOURtHA97Sgb9sgvPzvlFg9Yjii7a0ZxgEk545rqWLICwOuvS9xrLnl/3U/M9XYI8sKCxxBFDRJD0yDjBMxHhvFazIl7xy+yZ8jWvroRtjAhedaHEGoYxv073oHcsfei+vSblnzQQPMd+PPdhsy7cfQurtCmAuN6ZoNbaJnfu46EZYRfLRPkuxUz7wwX+PVVAX5KtiLsHTIDPllpWg48FMzV9oaDzllJVOkZ02XL3VnCh42tU3j8c9Pu4aaQKMwtFWGXN1+YQFa76ndj4sMfPTkJ/sfmlnzcZQ0x+wKIPXkrKwYbOz550TQqOmohckx7/vwAIwFbLcaok9kkOGD4VUhHIz7fwHvUmR4ljzfiSG+Ejz/ShGsodF8SBr32AukmzqLJZhtXQWi7AKUT7KnpoIvEwbqIZw9co8qMrh+teAg3NWf8QRZ3fbLcSBbPi05T6MnGQYhe24lfxS6GKYt2FpisI6cS9BPhyekNNfmAOqFxqsBZ+HS+gazNq80P/MqSNDEdGnFzNb+W90F2Py8abge/sEwjqr74zxjSRXsUuTO25EUvCXvyhbXqemQ0A41yAEH0XF9PKCyZkYJ1UrMv6p5kgoKPdA90S3y98TdsmhX/R22J5ZfdruGh3cEE1jp083wWop+2XyPgHIVmY7swr4jos40WqqBzZO9fd/JotHyk+0ri+QwPZuo6LgqS7L09XRjsoG7HgTtdVKzj08X4g9JJE/I5vunehWqKHRyyh/YBqFvoJ1KYLaH3c7rD5FvfBsK3CKRBvdkI4j1D/Lb+qpm3Ay/LM8qkPJMg2oBDwVzcVg0hKUxefIOB78JNXGDWq5K0Z1A5I/8jUDaisRgq9lWZbl/DuqdAmeOnzZ+nFF2lTG9Syg8BDozA1dXnSo1UyVlOdyO9FVDpLwXyt6jPyabpcPx25oKuNevbo2oYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 525,
+   "completion_tokens": 500,
+   "total_tokens": 1025,
+   "cost": 0.0121,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0121,
+    "upstream_inference_prompt_cost": 0.0021,
+    "upstream_inference_completions_cost": 0.01
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 247,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

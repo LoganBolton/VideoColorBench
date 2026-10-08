@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907223-bEzSahFkiG9H88S7wtlK",
+  "object": "chat.completion",
+  "created": 1790907223,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Considering movie barcodes**\n\nI'm looking at how movie barcodes can appear almost black because they represent average colors from the film. For example, \"Jane Got a Gun\" features limited desert cabin interiors that show a lot of brown tones. On the other hand, \"Warrior\" has diverse scenes with vibrant, saturated colors, like circus red and blue. It's interesting how these color choices can reflect different moods and settings. I think I'll go with option C.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering movie barcodes**\n\nI'm looking at how movie barcodes can appear almost black because they represent average colors from the film. For example, \"Jane Got a Gun\" features limited desert cabin interiors that show a lot of brown tones. On the other hand, \"Warrior\" has diverse scenes with vibrant, saturated colors, like circus red and blue. It's interesting how these color choices can reflect different moods and settings. I think I'll go with option C.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNj5c4JsH57Znb1d9OczJoUzlio_V9L4CBV6rbFmRBTcS4pRP_C-RlmVa5IfqMR3ViDirJlK6wJUYuIrEjgeMQVhEN8lHN9XNGBvGmrpsZ2MhF2sAkbVdUMpmyZetDKmb_MA_TcV6sHrK1my0O66rXMlIXU6KlXV9UHWUZYvSULCnGU3JCKB7Wvwcu6dWUnE5nINW6__5nmlTZBuMF2qyuXXJSh-JZvd2EYtute0Qrg6HFNNEuVTGrdXt9Xl62LUFH7ZspIVrSKjG62_-90deJS02clwzd16EgAL8JQhYV1Ol36TNE_Mw6v05wvN0464bz7ysGX7w_SPd9Qk1Ph0TBMm-jZWrmMYPmf9Zi9zkIKUx1WWHkFNTrQuXBue7PuZfBL6xbs41cCVFRWDZQ8THNrj--6KNncpx-Qrg9_CJzPaooTp6pTpKdyoRMa3wn5MdC1YVGLGq885kxe33sN9eMxgqEyv1Xp3QTjHTZuIl2pwqxIuDk3AyBXn8fuiavGE3wnq2m7cjU1ZT81JnFokQ4QYzAuFNzIWAJP-iFJm0401fWw6oo0yUBnvsPb1CaXCA1-w0hTs1YL4kSwEDSpJ-rTQi4YcDfPMaoHoAF8nFzwM0zGNvdG0XG1jy89rDp09sRreoQ_xgRRzYE5Coh4TgWJxNWJruxgD8r1Z5C5Pk6NC9JghDXsRpEHaC40Tcplj1hU6w_bDlExsu99nMGEcM73HxAT-cycHQTyDRlyaMlXPQhY1BKTobtTkvw0lSnTYIcZDKAQSPfY127nsMnCMDzpJWZx5bJvAOnLT7yzJOobr_P2KRpwGxM3op8r4X3oCdw-I86KNX62gBIRKvkjTgqbMkotj1Wilse4HSrGZvOAG8JWUe3u1fTxpFH_JYLLQms2aAOUDros7yQ3r9e9u5_LOI2eLX1R3__oPNZUN0izOJQD0EHMaTEdzB1AcMc90wjOP2VccWj71DMthvc5sLSgq4xyDN_Oivmlf6cXrUuls3uLJijREV2salEd6YoP83uIKTzZJx2yEdQ0ZhWRuDCwlHjd41lCe4YtzOyyArJnhXyBoiEmo44o6Gm-pvjB3BJyCWCVtl-w_3LcwHd_cTfIketzCK-zwdJEnWJBK5StM0JoretqD_FbRAes1X3Cpg7aTbmDVWSJF-48zInnk1-ne1T1B8yA6zYmgIIqbgGwFhO3LA2Is1tl0F8rWT5C0Cq_beIRXmlX2KtMgYFMz5ox0MYbm9rWHLiciSVQj-4z2j8ighqi4wQDoirStnmGW7vmzbVbkHYpK-U16oeOZdf5NHjkYoGUEKDSWekC9KeOdA82G0xoptY79ebpJfmVaBELxIToG00qDKfFCPFcAzQOkJiBmSVr-TZL-dg_V7U028s78ZqvR-VKRNoZ58fIOH3UrgF6TGyOokynD1-mW5e1Tv_ZMbL-9YW1VkWCBvIG5PphkDoolF3tdVdoAX6HYzgSA1iKPITMQcCJP4sp0LcKB4WuW3s4xsCX3m_71p6y2BJ07iDBpRol-UyO9wBZXs0wjunF1JIoNr1fxAcQftpTb0l-BO5vN4pqCnXUnQg5zVgHzy4imqkI49WR8AG9ZjV6gNMiK6os2Kf6WbJQ9ezuBOCkQgXyVllIg-gmap8h2qNL2WvtYvadykIGSRan-48TGAdZrjNz1qJYpRH3HyaUqIsXkPrqR7CxxeB-0f75lQ8Cnm228vEI1WdDkSDH1_9w1XnPsq88oedDsOV-ayIToQAwkkWJqROQO56bT5mcgf7CwR7pBif8uS9wwjwUFtWJNUr4CLN6DVm0LC0ZISBdzJy98P38Ng64rOczGoNVLtOjZDBk-_LttiEvkhyhf7iZDTTdGqbJ9W-lPQtjbzyq9lduIxZni9EUfNS9rPXeQRz5pS_KN46efvB16Bbt309tlchgCV-8EUxagkv86RhpEbjTE6skx4euTgFsYbjMlAXP8_WbDaopmVTxpsbP_WPK6V_GC14O1R6QLsa0TB3R6SoFX5eMCNyZjeayawIFnVVv_0BH2eLCOxr68APc8ewR6EM0xksNTm-PEvY9dfGmLEX6cdP13wQRsZ3osHrYjhJ5yoq7JI8_8H-xkwT60QBBaqcV50TcLhEHU_MzyOYt2nRDMC5__nRB5Ls3TYrwp4XQamzCUDeLD50GNSnmdxhBXN_bJ0SzG7lzRJFMZ0O4JXDyalEq62GyMD1yY_i1-lj_NABtQRbeedZuqcGTMIEx99Ra__sCLRBfZLtqo1qQkOBJIE5DKQfZ91r5l3c2rAxfEHEDdEqIWfKRnot7JDYdztKiXt4ZeugvFD3UrPoTNe2gFo4CSZZjz0tUtLqA0-otfoivmDvq2h_mZPpSWd7WDbRopmSwgHUXA7eywQfr0iP7bxwSZpxE7pPz_BxardDP2ztt6K3kPR3RNa60Thwrn44m2xC0x5ru2BVBn6At2vhYdkD76kJbfOcGhw74w-tbGnNNdy0BHh_j8n4rV9zvnXCAyft4A8xAMa1o_vTA8eSM0DolJJkDLHldiQ3x4_G6w2HVBQjz4D9oJzSepBAyO0C9HgVu0LUxrBrzvdJZpuUOkZG21YP9anSzLAf858dq01pOL3KPygtZpSTvpdjTQAop8PhHdC77X-b0BYyD1n9wy55li3UbVb1Ja5YdOcyecwqukjbAKDRtzmPLpwxuir6pmEWv6-1Ks3TzVDdYJF2UVfj8NDAmPhjCs-8BoWWQ8Q5IbXq4CFeIKTfdUWaKrcPNT7A09vxJpatPq_Zx30xqbnlGqJMuuQjxh_kgpxbZGoGwBhIrk3zCJ-q3NFzWchX-nN3QHV2nmhuNXseg0obqCMSfBF0RQCKGBVVea9s=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00f0491c155182cc016abf135b76cc87d19dcd1999ddcf4128",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 425,
+   "completion_tokens": 254,
+   "total_tokens": 679,
+   "cost": 0.00339,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00339,
+    "upstream_inference_prompt_cost": 0.00085,
+    "upstream_inference_completions_cost": 0.00254
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 231,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

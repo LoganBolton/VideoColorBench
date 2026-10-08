@@ -1,0 +1,21 @@
+{
+  "slug": "the-exorcist-iii-1990",
+  "title": "The Exorcist III",
+  "artist": null,
+  "year": 1990,
+  "label": "The Exorcist III (1990)",
+  "hex": "#313133",
+  "rgb": [
+    49,
+    49,
+    51
+  ],
+  "frames_sampled": 6593,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "g4TLyCppnO8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

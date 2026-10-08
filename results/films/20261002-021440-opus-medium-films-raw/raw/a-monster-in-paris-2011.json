@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907341-YCM9ucNCAfPQ6EZ58gtm",
+  "object": "chat.completion",
+  "created": 1790907341,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Paris, Je T'aime (2006)**, though this is an inference from the color pattern rather than a definite identification.\n\n- **Distinct blocks:** The barcode breaks into many separate blocks, each with its own palette. These include muted browns, grays, a deep blue/purple stretch, magenta accents and warm reddish-brown sections. A single continuous story usually keeps a more uniform palette. Abrupt shifts like these fit an anthology of short films by different directors, which is what this film is (18 segments).\n- **Muted, naturalistic colors:** The tones look like live-action footage. That makes the animated *A Monster in Paris* less likely, since it would probably show brighter, more saturated colors.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The barcode's muted browns, grays, and scattered blue/red blocks with many distinct segments of varying hue fits an anthology film like Paris Je T'aime, where 18 different shorts would each contribute their own color block rather than a consistent palette. I'll go with B.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The barcode's muted browns, grays, and scattered blue/red blocks with many distinct segments of varying hue fits an anthology film like Paris Je T'aime, where 18 different shorts would each contribute their own color block rather than a consistent palette. I'll go with B.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1gcKEAgSGAI4AUIIdGhpbmtpbmcSDD6j6HcJ7wyncrEL+xoMPkL+SnR3gxkCO8YBIjCV51UUsUV0ccpGrJ4O1kAJSTf17EQZIdf7lCI6TfC7CQ0ZjyBcw44aJ6WAuwu5aLQq8waCp/u0fr3epRnVhzEW+E/t6ne+MkInoZf5DwHb4vnmXRMs8VhVrax7cSHhBehC6TXY9ihHAaWiu4CiPthvAvxAX8of3Kum1HwKl5TxlWcdtYY/80EDYRhkOhYe8KxfXbRLGhWZHuLiZkVAW04mqaQDnPXTDyiKEAj9gmRKugIGgl0m35lAU2Qp4+v1goQxciUqybQR2XwGJi0xOpyNZiyUkg3baDkmLDuN6obV2x3Qb3hlx8vk9pjMKCXVwiICJaYTexD69M6bN41TFpxVe9yHRn/Z4Om7BzmqUdpRFLhMRuZteZ6e9YMS1yOIHoZiTMI/Me2y7EcdzrIks9XhKYwPYl/4QomDT2hK6Ck0Y/LZIPPtpdl5hiOGMltmaDrGaXtEru3rY5QDbBobKmNs0NpkBOTtEYA+/PlY71Jv/voVotX3tXe57SgLfvVHAYMs61hssk0rC0YQ+CmhBl9cpDbym7e0QFCKDI2eCUdXjcyJr8sLsMRxkVw73aPBCNJ7lFXTI29EfQAbbMr44S4QP1aAhriSquaaLlXb0718ZsJSXRi16Ek/v++4PbuZB+rUZfE3GX+ho0aymY5amSIXF7ftOdzwj5iRMegiT9sVbbcm9Jpt/WaOFsvb8NAxWxy4XAz8U4tU7mDhrEmkWXq/8K8NETXXpVwotn97s0+fA3qTe0EVvCjExafcJ9jUkHPUG5xstoFsSMKj1AmSOV5XUdIQ50iaL8yKidww0QpcHhdg38hHSX7HrEzopHfWucOvcOdZNJm2JJ4iKR61/T3u/L+psFiATjEu48ygglJUbwEaQKGvmdZr08q3O6ODK3w8lC6WzZhP9JIoBsA2jP4sIOULSwlgQJW+wKzNcs31DcyZbNqFrf81AEedW6Js3yUQX7ONJZByE2xZK+2KaZaPmIUm26umACun6DcU71jGNgIW6L1kYavzD5YOVOYBT8eyQUdmvMAYZCS1reMls/FX7Ggasktx3evvbPx9dLvXYssqG70uBcM2xMu9ikGp0MpNHFsGFS5N3ILUasc/e+ffwGXa8Qg06NeyAH1rs/UaSAtdvFgWXTVd52uAuwNKwx/zAHJyTTB6bpI26VGCXn7NMn6rLTN6glz3/WuMw+/YkmziSt5u0oBybnVdSH2r9/KJqlfHqLFNNKi6PlQClIKm5LTeUR3GGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 521,
+   "completion_tokens": 379,
+   "total_tokens": 900,
+   "cost": 0.009664,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009664,
+    "upstream_inference_prompt_cost": 0.002084,
+    "upstream_inference_completions_cost": 0.00758
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

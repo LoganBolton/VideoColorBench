@@ -1,0 +1,21 @@
+{
+  "slug": "dynamite-2020",
+  "title": "Dynamite",
+  "artist": "BTS",
+  "year": 2020,
+  "label": "BTS - Dynamite (2020)",
+  "hex": "#7C7768",
+  "rgb": [
+    124,
+    119,
+    104
+  ],
+  "frames_sampled": 223,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "gdZLi9oWNZg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

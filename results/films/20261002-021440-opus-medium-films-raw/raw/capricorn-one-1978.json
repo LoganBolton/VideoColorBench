@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907303-Iq0Utq9xQumHMctuelmm",
+  "object": "chat.completion",
+  "created": 1790907303,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; the colors narrow it down but can't confirm it.\n\nThe barcode is mostly muted grays, browns and dark tones, with occasional cool blue-gray stripes. That looks like the faded film stock of a 1970s production rather than a modern digital grade. It also lacks the strong greens you'd expect from jungle or forest films like *Aguirre* or *Killing Season*. It lacks the bright desert oranges you'd expect from *Capricorn One*. The overcast grays and earthy browns fit a WWII drama set in a gray English village, which points to *The Eagle Has Landed*. *The Boys from Brazil* is the main alternative with a similar palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm picturing the barcode's muted palette\u2014grays, browns, faded blues\u2014and weighing which film fits: The Eagle Has Landed with its gray WWII skies, Boys from Brazil's earthy South American tones, or Aguirre's jungle greens and browns.\n\nMy best guess is The Eagle Has Landed.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing the barcode's muted palette\u2014grays, browns, faded blues\u2014and weighing which film fits: The Eagle Has Landed with its gray WWII skies, Boys from Brazil's earthy South American tones, or Aguirre's jungle greens and browns.\n\nMy best guess is The Eagle Has Landed.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSnggKEAgSGAI4AUIIdGhpbmtpbmcSDA8q3nar/qlXQ1ja8hoM8vSEJ9RZ6rQ+mMp/IjDLYmnqFV7AYFO66IoTX3AbhUa4CI/Xtg9idqur1tpBSD3088VWS7JdFLYZnZe1mYkquwclO6Q1BQhgsTketPz3mf09f7AP29k5AQtvAj3NlylQhxY70+lHF+6UtAGMZljOXsNVrPFdK80waylpMIRkutoZPlFGunnSM4xmQexEvOsWRLkXK0ASkpvc5ZatLuIyYjijHT11GPtPlQ7o4916u+SZmaWT9asOtNfQu6APWFrEQkvZrIgwYqq6GIhRcQ+w/UgW1aadyHJCnU6mNRuzYVBkL5XRJq+Mpx5UJmlhNqAb0Ko1hyhvc5Efbp/tuToOYAR+03X1c6T+oS/y0a/8K+tUklJwSOG7ZLCRuDQYG57a6cCgnOPeFwB+D8N351+h/qpwEco2m2oeIOo+T7z/R/NgfX/3ipxc/GQY8mw1UJEdXjPfLpOWWnuDNvP9dD+R3KKwxGFIs9mrvd5XuMl7BPvCRluKVcWUloRYd9lV24rFluX0iLsrPN6Jov0WPozHrZ6+TAVs7LfB72fsG7IaTMgyvF4YKjUM1s32RQJOf5xl9FczvC2M8oi9C3P09b1pNarG/O91QH3lQIkCxtExZkUHGcd/FV1s7lfR9Z9tI0mnZxB6LI0GVfGUXPijxXnMGkyDz7hqBMvkVVF3L6jKsI1sc15k2GX4QlQMYNwK0o/kqyhv84CGK85Ddrytc3zZ/+lisntxHL+RnDV6m8xpmXPoNuydvf0WtAbFK7e5QwsD2vg74BmtA1l89W+rl244Y86nj8VfzqxPaRQkH5/SuyTu4Gq5v5D3+g+3YwGKNkRtaCzOMNFyyY4UbbtIi7QWuJG62Uew8YgPjAcuclocrCAoYBMo2jWlNAfe/us4icsWrZtV6JVPalV7CWZA1uaZQ6KpVZ09SZQb4UVKTFCSQGE6fZTNvuR6RGshTaOrFfTQqB3IIKhC19D8mXL6hRJjmVar/4BkJGtQoYAbpkOVrZBtlSIJZkYhSCkXC1cd61OtbhhOjTWsbYjMVUJKCGa7jnxftMYfBdp/UU+QwCQmEhEzZHH/a9Nn9IrtI66OJOncU+Bb8WS/wTGNOEU6IGLhdVcfcDnnfzDGJ8eBxgDBNn0imbZHKvqGnruHq97GcnXjFNoDSlmFTZ4uWrhaC0zeP5bLKD++9tEFsGKQFY4b+szLw3OZ91+Da2+LpmSbSbcW6d1mBkH+E3qQ7VqpUdYnpi672Mg6vrZ0C23dRWOJuig4qiXsNYcacE/u/9qZAn4+PrF/i/KIuUPKKlnfmkalMoOFJ0AiCS6CL6VMSqylzuSw6wDpT6V6JsH13Gfc1YjefDKoEaKVoKgHzIMjGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 419,
+   "total_tokens": 959,
+   "cost": 0.01054,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01054,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.00838
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 188,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

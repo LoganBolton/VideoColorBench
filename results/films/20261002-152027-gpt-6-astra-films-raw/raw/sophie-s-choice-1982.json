@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954434-FxAS6NCka9Z8sBIbMXDc",
+  "object": "chat.completion",
+  "created": 1790954434,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist* (2006), given the consistently dark, sepia-brown palette.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Considering color tones in movies**\n\nI'm thinking about movie barcodes and colors. For a muted dark brown, there are films like \"The Illusionist\" that utilize sepia tones effectively throughout. The prom night scenes have dark red and blue, which might work later on. \"Beauty and the Beast\" features vibrant gold and blue. Sophie exhibits varied colors, while \"The Illusionist\" is mostly golden sepia with a darker black ending. I think my best guess would be \"D.\"",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color tones in movies**\n\nI'm thinking about movie barcodes and colors. For a muted dark brown, there are films like \"The Illusionist\" that utilize sepia tones effectively throughout. The prom night scenes have dark red and blue, which might work later on. \"Beauty and the Beast\" features vibrant gold and blue. Sophie exhibits varied colors, while \"The Illusionist\" is mostly golden sepia with a darker black ending. I think my best guess would be \"D.\"",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vIYpLyf3WNDQl8tBcsJMWwhNsaaO4rC8_QCexve9i61Bzs6PFTavXtoOVIc35z_jSFh-SKfwQ0XAVigN9o3tyF--2MwIE_xZvuiYVQnhv16PUMHpi5vT3IkU16bCRiyw8PZxA7ZTNT8Yvbhn-GZPSNs6fNrAy9TJ__GIHZ3QHBmwZ4AD__WJfuzm3AvJp1gxOQSd2kLr9-Pi66Hnbn1tJfBk8GW_4nctkiL4uC0jf-U7HwYtEj-9606xH-fXzqZSLpzI6ZYFyxP6HB6gQ4E2dhT51yYMdWo3mPycARDWqq5j6ki4vLXmRRKhow_ztGIiQkSQ4LPPeuO1MEFMi0thp29mByF2MFDTZI-gRdcJ4SMevXI0d8DJTiTKs_5osumr1zzklA4gnv2gQMEXQov4LW0frZlQmendB0qRygNJEXo7PQJg0Czh5Tao5VWA50lzcIAz_9jGkiYNpA1NvUBf1Wg0lpm7tssI-oZVCJyaapBQYsiJyXvyyRqx8FnVugIPP-HyGgOo-QqxuAxHGcHYwo0jO8RHc3zgwzbFGRK4f9hb4OiIwBeZuc5uH6aD3Ie94yf7GAgDLr6gW5ZyeMBCdfvVMqq5tdv_D7B2z6YBwmm4Zl3vq6HHW2u0FI8DWtstmQ1wTqqaGIzVXbn5s2x1jPQCZF1T9o34MA125vcLCL0DehXc9NkdGTDdc9jKfE5ArkZAnoWkgSRJIhkglBpQhM7qIkG8bCXRwlUvcv86vd9sOkQRCW5THPIPv6-p5qhce_X85IZymWLJ_p0elgrnN6C9LeZrD_YARQ2OAUgnQhX30cKhOP0xHuM1EWcY5DN1p_tidYCQOmYHn-SDjkzNndLnYKmYxZkEFCP3URU6-DUbkNclisxMOXWOZ7KrcW-vBftanxFDKUnTWQQ5vJ-VzegA8DjrduF9RR62IS86f40qZZEDQmykRbn1ZYgmxAsvJAmIKv0n82OOQjDGPuMm9iHcyWRnvdNvpXvXe_IDJmg9jcLmGdu0LmnfjG9K-OCmA4pnE6wQIXO9zCBqbpPFpaqsblEstQ8f2LSA2_YArES1LGdPEoJSlvKKVJQPXp5O2_WJ_vd2fzJKat6ZaFYcW3gTqIzYigj6P-_FQHwX3O0FKcGj0teI1pcLVsACut86SI2kbUsbFLGnEG5SFBd6Hk_cvigFs6Qh3RQtGVLBHUhmYc-Tdt0RQ-ZZYorpjuQsCCs2-80CAKlJNCJmB1C7aoTbsoWnVUgw4-Eq51r3FuW6jAMDDb2U4o_Xv4OKc1AunPcuJVOzzUjq5nwj_4N1FyAi8r75V6aq1qukajjH2xgtCNKX-MihmvXdH6OeSDWr_DYOTdGMokohmJpdJ_gMaAmT-dzn-WKJqIEOO75uwk5xQqqd-VQP5tzTJsNLRnYK8sZadB_YFRT0m1rNot7hbDtqzBBYTUmIK1Ve-tdIMb9xn8XaqSZCOK2s8frp2WukZYELvoLLcCY9F7mIdq27-yEVvizpPYmP9k1C-zf9R4LlNqliD3WuJmTxpCurZM34buVXEg9r-1cty37pkoO-VPxsq_-3FvkHwIaxLIbU-Hkc3QmOMMbNBwDgo9sPwsCX86YTaMqSaX-8XM8WNPGhD7m8QE0c6wZfrZen1xK30H4xY5lL91p7q754uO3DIvTim3suGQaSnYuwXTFB_c7FLDN1h6Fo8uv4sFliSp5LiHiiluVEVpUswd0JICoYu7Wrp0.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08558425938fba85016abfcbc3f7d887d19e527f648bd98bd4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 98,
+   "total_tokens": 525,
+   "cost": 0.00917,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00917,
+    "upstream_inference_prompt_cost": 0.00427,
+    "upstream_inference_completions_cost": 0.0049
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 64,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

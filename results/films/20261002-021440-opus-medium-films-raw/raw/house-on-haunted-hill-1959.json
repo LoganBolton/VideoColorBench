@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907289-dglGAyA4kiaBXTmxVi5t",
+  "object": "chat.completion",
+  "created": 1790907289,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The image is grayscale, which suggests a black-and-white film. That leaves Carnival of Souls, His Girl Friday, The Passion of Joan of Arc, House on Haunted Hill, The Little Shop of Horrors and Night of the Living Dead. This is a best guess from the overall brightness pattern, not a certain match.\n\n- **Ruled out as too bright:** The Passion of Joan of Arc, with its stark white backgrounds, and His Girl Friday, a well-lit comedy, would both produce noticeably lighter barcodes.\n- **Less likely, given the ending:** Night of the Living Dead ends with the posse in morning daylight, so its final stretch should be lighter. Here the ending is quite dark.\n- **Best fit:** House on Haunted Hill opens on a black screen with floating heads, which matches the dark start. It spends most of its time in a dimly lit mid-gray house, matching the long middle section. It ends in a dark basement with the acid vat and skeleton, matching the dark ending.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Since the image is grayscale, I'm narrowing it down to black and white films like Carnival of Souls, His Girl Friday, Passion of Joan of Arc, House on Haunted Hill, Little Shop of Horrors, and Night of the Living Dead. The barcode looks fairly dark mid-gray and uniform, which rules out Passion of Joan of Arc and His Girl Friday since both have bright white backgrounds that would make it lighter.\n\nNight of the Living Dead ends on a brighter daylight morning scene, but this barcode's last section is quite dark around 0x25, so that doesn't quite fit either. House on Haunted Hill, with its dark opening of floating heads on black, mostly mid-gray house scenes in the middle, and a dark basement ending with the acid vat and skeleton, fits the pattern best \u2014 I'll go with that.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Since the image is grayscale, I'm narrowing it down to black and white films like Carnival of Souls, His Girl Friday, Passion of Joan of Arc, House on Haunted Hill, Little Shop of Horrors, and Night of the Living Dead. The barcode looks fairly dark mid-gray and uniform, which rules out Passion of Joan of Arc and His Girl Friday since both have bright white backgrounds that would make it lighter.\n\nNight of the Living Dead ends on a brighter daylight morning scene, but this barcode's last section is quite dark around 0x25, so that doesn't quite fit either. House on Haunted Hill, with its dark opening of floating heads on black, mostly mid-gray house scenes in the middle, and a dark basement ending with the acid vat and skeleton, fits the pattern best \u2014 I'll go with that.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 544,
+   "completion_tokens": 750,
+   "total_tokens": 1294,
+   "cost": 0.017176,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.017176,
+    "upstream_inference_prompt_cost": 0.002176,
+    "upstream_inference_completions_cost": 0.015
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 405,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

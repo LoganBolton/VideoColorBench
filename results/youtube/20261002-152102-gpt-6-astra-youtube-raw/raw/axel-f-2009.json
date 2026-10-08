@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-wk58zJPZCKYIrNi2M1R1",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Selecting color schemes**\n\nI need to choose muted colors, like browns and grays, avoiding anything too vivid. The design feels industrial with faded grays and browns, hinting at blue for 60-70% and green for tree accents. I love the warmth of brown-gray interiors transforming into cool blue nights. \n\nThe visuals reflect deep blues and reds; late nights feature blues shifting to greens. There\u2019s a soft tan for sunny days, contrasting with darker blues. Overall, I\u2019m aiming for a cohesive flow that combines nature with an industrial vibe.**Analyzing image stripes**\n\nI'm breaking down an image's color placement: starting with brown-gray, moving into deep green, then a dull gray with hints of red. The next sections transition through blue-green, dark gray-browns, and finish with vibrant tones of green and white. \n\nI love how these colors evoke a feeling, reminiscent of Rihanna's outdoor scenes and Eminem's wheat field vibes. There's a faded quality throughout, capturing the atmosphere of abandoned places, like from the \"Faded\" music video that features sepia tones and deep blues. It's evocative and strong.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Selecting color schemes**\n\nI need to choose muted colors, like browns and grays, avoiding anything too vivid. The design feels industrial with faded grays and browns, hinting at blue for 60-70% and green for tree accents. I love the warmth of brown-gray interiors transforming into cool blue nights. \n\nThe visuals reflect deep blues and reds; late nights feature blues shifting to greens. There\u2019s a soft tan for sunny days, contrasting with darker blues. Overall, I\u2019m aiming for a cohesive flow that combines nature with an industrial vibe.**Analyzing image stripes**\n\nI'm breaking down an image's color placement: starting with brown-gray, moving into deep green, then a dull gray with hints of red. The next sections transition through blue-green, dark gray-browns, and finish with vibrant tones of green and white. \n\nI love how these colors evoke a feeling, reminiscent of Rihanna's outdoor scenes and Eminem's wheat field vibes. There's a faded quality throughout, capturing the atmosphere of abandoned places, like from the \"Faded\" music video that features sepia tones and deep blues. It's evocative and strong.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vuijdpGNOCvxqa_vzuWCnMXXFNrrUBOPjFZx6EjaptjC9XhiBckW2llbqO3xJu9tR6wl7xUtseHgRkBoXkLB6sAhHv5RKOCWE7dEHRAeEX0jVX2lHEbEMsl8C6bJ8JDMXnyiX9XT-RiNP5g5RwrTPy5ZHuet-inP1pzYMjTzc6XKEPwGRDIjtdJLsbYnBzss5iBFPNogk0PBmh_QREjZkGf7TLqqjwjUw1pXHaGwX0Z0x-yi1f8wgeWpx9yJMSS3iyVzpiVUI3ZveN9VMQlqKJ-6x649mbwY3jh7JhFaGa_5Z1b9ovAzm_OZiDq9XKOV-GrWZBs4rT1w5ojqspaDlOSJPyGz5C2cwUgn_9xP6uig_OlBpp8MnGX9quxdq2fT5iAg24nMYUS27mGbUNYkoG6ZYjJD-QKY6WJl-lstXRLW9IxbobPx2bousqGkhoD60x2klS_4ledgHI1AsiqIYgQ3gZLScQ6X6kY_yd8LcWihvM-NCiHTiA5nMVwpDTjXvZOmykdEIDSJCTwQKJXjJUH6st613U-jLTRvEQOmLKfVqPUNcTEk0QmTf0GIrJFsbwKB3U4_h8kemzNJlYaEPti4PgB8qC2xrxiZ_P2cOf4PTcfliR22tWt4v1I6Bu-Eue8cdg53yE1hbGN9gWbKruuDamN0yjiM4dsPuhcHQbVp7CkFV1NsIkFaGlHgC4yj64wOkvYZJPajUO-Tl0Kd-N4AsYObB4XWFPHL6AvKXOJMRDxfhA8Otey8d-ch72ro1zwk1BKxdo2U0os8MH1ZBLwYxuZun_ARxiBu3qX96yf0EV6L6zoCbQml8T8cGkxpQ2xxVw1RBrZS7Eua-VN-Bxhuyfba6CzjDK43VcrLyTU5aoxLhJT38GBKFJxN2Wsd7BnOSljLUI8RWHchbF2S525xd0S3GfGnqFyYDv0AHr8UQfkv6B0s3Bcb0gBUlOdP4Rca2OyReZFN9zh4h-ZA0Tcm9ij-1O61kmXvu3Khqur7cXhGLI39boPWDnwT4Pt8eRpg-G7dHTExjVcEE7YYD3tvKu4LPkJn4dNtmuDxuuIZGGWEuYhRG9Rid4RooREgWFqyNj_DNz6MqyMbueDqiwuMVp_GMBPJ1mxAe5EU05B4NbBajAUGkngX2VOe7lDAYuCZw9CF8ZgUdh9qxarEC0dTM0-Rr_8dFJyrE9gGhPDnhl4xsPHox59OCYRD94on3iJ5Z0AZ6Ye6qQ3AwdZXuPO53lGzDhufW-MKldYd6Sr2XEI2IqYsHS_Psq-Z8wpMN9-UrxYs20OQJi9ORGt4ocEJuk72M7xBhnXtm7TrexD4pwYtJIDnbZDhFy3l9sWauoVQ5nARwUMdlgGUraKwmEZGNifMNfj2bUghGGaas2C7m4bwt5Lld7F-QzRBEX2Brd4cNb0EiHTt0W-GFi3MSuFCh7KmDDDKtcWS8Cr1Ha0BR-Hi4-dBq-DKfCmZ7KLDtMUNfOm-pfuo1LXY4b1RrngQ0CC7bRdHE6Zc02GHJGCGivOX_MuyFUexyFdsYuNANiVEIACFPRESKO0mg0KO0rqufUDXXZEyILtdWYGF6BYU-CTdNJJQtTrixate_aupOn35XOfcHZhc2vzgeeuYSxFcY7MyZFwV6991OSG2MHhw9urYNJiuHLncxjXYvfbdfb_UDRmYwJ7KLzLwzlGD_1DFhIewsnPlQv7flvvu2q2jhcaVd8HiW3C5PuDgPopgBECWwp87VSaTKz8v_qRdNimisv75c1Ju2zhVoVszX1gsaT6xwhLGCdzlsTH6AsFAPW60UlL0ziaT6cnKPM15bcfLHdWbwFlkDtBLW3Mymt8pvqeM9dd2JX8JpcckZrD4jhpXh91shMhNogC2jUYWTm1_zQ2Okmn5pvLNH70UUrpqIPjwuzfYKYL14ihlfu_5qGSCjpnJdjLd4ZguNDRVwg9RFE5c7PjM9WgyAjteVb15tvQ3VVLA2mAY2T2674uyAVXQX04aKBUh1g62C6GoSYKcaULVe8pSOUIfnbWwNTGSgVRMm2KDGOiRHGmMypaRHxJxBOraj1OMBVyZ3DP0Ao18-Q3bJ2PLCWRKETiyT76jp0f9H6PGVZcNsjI_c85enhyLXwRozvP9Cx53XXIQw2WkvffHY1bHUBF6wJ2kElYM_uASVx6bxv4Re0_TjJaop3H5J-zlP5ftT54C8_KKHSDEJzKaZ7AVniaW5Bm3UGZfbxtTJ69uknjvkQWLx2eZst9RhHlCEGRhcMyEAqtDJJYQDt7yyeFyAwxfXrJX0tWyZV-fRFf8btfRMQm6K2_iIr4ksJZJffOGj0TO-fCvEHvwJPD1yX7QCqMPaMPNpEbT1s-V8bUqOaciumP9x3svAbEG8KhEodz_13QNJyeMW3FoCqhPnbxlBxmSpDNFumUU08QPRo72C1v5gzfFPZlVPfAdeaYKw14ZfVOHUlKSWVI8Y8YtOwjcNyU4HHh3OcbXq8Z76UgDzuSzzsVheE9iD7bTqrSUMTkgUx7ps4KM1p_C4uuT0Bz4CjxlqcRgcgF0tz4rHGPhLT6UuCn4CJ9EDTd3dZ3lZEgkII2HS9Cc8DublGLpjE860fCOiE7eR2aohtJffh1GHKty9_vofievaIrIYPtKGN8pZEddKyQd8QUZ-EFt9r2XNUlbzq3YCWJu17--X1y52cBhPxhOlgO1NjD_JLGQ-yXO8oZDZ8_mqnsepMRoB8vxQygCePk6xyUFoN92vE7-2IhOKPPfYZQ0LxuxGncxDagFc8xahQn0hehpLT1UtUzZn_b_BW2s9bCVoDe_YFrrMq6ntpyewVx60FxwWLi3fVAbHhS1_DCjfrMlwEG41DvOsJFfV4q7v4SToJ6fKlRXBZUvraDv_O_H7VEqZXmJIlQRqWhB_VNSBLvlo14rZ5IxN2_Zkr7LQhrHgWkVJIlH5HcFWTJhqPsAx8ZBAhKii4LqPTpx7_U2ykK6Mna6iPxGT1DYOiupFXaXS9SWH1FN_qDC8NTaIGIgIGfkwBx2GQBlhhkHlyL_AL3pUGw1Ur9bUz1Wb9XgUex3uAg82uSyqX9Vd3_77afFABIjYRthq-KoYPd_fJ4vssANvQ_PXgDWBqVLwqHyFxuOegJ8xvholJ73RX4aSkYCzOYtxLFDZjPq4L24WhTGtkxioBGapGFvb9JSAZXkivNo1VWfWNUIpLh8NNpcAs6B9Nh-iLafAUaupBu9e-i-7S13YLJV0OJBa2EK1G2RhsvV-jZ_4e3uX5VxQwbYBA1G4-LZ_DUki7khFB8-XE0XpMof4Z-JBe0w5yiRr2bPVgVCXs_VXub4h_FP7Srxua0W7cG8esm7hU0W1jGkk5oTQ5XDSYLnwwI8LMXrTGGvuvgpGoDDyYXYRLHJaIf38-1uF3k7T87QuIyhyoACzpwp27X5vewOsKI-kuO0NHUbD1tAqMSKOyc0NryePlYHJwbMEGyOgFZhmagITppb90wCDbzA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f2da222c0e75c86016abfcbdfb9ac87d1ba4c699c915c2203",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 361,
+   "total_tokens": 853,
+   "cost": 0.02297,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02297,
+    "upstream_inference_prompt_cost": 0.00492,
+    "upstream_inference_completions_cost": 0.01805
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 352,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

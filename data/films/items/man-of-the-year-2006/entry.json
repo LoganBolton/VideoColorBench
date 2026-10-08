@@ -1,0 +1,21 @@
+{
+  "slug": "man-of-the-year-2006",
+  "title": "Man of the Year",
+  "artist": null,
+  "year": 2006,
+  "label": "Man of the Year (2006)",
+  "hex": "#2B251B",
+  "rgb": [
+    43,
+    37,
+    27
+  ],
+  "frames_sampled": 6893,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "g33k2lO6VWI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

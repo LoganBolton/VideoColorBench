@@ -1,0 +1,21 @@
+{
+  "slug": "arlington-road-1999",
+  "title": "Arlington Road",
+  "artist": null,
+  "year": 1999,
+  "label": "Arlington Road (1999)",
+  "hex": "#2A292A",
+  "rgb": [
+    42,
+    41,
+    42
+  ],
+  "frames_sampled": 7071,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "t5scK15qYOs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

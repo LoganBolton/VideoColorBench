@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907319-FvdMp15V5cBsgsr4DFfQ",
+  "object": "chat.completion",
+  "created": 1790907319,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette rather than a definite identification. **Stonehearst Asylum (2014)** fits best. The barcode is mostly desaturated browns, grays, slate blues and dark stretches, with only occasional warm orange accents, which suggests candlelit or firelit interiors. That muted, modern-graded period palette suits its Victorian asylum setting. The other options fit less well. Black Christmas would likely show more saturated reds and greens from Christmas lights. The Messengers would likely show yellow-golden field tones.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "The muted browns, grays, and dark blues with hints of orange suggest a desaturated period palette\u2014Stonehearst Asylum (2014) comes to mind with its Victorian tones, though I'm also weighing Black Christmas (1974) for its dark warm hues and Christmas lights, and The Messengers for its yellow fields before considering Exorcist III as another possibility.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted browns, grays, and dark blues with hints of orange suggest a desaturated period palette\u2014Stonehearst Asylum (2014) comes to mind with its Victorian tones, though I'm also weighing Black Christmas (1974) for its dark warm hues and Christmas lights, and The Messengers for its yellow fields before considering Exorcist III as another possibility.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0AgKEAgSGAI4AUIIdGhpbmtpbmcSDGm4SeuMdX3AW/IfLRoM9823SbxTlHNAMqY+IjAp0LVke6q2xw8ePR6h4AbrFxAPjfrKo6dLRxN+Vc3DQv0MwiGxi532v+/xZL/zP0Yq7QfTHW8kLZ4IHcmLekhpAdjwwowHD+ioi651ZakEAqqGZmYX4a7RLW4HulgdreTgfLEQ43NICscKD4G63D/nI68F4zROXTqJI2H/4LYx3sZyVHDJC/OoTAcLoVCQaYftoyCFEvo36LbjTRxV1MgKIi/WBajWPFzKIwJ4mC4Iur13ezQPpk8n73vVO3QEEKMflMzwxBC0ATf90n+blK67W7RPaNczzTxj3gPIsRwb8NhlXnRWMM44wnL/Q51x7bX0RjlM7kqaCmBwBs28lyUhKXM2tVOLV1WMYGl9xC7lOV8Phl5uIMW8jJBv1Xw2sw2ez3hA3ptfbLyFZqTP6gPnS4aOKgKG+Y7Wo6kLyE5ytDv2ef4abGZsWbt+QfEhJjNpJOFWFjQGlTLsL5x0NkUG45zQfytWAvOQYs8RcIndnLRK7pGayKwCp4tj8vD26/ywV60hpMv6jx0Pc0+zEi/4PC5YMKdrBQCBVkditojX5J44Ie69whKAmlGJm7XyLG3/Moec7d1ibAhjuK/G49C5gPXZ1W7mpJ6ISb6LqdRO5sfR2Rq31mBAmYpYcVLjOXkr4J6VFyFrhEVtbW5dvK+NrqdF0Bg6ruD1acypZCmAAbQ04CJyCY6eGtxQdFVLgod5PbYX83WvUvoMjCAl4b/o/YGneKi7+I4P1HAFNqC6vAEXacI2I8LLmb3aTAV0umImmLgvhR7e4TUvIrGSTKx/dLRgrY6OIi+DekFvyxQ0d7V64Ck3IayfETKHoL0uLHlY5SBfhZtvGrl5ykYIz4+noIjfaRqUkxP9DO/v6jAg30fu2irpagCjFz7DUunnDC+XfKhr9dG0kcw5guDcvxcRkgUp5leLm8BuWfFfK22NdPXZcIkwDqNBx/uJRgV5eZv1nkdQu9Qggfvd6mJ4Qw37ELPC86gZOFrt2IZCHmoAfCsmsMvhNWCIIlSmiYIEH3S6HIJ+J1HhAE2qGjqAOYNVo9osjmgW+231XByP/BpK2KRxBQZT0EEZlYL2461SSb5sszjZSOt5adu/RsS1jJJCdlDVLeLk0IKyKeN3H7anw7gF3F6j5NVHnC3VgUxPSFuh5dM6TWxque9sSsVPeiv/VKA9ElJJd/MavRQ+cpAAAJYJYArTKTG+QwYO4vinGZbkk5wT2ChKXexeltdE2K2GX3O0gn5tk/AjwepqIX4tQh6J2mT6gfcQg3LQXiJwtownOWQ29u6KcPnnx/9vebEaN5X8zMDgb4qHryvnAKB+znCoHsBxDOfFjkHBazhAnehshlQxSJ2Z+Ht5xWBxzI+MUZ565yD++AkQLYaK3yuMl7DuI+4taeog187j3/OkGgQYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 533,
+   "completion_tokens": 390,
+   "total_tokens": 923,
+   "cost": 0.009932,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009932,
+    "upstream_inference_prompt_cost": 0.002132,
+    "upstream_inference_completions_cost": 0.0078
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 206,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

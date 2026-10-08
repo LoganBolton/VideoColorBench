@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954440-VheUKoGjdFDhdyMcvpWM",
+  "object": "chat.completion",
+  "created": 1790954440,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": "**Evaluating aesthetics and choices**\n\nI need to think about the color scheme in these films: dark brown, gray, teal. If I evaluate their aesthetics, Charade is colorful but probably not likely. Transsiberian is snowy and bright, while Bad Lieutenant has a warm brightness. Before Devil feels muted, with dark tones. I'm debating between Trespass and Last Seduction. Trespass features luxurious amber and green interiors, compared to Last Seduction's darker themes. I\u2019ll lean towards Trespass for now!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating aesthetics and choices**\n\nI need to think about the color scheme in these films: dark brown, gray, teal. If I evaluate their aesthetics, Charade is colorful but probably not likely. Transsiberian is snowy and bright, while Bad Lieutenant has a warm brightness. Before Devil feels muted, with dark tones. I'm debating between Trespass and Last Seduction. Trespass features luxurious amber and green interiors, compared to Last Seduction's darker themes. I\u2019ll lean towards Trespass for now!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vTt0s2Sc0E_AdOXKCN76No9HyuXpLSAmIC1Jv1mlvrDV00TYgDO000mLInSykP8R69UcW4p6DNuHKWIgS6KJrC5enUp2-6Is4Ozoj_Dwq3UZ6FOaR3xgOx-fOaMQtU-qY08yGgY4Kbn_PlCIClAQTb7z_3vn0n0r1VEn0zidj-qWxeziZI-jNJq2xjFB_bgXjwYib2CgxKlWrvT7cgLjaDr4FOOKy9IS9u9VDuDtfD_2JoL2_NACOCAQ06RmEDcrbJ8P5f_9OTX4GnJJwx5ugSaamY5IBbR-DxKFfsSIj7J-ZlsXVRD-397VLXdjjsxfWzMUfu4NJ8lkg4p1E7pAJ4uWop_2LzVoUDGmeG2lmOBM6s1HsBulgtgF0dWOktlBr_eXYn8X2zJT1Koz06DoYzvWH5IQWEG--21xhkIRNlPME18NeTzY0JFsIwHPjnARKpP5NmQtfTefLsxikseN_GCQzwi5G_o2uEWwUGwFxj31KJHHZmO9-pGkg2za1N8m7eg9tatvSwqZKQO9oprh_KXhKQrvvyfJsv7tlQlUt51HYPl3q_Vjrm1KgdIZXjWI_J8sFt2ztgF1W6W3CrvLAWsr0OjsfaZsPkhzNjzAg-v2n8WO9sNBnwLAp49ZxY62pCeQRsA2qrgk8KXK3LO7bLpVeNkIgAQWh7w3WirQ0Ka1pDVuc_lQavIb3enmHfmV5iG5xWTJerVndPfjHTvkkBTPHX64fmMRFbnKw6rZc8HmIAAJWBYKRqNpVNZ2twzyBNR8rDVD83g9EyTA9wdg_kPF6pbG3Tx779rZlcbaSbduX4izA-5mPxwIekRm45L1GFKJmxPyBWRtsMCdd_bwLL9_jXFHU0Uaavlt_NUnhZwIhNrI1eRhfAKnIIydywydW1Ck9bM0_hovVv7v2I803OlTyBz-xvrGalVH5Zus9giMwKadmPCzsyvfCB-WHJH4_BDW7d8b_9wFM7IPnGo__Qr_tV4NJlBDbzo-CLcjK5B4wkpvn1wA5jhxSEZAVb1X2a0d6wfjQf3-GOq76V0BsYXVA2-lkEMnOYwy66XQbN8eAlNG0byZbYsdzT9qFa_bQKZ83pmx7GAF23RBuXg9xG0_Bq6P3bKWIPIu5Z_uA74CruaOvPWUD9SRuUqEdRdEx74aLelkx9kGq1XdCU-ia8GvW1DvYk0TiZa7trZMIo9ZZa28ZnYPsTomlDg1usSgxfOhJt8VdsGVKCLZOzHTTEzYkfnF9S56O8me0p5dAqhHZs6v0Tfp7cCkDL_vhNeW-lGTefH-vUO1qpDNW54flQNuAsyueodbJ-RSzATXeQfFdhvhFk0WS2gN29H3yts5y7NZn7NfzQyayh3UmcuV6nP5MSSle6iZach1EGYCJAWCvCSfpte9wks65OCau2BTqB4DSujaDSlSHIWJmNL7pvZYjUrZyyphmuVimmWJEwFDvR73n3mad3zialzgbbObEhRC4ttFMdDl86eEIDColru2Q8_njkLWJHEpl8U5DVufrTOZnuX7f-a5B2Cv1NagLecHXaCX8PUNyn3ix4Knq080lKNbWNkZunQjnZ0ty41lz_n1HCaqKhE_5IVq-GgRhaIEiJXeOeIJNKayRFVn-b7OZxADE4pH-KEEs_v3J6k7JgndY4HPKXYbPqjd3qu3ZoMRqWz8mBM5NFOIc8qQBqVIBXv9DG4iTzbRQDOlGnBJFsQOyO7PoaODCnAJ43oeETuzDGNGSMShMxUhYUiPta9HcnTSYXQC-tnqMju_fMKjeqU8VOLAXA_U7WSWrnIF4qr6YLaps69SyewEucZ-iFK5RfN2m82M36jBA6HJq1KW_i-XMbXh8ae0theg99SQdi1vy5JqkRfPWbBleo8d3EsXkIMu9OLsiBdD8FsD_qN0kUZeHyPIhqdIblRJmCiUBvY_R4XS8DJHMS1gHIkVEpA8ZZBDkfqMDV0ghzKHId-hr1jddt7MGqAQEAAb3w9sUrEqepwAbn_jhxvKdx7C2Zv4IbtNTMbdXzf003AB6P7fK8lwyDlDSr4g_egIB19jxeTp40Xqp4DytxR4ieAbOzR5cyDmxKLkNtEticuQlFXakl5_X-lWtOY8sUnDppNytuSiC3tAHiTf55qLewQGXJUXFZFuh8hhGjl2UG4MDOqAxnSmSgu-WdKdoM4uDkjlV8Uoj_4uSTQnjCWMaHiwprvCWEcKTbw16rFS0zwat_tG58adCMAVZZWrpgX5lnZh8z6nUzFNTL-45NQ8guQFStlP6IIorxcMyvon1XGSZi5IEDQK9Lyxefl9HUZwfXMlxTPzXdKS8Rzxpb69d3toZj7KkEryaJa0E5trvXU8El6eni06FIjh1-sUlHPIG7Xb7YvgGifm4-hld8omXjJjHg936PQVullOWtw44ou9vdtiip_r3fJjs3t1e2zFqM_dwmCPvRnVDZ7DvwYf7C6rzgQo48fZ-y9l-oYN_rCT7fcXvG0GggCyBYWNzK_iTmJ8-6Z6Cl0EnfZcE0hB53DwiwZo_11ETd45xXyTJntC93Y8ZLDZ5_E3v69MxZR_nG-j1kq0FrgLghsjjTilOZ8A6Ec9oRJwaf_HbSjYI7LgdBDjcfMSyCYx_DfGxy7YqE0yVp.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09e6aeadd637cbdf016abfcbca4c2887d194a8ed9374b4512e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 440,
+   "completion_tokens": 201,
+   "total_tokens": 641,
+   "cost": 0.01445,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01445,
+    "upstream_inference_prompt_cost": 0.0044,
+    "upstream_inference_completions_cost": 0.01005
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 192,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

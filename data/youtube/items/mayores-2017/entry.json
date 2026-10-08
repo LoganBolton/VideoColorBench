@@ -1,0 +1,21 @@
+{
+  "slug": "mayores-2017",
+  "title": "Mayores",
+  "artist": "Becky G ft. Bad Bunny",
+  "year": 2017,
+  "label": "Becky G ft. Bad Bunny - Mayores (2017)",
+  "hex": "#241627",
+  "rgb": [
+    36,
+    22,
+    39
+  ],
+  "frames_sampled": 211,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "GMFewiplIbw",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924144-HC1PpleuOY70GyZVWvFc",
+  "object": "chat.completion",
+  "created": 1790924144,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Chutes",
+  "system_fingerprint": "vllm-0.1.dev19754+g3a0914114-37d8eef1",
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nThe timeline is almost uniformly dark with only subtle gray variations and no bright, colorful, or white\u2011dominant frames. That rules out videos with strong daylight or white\u2011set scenes (Counting Stars, Thunder, Cheap Thrills, Let Her Go, All of Me, Someone Like You, Diamonds, Blank Space, Chandelier's white hotel/bathroom shots). The consistently moody, near\u2011black average color matches the dark, smoky aesthetic of Adele's *Rolling in the Deep*.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video from a sequence of vertical stripes representing average colors over time. The image is almost entirely dark/black with subtle variations. Let me look carefully.\n\nThe stripes are all very dark, near black, with some slightly lighter gray vertical bands. There's no bright scene, no white, no colorful moments. This suggests a video that is mostly dark throughout - perhaps a music video with a dark aesthetic, or a video with dark scenes.\n\nLet me think about each option's music video:\n\nA. OneRepublic - Counting Stars: Has some bright scenes, daytime, a man running, etc. Not all dark.\n\nB. Taylor Swift - Blank Space: Some darker scenes but also indoor lighting.\n\nC. Rihanna - Diamonds: Has bright studio scenes, white outfits.\n\nD. Imagine Dragons - Thunder: Has desert, bright scenes.\n\nE. John Legend - All of Me: Piano, white shirt, some bright.\n\nF. Adele - Someone Like You: Adele at a piano in a white room, fairly bright/neutral.\n\nG. Adele - Rolling in the Deep: Dark, moody, Adele in black, dark backgrounds, some fire but mostly dark. Could be very dark overall.\n\nH. Sia ft. Sean Paul - Cheap Thrills: Bright, colorful, dancing.\n\nI. Passenger - Let Her Go: Acoustic, guitar, some outdoor scenes, daylight.\n\nJ. Sia - Chandelier: Has a lot of dark scenes? Sia in a hotel room, neon, dancing, some bright white rooms too.\n\nThe image being almost uniformly black suggests the video is predominantly dark. Rolling in the Deep is quite dark and moody. But Chandelier also has dark moments but also bright neon.\n\nHmm, but the stripes show some variation: left part is fairly uniform dark, middle has some lighter gray stripes, right part has alternating dark and slightly lighter stripes (vertical stripes of light gray on black). The right side looks like it has regular vertical light bands - maybe a scene with vertical structure or a person moving?\n\nActually the description: \"Each vertical stripe is a few seconds... shrunk to its average color.\" So the whole image is a 1D timeline of average colors, rendered as vertical stripes. The average color over the whole frame for each time segment. If the frame is mostly dark, the average is dark.\n\nSo which video has mostly dark frames? Rolling in the Deep: Adele in black against dark smoky backgrounds, yes very dark. Chandelier: has bright white bathroom/hotel scenes.\n\nLet's consider the right side pattern of vertical light stripes - that could be a scene with a window or a grid, or maybe a person with light clothing against dark, producing moderate gray.\n\nHonestly, the overall darkness strongly points to Rolling in the Deep (G) or maybe Chandelier (J). Let's think about typical thumbnails / video content.\n\nRolling in the Deep video: Adele wears black, background is dark with smoke, fire, orange tones. The average color would be dark with occasional warm midtones. The stripes here look grayish, not warm.\n\nChandelier: Sia in a white robe in a white room, also neon hotel, also dark. Mixed.\n\nHmm the image is grayscale-ish (no color visible). All options' average colors would have some hue but shrunk tiny we can't tell.\n\nLet's look at the structure: The left half is quite flat dark with a few subtle vertical lines. The right third has distinct vertical stripes alternating black and medium gray, fairly regular. That regular vertical striping on the right might correspond to a scene with vertical bars or a person's body with light and dark stripes? Or maybe a guitar / piano?\n\nPassenger - Let Her Go: he sits with guitar, background is a wall, fairly uniform light? Not dark.\n\nJohn Legend - All of Me: piano black, white shirt, bright.\n\nI think the most \"dark\" music video among these is Rolling in the Deep. But the right side light stripes bother me.\n\nAlternatively, maybe the video is mostly black because it's a \"visualizer\" or black screens? No, these are official music videos presumably.\n\nLet's think about duration: each stripe a few seconds. The image width maybe 2000px. Hard.\n\nLet's consider the possibility that the answer is G Rolling in the Deep. The dark moody aesthetic fits an almost-black average timeline.\n\nBut wait, Chandelier has a long section that's dark (the hotel room with dim light, Sia dancing in a dark club). And white sections. The timeline would show bursts of bright white. The image has no bright white at all. So Chandelier unlikely.\n\nRolling in the Deep has bright fire moments but overall dark.\n\nCounting Stars has bright daylight running scenes - would show lighter stripes. Not all dark.\n\nThunder has bright desert - lighter.\n\nCheap Thrills bright.\n\nSo the darkest is Rolling in the Deep or Blank Space or Someone Like You? Someone Like You is Adele in a white-walled room with piano - that's light gray/white, not black. So not F.\n\nBlank Space: Taylor in various outfits, some dark, some light bedroom.\n\nThus G is best for \"almost all black.\"\n\nThe right-side vertical light stripes could be the part where there's a crowd or a smoky stage with light beams, or the fire.\n\nI'll go with G.\n\nLet me double check by thinking of the thumbnail of Rolling in the Deep: dark, Adele in black, orange smoke. Average over frames likely dark gray. Yes.\n\nThus answer G.\n\nI'll commit to G.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video from a sequence of vertical stripes representing average colors over time. The image is almost entirely dark/black with subtle variations. Let me look carefully.\n\nThe stripes are all very dark, near black, with some slightly lighter gray vertical bands. There's no bright scene, no white, no colorful moments. This suggests a video that is mostly dark throughout - perhaps a music video with a dark aesthetic, or a video with dark scenes.\n\nLet me think about each option's music video:\n\nA. OneRepublic - Counting Stars: Has some bright scenes, daytime, a man running, etc. Not all dark.\n\nB. Taylor Swift - Blank Space: Some darker scenes but also indoor lighting.\n\nC. Rihanna - Diamonds: Has bright studio scenes, white outfits.\n\nD. Imagine Dragons - Thunder: Has desert, bright scenes.\n\nE. John Legend - All of Me: Piano, white shirt, some bright.\n\nF. Adele - Someone Like You: Adele at a piano in a white room, fairly bright/neutral.\n\nG. Adele - Rolling in the Deep: Dark, moody, Adele in black, dark backgrounds, some fire but mostly dark. Could be very dark overall.\n\nH. Sia ft. Sean Paul - Cheap Thrills: Bright, colorful, dancing.\n\nI. Passenger - Let Her Go: Acoustic, guitar, some outdoor scenes, daylight.\n\nJ. Sia - Chandelier: Has a lot of dark scenes? Sia in a hotel room, neon, dancing, some bright white rooms too.\n\nThe image being almost uniformly black suggests the video is predominantly dark. Rolling in the Deep is quite dark and moody. But Chandelier also has dark moments but also bright neon.\n\nHmm, but the stripes show some variation: left part is fairly uniform dark, middle has some lighter gray stripes, right part has alternating dark and slightly lighter stripes (vertical stripes of light gray on black). The right side looks like it has regular vertical light bands - maybe a scene with vertical structure or a person moving?\n\nActually the description: \"Each vertical stripe is a few seconds... shrunk to its average color.\" So the whole image is a 1D timeline of average colors, rendered as vertical stripes. The average color over the whole frame for each time segment. If the frame is mostly dark, the average is dark.\n\nSo which video has mostly dark frames? Rolling in the Deep: Adele in black against dark smoky backgrounds, yes very dark. Chandelier: has bright white bathroom/hotel scenes.\n\nLet's consider the right side pattern of vertical light stripes - that could be a scene with a window or a grid, or maybe a person with light clothing against dark, producing moderate gray.\n\nHonestly, the overall darkness strongly points to Rolling in the Deep (G) or maybe Chandelier (J). Let's think about typical thumbnails / video content.\n\nRolling in the Deep video: Adele wears black, background is dark with smoke, fire, orange tones. The average color would be dark with occasional warm midtones. The stripes here look grayish, not warm.\n\nChandelier: Sia in a white robe in a white room, also neon hotel, also dark. Mixed.\n\nHmm the image is grayscale-ish (no color visible). All options' average colors would have some hue but shrunk tiny we can't tell.\n\nLet's look at the structure: The left half is quite flat dark with a few subtle vertical lines. The right third has distinct vertical stripes alternating black and medium gray, fairly regular. That regular vertical striping on the right might correspond to a scene with vertical bars or a person's body with light and dark stripes? Or maybe a guitar / piano?\n\nPassenger - Let Her Go: he sits with guitar, background is a wall, fairly uniform light? Not dark.\n\nJohn Legend - All of Me: piano black, white shirt, bright.\n\nI think the most \"dark\" music video among these is Rolling in the Deep. But the right side light stripes bother me.\n\nAlternatively, maybe the video is mostly black because it's a \"visualizer\" or black screens? No, these are official music videos presumably.\n\nLet's think about duration: each stripe a few seconds. The image width maybe 2000px. Hard.\n\nLet's consider the possibility that the answer is G Rolling in the Deep. The dark moody aesthetic fits an almost-black average timeline.\n\nBut wait, Chandelier has a long section that's dark (the hotel room with dim light, Sia dancing in a dark club). And white sections. The timeline would show bursts of bright white. The image has no bright white at all. So Chandelier unlikely.\n\nRolling in the Deep has bright fire moments but overall dark.\n\nCounting Stars has bright daylight running scenes - would show lighter stripes. Not all dark.\n\nThunder has bright desert - lighter.\n\nCheap Thrills bright.\n\nSo the darkest is Rolling in the Deep or Blank Space or Someone Like You? Someone Like You is Adele in a white-walled room with piano - that's light gray/white, not black. So not F.\n\nBlank Space: Taylor in various outfits, some dark, some light bedroom.\n\nThus G is best for \"almost all black.\"\n\nThe right-side vertical light stripes could be the part where there's a crowd or a smoky stage with light beams, or the fire.\n\nI'll go with G.\n\nLet me double check by thinking of the thumbnail of Rolling in the Deep: dark, Adele in black, orange smoke. Average over frames likely dark gray. Yes.\n\nThus answer G.\n\nI'll commit to G.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 412,
+   "completion_tokens": 1295,
+   "total_tokens": 1707,
+   "cost": 0.00294788,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00294788,
+    "upstream_inference_prompt_cost": 9.888e-05,
+    "upstream_inference_completions_cost": 0.002849
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 0,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

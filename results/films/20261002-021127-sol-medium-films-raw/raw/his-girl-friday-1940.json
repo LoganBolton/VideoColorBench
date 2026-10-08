@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907098-cUndXRTs6AX3hDiwMjdw",
+  "object": "chat.completion",
+  "created": 1790907098,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *His Girl Friday* (1940).\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Analyzing film lighting**\n\nI'm noticing that Film J has tightly controlled lighting in the mid-range that stays consistent. The barcode image at the top and bottom looks identical, with visually detailed widths. There\u2019s something about the final gray in His Girl Friday, and for this Scottish scene shot outside in the late light, I think it would have light bands. Overall, J seems to have the strongest and steadiest dull shade throughout, maintaining that same hue.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film lighting**\n\nI'm noticing that Film J has tightly controlled lighting in the mid-range that stays consistent. The barcode image at the top and bottom looks identical, with visually detailed widths. There\u2019s something about the final gray in His Girl Friday, and for this Scottish scene shot outside in the late light, I think it would have light bands. Overall, J seems to have the strongest and steadiest dull shade throughout, maintaining that same hue.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLnmqv37JljW5QoM0YIERy96dhHYZzCQpKH-34oCgZwqqp6yFZ_ZYNLbGEMx6TFkVmc6-uF_bUVzXHjjopplWpOpLSph1fdm6zvQNbJeqRC4IvDGy8-1OaHi6rWBLmvSFTRx7qQMs3VSnnBA_w_EYGVmyjPfAmAaZ7c8F87S8FJmNFG7beBiuu9rklTtdcubEoKJ4H5l2-M6k7SUaGBGPh_iPL9BROGkTINNWJxYcsuSYQRtSzXy0SALjMDO-VtTz2CXlzrxEkjXSpLp4otN8zuLPvM7PHbtv6nB7gzaR5ivaQJIe1DQNGrJNeev0rxDuLacrvUkJLfeLLmIFVDmFPl1C44LnbEQksNozpH2w3GDAcyPggq-BtalNo79XVtZTxyT841spM5I7KQBKsp3AH004qtttLNzz9FepxaacEIr10-ZoV9t0LWAPAB36aHNzHc3ZNIWoLAnMYhjjat5I8CuYTFsTdOrDD2yptFAXS_IBsJHIyCDdbj9mo7ex6GoddKp7qYj_YqLakhBqZbEzUq2cLFjyCiz6ZTholfJYHoXBt2_8fSYE1O_BmJ-qmWdVnw7AuPEmD5udCrBfGzODI5Ci5SzjSZske06QV4wUp9LU9zJaCjN71qEaQM8SjmQa3vZVqFPtBJgb9j72OPlJ7X9bCM0GsC36tNdC5cf7iRRjVEA67OBbjGm9GSrdGzBBR13nLSIP-_EkM7WDJcIZQfKpNe-wgSQEysCx6IbeERug6M1wtX-3xNaQlQggISX-3GOUF580F5WGoNI2SWjDaEPlq82hbXfOwmrSSakZHwlIAAAP57lcLe3BY12WOXlPGGKY5kDk-C-JLY1f4wZoU2LlodIhweMzW-ODdwKdylMhz8xmQx6d_UuTvjfMZcAzZ9-jMQwivpwxeCd5IzSlINJvnfRWK3SlXGn3qXa-cNCCKrK-XG7K1J50KgtqgHDdgYhxQNtRNPcYd-NCDGqkCaY9F6pbD_c3gcaHZVUTaWk1GT5H58cEkh-w0exySEMd66tuLepgIsZpYsyitwSeE3p40PevGdn2liGw0VmmHscHcarGzbS01_ewBxLTiEjyAPAVTeKA0XaBTkIVCSbJAZHAL3oDuzlbq9u5LyS1xkN84QdqWDaeDE5q04sbG-UGxMRPv4fFNG66hvOpdmvekRYPPgER59k0jdIgrA4pEgyc3ppm8N0RRrri0QC2zWcR7TGOWAeGhDrv1klHUX5IWxPevjKXMoBD75xmMK17WaPumty-VEYn6ZxH3vdp9oSypExLCs5j2xcaf44IMY7CE9cd6NPNkYH5JCrbH2oABDLnSqjVIrsEEkGxkbMH4ima01rQ1Fhe0cIGrgNM7DltNgkzi8O4Lx3Ld1a-VGX7i2vew_4yeH-EAsepyHN948T_gJyFgu37U1gKHxPj63ZhkPPY83zC78gPPVcjWr60WHDS06zYTHOvP7ZCBLK8evVwvK-qktkdXYzU7bf-lnN_AYrtar4IqCUONuzJnYmKAFrMR9KvvavbKBYpQcvhUYSkqnWEDovl_862IfM2_iRaBftvalpy5zf1ht9D8VIOTABehAQ8Jh-65P0jlHlBHy34JcQplabhOZGYV2SviYiUGt59tHpkwSmZ4rAg1uSXhzCXGueI002Ks_1WV1ZawfLoHeykQby3bCmHHH7oqXJzeQB1h7u2g3NxyUDIfrAHwBTnLDvSKpJRl6n-Cb5tRuU1XN1QrfPYbXfnjsHDu4FaXSn-t5dpGnho6mq3xD3Y0VTArBQ1rylQwlnTlYo54hUBm8GG8x2kftFcP_cF1rv-15r4AS0a9ue1zstws83Sjs32PLv9cmzlM23p1eLDvnyfl-p1gfdnYFzPICTCIfN_7bjPapYaPpxIegJTcmHvbHGaIKxjfj_W2UY5zjYZAXX3T_RQDMyMZXSmfaLydmyRZ8C5NcRXvULjg1oU18U5xec1fsbOEvdWGpxp5RiL9z4sEm2Xw2Hha0A2ERGTSGcmTvbMLiNgdUukht8eikHoG3ODy6a9U81RIiCTIskSB0R8wZWqI9zq-TfEyPqkKdvGjwsXYo36RDISs661jpwmC_AzU0w--d2JxTWa9P26IR_gs20ZEhEzxmPQFuyL7uS7MgzqRv4LB6ZpqLoRVjXgyk9nMD4Tiob_cNbNRJEbfo-M7QHXnXYvzDZfVsLHDSEqjsuvdGCL0Chs5lZsIcTZYElhES32Wukm34ERswn_Wzc01aSy1pbz-8AaXs4J7S3B3yd9c4aaQnZoJwrhD7_-a8PTQS31OCGbmenxsvufEGuhGdofG27mW7aR3mQbaz-Wk4JpVCLtpZLGwrAAyrlT2upcUOYuUNtR6U1XSYX5079srI4zN_s2uoQYQM7AXxoBEbu8mtpS2nFRXm8rEvnh5Q9KJc3qXfyWkAYT8OXKFTLRB0hyItF1UP-LjcfjmTENqWCSbMdI_9KdiZ46-hdwYNYZQF7dXArJynK6AxrRBVHVQACINFK2Q7QAEf2eXQkI-GxqNDyIGiBxwHNz4smQ27IOJ0wUFjPjbWA111K_dp4cLC-7tWtIxWE3ujLVl52lsCGTCGPCn8c_PJ0CDcZ5aQsbrSRhc7kWLzCy0b1URtClB7_0kTnWmVyio2YZNfj-FsO9yym6w_guE3aUVIBwJtj2n8iMRaUVtjQoMYt4bxMCQq9gg1nIwgVz29jwnZBQ0fjzKeHLvrsps7RTye1NsQAkLqzSFiNtDWxNjpbyK-s-UMutHAYNwWuQN9lKlPyn2nXx3kXNfCNrmhE5uuqQ7VQFwAX1ALOK9AbwkO-LDDUzKqOQGgIdj0qdKSbHnjNG1w-zQOHwqHRG5xzolwFDcglRPf-4L1uaXKWPyz7bsxrP2bYmL1IaxCq6wKeVjQ2ByWS9CCJi5C-8fsESAb-rOgRC5yfGTFb97wzF_IzFSJ34SqHdo8UqAUnRxADNtYpPoefw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08dfcc4f0f34d8b5016abf12e0209887d194a88806a128f204",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 264,
+   "total_tokens": 706,
+   "cost": 0.003524,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003524,
+    "upstream_inference_prompt_cost": 0.000884,
+    "upstream_inference_completions_cost": 0.00264
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 242,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

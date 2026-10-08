@@ -1,0 +1,21 @@
+{
+  "slug": "the-contract-2006",
+  "title": "The Contract",
+  "artist": null,
+  "year": 2006,
+  "label": "The Contract (2006)",
+  "hex": "#323134",
+  "rgb": [
+    50,
+    49,
+    52
+  ],
+  "frames_sampled": 5778,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "57YMa7kaZCA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

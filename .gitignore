@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+viewer.html
+hf_data/
+.preview/
+.claude/

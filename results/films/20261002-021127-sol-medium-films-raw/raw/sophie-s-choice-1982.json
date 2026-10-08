@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907136-RlTx9ugWPpHKFCyxia03",
+  "object": "chat.completion",
+  "created": 1790907136,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist (2006)*, given the consistently dark, sepia-brown palette.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing color patterns**\n\nI\u2019m thinking about needing a barcode that features mostly dark browns, paired with some small blue greens. It seems like the Illusionist dark sepia could work well here. For other colors, I want the natural greens and blues to be varied. The Illusionist period sepia sounds plausible too. I see a need for a dark background but maybe brighter elements to balance it out, and keeping length diversity in mind is important.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color patterns**\n\nI\u2019m thinking about needing a barcode that features mostly dark browns, paired with some small blue greens. It seems like the Illusionist dark sepia could work well here. For other colors, I want the natural greens and blues to be varied. The Illusionist period sepia sounds plausible too. I see a need for a dark background but maybe brighter elements to balance it out, and keeping length diversity in mind is important.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMJdRUYSvv_EiCMhdNjXnktj2-_g5MKY-ZM25s8Tp0nhRBxoFDxnHfND6elUeuL_F2znI6kJEI688wFNre5lzkMiUINqOP-TxCEJCTDJdLSoieEG5UkhnoIaFeAHeiiiHN8402Uaqb2VLdP3tztzPKocAkrCntai3obSIB4Nru5ite-xKw31V4TkjJshzgAnFkw7s-y5r5qM0Yfvps1N98By7ywhRCoB2NZkkXRsN0nGRWbP7TFm-gJa3rJhS4jT2DoZ9KnG7HOgZRlU8cOZ_k_ked4tRvlTdytQ4Blp1PfUNu0ndCihcUfeB80XM6DeefQj-5S-gRaGDzH0t9wGFXKHOpLLlp3EP3-zvCCgIBp_55QGA86-jTd63i0UjQ7lngYMZU-h0KZ5IG3XeOxQGRAd_kB7noeBvpaTPBbHxUxS7WSW1EA_gk8IbNb3aAkiT-ywdqAG7ZTlCONWLqwvpqPsrV6Tit42cZD2jrrK70aQzz2_R-eqqrBRbTc_NKt76_y37eG3AN0CTKJxHn4MIqxqqrwXbBCF6srslRjKxJrHyuSDfwymF-NmaxeM5ulooQO2-D9EVhQnn6Pi3htco2tC9L4xFNbMDA-Oemjq9nxg0s--gaeUnar5DbJJYkyUkJwPSiqTJH7bbtFS4kGUf8hXoopPoPuV8GJkTQyTgcNf8mfMnT1IDs0VR_hCGhnp-NAt9-6O6qHlLa-PrAb6uXGmpnp-90vbx5Wt9FaNzk3SO9DgqDYNQA7XNChqarIK9nOEoTQ1p99L5-QC0ZzRP2C6sOYIB9y2D_alUisDwyFMyxn6Ou4LKxR2B_r75UeW9_VWELRcVSU--OaIhWIrrjjFcwhfzmYIBaUUi32JB85qXxXMqNpGc1Im01FGrmwOs7IlWZy-HQEANA0c6-EaCy4gzI8eTMTifIZa0xYb-CPfrvAn3tBxJa-CCy8i0oDSr4Wuaz3xRA2grLKvDvqWu6fmEIcZauMBFhkEn7OkB2KStA-fFpLBLSeOW-K1Lq3s32jN4EXJ5bl79sW5ixoemBBI7OTnAX-JLeTip0GwfsBEv9eI0q_-CvgD_lF1tdM9iz6fjKvPTv-n-KIx96Hamhfx--C1OZVs-KAHxCduWh71lD2-ujh3wNZLg6gn-N5SLxtWh_Dud5gs4jv4PpX5Y-OmjfnQa2qJcLBTt4b9wTlB2wSCbeL7Xcu1o-IN_hTaB1A4Kwnnr4Pqzk8VkC105G7eWsxqyVau_Lf4Vo7-8vcowgaKMOr_rvEU5YXdMA800L1VMqDEOc-wRE7VrMn0ejGzbutnKIbFWE2aXveOjYp03T5JZOre-YMESRw4jBn85NoL2-wCDMYoiCgZA-WZ3SxABX3cXD-Vi3HL32DfuoOa6RNppumAhciBRAPhjVTnYRHauyaxH9k_-WuC3BMCe_pAcdAQU_t4uUE6Q3dYA2ivJd9wpQdriFxSmxOv72gycE4bKU54DtocqgatlSL4bYGSxNRBgZoetl1P7ppFg7oGDm9ULoBIwz_ia-jigZ9kteBOjbmKOYxGKJullIeXvazELM0WsFSIfhDttGSGr93JgKlKpNKHDsBZWe3jBqOLMSOCUci7MbhGjkHN-_q_QiIIQiOiqGeJ7ID7Dpe_SVGJf6j9xhdFXt1TsL33SK8CXDaGI3Sb44OikVD5YHOSIq8ICxZPYRvzW02FtuCUj-Fe8oaiSd3fFSBLkC2jaeUeoVkOgLtTXLLvoPpqnbYv1plW45wbKb-1CmH_Ppjz-OXhydMdYoznnnihvgG6ULQT91E.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b77503b602f7206016abf13062ec887d1aa0c44dae6e6e4d5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 105,
+   "total_tokens": 532,
+   "cost": 0.001904,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001904,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 71,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

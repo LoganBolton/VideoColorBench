@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907300-B9aoMH6fG1Fp82CMEwY1",
+  "object": "chat.completion",
+  "created": 1790907300,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette, not a certain match. The barcode is mostly dark browns, ambers and muted grays, with no saturated colours. That fits **Black Christmas (1974)** best: its dim, warm-lit sorority house interiors would give the browns and ambers, and its snowy night exteriors would give the grays.\n\nThe other options seem less likely:\n- **Sleepaway Camp** would likely show more outdoor greens.\n- **Day of the Dead** would lean toward cold grays and blues in its underground bunker.\n- **Manos** would likely show more saturated colours.\n- **Nosferatu the Vampyre** would likely show more pale blues and whites.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "Thinking about color palettes of various horror films' visual tone, I land on Black Christmas (1974) as the best fit given its dark, warm brown interiors contrasted with grayish snowy exteriors.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about color palettes of various horror films' visual tone, I land on Black Christmas (1974) as the best fit given its dark, warm brown interiors contrasted with grayish snowy exteriors.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4AcKEAgSGAI4AUIIdGhpbmtpbmcSDMoUopZO4htacp7KJhoMFCwf5naetuwNW6Z5IjAemYHFz8ukblyoFyg1pXJf9WMr8Vn6sJHM5jqw73NVgS7q7o/SCOhtIP/JgagX16Uq/QYdwxz/9tY4J3xQeWH0lyN60H9dVeab/+ckvBRZDpe/ZIe0ECMcJBqzj/KUS4By/bMYfAw10p1A4euPHJcZcSMlKuuAC4iLgnHMZ3l89mUoXRMhzArCKzfgqr0YdFOAzeqBRuLLo4mn/mvhQFm5cJ2hJ9aMUyKKa9X4jJRuGAi8h7rwi3Xz9Cqbk6VYqHvE0yVb0E26U0L+rq941hcN10Y0RX3a6FqvDKdhm3fT7Kt+Tm9lg7Ui/YBxjs1j41yexW32wkZLeVjbAd/1p04sYs6G0U1x+h9eH4T3kPh9l6gOyaiDuAT87vFbctc4rZvX7Jfxa4q6hAr4fEbKPgCdtBGf15Q53TLjfz1A3GxK33ZchsRVODRScL2JmQ/JP3r7Z5r+uDsQscff46RbCaaZgM37/97KIi73kUu9CIvI+Ep+7NyOxx3v6JqH3oI6h/SAPjquKe5l/tsfY0KUwj3Qs/79GRgdVsQaArn1/Tcjj2+FHpLn2lvo0ro8Lxnels06UHflbewEQx4rFLNNSUB+lDJuKsRYQiqexV68OkOYh5NFYxgfehKKHmePMCHYLr+ed3otF86P1d5WCRiqpdl7OqGNq+3x07xGs3/Mf+TTV2VDJCfRr8KUZBNwVza4RO0PfAyQXk5qNXgXH5FuaOTEyCLfYthk2Rie/W0C6LxGHQ9GLpXP5GbWoLhiW+7oxIkVy80Xa837yQFLLi4rnZbOfW7PsaPsXM9uiaMTtjDX+CF4I1vC7XR7k2HqH0/mbx6hodzsxYI8zP40WW0dbC6GFIAwaw0hhnvmdg3uisQpd7WfPULchqvXep9t/UHbK6A45o1gc/0YjIngrLY824KFbTWSH8wf8f53w+A6BoGoYNHsfO3XCDslJPhqSGQDEOYSMFTXAjwsSHUB1Nq4TVs4HmvsBiA6szn1wQ0XJgpuZOKJ9YIaq2kLIOeoHAbve120zPSyLaaJSKvFHuV4cFAp7FDJ3676GCjFx696p2Rp8aED4Qy3MMyDpcTPJS6e9QkbYqnQY2Ru6u4Yjq6FtJIJrgrS4kU7arvWaJY4PigNsddv7HUpLX3Eomt/dB+prLYpJwd4W+K07e963XYDpNkpFlzUpCXyUhb4MUnirfytNq2xXBUBjLO4MxPG1v7Tks3rwq26bgv7fwggDiVrxJJtfK/u1avqn6OnpgFTNHZZmxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 535,
+   "completion_tokens": 386,
+   "total_tokens": 921,
+   "cost": 0.00986,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00986,
+    "upstream_inference_prompt_cost": 0.00214,
+    "upstream_inference_completions_cost": 0.00772
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 157,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

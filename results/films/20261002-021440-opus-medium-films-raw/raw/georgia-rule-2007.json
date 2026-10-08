@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907333-WtaJV7vm7JOivP3vZb3X",
+  "object": "chat.completion",
+  "created": 1790907333,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette alone. The barcode is almost entirely muted earth tones: browns, olive greens, dim greys and dark candlelit-looking stretches, with no bright or saturated sections. That fits the medieval convent setting of The Little Hours (2017), with its natural light and rustic interiors. The modern comedies and romances on the list would likely show brighter, more varied colours.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "Comparing the candidates against the muted brown-green palette, The Little Hours stands out with its medieval earth tones and candlelit natural lighting, so I'll go with C.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the candidates against the muted brown-green palette, The Little Hours stands out with its medieval earth tones and candlelit natural lighting, so I'll go with C.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5wYKEAgSGAI4AUIIdGhpbmtpbmcSDF5a9q+G5T/bAeH9HxoMmWKHPZaXA4Veq8g4IjC4M2BUT89E1JWPfqjxipJUltvitbrXihy3QuH2xZObSWLD3wnVCyFhz6ZUEaBDAU8qhAZvDc0Wm3esiMGK9RCV8MXi0Pqu3CXyPQKo2Jt5GxwN0EpZ9pOEc0UgmpJOJJxrp+AdT56uRLuFZ38wnhFz+7eoIh3dKvUoxcwaLAIfMfDhSpStA+7Ba0dfQMmpw8vYgi2yESYgsCxa+qfmjR0wYVJHlsGgnW11aZs9QvYFQXYDJRPqhBh2c5OmqNh0U+Iqf5OZCZya5V7CQOz2FlfJy9MzvXDhSjNIh214KjOnXuxVwbM1b7rj4LLhPvml7ND+wfVuNzPSuEoR5SyfUvM8CW3ryIqpw3NVYZ1sOgwua8orp3fJB5qoO/GwYtsDRW2lkPEZ28RaSxoDj2gB1CjNlZlcaYcA1nuuESlkkMjFnBT/gK5wWjUIrH6Of2KOSlkJUA8HzIij48GjgSkGSVMN922k04vo2OVKDQigSpzm75XP46DosK8gFU6evzjdBLllskebMjB+HSFO9TLXEbBHOkDXVyhmoXNDcVkYkrhwOkHXINjKDYWzCv/QEBV7DZmxbfMuxvqaCKPkydSt/Uwi8gliBuXzaExHAUBSGsoP9oivBQyQSvStjFf/hrbvk9Pfn7TBLG9+lnoOzCKaBf51Qn24xunLA4UPf4y5MqF+t4CfdEO/+AG/86vsCJUNcKMnBhiZufFBJc+KiSMAbLPc209H67EGe66GX1hB66KNgmc4F7maNZ27B5gOnYJsgLTjlErsfkc9shOYQdpfeDcZv4S/Qwz8ZEqVelYb9GcuVW8wmfMFxvR3i3v08yWw8x/QYPO257tnaRBMXuuh0Jtw3JD136lTyVWeSZKvUBDWBRmR/TSw2mwJQqWpoHemY9HvyHWm6CIDjJIuo0KrXuygbk5x0T7vWsUr5TFz0pFmNPomDU4vSTadXPP1c4ht6LQwZSRMNu9513ccZKg/ZVAo6H+SrHKLZmz8hUmdZzV6VnoWCxh+AOeARypTw00MCul4VjUayfjQJ20d5wEftPsmD+o9h1PujA4iVL7lfLSdFUQ7DxGsdkAh4X201v4acFSHZC34J4X4GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 532,
+   "completion_tokens": 250,
+   "total_tokens": 782,
+   "cost": 0.007128,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007128,
+    "upstream_inference_prompt_cost": 0.002128,
+    "upstream_inference_completions_cost": 0.005
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 112,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

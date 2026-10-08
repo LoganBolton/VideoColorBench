@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-cT6vc4otITPlGc8MBXZG",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost entirely warm brown, amber and sepia, with dark sections throughout and no blues, greens or other cool colours. That best matches the dim, orange-lit high-school gym in Nirvana's \"Smells Like Teen Spirit.\" The other likely candidates fit less well: \"Sweet Child O' Mine\" has more desaturated, black-and-white stretches, and \"Zombie\" mixes in cooler tones alongside its gold shots.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Thinking about color palettes across these videos\u2014Teen Spirit's warm amber/brown gym lighting stands out as a strong match, while Sweet Child O' Mine mixes desaturated color with black-and-white segments. Nirvana seems like the best fit given that consistent sepia/brown warmth.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about color palettes across these videos\u2014Teen Spirit's warm amber/brown gym lighting stands out as a strong match, while Sweet Child O' Mine mixes desaturated color with black-and-white segments. Nirvana seems like the best fit given that consistent sepia/brown warmth.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxAcKEAgSGAI4AUIIdGhpbmtpbmcSDNlYOxDDu/gx8JvGZhoMikN9eF1jK7JdGpFaIjAwYtn8prNzgcV+Yj7x2YlYlFJ7V/LMvMcHQNDf37pZ1WoaFIzsLXVrvLwU/+MEXQcq4QZOPO/bSFU+r6NUwrv/aYgPmv+9bi8zb2VzBfQvqQe3SZ7xitFUlLdHZHHzYWvyu05yS5eOE7gM8Jt5u/MOy9BM3sUyuH1jT5QB28MSsc+gh2h56cPa1dZydgJWRqPGzxWQaIfocP8oJ+lIuqEwjSN/LKmKY04Ot8V4kRIGpnJZrvLxM5uBcu49ga9CKRghAe+zcGNM8x8fCoI8iefUgTQKlz7TmT96Z47MYkAi89PQyqNETBP36f3MvnIBBVzBwJwzCBIX95nYXCt72/SmBvw7YjftZMK53DgI9teqUKuYBv8UjzVBeUXf5vmr4wfNVA1Ux+x/fUdhcXgBkUdoGKdZTG6G+1bo4H9ipeDDtsaJEVO1ji4cqzxcFKbiOui1L5P7xWX4Dl9vn8IE4sJUP6mjivvnIsaUgvaMAlIaKrA+jmVdsuLIq5WzJAoCU5i2PttZjseWdUv5Tv0DORP4Pm530rAfp3KKh7ApPHPZt3C5B0pGC1IdAEpaFPSzd7b6RF1kYgfERIjEhZx9MbywAdw/D8Jp98335dL86E0VcLeTd8usdXdP8eJ+F4iaTg5/ZGyehRLziuJ6M621D1UjU2aSUC4f0g8HlXeQo70h12zXPdOm15uEi+SDWSxzfJ3f24Q9J22ozG4S4TuMXiplHdP+LZRtrOZW32u7rLYGzYv/9klb5kCYU9i4nfZHJOOm5c7heyxaKe+IdUTX/fq9dAFG8/dTDgbq+IuM766YG+bX6tZn39pqXy6qyeiUGPGY8sEqtBLGLd25osugUWEbsEFahBcDuP15yTVkwE5/u9/YOV2mUPd6THGVztsuJ8IjmDbdRXgfEicVN66XzIHHwxm90QnJvgBexgwNXXVRl3oi3Wee7D7TV3e3Ze36NrkrKjjslRgPabiQiXvqp8IpjE1lTKcEV0/QoPumnpzpXJFNv93tJll+KXCcRkI87XpYgWfRvs7XrhBXdJE+Dp2/W8XRo7XCnYqjWLYhCb4M8AeVHyR4yMiDnDINt5CaVz1fT335StlhgdjyjRhUP6bWrmQYmFm0VYjMo9oYYBDgcIL8L6HU9GhLCL+ekZf3Gkpu8P+oCAdNW7la2gXpWuJrEw71VClu9J7xslsTPaJi5ri3NYcQn00dPbkqF1GUPKzNzXSwGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 609,
+   "completion_tokens": 311,
+   "total_tokens": 920,
+   "cost": 0.008656,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008656,
+    "upstream_inference_prompt_cost": 0.002436,
+    "upstream_inference_completions_cost": 0.00622
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 154,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

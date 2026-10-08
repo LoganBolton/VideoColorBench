@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955125-5u1SeAy3HfNyp0U8j7xr",
+  "object": "chat.completion",
+  "created": 1790955125,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: J",
+     "refusal": null,
+     "reasoning": "**Considering color schemes**\n\nI'm thinking about using a pastel light pink against a white background for colorful dancers. The \"Sorry\" visuals I like have a consistent pale pink throughout, mixed with some greyish tones. In \"Shake It Off,\" there's a bright feel, but with darker elements, like black and grey tuxedos. I wonder how to balance the light pastel with the darker colors, especially in dance scenes. My answer should reflect the vibrant contrast while maintaining that pastel aesthetic.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color schemes**\n\nI'm thinking about using a pastel light pink against a white background for colorful dancers. The \"Sorry\" visuals I like have a consistent pale pink throughout, mixed with some greyish tones. In \"Shake It Off,\" there's a bright feel, but with darker elements, like black and grey tuxedos. I wonder how to balance the light pastel with the darker colors, especially in dance scenes. My answer should reflect the vibrant contrast while maintaining that pastel aesthetic.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv857AQWLSxNDgB-OCmWYlE3cPr5EcVq_2E7xVzW2YtzIi5L-ManaZxMzGnFsXNhSxVcZPLapyjOcfo-ixDcUtVOFxYDzdZoo_huGEqP4VDowYWh2nAtAXloFOaMe_GN55xD8aXILymCgpiJQzTa5TIGLohfQmqOLetKg1zPSFhHGGNluTxNZX57z2md9ZXom-kgeeYVQZ9FsS8hHcERkOgOtkFGu61R6NyOK7hnXXMiNtuhOrIJumvnD08S5j3ELPuTaaWXL3xmIh3I5SkfWgx-QPJWDmxQJmDTdSn403K6ialqIIvfntqsm5BXMXXWAv7mU1IvGuB7dVkQit8PVNkOUyCtVJUImn0upo4PdVswEImAFdkgbMprzaSYzvwUjouT7Tbsw_TPu85UfobtCCBudUWRShuPWJHAWuTozWfw1ZrQBHTB1gDnHCmuC4bXsuXdy4cj0hOp7TlcVvLzesWswUhZ-rkGaGV3fa9yn90F0_1QMjTfmMLUuiZobb1rXukqk9w2PQuV3V5sOy0Pj2gnj8SMIwOLldrqUMsF9Swhqo-DLaxAeN5H3bZ46uAWUINM07Rm2Fewgg-QV5MqP0Ujr05-Sth31Whz99ZqCLaA9jO42a_tvVhbUaPHdYPNc9lV8Br-r0wTA65_6Ww_yG8Y_JMznI7Qt6S6NIMoeJtE_SU31mENLz6q-9JcONE1kaqWMn1NPbRaUlGE0BmCB4Z7Od4VlCiaCa7FMYqo9aZgvLCVMjGmIwU4az1HMNkCPFzuPCYOukQsigzpVV8nTjmW8_2KhrchE5EWhCP0m6bPRcdbHXid1gd0zR3jpAXrV-IQJb5imeNaXLM7pXsjeqcjlUFaeklIfvDHKOmhBo2doSCj3qvLCzZGqR3embuJiWpESogL-W3icmbhfjtq-yNruxgRuWyRBWtQve_jtb8cWouQvXZAw7ehhzSlwLOKvAOId3EkQ0zrSTu8nHVJsBDjy8PymwP97K9mEvRqcSK-KgU5dXYvCWH6WCaftaHaWAJOZh_z6USOFxB0DZhoDabCJXtKCnFHsfOgfR2o2B4j_hVKS78dEJGf0g2qMX5DAfvfThpcl3dm8sIFoyuiDgkMbGpXKIALpWd5LhJZMhAXXH1n2TMZROssAM3P--T319yqrdaxmyEkAKQyRBR8vHpMJHI8VV5wUpC6oHKhqeX5adSntK7hGm-PmKuU3M_hmIfJ8B8FFWVr8iJ91zCUVWypCgWKZSFZGIqknRLibvTuuMkierkLnK2rytHx2irfj6ImQnSPQjS5wFR3Q8t08bJ1IRrf6hHnvf0TXkh02ND4J3VLnmEOyUThxk6led2gbLl8VgL5le-M1jHjbgpQnKBlpV5tGt9BMiwYeOXkJH9WWd7rxCRxv4G5I4JDkay7FtKNSSzBosHWF5QA2Ca3jO6Ui6bI4b0RDcDAklS8jeklVlbYqaTl8oUhfHZpNdgcYyakXUiKB2eF36w7_Ciq9R_wYCJTG4wGP9qK7DwP-nGgefoFkufCb3_aabqQeKwadfRXiIADcNjyPICBfQD_NX7E7x0ig6wJNi1Fzq_jOFZO-q5ZlBuR04a7yzMwUkKmyvKpdDusHeqUslCZN_NrWNPLGPik5Hy8lX9EYabiEhPbuuktrKyh02bFLEMW2yz9Nf1GGOPPmIcpsMqdww80w9dmD1h0gyVClimAyfyZcehsLhPl0xLLwqp4UnfFxI-0oBbRdjH0d7cmR3smJkyw_DRo56e6sSqEP6LrMw8XlWvdswtVg3q-iWMRDfuFV2RGghdow3Od18Gg2-E95aTZK5AdOwfoRtZJcAIEiuK4_Tw6376GqKE3Qra6zoLnN-eS9tK2ZU9md7222rdmKZAzSCC1tP6wsnPyMWfy8pDK3JIZgAjnY_HLTrh9iscUs0hI7LknX2_hg055XSLVZu2NqMkp09M0YE_od4iPMmMNjPkSUb-U=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_068db16fc11bc2f4016abfce777c7c87d19e04535b30386652",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 100,
+   "total_tokens": 573,
+   "cost": 0.00973,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00973,
+    "upstream_inference_prompt_cost": 0.00473,
+    "upstream_inference_completions_cost": 0.005
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 91,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

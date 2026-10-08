@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-cVO3riNwdyljBgDK6m7C",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "**A. Linkin Park \u2013 In the End (2001)**\n\nThis is a best guess based on how the colors change over the video:\n\n- **Long stretch of browns, ambers and sepia:** this matches the warm, dusty desert setting with the giant statue, where the band performs for most of the video.\n- **Shift to dark blues and teals near the end:** this matches the rainstorm that rolls in toward the climax.\n- **Final olive-green stripes:** this matches the closing shots, where greenery and plant life spread after the rain.\n\nThat warm-to-cool-to-green progression fits *In the End* better than the other options. *Numb*, for example, is mostly desaturated grey-blue throughout.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm thinking through the color palettes of these music videos \u2014 Sweet Child O' Mine's sepia tones, Numb's desaturated church/school scenes, and In the End's shift from desert sepia to blue rain and finally green growth.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the color palettes of these music videos \u2014 Sweet Child O' Mine's sepia tones, Numb's desaturated church/school scenes, and In the End's shift from desert sepia to blue rain and finally green growth.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1AgKEAgSGAI4AUIIdGhpbmtpbmcSDCPgR2vB1OYnDHLY+BoMKVrh+T9rw6l28pGlIjDkXksvNabKexvkesXtrA4ysy095yg8WFQr3FIcHgbKYXOJDT6XVsxgOkyg5e+Ufysq8QdhqF66m/rD4RERBNx4YV/RZ7kRW5eZF1Zl7POpfwgNR2nZfClQDEiDUSwJc1MFDm0fquLHIdg3XA45XiabYdMdUMcS1+ZhGZhaNCRpG+t0DyGdKEeOhmhZimfO8m6n9OT9cGM4wZ9OlW5HfWg2gAt2MP86QFkTNQeSbe3FBWO0rCZ9PsKntbGsv2lRIuljv+sAw9jfgP3B2QYPitGpQ2ib8m/jM2MeBwoX7cUC/BJ7ejkAXQRicX5I3QHeIuvLhfYfYECW6O4X6oIO98gALqv9ALXYObwfycahAiAw6anDiCwOc2pKnl2fmzG1voODVJM27M71BJvdMf/k3DYXmsyZSaByFnooiHx47USsCXCwsnVR6vX6PyZV0qjToSfVMqQHTKJWmGuXixlMi2BtEr0S63BXoBVaBirdPPAaKMFAl8m7sXxWAyA4bJ+bSXbWJdaHzvUtElqOzR8B4+lcbeC8RxdHPzRg8RWU30fc7HKShzvV6GfL/X1zSIFMkO/T2Vjc8NT0cz7QeLQURxlosII0fz7NSlqSGGxKPzrwo7dCFsPvB9n5CN/5cweuC20O9GMMrYYxpUB9miZJ1O4Zc2LrgeCbkyUMg4rp0iIG0AJbzCypJnCDg5U/EvOPdxB3SWZXpekqHVwSu8bCpUIJam6Mv3LsqwhxRJ82j1AbGBjMlsFdQxMSpcgb2kNI1DC74ykwrB2VTNtGWjMhnHc3/bSB4MsW8KuOS+0DcNYprBbfiMxfF3/OBFMHm7RMl450id5YVRbYRwCQCcZ2DyfAxCunEmzdjFOw5rSYXpHolgMQXHNV0SCGtENtS+bb/Qnt9qeRW+ZXcnvFvTNVzqqhSCndX9rzOOvyp6UHk86y7w7g0YKTuEajn5iD/aocXbLhhv3jAsF8rbgNwOTjb3VWY7xTx62K0aRndU9yHLEYhsImLTgtx3oX6buwzNtOEDbXcEDQy0uxgoYNlw0waKngQcj7T91Oe6HINjlT+Nnv2iH7aMgRtYLfNYjPPysAI9C4spTZU6DF0+N0CHCPHomBI0504MP3T2PtMBLXhKGTMz8kIDaDMph+xFm+ZAvVjm9UiME7H1MvT9I4UziS8h3Ywmr0gZUNu8KQ6T1ik3VQox6bJJjIlwqQbOhh9bCA3ZzdZi0Nm41p616RLYbl9PMJOGQcajSZnHgAQtejTWECtuSIhSXirB2p0mB9IO/z9P4tFC5zf2UQ+iqbquq4L0vc/lsxhDahkWFCZpowmjDl40Fvmtp4VBI0UgK0N0WIl+ZQnP3y/5ORJ8HPUzUKmjar4lJEfDcRwtMolhjauQ0F8XWTjiAp4olermvAhlPvqoUh9t5tGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 601,
+   "completion_tokens": 420,
+   "total_tokens": 1021,
+   "cost": 0.010804,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010804,
+    "upstream_inference_prompt_cost": 0.002404,
+    "upstream_inference_completions_cost": 0.0084
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 192,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

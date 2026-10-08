@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894490-7dsRvQnWKnZNZEzmxkp7",
+  "object": "chat.completion",
+  "created": 1790894490,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are an almost uniform muted pink-beige from start to finish, with only small shifts in tone. That points to a video with a consistent pastel-pink look rather than dark, neon or highly varied scenes. As I recall, the Becky G \"Mayores\" video uses a soft pastel-pink set throughout, which fits best. This is a best guess from memory of the videos' styles, not a confirmed match.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm trying to figure out which video has that near-uniform pinkish-beige color scheme \u2014 considering Mayores with its pastel pink bedroom set versus the darker, neon tones of \u00c9chame la Culpa or the green alien aesthetic of Dame Tu Cosita.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to figure out which video has that near-uniform pinkish-beige color scheme \u2014 considering Mayores with its pastel pink bedroom set versus the darker, neon tones of \u00c9chame la Culpa or the green alien aesthetic of Dame Tu Cosita.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSngkKEAgSGAI4AUIIdGhpbmtpbmcSDPiJcrhfjEfdwgk4xxoM7xShKqh7NPzZSNw2IjA3giYFBxNUQWRUG6iQLQn8PMlrFqAhOrjGLDwMbssm2Es9e+/My4qbzueIqvug6FMquwj6p81rJSqUogAnM00YAsuU7xi5SJQA6g06N3gRBX/t2kFEXMSUGspQAvsHDXRRSAVTVKJJCMZBilBQw32CP4QBwVjpm9vvHX3J4YjLScwxL0lVWRCfPY+mpHAsQQg5VJW6u0XRd3yy/AseHegzcTmG1nFHVk+ZDdVlYxP8uLpXMSMODXppJinBZ+Ys9YMno5Crf8BJbJGIWV/ox4WMXHoNl0uMH434LiAJLndqH3SCHvELqppRGdoKxCDgboHbCsIzAhKd13W3v1TTH4f2MaASBlplhcOH4jt+W/k/2r+AifkTFCXncHvoakjFxuOmshtjam3TluCrP1atNX9rDLvPhZiRVrvstcRhKcTdkwhuP7cFe98Pu3ApvuNwObATraug7B4WF1h1tPNwuNaEs4OwdLZPmCPwT+oZiR+FY9s3Pptn5sXQFOda3hz248LGQvvniAH/Vcresc1IYz2MhZAPgRTafaiPjgUpGpnWTJWfcrlkLdlPdwJl1FlDD5cg26ndE8dTSY2ZDM6udmtd9XZB4FZOfGo9W8yjo0zNzc4s05YbrmI3Gtrh97dzN/bYje96rTc50SQ0EylJRdgXVyqScjwDSvMpJA8fuJhGikoulcJtaSxvPKzbJET5Boj/aR2tXi4E8aNkw381fq/SGdQhlILSNmti8dEL7jKLs1UrU2CMcuRcpxQ3Ds/IOtgSX5ujbKbF0sa/ZkoZxf+CKigEhhB5T1MA/OJeiDatrnSwsJQ88ZHy1bVeOMaDqEXU441rWhrGzj01jzIP0/ISkCcrsPnzcb4KYjnMWZBi8G57mT2jUiB+tAL999uIvD/NWR+EYvfP0DVfQ8bKPuyGYXKr5J9ayaacy01bknJpjQk6w3uPz0/BGZ5AcXqx19QaToHGa16bVfSXec0jJm7PqpsKoy6aZAfJwTxUb+hoaB6TM4yfa7McW+9JRQ/OJWyK0CAjQelkAQhi1JvqY6TVxAqF8cgO/+9Q78MBTsKxctStxnykT5qbPybgCJBikv9FdUByL1fr9JN0br00LGBdNlKHDA2DDS6O598ihQbXdA+yNvBtNukoFuEuv/7jXKRYwc2ffXm2fq4qQdaDNG2mdswr4exLzivvN9IdOKgxXSsr7wlzPr5fJ8+RZGSPQ3Vg+5sScZzD2Ux+aheQXwXnMIk/QuG6tT0TvObrwGg1N5vz/mBBFzc20KdFaY5jwUTW4dPrLwRQka6TBa9hwwfBU7iWR6/NYw9ATFlQak1y0fZ7Mn8bUKQq1H3JLUnN7kdVie5eZ2/KbyWO28FHqQmdCINRSy91Wy7IYS6Z88efW/83z8CzDRyymnR3oVgVZa1rLlAk5Zlrskj1xDsbU7F3fKDpkUKjGDeaURnwon7vo1kYsL99Kmqz3dHNTmU/vzUOhB2xnOkJ9dir1Nhyf0ymPOhUusbC/LqqXUtoT7AYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 675,
+   "completion_tokens": 371,
+   "total_tokens": 1046,
+   "cost": 0.01012,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01012,
+    "upstream_inference_prompt_cost": 0.0027,
+    "upstream_inference_completions_cost": 0.00742
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 232,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

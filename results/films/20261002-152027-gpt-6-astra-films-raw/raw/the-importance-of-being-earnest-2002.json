@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954679-cKqmQ2navaQrGKladdFO",
+  "object": "chat.completion",
+  "created": 1790954679,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Haunting in Connecticut* (2009).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8y8LnvPCdzmNdctsB66wHeYpxXKhjjrgtR8gqIz1XYUox5lLkJWHhrarQrvRSzow8xXhcFX8hd-C28LGDb9F6q360VwevbuDPe5D6tBGqv6vsnCPV1MJBBXL_wDoK7iH4SGKjdP9vU0B1Bp1DcgEuYUKhN61ghUsvibC_ibiNGN0lWo6PNeDnQXKfKFi5VGbYzO_opvIZsFxdbGEizAR8wyBxaBvbkJLHNHhcxUGOTADR_6C0V_Y4TQRsHZ2IOyMAyS0hXtoSeft6u-P50L1cqV7Aom5kV2hXyAoTrCx90_glVCKfMWFiYnTRYzofOnHPL_Y2Yogw9w4G1NmmujS1GidJ6ChAwPL1f2X2esmtGe8ExGSIFIstJT1L2i1NQXHO7-cxh5BHy_-y7MQViqLWJOQCs71HYtbPMQsNfkItjXDYz9hrtXWjruAiQ20Ij7lJ4qRWAvS1KjDJJDaUkhGbtSfrKyDLC2txTujvmA1jBXdIva-akktm500YKgbRKYDcK9KyRanE1NusO8EA2HO0RJmzUS_gbKLQ3n79IvL17yUtE0Vbu9h3whltTdPdKRgNjKNJyo3pYWHCGcwf0lxwOxoTw-GFWPSJT6nNNvNs49RhuGEvDpNjfSE4OVrWals9E2gz6dSQY-Rtzdmq9NZJt3_FAAjuZeAEGrtW3rS5FeJSuGhlBSZWahqjmdzO68eveUITWtxNmCKMO48LoWJSumbm-ucunGaEtLD4m8eZTW6edZbwn2GiwFRde8dyEjD6l4Qyb15S8tBpE0ArBvwJYr1urmgWny3R7hUPrwuVPjQ4mVrXS0Wds62wceiFwFoBqD-VdgT5vVoBMLA47lNaSt2b5wa1bO39Iky5N-3_HNsWWiHT_STdNavSfE5m0PiewZ9vuuJT9selxfxiimygATi5wemQMI0ug-T4XT4Sj-RzQyJYLUdgOabrZMIbvf-spVXtnozXGgof1N7TbqVrkklYvbs12CnmXGnws6NrULfc-QzE7KRICC7uT2dUsEz2GrLN1vBrtTjhIptawugzWS8yTnc37NFND8J8zKF3dm6F0bbCVJpp2l_KCh-kbdaHs9yrfNS_TjVtUFcUzSEzYITjTSu8HBgt-i4W2zZLwpbwuNR8p8Fyyg1z-OE-cSjwH0MozF1fj_5-Mkvc1lQTtRCO88FwEwo6Mq4_mnPmms6ZUidQJkXCcBD85mmPmR5C6wdppTh-f6iSl-zp1RQh-AHA881NGbqp7dq33066JGNwNx1h-o2tcgxli80aCS6yqIXBI56j-ZhBKhDTpGwFtWnMMKudvAfgrWc7FC5dj9-qqXT5pvUiHxEUa68Sk3682_vaN1EprBOPkPJBH5IAtRqWQfaa2eM2zZt1PyX5PSLy-TlCnJ4pD69DlFaLEZaMDIyPaOvVM_iFl92yLcYAj9o0b_kBXE73K5cjrCOLuu_vJ6ZYB_i74VRBuVwLOlWkUbyUg3yJOiXhCvDGN4p0N0BXEl8FJau_QFgAdHZJBK-brAXAgHlHX7gYqEdpuQ84Sop3a9HCkMOnlu7nBhYerTFAQom5tG7HmQ6hv8Z9Ynt-HnmRZb7mFvkxb6ikxUxeEgnu3C8x0eLdKchtyoCj5xFnbL1AyI2NlXbU5YWw9psxgKIT2XpHY1VOj5X--zEINT_pj2EZXMgvE1mDH9_bLOI2zKMZ82Yvpoi-Pdc-l_itjFnKi2JhXUfuyVTaPuQo2udwzJkKqGDVCRDqs3iJgc3Ifku7QgxURaDqrPIaMaLahaFCQITf8q0YDauQjUQg-sqWxl8a8O1LK9iNU7jk3bwjOdWK6qDOlABKFqhhnN-II4OHpR2188Ei1Au0O1zKUAS5a33H9hBM2UOUAqQspROUEjmbgamxTE1WAkyoAaZMHeQm2F9u6isFAx7eST3bsBvbXgaQa_fZOqdmBXFYJdPY4gpSbLNFwEojhfGAporUQsJ2SDuHEfGNF9xzQCI9kbPViXc66a2l8REofl0VD5mA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03dddaa2f0f979ac016abfccb9447487d1bed6cc4fbe48796f",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 435,
+   "completion_tokens": 124,
+   "total_tokens": 559,
+   "cost": 0.01055,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01055,
+    "upstream_inference_prompt_cost": 0.00435,
+    "upstream_inference_completions_cost": 0.0062
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 100,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

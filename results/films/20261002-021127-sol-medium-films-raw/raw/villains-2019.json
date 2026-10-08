@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907245-GEzvVr52efZ1d6Rlk1Xw",
+  "object": "chat.completion",
+  "created": 1790907245,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Boogeyman* (2005).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing film sequences**\n\nI'm looking at the ending sequences of different films. The Boogeyman has this vivid orange stripe at the end, followed by black credits. Apollo 18's ending features a crash with an orange burn and black credits too. The barcode color seems off; it should be more gray-green but looks brown in the found footage. I\u2019m leaning towards the Boogeyman, considering its typically desaturated green grading and colorful end titles. I\u2019ll keep my answer concise!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film sequences**\n\nI'm looking at the ending sequences of different films. The Boogeyman has this vivid orange stripe at the end, followed by black credits. Apollo 18's ending features a crash with an orange burn and black credits too. The barcode color seems off; it should be more gray-green but looks brown in the found footage. I\u2019m leaning towards the Boogeyman, considering its typically desaturated green grading and colorful end titles. I\u2019ll keep my answer concise!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxN7sxfuhizRunop8mRCrPIw9zWtU7aBJwPlnD5tqpzPBmcYmDBAhkjm8vyMvV1WZKbBvxzC093CvYiUjXQA9rKHS57kZ8bwW1PXkBg7CBjN0uV8Ro-apwDOlJpJ1mug5kOHNeQKTLDHb6dN5Bwl47E8Y0OAO2TE5vsKWJ9cEN1Qko5pxOj6y4O-B_UkfCcdIKrmWnhZcSjZB3T3StD5T_MRSVQc9ldA1XuEi1L7HIfCL-UG2ELz9XlubSFIJtn_NBvO08xUPOlXn_X_hcG-0KNJo2PeAbsJ2AEzfTG4B3mou9vXvnb7kzHQ1R0PrYb0VFpvO-seWjOeDnTVxxX11SlTMbxVO3v8NZK1_NDXy7PJCWwLNsy-30F4G1-5btzYG7Gcvrw9S50i5XBF_K4-01NK505DpN2Flw6pXWDAA5jR0q7JktAjDLeWbQt9NiNEUcPxvt_h0IQ_cs--ghAX7yIblw37DH41FjGsGxEfxp2XNSfClJMzJ84yGvuRV94nGMbXwGPGcy1AZW2B6j8t041Li-yRYbt4A8b-0Smcuc6Lw7F96GR4GDzr6CC91UzlyfkO7trkjQ3tIKFnT3Sp2frmn2Fo8eX2HcBIYkJ3pzGDoJpf0UkjATYAjMFivUDji_iBm_Mj8Ogbdi_YmKosgKKU1QtbNfpKzC-o33J-tFE2Pa_YOch4cFII6ZPoe1ROq660pRN0Dojj2bq0x1ZylHMGToNj7PJX3tR9ed6ayU-BPVV-8r4CEuq1TADY4Z7WPqKhMXBsXXh-0Zw0PY7YABGLXK8b0DscArRRkCWXIUzARFY7O8zoSh0gjvInSPhINNqLG3ofFYz5V72YQUPkiDKRii6nIw9CYMv1yP0vM8oOqFic4vQwfXX9o6rkb0SS-cUdyqpkiOm2NG4klVNtg3v93xJGXKJyvJxiSCJhai4R0Z9VKQFqx8EJB_q1LitQ38P-YqHyFfOXItjQeWG5WiE6OCmXncteljW4gmTDDQVknt4nxbNsLGRvZi3sh7gYj8L9zVk5hSaTNF2jzB4GG7BFn2qIVSRORkW04124-Tv14-QRWc2j1M-IQ0NhRlR3nWmp_d5o1khB7k5ZrhYT7sc1ufgDcpJXPTQUA9boNYsiw9ocViEAQbOE1QwQ0giOcCPxKs9gkM109xgs2ZefuICGGw0pdypUbr5BknzYjeuOh6DdLQBXgVHlW2MppyrL51bmIjkIR5GG4y2oDbu9-VOTxFbcBoZaxcuXHKHe_YNeBeXy3DWraSraSH4jMVN45K6czGPxYrKflVuwr8SxqHTjQ5AEb5Sftmg10ZpyVidRJODkZ21-FzfofdyfdjG5TncgWvsyxDhxFQfKJE-aBvfTCDcRhyZF16jgOrBjABBfhkisJvbc18WgZ5oh6K4YhuV2q7cl4wHvbVkrbfojxRrb7XzPikOdwZTrkTiVECMw7Kr706ky-4-_pvJNoeVtNsO-w6OrpoLZ4j20hCzdmNJzKG7kpfFnornrEXqk8VyHWpjGFwRVJ2ttu2il8EwVgIKYqDfHc-3HhzRvBruMBwlmVvDo7HzK9hQ3JI93WAu3TTquDVWtGUYvcJrrTRGgoTshvNu6ZKI3B1XnN9fwTv42CisavWMoyqibH50RUAexDPzw7O86lijqMFWAxcVzJXTtVoIJGgS6PssYn4WI-2A1J8xyI2T7g8VkhUgqoh3ZYJpkZdioEtuBrMbleB2FLygsyWGEITVpIEgZIeY2d_tYkY9NqV4_Cvi7SWSK7RLAor3A2dos-0AIe2FLihHr9dl4T8GegTIkmMpRZFZrcWbIJ9j5e0Ql4l-2-3dSb91_-VmhjReqUQBdSD3WhYLztWWzi1EUVN7yMVSoP_YMNQC_kAMC6Xw4syNxqdrSp8EpCueGnk9XNG4GUWqaK1EIw-sDv8QEW8V1z28VUtp_vos-9cAI6dshoBnNE51zlJtaTWXuqpXQABh42DR8jtC8pUnupR4wUondPXLJEqBNlLJwMm50CPhhRCfrfCTC78dxxXyneLHODjkaz1pQQ7ltamaEC2G2g0xAjOD4h40Icil-w4sCecejN0n_kIecCCEVgovlOaxB4ylOhfmfr-O7zOFUdvxeiEzP-KUqgHYyqxpTab_DgSYTG1Ei-gNmEeOacQbxY27YsE2b7GtfiTheWqzLwrnwTUqbyEYyvtkhn0BPzXhorUhXuQRkA0Ied8nGd8bPqXabg32dWK-uFsWLGlqn1BInpF92QG0otL0_KXBDIdT1Xv3yuqrFbHTKRRqD5EjZ0o71rFwWDtrZfabYsVCblsH_AiSjP0Lntd_gmG2OXH7B00hem8jaC2l5xQb6Ogd5wiEKvCglDg6ffuKK99eAhJrxAjc8cldpUOVcwxetriktB3qr_JW9xWgqz1d0qjDsnV7NY1HsO7bvIGMIsezq1-RfCxcbS56-pKhFKopxRJKMZq4rjW34MTt0n7y3LrSMBv35cA-bipwsaPyHhR3sbygpVFhSn7QSNoTnkK6dZtRQTTnHdZ10qXitMBRQ7vAVDWk3tVTbR38svKWkrvTPjgFz5mDvSNUq6WIbd50ZUO4xLISzacPlL6fBXpRBBF6QlawhyXVwLkFxqtDA7dOVbgU6LT4-hnBmHaaz90LDYJXm4Q1jor9R_ZuzWN90kZAAlTyeSeHAeD6mKTcP1u92UuekhJFHlB51VrY_IQiEcR1ZzNJxYmBECEerKLAkMw5rTwIWdefk9DC-Iw_t_7O3s1kCnLPm71AHVtY8aU_2iCANU6CKcmn93_K1TowS71V_0E0mMq2jNIfxyV-165W4T5RL0AhAVcVU0I0UegfP0KQobps9Ek7Z034i6afzj9vB_T8Yuu1DvgOv__I3i2cvTJESzCgz-R7-VGFsXU0oOr0-UlxO03KADto7C1ZwpBbcPHNlI6l2FjMhku1DThXv2g6ZVenH4LI2cdsFQ6OgJ7iKlEwImot1XsUdtE_8o9ZBYjHlSE3eFsccbBZg1NtgRCGIRe5zSIztt6yBabwTQmGVb3SEa2QwBOCvJwv08hgJ1pEv3vlaFR_KlnVgS7eSyXRSeah6SspUM3Y9o3FEGhA3bgZDZJlriPe3le96vIG5uXddsa2EuxQcBlRPZaNipoMFMuehkjr37u-M2juHmt-FRluuPakQrNkVQ_AGnKqLq51lc2U24l-APYA9xJzM.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09fe7ec0047fdd48016abf1371957887d181b3bfea163aac58",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 294,
+   "total_tokens": 730,
+   "cost": 0.003812,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003812,
+    "upstream_inference_prompt_cost": 0.000872,
+    "upstream_inference_completions_cost": 0.00294
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 271,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

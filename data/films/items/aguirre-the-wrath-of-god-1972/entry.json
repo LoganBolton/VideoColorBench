@@ -1,0 +1,21 @@
+{
+  "slug": "aguirre-the-wrath-of-god-1972",
+  "title": "Aguirre, the Wrath of God",
+  "artist": null,
+  "year": 1972,
+  "label": "Aguirre, the Wrath of God (1972)",
+  "hex": "#3A3E3A",
+  "rgb": [
+    58,
+    62,
+    58
+  ],
+  "frames_sampled": 5622,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "QOnu6Qw7Zjc",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

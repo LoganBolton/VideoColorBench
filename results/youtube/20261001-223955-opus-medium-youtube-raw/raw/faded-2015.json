@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894441-Z2zVeNRV1zjjpmreeO0w",
+  "object": "chat.completion",
+  "created": 1790894441,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost all muted grays, dark blue-grays and desaturated browns, with no bright or saturated colors anywhere. That fits Alan Walker's \"Faded\", which has a washed-out look built on gray, overcast, abandoned landscapes. The occasional brownish stripe could be its interior scenes. The other options fit worse: \"Stressed Out\" is bright and colorful, \"Heathens\" leans toward dark greens and purples, and most of the rest have vivid scenes that would show up as strong colors. This is a best guess from the overall palette, not a confirmed match.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "Thinking through the color palette, those muted gray-blue desaturated tones remind me of Alan Walker's \"Faded\" music video, with its gray Estonian landscapes, more than the darker Heathens or brighter Stressed Out and Rockabye. The brownish stripe likely represents a house interior, so I'm going with Faded.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking through the color palette, those muted gray-blue desaturated tones remind me of Alan Walker's \"Faded\" music video, with its gray Estonian landscapes, more than the darker Heathens or brighter Stressed Out and Rockabye. The brownish stripe likely represents a house interior, so I'm going with Faded.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSlQcKEAgSGAI4AUIIdGhpbmtpbmcSDCrXgRNY0oSvEsxz4xoM0lZiZBRH8pJnqPibIjCBS8HQcyDGl0EhgCkAntWwYCDQenGyNqHT8bt2QhpK+XsnWahmuwlA/HlH13vLOnoqsgboNbOeZs838RNnlMGXom6Kpq+n+FqblCZmEVLpQ390lIDQff33TlNqigXoMOy05lDKMdC+92cmm9HOk10n7bgVPuR20k6wNmrZ9D3o9HfJhhlyB//5zNIij5aISJB1XexzOy/fv5hVRtYf7gy0oTpOjMrV+RfevNlFf6LrjMooQmatwP6IjGUJ2dJBu6PUUOIHZJ4NkgJa8ZAn7MLW4UxKwmT0P1QrJ1fNlfiiuJ/rPcq88gyFG7CYvqr3CZj2Q0d0qSB8k/Af88SLzaEcFdqigFzNJYT+K7/gqQnGX3nRNZLq6fFgAnql/t17o6EKxZRijkp8vXpIkFCFe+LLbpAotQ4S+6Tsxc8qcsYzD+M4tSoXpwHaLhuIMQr9ffFMZ7xTM+UbVIAnUcWaN8APokT2eqe2uB87oM93YS8yY4e3HVFFRM3IXcLEVInDf/5rvXuXI2AyFmKUnCwYeuCuRqyclu27J0tuqj3Yyh0+z47mSWVyWdKBUexZAB8Itzn9h7TcS0xEcn8V6Qi8sCgeRPsGJGRnsoWe8XVLMcyelurORXIA3sil1xzTb4Vmo49k+UGxLl7BUd3b1MJhMRnDVfZa76QZMySagWa0n9PH1QkWZnjP0WaOnTTAzpM52HgMnS9JsbFUw/FyIA4FiywWsvUaRNarFfYEYVtFHMrOYqQejuSPgxKQ8nqjXBeNk9xvjuhv2Qi0U7GyjEMN+JvWk/SJZIkbC89PifC3sinfNok4iwTe/QyuIY2ZzupU3Dh23So0WPVT01gxYGfBt5KOAZi23qBNfof7eWdlb+ljmIlIHDfST2ut2Uj8X5RHT56LqVd5rnWxuB9Sd1FdAvyqObgThdrNBUcdF4NDTF2FAjx/9JOgAxoedckfXiX+lBdn1V2yIf3MHtAhf4JMjTGRcJLD/ElmT4rhGw0kVmdXT8jXDX0E7PbNNSedj1pyjjsI6MuVYz0OeinVcui3Loveo5+/l3DDE+TQwKo5XPhrrm7d6tlWmbGkG1t55LdacL5CvALMpStkIzDyBjGlhFr5aOEGSesBav2M9oJJys4zcBGSWdz8D53ZTahgiBrZ2U2f1kYgJBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 631,
+   "completion_tokens": 333,
+   "total_tokens": 964,
+   "cost": 0.009184,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009184,
+    "upstream_inference_prompt_cost": 0.002524,
+    "upstream_inference_completions_cost": 0.00666
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

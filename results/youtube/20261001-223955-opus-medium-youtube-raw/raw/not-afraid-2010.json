@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894406-QolEqT8Olgx43AaepU5X",
+  "object": "chat.completion",
+  "created": 1790894406,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confirmed match. The stripes start as dark, muted greenish-grays and shift to lighter grays near the end, with no strong warm or bright colours.\n\n- **Not Afraid** fits that pattern. As I recall, the video is mostly dark, rainy rooftop and city scenes in gray tones, and it ends with brighter, washed-out shots over the city.\n- **Love the Way You Lie** would likely show warm fire tones, which are missing here.\n- **Heathens** would likely show neon accents such as pink and green, which are also missing.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes across these videos\u2014Heathens has dark greenish prison tones with neon accents, Not Afraid is dark gray with rain and ends flying over a city at dawn, giving that lighter gray finish. That matches the pattern, so I'll go with answer I.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes across these videos\u2014Heathens has dark greenish prison tones with neon accents, Not Afraid is dark gray with rain and ends flying over a city at dawn, giving that lighter gray finish. That matches the pattern, so I'll go with answer I.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5gcKEAgSGAI4AUIIdGhpbmtpbmcSDB3l0QRs8yEm6KT3NBoMscIaFWXi/z2JjCrDIjBxmqpuiLQE2dJ5HrsTvKNn/14G1dv3PlyN2Se6zCDA8F0DKPhclOFJzA8YGArd6xkqgwcipCc61NsRArzLplHNuE9wYNTKUkgeE4jCqgl71l6MSrexH/FfyTA42RD5lIE8foWsIjymv1AT9svrSO7Kxi4nwmxM/DZIxfBM75o0P4E796z7RqpIiUsc0OWOCW5ql3xx5yLe79GSHotjznKRanAEaTIf7twYM87OIjG1gRb7Aibbd5AOu7W6T57AbGXpmoMEFZ4F1WUC7pohc5uUx4SZCqo0ZZKo2sT07hhD1Ux6UWsM7yMwJ7Bf7VgYjhIvC1L50W9nEnbG+gCsJuhD7krtgnhcEULVQEJvFmPHUSDbZpqCZ69V8WTovboDVhVUfMe4fcBjO2IRQDxjZ2rdalO1hy1FyJwYOmpK2l1WSNLEPQjgbIuFF9D7Yu6qGY/ljFnkto/X5EGh0quL1jzY5IsOBcpFmRABcGvkYqSLPPgDlZ7DNnYckcp0yEDw0UAIkhdGixWjp35G5u61N/Ty1xLB7KQ52RawhzJgL8HT4S0gse8axNlyCH5pz87qBw/mv6bsSDO4lnFEy8M/r/Gbu6dgS8QjaR1ZWQ1Lw3m2tdU8L1Ec5+dIbBY/RruGzAth4K5sJVPFKdTzvQHTZGIfpdID5q1nO9w8f+QrxKYZlKmRi2TTEXaHc0mNdfYgLmE3LYcKBDzkJueggCV/oGQYXmSg78FgYb+j4NA6KC7Dxgm6ZNM+2zRX+hV5Qviqvy7UQhFhvOz7x6Uy2weT2Wav9/hBwHCKOs2DQj1N0gqFBqiwWzpq7GwzErTjkDa9YSEjdIRFWz5FJF5A6BALKsdrlWoWgIVqO48MIVBYx3/93Kz3VLDsdaMe+JLrK9h60CkUAeWrrcYd2wHwhwW25bDQjE/91PHVpS4rCP1TCaNZB/ZCTBJEVByv41P/opjuIIS+B2OZ+fGtlX7DXYG9hgzNz3ZNBWKciCfnihvAQs7TcH8Xmil7toipslJmzUwpLKkWUzIBsw8PPr8loRZbehW8r6ux0Y7dyoVvqtxMsIfq0nsb/vchexicL8si9/Y+uKSxVEUqtc+K0lQVBNme7+vISUqLRhAz9eEUS28Di5zEWxnj/xknn3a7KWQvwjMITPDWk95i8Rzs16B53dBVKLdcvF0raF1pn6UGwFhuJmi81Jwlr1nsiSxyBwodl3PaMMq+dwZAX2P+J2nz573FimaLXzVb/rjpoaPnlQTvtCj0WuqF1SufchgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 631,
+   "completion_tokens": 360,
+   "total_tokens": 991,
+   "cost": 0.009724,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009724,
+    "upstream_inference_prompt_cost": 0.002524,
+    "upstream_inference_completions_cost": 0.0072
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 161,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

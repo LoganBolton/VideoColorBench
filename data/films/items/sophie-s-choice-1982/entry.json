@@ -1,0 +1,21 @@
+{
+  "slug": "sophie-s-choice-1982",
+  "title": "Sophie's Choice",
+  "artist": null,
+  "year": 1982,
+  "label": "Sophie's Choice (1982)",
+  "hex": "#3E332A",
+  "rgb": [
+    62,
+    51,
+    42
+  ],
+  "frames_sampled": 9054,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "9oxEmIk0ZUw",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

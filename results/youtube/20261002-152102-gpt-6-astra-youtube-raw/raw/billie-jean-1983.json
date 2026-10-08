@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-wNx3zyqN5byqtQZTuBY1",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is the dark, muted palette of \u201cStarboy.\u201d\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vmJrc-Cp6u4MWzIA3Ae51pOeNT6OiWgre9vxnasJzsULGyCx4Ems2dq3FiTBbOlI3NbmjskCHrmR53XwgGEUGC5_Lsc5mPWeCNzT73Z7LM8XiqyXKsyiD1mnS6a-UGIC3cc_DIK4RC_wOLTAxGKmMw5yf9TVy2gI0sgXzm0u7seRsLuxc9YFc_D6BWmpce2OxXPlsz4sfB_XoSfk_rx2cxG41K0M36KdKq1srHpX6dXuy8UIcPYWH3FQ6yR6qSioQOV1Vga-6d8KJtXTHlr8tFDf9bz_OZiy3XlNiVXZxT3MOCrR10rZxrm2sxEHTdSTz9JcWfRJITaOeURL72TSam6W_jcg9NG65tKzh08b0xswCihgZUMh2PNNv3qarrugJxSaBa4x0-HhKPiVAA7imA-kChroSY1WVI9Gexfc4mKA4WwRbfd-dHSvToVWwRkHGiMsOfcgMlDDx0CYLjVhmkd775kBa6HaFnmf6NezrnYAm0tbYWeRr-XW4oRg-MRAOqoWkGebN3aHogtbzhmYmlqd8LSwUstgCQ3sxvKtLVhf79SFAdYw3ozVrLxqqlkzz-QUHpPpuY1UNJePpFjgvsrZrPUtQU6DFZJPdG91EaJ4yacfFpdMOrp2oOxxgA70or_I7tG6nGWoGcPuLocziywDFxCGtZOmmlyeli72e3O4Vr1ceVMFiqV4SIn_-Un71HbKhyRJVmq9cWnszf8JnA8MMlNL70-AByd0rOrpP2kqslNKHPOV1HRiB_-VsPR9I6Wb7cxuNs9mye-r8joooOExST8rDEFMR54WvJpASdamu6qYVpB-yH041v0XJ9T0iYmeCzcKiiuyalRNYrInbxd6LV6Rty99UnabzCjCq5xRiesnp4LgDEV763GWqW2ZLoSP8Un834YHxyFKxA8jajTbJGjvBZER8oexPtdadAnd2kgT1Hnm3xVgVT73CoyHP9FY2JUplcn2Jsi6qhwUfy1gmPfS4i1js7t4V9ER09gWrHpafP9u5kEy4EC9j9Z7g_75LuBsCOz-gJYXBDEkU0ndf9awjipwzMyaoqlO6BTE3H9WHy2V5A5HveOdGOlhMrzncHhZm-uEPQjwCkFDjys4xZTDCFpNC0fyhkKg8ydeP2yZQks1vvVGcJwgl68FxMJ95WJfa068VLzwqEBmOfZ1fTtIC2NzNfvBfzwjaPlA-YU5IjcQHzAq3LXi1CvwOlHps5xbIcq04lZzNp1GKC8APiKZBJtze8LNHH4F6pmH6EqG06I_F7OyXzrAlgqNPYMUtuB1O3ga-NC0DDZmMlQqW-N_urlX1DOtkSzM7969pQ6-1GJaC2riXenul3NV8z2dZn8ShSdFvLZskeCwrO9C7SP94o2-IULH3VWSpB9GpAcXw6dsa9fdss5Zcc4UieHfkfaRphooKYLkKrQ7Det75h75ZUanWr14u_U1UnzTDvf2OqnXiDQgExu3_FwcQqmUv0-5m4dYp1ixOIBdDkIBTLerSitLJAmVtvearI3l9nVJcpKfxBo60JLy2aU6bHv_BZesq2Xvq8Ua0cDMZbdXLDoyEirxXovn6mFXDb5zRUKRNw7AM0EE9Mkgc4FiZfZRVFK3pPDo5tCiN7df7AT0FcEQ8oRyRAXa1sYMBslPyv7J495kTGny3v8ZBoC3jZR0WENDjx2uyr-RILdU3u5z3vAqpLmam4F82KvgfXGnHFcARbnQOuKE68vKNT23ikBypSxq3IwPQ4906eqqvJL95w0edRPmiyB0bMkIVaXmxJp1sHdsaDoUSQ1YHYn4nHtR25559s29EiR4Co_agQtHpe0cohRaXKx_q8f_f0Qktx7Py9aMBKiFwWrZR1NZj7mihEqK_D797iFHpB2MSeNECseJ26L8lLcAks0-3PSViQNllRqmtbqq5aDdrRv2FrCLgY6YaGamWQCG7uBpiSsekvBIVex-yAa_QoyEuq0d53aoPYGmH7rTM_RNzX7VsIaKjqPgExjjauotwQjxGhi-CgxBYFp5RcO6oagdS8QA6LcSARSnffHywrxZWvPwOVY5XgGLnBHpmVZi4wQrhQCbYAwpdVXaZN4ehJp6KwsOm4log01nrCdCHoOHR_sfir2zPjFZ1xEYc89Dkp2qMmxm1-zP9eihoKHWt7OUpPT_Wlf7-S8u6g5uyDC5cZXIXZoKKfaJhvLljBrEU_xVKZauAmBKuJ9UknzM128gK19Q0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b705b80c4e02041016abfcbdfc99087d1811aac238791e38d",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 164,
+   "total_tokens": 637,
+   "cost": 0.01293,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01293,
+    "upstream_inference_prompt_cost": 0.00473,
+    "upstream_inference_completions_cost": 0.0082
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 141,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

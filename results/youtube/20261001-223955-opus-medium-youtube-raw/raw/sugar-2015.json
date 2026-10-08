@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894448-c7IXrLwh3KZyhCjTtMbb",
+  "object": "chat.completion",
+  "created": 1790894448,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Uptown Funk. Matching a colour barcode to a video is uncertain.\n\n- **Overall palette:** The stripes are muted, desaturated browns, grays and warm reddish tones throughout. That fits the vintage street-scene look of the Uptown Funk video.\n- **Progression:** The barcode opens with grayish-green and brown tones, like daytime street scenes. It moves into reddish-brown stretches, like interior scenes such as the barbershop. It ends with darker blue-gray, black and purple stripes, like the night scenes with coloured lights.\n- **Alternatives:** Se\u00f1orita also has warm tones, but its sepia and orange grading is much more saturated than these stripes. Most of the other options, such as Shake It Off or On the Floor, would show brighter, more varied colours.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes between the two videos\u2014Uptown Funk shifts through warm browns and grays in daylight street scenes into purple/pink night lighting, while Se\u00f1orita leans into sepia and strong orange/yellow saturation in its diner and motel settings. I'm noting how the barcode sequence transitions from grayish-green-brown through reddish tones into blue-gray, black, and purple.\n\nThis desaturated progression matches Uptown Funk better, especially the ending with night scenes under purple lighting. I'll go with G.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes between the two videos\u2014Uptown Funk shifts through warm browns and grays in daylight street scenes into purple/pink night lighting, while Se\u00f1orita leans into sepia and strong orange/yellow saturation in its diner and motel settings. I'm noting how the barcode sequence transitions from grayish-green-brown through reddish tones into blue-gray, black, and purple.\n\nThis desaturated progression matches Uptown Funk better, especially the ending with night scenes under purple lighting. I'll go with G.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSswkKEAgSGAI4AUIIdGhpbmtpbmcSDJql63P/qdPkSHpCnRoMfYkajrY9i39X3583IjDfjsQ2xesRL1wCOTUjpoHJMJDBP3EkR1i+gD0U6bqCGba7Xjy4tCEImsm/A+l7a5Qq0AiZMSQT1FDl8EinYR2ONfxWLUBGdED3cp0Pl8vngTINomFyUoUyw8aNtbbFs/bcb6NekBXi9CEMAI0tkYe4K1MfHIzUB98gr1qCKuhx4/YI/5aQoqBpbDSPmx9/mWNTNEG2OMwIPVZoe3dO7nVQIlBa26Wkpj3hGNOoA+87svsHDI0hkPt5t8zPArw1X3n2bVIhr76ndv88HxFHa0E6WByThqjaqct8bdLerHiJrkHEz7Q9VVlj25/prqekr8eGwnh1RJtgCdepUeGer1uZHgk1hN/bfIeIAxd8TAnCP0l2phxfhoSwB+B2tEODO55WxaRpdvO8MczBoHJUJt7spqAHLw2x4rAnHIkPHsJkMqf3cf5YtQE7fMikR34hSfjpJReKT6wgfeq4Ph30nc+3eh0RjtflXQvd/o9nroG1eoBlNTzoolv36YZUfFZTkvYvQRgrSizSkkfiDLwWWA9oCfMLR5oIYWu8qEUsrSSugTCAhyfWwVvKIWWMSupNwu9lW0KZ5Ew7W9ICB9bSd2VHOBvgNOhCaREGZMgUFqNBGgtn+QSW4o4eIC7tlsrUu53gf+tIztuzKBZgflpJuF3691f+srJ3PrijQ/odPbbVd6jymVO4t5Nfa/I+A9McFsy9DCNoR1X2wuedXzOxcERz1i1fswusAUl1WaRGLiD5OGk+ii8ZAPfAwFEpBfW060XXqFIncBRCQLWjxkHs1eoHplPjs2RoO/gIf3RmbQ2fzykjBVe8tQI8IjXD4PTzqsK+nLbm2LB4bxhoF37f1WPp0ZP8UP2jbFV3JErHOVSWDc47ZaY9oQ4ibMtD/KQanWHwZE58P2zGqrWpQC9PRxhXF/y5DpNXcXSbVct/21g/dMiVLB3wxryKoqb5uZsZcM0NWl6cy0b4ChZtT0HdnmX/I6Gri/ET5EIxtDiMjmpwRheNEcChkzj+tSKqgDa6TgR4iYDIfiLYLbu6kSxo6k/aiMFQX0z6DP9zEmBNGJFsXZxu6AIRGUVauGaGufkF21k3dsTDPsS0UuTns4xYPOla8Kl+K78bI4IKrjv7B/unpFnF1o8JiURN8uLQpzdbFrRsYHeGsRr4CD8AxLfcqDA9KIDxkqtksj0nKZG1vmx83MJVz94NtZQg94M9jnC4ajJtcRO79saG0e4321YzVmAWI5B2Cw/wLaB6vomK69vqIRe2dxWpisClg+Hob/orZUIwh2ogqd5p2+ymNZIGWKPGAEPlpSu80pkQUMY0JtEa863DQWIV4of+953IfFTYGuQyBJmgQ1/GpEFLoBSBX4Y4UD/KcyNX8e1tmqSypmSKo0A9EC5zYl2mzx3AM5cNd3MXzaHU388PP0u0/p0jjdHIFakGHAMcadH89Q06yQP7WUN39bKhfWXTqCyKze716Wa0BhDuHLPcHFRs0njye+nPuDqEt8dutYaFXbkhiXnfQab0q6x1OOnZGWfXK6VFJqtS1rAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 638,
+   "completion_tokens": 508,
+   "total_tokens": 1146,
+   "cost": 0.012712,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012712,
+    "upstream_inference_prompt_cost": 0.002552,
+    "upstream_inference_completions_cost": 0.01016
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 234,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

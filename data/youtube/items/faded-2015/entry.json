@@ -1,0 +1,21 @@
+{
+  "slug": "faded-2015",
+  "title": "Faded",
+  "artist": "Alan Walker",
+  "year": 2015,
+  "label": "Alan Walker - Faded (2015)",
+  "hex": "#3C3C3A",
+  "rgb": [
+    60,
+    60,
+    58
+  ],
+  "frames_sampled": 212,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "60ItHLz5WEA",
+    "youtube_title": "Alan Walker - Faded",
+    "channel": "Alan Walker",
+    "via": "yt-dlp"
+  }
+}

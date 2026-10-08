@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907349-ULmHE2fzhHcGXjaAEj67",
+  "object": "chat.completion",
+  "created": 1790907349,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is muted and desaturated throughout, mostly gray-brown with almost no saturated colors. That fits *Detachment*'s drab, washed-out look. The other options seem less likely: *I, Frankenstein* would skew darker and bluer, and *Draft Day* would show brighter, more colorful stretches. This is a best guess based on overall palette rather than a definite match.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "That muted gray-brown desaturated palette points away from the colorful Draft Day or dark-blue I, Frankenstein \u2014 it fits Detachment's bleak visual tone best, so I'll guess that one.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "That muted gray-brown desaturated palette points away from the colorful Draft Day or dark-blue I, Frankenstein \u2014 it fits Detachment's bleak visual tone best, so I'll guess that one.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrgYKEAgSGAI4AUIIdGhpbmtpbmcSDIkF+otsN5bo/zCxcBoMAeOkhzR63Ut9aqXmIjAzUtKyPODA6gnDz0IYda7Y4VVOeNvT6IJLJv2PBsMOcIOhdEzSUZ71Cs/1PWOzdFgqywUZ4iqeUx78eSbgg9u7JUD3ajkzyNcWvSq10L09Qp+tIpCpnzFJHD+yyymZTXiP40tQ2nLWlx2dqb2d+o6Jg99cT/8h86PUmnfsQgUMOzN+q9gpTTc6Gp0dSpeYt5Gr0vgEhDZOo3G4G5OvUtsPl5fcbFIp/2y1kJNyENhHdCgTWgw3tjfAWUMJqRSFj6r1sNaCWwSJ+dYMMO9IN/R1gJTTdF/WqWDqAlZ51GmHtxYjQlGOZ5YykjniMaTvqk15aEuVI4lMoGpj6v6ur90SWllASMCIkW3B6EisQC5i/cdSx4NzfTBXClaZUTmTJAG4rr02xwJ0UCVr3l4J+vEQK33CHb42ae/53WIKzRZi60yKnJ0UrjPLvaqiw4d4CgKZEowk4HSpWmplwsxQlturpnmXri+dUaPesw7M49qG5KXQX06L9OJidCGTZ8DMuoymK41KT0AKHRHtw3KHjzHva1D9SjKmkVSiuzH2XuPFij3E8cQ8rUVKqqt28GSkr4gjYtxqZm339D+OdZ2K0WV+k/+EWMD92wq1R8LBldp17l8CbMQC/vW8r7POk7DQW/eSXrrpL3JaMMuReQZt5SNZfBDSa2kM3V6LFoNBQ6olaFQkqXbyDy7X+Nbgdz4AyaY75bedWkiw3Y/ZO5lQ0/voVGv9CqGUYBXTYVrdf7GVxKSVq5PNh031BgUhhh6lB39yK7AOvWiaU9819F+B2guai2r+qhinArPauIF7BzT8hlDMGmI5erx7hTYNoF8R8UdhwvvIX7TxXavWSEfaLe8+DnsTiB5fGoKBErIzr+5O12eefHmfX8V5eHZL+OugKxzmP1/5ah4ZVWsM6mO9IRhjUYHYNKmwq4nKVX08GCx16SjanFuMAGUQKP2Ze5g9LcE7KeqMKSlKo/d1lWhkPEG1MhXLjyyZ6bQ8ZYZoP+OR7HAJS77B5CDZN25kjN0KGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 520,
+   "completion_tokens": 222,
+   "total_tokens": 742,
+   "cost": 0.00652,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00652,
+    "upstream_inference_prompt_cost": 0.00208,
+    "upstream_inference_completions_cost": 0.00444
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 89,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

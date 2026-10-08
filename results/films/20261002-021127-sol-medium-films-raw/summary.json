@@ -1,0 +1,12 @@
+[
+  {
+    "model": "openai/gpt-6.1-sol",
+    "n": 100,
+    "correct": 20,
+    "accuracy": 0.2,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 0,
+    "cost_usd": 0.3552
+  }
+]

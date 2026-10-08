@@ -1,0 +1,21 @@
+{
+  "slug": "the-lazy-song-2011",
+  "title": "The Lazy Song",
+  "artist": "Bruno Mars",
+  "year": 2011,
+  "label": "Bruno Mars - The Lazy Song (2011)",
+  "hex": "#4D3A2F",
+  "rgb": [
+    77,
+    58,
+    47
+  ],
+  "frames_sampled": 199,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "fLexgOxsZu0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

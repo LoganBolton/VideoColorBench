@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894268-QzRENtOLVMxMn1LVzPCv",
+  "object": "chat.completion",
+  "created": 1790894268,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is OneRepublic\u2019s \u201cCounting Stars,\u201d based on the consistently dark green and brown palette.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Interpreting color imagery**\n\nI need to interpret the dark greens and browns in the entire image. I'm imagining the dark green warehouse contrasted with browns. This reminds me of warm tones against a sepia grayscale background. The image has these narrow stripes of dark moss and brown that stand out. I'm thinking that describing scenes in such a way can create a vivid mood. Overall, these hues really come together to form a unique visual experience!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Interpreting color imagery**\n\nI need to interpret the dark greens and browns in the entire image. I'm imagining the dark green warehouse contrasted with browns. This reminds me of warm tones against a sepia grayscale background. The image has these narrow stripes of dark moss and brown that stand out. I'm thinking that describing scenes in such a way can create a vivid mood. Overall, these hues really come together to form a unique visual experience!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDB17E6j-QCuW-FEMHxbFQgiAwGJyfbIRq81FXVPmFN0sAP3KofccGMWYIqUC6YmtLafLsgrL5EzsNTs9Jcp_8JBMa4mFFCJZJrP4RkEoDjSKzvTLyTgkLYqOLpoPxgvsIBNxW5hSUm7soFSSG9ZS23MEa70Rx5rJmyokysXBW4Kg7zembwoRnUa6ZUR5CD3guYgGk1taYwf-MmL9iHGpJS3D59C8lebnkb__z6MXVomSCA8WbiRC4UM64grmtXPCBkD4lIv0BAvYg-Gez7lYHrrwQGGOePowFIBtvHNsrPgoQuznBAmisdZ0X14nH8TijIumJt02C59xp56sVgalgvjWq0vWkepJxmksrDK83RiZ9jdbwfC1G8PND6sl2ka1eYnAApufraXEb9IqwHMk-z-TS4KtMNss7qnxYeT2V_pS7V5U6xb2bI6450DBGM0p6aMFdiXqDfWItBdPk2nWjr98T85dwYMUOOoaxnvMRmH3Ngo_Na92FFp8gsxruU1GF0-1BK-ui4vB2ksBUdkrKN0RMLvso9wVZZy1_Q9wk5o5WOttdTS7yFZCGekw-EJKu1HR5EXd3L66jHyeEV4GtWIYiTwJZ6HCY6kwc6C9jLU6ziEvKM0PG5BY9GIEyRrD1k7gGvo2BUiMufACQUZi7_Y5VWLJ7iVJsONUFDelAOt0qtTyWQKyly2FwrD67kxyLOCybcqopfRoWgUPqzhcZA5tVuOWz4qTKUFMfvLHEeRoUOko1g-Ego3fJj4FqpCNL0Ojg0ktZ01BOGjyWiHrrfxOSGFdeHcP-eg_ewDLKlIrH2GSqlPsiWZmy0uw-xlV38jSlp7-Ura8fo1Vzx39tfaoIVnZA-gw6LvEpXCeIXyVB-8WpAGaRbwDYDbfdclCraFDy1fASc40V4AyNtl6jpz6aS_-4y_Jy4-2v19nb6rfZt98OFVll1yFSb55ASz5M-EiAQLC9GjxOB1JrTEyK2p-cpH-joRPm39II6NFE7047Z1_vUDgHIiPntZOx11P1-rcHqN1b5RcuHSmt2vMrXnAV6eDqrvDG22hP2WbdoZNhQI78FxHKatJmvkgmIALcGPO0tK89BqbxqkWZN2Va68AYyLWJpdTGBWsUVipRtK5Mc_MTZSbDIQy5TG3HsiYBhQ5vqhBUzafByKlpv95gPVdrJsN5bYtCneJIYuoJWZXSRGtGLJjJGYLm-Xm6NYjZ70n-vJUPcQF0wXCMXWVK5dgSzroUgmcaanyOD38wKcx4Si9e-UjtSSHhlvIZUV__oUNpQLFRYGPh456TfZSQrUjuRQvYQb8KQ1SaVNDLcciK0e20LgdloFhEuLQVksRm6CziRXAmgq7604HHN_FlTfm8pmd3Z5ZhvOj--lV6tTG0z88hMUdyzqLpq7SM9jWpGvyooep_NZD1pSOvWlnGrn4LvN30yG5rTt7KBJ5Ogr_2vAivJFJTdIasYfQIbVQuBKSHb7ivcXXZcVly3RnU2PJX7cPGp4kdEDYaxtup0kPIsnapRiCwz242EW7HTyCc-mZuuQtIX1nFNERjyEmgFp_n8Lpzb8ckILskAisIBd-OVoMlc9QaS-tXo3grTsNJJgLFYDhG8Kpq8Ku8aXAbNQakigDi6OrBtjZk8xQHpisGyBj5fpFshFp0jUCsyYnB1hJSUJ5l7oND2GRhIaGKDAEyd86CKbrPxXSs3_gtuCGHhJPU6T50Iy-fYhfxBg8nXY1ZNeMXGobJJzkNn2ZgIBGbc4RCPNzVYg-KeiHnCigepEJiBmOPEAeE0knlF8z-4JSM0oJkv0i07yHjBKUocJqzX9GrEmCPysuncHZbOVACz5tsfXfJfjo1MhT-7RoR26Ho2G391EyAN0bFwqQtFt15yibp_BTN061Hxe9eSoLLKDvlQh9O1VdZ54x8XZ2wLka1lv2FG4h6BqcWYFr7zEWFcgr6McpH7ElmYHGv6QAZuHZQ-1QojU8no2qSqvCNfhnzcA-hLTlpapz1NNr_cD56UjryiWqSiVzpqIADyoJEDTmXivd_ou3iJqhkpqW6C.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0eb9d8449ad43a3f016abee0be1ef487d199f3d0d9653303ba",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 468,
+   "completion_tokens": 134,
+   "total_tokens": 602,
+   "cost": 0.002276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002276,
+    "upstream_inference_prompt_cost": 0.000936,
+    "upstream_inference_completions_cost": 0.00134
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 104,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

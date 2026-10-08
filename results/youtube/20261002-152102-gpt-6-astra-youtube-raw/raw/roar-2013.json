@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955035-gIO5IXetX5QUxMpPq7p1",
+  "object": "chat.completion",
+  "created": 1790955035,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is OneRepublic\u2019s \u201cCounting Stars,\u201d based on the predominantly dark green and earthy tones.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Clarifying visual elements**\n\nI'm trying to analyze colors for a project. It seems like I want to use dark teal and green stripes initially, then transition to green and beige, working toward a brown by .48. I also notice that \"Counting Stars\" has lots of greens and earthy tones. The imagery seems to have some contrast between darker and vibrant shades. There\u2019s a need for conciseness in this evaluation, focusing on strong colors while avoiding overly vibrant ones.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Clarifying visual elements**\n\nI'm trying to analyze colors for a project. It seems like I want to use dark teal and green stripes initially, then transition to green and beige, working toward a brown by .48. I also notice that \"Counting Stars\" has lots of greens and earthy tones. The imagery seems to have some contrast between darker and vibrant shades. There\u2019s a need for conciseness in this evaluation, focusing on strong colors while avoiding overly vibrant ones.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84hLEV3jllyyK9hW9M4hGizbF5aoccbjkPu4MvCxsEjB-aEDSGh_TetWfMMh5ii3LSHs1pljuf1t-y-PqsCrWcLLMR2Vp3KHujljtEpVKqXKCKdrQI0tCNAASDsOMhzUTPD7eMcOz_ui3vhsd_vilEt3X3R6FYS4i2P_r7VzObwLcBWYHb_7ke5UZ12xNyGpxlu54Wj0Mw8yi8_-cqE_nPnbH8ZcQRwSJJ0YGUfWq84XN3ehIWojMqggxDuiaJglnZWTuj0ruLHyQhXRKhTVJBpRzviFmRKNUxCySFdDLTim1Foljd_bAqWzifFTICgVMYLaOunvanbntw8iG6h2wJ5_CtDX-bOWLFK2ElA-QuqBhOSuEASZtq3B2At4A-GrD-PDoYj1VpAuWRm_WDc8n_VMpu-j1OM4WVJODOz-enNMXemwsAR4ZnQTxU6Swd4139kcJoRtxg_Xf9docLiCZs4FW3P4VndG6lP3P-7dRS647lZzjLPEXHdX32X22nK7Fz8mvaRqp6ViFR8-w7WgG4_QR012P-U8UrslgdOkIL-VONBodpThnPgbWgjq-0Hy7qum_zpa4X8snNKy2-V7SN-dSU_K6l96cCfbBhk1mlc9DenO32luro7VXRrGulohR_xpho8IFiIncKeqAXlxO1NaEf15coj5eaGvkcwSH7pfaS3Z9nSsDhKAseI5-k5besGKJoAX7SugDXE74qHJOsiqDevE2AMBHyL3JmFf6ov-8mZVmP4fawqU5fmFIy9OmRYRLYGXXoVwxpfTfXIjwTyzdRmj8scVsHWufmqbE3nz8TIlJNwBmmNGY6-at8a9ELqJ2C4nVk7ZNNBE4aybAwAB7fwGDSi3zEGnQlTw2a8-dimgg5YfvkwUwSVBjbm3N48ofRCrtkFMPuQLxqCLCxjBwWMSjuwTeUe8iWBExm6z0-1AR_vfyoqzSpoqniTdE7kCVQNx6ZFZE8G01GZvHl1tl6c6AcgZC0xPD9XqAG5E6StqHHEGnUUHL_WDT27JwxdBA_TZxqEgaapr_6Jf7yPh8zO4KNnCm56obLQqPEJiNqtSgi287m43IPrIAtvzb2kb4DnmfHhP_fFr_G0fRKy59tsp3OXdqTFOnZR4Bkmg7djY7ZE4YSXsP1_98CR2MLR2ZgTt8g7_EQfhaAsmruhwoNTaJ-JbZtbGkQ3CkiIBc3BitzGmPSeINKj3qPDQVtHnQSSxgwKXvYhEHfhBofiVotvpXxLoe3VAMAasFmJ-847u1tpyLb45OqOleyYSF9p8Z4Ux7TgKwc_mwQhBa662SbP_jqD9w7t408-ekIaNKvlCrpJtqHBP617tAuNDluzK1QG6h5T1ieUq4fDDS7eemn6aMZ4mMsKYxkoFlCjDyPRPttwFU6My0ZoINS-jQi9t2F9T2h4tq31AHHuACt3e10cKGoN6F9MZpt-gzKrO3j2ZDEtVMFx1eQZfmVMZOvrkpFR06ipiIa0LPTe92V4kLH9kq8c7e3VZF9D6LOLTmZV3eIyBIJkUYC0i72uNUhR2jx0uO0sqhAXqm7Z7IBEVIri-FNZBr0uIzBlw0_rz2HJpIkLjr13dtXo3u4PxT4PCwIGikOLT6_nTkthhrqTs8O-jibrwcZnZnhhK20LIpCzB8GB3xcna0n_JCg6miWyKzTZbMYIkBXYn_KhwLvH88zb36vMJxbj986laQG366TO_QvVTp7p_Q1RK_zLq3CtbC4qbhPOkoDuyh9fQi-t4n2X4Aj49Znx5G9zYXDs8x7oAQN0UqHSfMN2xy7reqShiGlvuYXyh-WlrTL5dTGMmj0hUPUii-vkp2aslu3vN-FyDnWWmE242a18yy6OQsEqFYznSVoFYQAAJqQhfHs3vL4Wyxgf49nhYsFwca3h5qVk2JFYf37BMlavJgwXHXkTkRpVtUdH7AYRZyF_oYolldoxq69KI8pZaeMFCdXgxWQhWUbUzaPsrL86isg7FMuWntkqTFefMldKqNRq9xXvzg7d3ImdXDGT8WdCa-Xd1CHAAqJFpPEUoFb0eEqXUrEOwu53mB7gMFCu32jP63aTocziW1gFXGHsirfEWy3NHEc=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f2bb3ec1d62fa4b016abfce1c728c87d19ef07a5cffdf07b6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 140,
+   "total_tokens": 613,
+   "cost": 0.01173,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01173,
+    "upstream_inference_prompt_cost": 0.00473,
+    "upstream_inference_completions_cost": 0.007
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 110,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

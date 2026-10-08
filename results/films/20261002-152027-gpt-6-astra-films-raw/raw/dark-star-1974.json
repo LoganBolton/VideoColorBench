@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954588-pKam3aHcRiWRXzVTy7CD",
+  "object": "chat.completion",
+  "created": 1790954588,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Dark Star* (1974).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing festive ambiance**\n\nI'm considering how Black Christmas creates a sustained night feel, keeping things festive in a dark house until the bright morning on campus. The transition from darkness to a significant brightness the next day really stands out. It makes me think about how the Dark Star concept is somewhat similar, mostly associated with red and blue. I should figure out how to express this in a concise manner for clarity.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing festive ambiance**\n\nI'm considering how Black Christmas creates a sustained night feel, keeping things festive in a dark house until the bright morning on campus. The transition from darkness to a significant brightness the next day really stands out. It makes me think about how the Dark Star concept is somewhat similar, mostly associated with red and blue. I should figure out how to express this in a concise manner for clarity.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xpYwi7djbTDdikU8uP5Ju-onzHRR1JvfdeNTCbjudom87Dvc36mXzPAeTqaEwdkFD_FSEffBncPpdz-bZZ3zx_Vqw6fQ901BC3nVJwCphoHJZoIjOHIcOfjRrekEvBVWeA72sdjxnllVp5C4O76hqHMGdWg2FOwxJclwsKKrlMVN1S1nwKWgktwDog4V_deVOGKB6N49yi_0B4C4pRgLxts_G9cAmqb2MjSMKf7QSXO3JbURuEaRfeJAG5RT2Vyp1RFrUhmHJuQGzI_OPZ9paMnbn3mBPBBSKvG1h33mKvDxX5DPEi-W_hkZ-ySEP2AUKAJ-Fu0nWAfJcLun-Fz3Jl_ixdOsoWridCpqlvC-Y4aEyDBs4tB-l302qgVLh2ny3tWximvRHOXRiJHnBOOAQ8_x0X7_S0-jUgqzRP2bW1aZ47wcKLaw-_ArB4cnHV7VcSeJ_Rz6rdLu0wcY8OA-iem96vQiCNbYD9GFMiUZvb9FUjLZLMP5zjC793_WJATBJZV6ndjrPpdJ5rDDnAK6DU7Vnf2_CGh7IjvU6-oqh6B28S-EHYboToJ5ei25J5MfEOo6jlvAQuqvowgDtDLwlc8uV_wPWNRvZEWTwSve7Fj0WzEmrzkZdgOsq6aU4ccUPrXMQqc9PWv41j3sU3T0qK5MxqMGgXFFpFCZf1rIghgavovk2oQfxo8QwI6VGzmUoLrltJXqDfRnzqTMqOwA9uB0GDc4k5W2qhHgZ4bpLy8kTblkCoQDoyFPSBSaSxWwnS8cmA2MgT50oiuQns6gVuQERhoQ5UgUfJ16N4lUseZmGMIDimq7LczJeigo49nCyif15Qv2HXXehhjKUyDPMlvtwPEQffWC66sogzjdr0gGfs7xjz8XleauFZEAXXXY_OPXOgQ_xVKZRgnJmCw--VDvlEYHqLj1CPtqLWKatZiYIRJ2YL9L96JJLC3KjK3R-v7SLz4zTYToc0pTyt1BxkBgtejVZyxJulqz6HpaZlILc82GHPzA8oQTy-0MdRWHtwPFgZamDoJx0f1fgxjHpl3FvRl7LTXuKIuaXhRN9C7QMIxOaRJUsOrR2gQE0TokYkaef0y4_ODyxgmD9u9Dg8pY2kBa1q-rAv34uxkxfThvemIQWO8QTAN5IEm90yCYcaKmLB1mJY0NIsiwKfJlTXV4nx1-FG_6U2rmQY3Z716AJWramXCiWLRd4WA4OCQ45ewRKiQyIAA3Rh7nRqGeluM5m59UiCd1L5ZCEW7t65Z5iJL8Nf3muX7IHEDwmIgvxypNe4Uk66VbJvkQ_lpofWzB8sD1uwxC3PCCqZkq9U6nR1ZDPa3f11v43hGEDdox9NVhNDcFmYV8kGfJURAx760BimgS3ken7_kv5v1ZSvfGQjelP2KbD-0k8jdt20fWl2kRv5Ecx425gPgluA8PmjH4t0TNH3292G39l4V8LLT6WaUmM15ZEI_iyus6GulFtus2NkKbvZKON0SS1qHGRgxWts9_X0ZddVgOceWAwpHUyGtiBh0sj-g47dUyVjvJqEDfvqW8ODO3FHL6xUx7m6ueXpm4CCz34s37OOIoRqvOxvrkFHFeCTogfk96vfxGbFvoedM-HnaU9k86LX1ru3wC2GvtaQXDZp5u4J9Eyx1I39aR9cObIzMvF3BUbO89PTEAX_EoiO7srafjLFTF1SBdolDF2MbFnr6izVS8N6Uum4Bh5Noo-rtHwnO5Vvwa170YL-3C7DFeCFIMeK69VB2YBYt1ZA6Sl__jokTDNgdBPtf6aYpeqOfJvIxMBpkR6HHoU9ZF-cjWKmNZ7jrKLZgl9gzyguFAt0VjltmRZKKuIArdxsPwwt-vOteojVb1s0ukFzvxaRWdhM8l76frA_s4U7VdXevt7agQBcc6KwF1fUPZQRoa46ECceWic0WMaALsGnMR7qGQke_34HnR86rRzTQlXCqmh7BURMOVltf4sc01G_Z1rqNX5LV41ERzpYuzfnPI63TrS2mI4wR_WAVt-MRBNq4K3Uj28w_lVYV1zm70npUf6XznNXYgFOaLRVk1c_qnjLwLWhw23W89xMKtqY8ZOGj569R7oHxoBoC-6GsODH0Si3anLSjPmKAvbljO-Y92-GCOjCVC_QS4Nqb9S-Fof4gS0YV26ZwKa96dVssHMApAB_zhrSho29S9_Os3ZUKRroRHuYmvXoGicAEACuXrD39wyi9mzw3uaYLu-8PnekGxB16B-oS4fRANf47T2qb4_aUYatBJGZCDgrwPAgc2pEIK_NRSOz6KNs_cfnwH8kug6ozngm5lDwRLq8EpfDi5OO5PWk7spikhwfJPPEpUkCWzeZ-0hChq8IJwfBZL9MbSRfoieLt8jyht23xYXMiOw6t53qAn2l7YwO67O41TsUl3g3yKGYTL7BklKEdXaEi-D3YVK-yZG-jGRUoNaGAe-cf5gwTcLkbg_Esf0FB9AMxsZrX-wqmX1uw8wf4DEX0Hg74M_hYL0Uz3guFyreGhgdLKUCMA_w51yiMRWuUvqOd5F1oYD6Z7bArB5Lw5cnNJ4NA1qYtWj13BMycPhAKtebItQ8lpYw2s5HBCp6aFmAPxEhXkBNvcO-sXjW_I_C2WpEqPHnieXyKJ7T66fRBwRGC5L2v7kP1ThBkiGtOJ0XmjWKHasFZwiYWVzdWttp8lcVJ81eRfQXm2tbvwEzi5T8ELmJx_Vof6ESTjhAcHtQC9u-gpLKpzFODnTcxB_sbu0vJBUvxb-ZUKRzSP6F1_HeFe8OhKSnyTMQ-uybYW7vnfCKittZxvoyxJNY7oe85GUUKFSHFKesxDDlmR9dp_-TjJN19tMZ1eqtZVz9RD5ihxCj9FZ97lCLYEEH55MSQfamZH8oY2j4gHch.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06fd2d17e9bd0f43016abfcc5e8de087d1878f20ac04068d23",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 268,
+   "total_tokens": 697,
+   "cost": 0.01769,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01769,
+    "upstream_inference_prompt_cost": 0.00429,
+    "upstream_inference_completions_cost": 0.0134
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 247,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

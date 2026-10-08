@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907334-Mr5aysGgQu1Z1Q1mXG2t",
+  "object": "chat.completion",
+  "created": 1790907334,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess, not a confident identification. The barcode is mostly muted browns, sepias and grays, with a burst of orange-red partway through and a long black stretch at the end. That fits *1408*: most of the film is set in a dim, brown-toned hotel room, there is a fire sequence, and the ending would be dark credits. The other options seem less likely. *The General* is a black-and-white film, so it should look mainly gray rather than warm brown.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Comparing the brown/sepia tones with an orange stripe against films I know\u2014The General would be grayscale, but this palette with warm browns and a fiery orange section matches 1408's hotel room scenes and fire sequence better, ending in black credits. I'm leaning toward 1408.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the brown/sepia tones with an orange stripe against films I know\u2014The General would be grayscale, but this palette with warm browns and a fiery orange section matches 1408's hotel room scenes and fire sequence better, ending in black credits. I'm leaning toward 1408.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStAcKEAgSGAI4AUIIdGhpbmtpbmcSDL+0kDfw4KQojLIm5xoMO9yVPZ5K/tfbl+E6IjCz6Iu/e7FLMp7ZahIJ5AIai1Jnb7hdb37otANZy4SMBghe9dOaHcAU+MwN18lzEiwq0QZwEYMxAxAbzhH8+lccvcc81KEzHnDznG61FhicbHUmcDGX5uKGO0KTaz0CMkGuCSzg4cuDQxO7sbBULJrTqxzA2DEpKPI2Pm4AIBOyYIrk+1ngryPs63GU2tAMpA2cDwHduw0ZwmiyfvljdWGEa8r5lEFhot3Dt9VjF+IBepL6nmzK0slBT5RzQqZCNT10stwcsGb6NtBtOVWgRO6Dj9yvAkhlNLbKaBsNtOANYHFVBv5hhCkQUHpSEOokmxTcipF/jDJpjIU5Nhj4Q8UJj02fgUIuBCFe6HPm+SQayC5U6p4xsQIYSFQXyY9XGRPwMHgyXC5SxFpwGUPuVK+2/+W9uOEqcOHCFxOsnyPWcVs6pnHwQ1X18CGrq6UzH6eHokNOajCU0sPTMGX6Pjoc3g+dJ9XPCFEw7o4hnqRe++NtToyKvmxKw0HhPHWZFPXE9UvjR2oTYl65NwbD4ukefVJGIaxx+cyxeHld+JuXbHFlMW5N20VdIwdqFQ46WWxhXcqgEzV/YNYLrmvbqCJXkf36WyY1XTDirQnXfue53+k/CQSus9RwnpjXUm1jCFE1SRcQ6gEEa0wbqz/nH5zqH+UhAd8OoQZc+H7q6apuoC76gwe0+YPLxUv0pCD548qBKkVhBtDjNiaYTaMRllVgcVN8lT5Fxx7gUpO26Nu8ac2XZ3XsZkCLj/voFMfgcv5l+WUUM0cwiKlPmgH+64rTBR7nuFP9arpiEnCWLlJl4tfGllqNGfcXGYYdPtZ76Z09xzsGfy0b0wVWwo7UW3bV4E3Bd4dGNfkZX5qMJNfMdHErKX7j85rV8l4GWykic7UCtTEZ8tfT+CcO3yIwbRNbRvGtklziouOiqFfzpzL0jOf/3E9zvS9woF9gDxVoepbhq5d3urAkzfPhXOUb9CXk0bxm3LYbuMj33Z1mhT6zO0dwe9yTdoremXjioxTNOBSEKfPtyfDV7lU1tvjp/qDV9zXB4B3s621wzcjwhjLiSSY+t7aetGOpMFb0vsn6hgATGBtlumR+eH01uxXAF5qzO+t4taM3oOHNBUlifWa1p9mw20l2k0/QWupTTwvQzHH1inj+VpKuwEgTqxdlXEQY1eUQ/XSvw4bqJANztTz7ozQOwiMYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 283,
+   "total_tokens": 810,
+   "cost": 0.007768,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007768,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.00566
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 130,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

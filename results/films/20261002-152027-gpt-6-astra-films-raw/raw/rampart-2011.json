@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954802-LUWIO1oszimKY0JGyqiJ",
+  "object": "chat.completion",
+  "created": 1790954802,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Trespass (2011)**, given the predominantly dark, warm tones consistent with its nighttime mansion setting.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv805S8aw_0M7fPL9BJJFMGbFRZb78RwSyx9j7aCt5_j6U7nxIn84WkSS5KSMU4K1pHdcqMJSkxyRTtELNidBN4c5t23GsuWKzfg50bKS0YKuO5Aiw7N4qOju8dqcVrDWsh3aSzXjZS412_kRoSLUe2bV8RleZ9afw5WTtAiQBnxkFaneMnusoq8qWqyWxe8Vg2-9Pm26aQGKmOdt5S5ugWC4c_oH4chycW-iMOEP5Wk2l2R3-tQeYPPDu0C35_gdwI5zGvErl1b3lZcWTw1HbDvG2xGbvS4hAN4sczmNbHKe_iwcV6OA4D1k-wv1Isp2rkhhqMECRuvReigUY1az_w9CpqfLdbI9vGpWSXKK-riIyWEBnxdabu2m8byVmDjIYNaNDd5d-SVy_9UN8KhY_LXEOHYPh2Wc_ok5kIcAutJL5SmXkAMN9mtjtVAljegUVWkh3ctnn0XUKk97kRZHA-Fl8abYrjmHCEjPJdgDNRmewfL4XWS9K2eTAdDHKEqL8EEqYtoy-NvR4iURbqIaB6FC8FwewuPHWE0aZ1vBrqfg139OdVtArljXwIYCFEnMsrMH6_9m4l_TbDevoyzT2q4dMZ9IB7oeZ7xItj_fFhbfmBSrxHkt74PqapUkiLvCO83UDrN2bGvuOyNmGE_FgxA_Y9uNct0UvO_5nqN6DFiGkrKxAiTC0JNGV_0KbX9ndi8C0kpHe1f-Q4Zcc0cLpgvpa-te60XZ6xQ8i3XE2WXKAaIrljXcgQ45_Hkge9hMgtsgsMywbuPLRidulnyn2dzFRKw5mB5ZrUCuTtqWbJJrmCOauxFwHcgJKgvWTiNYYR8SBrHwE3CTDipPpM6ekGC2-jwSjKnc2JCuyhh8xJ8nHhnUCP2DyQXI6UOS1pI51nO_-CCIsMWgOT3yDGXqr1j50El4LSL-vfFkeh6iRAmhilPr4-cHHWHYGBtgMSSNavRWEVsKgbY5722__KN4okGXmleyUrHCOE5rtFFcuAxN6-R_RFz75Qm2OvK7PS6HMiRhqOeGExHEPAChz1fExn35VdxeLE-FBrMIghZmgXsQUWkAHXLHx4wwWQQm3oqFP2QAvAW8l7tSTUQ6pr9A-vuIrx8eJv5QnKw5RHxWqvkUa4tZ56lqMWp9G-rXdODnmjLftGPUrP6g5_ZbZfJriHlzzYISrz1qt_qHzdv1VifG-dLFXVhJlY05G5GkxVOvMY0D9s76R1BHTS2h48rM_s6jt_2-z-DsASuhuoulC9k43zYcIlhY5wZRS-vSLl_rmfRuobAPIay1tbWYBwSO5mq9BzGnm868k03oMa9DbnnKfXoQogDnsMCbXkkn2pTy1s3aYRYgo120sNYaCeTpuNB4ahTYqMA-0bW506LQfhUeJ8YOGf8EIy0EHh3Kp-5i4o1DYN4G2N3GQo5KlVQyMdZKQDzrnk5qlOO7u8Ich2S5o9_zpJRiZLdddiRZHdMFnpC3il2T0m3OMr5F1tFXpiqfofV384elPHaeahSRObh5dog8x1cpiweMdAMm4u1OP0TR0pmXaY4AioF1fKNjAveMEpT1AXFSfLpxQafPel3njq7_G_evZbkGKvRfQadmc2aLbKjPdyy67SL9VZwqVGpE4NVBT7M3ZONP0mlEkIrZorV-WWoGKTfV7Sgx_HIA3GoEAbmUhgd52VW-Qk567FXn2L9g5YtymMmhdzNL2BnQKPKGyMKIadIULycEt1L_AQvWaCpxRb8JRltzZh_MbdDGu2YjkZD2SAQv9vH8zl-h3U0JMTj3-mCho2G91CwHfjA2C1rZqkOK57mQvQab2Uxxf19OXrYYmBYtQMyEmkLfz8DyNBC4l_F8-u9yVinznE3yM9FzdxGjcqNUGbmpYyI42jNLFj7az0RhCS0ZrL5CBImAqZhCq0e7ACDyz8uy2czEQbkmmj4zGpgf60JbX4GtKu0AufW1_OblWpXaa8_0TVDzSWzsZvmKcKvJIj_sB5qDGITrF4OfvnmrVBHSy3zKSeS2W4onFviBdzurLA3w2aS3GOFlRkhFz5HmD2qtYu2jO04MjSHbYkUPfdClSdsWdmftmguB8TApELMDhModtwh8SQbEEDWxpF2g6PF_tyY518BuGPhK7z7RT-tZn1dLIWic0fSqX0ks1whJMnK6iY3V6rsPXIGt1pIIRNJv9TA1iSpr3J7giI0WvhSVkIK5oB95DHw81_vItrwC7vbS7Da2y9g5RCdRm_5HsmNYL1nXq1oZiTag0kcPYNNmf1PI4zinPChasdMxMGsmkIs5PJMfOzEQndrzYiOFzNdEM1fEJtajHKAabk2sCItFt_ruyNxz9Kg7YGiRmGXT8JatKL0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d9f764202e7bc1e016abfcd33fa2487d1a03513f2d45d3d90",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 201,
+   "total_tokens": 640,
+   "cost": 0.01444,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01444,
+    "upstream_inference_prompt_cost": 0.00439,
+    "upstream_inference_completions_cost": 0.01005
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 166,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

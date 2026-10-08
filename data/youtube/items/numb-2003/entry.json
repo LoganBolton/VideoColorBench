@@ -1,0 +1,21 @@
+{
+  "slug": "numb-2003",
+  "title": "Numb",
+  "artist": "Linkin Park",
+  "year": 2003,
+  "label": "Linkin Park - Numb (2003)",
+  "hex": "#393734",
+  "rgb": [
+    57,
+    55,
+    52
+  ],
+  "frames_sampled": 187,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "kXYiU_JCYtU",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

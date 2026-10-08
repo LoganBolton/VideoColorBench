@@ -1,0 +1,21 @@
+{
+  "slug": "waka-waka-this-time-for-africa-2010",
+  "title": "Waka Waka (This Time for Africa)",
+  "artist": "Shakira",
+  "year": 2010,
+  "label": "Shakira - Waka Waka (This Time for Africa) (2010)",
+  "hex": "#6F5849",
+  "rgb": [
+    111,
+    88,
+    73
+  ],
+  "frames_sampled": 211,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "pRpeEdMmmQ0",
+    "youtube_title": "Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup\u2122 Song)",
+    "channel": "Shakira",
+    "via": "yt-dlp"
+  }
+}

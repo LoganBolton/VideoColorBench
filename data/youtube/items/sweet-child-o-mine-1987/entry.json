@@ -1,0 +1,21 @@
+{
+  "slug": "sweet-child-o-mine-1987",
+  "title": "Sweet Child O' Mine",
+  "artist": "Guns N' Roses",
+  "year": 1987,
+  "label": "Guns N' Roses - Sweet Child O' Mine (1987)",
+  "hex": "#454646",
+  "rgb": [
+    69,
+    70,
+    70
+  ],
+  "frames_sampled": 303,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "1w7OgIMMRc4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

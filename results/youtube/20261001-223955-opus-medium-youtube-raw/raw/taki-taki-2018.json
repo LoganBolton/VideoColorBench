@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894493-nqKkvmKZdmH1jWvGnab6",
+  "object": "chat.completion",
+  "created": 1790894493,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is A, Taki Taki. The strip is mostly very dark throughout, broken up by saturated blue and deep red lighting and a later olive-toned section. That fits the moody, colour-lit look of the \"Taki Taki\" video. \"Chantaje\" is also fairly dark, so it was the main alternative. This is an inference from the colour palette, not a confirmed match.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "The dark color palette with red and blue lighting matches the visual style of Taki Taki's music video, with its scenes featuring Selena, Cardi B, and Ozuna under similarly moody lighting. I'll go with Taki Taki as the answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The dark color palette with red and blue lighting matches the visual style of Taki Taki's music video, with its scenes featuring Selena, Cardi B, and Ozuna under similarly moody lighting. I'll go with Taki Taki as the answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6wYKEAgSGAI4AUIIdGhpbmtpbmcSDPblROzy8pvBF2m6ShoMZyonIouXL5j5dWFmIjDAl+W8B1B+XeCoYBPOiqK2dyD578CSlIYVqwxp8VyTTgZY8Y/Idvhl+xeFYoPka8sqiAam6IRlX9ePuo61fmuh9FBWr/jO2NhMH+if+TZV5s7cfubgD+nXWi4fRr/Gh31yBJmklIQxAjnArDnWYuENmee9OvxD/gHHgL0m7n16Y0RNPv/3uxmwvy6ZklA6IUUesrS5/xrcnJSMX2beCaqKEtdJNjUsbFuerY0Ki2Cr4B1idcMnOqay5nzIxPdomfX/S/L7y/W/WiEcDbndvMmt9C2rFXuDYXzbG/HPtdyno17jgUYhdxunH91jSwXN2MASr/Vmmfs2CLaOxhYnbZ9Sqw1Lqf60SObHpRuLxWJfNJLyNjsmY/fGfHyqm0ovQp4ZvKy7WV8fqZDFkzJ7Cn7dsQuw9GJNHz6pKt1sx/cR0N4agEO0ZiHnTQ/gJRLEcqad5oGZa75Gzzgst3jC3oO0uvJHg+LoICYAtwQVwm/jgyTkZl56CAAytJ8pWBTVIvB0y1F/RTMuzFMtteNer3I9dvJ5P4a/2VvT8hA6xzEDZtmRD9FfZ0PbwW+kZBZJx4JqMdmhF/Ax5WuKatJ3ijcrxMzG9lZafC6N1UuiyRaf8krVIrjpLX4dflJR0uEwtUhTQY7qiaLIpYdejDXeRZ0emkNP1DHGKjDrYnPCTGO75pn8JjpSuYGVq/YHul0+Csr3YsZc/entCotaCpdwsqsMv7JgBEazm8Oa5x849xJCMSDtkC9+qjcEzTmHvlvACGhnY+QuAyskyMNlSXld91JEnMBBUD5sjFQsKfMsgDI4Tk/TQL3VJebFoMzyGYVehZzTwoqv2qAaRiBR5MAwHi/eqjjzWN0p0zTDBW8HRtR7I99qBwC46T8kmp6tt6btV8wstMYi4S9b5GrItC30x496Et14gBcwem7/j8pgBmEfrEr+sV1oJInTKUb097rSITgHx99pn+n95ThdmvDR1lN1FqUAEG5GVEZJwAI1iRI9i8XtVCidEJg+50lp8oKguVSR/DE0otmd+VxuHxUTS8B4wpey5cr2W77A1vSyZtbAbXECVpMlcITloiBBuD4ph6s6CF+BxNZ9tG3qfBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 666,
+   "completion_tokens": 246,
+   "total_tokens": 912,
+   "cost": 0.007584,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007584,
+    "upstream_inference_prompt_cost": 0.002664,
+    "upstream_inference_completions_cost": 0.00492
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 115,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

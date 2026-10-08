@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954575-EmdMlDnwKE5dbYnGEIsy",
+  "object": "chat.completion",
+  "created": 1790954575,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Black Christmas (1974)**, based on the predominantly dark, muted palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating weather conditions**\n\nI'm considering a black Christmas night with considerable snow at around 15%. The early daytime looks like it could bring patches of 20-30% snow, which might persist through the night. It seems intriguing that the overall scene is warm dark brown contrasted with cold grey cuts. I think I\u2019ll choose option B, as it seems to resonate better with the imagery I'm trying to capture here.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating weather conditions**\n\nI'm considering a black Christmas night with considerable snow at around 15%. The early daytime looks like it could bring patches of 20-30% snow, which might persist through the night. It seems intriguing that the overall scene is warm dark brown contrasted with cold grey cuts. I think I\u2019ll choose option B, as it seems to resonate better with the imagery I'm trying to capture here.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xaZ_jUQOYFwBwTkD_o3krs2ANpkw8D1CMHMMLNj3dDWKsvVKh1zlNSgITZn2NxtKWZMB5EcW4D2LXrwFckrzP-9-1kriQ7c4fMzfJo6QyCFva9tMu8hdQ2L9oZD5agxQ_mFKxWiW-BghmXp40VmCg38hboSh2afKLIianyFMAylsUmaF2wswkoUiAXE9Q1dJx370Umq3Gg9lhOArZBONoWlVHxJWcoqTuGAIFlI4cZyR112KLWBMRKv3F6YchKdgkWR4oqOK_B5ShEMmQwWkDP2NG0z1Gub0R-AC9zzxIrHbbuqCGhwGWTkPFDJZTYsEzojCC5YfWg1OxZvs01QHvdm7XiTx8xrYZ79mqkOwb1kbJzYFIbG1q1EKFK8g9_Cffl27huLvMFLrTjp5m7dDBHbDCy7k7PAGLcuCkszvYiGRtkiYe9-7eRjiJ5cv8HtCLVNAALDrTtKHzB60SM-Z6q3Qm_Ac-PAOsAG2eNcqPqT5YBqNVHgBwcZbMRRBUSzYfhyRdD15PykIC4yDr6FKyUHiz4bhnCt1EnNJxEewL8KetgLRp8Vzw9ovpUSSrQxSK1D88LhGh4ICGbhe5q9DUHflJbo61v-OsJAR_z0pZU8fkSoR0UjUeHhPKBVlD7cKfDVc1EG3M8Ov-jLQLNEp3Bt86-_1JAhsar8JmzjA_aQPOZAazP_3in4UmySfzb-MaY8tGhBAP8DOTsbkOX14xDkEffpkULTRlzLVynRp861ttc4jQvR_AFuP8EX65kpnguCoWES9YOhGA7XH_AT2_HVObPE-icqGj52ICPqExUcmydU0Faok4ovJMpmw2Xhlq5bPEVC7hjqx5rPSaA8cvbBZWM6kjP1Q9823pJhrwJ5aJZzzkQKws37nCxgx4Ppz28gC3OEENmgdcLM7J_8YtAuLQF1pxe-JdHggXxUK_jKGhwcAEV0UjanZ5QpF42eSaOIrJLQtWDcVhzWAF8KwsKu3lzWlbRCdXIF4W7afGoY_7sxD6IYAjLxT2baG5J-z3ZMfcM50DdvMk87LARVSQEzoBawpfa2_yAf0Mwb3zwp_rfrzNcbo6lLt7Uunsg_--ktTGLpfIMBA9ngMfF7kRHqDAROOdswLu_Vi4NFp6sWlYkxftxBNKY8mW3dql8UKK3K_TQ-vJQeF0wfTX1yKoPJbsoxxKIbu0qWpUXmasaI-oxaUaEQPdp6-Jb575VP_CXdsVLejpiO__3dGudX2IxiBWk8o8ifzFNEVZF9FwiCAdPlybwY-VF_S29tcfGOQPEtfqdrdptd-7wMNaNI3EG3AYwk05_zRR-bY2FA_t2NUAZwhOe1_WppF02R34hS0BwtOYDBoYLw7x_qep5F7ibrq-ASfsIT3nqn-fU4rSisW_ladMbKJimN1uNM568mKtoq7MT73Vi-YH-VJ_DFoE-VEStWkxDZ1qV4ccRiC8b6yZkWvNASKN2mdnwU7XFs3mPqn2SI9nzhkHPcdMnbUYo2FXqtNS9HV6pjdzmsNdt3t88VpNJL83wJEAz-WeJf1EUJEEt7MyeINwAcTkmEMeLxolZEQFW3kK8E96fsbhpDqG3yDXdhR4iULM0oanLdjHNXy7CV3qx-1XJnwvCEoEPMkPjRWsVfY0C246i1UE23338gPcTkeDaP-wcc9wl8XDREoeAOo5Od6n3P2j519nS2Z-ufy_Edv7Cczi2vF1-LHvK6WTYotOLyMpnrPdied_bVQU2w9eJWaN4d99wuD92-K7laXVC4A8_S1vqTIWFkQM2wL3f7dlybwqgXXDOpuwvnq7zgAod1QDuyhmGpjqL5yFizFFENBCDvBcM8mJ-AvXBzmp-MDOwwHwImSpZzEytPO-fZNcHV2lMnZhxGQLPUly8haNLhacj-pM2ItgT2CEPWiwjE8D5toE6FrTuUxc1Y2KT-cpkA4pShA9CJy52SyBNEfeF0ZWiATLyD_8vjD8HvvNcjfCAOSJglHeMvpaLVlvfrh5KHBmU_na2FtJ8aZAbFa2Vk1ANM8hTrPEfED43Op8oAp6imZgJiLTKAPVdY20d-pT7F4Z9VTisDRaeVMSitA5Rd3wMcCRzo_gto0U-II_uYFpxCI95TTwrvktg1U8MR_PnjloZGi8meM-Sx2uYY1AOkVssNpIT8CCU8RKLrCSjdoMALdOKFNNptm3ll8-9hVEz3c4PbeGb0OTCKHcKC_fYA0NVvJ-ao2UcG7-T3Iql9nZs2EY50ctc2XVVjV6pElhL2WI_lWMy-5zO8w_SmWKf5DAZoq410sMzXYfTDEchnTVnqAPHKrtLQYl8OXaPE7qaW4ObNmFT_i6vZUdQNGTR1f3XOVmUXzcZt1wZPNxlWryqphrmfehsiNapwVjdekGdfL0TPuwXxUvsDFQDUmU5D5tPmLd1nfcxgkb2XQNK63z8xrwt1vASc81UgTP6Cgc0lEDAYOEHQrBdFycqGi8P0iVRp2tRthh6aybovaLvdSfGbWsY_S-U-CEPnytWItAyvhIdeTnswHvLDIWzJ05_3Dbb9Hu5vgco1-vDeH-AehIw-qVwPl8DRxFxVDOZkc_YfW-xHBvaX1OkZAJWumfV7tWL1nQz3au1-g1dZRRyyES2wlXrODusW9jRlkJHxxYVDnJ3Wv5UxrhEKma4g1TgC2QSzfEKH_VGu_Rd1o2pyVJV3nbTL385k_NbqEgUbqp_0_hReWpsbEVDHFw1RsucsrbcPHpluq4oBaGZAfdQigXRdwqCVPNKSmtZQ8HO7C0LSwPHJbSoi9Jed3efphMIiAiGzqjfgqbYkBk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0beb94d0552872b4016abfcc5099f487d1a62c969c2b1e0ec5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 257,
+   "total_tokens": 693,
+   "cost": 0.01721,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01721,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.01285
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 227,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

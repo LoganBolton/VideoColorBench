@@ -1,0 +1,21 @@
+{
+  "slug": "baa-baa-black-sheep-2018",
+  "title": "Baa Baa Black Sheep",
+  "artist": "CoComelon",
+  "year": 2018,
+  "label": "CoComelon - Baa Baa Black Sheep (2018)",
+  "hex": "#8E9D77",
+  "rgb": [
+    142,
+    157,
+    119
+  ],
+  "frames_sampled": 165,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "MR5XSOdjKMA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

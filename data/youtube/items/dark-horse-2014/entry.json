@@ -1,0 +1,21 @@
+{
+  "slug": "dark-horse-2014",
+  "title": "Dark Horse",
+  "artist": "Katy Perry ft. Juicy J",
+  "year": 2014,
+  "label": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+  "hex": "#836B63",
+  "rgb": [
+    131,
+    107,
+    99
+  ],
+  "frames_sampled": 225,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "0KSOMA3QBU0",
+    "youtube_title": "Katy Perry - Dark Horse ft. Juicy J",
+    "channel": "Katy Perry",
+    "via": "yt-dlp"
+  }
+}

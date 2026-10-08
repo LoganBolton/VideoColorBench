@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-nV3bvqnJFZ2RJ2RLWHYT",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Linkin Park\u2019s \u201cIn the End\u201d (2001).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes in videos**\n\nI'm considering the color schemes for different video sections. It starts with blue for the first 15%, with alternating gray, blue, and brown in the middle. The ending would feature warm brown transitioning to black. Maybe for an ending, I could use blue CGI and then a desert orange? For visuals, like in \"November Rain,\" I see a transition from blue to warm brown in the wedding scene, then darker tones. I want to capture these colors effectively for storytelling!**Exploring color patterns in music videos**\n\nI\u2019m analyzing color trends in several music videos. \"Bohemian\" has a dominant black with hints of blue and orange, while \"Bruno\" is warm brown and monotonic. \"Believer\" features a vibrant blue and orange mix. I envision a timeline that starts blue, transitions to brown and blue, with gray tones peaking in the middle, and finishing with brown and dark shades. For \"November Rain,\" I see blue in the bedroom, warming up during performances and then fading to dark tones for the final moments. Color choices seem so impactful!**Comparing color themes in \"Lean\" and \"November Rain\"**\n\nI\u2019m comparing the color elements in \"Lean C\" and \"November Rain.\" The beginning of \"November Rain\" has a cold feel for about 20 seconds, transitioning to a warm red piano bar around the 60-second mark. I\u2019m picturing the first 15% as blue through the first minute, but the end seems darker, especially in the climax with Chester's closeups. The rainy ending brings brown tones with sepia vibes from the statue and dusty temple, suggesting \"C\" fits best overall. It's fascinating how colors shape the mood!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes in videos**\n\nI'm considering the color schemes for different video sections. It starts with blue for the first 15%, with alternating gray, blue, and brown in the middle. The ending would feature warm brown transitioning to black. Maybe for an ending, I could use blue CGI and then a desert orange? For visuals, like in \"November Rain,\" I see a transition from blue to warm brown in the wedding scene, then darker tones. I want to capture these colors effectively for storytelling!**Exploring color patterns in music videos**\n\nI\u2019m analyzing color trends in several music videos. \"Bohemian\" has a dominant black with hints of blue and orange, while \"Bruno\" is warm brown and monotonic. \"Believer\" features a vibrant blue and orange mix. I envision a timeline that starts blue, transitions to brown and blue, with gray tones peaking in the middle, and finishing with brown and dark shades. For \"November Rain,\" I see blue in the bedroom, warming up during performances and then fading to dark tones for the final moments. Color choices seem so impactful!**Comparing color themes in \"Lean\" and \"November Rain\"**\n\nI\u2019m comparing the color elements in \"Lean C\" and \"November Rain.\" The beginning of \"November Rain\" has a cold feel for about 20 seconds, transitioning to a warm red piano bar around the 60-second mark. I\u2019m picturing the first 15% as blue through the first minute, but the end seems darker, especially in the climax with Chester's closeups. The rainy ending brings brown tones with sepia vibes from the statue and dusty temple, suggesting \"C\" fits best overall. It's fascinating how colors shape the mood!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCuGMOfYRSADjQ_RHl4F3gelUfNipnJmn1sGmfAW8pGkPymkludLCoo-PyUzb-yVlA_89w19-fvNILFbqPbym3ckLTKEimeJzbmXlLbgcNa-GHAmPCieQ90nFkSAAdl1KLvF2Xgy_MSfkTiCpalFLJGIAxsRdP3qz53EiSXhwaEn_cS9lqSqfLEB9QE-5StpabN4sCc3rgliPyAfRpDHVnfVmd2v4FS3Q6udYtebIpy5g_fhUwGqhJxrvYiKN6cZYFpiny8qKFhgPocI93rrvm1liQ6gjdn8sM2Nul3cMnaDxpMzKGf72o_6L4p3ZHdODcLaNnY545bmHq9TQ_6PSQfDpMg3-Y88xU9wRuhYQnDbghUh5E0uZ9K2jpoOr9_f-TDIUbuBT_3gb2huv5FSTy5bQ1sAJ8uuPlvOxByordLicLKNplAc18IHsJ3W4wBbGmJDN0pS1rG361m5LqzeLZ76OtFi7SQzF2TFo1Lz6TruAJ3YKoehIRrOXVLeBfaDsTm9_piCi1OoNZvqAb_666ye4i4zsMqahhzc6fRaRIRmv88T-Tb5Hb9BJVWh-3y_vIIFzv58vjGxUy_OOVZo_p4TiJlgsh2j7jHG1bJfM08enQ_pjyx9sdxBIvCXT9qNsLiS1BhmP23DDOiyhojQki_AxUnDIpvcfF8vaYj2nccifypwYiMIourAqcSQDiI4zmg3OfDVWEECnIQPppH3LKliDItrOwdxU1YccnD9H5mzOKYpLdwEB2mICOqBsAzAEXyGvHxDUR1aSlySfzvbYLiGn1GNa4KiC3VjNTV0m_BieXt9nADKteMGA59wJmMBkGftARMvcVUZdreEmoDo_HHCJQWLH6Vp8P-3Y7I3ARJh1hJtdLKP3jjrwIrGPDM9oJgt1j99DNELJAhOMda17_PLWfpGKRWMFEKLK1ioxciMgVjyk0LT17ZfJzRfoIu2YjHybyL7fDYbK_9db6WACcq7azAiYI-lCBb1FjBtHeqjvbaI0XjGyHiw9--k35Yo7kDyfsg1OqtbD7kyH3fWSQ6-3ueW6jZfHRjqj7kdygNwOr3dCb8xN1i8z30D0Bx89srcAg1V4AeGUZccc3A3jbXP98N1qDoZgafG1WI7VWSX9gGQUVLXs5hI8b_WNM_G7LanBc8sveNwUO_m8oNqLIVe3TRUoh62xgrO0k5qi7iIPPxxoIJLiFUWIAu-ZiVP_1eKxqjI8JuMqGBhtfMfnhBW62nlqvFxn-EYxJVYSkHNfyTEYOFInbbQprWRuLhlsxmDmYbJSxJfiV8ag7mnzFmsxFu-crjIXeYdrJHd82w_HSBy_TYyCo31E7I6lnDloNGykNdrfb9f3nlkKmm2YgG15b1ay4jcZ7_STMMbngJA2e-8F-xIQdTF589GjZoB-88g2rUjQnv0WWrejfyYLfytpdcw8WjMPZ04VLrK5svEm8W8mZ4E8rRhlf8Q8PBRO8pWiT8vCb37G8dvRP0xOdDNiuJKbcH6VMYtuu9xRjpB7pUSPc8fLGZnaoD2G5uovGyuWQ88wSpBw_ny9jOH1gc4b9mk_rqWgdflYtK4oLY5MtqVnB6dpaKRaVjxpXKHPir7kY0EQHc_J-tn69UI46GTaIoW6gnNk46eg5TM3-B0r9mI-6mmgdf22LR8VUTb6lHHTjy2cajAZhKl3yJCDbl6qyHypQNxrynEvmyUcrJ4mIKjCmY6MCeCcg3pAU-hEu4Za-7WeYIkQnLMtQlSRKrq-MHvY9H3vQ7SCXF0qPLUJyc9nPdltYzlD0uBkL40PU0N0IEFkMFMUlBO57kkhco3rcd9zVKbZ4spDxs86joZ5Z_yeyAEk0pfnPzL4zVDTnc6JyXqq3KavMBTf656sgZFOJdWSf4yM3F5h2UPCMPRZemlxodVKX5PSrOfLhm5K1aVb_O92Ji-SePoiUPI_Jy2_BXEsKPAtenQNUfLOR1DoOAyS126MyKezHwr4_gmBr7FGQROn98EkH-ij7xwWEKn_YQVl2_Yx7f9D_KgOwKyRnKJssycf33vXUVKA3vir65tEd6Vwc4KF_41QrzEAC06g_7vaHgErlG1B_1vZNuGB-nv8vjpS5bN4M44YbK045EMX3CwPhUsLigox1YCx8kefTIU5dgl3ZKyKNNp-CAcHPn4_hwLQau-g2MrlmHTrLl3ZVnionzC5m9IEL23Yk_Guk65iyZ0w_aJOnVYkP4VysursCgblq11PSahfrBvF1MRJM24OmSQXOMIwHc1ySoWnJqhuOcAlnWt_T9bwJzqBQqan7oXIj_9N5Bkn4E9C4pyLMsXKdEFIY97Icfe778V1c4MhyCgAIrk6KxKvqOgK40n47YKPIH2D5jaUjGDYanCe5frkfehp5MEK2JYXT4h5Mr-Z5rgRMGwGpKipYk67is6b5nzLobqeAf2Zt7HE9hMahP_WeB-uEvo6xtH1fZk1dcFNB_1NpBFRfMI4i75iIIeIHJcP20oPb1J3WbnCjGUBbYVE8QBu5BbuFZuQiRF5CDqYfyfnwmyZ1copOHyqUNA_0r8vqX2McguKZNXI-ofSOXgmw5Ato89mRftaYtI9FTd2LEudbLQtODI91P0nZfdnb1GvO919rQAAeKlxXZoWkmXGb120lZ8qO_8VWb9BBsv9MhhNk3ph6a2VWSvKFzKOfB99tg0qL2IqJwaMvywVTJNPcKvCbo_4yXGHKMb_GexqMr86C1pw65LFk806ri6hEQeWly-buzI_fIcHYYSEFRhRNu7lc6NK9lEtPRlNCazpm921e_ST_n_ly1yNIkvKyVGYpafo6T9lifc3wua4DbC0tP85oEGGyyuMBIeOoTS8C0T4ju9ZxKrJeHNade10n-8pHhH2iC0hFKJVZxE0z-QSr_mncAyMLTUItGMp1FJg3MY3uroyaCB1EHTvii3EIexC7S76y-VSkZu_JSdn1bgZ7fWDD-xPY_RhIguDSFA4TAP7JjH-nd9NVZkeoKIzug-9sk9mM1LT9SXIDifPqhDdRxpl9aVjEvrTGO9kRImO3NcB4zjKFY6eLHr3n5WkZCCxeER4o5UrnaHCeAHWw0ePriv3YQ4Q1WahV3KKMTt1Y7ht9st4b7MKEEKgke467svHEfiOXcaJLYWb_CO0UXPCnv7AxVWtlwypT1Fxv4cYu2yq_BNNpduNpCEAoSY_cvS3ok8cRNTQ5H75_hRMhjicqGLvr6KL-oeSZXXZNoJWkSBV-3qkALkrrp4xG8JQUIbYrNEHzsTk76GffidPgikWQF6OOzA9loDoqJIKayzwmpkZdVAIrGLHWwR9AY4SDuy7zt8--GwyNCQZsvRhnHSnwxax5-F49FRcffsz7og2PPQ4Ci6ycoCQ6QpmRNBtIGuq3eC870DX6aC-aCFn4FQkKoX0nEfPx0nA3f0VwbPF4V7FERBLAlqP065AEoSoLbAEs6gNSrESMQAIWVd4rETA-JuRD5WLY2Nn-AWNh91BuUYVTYfdobq_JChnAUxN3HASImv3gH3soXE-5-Ix-dSIsVrUoqikyl49cN3ANO9-LS3MdIO4oBco7m5oPNOV2pW4PJ7g0NPzyC84QMMf4HU7YR3QQP1DvTZisRh7BK8wrdnVP2Rtc5MuVOPBVPWycj-tbiVWgsXOQZNS5Rl7sNIoFK6uz3o4swzi4J5RTY2lvVC2ZPE6omPDJsargAfs-OaZiFtwqXSGcn27lh0qUyAIylu4mjKYsgsmMu-Eto7CeupuAFldXTqLKkVc4Rkr9vN7n9XQKngpCVBmK3uHM7mN-_aeVAbiXC46oGy7wnIoYK1y8fpAC6avPvvFKoMUW7dAbc3K9MVWZx5QMHW3MSJuo7IHMWq6IaJeT9_yDss5nvBofU4-h7zFmZ1TrlQboPOi3yTNDQ8YAYYnEPHSjiyGYT_118bMK4QGJ6_4Vh8H9SEk-jZ0TI81Vtl7xztd-sGLfxWVKyqJHA_R9MmIe-g1di6YROzolx6Htp_OW-0C_wnj4bf4GaTu98ZRR7RQPaRDxwQiyR2kJXt_VgXwCYCKMPIRJ0MhHmfgqtJgV5tO_YaYciyOau0NQaV-GP8sCET1ydLQLOnMvqhxfc2wl0tFariyhyqDgJYYgnOJtOzuZiweaRZvJc1jlSBINAXMxLUBjtrEvA4iDcGRd63ZDg1edk0DWSZKlNrmTx1gZr8JbHYFHQwFn0i0KX0ZSC7zSR0mFnEYOPBaHCdDyoorsqDXnHDbvIw65y-FTDBsJFP857qqkYkGF68hw4_AaLK_LcHPc3TRqFW5YF6bEjtPbD5Uap6EpwXuvmpQFXLoSUd0Vg5qOqIb2VIQ6RpdGLMXahsczCtYIFRgIkUIu3jfagWgjOv6VDYfbH9Pz_nPvCmhMZo_q2X2dSu3e14KTt8g8Vy_npUE77UmzJFz6JDup7SvCkypT6iyazJp6pFXtp0AuT-gUygHQGKWVdEbU7CPfzpqzfRNV6BtyWNA2u.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0096b73ad94e8004016abee09dec1c87d1bdc102308886f246",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 476,
+   "completion_tokens": 518,
+   "total_tokens": 994,
+   "cost": 0.006132,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006132,
+    "upstream_inference_prompt_cost": 0.000952,
+    "upstream_inference_completions_cost": 0.00518
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 492,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

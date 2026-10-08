@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954560-r3zwARImjSFomXIxWXyH",
+  "object": "chat.completion",
+  "created": 1790954560,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Night of the Living Dead* (1968).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing barcode grayscale**\n\nI need to identify the barcode's grayscale and brightness patterns, which seem entirely gray. I have candidates like B, C, D, G, and J to consider. The sequence of lightness and darkness in various scenes suggests a shift from dark to bright and back again, with particular emphasis on a strong candidate, which is C. For multiple films, I observe transitions from daytime to dark sequences, indicating varying brightness levels throughout. This showcases barcode movement and overall thematic shifts in the narratives.**Choosing between options**\n\nI need to decide between options C or B. In \"Night of the Living Dead,\" there\u2019s a bright segment around 25-35, especially with the fire scene. At the final 90%, during dawn, there\u2019s a bright stripe covering around 94 to 96, but then it shifts back to gray for the credits. I think option C is stronger based on these observations, as it captures the brightness contrast effectively. Overall, this comparison helps in solidifying my choice.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing barcode grayscale**\n\nI need to identify the barcode's grayscale and brightness patterns, which seem entirely gray. I have candidates like B, C, D, G, and J to consider. The sequence of lightness and darkness in various scenes suggests a shift from dark to bright and back again, with particular emphasis on a strong candidate, which is C. For multiple films, I observe transitions from daytime to dark sequences, indicating varying brightness levels throughout. This showcases barcode movement and overall thematic shifts in the narratives.**Choosing between options**\n\nI need to decide between options C or B. In \"Night of the Living Dead,\" there\u2019s a bright segment around 25-35, especially with the fire scene. At the final 90%, during dawn, there\u2019s a bright stripe covering around 94 to 96, but then it shifts back to gray for the credits. I think option C is stronger based on these observations, as it captures the brightness contrast effectively. Overall, this comparison helps in solidifying my choice.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xP7CtzGYJjsydM98nfgwY0w1N82YdVsNrCLeV1I0JkGOY_TMofIbpr03MDwlI-FXNEn694UCgdk5F1rV16SUbwfr-K5c63UFSPrz6-70Qs3EakydM-TANcG-059QVkZSndYpp87l-LKqLepShXWHfJ9qIBV2I-NSZzA_D4JCBgSwKCmJkUMjGQ8u_LXTQoou3h6eAuYV9c_ok315WtS_qChs6W_zvjWguQ41UohSkky52KXEwi3wLhpQV1EkdqUTOhy2-6DLrMkxpL3rG5CR0kQpo1Sdrt1O0EGU6yvndWPPNF59C5ijuxQif4z8160gUkZsgxAPPOnaihdQjdei32zo-mgLG34MFAjFxXX_q0GEuZlPiSr9ii9NrNLNKlQ7lSJ7iixlxz1C1IQi9R31DAex8f_EJq11HdPZU7fNE3Bersfwqr4nreyDz8hK_wcm7HHUnbIO2EzBudxEacIUBH1yV0fsk7sIMhsh-V8swqEVlV-Ao0kQ7s50m5_el6eqq4WfTtnmMwwO-eFGGLeZEJ0S2PQQjB1fDsv6bmykHXqd-pEHq1Qerx9OEEBzFkQIwl8uGSTd4amEk5HXIXiKqNqlgcxolD6ryafpyo4IWJbrGv83PFBfTedeV8hW44AE0F966TmLyfaqW1BS7_G_kC3ZM0g8GtDfB0UbeMoj3BfmoUzPWLFaTGLvqXxYMVPRc8llQwoVECFJYxAIU5azeGcRq1aAg9lX_98L7EVvI3QzNnD4IikSyS17ION5xbutJuTiHqOM53YTGx8yTbY5wZncsZ5Qm-lstCkC3Yc_qw92xNiPsrhtG4nu66NFZdRB-VsFrtz4ZS_kQPihaqBAyBfXURaDvnBe81Kte1wvpFs96c9wVpkUJ5e8aj9Jy-4G47JiWAb4C_MLiEZhH1Qm_nfuh7oSA-8NwfdgHSQZtfU9LIxV_gZFESTLrGWTUsraZB7T9ikIKWX6KVTvA62F1ym2rVzflFkTZfHV4cLNpUsmsa2_nO0M5ipJK6WAab4U0qdUxpREXBz5yFoixT9VUUMGzMjeVYRc58iXw3g92Kl4lYGytzujehhdBsSKGyU2bUNa4_W0PU7lvydEQ4zsL24lOnXthWr3KjVNJelL1HObhw9Sul3hmZIPWbebzCJR8POTpclGJY-SwNcubRHpuFZySy9bO-KHXLxcxJil1N69Xc1N2RURhkituYOlM0SZ5QUT2T_soUDB5HI-x1jLEdvoCpvt3CSp9bZMXYIoiVYFd8wWYR_6FyoZXbPK7mdCoFRuVLhtM8MFDyH5q1Idk2FqWz9MeuKwPVRfPx7j80Rvp6LresEiilTBUTWVyU7HOz7qzDTgzgdkYEkgPQN9OD3ftyNRIq36nYYNf_WE5CyWr6a0x0qYVfm4CM5tkzUy7On5JNT8fCu-2iGLgLxlgx3WDQqQ4MqhZ-z0JEmEIyjuW6NCLQ7DP9pQPqdX4cs6pYnGw_LYjvVYSeMTv4GIA8YtIb6b5qTahmsB5Vc1KiLqplcyIntdwxkJYYOfE0d4OJ59EhG1Mt34neOJHAVl8lLQRr4MQJWziEgCJW660Ch9b6HY7sOOoMpn94qI3nQoG7xtwuQ_BAbgKcMtRPhrU9-vO_qqcpcX_cp-wbvl_EytdsZbu7rDqONKvrLYvYBLWWgO30AA0c4nCW2tTiqDJBFZiL_53BRJAI8fH7BJYlNAmkOUIZX8a756VcqvrAP1rKb5FSR_gkwgaPwp51bT-SuQkUb7j1AJur0SMf0QYUQTt7uHNKga2FyoVUKlHOM1yuv9wqaIwBi7ffftj1QLHzaePtfBICZ4lqZ2-WBixihOFQiBoxwJzRpeCS84wEbQTRFfkkgecxa22JeaT7MlfV5DDF3KeRSzx-rDVmdYqfhYGtbF-Btn45YHtIdxA1LAddMWUlqZKzQ7iZ3Ozzbdhp2wwS6PH1t5FXwOyoVbhtbiuZC78Q3umVn9AygKVbxUKAJeC95CbxrAClmPiAKiZrj_EOdAPakWHJiTj7Dr4rETIXOYNh5yU96GX88EzjPLic_3fpeL_9sjLVGfQ0cD4Y8EVfvAzqv2CtkgH9ql_SpITYqftad_pszHTddFF8_HSy-tOPkGfJQVJ2T-Tu44hmXFOedf-soaQd7sOdQ5R5vcs8dzTGHiYEDJdf4ynsDXaehYmDM3IAbAGIhbE8EZ1T68UmjhYupc36Whm7bHq36K4QzpgEH0cEhI2TZ1ONtedFIFdPdeV0nu_sjRWvb88zH-I50Uhb8iPbDKIn2BdUqclOWLDY76Bo4ShzE0ksUHW66ug0dj0tRRfhGQ3wMa4tgnhNQZsXACqzOL5ENDCwccnqIF8DxzGJHtc7wqPauiJJzqxhSbFhX4BVG_s0KyS9-Qav23paaGcg0JW3uIo5Du5YDyczYLqnFMgwWgjEkZ0j4Ig-re7_Fz6MzAwnBb0TIJQMXI5fP80HOsEHFH1L9uEY3jWifL9ya3U83qaMM1noxjd9N_1ROouLDhxMBupHA1Z7hRoy0rGIT3dXYxbfaR4Xp4zrx3iZliXJ2RCwt_AssDWvGkzJ_dXrxlpTlDImVDOUEWneYdmE1O2veFeS7LtKD-u_RYQNxOIEt-ilei5flLG0pNahncvekTF2jNqwkph5B-Y4QArny-v1fZ2_oAuynA_1A7Cvp5NY6UhUYrOFO8QiQyr1eAUoMSLzd6r4eQsfpF10KBy9KeSPXVkNobdn_xKsO-BWCyXC7K93acxC5vEKmEOBaOPeuTYSFZ4s8GRcVBroBHcTkzER0IwDnozJw2h3fO3cfpJp2Htl7sHU.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e820f1f805228e3016abfcc41befc87d1b43ec7700a78c8d9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 448,
+   "completion_tokens": 280,
+   "total_tokens": 728,
+   "cost": 0.01848,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01848,
+    "upstream_inference_prompt_cost": 0.00448,
+    "upstream_inference_completions_cost": 0.014
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 256,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

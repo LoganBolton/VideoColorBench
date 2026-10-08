@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894487-gwYMYunvFj2nf1J60Xj3",
+  "object": "chat.completion",
+  "created": 1790894487,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess; I can't confirm it from the colors alone. The palette is mostly pastel pink and blue, with stretches of maroon, purple and darker brown tones. That fits the look of **BTS ft. Halsey \u2013 Boy With Luv**. Its video has pastel pink sets, blue-toned scenes and darker, warm theater-like scenes.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes, Boy With Luv has pink stage sets, blue backgrounds, and darker maroon theater scenes that match this pattern best, so I'd go with E.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes, Boy With Luv has pink stage sets, blue backgrounds, and darker maroon theater scenes that match this pattern best, so I'd go with E.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2gcKEAgSGAI4AUIIdGhpbmtpbmcSDMyFJoQ7IkQiEBN50RoM7elC/2rHgGYGjMVdIjCAEEOzRVEEj0+HUeQWOS+DFC4PkOdM/IFi77tMxxfbOOEHHB5Ngby/jg6GE91kmZwq9wavZQRtInTkSF8pGytgVbR1H7ycVgN7Dp8QtS5IcKsfhDXfvfYWVeu8WJRMCvPM7JvjR0q960jfaCBzbc6/4au/qVQfE2H05Az1/enbKgTYPioW0h/7BlbJ0WOQ+U8okIa+Z7EhKjvK+ufe3bassX8XFqK9FJZcyOPViy7ETQhpcJfioBzbVCLiHrrJdyqaJlabePgRSBTBNGr6AC7Ue7F6ltAr6BwKlFD8gwHWWdP9iMzG0xBj0hRFprmJN+f+QTUuE8ZKoqmjIkVHvrbLqJLqCU063rbI7H9a8E3Lj5kBqI91U25WCYqsEjoy3EI2PgQjNfPY6wxoyVnwGQ4MTD6QnYoIq+BPQOFyxfFZdkwixahokxlOjfQoVrK159FuvNyPeTQTrgqP98fcti9oybpHtB2yUHvEICSxRHVKue+GgDeMRzj7Eqza3CwZ+q4mcyW2q0qdFkw2T+s/BtjKFwgTAhCdbQBIpF02e/sVWsMXSS2IMPXTxEx81ofP+B5/Va6Ays0t0a9bBvOH/Ju4PkpjUtLQm5oQAoGdedYtrmYQHPZyvbhkw7yvy4k90c2I/ky/5/Qf6ydu/AjoSM1KURTduVvGspMmux94iiX416+Xr7mtynaE8Ok1NMuTOVAy9D8wud9oji752g2lNSzC2pQVMUXcSlZa0V6AuvGR04C/jvUkBGlDT7uW5FJZ2dnHg9IzbLvThlnZTp/jjUu85FH6AnrVZ6jwQM+qUPZ8L9cVWu1sELFeOPG1zxI4WOX/Jr57MSPKrx4TQIl6zmXY03ItGZraOuZvcny3uNpkdTLuavFKvWIANW66uddet4YyeDHOIoz1oy10X2VlhcLrXc9d4ijiqjkJ8gRgBuwWEqBSTFIR8FBKdzM7t8MOUCt1D+NVSuaOhFX2tFvAebE8lFOU+j6AaYRW0sS8agQ/dl7kIubW0qYO96Mggpq40DmsQYYTVO//gK3lCFhCuWVDSvhi9II+PWbzJUofqR2pdkFroN5EvXgmgf4yzhaY41UvxLRKDtcs7kQVb1gCB22dwsaoPn+kDT9vT985eHN0+wJB8AA1No/Tw+XWqIL2bgBAc4HJr11dupJYbX18g2NieL/tGDt4V+hTfKTDKtWCzKSVys4lU7wgVQA05TlsoziNi3ZhIofy7JXDW8Z2E8U/5T/iOvhDvaeIDxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 642,
+   "completion_tokens": 292,
+   "total_tokens": 934,
+   "cost": 0.008408,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008408,
+    "upstream_inference_prompt_cost": 0.002568,
+    "upstream_inference_completions_cost": 0.00584
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 167,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

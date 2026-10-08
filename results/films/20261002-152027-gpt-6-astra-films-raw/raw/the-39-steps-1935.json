@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954520-tnlax1Yxaj3LGP361YOi",
+  "object": "chat.completion",
+  "created": 1790954520,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Metropolis* (1927).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Inferring grayscale barcodes**\n\nI need to infer a grayscale dark barcode, which means I'm looking at black and white options. It seems uniformly dark gray, maybe around a 45 average. \u201cPassion\u201d has brighter white backgrounds, while \u201cHis Girl Friday\u201d is consistently lighter. \u201cAll Quiet\u201d changes with daylight, and \u201cMetropolis\u201d includes many dark sections with flickering. \u201cThe 39 Steps\u201d contrasts darkness with bright scenes. I see that in \u201cMetropolis,\u201d the barcode is dark with brighter clusters in specific ranges. I wonder if this reflects its silent tint film technique?",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Inferring grayscale barcodes**\n\nI need to infer a grayscale dark barcode, which means I'm looking at black and white options. It seems uniformly dark gray, maybe around a 45 average. \u201cPassion\u201d has brighter white backgrounds, while \u201cHis Girl Friday\u201d is consistently lighter. \u201cAll Quiet\u201d changes with daylight, and \u201cMetropolis\u201d includes many dark sections with flickering. \u201cThe 39 Steps\u201d contrasts darkness with bright scenes. I see that in \u201cMetropolis,\u201d the barcode is dark with brighter clusters in specific ranges. I wonder if this reflects its silent tint film technique?",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8wioWNE-DrM6E3db41PZiIRk3brfLH3EtjGuOJOo5fiWz-3sOzgx2lVSk7GaggGd1sch123LA2ihn4wpN4ZtwYs1Dabby0fN6gCQW0cIKXRzIC9-0sAlv62O70KvCUENJGrzbQ9DuolFRL-NSu4Kn_XGopf9hdT5xByR_VaHQ5EiJiLt9atq52ykE98yI-VNv0ZB1IJmKawgeX_dYoZ9SAGNR5L0Sb9w0s4AH-nkwe3JThrtPMU9RVp7M895rLP9RQ518a1EVSWJvAUKCXgbXa9rvmuOr7yl3Bjby-bUpEvWSobK1M-5RIrjNVugBBWLja0Vf88CJMV-abB4r8tKNMIzwkfyzpXRV8Yrdo7FwKAIh06IfrtaHuz01_BJm-9SIp64aresNDBDO6rffGeYWFdFHAkC4OZt9QNxfuZw508UaEAPX7RUMiq6Nqb6Sf__-1HGaVuWkkTtQiXtwS86qk1mxN8faguhAPEqFr5u4NNQKkyv37qZnCYlsmMYeRMVdvCskERBLY_f8ao7bf5RfpP8DhEZ-jmabHIZCk0IFqlhK47k6GTs_ZFQ5IDlQxhwb3bSreKIl_LND25fpF27Fq9ZveI5c4v0jRLKsBd3qlRcFP-VdmgtAkeTSeBAYu4I-S4zTzMgF9O25thmvyeEWm6sroGImeArRpFjMZP_eq-p3YgVGJdVQuOLkatxP0NRa2dpfdtYwy48ump5WDbL7usqSiOLmmwX-VxTfXrUp8w1hCgMDyPaHyhQWA5xOyJiH6YxjCJZhcW3XPspUu7nmzvnv2SlBFLipEbaE53KPIr9Cl1XcgjlRwXCO3ZtLdNNSlMAPCMlbOfRD_orgcpffszQGIrUKGaj6DDhPUfs60E5gJHCTl1NwAOVX07w17f7OxXGKil9LsJojXnrIpAtPo4aHnpQMZjghffqbRqUNXaOqXmI3K8W-AW3sBJd2uuBEu49A-RcAA9dGwUK8gddkyPR_sfHq72mZFtNnkZOaKyChH61sDubjhogKnBcCl2ExcoSLArA13Z5Jn50yfGFzER5imqKD9p8SNYBc4J6R5JvJ4DxvXA2snukkgmk0eu_gGVX39GKbhaTQnuAC7GE8oUbbe9rctJJCNpYcHvjGq6S4JoF3V4I6dYPQoPy-E0KZiv9ifpC1B88Ph9u8RQnNQscztP9CAjyEt5XO2qZz1_aJbQocKhhFkKUQYhGrPjA0CPjcJ2FdfznQGnljpvVcRCCV01WVDF0clufrvQ2-EgLYEy4B_hXakMxzvfnrni4qoLOXYW6VHAxFGFshCiv3KRMpTuIWNaehbbYk1bp7cG5ENLV3Li0n8cHJEP5GarK4hQ2LVuOk8-JaqhdkHh3AGFonbPbxwirCGaFwFZXrZGPkpAAkFKrxQNo1thsiQnLb_LhmSGhpKScAhsc_T9eSTywLeQiXprYv_jvYVk3BE945MGVVMdMDwovnEUweugBNUE-kF7j2kliB1q2yTsTjiuzbbsuanygHzLB0-XWNptj_jGzqevEZh53AdsSqKRDOfP2L5JaF6lXK2h0eDy3npCdVozAV6asCgOb78B0gNC33Tf_ydaZ_0eL_n7-oFcBLGzGF1uO73jgIA4JYup19F_GCjUCT5CARkQn3-ipk8t4Sm09VMXqV3TpiJ4dSYUdLdAgzaKy414Dz0G2R5Z7emwOZeabMEMbHPPqc4yNKEELE7JSRxMFc_5FOyNhcijNBOCXIs_G8SnRik8tGyvZU0Oy6KDUQTFKBxVvwGxTNIrhICTsxHctXQPF8KB-_8feMf7OF2a9dVuar_ESAEizX92jQ_53dR9bBQcBc9CZCf5wTlSbBhT59brz7zmYY6KqkAIzTMusuj69QS6V0ltpGcxoaSSlLt9yCvdaqez1n3HPna7AFvlhRsbZzz4CA4Czvxc9kfvzjJlwRtFwr1qUbWp9wb5feOXoME2dy2XCcyNd_K8N5uxqHvDIPt1efBjSvJC8Vw00v73B2boOg34n91CXahiO5lU-0Si5S8o4j6ztkODPtdRznI-w3qFgmUZGG5p32KQhDt5dXHhujf_36liBTC0w0UPsYq3o6SAZv_NwssMARm1iMSU5zIsY8WbR3SziciYnc8g-UZZNFGyn6cldltct8TUimqL-KPiOx8roSTYLbTHuwwa8mYlUtsj_LhHUA281jaYHDJ0LkboTUwglxdDhB2a9TT9rRiDreWFx1yxDecDagZLsFyM6LT9O9YvVXQQtpI0o5MWd6XTBKC_PB-jHgtsn4-fc9CLjhWDBeqO7ZC9cbmFZW7tmUvREpH8.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02f212515efcf8d7016abfcc1a03d487d1aba97d0966f8267b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 444,
+   "completion_tokens": 175,
+   "total_tokens": 619,
+   "cost": 0.01319,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01319,
+    "upstream_inference_prompt_cost": 0.00444,
+    "upstream_inference_completions_cost": 0.00875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 154,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

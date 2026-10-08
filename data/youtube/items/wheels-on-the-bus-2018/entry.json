@@ -1,0 +1,21 @@
+{
+  "slug": "wheels-on-the-bus-2018",
+  "title": "Wheels on the Bus",
+  "artist": "CoComelon",
+  "year": 2018,
+  "label": "CoComelon - Wheels on the Bus (2018)",
+  "hex": "#91876F",
+  "rgb": [
+    145,
+    135,
+    111
+  ],
+  "frames_sampled": 229,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "e_04ZrNroTo",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

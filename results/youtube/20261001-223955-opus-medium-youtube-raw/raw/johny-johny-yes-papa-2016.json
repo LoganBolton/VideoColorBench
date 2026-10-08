@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894458-v5lnCdys1XZl8lFvMBw1",
+  "object": "chat.completion",
+  "created": 1790894458,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "These stripes are mostly muted beige, tan and brown, with a brief red stripe at the very start. That palette fits a barn or hay-filled farm setting better than the others. The bright CoComelon and Pinkfong videos, the greener Masha and the Bear forest scenes, and the music videos would likely look quite different. The red at the start could be an intro screen. This is a best guess from colour mood, not a confident match.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The beige tones point to a farm setting, like Miroshka TV's Colorful Eggs on a Farm with its hay and barn colors, while Masha and the Bear leans more green/forest. Given the red intro and beige palette, I'm leaning toward C.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The beige tones point to a farm setting, like Miroshka TV's Colorful Eggs on a Farm with its hay and barn colors, while Masha and the Bear leans more green/forest. Given the red intro and beige palette, I'm leaning toward C.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSuAYKEAgSGAI4AUIIdGhpbmtpbmcSDApW1oT0mjVFaRV98RoMecj/oY8P5jkP5upsIjBtU8t+AIllEbq6lDneVJp1xqyeik1PArMWqPkCc8aI7YkQSLyqOzM1JTdpgCu3zeoq1QXCkL1ZkHZ3F4hNRl07ohsAuguPtrU7xom4025qBwy8qIBVo8bIwLyB7F479vh20+7RlbT1PvBGzjGuXuYcuT8oYgPTUioHIc9NlCSDV1s2Vr3gFqROv8RwCbm8CdK8or/8OxOzDpokkV/+UZpdy+FcuA3w4LFIGj2xbRDJ3abjJZxCRmrBAd5/n8+6zYCtiGb/Rfol8BGhQwzi165cVKBS2M22wN+y1+FssuO3stCMJHr6zMcBI+juKzAgEQl1BeGsQM5G3pZTa+V295gGckLmDAO1s8TPUBQliPfyS1UimfLSwY5K1Fitns4DOk3uPX5Kuiz+vx0TDcilFcdmA9O1aj0Kt9K3nUvkkne+FBgeZz4tjBKPcNA6Rdpog/vogxgTIZIi2f4vbqVcijMaT/rI7ceIaOhV2brFh7abQRVI4La0Shpva3IjoC/NRyKAzmBs0G7MGDBrvxfoYpf6dHIE6VquAm7x4WksWHcBMCOW4VseeSaZJVD+/9DIZkTFUEN5nqKsf9dA+JHO2cMsWruFlSqp4GgcKMh+dADeUztiSfg3YTYKP6JIo5WUuo2JNtIG4SIw/2tFlxKA5is5B2yu8ITuyWfpTITdrglO7ZS9ygSOpSxUR6PEWJkPfwlQCtzv1p5Ex4kr3R74BjzioBqBZ+W213pKsiznB/e/KfAY2rJDwPJRh3DEjm9ZKCxYbAczNMss8O/hhLSgd2Txe/coqaH93NEfHXj6qIMPwyo66gqeUPaXlzUTYoFLw2B7V9965fQ1XcJUE9nBYHqTiWZFWGn2J5gZpUaLK/7mi8sW3WFq/AaSlzYr70jVdBgmGhZeEtbVLBhEVW/NmOhVQrL0dTCUqv+jhYs2AwLx4rZcTBFg9rE99hvuMRW2HyNMhHympKtUn4ou8XPA9W0kU11xurKjoOuMM5ex4+FwFgI7Um0i0vfrVgAi/81MFBiQiEyoiSeT3RgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 665,
+   "completion_tokens": 238,
+   "total_tokens": 903,
+   "cost": 0.00742,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00742,
+    "upstream_inference_prompt_cost": 0.00266,
+    "upstream_inference_completions_cost": 0.00476
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 96,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

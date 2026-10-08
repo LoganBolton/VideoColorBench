@@ -1,0 +1,21 @@
+{
+  "slug": "i-frankenstein-2014",
+  "title": "I, Frankenstein",
+  "artist": null,
+  "year": 2014,
+  "label": "I, Frankenstein (2014)",
+  "hex": "#1E2323",
+  "rgb": [
+    30,
+    35,
+    35
+  ],
+  "frames_sampled": 5544,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "2CCXhIX4wF0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894293-FPcigeBVP3atnoJp1of2",
+  "object": "chat.completion",
+  "created": 1790894293,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Justin Bieber - Sorry (2015), with its bright white backdrop and colorful dancers.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Identifying video details**\n\nI'm trying to identify a pastel white and pink average video. I think it might be related to \"Sorry,\" which features a white studio with colorful dancing. On the other hand, \"Shake It Off\" has more diverse scenes with gray urban settings and darker ensembles. \"Sorry\" has this very consistent pale pink and white theme, while \"Shake It Off\" has a different vibe with a variety of backgrounds. The answer seems to point to \"J.\"",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying video details**\n\nI'm trying to identify a pastel white and pink average video. I think it might be related to \"Sorry,\" which features a white studio with colorful dancing. On the other hand, \"Shake It Off\" has more diverse scenes with gray urban settings and darker ensembles. \"Sorry\" has this very consistent pale pink and white theme, while \"Shake It Off\" has a different vibe with a variety of backgrounds. The answer seems to point to \"J.\"",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDdQS5BWmOk4y6wu4x2Q9YDrbSTIq4ES6P87ElqyslOWN-5jvmgDTvWflVsSPGw9TXtVFtZ--vORxn87Mj3hI22Hr5muakT9-nT94LBzDfU-z1KjyUZRBjqjSkOncw4gjXTcCRftldNDKNV-3H5h_5iZmh3ItQecWWof6jKiOEUOE9amgC61zkm8OR3PlseyUiunvp_cxnIzHbN0G-AffAwVERijfkR25KA3YmWeAfEXU9aSm5lOQ_GmTMu2dygt4Uger0IdWW1kNTdLW-P6bl55hw25RB-F6NY42xNzI6Rq8juiFd8TbFElvjDATECfnOB-mnSoZ5ZfqMj_rw8lHWPyWKmTOTKsX6LCPdnBvPxXhAofATbfFvkl6w5LMl19pTUcn5DEujO1lb1qXXFyaZpwOmDEFrN7thWZpk68GCoxySBD7UecqlNkE4vCnS3yeJt7AmdCem9-OgKfvSFE63W4Odiumnbs25NwAnjjZW7lz-fV-uRnIX21JlCMZEGujoVwniKfOMjw_QeVzhPfL7nKTyPV-ptb3m62EJLNulYN0oyrXXDwi5-cLvIsB-glszy_B35zv63qkd2tVpt5haVAPIqBwT1hKArJOkGnmEZek61FQTto4FiBManQIuwzWVvCROzMixbNDHcG7IdZvdiPC0CYHrpbJ6l8erAe8OVLQ7WF2Y7eMTilvq4Q__497D_kKST2DjUncG24Py7JRNcVKGl3MOJ7e1DrlV8Z6NGGdbY50gdIKaICV-l0iy_lNEs3DpvAtqRHFYj3Sg6uq09XI93DEVh-e0qfkadYahQhhu4cHNx6fNnNn_QOBtebCQQh8s__GDALxnzcV5A32677TeXAqldHBNj5grhgu6FkkZrbs_kQr7P_Sse0xWkzx-LKzi7jbzYhY3fALTNC9Cl_g0Xki9iUWYkUMbXIZBktT0xHGBj3PcDd9hHK98kcbUQ8U99Zp_xsJBsFXCghI648n_OQ8LkSmWlGQtLXjmvLFxs-H1gJyegkcohTZWE_mCDlSD-m9MjPsB0bDUzTxYuKXC-8RJbB2je5CY8o8nTsY8hFnsLtSTzEk66-8lrP-TBzfMw2l2jhEPs1iUt4kF9zKS6R0l8X--D2Sbs3argmnaBdLUwLV09yOzGW68cpEwiGaptJ5V7NpARP0v4MTZAhPLx5mXf_lD42RufAmNpPdOYG1DON2R7c7hZz_uPHzcWF82dxBzEqbuDs-QktTrhHuNzMiQ2-jVCG3kmNqtp3tAJfJyv6voXc03FEaKxl6cPwD6j-Ij6XEZ7IIfN76ev8YdlSGb77F2qtVN5xyCWBWKhem_0EI4qRxOA960uPJhvHJnrwMnG1r5G5gsBPCsOQgqpjmbU-CCUJCctpuCtqBa-8DWv3RFodnl_9uGGi90IRK90oqcsP38RMMgCNsZ3n1qAHagV4xIhJR85rjrpmy7gbZQwDi2LmcTOdStICm2SOBhIR5P2KgG0HkkonCA_t3qVpQruOhV_IbuUQOUxD8I7Q3nB-doeTrlVXYP1v5gKVLBVCGKKJHrNXbQ_clCVG8l0aWBaY8vE-ndLzUS4ODoFPnr2WrtLRAOn0SLI3m0GqIk_uBf1aM8tZODyBGtJBI-d6jQ33LNSgZCpe5zczkNhT5K1v3ei9LE4I_CMAm3llS-CUh_rowHJumTxKLA_v1y0Jz2CuKGhG_FxPMH7BEEvObYysVo_YvO8GmH4ITEj23a42PC9hCsD8Yre9XGUfKg9v4sEnqaC_OL4urbfhyPnb-xYu4gCpzuWPemtma3UaQUXCw_j5hMMz7FdwMsbtXLiILsGq6dVEflwee51GfqwrL4uBmjBFHxSc9gFg5pk2FEut6gaekCP5Sg1GBCAKA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_066abb607f3b9765016abee0da063087d195b2da8ffa5117ce",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 105,
+   "total_tokens": 578,
+   "cost": 0.001996,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001996,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 75,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

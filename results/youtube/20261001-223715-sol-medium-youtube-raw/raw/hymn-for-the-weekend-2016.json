@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894307-Mwf1UF4iiQRvTngP9qVT",
+  "object": "chat.completion",
+  "created": 1790894307,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Ed Sheeran - Thinking Out Loud (2014).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI\u2019m working through a muted color palette, thinking about how browns and dark grays interact in the context of a dance scene. \"Girls Like You\" features darker backgrounds with pops of color, like browns and grays. I wonder if more vibrant colors, like reds and yellows, would fit. For shots in various hues, I consider how the main performer in black and white can create a cohesive feel. Overall, I'm focusing on uniformity and distinct sequences.**Visualizing color contrasts**\n\nI\u2019m considering the intro of a scene with a wide shot in a dark-hued hall, transitioning to a singer under a spotlight with more subtle browns. I notice there's a mix of average browns and gray highlights against cold blue patches at certain points. The dance floor might have blue tones, which could contrast nicely. In \"Believer,\" the use of alternating colors like orange and blue is impactful, but here everything seems a bit desaturated. Just thinking through my options!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI\u2019m working through a muted color palette, thinking about how browns and dark grays interact in the context of a dance scene. \"Girls Like You\" features darker backgrounds with pops of color, like browns and grays. I wonder if more vibrant colors, like reds and yellows, would fit. For shots in various hues, I consider how the main performer in black and white can create a cohesive feel. Overall, I'm focusing on uniformity and distinct sequences.**Visualizing color contrasts**\n\nI\u2019m considering the intro of a scene with a wide shot in a dark-hued hall, transitioning to a singer under a spotlight with more subtle browns. I notice there's a mix of average browns and gray highlights against cold blue patches at certain points. The dance floor might have blue tones, which could contrast nicely. In \"Believer,\" the use of alternating colors like orange and blue is impactful, but here everything seems a bit desaturated. Just thinking through my options!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDt2fX282IVkXMmt_YyQV4fUve_0gerbMTV2IRIhc_nrMaUXB3zocGmn0Eqvfbb7SaY7EVVc517V0E3SyWw3WfBcNUiZJl1rpn--gPG_4LtWonAyDBzYTVVnX5YbiWhegRbRWDZfQn_cPADv6knJNsC8_EVdAbTNkwmwtRpLsLcmPNK13KEtj79m-kFc30kQvGsOG0ie4AoJS9icKVCcOiUA0BjIO2YrGsNobs70XKwXFWsVsvCwV8Wq0H0pl9JCzkr61XUDH0jfJcutG2R03GpJAlaODXFsArMvozD4em4gfnVA0ov2A-xKDr9AQJ5gYcKjdMXi_Wi3PN2NwwiPWf3SMhIg7-lEq90WnXNmpvkRY4-1uQqFYsIvlKDouY5mO5UVx5j0vixEg1mz1-yJiIht5RObtI4yR7_VOodArEfdTWCvIuZlaMpwtb9Ilp2GNSs5trDxF10eycADySUk2CEi3nV8EG7_Dze-Wj01W7nIl4LeF4e-pXMhF0g23FLSLr8TuiTK7mpgw_1UiQCiFM9AJDsxi-H0s1ZgnMq7h7SGnBq7PqyB35yNopahy-SsLqzJtlcYarBTnIG8g50Mm67lZpD2LOmL93FtuQ4mIE-MKFrR2fQ6odkT4N2QXenzCSgHoLgUEcr8AuqpGHuI3Lb4P47zzu3ZynR-kwtO8SeB3gbgFZY3-fVCmkMQpqWvRX07DtS77uL3Chy7x23qc3ho74ZHgmgKfbxmWP7E3GZ854B6mkJGDkPFnMZzzdgls-0bIGAKMD4xG4lesMrm6WLd596O0VOfXpteCKYQ2Bb1FflOd94pLCmXKf0B-rUvulZiWcJsG6JyKOnIRZnpHwonqE1QZ8gszUTwmAG_L5wpPZ_WQPxwVlZONH-iLFi1jbCQXF0naQcefO7QOjPpqwGeHOCZpV3npFEWu84FGupjMwc2SKQUzl7OdyT5tFNlsd9BEQktj-VZ9bgL6SGhfWZSHeBIkXBfTPXCFvAEuB9CqwYelyNxLkLTak0kidq4PgFOwUEpaLzxx_H-7rdEzuK-B2XfhdtjwJmEoNUkBmpY1FPWGS0niFSpJO3A4eFTSLCLTlSxV4jaQjVEf-lkU-iC9Xwaq-zmqy-tyxDxnRKPZA3A-Zct3OJFarBFzFIRvEKkgMPCldYe-E57kMR9hsDa3SSxbErP85ypdy4-rtuLlj37mQ2LHWu6FUYMu9vDR8xoP1RSwJUMszrjopIhtzQduSJws8OesOIF4KB8wyFTn-IDeMcQX_IwJtOuSVdwFJHi5eFImDtPTjLCaoXVR5_Q6JTkuTCjb3ArEmCQFhep_DsIxzJkUjkerWSysImsr5hJG5vd5WBP_1hKXtuZpcOyrNmdKgj_zjOIbcIIQRrwAxOBX14gmgFyYOf4xwcN_aL5MH-WAiZjxjQa_sWoMXrpeAoBnRoTDdMo3lntqk4AWGyCaJWQNWBiPSnSsFZEBtjkRxaNNFQCjv0c0ryZHzlj5oqdUoDjX33j5Fs7W5nxF_n9iVe0IcZjnTPu1Z2jRLRq4K4igGqFkiVMuW9bQ6Yq5oDLLNWR43j3WqzhYkg4IdX_2tXysqVGXEvNpbWE_GMncaExTep7kQZuTeOh3nGTFhZMDdD913GCe2qZURHoM6vv2jIXLJ9AV9KtF0zTghry8CaSm_VwPoNtnEU4COLpJDcWv9FSgdgU-iW28AjKCRAN5vYtoP--zLjlTuoy2c3T44yQZ8CBTPT6Eb-T3JgHCWKM3TZO4KNfK4gcQzSACNZLZ4XPwhT9shCU_jb5oxzi4S5WI4vWLIpSfML96ZH4lLA02jgRfOJY7Yc5LelCETWrEz0KVpxc6KPEk7GSXeqCzEAzHZdRXMGV6oxceupj98vHqVSwVijCSyBH1GOeattpK6S0IqdUO8ciVUkdBnX5EwtFcs_ViawmfjbrxHDO1zCqajrO8zgP8sTEGToH_Qgt8LfuQO6DVQNmNVlGHOki6FHvh8sZ_e81_qPuJUlZzi_XcC5EdfZNiQIl7ofZaWDII6RtRK3qkUVNsLnzEi35nqVTpr_1ttSIhC7UACvadLuz2z3QxG9kMOdKUN2vHBg5WM9jYBZJszDLPDr1k762BzMHrLrc6oHdm6xmI8FbI6S15i_FibC3AcBYVZalijWPeQfFvGdY0OTgIsK-ROA9rMgMcWxKnsyaMZvxZZ2_c8XeUTBUWgwHQsPcdlVGXPk4fqwcQkgN994gQCA8b-9wRjF1kOhILod3jZr8CSGI-s5bdHodcbFTY0x1SivSTd0vaB-DJqedXl46ooY98QQdrAqR3xOUNDoA6-_6sAZ4eV78g56U_Thn9uHbZ6zLaS9Ogy8ib-QZeXw0rf8GYaodCKaTO9_sQf5-pN9MpuhDidVrE5QZ_aw4K_UiTMUTMptLDxZGgBEeYVcq8x0Mbbx3uEFX6qGapnpwmB82ZHgkOwKLkWpVYvw6PwA7pWAWFr1iy2bYjeRXP1p1uI1CydsHMiUej_sSO_nIiiWHRknwzVD-6j4_a99zMqGyBR1YQf6g9HgWvevUGKYh5qfTyomVnxhIA9GnjcdF-MGjeGMsfAvkV8VcpkzDC-tzAd42xdwL62uq2UOkYjjZFNFnyMLoYC4gHTh-prVxmV1cDe1UJgH5zevGLhVvV9aWGu2kpP8H2oWh3dsqSpai7MndoC7UtBjsu1c0WgMgigVN0F5Ox5N1DzZ3EaFgNd8SX4CKNTh6dHRTcwxpbwkO03DxOTB5oo_AgiL5vg7zD3eVbYvtanUt4zKX71LUuYEBybFo-vIILK1UGtYYtp_afUh1aCAMp0w2z_qwE1e82mR91kcmCBxbXWvKYh_ojZEToyv4JVXBmt41odumBEOOGKaP4Bq78yP12YN6zpdplwzCOnONLzSh2aKYlbvsy6rBxM-Y2R4NevvnbpcT-e6WXCb3Io1bPlVLv5zH1j0GMft7RAq9xN_j6Bu6mnW0HI3ylVCbOU5X9BYLM8GIJGGmKS-JrdraipYGGvtANS1nAEaYpe6T_dGK0E2aayA5VHgYzWVts_uA88PFarzi7Bmc51WxQXs1YEFox1WY-swiKBX_IVfQQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06574c72fd1f4557016abee0e58d5487d1a760b459e03acd33",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 286,
+   "total_tokens": 758,
+   "cost": 0.003804,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003804,
+    "upstream_inference_prompt_cost": 0.000944,
+    "upstream_inference_completions_cost": 0.00286
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 262,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

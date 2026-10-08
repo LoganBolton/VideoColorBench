@@ -1,0 +1,21 @@
+{
+  "slug": "bailando-2014",
+  "title": "Bailando",
+  "artist": "Enrique Iglesias",
+  "year": 2014,
+  "label": "Enrique Iglesias - Bailando (2014)",
+  "hex": "#2C2C28",
+  "rgb": [
+    44,
+    44,
+    40
+  ],
+  "frames_sampled": 287,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "NUsoVlDFqZg",
+    "youtube_title": "Enrique Iglesias - Bailando ft. Descemer Bueno, Gente De Zona",
+    "channel": "Enrique Iglesias",
+    "via": "yt-dlp"
+  }
+}

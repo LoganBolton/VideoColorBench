@@ -1,0 +1,21 @@
+{
+  "slug": "see-you-again-2015",
+  "title": "See You Again",
+  "artist": "Wiz Khalifa ft. Charlie Puth",
+  "year": 2015,
+  "label": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+  "hex": "#4B433A",
+  "rgb": [
+    75,
+    67,
+    58
+  ],
+  "frames_sampled": 237,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "RgKAFK5djSk",
+    "youtube_title": "Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack",
+    "channel": "Wiz Khalifa",
+    "via": "yt-dlp"
+  }
+}

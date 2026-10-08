@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907320-5wnJiMgw2WCkjVQi30Qf",
+  "object": "chat.completion",
+  "created": 1790907320,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confident identification.\n\nThe barcode opens with long stretches of pale, cool blue-grey and teal, which suggests snowy or wintry daylight scenes. The middle turns to dark browns and near-blacks, with patches of green and some reddish-orange later on. It ends on dark teal and black.\n\nThat progression fits **The Pledge (2001)** reasonably well. Its first act takes place in a snowy Nevada winter, including the retirement party and the snowy crime scene. The story then moves to the mountain country, with greener exteriors and warmer interiors such as the gas station.\n\n**Transsiberian** was the closest alternative, since it also has snowy landscapes. However, its train interiors and colour progression seemed a slightly weaker match for this sequence.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's color progression to specific films\u2014considering Transsiberian with its snowy start and brown train interiors, then The Pledge with its snowy Nevada opening shifting to green forest and gas station scenes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's color progression to specific films\u2014considering Transsiberian with its snowy start and brown train interiors, then The Pledge with its snowy Nevada opening shifting to green forest and gas station scenes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 522,
+   "completion_tokens": 654,
+   "total_tokens": 1176,
+   "cost": 0.015168,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015168,
+    "upstream_inference_prompt_cost": 0.002088,
+    "upstream_inference_completions_cost": 0.01308
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 387,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

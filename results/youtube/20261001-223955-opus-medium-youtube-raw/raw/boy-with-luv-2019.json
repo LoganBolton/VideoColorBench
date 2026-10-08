@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894499-P3Gu4UA847KNxYzo4e5Z",
+  "object": "chat.completion",
+  "created": 1790894499,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The colors are muted and earthy throughout: browns, olive, dusty teal and faded pinks, with a dark stretch in the middle. That washed-out, vintage-film look fits the countryside grading of Avicii's \"Wake Me Up\" better than the other options. Most of the rest, like the BLACKPINK, BTS and PSY videos, \"Sin Pijama\" and \"Mayores\", tend toward bright, saturated or pastel palettes. This is a best guess from the overall palette rather than a frame-by-frame match.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "Thinking about the muted, earthy color grading with browns and teal tones, which matches Wake Me Up's vintage desert aesthetic better than Mayores' pastels or Sin Pijama's bright pink palette. I'll go with C.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about the muted, earthy color grading with browns and teal tones, which matches Wake Me Up's vintage desert aesthetic better than Mayores' pastels or Sin Pijama's bright pink palette. I'll go with C.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3wcKEAgSGAI4AUIIdGhpbmtpbmcSDL72STUbQvQQm742axoMlsIzVm0tnuM252i7IjBcpLE9f0oLrut5TvLq5qQfRFFoOUGvRUkX+oi3HEjmigFIK6rtr9auJpgPqA3vDIwq/AbdtJTlq8lQjIWf0OVgz0zgRjJEIwSVb4hLv8wsxc2VQs+pJJt09ud2aQS+gOy+XTuyuR+ThXF/lnoX6wcsZOxuEYKVAJWNt63uYtIVFHXT8BCUu9Rwu+dYVPhGl8IyaGmIRmxajnQyyytkqoiJnSnt2Je0JuMRp+TauzsB7vgLVkyzakxYvzusGJxFAIWMxf8SZDal7XSDcy+6sWo1yrF1zraDEH4U3D1+IVMPZQkZcEtssizuzVYydqd5/jvvmFDbKMP6BCc8pUtI5k22apwdTGac+uDt6EkcauL5RSZRQ71g7EOkJFBFWP28Lm0iNBCGjbQH46XaXvMrumNKV4M3HvAAvVT3VV5LOnV2Qge1wZ3LV2ddI6QoOMYuDIMwroi0ZVWVzYxiVcvQ4diR8ab7B7ajVk2Jd6rTC7ThzdjPMhYHrErjtS3Zx62MEl9jozZUTk1U4XPhy+onjEeFxHcaafK4UvpEdL2bS0S/1xGptd09gwbcYW8+I/IcdchdML5K5nMRW2d2CWO1GTXpiVP0tubd/bNGuwBrQ/+FHivXF4hroi97M5IVGdHdvNo6Rjf+Nd8tLNHNb39ClF4UCU+kLjeZLLbsPfFdsQGDuyK9WH8k7GCYV3Ukbgx4hCTht2qrsG+UnXvAQ0nsaaN21hkyW4Ygl1ff9zP+aihOCPDn9qRkNfT4FjjQa8MO0EEQFBMe6IHZEoDXKxEeKgZaafa7h7yhJ5C/0FxlNXzBYHY5HS1Wt7ZQWbTeJ8MNw3AxwXbW/Xibx0sIJ2D6D7xW8NMnO2k9t+YXPMh/LtbEdHbsAGW00j8oROoX36vWxhjSFYUP4p1ONIcFakYR810ANbhVuuFvUwtXpfjOhbVU0lBCjgPH9AeVkqLOD1145tQh2PU030MTBqW11ioj2Otp6idtVEJS8vk7czo8XvR9QWkm5aNW/fITEmJyYjG+39XBoePr/JXhvlxQuGuq9uwRo64tl/oAmASc/d0LEIzR4wzzBAFciy2PzNJZxdd9djiIA4wa/j64JSlRMj4o2iTllgNn/eS9Byzlp9b4+o+CbagrP1sT2x2hT/Bweq7AroSq27t0NW1AtPfcUkhgwyIqgAZHTilO9IEY2DffjPdR4XMKeMnvGZtxwUYa+UeJOCJCgksKVDe/zdNOne2kl1jXOphnE3Yu1kdkKfUrtsoCGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 643,
+   "completion_tokens": 328,
+   "total_tokens": 971,
+   "cost": 0.009132,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009132,
+    "upstream_inference_prompt_cost": 0.002572,
+    "upstream_inference_completions_cost": 0.00656
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 149,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

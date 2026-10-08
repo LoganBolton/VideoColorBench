@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790918172-3HJDmhV1UJqVP0ma0icN",
+  "object": "chat.completion",
+  "created": 1790918172,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "OpenInference",
+  "system_fingerprint": "vllm-dev-16e2b1ba",
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": " Looking at this color barcode, nearly every stripe across the entire runtime is uniformly very dark\u2014mostly blacks and deep grays with no significant stretches of brightness. This strongly indicates a film with pervasive low-light, shadowy cinematography throughout.\n\nAmong the candidates:\n- **Knight of Cups** (Malick) would show lots of bright beaches, sunlight, and saturated colors.\n- Dramas like *Draft Day*, *Midnight Sun*, *Brain on Fire* typically have plenty of brightly lit daytime/indoor scenes.\n- A horror film set heavily at night/in dark interiors fits a barcode that stays near-black from start to finish.\n\nThe consistent darkness throughout points most plausibly to the supernatural horror title in the list.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "This looks like an extremely dark movie throughout \u2014 mostly black/dark gray stripes. Among these options, which film is very dark overall? \"The Haunting in Connecticut\" is a horror film but has brighter scenes. Actually many Terrence Malick films (Knight of Cups) have bright colorful frames. Very consistently near-black could be... Hmm.\n\nGiven all choices are fairly obscure dramas/thrillers, the darkest one might be \"Puncture\"? Or \"Brain on Fire\"?\n\nA barcode that's almost entirely uniform near-black suggests a film shot largely in darkness or low light. Could pick F The Haunting in Connecticut as horror = darker. But actual screening method unknown; just guess plausibly. Horror movies tend dark: answer F.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "This looks like an extremely dark movie throughout \u2014 mostly black/dark gray stripes. Among these options, which film is very dark overall? \"The Haunting in Connecticut\" is a horror film but has brighter scenes. Actually many Terrence Malick films (Knight of Cups) have bright colorful frames. Very consistently near-black could be... Hmm.\n\nGiven all choices are fairly obscure dramas/thrillers, the darkest one might be \"Puncture\"? Or \"Brain on Fire\"?\n\nA barcode that's almost entirely uniform near-black suggests a film shot largely in darkness or low light. Could pick F The Haunting in Connecticut as horror = darker. But actual screening method unknown; just guess plausibly. Horror movies tend dark: answer F.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 184,
+   "completion_tokens": 299,
+   "total_tokens": 483,
+   "cost": 0.000191705,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 157,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.000191705,
+    "upstream_inference_prompt_cost": 4.83e-06,
+    "upstream_inference_completions_cost": 0.000186875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 149,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

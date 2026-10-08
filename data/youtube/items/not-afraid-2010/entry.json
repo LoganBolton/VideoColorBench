@@ -1,0 +1,21 @@
+{
+  "slug": "not-afraid-2010",
+  "title": "Not Afraid",
+  "artist": "Eminem",
+  "year": 2010,
+  "label": "Eminem - Not Afraid (2010)",
+  "hex": "#3B3C39",
+  "rgb": [
+    59,
+    60,
+    57
+  ],
+  "frames_sampled": 259,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "j5-yKhDd64s",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

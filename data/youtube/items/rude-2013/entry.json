@@ -1,0 +1,21 @@
+{
+  "slug": "rude-2013",
+  "title": "Rude",
+  "artist": "MAGIC!",
+  "year": 2013,
+  "label": "MAGIC! - Rude (2013)",
+  "hex": "#493B2E",
+  "rgb": [
+    73,
+    59,
+    46
+  ],
+  "frames_sampled": 225,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "PIh2xe4jnpk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

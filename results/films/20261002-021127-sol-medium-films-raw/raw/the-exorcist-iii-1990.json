@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907144-0gojL4ejk5ycQbswE5Xi",
+  "object": "chat.completion",
+  "created": 1790907144,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Apollo 18* (2011).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Evaluating visual elements**\n\nI'm thinking about the visual aspects with a focus on colors like dark monochromatic sections, incorporating gray, brown, and blue. Films like \"Silent House\" have continuous dark tones, while \"Apollo 18\" offers gray footage and dark space. \"Nosferatu\" has brighter outdoor sections, but early scenes are bright before turning dark. It seems \"Silent House\" starts with light outside then shifts to uniform brown gray. Notably, \"Apollo 18\" features desaturated gray. Overall, I need to make a choice based on these color patterns.**Analyzing film color palettes**\n\nI'm considering the color schemes in films like \"Nosferatu,\" which has a gothic, dark feel with a lot of green. In contrast, \"Apollo 18\" is mostly brown and gray with muted tones and no strong colors. The opening features black and tan stripes for about 6%, followed by gray during daylight scenes from the launch. It shifts to darker tones for the final events. Based on all this, I might choose option F for its plausibility.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating visual elements**\n\nI'm thinking about the visual aspects with a focus on colors like dark monochromatic sections, incorporating gray, brown, and blue. Films like \"Silent House\" have continuous dark tones, while \"Apollo 18\" offers gray footage and dark space. \"Nosferatu\" has brighter outdoor sections, but early scenes are bright before turning dark. It seems \"Silent House\" starts with light outside then shifts to uniform brown gray. Notably, \"Apollo 18\" features desaturated gray. Overall, I need to make a choice based on these color patterns.**Analyzing film color palettes**\n\nI'm considering the color schemes in films like \"Nosferatu,\" which has a gothic, dark feel with a lot of green. In contrast, \"Apollo 18\" is mostly brown and gray with muted tones and no strong colors. The opening features black and tan stripes for about 6%, followed by gray during daylight scenes from the launch. It shifts to darker tones for the final events. Based on all this, I might choose option F for its plausibility.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMWrS0qfbRjoMX3Y0FzzqNWpTGv2YhfbGNhHWfiQ3DhmMf1XWGGsioDXvi0_2NaaFm94cfw_l8llt5wWw185sLdWO6JwvZ4Evqe30dxcYZrsZzJxJ5S37RGUf8VSegE__c9jOXrSiWLa3zF9pVY4xNEEYQ3PTCUWtd_AHMkEW_SVnfYCrlcKmOOZYfwGlpkun-HXghbluTbbpPHA2S5g0xZAcEk1n7X_2hDxhVKzcsGv8WlczYa5O8CipkedCWfQXq7ZV076f0jJkvcA5s-_RwIr808H1dg8h4VhWDTf0lxQWdvIwy-wO1uMVjCijCTAFCGqdce0GZIqCvFgYETFB0ugrB02BcBIqcSqI6sz3yZNLCks0VzVFzUdlAOdLE1XKzP_8SBG-AMw-Mj2AHkAJTuDrPbn0m8Z9tRTQmg9eGHUhSEeNWJp46gc04IJHccwAUFf86BuJM3zxAAjx6PDGNovDTY4etrmi-SrB1t2wVPK1U0BPprstlfbezWuLWZ7MVffbkK_pASf323EwsiaiI1QVrEFLezhNHGWg0SZUqpfTkD3nDnyzCiLoWpqLHfGT_4YMPsjI_ZNHZ2ucr3SAv_63Wqb2df8C35LK-JUrbD_aqrNkoVp_obUgHAW8HprPysCDCmDz6fvObnIdZ8vImps-sU4-LwqNze79MQIprF9f2D7O1doek-Sh8C4PaWNVbnVEAxOavn4LgLbznOgSzaIeYqOpy04JVLMXG1D0aw-U14-hLM6wulwntXNPxA3302yUeoianiiIN26h8mZITX96WWRyl1HzFEiVNm09E3V5sHcBpSJpbEQHB7BW6fvcDU4L9SAjbXkMdTeaImXt3JYyJvj-iYxCHsaBTCRF6wlpfP2_xikUsvwmMxEuwLlKCk2ZqEqsjfPXz5vWDwYKJah52T7s53r1r_wSphPdLTWRBAF7GKhxsg29Hs7xO5vr712iBYtCO98XY7wI8fGet3L55dvin0kygSnPrAgV3Xau-ZgzP2obql1ppZjPKN63gKVkRfuy_SfFhnpYIyNUbdkJW44jNpnZvlrOTdOuOTC1mJLWvYa1n4yKjnvFBO9hSferJnXNX69MsfkvmPjg-d5W7HugbL4g3UcRvQA50nTuPTbNgcnBxVucndoDWoQaEE4FwvISl41-EVT4I3Ve0GYM_Cuft1eOiEus00x9ze6C0XJMMFUGUmqYjAUrq29_PVtTCveq4dOEIfNYaJW-x4vTt2YBuVlQpzbk3NAlviHeJhGzj_XT5pLsx7CHi9frrsY2MhrZwmA0kxdMdW4PFCbrD8isUuYUMrGGyZA0polHm0f7Rq21fTL2KkXK_vPqiq3oZ-q-AAKKwytA2-a2oygjShg_lhLLMtByK1AjsIzsF9t5bAfx9eHO8LO8YEWsTcTHmg-jcEmllGGcvx7EqBB0kjLl612it7fJvPmNYhUfQ6Xdhj-DHAMNaUxs-XBzMD5DPLU_0ZtxAoVDD43AL9cdcFlR1lvAWmnIsTuct5n4FzVNsPaESyZGbj-QaPejceq7VsDNKiyQPxQYOOINrhVru4zqXU9Ux18hW_TX2rKJS60GYsgnOB2sUrQblIupeY9ZAi4o39ny0wBrxIzJj4AH5Upux8ccz6Y7wc6bBR2kPW8-M8_JN2-VyYbRAzBMubM2Fzg3d9hFI6HorlAbJ45VziLpzE20tIXBX8Db_J58U3JeLRGu300ELR9mVrb1rCPuvQDOXHIzb0cmwo3TsL_72qtPqFfyu568wHX9a_YImS0bSNEhNbFYpjXy1IXevWm-aNodhfPNsRDLciKGAEwW01qi6uJ_w3Zrm54mQBwmad0Ism_Aw76L3hBU8DrMu6s4FuK4sZ-4G6N_d_9pLvJaCezU9MrzOQ2YrcQCOPlREtHhLxfh_k-ynKfEHk-k2ar8Os1CX7pUUodBJYdlWzh0FhFKngPu_0oTAO-nDwAj9A66XfNbSAj3U6dHLG2jMxm7kYUF7e7bAk8DTLxzDRVrmmF3_2XEeawWOn8bC-rHMS0e0d3-UaL6kgMkaWe0_XjqxpBKzuS9Lo_UXClkwxRpd7AjbKNFtqs-cBMF00ow6OMl0LbZ2iW48hQ2kizxNotOrjuUZXT3Se-0bsDbBTCnjDCrnWsnSQ2Q5-DI66sdSm_OkhSdnhHKebetOKgwm-Wu31BlRm5ybZHNgkaEzB1q2ttMocL1SKKanw4yQjUC2a0njtsYfRMD47YQdYJEOqD9OQfHImu22SlS2VDAGCr9u9bUwF2Q9uZSTZtrhplR44oL8Ea29VxRtzBa4urmXU3D2X0shXMHz2bprnIVrFhgdR9_HYzok5Oy_z1Mao1vql1k1X1dmMO0gZ9s6hIOzIkoqydsbHuM4OO9_O4dMj7f8fLqQPSywv0rwY5Dhs33ZUmysSkCjvxTOQyJN5mechWziupHxOxIqjzYvJVRauHMfQUuu--UK8jOJ4p2rwxBfwenFJI2Qu3JaoalynVLPX5-CIfzrIRvSimHoEH3k6iplk4iM0dzqGBkl_KaqIEdgtcUHAo8EsSv0G3BYkGZ0XdvfB6PFAk8HNYe49kTMEPiW8JoT5b53L9UDdmKhMDKClcCiOFIzSvi7NdoGVAAr7DjjGL9wKCBBzEEUeou-sFwG0fFzGaT-XCBmcAQ-wvxMDFBQK-4Usnv0BpIENHlX6Y2DUeowN5vOpMez7kpoRo6qHx3tiIXBj-4mWPcie2et91ZQ50EcbAnSvL6a89z3b3L0gC5VWX6n5P5CBdU8WObersoyNC_BWOxwcQyhTVOJAu7zfbR8w2j1bgOmpd9cks6nqLyH6A7RZ9Zmjl9XUwSCo80WrPtamyp7SSVMDahe32pgdd5t801ZJMgxtjWEwhYzKTmrAYsUSF0XtT-svjsmTHqMNKscdj1VIjGWhsDePM5wA0UKWYxdSF2ShlXNRtgpyUETtPCA3wpnxlwfyv9DHp6c1EUASb7h8dxeadBk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e59ac7e71e5df07016abf130d969087d1b90f15e768601901",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 292,
+   "total_tokens": 728,
+   "cost": 0.003792,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003792,
+    "upstream_inference_prompt_cost": 0.000872,
+    "upstream_inference_completions_cost": 0.00292
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 270,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

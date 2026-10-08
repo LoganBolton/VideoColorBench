@@ -1,0 +1,21 @@
+{
+  "slug": "con-calma-2019",
+  "title": "Con Calma",
+  "artist": "Daddy Yankee & Snow",
+  "year": 2019,
+  "label": "Daddy Yankee & Snow - Con Calma (2019)",
+  "hex": "#3A4151",
+  "rgb": [
+    58,
+    65,
+    81
+  ],
+  "frames_sampled": 211,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "DiItGE3eAyQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

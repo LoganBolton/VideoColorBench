@@ -1,0 +1,21 @@
+{
+  "slug": "knight-of-cups-2015",
+  "title": "Knight of Cups",
+  "artist": null,
+  "year": 2015,
+  "label": "Knight of Cups (2015)",
+  "hex": "#373A3F",
+  "rgb": [
+    55,
+    58,
+    63
+  ],
+  "frames_sampled": 7100,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "rU0pZsehQRA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

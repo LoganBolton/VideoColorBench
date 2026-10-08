@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-J4F7bIpyxACyiNAukECx",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Queen - Bohemian Rhapsody (1975).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCmcBOKI-AjUe0R6dnryiEFmhDAYOM25ZIM42drq6X9KmM16_Ns3F65bfyEbRU3IFJetBrkpfZzWHdx0HF2yEf6d9K1SzI-QnSBsJLitKImYuyWnVUM5SBid77PU9BUKAwNhKDUygUNOtjnB2JM3RcOksGUjhAZPBShRFRuF40UJBCDfyXL3SX1UA5-atKzE8Xk3GPhbQAeuOLNGRTSv0IoPyeHUJvwBaOwc2-HFTrlQhYxOvVbL3jdGTWSpeIH7MJYeR5hohoP1T-Nr9E4U3rFyceHAQoa_XYa3en88ZnJ0Vpoty-U4htjQxrNxiJ9g6Tr4bWY1XMs0JPNtxUA1gxX0lcXBR2k4sFlo7qQL2V5aUJjhHfXThOaSAxaB9g2zC-QSBSAalssln458u8IJkRSwxE3ni6TQGgX3FuwMfpl9LpQwU-KSPBVjqn0uW_XxRivQEjU4UI2cpYF_Y1iiPKbg-aQ6nuIbrEeaLNWmm6uUwScdFEwlenJJcpT4e2TDNylw108y2MCIxbgdtgrQkgf-D51IHg9ucbqA1YTxfBubROjWLfrAfkz7oMQSkS5kLzP31BvKHMWSoK2zjYrMTno1ktITZ9gKahBx6HxFOwqtNWfqVbb7NitXHBq74NWT2P6QwjVGDNf9M7YH3G-6hPX4VmtW9hyClXDTQYde9hVG_5EA-pd6IWOZ_ZEXG6P5zEQWZc0AsS-NGiS1JXZmvtjHdDR4uRz0ZQuY8fbL-CI6UxJ5jaeUKU4ESIWaJ8VFg3HH9cUP5FJunxsFpklOqVhnVOMAbkWxwJGwMTKtIDqLr3KuTbFrF6kZP9UT8DO5xrt-joR-L3rPfI8Hoi2OgvE7mTPU4qKYf66BfalR-NdTokkv2g8MuH1LZ6wneuSzGZoh9scKoqaKE1dD1YhAKZ7gybhvMvv7QUcF_7nE5yLRxaglwFaC441Eo7wuyowpySsJ-u0TVC7TEVw1O-_99IsP8Max3uMqaf-_x--CmV2hwl5ODpkxnKVD48qOvFe1tDG9LfLiewd-2LZrfjypRtwo-zBxdwjNw4w2VDiHR9QItfgGujmotyLFQFS5MRM-66pW-ylo-7QYBzFBmZ-CSSSnafsEaEQrDFGLgtZeBlj3eSXLBJO97GMsnQ5Lc8N_hwW_kY9Mt7hBsu4JsLwH0J0IYCROC5ITBfH554U-Sjs0sAlf_-jkp89EP--SJhhIf-bD6Leuu8EsERQUYjhSb_Vcbi3qHjkv_z59_KBgsIuIjMCdU8R5WwcVlnxfhvb9Lhs3nGv3FXLB0YP2yNEt2nzNdwmbj_CpFdDW7Ja1a56vCUyqI8awn4clW5tt4z8diX_-rx8WwBrM4t7sGt62KCHCd8DHhcSWCuCuBqE5o2YxjeTwJDR3Au7CBVEqXqbFt84tMmtpqZREyx2sRKPjdJrtSTwsQe6VQ-QtFwuC5TkXG5-PIlzgvD5v00ZraNDolqFtzUuIlofsSZaMMVeEBdRtpNCz7C0eP1eJbejy-k1NHvodkjpOzzyFaFKr-sKBm0Mc453wrns4i-MaZK5BEYN7nOARadlE8q1euynInGNV9aA9anjKhJ2zuIftw6ygJq-3LSxsZXabTyjLXkK7eP-Crj3rHByGX20ZuuYfyorpfE-ABKFkcGc-oJnFbh0GSRJmjbrsuzkaGT2TErfdyLT8NmUvFwVMX7107iOhIwGRj83jlo0SAzehaWNEltOe6WI0cC086LoDiZOxfCJpwZjv5eEWHvEGvA61QvxzEdcEjXh2VGHTz0TErd_9Zswvyu_nfC4xBdMqUYDtJZCgstU7rhN4jy6SK8NkbCTTB6-_10krz-QgynM6APbWfgxS-GUnCGGhF_RzUu8RcRZkIz6m01vJmQod_ZMDsIdKSKhxEiIIovSTd_X8N7b71i63ik0mdt0N2N4jz6mEHf6FaRdla2cOnkWy6LBYzUlNV3z1OJkdZVzCfqAW7GNtjDY0D2Y7o5dZfaJwg2Xa27v5qyTxXuDTqiE402jbkY9wUl940FUbZ10PbYcTPUkQ7nzfKQAaxUuKATS25uwIkur3VCJgFjQg2f0VLVBv6fgCLcOprf7kOdX0q_pPw4EXNnkP7WJyFlZ-DD8XpdPRYIvl3Nw9g2iwxHD-VegWv0C4JpcgU00bz-YXg1v5sI2M5yhId6IAosanDByXWgXX9f7HEbaKVVHV_OGIsS_D7OkWxLwW8QvNPaOe0V9v7pkVhcKE5sKGMAmttWPj2lR9R59UNxgQU906n9D49lgN3v6G5cQRNGMTGEf-p0bQCJvgriyKRv74AEvsjmRN8pkMbTrL1Uhf1lw8li-bzF846KL9GqLusHMiqZW9SdGeHX0MWAB55saIRCTbLRtrflJa2v3R6JtBwSh_fnK17IVQwA-md6oyrY1IkqYu1wNbIlvGsxbliHjQcEkfYyF2Db6aKg_pnlUm7BN5JyZ2dbsDe1QzWJgu5P9btWZniVn23kbKBE7HiBAsaRG4cpTjkNGP9Jy1Xjr4D8C70V8BEugqM93fTdXkRFwWuLX2hBtNYuFphnPHNYcej9iTp1ZDetaRKagyNKhLqUK9-VnDuHnoh_ci7nYYhfDHXaAELAuNT_6DV_oQyrzJRuQ7m_u7gE8JHG4eJzyuPvJUhL-q8G4LzB0yAPn0vM-z6jMPQpATeGFpJ9xaKSaSNpbetn_a21KIFzpiqKoQ9eqCDUcF4gDUGXTRdTz5-TIpUSFKkeu3NVT5Zln8yc5a5jnMoBKF8u1A0Fh7vCWubAO1dRB--YfT30diINuHgBKyH25QI5pnPMfcIsHkGaOfE7HXXPZML6LWUEILt1G1DrkEvApsIbcgdq11PhpPhdrMAiXGB5N9oOO5tuAU8PEEIHv9d9VPiBVUbJAqXcYDSSdQOQ58r4sHVHVgi86sq7jLIGXDVGM_2JPDuf08FPE.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fa0b003dc370227016abee09d8fd887d1addd218249045010",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 475,
+   "completion_tokens": 337,
+   "total_tokens": 812,
+   "cost": 0.00432,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00432,
+    "upstream_inference_prompt_cost": 0.00095,
+    "upstream_inference_completions_cost": 0.00337
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 313,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

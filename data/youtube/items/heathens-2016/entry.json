@@ -1,0 +1,21 @@
+{
+  "slug": "heathens-2016",
+  "title": "Heathens",
+  "artist": "twenty one pilots",
+  "year": 2016,
+  "label": "twenty one pilots - Heathens (2016)",
+  "hex": "#2A2B27",
+  "rgb": [
+    42,
+    43,
+    39
+  ],
+  "frames_sampled": 218,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "UprcpdwuwCg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

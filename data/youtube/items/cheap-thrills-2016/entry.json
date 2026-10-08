@@ -1,0 +1,21 @@
+{
+  "slug": "cheap-thrills-2016",
+  "title": "Cheap Thrills",
+  "artist": "Sia ft. Sean Paul",
+  "year": 2016,
+  "label": "Sia ft. Sean Paul - Cheap Thrills (2016)",
+  "hex": "#3E3E3E",
+  "rgb": [
+    62,
+    62,
+    62
+  ],
+  "frames_sampled": 262,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "nYh-n7EOtMA",
+    "youtube_title": "Sia - Cheap Thrills (Official Lyric Video) ft. Sean Paul",
+    "channel": "Sia",
+    "via": "yt-dlp"
+  }
+}

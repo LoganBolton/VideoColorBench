@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954440-Aims6f400AqBitAKLkrS",
+  "object": "chat.completion",
+  "created": 1790954440,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Take Me Home Tonight* (2011).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes for films**\n\nI need to think about the color palette for barcodes in relation to various films. For instance, \"Take Me Home Tonight\" has a colorful golden party vibe with a night-to-morning transition. \"Half Nelson\" features a gritty dark grey-green city look, brightening at the end. Meanwhile, \"Little Hours\" presents brighter greens in daylight. I also consider how colors differ by scene, like the contrast in \"Fifty Shades\". Ultimately, I'm trying to determine the most effective color choices for each film context. This is quite a mix of ideas!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes for films**\n\nI need to think about the color palette for barcodes in relation to various films. For instance, \"Take Me Home Tonight\" has a colorful golden party vibe with a night-to-morning transition. \"Half Nelson\" features a gritty dark grey-green city look, brightening at the end. Meanwhile, \"Little Hours\" presents brighter greens in daylight. I also consider how colors differ by scene, like the contrast in \"Fifty Shades\". Ultimately, I'm trying to determine the most effective color choices for each film context. This is quite a mix of ideas!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vURWd3fG7s6lQysRoxRuW4aU-C8oNqSSmc_kWYTQVZwMU7mGm5Ez76XVPryNRvcS8NzZp-Bq767X8dRsXTFRonRF4a34B_LxuGnjNpZV9Ire42HR0o4UvSaw_RLx4w45Nq-xDVPLF1JOxWFchhMevTKHUYpJclVJwZLLMqJ-oDBxs1ovZL8tNoDLyIItHKLpQqgBKwmKaq4b8bAd1OVu2c8SwC3UsCdkbnzNPUTwkJoJoKEo--gRpClVa1j_ay-ZNTKJSbBSra2v-BM0gSNyKN1llLlfmJWrMAaqQFcDi0FkWlLn62_spDD8AcJk93dcL3ybcvU8jcG52LUFRvROrEv73WB_sXDSnA_FX6hbhPKDCTKxcHDqeXaZnx0HLsgWfmv4-tcGQI01Pv8II-IspYCRuuLOEsdKO7FBXHtZ50rH9rK2u1C6ZBrdI5qFfL-KvbH8vriXz2aWANNpZgjW2xRklcwAwuEEu3h9FN8gHtFYJF51q1cRt_lFSsjLLhZrpRKlnIDMHBHnXhUeRhmLoQSYiohUF40uZRgthjRhgE0irlha7KMFcJYYeXxMjM8yduIkJLHrSRPFqyCzABAu-O3M1xpHlmg_e6lXj2HJZeWL3vz6Z9E9p44N6H7ILvRqKJEc1RBq8yWPOQGNEZrCYRElZc2ua7TKTaiKozDwWE7rNyxQwsdsUbQ-RU1D8c3vYc9ao5x-hsNXt8CtZmRMQbq91L6uUDmM687xCymFtPFPwe4n7C0BkWUna_ASXqW7ZciRK78p1swNHH5tkHV_j5WpkWwz7s-4kG54BbE-mZMD4o7Zwdc3ziELLSSwpQ05pprmgtfD52DBrmBDB_CMkgAvBTfNpbgB2Xr8oOEVyESiCIisDgsdYRrh1vQta0NjcF3F2O61Db7QSZ2DBJd_sQxYxyjoEW1o5oWfruwhQJvvYi8wrYvFjT0jlJ2btoE8Yd50eqEbvrQtt7p0Ol-UAutWsZYoIpO7AzO7cOoep83tElQkvEjJYG6k2iJCq1qVcXjfa_l9D1eIe9a5Iap5sINhbUntDZ8BMrbbZFdKOoTVNgFfM7ttyoWpo4H-7W4IF8lRWaHPC9mA_UJh20Yxij7w-wRNtcuaFhlM1tWG03tMuivQx0Ht68XSi6_YbR3W863HApq_naJCMaVhCniq43IWm50DVokchGFe7FT7vgU0giBiw2ElhP2mT1QVSPUC_VnUbiFI00hWZNC4EiMdV-gLhDuvpUH47wJmqlQb2XWFEZz1xAtcYI2BUuCgto1TX1vihBenptTK1Ld4J7fnBI7tn64HDYeQdNzrZj8hdFB7Hlnn-QIhnckcy96vH5_5AY-U0ckHPxit7nCwV9iDYvUmrjKLMrPGeKnqWgj6l8qEFaMu_j6_haybP5WD18ajn1__OfbOWz85q4eHOcU9wQ9NX7VdjptOGwyzGB-uOiJXPZSvBPje-pJl8kCdFRtsRuG76dV5J39KDvD9Q7iOtfE9H857oGy5C1Huwkcv8MLjM1sEAxEBjwMLg75OkLJbDClTSs7qWEB3ftTuFyj4R1ZyUvlpmuUAn5DyB3OAfxUivgnO37Yl6MWg9_xIWI6Crwap7JKqkUHiU_OB5X_tkzud4IgIzXQrdHHoLHOZ4qQsDUtC11ER2Qu6kO3O-CqKR8q5v9I2xRHJ2lCcrruQ2_SPMAY4pWB91F6Mw2Tv8RV8Ek-6XjBwxHfJJm325m83q8vonhkFQYh70-6kd6JbP79rUjV357Utb8SZMRe3e6SwJy49WUWUMko5DjHeF1ggAoMshBWraw4rvXDD8ED8CkGoqB2RVm9UBCfTCBPvkuk-KogI9fthVIKI4AbyFf-mO10Ra9EFkPXkiH4m4n8X4AgCNkFinBWocIELTrjCxqABsOMVlVIKYyCvhMq4wypOdmIMBUCX2qBN52Cp0QOuhDDXkGWAbmCOw2ejm2QE6kdebgegzMD1DZzVh171dMvWge4-Okkv57G2zwwJVzoldffOopwGFdq4W07Vg4-OZSBKE58VJ5bee6tBhAl0GEng8D4qayFVL0lDvWCwlUQUTex2MkKvLVh-axt3gyaNBNhQsfrsQQ0GwdN7R6xTKtE1QUeFIZ1ipRgUXfQx44WAnMg4MeCfxhpfaFxnpVMTWC0htWY9zm2KTtWDgdD9RnXEVNH7c41rXt5EX3-bXG7RXXiwvQh9xOBKzdWARrZiclfdNpHuglexHuUOUn87wP3nY72l1jC80gZdxm0LAIoa4W6RC5kCdSj4TJHNegadl5-Y9HJcYkkSCb5zGM8tRxOLwA6srZdhlOd83Gr_9HsztqRQfSufxQ-rd4rBQ4TcXAaNX5Gdm-9hCx5WkWeRiZLHJwspRi5vRM4F9eRtk37CZXoy7QHa8bhvwHNl0TD3-vDESXcHi9iSj23t-0V0AJqcpela4PZ2tZ9lzvzB7GnPb0WS0VGYKqLmuR8IBQZg3e1gZlwdrcGrcOi40RPhPZvbQjzTYZwcWHHHsloxbAKfNSSua3MWE2k9YPtmKNV5Gc_lNy9dKk85P4RoMxEgDIU2hTw_97LdySdhgOiSER0ATSNAh-H86hFyU-WHPsLp9JPMUtGYRwc1cWnDNArgxOURyOKXuBWcDofAMXTibNg4puhA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09ec3d00bb872920016abfcbc9f50c87d1999c6da0dba2f493",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 246,
+   "total_tokens": 678,
+   "cost": 0.01662,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01662,
+    "upstream_inference_prompt_cost": 0.00432,
+    "upstream_inference_completions_cost": 0.0123
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 223,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

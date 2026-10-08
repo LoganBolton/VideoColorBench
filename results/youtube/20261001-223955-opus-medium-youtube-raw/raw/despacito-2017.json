@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894470-3TxJzoqXMnxvavk5ylky",
+  "object": "chat.completion",
+  "created": 1790894470,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Despacito, though I'm reasoning from my memory of the video, not certain identification.\n\nThe colour pattern matches how I recall that video's structure. The first half is made of muted teal, grey, beige and blue stripes. That fits the daytime street scenes in the La Perla neighbourhood of San Juan, Puerto Rico, with weathered pastel buildings and the sea. The second half shifts to dark brown, amber and orange. That fits the later nighttime scenes in a warmly lit bar and dance club.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "This barcode split matches Despacito's visual arc: the daylight scenes in La Perla with teal/blue tones for the first half, then the nighttime bar scene with warm brown/orange lighting for the second half as the dancing picks up toward the end.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "This barcode split matches Despacito's visual arc: the daylight scenes in La Perla with teal/blue tones for the first half, then the nighttime bar scene with warm brown/orange lighting for the second half as the dancing picks up toward the end.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSggcKEAgSGAI4AUIIdGhpbmtpbmcSDENG+oeKFexC0FFp7RoMmEY0Fs9ywaJEctiBIjC43QAVKuVLRG8ps3+2Ynyo1VXREPw1iPtAUg7QvXt49X0EwWpBsqGrT1hdhbj3HbEqnwas9pbRyH/AWGssJcJ7od3xfo2VegSJc0M3BVMp4CECA/yv0UjA++bS1rFofl2UA3r2KL0+/8WQd80hTxDgLbvlPYzazo2ZpfWlbOzcKuJ0Y5/fqpCbM9oefUDZ+6mrXSrORZHV8XT88HZhF9OpNmvB70hG8FrUPVmoQjXxRZl5jvvzU9WJO87QBtBA3W0rTnG2SZ2DOYwBfIp0z4ayHsxf/qdt2KYRG/yhpjVRdHd2BghXlHnJnOtpV7/7M7rU+abuir2LXtnI8A4m0vXryeuUkq18l7O9csJuPv12NG+vqRg25DjkGyu+OUpbY8PJ7BP6niyGsFFonM+tbdKzkhVTNqNqAlIoUq7XqcIVlbhETZo0koXzWFV5mXymSI746gLWRDR3lkgYgTDkO0oW6Gnu73QkvmBsKcNC7xfNS3nW8FegztxnJDuTKx3aU6Lv9pm4+1186gwaRqlJDUE1fQU0e315EZlL7X7tgfNwdGAfrswmDHCOvlpSXTwDRooroHp2snKCYikkwHNKicGPbF5gNVi9rMHHTxhs/5nbCgzMVD1+O7r8XNjwCVJWS7eoINTQwUgdC9s5OlOWqnER0DKmwIKNgnwGmulNHYtBgQ2NmzhrI+t0Dr96zyTgFTk5ot5QE/7p5gQXw+QspLj08Wo7YouxFUpE4AH5yPkfC65hf3NYoLyUnZWDrSINl24JEgWK3XAiGIr8TSJZK/sZHLHVx+6UcvzdGOwVmqgXuZGFMqU9RiYKXVjVnTSK/b0EJcUIdY42XNcYv1Ob0Oqcqw6HMAkIf3CMwtehFdPJlYEE8p/iRJLdAvZc10BBQ4o6VUnvwlJIo9UGYjFLuO3FBPpWHVJBfoZfvxf5sl7+A8Zme9YqV32GgrLwCBOgLCpXCnVPpdukrZYEnb6cwYAcDNNs3GDP+03PbKipKQlaqyDBadl9mcwIyJ1MPpdDAmEoZuR7gdlzEi2iUxmedc/754HvLB8tUa3M02JwJmXdKuK6e4jBqXFWfQ8tvaZTbKeK9IPBJpo31BfYpE/+AxhxP1uBFEOcKm99Rmy6XDPJ9qVOGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 673,
+   "completion_tokens": 291,
+   "total_tokens": 964,
+   "cost": 0.008512,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008512,
+    "upstream_inference_prompt_cost": 0.002692,
+    "upstream_inference_completions_cost": 0.00582
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 113,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

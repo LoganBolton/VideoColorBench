@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907155-3mSHP7T1N53a8XakmAtk",
+  "object": "chat.completion",
+  "created": 1790907155,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *eXistenZ* (1999).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Choosing color themes for visuals**\n\nI need to select a barcode that feels a bit ambiguous. I see muted gray and brown tones with slight greens outdoors in the 700-800 range, leading into blues and some blacks. It\u2019s got a feel that could relate to films like *Sliding Doors* or *Existenz*. The early color sections have predominantly browns, but I want a striking ending. I\u2019m leaning toward using a consistent gray-blue for *eXistenZ*. So, I think I'll go with C.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing color themes for visuals**\n\nI need to select a barcode that feels a bit ambiguous. I see muted gray and brown tones with slight greens outdoors in the 700-800 range, leading into blues and some blacks. It\u2019s got a feel that could relate to films like *Sliding Doors* or *Existenz*. The early color sections have predominantly browns, but I want a striking ending. I\u2019m leaning toward using a consistent gray-blue for *eXistenZ*. So, I think I'll go with C.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMfcq01xZthVBSgf4vRSF0T-YpoVjOiuH6UPnezcgmyZk59bn7FJSs4RZA1MzBuW0RQtelQVgyAQgcPXTLRdKp06e-rNcF9uz8iWP9trkzyUpIE6uWnMe4yE1DH2okShfxmpY8xKfayLq5qUR37ej9VWM4WXfaSOelJ4zOxjsNR0_kCsLNW8eTMBop4ZS5973pcsGY_QKEq8sOfj2EwBlylU8zLEOCrPX9fbyEtcFAbjvdd3vrhXRO7UhIKUMMEPXSJhwf4Ul4OUCxbzXmhoEmhgf0_8uCFrFLEmuCdb0gDEsfZSRhMMogs-2PQ_8ZFKs2bd0iOaCx_25wE04IXNYVYAdASGRlBPK0s0eAqEv_ohY0S6jNrPsCwBefLq305HGyJu3o2-9ZClGW-xaikJqU0trfIVhDWplWy-EIOnArM1wBp2Xxuha-A0bFmzd017cPK1rncNgtZmlnKmOJUuc70GQy5fwE0Y2Qk0K-AqoKfYINqdfHKJvdeZ8Yw81Nqni9IfwdBiqA0sfQdbo8w5W7FA2jTBvSinc_UY-oIJQycEd13N5Hk70HovGawdTRheAyVz6vt7dNCVeooF4XMcXR7CQwiyAZCkJQhu-uqrx3L0uyPX6p6BzQHlGusquOIWrrdNmWV9IU2P_GJKhNc8c0y0Dk6P2C85AcVP4vl6DtjkbRPCXzN3BIpOHmcDjAWD41NyoPYKJ71tXlPHx3nSQ6ovxUttm9f4GUIFc0BDxPTkQd1X9x7wL5WeE_GBPs7AMZ4QGuR00uabCs9D-gNrrtslwTAQII10Vzo3AD3bsFlWATd89KuN89YnJ6nhdki4eRv9x6rY7vDjuBovidgzEflGkYaTI0GjUaj1Fotnat55sHG_m5lWKvuXfktEUqZy4fFwmxRuQ_qQ-GtMoCiUx8HYp1wtpTypOryUGNA7sL25Qxbew8aD4HXcDFRkPsK8XbSrmPOTirMm3P3hrYOsfEO_Fjdj2pm73Oo2cZ9JipDvAJ2g0b8cRVMxEH3MdmOpvwhT7BNFCZ5KusLLd6sJtopSSxgFoFhq4yY3mbGzrJHUm5ZDh6Ae84mfdbLmrZwXYF4cU_nviUsjPyaRz3TSvk9-CArjRLY_h0Z4olEqTsomn6pCQiO9iwr8e-0QN9JHqOXSHUu6Td6xfIKhrOSWqA4_ppxPqKmZuxIK2fiRiWQCx5GJoFXes3_TBaANEmB62r8t4ve_5to_-PAsQUpncKYQNDBqqbIYWk7bsxOFFVroZHIz5s9_TvNWrgDZJE3roGQQ2KDMVjZf5wGg1jGcv4P8wYLKovy3HeD8Vbd90Jj_8P7m0Lp2gufBFHeILHcdVmaRcY3-In-F34x-HzAltjlYVSs9nhcp-8ZAlhyGAs8b42i2CF1twQGMDq0PngBGAwoXYmnyDT1wM-klKwBtx-yqQvO2Kp-UcBkqWU2s-GmiFtNI-HjKVBXVI4BVVFx5ALaHnu96jKsfv4Yx8-yyYLypDskjA529-F2si8CDa9t7phiVAJ382H2QymX38sYhaPZkdafJVXsWzZXDlQ-Kam4JDc15bOXJGqC8LCnuwdzEQlg8jWv7z5K-eIuP5vHdwwOzvSJAiVOa5fo3rzp_66ausMywHuazz6bEmXfhoTfm2PMgce-YF83HPeCgxyPJxgRQbhfz3BnquxcAZKcedFIRrTqGHQWSTfQjqQ3rtaoMT3-bdzTmzcB_18ubM9zo9d1upvrPLR8CmqMwWBBMc07IWgOGdgx5ck6Faoa9jsoTkv1QYgxGc7C7puhgdfqlxBuWxp5TxVtfoPbNfHUZeJyhhAW7ZuPbesh9IzY-DZDsOwqTGkoLLlxiV9w-WBRskDgEMYWQxlrrws-Xtwj_mmOHJHsAlb7Xfd7dEv_GqFQUQOoG4tu_tsknTBaP4jNOV16cDVqFyHRASZMZTVy4O-ABy6JYvRPNw9k931pHZBgsEk632dYAHDVhKiWgmJUx4O1JTqfGZnNwOlEftb3AdmjUe15VsvsWEI8HEmDUQHQrSo3wRnr2G4Pl3q3eqTDMNaTsnM2GdKGNrmjNncBlnUYi6r4WXm7bUFTXmXMt8zcAqazva3WhEqt8iArcR8tctYUJuRhkcnCWi3ASqdTQj-xsYGGXDzYm4UEIbrxlmWzuhyWIKgsrln7Ev1u5nq17ri8UMVHlehMAaFCCyBuoM3I9wmEv_yaoUUl-ffOhjwNjOpceTk7VNhjmAnyoMQS4MJsJthgxmdO1kmI7KarGKHfMzemnK8yRRYitKE_5OdUwmmcLTGwBUHaUzMg760nrqmQCdlIM4YfK9luZR-Iytn8xSxvydiCp3CezpSGc7gVWw_murLrnAg7OgnOTyeMX8QQERv40GiwLQx9Ldc2xiLtXq-ev-SxfFUPs8vGgplRRrHDRdtni86BsTYhYyqFtvylvQZUshdFtqzFOLjXWy3VxB4XgHFvnHEbkG1XKduepuZslw7hmsUYwBGR0VXtvNUH5GhIO56fwu-xIv8apNLJgpAPwOFblZ0yRHoLq6bBpzJEczEiyp-ZmwwbFcf2kXKRfc4jcT6W-ExD0vnfCtKeg75I5C3BEgoWecoSto9BlsU=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e12ea4c97b7b49c016abf1318565c87d1915739f5c2fecbd4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 224,
+   "total_tokens": 658,
+   "cost": 0.003108,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003108,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00224
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 201,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

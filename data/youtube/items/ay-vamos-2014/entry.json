@@ -1,0 +1,21 @@
+{
+  "slug": "ay-vamos-2014",
+  "title": "Ay Vamos",
+  "artist": "J Balvin",
+  "year": 2014,
+  "label": "J Balvin - Ay Vamos (2014)",
+  "hex": "#505965",
+  "rgb": [
+    80,
+    89,
+    101
+  ],
+  "frames_sampled": 267,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "TapXs54Ah3E",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

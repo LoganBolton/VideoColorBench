@@ -1,0 +1,21 @@
+{
+  "slug": "side-to-side-2016",
+  "title": "Side to Side",
+  "artist": "Ariana Grande ft. Nicki Minaj",
+  "year": 2016,
+  "label": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+  "hex": "#2E3C5A",
+  "rgb": [
+    46,
+    60,
+    90
+  ],
+  "frames_sampled": 238,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "SXiSVQZLje8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

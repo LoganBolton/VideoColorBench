@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.5-397b-a17b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790926884-gHTvjVUwVHVWcn7UXi7k",
+  "object": "chat.completion",
+  "created": 1790926884,
+  "model": "qwen/qwen3.5-397b-a17b",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nThe image shows a color strip dominated by shades of brown, tan, beige, and dark reddish-brown. This suggests a video with a very consistent, warm, earthy color palette, likely featuring wood, skin tones, or brown objects/clothing throughout.\n\n*   **Alan Walker - Faded:** Cold, desaturated greys and blues.\n*   **Avicii - Wake Me Up:** Mix of wood tones, but also distinct greens (nature) and blues (sky/city).\n*   **Clean Bandit - Rockabye:** Dark, high contrast, street lights.\n*   **Bruno Mars - The Lazy Song:** This video features Bruno Mars wearing a full-body brown monkey suit for almost the entire duration, inside a room with beige walls and wooden floors. The entire video is washed in warm, brownish tones.\n*   **BTS - Boy With Luv:** Bright pastels, pinks, and blues.\n*   **Crazy Frog:** Bright, cartoonish colors (greens, blues).\n*   **Major Lazer - Lean On:** While dusty, it features very vibrant clothing colors (pinks, oranges).\n*   **PSY - Gangnam Style:** Bright blues, yellows, and greens.\n\nThe uniform brown/tan palette perfectly matches the visual content of \"The Lazy Song,\" where the dominant visual element is the brown monkey costume.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on a color strip representation.\n\n1.  **Analyze the image:** The image is a series of vertical stripes. Each stripe represents a few seconds of video, averaged to a single color. The stripes go from left (start) to right (end).\n2.  **Analyze the colors:**\n    *   The overall palette is very warm, dominated by browns, tans, beiges, and some darker reddish-browns.\n    *   There are no bright neons, no stark blacks and whites (except maybe very thin lines), no dominant blues or greens.\n    *   The colors look like skin tones, wood, earth, or perhaps a sepia-toned video.\n    *   Let's look at the options provided to see which fits this color profile.\n\n3.  **Evaluate the options:**\n    *   **A. Alan Walker - Faded (2015):** This video is very desaturated, lots of greys, whites, blues, and cold tones. It features a hooded figure in a snowy/ruined landscape. Not a match for warm browns.\n    *   **B. Avicii - Wake Me Up (2013):** This video has a mix of scenes. Some are in a bar (warm wood tones?), but there are also outdoor scenes with green grass and blue sky. The ending has a futuristic city. It's a possibility, but usually has more contrast.\n    *   **C. Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016):** This video is quite dark, with lots of blacks, deep blues, and street lights. Not predominantly brown/tan.\n    *   **D. Bruno Mars - The Lazy Song (2011):** This video features Bruno Mars in a monkey suit. The background is a simple room, often with warm lighting, but the monkey suit is brown. Wait, the monkey suit is a very distinct brown. The room has beige walls. This is a strong candidate. The entire video is basically him in a brown monkey suit in a room. The colors would be various shades of brown, tan, and beige.\n    *   **E. BTS ft. Halsey - Boy With Luv (2019):** This video is very colorful. Pastels, pinks, blues, bright whites. Definitely not just browns.\n    *   **F. Crazy Frog - Axel F (2009):** This is an animation. Lots of bright colors, blues (sky), greens (grass), the frog itself is greenish-blue. Not a match.\n    *   **G. Becky G & Natti Natasha - Sin Pijama (2018):** This is a reggaeton video. Usually colorful, night scenes, club lighting (neons), or bright daylight. Unlikely to be monochromatic brown.\n    *   **H. Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015):** This video is set in India. Lots of vibrant colors\u2014saris, dust, bright sunlight. While there is dust (brown/orange), there are also bright pinks, oranges, and blues. It's not this uniform dark brown.\n    *   **I. PSY - Gangnam Style (2012):** Very colorful. Blue suits, blonde hair, bright yellow backgrounds, horses. Not a match.\n    *   **J. The Chainsmokers ft. Halsey - Closer (2016):** This video takes place in a hotel room and a club. It has warm lighting, but also skin tones, white sheets, dark clothes. It's a possibility, but \"The Lazy Song\" feels like a stronger match for the specific \"brown/tan\" monotony.\n\n4.  **Re-evaluating \"The Lazy Song\":**\n    *   The video starts with him waking up (beige sheets/walls).\n    *   He puts on the monkey suit (brown fur).\n    *   He dances around in a room with wood floors and beige walls.\n    *   The lighting is warm indoor lighting.\n    *   The strip shows a progression of browns. Darker browns (the suit), lighter tans (walls/skin), some reddish browns.\n    *   Let's look at the strip again. It's almost entirely shades of brown. From dark chocolate to light beige. This fits a video dominated by a brown monkey costume and a warm-toned room perfectly.\n\n5.  **Re-evaluating \"Wake Me Up\":**\n    *   The bar scenes are wood-heavy (brown).\n    *   The hiking scenes are green/blue.\n    *   The strip doesn't show significant green or blue blocks. It's very uniform in its brownness.\n\n6.  **Re-evaluating \"Lean On\":**\n    *   The dust and buildings are brownish-orange.\n    *   But the clothing is very colorful. The strip would likely show spikes of bright color. This strip is remarkably uniform in hue, just varying in lightness/saturation within the brown spectrum.\n\n7.  **Conclusion:** The visual data (a spectrum of browns and tans) strongly points to a video dominated by those colors. Bruno Mars in a monkey suit is the most iconic \"brown\" video on this list. The entire aesthetic is sepia/brown.\n\n    *   Let's double check the visual of \"The Lazy Song\".\n    *   0:00 - Waking up, beige tones.\n    *   0:15 - Monkey suit appears. Brown.\n    *   Rest of video - Dancing in the suit. Brown.\n    *   Background - Beige walls, wood floor.\n    *   This fits perfectly.\n\n    Let's check \"Wake Me Up\" again just in case. The video has a distinct narrative. The bar is brown wood. The hiking is green. The city is blue/grey. The strip would show distinct sections: Brown -> Green/Blue -> Blue/Grey. The provided strip is a mix of browns throughout, suggesting a consistent color palette throughout the video.\n\n    Therefore, D is the best answer.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on a color strip representation.\n\n1.  **Analyze the image:** The image is a series of vertical stripes. Each stripe represents a few seconds of video, averaged to a single color. The stripes go from left (start) to right (end).\n2.  **Analyze the colors:**\n    *   The overall palette is very warm, dominated by browns, tans, beiges, and some darker reddish-browns.\n    *   There are no bright neons, no stark blacks and whites (except maybe very thin lines), no dominant blues or greens.\n    *   The colors look like skin tones, wood, earth, or perhaps a sepia-toned video.\n    *   Let's look at the options provided to see which fits this color profile.\n\n3.  **Evaluate the options:**\n    *   **A. Alan Walker - Faded (2015):** This video is very desaturated, lots of greys, whites, blues, and cold tones. It features a hooded figure in a snowy/ruined landscape. Not a match for warm browns.\n    *   **B. Avicii - Wake Me Up (2013):** This video has a mix of scenes. Some are in a bar (warm wood tones?), but there are also outdoor scenes with green grass and blue sky. The ending has a futuristic city. It's a possibility, but usually has more contrast.\n    *   **C. Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016):** This video is quite dark, with lots of blacks, deep blues, and street lights. Not predominantly brown/tan.\n    *   **D. Bruno Mars - The Lazy Song (2011):** This video features Bruno Mars in a monkey suit. The background is a simple room, often with warm lighting, but the monkey suit is brown. Wait, the monkey suit is a very distinct brown. The room has beige walls. This is a strong candidate. The entire video is basically him in a brown monkey suit in a room. The colors would be various shades of brown, tan, and beige.\n    *   **E. BTS ft. Halsey - Boy With Luv (2019):** This video is very colorful. Pastels, pinks, blues, bright whites. Definitely not just browns.\n    *   **F. Crazy Frog - Axel F (2009):** This is an animation. Lots of bright colors, blues (sky), greens (grass), the frog itself is greenish-blue. Not a match.\n    *   **G. Becky G & Natti Natasha - Sin Pijama (2018):** This is a reggaeton video. Usually colorful, night scenes, club lighting (neons), or bright daylight. Unlikely to be monochromatic brown.\n    *   **H. Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015):** This video is set in India. Lots of vibrant colors\u2014saris, dust, bright sunlight. While there is dust (brown/orange), there are also bright pinks, oranges, and blues. It's not this uniform dark brown.\n    *   **I. PSY - Gangnam Style (2012):** Very colorful. Blue suits, blonde hair, bright yellow backgrounds, horses. Not a match.\n    *   **J. The Chainsmokers ft. Halsey - Closer (2016):** This video takes place in a hotel room and a club. It has warm lighting, but also skin tones, white sheets, dark clothes. It's a possibility, but \"The Lazy Song\" feels like a stronger match for the specific \"brown/tan\" monotony.\n\n4.  **Re-evaluating \"The Lazy Song\":**\n    *   The video starts with him waking up (beige sheets/walls).\n    *   He puts on the monkey suit (brown fur).\n    *   He dances around in a room with wood floors and beige walls.\n    *   The lighting is warm indoor lighting.\n    *   The strip shows a progression of browns. Darker browns (the suit), lighter tans (walls/skin), some reddish browns.\n    *   Let's look at the strip again. It's almost entirely shades of brown. From dark chocolate to light beige. This fits a video dominated by a brown monkey costume and a warm-toned room perfectly.\n\n5.  **Re-evaluating \"Wake Me Up\":**\n    *   The bar scenes are wood-heavy (brown).\n    *   The hiking scenes are green/blue.\n    *   The strip doesn't show significant green or blue blocks. It's very uniform in its brownness.\n\n6.  **Re-evaluating \"Lean On\":**\n    *   The dust and buildings are brownish-orange.\n    *   But the clothing is very colorful. The strip would likely show spikes of bright color. This strip is remarkably uniform in hue, just varying in lightness/saturation within the brown spectrum.\n\n7.  **Conclusion:** The visual data (a spectrum of browns and tans) strongly points to a video dominated by those colors. Bruno Mars in a monkey suit is the most iconic \"brown\" video on this list. The entire aesthetic is sepia/brown.\n\n    *   Let's double check the visual of \"The Lazy Song\".\n    *   0:00 - Waking up, beige tones.\n    *   0:15 - Monkey suit appears. Brown.\n    *   Rest of video - Dancing in the suit. Brown.\n    *   Background - Beige walls, wood floor.\n    *   This fits perfectly.\n\n    Let's check \"Wake Me Up\" again just in case. The video has a distinct narrative. The bar is brown wood. The hiking is green. The city is blue/grey. The strip would show distinct sections: Brown -> Green/Blue -> Blue/Grey. The provided strip is a mix of browns throughout, suggesting a consistent color palette throughout the video.\n\n    Therefore, D is the best answer.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 447,
+   "completion_tokens": 1624,
+   "total_tokens": 2071,
+   "cost": 0.0060699,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0060699,
+    "upstream_inference_prompt_cost": 0.0002235,
+    "upstream_inference_completions_cost": 0.0058464
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1327,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

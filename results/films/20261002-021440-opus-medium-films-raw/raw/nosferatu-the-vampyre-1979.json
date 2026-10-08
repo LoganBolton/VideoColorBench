@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907305-KGZbt5aF1nquGEuH1Uqy",
+  "object": "chat.completion",
+  "created": 1790907305,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the colour palette, not a certain identification.\n\nThe barcode is almost entirely dark, desaturated grays and blacks, with occasional cool blue stripes and a few faint brownish tints. That points to a colour film shot in a very muted, low-light style.\n\n- **Ruled out:** *The Little Shop of Horrors* (1960) is black-and-white, so its barcode would be pure gray, but this one has visible blue and brown tints.\n- **Best fit:** *Apollo 18* (2011) is a found-footage film made to look like grainy, washed-out NASA footage. That matches the gray-dominated palette, and its lunar and space scenes would explain the blue tints.\n- **Less likely:** Other dark options like *Silent House* tend toward warmer tones. *Day of the Dead* has more varied underground lighting.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The desaturated grays with blue tints suggest found-footage space imagery rather than pure black-and-white, pointing me toward Apollo 18 over options like Little Shop of Horrors or Day of the Dead.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The desaturated grays with blue tints suggest found-footage space imagery rather than pure black-and-white, pointing me toward Apollo 18 over options like Little Shop of Horrors or Day of the Dead.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4wcKEAgSGAI4AUIIdGhpbmtpbmcSDF0O4zqKHhsozj+8MRoMIqplZ8hLLVdKXE1oIjBUAEgjUsuSsVlyjYbgPnNp0ZmDbBE3gEGCDMMMkO6weMLzCcg1M3G+22Xr7ywVzXwqgAflhqtAEwTrnJINa3Z8xsIBq+BiL/PMOJkBml6n6AcOQ6h2ZKnRuy0Q7HfjUcW57LiAyvUe+LY/Cz+fwacMYUsGOiuxE0UOlXNurnzkS4iFaddWdxfQMoNqTpBgC8aLj/G5s3xRgRH1IdRygyL77mKhBouSU71X4naM45ZfacaUk4AMh+yN+gMllPZmDwkDTKbscFnYgcbe0SN1ukWosJX9s3NflLrXETT+HWD7XEFdAfSBxJ51HSuFvI5oV+VGZyaDuxZkLa/uEpEclvuur/TtiZGcDO15GoLqLWc9e+BmFJAmgFTWeO4y7//TEJmnnV5qYM80/ZxJcjLBG4ZP1qkxjyp1oU4ULKvRuGxm6CBzWguEo2K4/XSnc+SiRcb3M23b/wELlZnIUW7O7uegpnK30TSd+B2G7KBuSx7FyHDOEe7QtLO04ZKUCCeX9XMo5w45WtvKAKZOuxaBLkmxcJqlml8MlCOsKyCpuJpe0LKkON+hPKueqq5u8AHxtYNuhP5Lyb4tmsphlMvJilzdQUMgZerI99aD2m6kww19d6AUWN72rFa8JBKyFmBEO/f/SgHcBRje2CTAmnVO+hI00WtFQa4k9LyuNCehT8FsSfacMeg01mJF461HkHY7ZuHAH/Pf6u1cjEFadNztZqXO3EB8CE2ZC5Ug23w7HJeBPbaa06cjDirv4dODPTNlAiBGRhm+MO7pl0PmmicNUFvxaCQ+IC3aH1sb6y37aATndMXIz94vU0Z0hI/Q9nhuljWx00Fsspraar5S4gHfrAJc9yyX2V31obUQ/HxAJPLX3H5KZjjcv4pzVFKAoIXQor471OTIfHRfmLRi+eRugEmAICsS7LFk3zeTqoXOKxpIAQe4w4qOwuaxnFR1eSfCqp1mMegOl+5tGu5uVJibNEQ9V3hKbbBi4c+apU4Q49rypC5BhyyzjZBXLVUiG/6kjJHMmA73Yt2eVIj6VIGhQh2o40DsXq4eO7o/eu+KIpfVhpOTcLVa5M+/9cK8frmqPQju+j7805lcX7mqK6gJzJjMFxS8mFhYJXkILJ0tcrWO0L1N0QoKAu5kugYYoXlBjShKM8H3UBLbBHlbjHr3aK7w88CumEjGLRVjBZ8Tm3SXAD/QdHw+BM9HRvFNThn8hBLsqzlY/MyHxITe7xwyIrAG2zM5WZ+l1IdZYfdnew2k/TLtdBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 539,
+   "completion_tokens": 444,
+   "total_tokens": 983,
+   "cost": 0.011036,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011036,
+    "upstream_inference_prompt_cost": 0.002156,
+    "upstream_inference_completions_cost": 0.00888
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 161,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

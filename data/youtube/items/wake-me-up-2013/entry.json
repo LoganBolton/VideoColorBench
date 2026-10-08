@@ -1,0 +1,21 @@
+{
+  "slug": "wake-me-up-2013",
+  "title": "Wake Me Up",
+  "artist": "Avicii",
+  "year": 2013,
+  "label": "Avicii - Wake Me Up (2013)",
+  "hex": "#574F40",
+  "rgb": [
+    87,
+    79,
+    64
+  ],
+  "frames_sampled": 272,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "IcrbM1l_BoI",
+    "youtube_title": "Avicii - Wake Me Up (Official Video)",
+    "channel": "Avicii",
+    "via": "yt-dlp"
+  }
+}

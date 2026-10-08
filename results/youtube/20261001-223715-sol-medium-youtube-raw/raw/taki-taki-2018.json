@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894350-Gw0eluObL2jo5ojYMwDe",
+  "object": "chat.completion",
+  "created": 1790894350,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is \u201cTaki Taki,\u201d based on the dark blue and red sections followed by olive-green tones.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEVEz2ZNi79Y0fK8o8bicinY7QK3_cXc-NXfrud2utsTAk7B3QZ97KmCp9y3m1KVgWW1thcZqKHj31kv_LRmlqpvu3wD4z9WrgPfM4kOPJT_tyno23m3W0QiuiucQq92hEJPi_lPWdkVr6YpexsKnllJmfPBq0wreFoiWdgnnMvw_6LTT-ME0yQaMAhoH7m9FUoGjY2MXOlAepxZ2kXl2mdewYLjbUzDGWo8kqsd2zbzt8x9cS11juXdDeeFOPBUJiJhCuw4LF2HvqJKU01puKQc35I7FZ_V_96pIm_j9-uWJy9IDGRucoSLdh5A7nlXEFX5ZfWhjukxBMKGjMffxw86FN4xAMYR8bSt_9wysfEnTzli0JJRzDI4X4YZOiN_nrkRIskLvOPlSr2pxy7q-GcyB03YVL-SyTESZ8yTcDNX4mWgBSEtnmfo83rQp3UfQBkncmMRcN65vxBCeB3yRpjqxb4Ro77R1NAk8cpvZDSqepVQipLoj3sXPqTJMJVO7mzXbWC32f3G7yR8-F3CovJhIOONearg7vD0rHcX87K6TlimtIhY09LN8VovWSG-PBOJv9mcqAVn33pczZjT2Ia_W7trJTWRXDD6rKUDb7pP2qadBB6motXJOQdCiTeNqSn8Q9mzqh125Ki6YqHA22I4Bw1Eno2ipKOuDS8mU12SCMciZlDAn5yA8qrvA2NlMF5apdIsxZ6OunQFD9KNOaU8iKB_DxwQM-mdY-SqgI0M4dWAlxeAS0Peoi3NvLbVjpIK_vJV7LhuWA36ziSOJrrJ2wX8G84lTJjQtNWxrBKpOeNTEmITvTUcmSeIh2kKOzeb8LJglPphu1q81wDKukglCBtsgyD8Tl-kTQm2MkHQVxJBxM5GczVkx1Hd0JjM4kxJ5OMRNsISRua3oXcggUUY0fkC_6-3hX9__yuUiJHkXvHKD1H7ZyXRnSqDGw-OGGozkb1vjLws8n0Tt8FuJxstQBq6CK2QVj_osGRBbYUDBgG8-8s8I4IOSYZX6YG4GEBLVHtIVIl1Ci1nqmTXr8RcP8mKLySk-CxiXilVOSJPX1pQnSCrJpBbocf3VEP-7XKe4h3vgOSe0gP7JNjJMhB1ZPGejdxk8GIQ1Ur5HgSryOzTGDe65g_oEWVqCmj6ywI0lBwMrZR4-mjIUtyLZHwuftslSA8duYdg1tHFgtocdiFyjtRc6hUcxr_Be2llJuN_gqKcm2Cb_rMFTj7bf6EJFtd8a_-OJIoxuxdOB1c86S_24DCFyTmZgZcVZOBr2zOBY_dnJYmiv-s44l6nYf-W-CZWpzr9i39pd8VYRmOY0Sx1hhnffXgPbhLQK3uoGWlvwpUNTSB9oj77irHV1RcY0KtgpGHxVK1RHIsxS8fsw4pBmroOeY9KlBLZuSvvocykLnPoKfm7aXwCFSV9m3yAMDzUP1GZn6rx3p389Y6kXfuvtrVfFlajT-LiKGV6dqZ6KdBrixLzidST6WaxobSvXs0_FkdHF_uRRRNzX5aBdkl4ftH1hHa9cc7YEC6ScRBTqhOBwFU-1iKgQihQT1bbq6eSFQjp8l4tX3LKDzwDQAv9qm18OgF3JNT3Ca07HOYwvCWXSvlv5J0loiNwg0JigSDwSpHT0i3S-LpSjHPr3Vt8ZRxXh8pE7bdmzZ5gDSOCr-m8X2BDZXnQUWhMf2R25zAXz6Bd9chTwskWJKRCNK9r08N_PVkSc1inl1dXFWWpn0pmDGeSnYDzf14RAHeWaOnPdvapelSoffhUvKMk_hp65ThJIwcVZdDHknr95A4nZrTT7Tx9K3EVyrHYddyCjLJ4l59wokBLjLcKlOdCliTzmacMn3d61zrgPSm1ZVKQeQ6X29MpjxsCx4L1uJ0rJO-W7wY8HK98OrooxffVoEfeplpHLn78cmDd-eFH0xpNCah_hlggk9VZBbBs8c8n0Si9qKYadjAIdnVX_-kb4HtQnVIoAXqErYoYtoz2drCMyYmbHX1joyu6I7kMkiuN6YllYEwrLOYtaDjw8500g15QVnLg736pUEOz8NHJZ_NL4w96tL2cO80Qpt4ltimErSfqwRFazB5Cuw4SB5uNqId5mv1v8ma-NNmAuIf8San81jyNdBuD_9k0yFflOC5_gfioxtoMUbaCC24cODpxKSz2kpXEzRLp4i5ZJ4tBXVss0njfSiQXpUnGbM8EtXbE1i6ToUEQXFiZ-1iNnNPxTNsvrNpq9xwObf41V9KKM8d62_eNYIQqpr8t14VaGXbn-x2dzduM9Se7rTXNI0i_-Rc-hfDEsStM-obQp9iPuz5JWtZSwOUF2kmc2INQndS5nAquCsvxmRzg_JrxLgfVJOoBHem0HZKH5tzQpdkz4-_BYMVVFU88Tztzi0hg-dgz3QhlZhfAsH3oBbph4-FABM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a7a9becb927e987016abee110842487d1af7d1499245b5439",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 505,
+   "completion_tokens": 229,
+   "total_tokens": 734,
+   "cost": 0.0033,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0033,
+    "upstream_inference_prompt_cost": 0.00101,
+    "upstream_inference_completions_cost": 0.00229
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 196,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

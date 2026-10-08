@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907361-ovQXwc0jvrSYdVyALyJN",
+  "object": "chat.completion",
+  "created": 1790907361,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**, but this is a judgment from the overall color palette, not a confident identification.\n\n- **Earthy palette:** The barcode is mostly muted tans, khakis, olives and browns. That suits a dusty western landscape.\n- **Dark stretches with warm orange:** Several dark sections carry orange highlights, which looks like lamplit or firelit interiors. That fits a western built around a night-time siege of a house.\n- **Light tan bands:** Bright, sandy stretches, including some near the end, suggest open daytime landscape.\n- **Black final section:** This is most likely the end credits.\n\nThe closest alternative is **Killing Season**, which also has a muted, earthy look from its autumn forest setting. I'd expect it to read greyer and greener overall, though, with less of the golden tan seen here.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm picturing the overall barcode as muted earthy tones\u2014olive, grey-blue, browns, tans\u2014reflecting the color palettes of each film: Jane Got a Gun's western tans and golds, Legionnaire's sandy desert oranges, Killing Season's autumnal Appalachian forest greys and browns, and the greener tones of The Contract and Leaves of Grass.\n\nGiven the strong presence of dark interior stripes paired with warm lamplight orange tones, plus the lighter khaki stripes suggesting a western landscape, I'm leaning toward Jane Got a Gun as the best match, with its night siege scenes and golden-lit flashbacks.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing the overall barcode as muted earthy tones\u2014olive, grey-blue, browns, tans\u2014reflecting the color palettes of each film: Jane Got a Gun's western tans and golds, Legionnaire's sandy desert oranges, Killing Season's autumnal Appalachian forest greys and browns, and the greener tones of The Contract and Leaves of Grass.\n\nGiven the strong presence of dark interior stripes paired with warm lamplight orange tones, plus the lighter khaki stripes suggesting a western landscape, I'm leaning toward Jane Got a Gun as the best match, with its night siege scenes and golden-lit flashbacks.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5AoKEAgSGAI4AUIIdGhpbmtpbmcSDHPrK3ARYzzuAtU8QhoMmpa5TaCUNYHUoFmXIjDy/v33m6try/V80jv+DDUqbyXlZEcNMjCQZgGjy9CzATY0UsDrCf7EA7lRFJqebLQqgQpwE6a8KT7W6gT+qqGSd8oKW08i2Iy1Ns2Mxh7ncwUFyTZl/dfYrxNVglgTxwwf8osl66+AQ1VQBcay9l0BYE46y/0mJ2MEKd+n7FNff2vY5x4d/Wh+jMksrw/8i5Ht3HRM3h0qX8aBNDrH9+UtmmU6zzbyXlqVHvco4Dg2FVdLSoHWfwAeZ8MOL8s8ARcQmRoQxzk8Mg2sCqiazmsoJRX9qpDAIuaJHcffRcWdi2eW2t9rfCiQ/bgTpes3uDb3IsFiBLJEFkq3Iv39IYRtKFBK59YzQ533sDQlBYYWiJ3oJZkX3Olm76lq7JvrGFS3UqueBDJ9w7jCPo0FOikvdTpSNTpEKRrrLgJZIdSsambltkwZNH93+LcoGuin/muMAdP3zXgbe47PyyZ4Rw5BCDfBHtM2e8MgQN+wugpJuh5bUa6cwnQNqSDr083cBgjID3QBUINxYq3S9kOKgCaV+rdLxkFGIbfCo0ERhrAjLJSky9KqVJYZfZhsYogO/btx2SEc96o4gr/CM9eZgzSgyLR2D1wnBvf6xkKU7CjY9j8qxWorFklz+epJNPDhYVx3hyDh6pkpumxnKyWhBAEGZ3Ogi39c2WdRZAMnHk6d9utnLuyT7gVsv9TYeilamUn4uYlNxMNewUHnxGPqujjWRxR7LOBQRpLfkbgDc8tP4NxzIsjb1W9umc8o2tKw8ollm7+djxqCoYrvKyp6+i/OgI2oQjOQ/ZMtOdy+ytzD9ybRlMjGJXSJFwppX220G3t/3q78eyPFR4366P4pSleXde2lb7WaRRJZSOHi23zFu6AMbWDuwxvV/+dAaft7VanSfk60PTq55coKpJ+Czs6jZqn729c+jWL9jGU5iNbn4ZVlchMNDgvuPGqqL8JlwmJjD+7dCwA/lVuDSNVgcofoGkhDEzTbv3ZxoIooafs88nRqfeo2Ov4GXRRmS9Vzg5y7Zf2D+2RSTXSizP87Y2vTwvPeNHdK1wmm1Af/MgeTmrC5Gu2MjcZz+8w0jrNW7LHx7zUbromVus5L4middHWL4R1PHSboiQzkzCNI1LloIFoXTcqHJPLWfbYIK+fBK5To/ZifPs94P57kU/IGqbjGBVfDb0xFsz6YDKQCz4TSwvCGtbyJ13K+m3UmCLd66Z+jda7Pds6GjgUtQufvVXmkHTzkp7+0gmZh45BSStt3fVzx2GaPtMRk29Q2uqvvQ8iKXA85aWUyc5aHypIPIpFe7YcQXbg0P7WM65fX/W+keUKfAICjLJg0iq6LouVCO003r3kukIMCoJP/dl177J2wyDmIIqoJCdjDWtgqUfxq7a5iA7HGex8tnfQs0j6ztMe87F0OmBI0fSZs61Tchuyc032jrIoLJGgzA4uMagpwlWhnPoTexfRgpPpf+50v4wIWS54QIq2NQ9r7j+w3KgEz3inchKq/ejZ2sZVw2WufLWMxHcdRJP109At+2sdyreietT+y+x3V2ss2B+EFbRK9VwFugSB20FRqhjCUufc7Un43AX6HEJlv8J+EwJz5v4R9R/11jGWlyjKH15YU8/R0hAGcXErtpux+eD3ZK9bri8ROVbWzyXrUvnV79VCIiT50RpyLN7RMde6B0zSAOdiRYVcjyFvOqtXAl/8o0furUa/6cX+8yIqbvfE1K7QYncF6V7Dr3WWl6WN04QJjvr8PylNX1gNJphcITfu98z1yWkc8ICQYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 523,
+   "completion_tokens": 595,
+   "total_tokens": 1118,
+   "cost": 0.013992,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013992,
+    "upstream_inference_prompt_cost": 0.002092,
+    "upstream_inference_completions_cost": 0.0119
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 309,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

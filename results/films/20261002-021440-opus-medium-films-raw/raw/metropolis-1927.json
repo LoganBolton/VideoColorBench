@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-GqFNjP0SeRUMQihIjAIw",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess rather than a confident identification. The barcode is entirely grayscale, so it is almost certainly a black-and-white film, which rules out *eXistenZ*. It is mostly dark gray and fairly uniform throughout, with somewhat brighter stripes near the start. That fits *Night of the Living Dead*: it opens with a daytime cemetery scene, then spends most of its runtime in a dim farmhouse at night. Brighter-toned films like *His Girl Friday* or *The Passion of Joan of Arc*, with its many white backgrounds, would likely look lighter overall. However, several of the other dark black-and-white options could produce a similar barcode.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "Since this is grayscale, I need to narrow down among black-and-white films, excluding eXistenZ. The barcode's overall darkness with mid-gray tones makes me weigh candidates like Night of the Living Dead, His Girl Friday, Passion of Joan of Arc, Metropolis, and House on Haunted Hill based on their typical brightness levels.\n\nNight of the Living Dead fits well \u2014 it opens in a brighter daytime cemetery before shifting to a darker night farmhouse, which matches the brighter stripes near the start and the bright spot around 560 followed by fairly uniform darker tones elsewhere. I'll go with that.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Since this is grayscale, I need to narrow down among black-and-white films, excluding eXistenZ. The barcode's overall darkness with mid-gray tones makes me weigh candidates like Night of the Living Dead, His Girl Friday, Passion of Joan of Arc, Metropolis, and House on Haunted Hill based on their typical brightness levels.\n\nNight of the Living Dead fits well \u2014 it opens in a brighter daytime cemetery before shifting to a darker night farmhouse, which matches the brighter stripes near the start and the bright spot around 560 followed by fairly uniform darker tones elsewhere. I'll go with that.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStAoKEAgSGAI4AUIIdGhpbmtpbmcSDFDZkfc8J+5JlhapLBoMNNjVCWI+e/ERedVHIjDR6JFIPIa6Nl0qMQhVwWHOK2XEYsiSDZuZV9sEm3XQEcGYdNgbJXy2tWJ8wpvPiR8q0QnYbr4RJ+Zr9GtxnFpzL8eWT1i7ZtMXD6ywH6k/5SJCuvaMgqCIrJnBixzYYHoOQMQ/Se8AZFCVm2aPn69RkVFAibjvJsqOl9GXrwiCNyVVusXpJSXgQyN61Q1FMFk1BpmnNN+ne9XNHV0UHTcRbnbauitY4Z3Cd42fQrfyIUnpQxNKXqgMCN6M3bUs/xXz33NoHR5vsQELUpBc2tNlceTueTPLQVAlEfq87LZl7MXCLMab3IqHSeopkK5dwYSX4ZwN6k67xGBiBZTDxmMMtMbE5BUGjI4XwL3gVNjxpw3XYgESOoJ61iZLRjMy8Elf8/JL6X0webWHTgvXTWt/kUCzaKD9w59TWxkpdec20P0vp60LFv5hKBUJdVR1FuDNd+UV/bxlt44Lq/JxSIRjlK6h1p/KGfAoWojxJgvIggqZJtUa3yT/lt6vbIUlKm8uyGnT/RILLZEViVxV0E7PIyAwTZU940GkqnzpbaRalJOi/aX3QubLUXU0nNvJaxoO9KOVZ0tbRb9g6dRnvMir4RE0cSGKcNjhbTW2tOHLbXjEs3MFo3lzrNMt0MnXJCTsdXuVFZkqmXdCKQdjDIo0j+RFzhqQlQMdPrtoXnQbvc4WHJGNO2S2CYLDoXO76k4O3540BFAVqDpRC8Phs2KZ4hgkm7QiN4+FRVsl0BAyhqNrCTBq4tLhHgPH45lzgrQLtYu6cJ1mm+nYfO7eB+QpZZK8tkkWlkNEGTp274K4OcZTA2EYfp6shVVyZxCU6DEJLVXvjG2q117fBVLDkHzBMw56fdogr5JC3+K4Bp3XfPj8lt1XwR/s63+JxPh2SPkSFLxdff+iAZB+IMG/pZtUuQE/XcAh51S20YjCELuKTHkR4wSSMdkVcdJ0pz0h65vAYTBxolgtq/eRB7BC/sxuBMXIvf0X8ieVF7DLjSXym4wpH2yBqRpTtp2btljHdBei9njhwZKKDhjdTWYbQ2NSAu/Uj7HjuZgYTHx7cR3Z3goAtdSmeFAYCtFG87wxVAV8cAm/HxdbVwjtPRtZBtgiHfrcLc+SOUR9WK7+eI4nmGIJm7iR+wMZ7D6IQTb8x+Biup3UQ9d62ucxiwPhklYVpvaK61DS8Gx28PNzDWdhe++F6NlXv3G+WhZMkgtP54ufUBg/qThbZO0BpXsyU0JtQx8q9z2sauBBmO4YmkFz695GVfuxgevHtR1VdhrwLCFeUhRitSTj9NgLOM+NgtdYtdbKZJZ+uvYhp0O1zaarRjJ6LY86Elk66khqWJaGbo2oUKa2TgNTGQcv5gtJcPp2gSkObquVV4mBK+vWVnJ/yyDQyxe+BxvoEKSOPtLm91mEyvCDVW9k6fiRuZpIk6EOdsJKkPZaJBDuBqXyAGTpojH3/MlXEH4EratHLnZLIhbbzQ7lptliS0n0Exs5xNIr2AztZEoHZyHo0WkAWPElVY9I3A1IUGz1CbR1jc7vxO64UijLCSSGH4jvwo8H3VtG+svSGZxd0unTfbna9jI/s1ysjhRKyd9BYqq8FYDdxoouoj37HlBXMRGa/5VRBLM3Hu0zr8Is9zuadqrdNGkqCm+5v81L6O1IzApag4v5IZtJPxJDMINSwJBW1FJtcs68VpE0HGWN5nTTkzxc1thdMpaLkXUYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 539,
+   "completion_tokens": 506,
+   "total_tokens": 1045,
+   "cost": 0.012276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012276,
+    "upstream_inference_prompt_cost": 0.002156,
+    "upstream_inference_completions_cost": 0.01012
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 277,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

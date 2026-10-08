@@ -1,0 +1,21 @@
+{
+  "slug": "black-narcissus-1947",
+  "title": "Black Narcissus",
+  "artist": null,
+  "year": 1947,
+  "label": "Black Narcissus (1947)",
+  "hex": "#373634",
+  "rgb": [
+    55,
+    54,
+    52
+  ],
+  "frames_sampled": 5801,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "vK6WT6r_Tzo",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

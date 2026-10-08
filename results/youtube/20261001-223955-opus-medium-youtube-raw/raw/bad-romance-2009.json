@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894404-6T68LhzcbQU94QjIfxpA",
+  "object": "chat.completion",
+  "created": 1790894404,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess, from colour alone; I can't confirm it from the frames themselves.\n\nThe barcode is almost entirely cool, desaturated greys, blue-greys, off-whites and near-blacks. There are no strong warm or saturated bursts. That fits Adele's \"Rolling in the Deep\" (2010), which is shot in dim, muted grey rooms with pale interiors.\n\nThe other options are less likely:\n- **Bad Romance** has white bathhouse scenes that could explain the pale stripes. But it also has vivid red, gold and fire-orange sections, which are absent here.\n- **Shake It Off, Sorry and Uptown Funk** are brightly coloured or warm.\n- **Counting Stars, Thinking Out Loud and Let Her Go** lean warm or brownish.\n- **Attention** leans toward neon tones.\n- **Love Me Like You Do** is darker, with more blue and night-time tones.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm thinking about the color palettes of these music videos as barcodes: Bad Romance has sterile whites and greys with the sterile bathhouse imagery, Rolling in the Deep leans dark and war-toned, and Ellie Goulding's video sits in blue and dark car tones.\n\nWeighing the overall tone, Rolling in the Deep feels closer to the desaturated grey palette in question, with Adele in that cool, dim room, so I'm leaning toward that answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking about the color palettes of these music videos as barcodes: Bad Romance has sterile whites and greys with the sterile bathhouse imagery, Rolling in the Deep leans dark and war-toned, and Ellie Goulding's video sits in blue and dark car tones.\n\nWeighing the overall tone, Rolling in the Deep feels closer to the desaturated grey palette in question, with Adele in that cool, dim room, so I'm leaning toward that answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 617,
+   "completion_tokens": 763,
+   "total_tokens": 1380,
+   "cost": 0.017728,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.017728,
+    "upstream_inference_prompt_cost": 0.002468,
+    "upstream_inference_completions_cost": 0.01526
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 450,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

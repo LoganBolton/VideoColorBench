@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-SmzTvR4QwM6fhn30KPmV",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are pure gray, so this is a black-and-white film, which rules out The Eagle Has Landed. The overall tone is very dark. That fits a film set mostly at night and indoors. It is less likely for the brighter-looking options like The Passion of Joan of Arc or His Girl Friday. This is a best guess from overall darkness rather than any distinctive pattern.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "Since it's grayscale, I'm ruling out the color film and considering which black-and-white title fits the mostly dark, uniform tone of the barcode \u2014 weighing options like Potemkin, The Kid, and Last Man on Earth against how dark or bright their typical scenes would render.\n\nHouse on Haunted Hill, with its heavy night interiors, seems to match the dark gray pattern best, so I'll go with that.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Since it's grayscale, I'm ruling out the color film and considering which black-and-white title fits the mostly dark, uniform tone of the barcode \u2014 weighing options like Potemkin, The Kid, and Last Man on Earth against how dark or bright their typical scenes would render.\n\nHouse on Haunted Hill, with its heavy night interiors, seems to match the dark gray pattern best, so I'll go with that.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7QkKEAgSGAI4AUIIdGhpbmtpbmcSDGAZjjRA3J9znG91ARoMvDmz+ntPjZ8fUo6OIjCSp4YZH0xjQ2jvA+j4IIx9VN5g7YNfYhss8sj0rHiH/EJQB6e73jwCvInd3t3Bb2YqignQ4B0lQVAAr8hitIiNwxqSODE+TjkvpuMr5kaYqpUxwtIsToffqaYeTP9beYbvSxW8DJTtII8dbMxS2NZNKcFvK93YyQJFRj+6kdEVrW58pcTBkz5WU1fv+P+a21LJhuAXUEF8RZMMBe2+Wo2vsap8+oDCvcyJvIG9M+EZBFNvUE3qhPGkGl8sNsfPXRgf7VP4OXb4sTXPkUwlusSv61nkVmH42zTjuGnHQmWsiso2574B+chl8IjcdG5pqmqv3WjFdDG+qJpSIFnQ7Ghjkncp5NQlsrJ+WXcOgL/i1DUWNrcDbNMKmpRCYOvSjntKefBKb5JH3FeQ182q++RKWg4fIfg7nj/DTFcx9G7j3b+wjKtlSnK7CcmSQlpG6WBvOK1ZYhQ6Hg9uSdtM3PjV8s5RDEBOCIB1DFyYrdMdTt2Fqidny5o7EExcHuKKM2husAdkvEmW5ni6jQRU25d+bmMOyulVx8L5VU/AkFl7IlXDYRb6/wJYcypnrDe+1hM5O6Zo/siDQAQXpSicW3g76GLXSRjjwLCeInAExObx20qJonJ8F8nxRJWSsXXqvQdsVab97rMzzx+gX/lstj3A+xI2Lbx6QkJAYTwpNO9nT7yZUyuuVS5UHvfqaIP2DRlblNfb4CKkV1xWTueOlrJhzslQz83qTNSITWoOdHdcus0hNUIgUV4MP0fblD7BqnHR8qlGktdPORRWTHeZvuZuQ5ZRHovnL0Vubp9n4plUuDm2JQnAFeRWGV/Y8q7XPuYnRJuZAZzVr9bS5enO335GvLY4d83CD/1LhsgJ/W6bzhTa5M7h64TnAUgdPFI3jvgRPCVo9HYw+l072C02ncrQ5VCQwTKN1yMZRG6KBiDaVMDu94XUoqIKU+N9DkC9sz7rXawGpb80DPSUYYxycJQjuwE3QPwuwX0H7nGjTGxyCFcrIiQu1KzbqhVOKJ4k/6+uBN9lfjBplUj+uyGzQSnierSiS0fpeNt5Lo3Xuar/B00QDEdYkaHbGQQlb9zn994atqMrVLsydfY5m5HJf9mJhdWf9Gc5f/G8siJUiUH/romWJLBWRQP80L5Ie+7gCf2eNr9zhtoz3S6ubPgWvXZv0b76mb3ZYWyWSWTEfteRNoIFI7BEsoXth3IeXQtiwY9nuROIviPjl+2cvFXnCs6oDj/uoXYGNQoUo+q7Lt2X4oI0FBEam70SK1FxljTYlO63bvK8fk9hVCoNJ4oHFFrpkZduenk5+LU4OAkcWb7716AWz4yZts2wSnvaVE8mzZTUZ/q8ixBdDP2sWAhSAeyBD++OuhY6UWuKPtXFPlob6wEp+saCyTMIk/06iWHOZm4wJsXgcWroAqIPMFAw3S90mKcrx+KLG02cvoGurnBwyFKeHoDgpM/d7EY6vEoHvGpScGE93yiGmUgeQJQpBoSN+lExz6N/v0CFkb7JzEsrhr7DoS0yv6fJwx/2Pp1qo2m5OwdbXsEvtrvnejH877POBg7tGsQy+NlRFuru7SKeuyXcs5X93xpnCsM5IqMCbNe5jy3nV6FdiVMh+ONWGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 546,
+   "completion_tokens": 400,
+   "total_tokens": 946,
+   "cost": 0.010184,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010184,
+    "upstream_inference_prompt_cost": 0.002184,
+    "upstream_inference_completions_cost": 0.008
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 270,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

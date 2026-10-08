@@ -1,0 +1,19 @@
+{
+  "slug": "carnival-of-souls-1962",
+  "title": "Carnival of Souls",
+  "year": 1962,
+  "hex": "#404040",
+  "rgb": [
+    64,
+    64,
+    64
+  ],
+  "frames_sampled": 4980,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "CarnivalofSouls",
+    "url": "https://archive.org/download/CarnivalofSouls/CarnivalOfSouls_512kb.mp4"
+  },
+  "artist": null,
+  "label": "Carnival of Souls (1962)"
+}

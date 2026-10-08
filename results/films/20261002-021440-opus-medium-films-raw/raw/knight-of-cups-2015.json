@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907357-VVTJplTyspZeEOmwPEHE",
+  "object": "chat.completion",
+  "created": 1790907357,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode doesn't clearly match any one film's known palette.\n\nThe barcode is mostly muted, mid-brightness gray-blue with little warmth. There are a few bands of saturated blue about 60\u201370% of the way through. That desaturated, cool look fits Southpaw's gritty style, and the blue bands could be arena lighting during fights.\n\nI, Frankenstein was the main alternative because it has a similar blue-gray palette. I'd expect it to be noticeably darker overall, though, and this barcode isn't very dark. Brain on Fire's grayish-blue hospital scenes are also possible but seemed less likely. Draft Day would likely look warmer.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these movie barcodes, noting which films lean toward desaturated blue-grey tones versus warmer hues, trying to match visual characteristics like brightness and dominant color casts to identify each title.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these movie barcodes, noting which films lean toward desaturated blue-grey tones versus warmer hues, trying to match visual characteristics like brightness and dominant color casts to identify each title.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 521,
+   "completion_tokens": 685,
+   "total_tokens": 1206,
+   "cost": 0.015784,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015784,
+    "upstream_inference_prompt_cost": 0.002084,
+    "upstream_inference_completions_cost": 0.0137
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 454,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

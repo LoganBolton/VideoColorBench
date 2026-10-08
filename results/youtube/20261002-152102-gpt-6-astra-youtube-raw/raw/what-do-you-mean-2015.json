@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955138-xU3dGR0UK0ys48b2prWL",
+  "object": "chat.completion",
+  "created": 1790955138,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Recalling a ballroom setting**\n\nI'm picturing a lively ballroom with plain orange and warm gold curtains, complemented by a blue ambient light and a pink floor. As the final lights dim, there's a dark background with a spotlight creating a striking effect. I can imagine a barcode reflecting against the mostly black backdrop. The space feels vibrant, almost like counting stars in a basement lit by fluorescent lights with off-white walls, averaging out to pale tan and green\u2014not quite this black.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Recalling a ballroom setting**\n\nI'm picturing a lively ballroom with plain orange and warm gold curtains, complemented by a blue ambient light and a pink floor. As the final lights dim, there's a dark background with a spotlight creating a striking effect. I can imagine a barcode reflecting against the mostly black backdrop. The space feels vibrant, almost like counting stars in a basement lit by fluorescent lights with off-white walls, averaging out to pale tan and green\u2014not quite this black.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86R-PkhUZ2uadtN3Af-Mx9_hbcQEZlpSSKtX04pVV0WIQeYQeV1ymrdmE-tKPqhvNq7wmWh7NNqNkTbcGgf98HUsbcbey9ZK9KfQifotv8g-oAP_lqPGrKgD0_VPjzSQOIA4C_VEfOQBNf1qz_xAChDDxCg0tx3rPH8_j8bgfBz2KeDXq8bGF7UC5N0SDGjT70sAlUHhIGIlfYgJoUjTGAxP-25m-0c51t2X8oQQzvkfTIzD_NdfnHd1uwpmnwrHSLCUebn8ZtGC79b8et4K0zYq-SeHgHUfCAqzLbFHLoirw0AWT9GJ_rRoFhQ6mFcF2NqK7zuuqzWU2aiCDtsKm9LJDbK1JnmKxWhc2QkqMwlwMoypYkTGCFZbg_emKXOfRPj9ry0H2jnBlphuZex7q-mI1Csuok-RAMJPzSHEMkpVMliTwlUnu3bbCCQz5iwDM2nJPdRd5ApGR1k7vt8vrrNsZt8qv1xjgGugsw6Z4w3mjO5VkCkQKe2GCVY2eFVQWTpnYH_2tbnaiFbs6ou0RrES5aMGwCKg6YDSXE11PpVM4PhB3AC5ibq9P4d32zzk_2ID8Sa0jxCsQBZj1Br4W-_HwXgneOSmdLVextwWm0uIKKJpmHp2uw2HMvhkMcwm2xenlm_zx2V3BmRvJmoEsTgszw6wYJGBc8dmNfvOyo_0JLIdJhOjzffxpIo31pFS81VzmUUWBBiuvDwr2u5eozDnKdLseZc23d15QTOyT2y8o1bfJjXzKIYR7vD5cIppCKXj7y3Sn5khfmBG-7ujUx9KRnyO8HQfTXO3rmg9XbWe4FFotepqlHtw1bWScap36OjNW_4YwBv49ClissXVIKixAAaQRmlz3t5RQYoTJEPP89koA1ZR9KNSpB9PsjVtP2twGsM0DfyLk6TCf8RSB0pSzdSAgcPQdnz-p0rECFP0o1-hRcPGhFm0spdP3FPzz6gK8axByXPky7IUekHr4yOogyQldy7Ef6VEOb3r1Z-_1jXoLAHfXJXlEiiKh6Uysqla3wK38Tdo24plGVqALBCXEoqcGbFUlWZPLbaTprDtRqrNd_LqiaFDSjJAdGX4z0WcqLncxsiu0DoZoImYGTDxk_AW5PtdjxI2_qcq77RCbfLYAfEsArevyp6ALKOMuqZdONJG3lyykK1Zow9gAlYMHBIhfiZNMGvHgK1Q7g_C0OifWLZwNFGGX3oWHyBtKJIiOqY11XrmmZoLieuHbqDp53pHBtKMlsRjnfPn8ITvm2Dx7kmDyg7ZM4Bi1Ms28f3aQ7H1WupQB00dExMddAR1nmO9hnrJzOX34puDPGoAoX-4MNsGUpGOBoKzauOMtMYY2I7Zrwyq7UDgFl2ItMDNvQqOdn2yha8GmTnk2lU4e3WKaaXMaTBp3piBheqO36gPO1R3YU6pMNAQdsZ3aKaH65f2aWDX1ys8Bx70X2ioPxdtxdn9NXs8RSfHFsmgKeH2QunBxge0LiSVCry6awN7P9I2uKEQZvcsx4kdo6OCtEKdEDts4S9QmB9Ds0oLBHSjTuqLW_Iy5pxl2FLYvZ9ov6kitSYUn1kY1sY3rRvrAzaHX9hvOWJWoDqfIFBfyuevChhHSsO_2vpEaRUXsFMISzNzaYaJRUgEVyEn9cUQxA3hzsRSkqitYvkZoyevl0fMlvpRrMTeRVE565b3I7WrbF2rmXi9U_ADkkdMJFEDU5LMnACepIBI577sBy7rJQ_RXJkF72tDUqd6BuXPkTsNRs9FxfY2EwrZ4BP828eDMHX76Zl3IwKmjpobsbGSl-4ycn0e37YxswVj9QpycE-Bz8jb8zLR8HokKRQEULEkgvCoktekZQhKLyqXOnXXtsPtiF24VNo85Yc_vh0_POHkZCzqSTyKCCMkg5SfP_7qLhIlJKzi9ShztIb6B-fLrmdRQcnMVdJgwLx3LZJZnsu262gLGndkS4Hx0qh8QG7UWYq6nttg8t9MAAiOaaX5W4oAZLfRqpji91IUKhUzkSZjr92mJjiVZATL-NXqLA8VdFKQ5kqz0nwoiMkg-ZhEkxQmOo1obf7anqIE4ME6Fj80PEkVDkSz-aKxutPZl5l47rx5dE9hjliCwhFwyXq_FZ32i9JDhjFXZlk3U2GfgQKrDTqDOEiXcU1X13gOOmQml6HDCvdU3_nzrZRvGZtHHobD5zP2tCCdwPDY1sUMnX5tqoSvmZHVw6nFXQMIyWJ1Qew3W5dFBAVRizN5HV5jtsgbW0u9Qj7HzJEhQmeP8PsZzzXkp2GqfuI8pLdtYsmR1iPiTwh3wkDVp1uh7wle9Y89m-Hd08tt8V60Aw0M02DMZAS8r5rSGiFWsobQ722PFCjUhnH7FpeojvbO9MJWwj5BD-p6AL1r_a0yUMDhw5uUf0VcXLXZquiB-UHa9v27a2wCNaObuCA_3g_wrJhbtkGFb0zdtp5LsGMMRGM3yfslyCTCJzphowX8Nn6SzJyCpifnkM_JvYH4lpNczsCzdwrcaDGd59axQ2C4rJlKZ9goTk3F_cFxgKDuAyVBfCzJy-MpvSbh7FX3kqPqJXJpULlE7GivP66YPkkQr2uMmA-nsHupYnmkSbDZQfwiSXzKmEEqD7Nbm310I2gnmcgd7VtqooEBRhPFo7tFzsyb1_ccKAMS90g-kcoET_RGZYOHwHff6LDwRj1XdInn1vLdDvKUdE5Iteq46KMgO6P9GmGxthA1jQuoiu5WlRauLj7R0rTReboIg6iw5LlVGmLKIHXiSaNLR2-JCD7A7kaJq0jKusT43ZwT_Lc7CfYTUTennggM0nBuwhYxHFviRShQuuQdE7B_yyN5u2dR6xpjHiaSbJTKHiMOGB5RI9n3apMcEDn9DL3u3v7SqfKwCVg5SqrHwQpVL5P9d9TH8iYlYIPo0C98ViNZsvvYz5CY4Jc4cTP4mtt1QrDGn3zH3uFWDLfsqioLseGZ0ZLQcwiii54Vv4vbTxPlxZyp9rQ7U6BdBg=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ff1f8b76d88719b016abfce849e0087d1a50ac881fed3cfc6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 469,
+   "completion_tokens": 263,
+   "total_tokens": 732,
+   "cost": 0.01784,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01784,
+    "upstream_inference_prompt_cost": 0.00469,
+    "upstream_inference_completions_cost": 0.01315
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 254,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

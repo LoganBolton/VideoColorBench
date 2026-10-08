@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894414-cNa08cqqhUucDlsxifsO",
+  "object": "chat.completion",
+  "created": 1790894414,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess between two candidates. The strip is entirely grayscale and very dark throughout. That points to a black-and-white video, which narrows it to Adele's \"Someone Like You\" or John Legend's \"All of Me\". \"Rolling in the Deep\" also has a dark look, but it has some warm color, and these stripes show none.\n\nBetween the two, I lean toward \"All of Me\". As I recall, it is mostly set against dark backgrounds: John Legend at the piano in a dim space, and Chrissy Teigen dancing in darkness. That fits the near-black stripes. \"Someone Like You\" follows Adele through Paris streets at dawn, which I'd expect to come out as a lighter mid-gray.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these music videos\u2014Adele's \"Someone Like You\" is fully black and white with brighter gray tones from the Paris walking scenes, while \"Rolling in the Deep\" has a darker grayish look with hints of sepia. John Legend's \"All of Me\" also leans black and white, though I'm trying to recall if there are lighter moments against the piano room's dark setting.\n\nGiven how uniformly dark and gray this particular image looks, I'm leaning toward it matching \"All of Me,\" since that video stays mostly in a dim studio setting with Chrissy dancing against a dark backdrop. I'll settle on E.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these music videos\u2014Adele's \"Someone Like You\" is fully black and white with brighter gray tones from the Paris walking scenes, while \"Rolling in the Deep\" has a darker grayish look with hints of sepia. John Legend's \"All of Me\" also leans black and white, though I'm trying to recall if there are lighter moments against the piano room's dark setting.\n\nGiven how uniformly dark and gray this particular image looks, I'm leaning toward it matching \"All of Me,\" since that video stays mostly in a dim studio setting with Chrissy dancing against a dark backdrop. I'll settle on E.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrwsKEAgSGAI4AUIIdGhpbmtpbmcSDK4x4tsYA9Nv7JoZqBoMsWbPOGAAIJo+9UYEIjARg0VoWY1mgfCrJCuQ79kLVSbKmW4zwYPda7DnR3e9+9bxTXx0wdqh9RNr9Dm95WYqzAolNQK4d/twSDSiVar3I1boTK90Zyo35KN2jRZP13uXQ4y3etlfdrZvnMu+q7JtVDNPeXz3kbFV8kyzhErQ18OKwYTRzViS/lSVAb8ObkZFcbuaNHBuFO/d3s6B0i/ZQY1gwEI5oD1GFpQ2SKMBlgl89JjyONo5jH3tHvNwLogJf66F4glvQSCWYZEtPAO5xoXOl0Q27Qd1BeGAMV74GA9+chZXcsJ6tC0E6zOESpZ36On/I2tChIHSUoPAcqA2LIUqsCx+wuAChNTF4dR6Z8RE9DI6lgWKTW29zVDKV6usGxFXv4SZtwSnox0MjrOvFM/wQ1RH22w9UAF3X7NH0GeK6Zx0Vb93zOVrMl/NKbEJSwdY/fPnUmqcIDTIYZvnmqpeRYfSULWpcktPNqwoXhQcK3lqOJM7Y0TkmDZUSwwNmVpe0zPuAjkGaiwbJTi5ZTVw0nLpEhxjGr2a27hkTn7uFhxclArZ53+EYlXW6FY+Oijd+iuCi0ZfHBpqIJ0CiDgYLhi0TXNSp8yDtqKWRSY9UVpBI7eh0hXw4Jp4uvSXyut4W/9VYVLjJwxoB4+SESITw6ZDb2k63q0le/6q32Ub5fhuruqKPnJbGVYD+nLU+VVIjOrwAGXp5wYCSlH4bJ7RCmopFqYm0fl7mjyODUwAXI+lIB1+y6mzQn0OM0X/PxAw6kKqCbls1nVivmPTcIUcDv+uLpOuzg9KTDpj+vAHsyEYuMjrp7B/K1pBjbEUS4dHGZjoeSIOeSQVaOWtPp6dqWaXUKpSzDO4woHsszp9d/7XKgVDsKENpKOt/oEyU2r9/eKZ/vXYlEy/P5ZzHQEGqfxpswdghPJd1brs+0PpN1xaYFGkMcBBj/5kT8uEQrkSC3QVszNopWKCO5xg2sseN9hjJ781vriyZm6TaWAVULl5l/kDStwL0/XbKOnM9SjIWy1mNKVUsg83Y+P/ZVZ0LqcCAVVedUIcqAp9UxGXSI4Zy6Nhq+lMOMQVN7nJQIo3BRE8NtT2mH0xphLu/FYRChmUZMl5EaT8YGyZ755SZ0+hpJNeMWNzIp+Vu03J5JRIWT+HvIb6Q2z6bTfYo1drnkCA73AADZqLqZW49rvnbHdMf1HJrXwTFFhKAI1HtTCryGMVswYlyEWy72v/dFsg5wl52ei9jiVVU1PjupKVDgCDrTdGPW+5xZZ5bzgBxo/fwNuTE7UK/pnoVodEC++yPcXvh4iq+WpmTKs2RVlMKRxgJgzGE43xz/tI2RM/GvQC6dSbOEUeNw9SlN7A54nIcNlxDgNQTOG1TsqwuJc5lxTlYEz21ixuoVRL2u8JZyVaSkmiHuB0DMNixeHaw23G/M1tk9L7e1qiERYF28RnB/EqhKx+iPK8ZRKG6H64gtqzJmdm9a4UDdHzbRQZC6mjcclCT57nAlzIf78lNFRLSnqgtGLik2hP9EWMBaDDp7GEQhaRMroStwXHQHTgrwFykGcR4D9JBJHLMg7K14aDkEAbpD7bPNmrJIEA9Q5F/ck1CdxjgbG1OqyRpJOyKzhFn5lDy0Xdb53uBBpc4yVLQm/HRMWu6b/m/gvl8ceI/9LgUz/oNlqL0n9pcH33qs+/3WjNy5EKP/aM5APvqwV1WqP1/1U6/iI5/l5l37vYkBZmBgwY1RxMlWtrfMNp9NtQR/qH1OFTq25wOLxNYhNdnnduUBfpBa2ftjpeami5XLE/zKJqENldGksFsnAHbgUr8pZTVgiQgsVtofV8QN5fld5Ss+W9ey1SZTFc3I6yIME1rajXdc+kglETh98OgrVu2EZ556I1V2XLxRgYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 591,
+   "completion_tokens": 565,
+   "total_tokens": 1156,
+   "cost": 0.013664,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013664,
+    "upstream_inference_prompt_cost": 0.002364,
+    "upstream_inference_completions_cost": 0.0113
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 328,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

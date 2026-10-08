@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894491-CJmKF6r5hmsRt0o6Ll81",
+  "object": "chat.completion",
+  "created": 1790894491,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Despacito, though I'm inferring this from my memory of the video's look rather than identifying it with certainty.\n\nThe barcode has two halves. The first half is muted greens, greys and olives, which fits daytime outdoor scenes. The second half turns to warm reds and browns with occasional blue stripes, which suggests indoor scenes under red lighting.\n\nDespacito follows that pattern as I remember it. It opens with daytime scenes in the La Perla neighbourhood and later moves to a nighttime bar or party with red-toned lighting. Of the other options, \u00c9chame la Culpa tends toward dark backgrounds with colourful lights, and Felices los 4 is warm throughout. Neither matches this split as well.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The color barcode pattern\u2014muted greens and olives shifting to reds and blues\u2014matches Despacito's video, which opens in the daytime La Perla neighborhood with muted tones before transitioning to nighttime bar scenes with warm red lighting. That progression from daytime muted colors to nighttime red/warm lighting fits well, so I'll go with Despacito.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The color barcode pattern\u2014muted greens and olives shifting to reds and blues\u2014matches Despacito's video, which opens in the daytime La Perla neighborhood with muted tones before transitioning to nighttime bar scenes with warm red lighting. That progression from daytime muted colors to nighttime red/warm lighting fits well, so I'll go with Despacito.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0wgKEAgSGAI4AUIIdGhpbmtpbmcSDFYQF02qb1JOz/YojxoM8llj+Yb0LAaJjpuVIjB+cmE6uNl1skfD90ZO4hhiM4PVi8zdbia6pP/irU4gvX6NjrqersYYlvx4CgKhvvoq8AcyO3QrrGEmYS0+O8K5GUuO+/H2QTIP8lmhIS8SsXVddlLChLuRFkGMkgnxTr1bcWtLjENcGhVFmYkXhh6WpMmwaKSyOa4iJd2HlMq9/bNtSKkxwhTQC+xyULpMl21kn3/oTIlIn8Gae/31tYr8wO7wVtUtFT2OJJmH8iJf8E1jXxfDMA/vU08vaeTR6tijbKrs9mmc6wfWHHYxqN8n4JKSbeR3K9gTNDbZqpSGQzi/NKYYEHkKZXFZqowY7WLMJk0TaiMIuHOir05EkEUMSIWqwaBs2RdnGxnuEHV1xLJuwKBAaKiAARzsUjOhL5DjiFOloOlPLrV9MZj5smb7i0xA0+zNyF3LZ02KVdWxvir/ln7rk2qgKXHySk/xOwoRtpDW9igDsntqImHEq/XCb5W33mCupF60F5ymDIx56fsPhd4ndaoPJ3Ih3/SWP66oqb+rUDT2hyqkgvciN7u+w2uwJjkROF5k/GkAnTOf0lqP8BikMeS58yNdrh4/OycfLPtAH8BBZ90SMfPxWtg2urx2EISAeA2asTCRGeiK5bQ/eYvn//SHlkR5uL9g6eBxJTxNSEj/KugbyqAPhinxSSeB32hN14Ps31xqRR0tq4fbEYJYS+yfXyHyM/ZLGAi91bz58c/X+6+rEXGuvA2wQz3p86/Ug5mVL/4AcSdKBhcp9hQ83rWGiW/6PwPsYHDFizxSMHQ7/S1I95FVoDK6vUe+XkPSHoBW8RQy0xaDOo+bVd399THN68IXtwfzdEkg+8b6wGeVGdPkuaCxgOhsV+AI7UH95w+ARiRuRDnOUCKWmjzc99+r+wBQTyeeLV8oDingKP46+bVram89bz/doSsW0NN68MYJPqCAMXxqSGPm+oEObQ1DKHBV7NZFRGaQhDsUxw54uXz9IF74wdholKcu2lGntFdySDaxvNAzXjnIduUYSsWYCOuN5sLXtQmhCy/9GYgzw4on3Z2ZNmpxHQx5d7dd3d1l9Z5PCCt/bQw8uBgqL1HEsNwD9FzT6ay7tBcmjT7yK/bUrDjQf6gKtBjNHL/d46m0jmGTet/tSFelnIPGFiIjastaAlkRECBVGVFxnEO20rRGVGkxEmt3g4wD6kZ8jbP3TIxpONbVlSXTNzMS3Ho2T1Mw/yCRBvZZP7BDDHnzONRio5TuUN5xdV5B5Dd9kVARxr1VTrfWPtWc/MlDOpxa8GvNThLUCL8q8pkMBQbn1F9MDm7yMK0xmxFU8HgU3Fw+ehNNqmlsN0nu72AsUlpwcDYIooiFkNwJzTLcF7+USkQz8UZ+TvDRRDzr+CKRTiRQLxfqYw5h5XrtUWLSeWmMYqILPs0aUqK/zLIYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 437,
+   "total_tokens": 1089,
+   "cost": 0.011348,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011348,
+    "upstream_inference_prompt_cost": 0.002608,
+    "upstream_inference_completions_cost": 0.00874
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 193,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

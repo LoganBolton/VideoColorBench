@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907242-ef8lb4D6Lsc6AOVSjMwf",
+  "object": "chat.completion",
+  "created": 1790907242,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Haunting in Connecticut* (2009).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing films and runtimes**\n\nI'm considering the films \"I, Frankenstein\" and \"American Animals.\" I noticed that \"I, Frankenstein\" has a runtime of 92 minutes plus 9 minutes of credits, leading to a black screen at 90 minutes. It seems that \"American Animals,\" isn't as dark, but \"I, Frankenstein\" feels hauntingly stronger. Oh, and there\u2019s something about the destruction in \"I, Frankenstein\" that makes the lighter daytime scenes in Houston stand out more.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing films and runtimes**\n\nI'm considering the films \"I, Frankenstein\" and \"American Animals.\" I noticed that \"I, Frankenstein\" has a runtime of 92 minutes plus 9 minutes of credits, leading to a black screen at 90 minutes. It seems that \"American Animals,\" isn't as dark, but \"I, Frankenstein\" feels hauntingly stronger. Oh, and there\u2019s something about the destruction in \"I, Frankenstein\" that makes the lighter daytime scenes in Houston stand out more.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxN3FaRH-nny5O8-7M-sa8wgE1pv27CD1r5mYejR_Pk4zRBR-mQPjalP5bs5sNDadqJCooj7LvZXJk1LSppAS946Sp0jLTBTwDYulNfoIX2sVZo6Et0P7lFFULAB8XFU51zA-fhxs5KvvPh6lMCDxwWXGBYDksQSECdiUNpuOMCpHBSGIsEFtp22zL0WYZseq7e8qXehdRpyLojZvrCBy6mMhImK5URHOE-Hlt5EVXaALuKhn-Dwb2w0QTulxw7fQ4VVG7y7bjqEm8FG6yd_K6N0U6v_jbGGJh-60LX_6VFQ2-zywTSZfnB7WTf6xL1-s8JlLBh_CO1ySuAWL5i6YicctyKEfMmawAdCoziAYzXQNi902cdSRMCZg9Jt5kJ0pgpJ2lspM70Trb6bX4yYzHzjA4PWXt8KHHvR8GpGCYoQUDoi4F4PQFbChxpEJr4p4uBB_yN3rTcYtEUM7XQDMHPy5HAsSnu4TjhC_ZBPnD0w3GophJHFTnU1VFJgj4XiVMpFjSbiQ9_0Zi76NDJs9rxxS7Hb-GsFb-whi3YesrS9l0fFXgdHsSr2w7G-XaI0oi8G1UQs3BAzyh03K_cxXWHm6nmlJO_gokbHGK1LvIfn9c5UJmxK-zC5spiwJb39b7biVroY8Q6I-2aDQPd7WIMe1xCZCu09rz5vGy1fbmN8xR4FngoCjreO9p9yifHgdtilVLbbb-oDSjYuzhRO7OqI61sgfGEMEjO7oFnUOt0nDJ4rC-MwNxccpwvT4n6RFyM1Mxyuw6_-XK6AsiG6vhYTFOq4MNsF5llX9dNQ6p1STJjIkl9XoUhGqlCDX7nHojgWNyalhi--Xm2eUVShlH-URUJvewBjvMaWvXwq2n5j0mMppSDIVWVYUt0EPsDCrRwAc61m2BuJTPKNWrrb38F6SvJJp8sL_3RRmG9pKkcOXRe0Ds6Z7F24QrkHqzdFYCP2Vgfp_vEJKhXCI6xk1c_KPq9qJ5cIQ5KS-EMeswbTIzd9H4FoozNuvZLcNXNwzeFlYmNNiUxEahqeRdAA5sDEjr63xoHJ68yHy1Wdb7A7Bw6EmBnATthAsWAQF51-5PxJKF_fYFy9CznrDrUGiflzM9ETaq4Pqd3NkL2gssVypmAvyX_JLSiWqkWt5YIOvaAETXDYwDf3MPMHWM5kyfbBJrldVA1rFghpHnbgQdEiRFzbRd31XevOgroOvclnyokFqisauf3eGLu0Ix5P_ziJiwH6MnSdZNccVHdQEzjOf5ATRgnV_f3XReNHppQNqf0eavUD1vz9tfKP5bvhEwijPZtEsXoBLnOrbssXRntiZO88OqW1rMa11b2rQq6dOstIl38wpJsOxdpf_rJDAACAQktzrsRbZZdwekEhuSnSobXF3XSp7ArDpuHdccOF6i313gbGKwEdoBaC75LomoYmLiwKhr_BA8e7EhWmDILqbe__LgU5tqt4lGGJrSXtwnQbIEFX0XyKI2QIuka9HZEzz1UnOo4seY7xzKwICH4ywiL6DFBJLpVlrtK0lDHo8iPDRwhVUfJmtPxGdjOWr98BrJDHbjjJCeun2g5PrB8lUULFeilf11VeO4Avutm1A67lROZJMdCqQOBKeRP0VSpYuK7LGgAnhcVzHb4J00LlkNEuMGi1cS4TosNaNgCKtgCznJFt05bW8O279X3xm-EQox45fwhY9Udnq8znu4y8yF1FVC7F94aPTHyJ_5hkqXjVRjy4h47d2KAgnDBkl-fQ3nx7GV6MCpChEkRbNzpxIiIAJ7jo7aQzPLgWknTZjGzB4IWxqZM9wsFKdUNqImj005QRyTu9GeJPbPVHP8IAG5Ff_ErQHyxLowJdtiwC7FribzQ-XldHqSm1i96mIPbqxcDe1GHIoaJSDUYcSNl0PN5Q6k3K6uh_Sy984jHVsTTAO2ljuA3SeOsI-Il5vFF4hAWAiVptCZ7OcTV-gFjH90djdzYMC3vd9lf3nBxlFLJ1FDBwRLRhF66F3bNnN0CGtL190dnzDggjbZay-1HrIbGp_QEGba9Ob5GvHMUt0oKN-TYxIyaamRrqix4vp02tSOtu-JwbTOJey553x-CeeJMgHj8RNjkSuamJoQ9PVBBXgZsi3NVT2rnU5iOjy4rKpJtFp9TyVr6NcOvdL2mjWZIYxYfV5WPRVNKV4BSD7avfFPEPOV6JIH0sLVY6B65clrwNc9Ns5CPLUwXnoOJ8hQ1QdEaH4XUGCMFt_Izdz6PHxlrLlGDYgOH_v-PO48jGLGBiPs7tqVG2nowMlk2fRLroIc5gMRhRZ29BQurOog8AtyG8yd2NLK2oPV76I8SBi9c05z3dKunUxllfDPfixdI1ml76yPDcJTSAUwV_qFsZkLD8Alz3f8lZG2jMe8umahehaacJyL0HRTJMSTz6B1sIIL6g1LkeBl9jP4LXXScIK6uTGPSvYIcn9MwnX6CX6iFyiQE_OvN8WaydGTm6huf_FUJo-WleZ-W0BhQO9enojJcgUsfRzXQX8kzbgwulxRBwv9duvQhEzXmBeTwE5iNC1w1L-dLIMwQpZRcmQUiJlOoF9Wd11IFFUftDAs2GEb9ODoERd9y7UEe5M7HoyrEW3ojkMHha8Oqz-jVd9dynuf803j0bfWQSEYi1hw1gxU8im62uGw47-AWkBLZ9tLVgG4oxSQVvO4lQQvi7IvIFOnlD_bPRCdR7NK_Xi54QRlGxjSYOKSYsth5q44O2vbg937yNOycn9MrCj8cOJYmyjykdb6rSJll9S18z3pS7N7XHA4uSe4CBFGz6ZMI-GU3e91YMrzHJugoNivqRMmag_2eX72-r3DFNxgkcQBa0IxW9M85kBVpPV9fijEscL-4_Rtz3hWX3WpvYa9lQyhi765Pi7Wa7dJsoOPIFM-UqycHmzidtDvPb4W2Byv4-f33VVvxjc0374b0w2KVepQV-TJq-Y-OxO2VGn3stEjnsDw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06dc5263326b6a72016abf136f172487d1939810121a90bc39",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 292,
+   "total_tokens": 719,
+   "cost": 0.003774,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003774,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00292
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 268,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

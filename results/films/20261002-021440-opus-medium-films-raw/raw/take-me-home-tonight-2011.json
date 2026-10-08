@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907347-wpF73L4cfZbPn3fRpsWV",
+  "object": "chat.completion",
+  "created": 1790907347,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess based on the colour palette, not a definite identification. The barcode is mostly dark browns and blacks with a few teal or blue accents, which suggests a film shot largely at night or indoors under warm lighting. *Take Me Home Tonight* fits that well, since most of it takes place during a nighttime 1980s party. The other options seem less likely: *The Importance of Being Earnest* would be brighter, and *Leaves of Grass* and *The Little Hours* would show more green from outdoor scenes.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm weighing dark brown and teal tones against each film's actual palette \u2014 The Little Hours has too much green outdoor scenery, Fifty Shades of Black leans grey with red accents, Take Me Home Tonight is dark 80s nighttime but I'm unsure of its exact color cast, while Leaves of Grass and Earnest feel off due to green and bright tones respectively.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing dark brown and teal tones against each film's actual palette \u2014 The Little Hours has too much green outdoor scenery, Fifty Shades of Black leans grey with red accents, Take Me Home Tonight is dark 80s nighttime but I'm unsure of its exact color cast, while Leaves of Grass and Earnest feel off due to green and bright tones respectively.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxQgKEAgSGAI4AUIIdGhpbmtpbmcSDJvUIpws5ChE/2iZaxoMmlSF2f5eq689R/5IIjCUov4LPwnjh3eNWMSX9o9JVebwyBxKydSSx6PN8HqP1aiv1OU6LU6LP1sjtcnl2Vsq4gecmpMdzBjsjMdUPdLBy51gTVvaiRDF9aXrPHJhxnw8Xph8WwvneuijGxtFENdA9tvoVW6Mbdfa1DyebGlm01oit0pmM4VGYX7F3hCwIVjzckM3K90P3P/GuSStT+fi2M+NMKXkj6RV+D2L2OUhI1aw/uzTJ+a+dgja4SYb2sv056pYZXjjKN85f240gqfUmQLkB1i4HlG8rt9nEVbW1B65UxTwpV5tBhVzgxq25alr1OqzjFb92AfX+K0rCpsYAAT8PsBixhfwUIj9K1MM7f9O3kSmXgw5lXNNmhP7r5LwwH03g8BxYsaUC8Gs8ZkzQhyskJtapC5SVlYGdKVPcJO/h8s2V0W45tAbZ4vg8n1xjwRt3uAR50sZWwXqv9GC9vk4a8q4KL4dNz4pgaC7KGmwwM7/0OBU3bGJPI2Eto/fF4jj9J2g20jhsPpEkaK+5WwZESUgW+J9Ghg+9RQZcIZ4imLAk9/MPfDmQngtFaCEyAzsM+CnwoR+/vJiWZY0mutHwkqXhtPKQQRkwSlvSkAIUPyJet8h+ZWmiTD9os4qil51zcbBA5WgdGF6t++hqm6+ibpmtV0Y/73Gs0Xid8wnnEZxrVWEe/xWoR4kZysXRqv7/FmDbl0rPJcsIFKcnvAbiJpBGHT/VQQHQI0saC+O/PPIwh43qzx2sQ3Hya5QVjdnt6xCU0HM0Lfm1NiHi1FmGOjNNpGENJDs6GEM8AXECLxAJUg1kFxLI1IA6x4WStskposIhii9fVcntn89NhVYnfFJQhkNWQYSmjO9O4f2cNqB0B6msvDCoWHaxABBBDebCuilZsEeIEjPtwBhnP9VJzfybn2Bjzae2AAY3QeHUisciotGyc2CygodaCiq8GPYdrN6gPjZwFYn/ZglA0u4agU67vHDd11HJeDCf9+P+eFVEND4W5nZ/MtJli5+A8dudZoEKqr7E49EqkbO5yP+YdQk5tEoIZ5YPfIXREj6RO1qWA379uU0cmMVp0aA2dPFd4FHlCcMM3/WR2h9aACrJYmihNsNgwIhWsiooJnMa2GPjY0P+0Zw1MQ0teCHKoIOS7opo0K6bongbEVOF5LVO0hGNSN0sZNiTDbFqfYansovVmDBce3/hIG29R/7KuHMbkAuI5NQzkHmw981V9Mt4e4XoHrz2f7Xu1gzNoaKIjYpxmPReGQ7V31OSRcEfd9yArzqMFk6d8/pe3ijM/H33HQPV4TZz+lbY9hOaG3XVFxss31tiI4qt1AT1X6/sb39ti1M7T/lQurnww8uSjuq0JBsuR6ceL27u/mxvAL/lLGksLyx36olg3zQ5HU9tlDrGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 378,
+   "total_tokens": 918,
+   "cost": 0.00972,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00972,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.00756
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 202,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

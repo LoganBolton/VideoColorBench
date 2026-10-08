@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894336-yJ6iQQtxzWQbV8RF4llm",
+  "object": "chat.completion",
+  "created": 1790894337,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Justin Bieber\u2019s \u201cSorry,\u201d with its bright studio background and colorful dancers.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI'm inferring that there's a mix of muted colors, like gray, pink, beige with thin stripes against a white background. This combination appears to yield a palette that includes gray and pale shades. I also noticed darker colors in different styles. The video shows bright outfits on a white backdrop, averaging colors that trend toward gray and brown. I\u2019m concluding that the significant shades are indeed gray, beige, and potentially some salmon or green aspects. Overall, it feels like the key theme is muted tones.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI'm inferring that there's a mix of muted colors, like gray, pink, beige with thin stripes against a white background. This combination appears to yield a palette that includes gray and pale shades. I also noticed darker colors in different styles. The video shows bright outfits on a white backdrop, averaging colors that trend toward gray and brown. I\u2019m concluding that the significant shades are indeed gray, beige, and potentially some salmon or green aspects. Overall, it feels like the key theme is muted tones.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEHwzjXw0YKS4MCrQLp39QDbD_NyvfAG6H2cz43SBBB05yzanfLCP7FhZCmKAKIYkpSY-FAnos8EB1mdWPykaDKC9Y_VM2pUv_nmTXtcy3OTPtbWMSA_ywIr27wIr5igF5vi3zmbVuzJMiw3otlcg8ygfHHR84e7ameeZwsAUkvmUqX1_BKbLBu5E2FD6JBHJUF_TeedVXarGXI3rYa3_822hdQbb12zQz5fniLj9liA4sjzktO26DSsRqDaoO8ib59c9CM2wlFyjD7fR6CA8iXfG3CTXv-GCb2-c0A8tN90KYHshddgcgIeXB4DmdlHTqvV6ZXxz1mfKJhFr_236INx_KhXGOzroL7yx7OELLYMky6HZicb1EdCTTrbpAOURzjjnYPIJOVTwCw62e6SmYkhEFIEP2eXW0y5-2anR7jRo_6xbaG_Pq4r2aAna-ekoPdxgQTVqF-vZP7Z_MB-B9m2rGnhp1DUGHUctbJHAo_52kNaFi3nRdIALomcGxrQVD1L4VjiVgUebLMpM2GJdPSBWzPRz9V4859QIQY1xW6thEjPtEGjc_8OvbIDZMmwUez22oWSMdqiawa6DE04RmjYWW40tt3pmpPvLdLvxx8edxcVZD4MXasSiwFpzRcobvoL23avsbsBvlvRJfLg9NYIdL9i_QCelexTo4thYivb7WjGNzjyx1xLaxCM3vg-gdxTUJ-d0ezKECLGmAnkP9YkVax_A8yns2Nhf4xu-yRhuPFvzw-huYLp5JK-5XYmefNUV307hpX88cKlhIpvq-ogKh4m_rxgRAL5jFPqrgNMkfszFJVM1dFaAgb6Ay0Cp9KgFt5HBZslDJBC9I3RD9c_xxy05EhgO-5k94Ijv_ONts8X9kHsEgRW9eZ0YnJ2jNxjI_bIuKqQvTquwBKSqAiEmjpef82_nKPsmHs83diRW9xduRC0L28w5aXkD0_ydAh_-7q2m4wPAdv0nYuJHbgAjVSWjmFxeOeqOoxd2JuLdiqk9gIecDuXdLeb6b5yIf7y-HRIKZ0Ua5EdZ_4dpZrv7u-UlfaNvUcXRiGUVSa8d0PzgSfQrJmhCOu02ndEecMIh4ZlGXIDZAfIEevcPAnEN91EEZQnhtHPwjz2zoS8qHZTTBdyrCXsZkkF8jKRukQ65DaFq7avX9LbrFetPcuDtWXPEcotXSEYtvSpOakVZJHBKa8gUZuW60DDpR-eVFvsqwqO0TcWL_QxJZ364dAgjmKWi7Wlwdu7ogeTlJGoXq0mXxyjpnDl2gQyFI3CJhOTMsZAG2bMtlVhblv3WIxNN1ZCLrNn5DQVXQiZntYvQeSjbe4jEFZ4LAYxXAm80Hm067a_3gpjhY6PqUrtGfRVDvCjl2BLje7nA3_c60XYyo3SO8_dj83uNz3MRDrVZ0Rhs_j8TBN4FgEFKNyYI2gQyf-6VlKhCAlhmncQM7goLSyrGHs7rSny3JGeyj5gSLWh7y5llyWzYQm57YvsZk9j4ADNLzL2h5nWDKmYylvhzW6d9Mu21-me8uG2aooNbbXAWTEoHHTfKpitNkwEKrcqSiZvjcF1DRN4vECOBXojWnPPwAF4lVdutkwdvTzMugfzlyBfJEDgCPIsRfC0PmipokA4x6CPkM5QLzDs4ahuIBb44famgcUb-yz29qsv-U8H7S7zFRrn-zACEPNd3vtQCM9361LUg9fKmOymnqty4tm6tKB-vrSxDaqGJBV8xmjLZgGXfUyEGcAh1YjZsygooAwJeKWg9ebl0kuEZ8E6CkY5vcAWAivmByGSoSLaXa4XGRm66xRbwFt3bMNE0NwkpU5aDOHstkf_hKC4zy963aFts6Ef-SnaSciWg4L3HRtEqc2xtRi_HQ3d7R2o_CfuSU92S_uhBJXzeY9x760dzOACga6mtFqL21JRoSm77M0TSUxDXCdUVMc2TauM6TL2QyjPk_sdXfgGrJSgExPHzeMQO0mIL90FdEYl3udJr1JpqOP8QEkN2qSHDzgGIMyUlYis8prG25X29ADETJdwAuKss36KeSBpInas6PZukyqhFFcIHhhoLECjUurAEZWaJtkkEYl36Sye2wXKsemjrhO8yex69C15bFi56D0oFsov_TusUoRHMuIBvEe6bzVKntsh9gioIfkMkFpVxhVvLNRt7xtwwuOw-lsHBlJDS7M.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00b52e7bb541b1a7016abee10374a487d1b22bad440f1c3521",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 488,
+   "completion_tokens": 152,
+   "total_tokens": 640,
+   "cost": 0.002496,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002496,
+    "upstream_inference_prompt_cost": 0.000976,
+    "upstream_inference_completions_cost": 0.00152
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 124,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

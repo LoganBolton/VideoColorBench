@@ -1,0 +1,21 @@
+{
+  "slug": "hello-2015",
+  "title": "Hello",
+  "artist": "Adele",
+  "year": 2015,
+  "label": "Adele - Hello (2015)",
+  "hex": "#373828",
+  "rgb": [
+    55,
+    56,
+    40
+  ],
+  "frames_sampled": 367,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "YQHsXMglC9A",
+    "youtube_title": "Adele - Hello (Official Music Video)",
+    "channel": "Adele",
+    "via": "yt-dlp"
+  }
+}

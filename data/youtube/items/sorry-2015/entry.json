@@ -1,0 +1,21 @@
+{
+  "slug": "sorry-2015",
+  "title": "Sorry",
+  "artist": "Justin Bieber",
+  "year": 2015,
+  "label": "Justin Bieber - Sorry (2015)",
+  "hex": "#E3D1D3",
+  "rgb": [
+    227,
+    209,
+    211
+  ],
+  "frames_sampled": 205,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "fRh_vgS2dFE",
+    "youtube_title": "Justin Bieber - Sorry (PURPOSE : The Movement)",
+    "channel": "Justin Bieber",
+    "via": "yt-dlp"
+  }
+}

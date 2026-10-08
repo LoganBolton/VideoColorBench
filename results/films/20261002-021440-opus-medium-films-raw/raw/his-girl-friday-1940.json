@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907288-8cuaHlG3eQjMuWK3Zc3U",
+  "object": "chat.completion",
+  "created": 1790907288,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; the barcode alone doesn't strongly distinguish between the black-and-white options.\n\n1. **Ruling out colour films:** The barcode is entirely grayscale. That rules out the two colour films, *The Importance of Being Earnest* and *Sliding Doors*.\n2. **Ruling out bright films:** *The Passion of Joan of Arc* would likely look lighter overall, because of its stark white backgrounds.\n3. **Ruling out dark films:** *Night of the Living Dead* would likely get darker as it goes, since it takes place mostly at night.\n4. **What the barcode shows:** It is a fairly even mid-gray from start to finish, with only a couple of brief darker stretches in the middle. That steady look fits a dialogue-heavy film set mostly in bright interiors.\n5. **Best fit:** *His Girl Friday*, a rapid-fire talky comedy set largely in a newsroom, matches that pattern best. *The Lady Vanishes* is a plausible alternative.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm weighing black-and-white film candidates for this grayscale barcode \u2014 considering Lady Vanishes, Potemkin, All Quiet, Joan of Arc, 39 Steps, NOTLD, Metropolis, and His Girl Friday, while ruling out color films like Importance of Being Earnest and Sliding Doors. The barcode looks mid-gray and fairly uniform with a bright edge at the start, which makes me think about how Joan of Arc's bright white backgrounds or Metropolis's tinting would shift the tone, and how NOTLD darkens toward its nighttime ending.\n\nHis Girl Friday feels right given its fairly uniform mid-gray tone with a darker middle section, matching its talky, consistently-lit office setting \u2014 I'll go with His Girl Friday over The Lady Vanishes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing black-and-white film candidates for this grayscale barcode \u2014 considering Lady Vanishes, Potemkin, All Quiet, Joan of Arc, 39 Steps, NOTLD, Metropolis, and His Girl Friday, while ruling out color films like Importance of Being Earnest and Sliding Doors. The barcode looks mid-gray and fairly uniform with a bright edge at the start, which makes me think about how Joan of Arc's bright white backgrounds or Metropolis's tinting would shift the tone, and how NOTLD darkens toward its nighttime ending.\n\nHis Girl Friday feels right given its fairly uniform mid-gray tone with a darker middle section, matching its talky, consistently-lit office setting \u2014 I'll go with His Girl Friday over The Lady Vanishes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3woKEAgSGAI4AUIIdGhpbmtpbmcSDOIfDSD0LvELxs3ZbhoMsE3ViHi+B6dNk97kIjAtlWivx1U1Kv769wh6GPTUcIkjzQOV+tYk6o84iemNuPpmLCZkD69I2YpqE4/i3kMq/AlflaJeF1AT4qwTPgaPg46lwIVV3VvcqUFX9mbJfSesGjGjYnjNeMsMHxQonPsjUB+ZRU40cclqkZIrH0t1Zn1jVOivdf+IQwwGPeEZBumOA59JKgqK+61jtpXl9EqflgFj5VsWcDl2+cm1ZUyZUgrwHtINETKfL8Rg0GYkDCFZaF44QeypU5u3DMwsxkiHpsXcH8rs0w5qcCZpTrgiJiLsIZuCj1Xn1ZC/HW+0HnCbDcHN2Fn2R1vbOSX/CG6J1A5vJdwhgoBQ3dUxckCcB762ooGpyHbWOMlObl5aD+ibuMaN8ny2LOlwSNIFkaBPqv+TG6GlgmBAPN4y1yW5Y09FBfCAUZTJ7hAtbM6U6M3eQnyzRfpK1doG5eePrR1yhLoXideIlf5LQte9hTmc0JMtfeMvpfVdbylXsKHKUizOuuk7uEMlhPHqD0VYuIfYoeMByKpcv5B8ZXNDYUeolyzX/QADo96sNjFwbCMj+GQzBZXlxiXXuiMJRPhNL6j6jd03eZb8icy1K8fuEaeX7oxtct2dttGKVBfVa+L7N5QniHgCOSVTcv0K9vWHJROryYxRG6LC6c74TpDLzigZOJlVXbm1aWHgmbIN5yqjOi+Yg8L6YvlpnyuRFBkwxXxo3DsskUbwPwgEyr0yskv7UlHQlmswaMCN68N8dduOKw4AJeKJvJ7Pz7nvfnA/Bv9sVsTycfLE9WSRHHuaEpASwBzervEarOWb2ulKdPrrJJVQw8FZZPmFpue1jaTMNAOkTZADbJXju3QKn6DN3LMjiZQUvmRo0wjMph3m7f2FEG0gaBPzPXc8uiW/RZ7cRiryn+SuvrzWlN4o1gA1dNNZ6e5/1MQg7K5zTKQ0TYWshA52l27mk6Vt+yKz5nbKpn97SOitIIqytKOvCTwGfWEb9olKNkEWWKOWe3uOAy/+0hoWJkGtZIM/EpuKX3b/+m0GskIB2brs54IVGAS7gf+8kX3JyBrm5L/u+q16FdmYkqX7tja4WnpHuMyshsrf9R70/nVwSHaXP33wJDhv4CdnRuvMYg7OJWgBu/FG4NNSf1iUNWpTP7s4VuKKnjlER5ssF3zsyvpRG0E5EGMe4ryJT5De60bST/gu/FbrsT7Wxp9Mdejve2fflL/hSRO+S1dt/BilokCNGtn2pRzMEVWATwxt6zBcFPqNXv4O/gNxLhvjFq0P3xNylKKqocVqs8tfoP+vGo6lVG4IAJc3drCR7tVmhwtqjhp3EYE7qa4M1WQYA9xjfth7HQ5IXazul4uY7A0toDfgixX3HPuBXfeTBGuy3ci717jiv3MKmaxvyopUIyoNpkn5PSk8YUzD1g0Bq44/8ALjNZmfdui5WCcCxsRSEd7PfLK5ZjGiCwwKSEhbGyk0n/JQKq4M1uBDP+xJ+gn6brXBdm0jGQYTeSeH/L0uRnX+Ta8UDRkgiEZVuTKqB9WRxx22BCdjtX07Ofg8+Rxgv52qoB9B0QfaHyMai4sSdkgJXxMuB8Rsd2+VngLK3lqAd/2nETw6KPRL48EFdqjI4AMaUSvG9Qz3VGzXwbnuiQLZ49H19hJqSNFw3FHLaEJfIMKiqDEsEIqHQ4VSwpQ+zA+A41Lkb/1v3HRPke2ApcYVc9xuub3BxGImIvk4VihIwfRqoDuM1LZ9+GqWxWx9WhsQR0OIR50nfFe9B51H286MEGG8jaHLSBQuGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 546,
+   "completion_tokens": 676,
+   "total_tokens": 1222,
+   "cost": 0.015704,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015704,
+    "upstream_inference_prompt_cost": 0.002184,
+    "upstream_inference_completions_cost": 0.01352
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 331,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

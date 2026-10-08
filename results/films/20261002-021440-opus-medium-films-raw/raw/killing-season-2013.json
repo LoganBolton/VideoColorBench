@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907348-WfnerTj9Z7FFW001sXRY",
+  "object": "chat.completion",
+  "created": 1790907348,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette, not a confident identification. The stripes show warm browns and oranges early on, then a long stretch of very dark navy and black, and pale grey-beige tones near the end. That fits **Jane Got a Gun** reasonably well: a dusty Western look, an extended night siege in the second half, and daylight scenes at the close. Several other options, such as The Contract or Killing Season, could produce similar earthy palettes. The lack of strong greens makes the forest-set films slightly less likely.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm trying to match the color palette to a specific film - the warm browns transitioning to dark navy then pale grey suggests something like Jane Got a Gun, with its warm daytime tones and a dark nighttime siege sequence followed by a lighter ending.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the color palette to a specific film - the warm browns transitioning to dark navy then pale grey suggests something like Jane Got a Gun, with its warm daytime tones and a dark nighttime siege sequence followed by a lighter ending.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3wgKEAgSGAI4AUIIdGhpbmtpbmcSDOPUc2oCUUO0T6WqgRoMPqjv5CN4b09O0cGwIjBcTfEU0zDiKrVVCc145wQaQyKI0WgjV/FSid2IRz44zkq5gl7WyyW8TmDdKi5/on4q/Aeoi2Z9M8VJKTTyY08RfBSJ9Xr8zb1hpRGNP3FrdWdWPk+dTSKCThrTD0WAaydXr2sCzRCD/G2s0z/wAnvpucZrZU+xBU7kyNMy6ACrExpMbUJ6u24Um1mJQGtOA32HSslThG54Urr5zOlykpxLOR8LH5pbpREDbJwP7RktEdkwq8G3/YvcNAVY2NvW5Xhxwmo0eKmqW878uGh+YwWkc9SzU5u7Ow7n9ptSd/CXsFbuSGrEk/NywC1H/weW6xC7lD0MNuPayPOlUYFDtXmltOtocSWaAwNgKqjfLcsLFr4elDhq5OGSjPYRN16puOI6xshbMGcfsk80Ie2QK+mft4DSrOSaiKeXDxUCVLJbJ8VESnqCDJfkpTF/6OOe0tTekNrfhy44k6nFPjPe1bb+vwxvxfw317nvtKfS9PyEz94JSEjAEhWj/YaMMZMMydJ1WWHHzx65cJbQ/SsqBs2TTtmyctcZMrJKX/Dfw0UXYY3lVtccUXz/LP6bjyykyayYeFCITAAhmHM99okyhFUGVKQcBEwRUdJmIkgJSYqprdTh5X6Mx03U7N5rLKh5gbcdEVnN21tB1PWdziNJrbYQ5wvRPZqh7Mv8Ows19vDtQT9CGLGp+g5FjbwmQLwEkB9PLnNLPsev/LThGSoRKKAJzQRIXH//Diz9WRU2xKSasmd8rx34ome5EMrA/dT5J7AYTRiXLcCt/Cl8iZInw3UbmPVT8Rst80fUPA8FxQuqM4HwherUq8MtiL8aUERr3nW1JuFm4mtwU93USG5+8WsfIKC6X4cRzfEVY7Ij9f2LWe/vu07jQslxV/E8m5cE/UxM26CIEOijTnPjMEnMhMElQ+A3xTUAPNn6Xfzdk4cAhV8TdMFKhZ9zRbeamyZksZiqtypRnGPF/CbnjrIhI/ekOkzsBFvmymb8IF/vZiJoriDkIlZLB4JBfSY7j8Plyeac8kYTtvu51seL1KgcWhlyDpgAqNUdMCd7usw1dMJBgGvlbsiC4l7Sj0RrycyS14AxkJUzJAFUslgNUl75kxKwaPXURk7E1Oe0CeinCxBbHf0IfPjRIn7RNpzm53+P07wt4Wb0ofIEZzzzjkaHR7bcRzDDNzyFMlR6QqoawkRpM1JhstKM6eIn8RJ+Wpa5uEvxByLccfFM3OM+ddi55o+SgdpRoBMzKmX0uCFKYTMdb6qTG1mbrAGtpzYcMz+eoklYp7chitu8te3bW9awzezPNxVuVObE2hYd8pf/gJna1+JRNfgFWjnwRikB1wYJiSWZrFgAeCRGVAUoupR+CuGpdr47jsdlBrcqRpI8xAW2RFxRls9EeKwmfiQZgthoYUk1m8DzkSQ5OyLfEL0j+BgYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 514,
+   "completion_tokens": 380,
+   "total_tokens": 894,
+   "cost": 0.009656,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009656,
+    "upstream_inference_prompt_cost": 0.002056,
+    "upstream_inference_completions_cost": 0.0076
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 205,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

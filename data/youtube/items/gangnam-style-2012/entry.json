@@ -1,0 +1,21 @@
+{
+  "slug": "gangnam-style-2012",
+  "title": "Gangnam Style",
+  "artist": "PSY",
+  "year": 2012,
+  "label": "PSY - Gangnam Style (2012)",
+  "hex": "#778375",
+  "rgb": [
+    119,
+    131,
+    117
+  ],
+  "frames_sampled": 252,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "9bZkp7q19f0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

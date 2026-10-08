@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907100-p5OOzPJZIn0irOyVNlCd",
+  "object": "chat.completion",
+  "created": 1790907100,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *eXistenZ* (1999), based on the consistently dark, muted brown-and-gray palette.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing color choices**\n\nI'm trying to guess the barcode\u2019s color, which appears very dark brown, gray, and muted overall. My options include colors from \"American Animals,\" which are dark desaturated shades, or \"Existenz,\" which leans towards brown-gray tones. For alternative prospects, there's the green and amber of a forest or earthy tones from Aguirre. The colors I see include broad bands of brown, gray, and dark teal. My final guess is likely \u201cExistenz\u201d based on those patterns.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color choices**\n\nI'm trying to guess the barcode\u2019s color, which appears very dark brown, gray, and muted overall. My options include colors from \"American Animals,\" which are dark desaturated shades, or \"Existenz,\" which leans towards brown-gray tones. For alternative prospects, there's the green and amber of a forest or earthy tones from Aguirre. The colors I see include broad bands of brown, gray, and dark teal. My final guess is likely \u201cExistenz\u201d based on those patterns.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLm6GwzSPo5tAXWzEJBLIYMZogFkx7cFcc0X4OWvBUCSqmVmJXQ9MPkjTY7blt5A_jZWd0KmExGsJbr2OGhQQmxegG_bCH8hEzxI4X9KWOeS9j_pMm66I6vnkmHj29GEe7PlNJcQXye3e_TMyOdhBGS7h2A3mOWq5lavzqb7CxzeG9vM5TdtvWwAku3_xIlb2eT_agRXE2K3mIR_JwHbbWGww-zzh2oaa_pqfksxroh0hd9xQR20j0JarM1uXzHEUg-gxgf_ejW_lQ7qctYhCPbhyYfNRhIsCSElboF6Igi4AcfvmqXKxeDPe2UoeNbbBJ8cDF1gcxBkt7BiN4TK9GBQSipgAb7KJ_Pi4oLZTwtqqNyDH3qaQ7g1SA1Zo67rdwUVFNXcdR-zzyHeaGvwH_HPLu_qeQJMmvlJ03ZbPGvJeqDKNY0b-N0IWvzN7QaMz5ukBQMMIdG7EY-vvtynQGqnYPPIDfanaVV0r69I2lAbaUd2MuupW7_YDRAgWn86-x-RrtGz9gXeUeQZ0YF8WWZzBRQB_BFxuh4TT-weYScfVRdTGoHP2hjRoRas2oN_z-DtAe-iYwgPueiMk6r_2lT1m-sNV5I3d-A8A-ABhrFm1Cl2yUVGL-vHey1sNlkka3N2prNwXj5DPGp5kMfdspGKESKT0ZqRJexIN-rJ25sjiqUXATbqJ-f47KmzH0yYPUe6NqtU5K6H_Oth9sxPY9QdKRajgdNV_Ptqt0VQNiTg7RhYZgIdFXXHd0tXXBi0BAtr5nPqn8fLEWBImLV1aDB98LPCcmFC4wws2WmlBPKCSu-xHXVWgF9xqcSpVGKGkk4UrG-Bn46zwdgQ4PtvwblHP5GqG7G1ZP3d1CrXxh-TJgvpJBJSqC15daJfA6GLwLYf4Gwe32y2bjdLts2t9zD4Qg6ecTiiTGvrRX8WdbW1csSWfFeKD7NejAPfBh5G7tJsgh7vRs8ckb-wiDNb0P9EkWKl7HmXb4kEaeZZIwt6KAsNft_PqUZ8QCZkPUfXnN88c0XKKv-VROj75Moq3E1aK7j2tnBphkSCC83HLGz-lsqd_oBLT57JCLZoXBulJ6e42aWNy5LZskJt-NJA35MLne3F2bUrpQECcrqe47XwC3c1Ta7lzDswaoat0tLhs2bsmvRiqeog8jT-Yn4BijNIx9nBPeYe_Qr7_h1lCEixEfdcQDqPbiNvxAfbErco9FcRjKh7isLLAUW8LxIf-SOMJts_LXDD34eAUsn3ivnXBXCmW7Zow1i3omB6BnaqheWwhVH7y8XeXHhZEVhijQaV9nYPHgxk2XOhBkTrPYdxpBJ1WP8JiwPkCjK-Ex-PPYdU1B2EEkgf-s67R12CglktZQ2g8i5YES2MVp3AhyLxfFVssjd5HQ01Xol2Me3GRHf6k1ukX7ymZC0MzIETP-8JcyrqXL-wHOE2uxeBiu1ma1Tv__FhfjmKwpen-c5YMvZ4sA_X1kcrn-ZnJ8xRfOz0bcwNLRY6Odr7liQtU8JmD2PA_KLATgylEq-J4tq4O9opeB9Lzx7_-Z3azQh_nLlC6wNhAH1WB__jcw25VQrTfVIweUMf0XD8sqDFa7qzkuHzDS_Zx4p-5TVmi-4P9ZFchlCsn1eVsvPncHwV4hLUHKy50XZ6o8gb0-twG4KhrUISELn6rvHmlLLcsnYKfBHS-YsMMCaBfav84o7gN6Gc7MYer3IT97PTci0CHd6LI9Pu6erOxBgkCJs7_HjRwE4TUeetjzKBdWl6KEGXUj4uzv8w4yXWYXOE4z1Gd61hnuUJ6s-WdXNAHtVAVBlJr-JJui-PD8BF-bewJV5YpvmV3HQRCjgqdB8RG1TrdKo2_P9R2mHot2aEaXZ4FAwyD8VgqpHvRZlon1WVPvl-_U9MJxCjyUVxlfi86GkCmvw5cpfVuTkm7HTJd6_HtUsAnmdM6aN3LzIxJwg3B0TCqHVlkDAHfptA0p7lOAZC6fmmGPv4Qydn6M4YKFveUqq8ptCE3-E7dzg0xaOywJcxfsAQMq4OJwBccMkzDseqroYm0fDi_vWd0TVh-wgF2HKh2zJb6EQVJxbi__Pulf_1AKHZ8aoiFdmo_7nddUyVLJlHCFinZJ9RzS-BxDI1embf6OCyoILuK8za3wIL6KcaZ4VotdM7WtStTYhpfJSAs_CJGyJEChD7EXxSN8HP6KBJ0N0oKVKwnPia-kOVyp4J_Y5gwog5hMyyRxvKFNVcDgJa6pUimJ4uOVwrli_LB1mBQw9eqU_w6S3fsYFlZ7sNgglnPw0XzO394q4ZBOK-Gba5ABJ13jzuGcG6m34I2caqZ3lbZQBKZMG90LlpHZAbA95Lfc=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d52001e8291e8d9016abf12e0518887d1addc9271b41f1c32",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 199,
+   "total_tokens": 626,
+   "cost": 0.002844,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002844,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00199
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 164,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

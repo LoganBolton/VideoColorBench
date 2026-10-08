@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907169-MkF59mQIqeX7mcNRDOm6",
+  "object": "chat.completion",
+  "created": 1790907169,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist* (2006), given the predominantly dark, muted brown and blue-gray palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing film color palettes**\n\nI'm thinking about barring the mood in the movies. For instance, \"The Illusionist\" leans into darker tones with a sepia feel, while \"Sophie's Choice\" is more vibrant and bright, contrasting with its themes. The colors range from muted browns to rich, saturated hues. I notice the dark brown and teal in \"Infiltrator,\" which stands out as well. I wonder how these colors influence the viewer's experience, especially the pervasive browns in \"The Illusionist.\" It's intriguing!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film color palettes**\n\nI'm thinking about barring the mood in the movies. For instance, \"The Illusionist\" leans into darker tones with a sepia feel, while \"Sophie's Choice\" is more vibrant and bright, contrasting with its themes. The colors range from muted browns to rich, saturated hues. I notice the dark brown and teal in \"Infiltrator,\" which stands out as well. I wonder how these colors influence the viewer's experience, especially the pervasive browns in \"The Illusionist.\" It's intriguing!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMppJGp_qRHxABmCvwny6GB2AQIYdcpsAl48oJOdQgunzOPMXoNTJCThP1WmYJN1EGLDuHdrnMnXbudgur1M-eOQADf-tXKnEICN3_M-lhJs-I-kRZMM5jlhOAn0Ci_8UTzELFEIz0nixIdBVfG20JyPps2_eWjnWJjeCkDIaKaJVWkV5CBhSlAgWSCKabR__w0bSaaG_xInDcC6OLHJ-h9pIrCqgAFBJevxPd6piztJQTR3LXMlMW6yVXPwtVfnpiJDq2CVv3oEaZHjzMxeoj_wEHnm-gYgug0aHzKWOqAggaFRcS42dxcWmcdRxpMRC9Rvq3J-SJFvVKNfzpzCaVCFlh2gvwMmnZ018wooXeMSM2O0BSZNph4zYOdegJP2qb8IpqoKlBrvFIi56JPsy_fuG8yhoYBahPvXVQApqaKv_B2mxZ_tq-I3bMNB8rp617xmal_0eS-_Xgw31Y3lMgqK4vnrQzUAez2b2Nm1byvIvkZY4lslq8TQUsGiC7k2S0mU4vGhmn3bhkU14SdTk-fzEDV7K-9qDibUveg21kGbGI6ndu0yKXn_gRrZEg6mKxlh4V-1F28uoBqQorihXZFS3DBKme9OsmiX1MenUIOXSER5Z6zbJrrGVbS25125Ck-qbkZKdmQPkuXMPiAkNExxv58ebekU7DOrtXi9nNHHmBRNbmZJgF2dZkrWBNtmTmIENT-PN74ruagPOzPsrMNWx22PsOiY3_yK4pjqV_ksioJ7CymSb92RspOoyYRyvVXjjUG9yamCLxk_tX-j40emCLQi4AKPd_Q8ArkBdDcojzdvYCtU0hJEON0ziIj6FRFf67_22FzlyIKb5kapRvfTwvIP01Lbucf1ApU9h6sS_MCDUtqzDzy29AEisxQxhc49VfjDUwSWBn_KHXzDrLeEmkPNeAPaEmFBBAhC41hJ3VDFl3bI2ZOEQcYdUUMvXY9tDJH6v1TfLNJJ0CbwzpEGh89f86A0O-aY3BJAxvL6upTivOAtdUyLdX1aOfpzUM_TxbSAqkF3bfqF-kfMWmNvD83peZk2yf8jeFThwtUq3ZiNUUiqsrRhSuVxIWw2C6XxFC82nIvlmaO0sfj7ceVp_Qr7OU50QM44dAmPgYGl-ue_gP8uzuF4YU9ITjXYWNoeleJvg18pdPCB1EU0cXS1F2gquKgGCEZvbKFJ_Oaik3PdwPa95Sz0VQ3nxbSyKYezoYoRKhvPS0AJ4KJfUylQPEWxcEeTZHGadw5U3IjOjR-LOL23pTYsan2pQJvt01lIksBQqFRPxfaLoLOb1dUjm6E0-lXeCkgT8r8NTvIu2n5zk3aCwAOzgF5NP7tw-KlFdtJqI_tE8WD3EF43_jFztK8QxLvqUes6fNER4VZho0O7wljOiftnYlxim6sIE9VstvlGC45VaxSc9gi6bNvqTE0qDhhLlbybfgk3U3Gr42W228Cwm9os96JQlYPt7U7JmBCbmqy46or7XA0HMesPfFG2F0J5oME4TSgEyoBu4DEJ75OEc9k8Cgcnk7tO26NVhEimPAfjHirokfO3RAH--97OUD5DFS5Nfe7c8h8ARD-Kr5I6bbP6orFQB6MvVHiC1ac7_FnyII41msPqNFDGgv42hv8f5kmH492CNy1TPvpiaGXPxHo05XxHaqpNFw8Bxr0wuheZrsIKy8rzZb7IBoxsqNY1Y6_KrDybszXfe1_0pIfgD5hHksiYasQjToeMJ8Qm8iXAJ_2SwY9iwsCT8JjBuw23C2351gOz05tEAk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_014b08c7a44f421e016abf1326c3e487d189e5ecabaf94a83c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 428,
+   "completion_tokens": 106,
+   "total_tokens": 534,
+   "cost": 0.001916,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001916,
+    "upstream_inference_prompt_cost": 0.000856,
+    "upstream_inference_completions_cost": 0.00106
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 71,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907233-2jg3X4CnuBEThNuUXxh5",
+  "object": "chat.completion",
+  "created": 1790907233,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Security* (2017), given the predominantly dark, blue-green palette.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing visual barcodes**\n\nI\u2019m examining the visual barcode, noting mostly dark cyan teal with some brown bands. The colors transition through maroon, orange, gray, and end in black. It seems like a film with dark indoor security vibes, possibly \"Security 2017,\" mixed with scenes of a green forest. I see lots of woodland green and varying daytime brightness. Films I've highlighted include \"Killing Season\" and \"Capricorn One.\" Overall, I need to keep this concise!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual barcodes**\n\nI\u2019m examining the visual barcode, noting mostly dark cyan teal with some brown bands. The colors transition through maroon, orange, gray, and end in black. It seems like a film with dark indoor security vibes, possibly \"Security 2017,\" mixed with scenes of a green forest. I see lots of woodland green and varying daytime brightness. Films I've highlighted include \"Killing Season\" and \"Capricorn One.\" Overall, I need to keep this concise!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNqG_IXKxU7-ZRN6dwdZZQVqBwnE8IdfIYUviT59I9w7t1XWXQC68fBJYjXHMJWhMkeKDth_oL7Uz6czKKTZs-2fFKx5YGDn6DBz8pLmPnCftsVts_dqiTU-Ngwz4Rzea8qA10Q21M9GoRTl3_8Wn9LGNL_smyuwis3n-MfVB8UsvkQB601cdlxRqLGealOVhxlbH5pntZiuGHz06gF72mxZ8JOlc8-efRnGm9cHD1Qf_iPplyclprh8F-20EtpjzgfyWux6C_v_oRKJC-pYTv6QsMeqpe5VKaFDGugpX01gAKKnAB8LqKw0zNaLDujPBto_0GRFRRWKjIwijy36xBQXnXPjtQdvnfT9LxzGUusk92QiGPjxrNQOPRON6dmuS6k3jQxksX94DxAgZi0jpPq--pYACE2bHvVVtNQIbNRzFOJM2qxZgl0h9HofQ8llwnyr5gZde6GO1FN7MG5arK2F67ZZuKYXftkgoBCBnnWToCPqi_b83uqLwbhxpfeC08MYyTuWShp4rD1A3nuSh7c0-Cx-LQyRuPHHLb0P-27IuC2R--VR2NPIIWmIR0_q1AMJs53-lQYr8QSvORZ6jL61mT_Lt6gAghxF4n1kea596LA7W97GfOdoZt7zJeHlf62HnNxF6Gs9S7e30fFOmNAG_x_iXD7i85Nng2XfEzDdA3AisTTna0rluzEa4VOPMaAgrDqh0TPp1bwk4sLXkWOhh_IursKZIjLiJaaSfqTfxUAxjrawgJIN0CHWP_Zjs6IDNJHivsfInkeCYfdfFJarJIzNElJqqR7wS6y34DBL0TYpatzqvJQiwZBpNen7qdHJMbUDpKQyE3Wr7pWcmcaxdVHKolBlrLWWlbT32riVOjZS-1e_plQPfLZHqIh8EHvGvlY38VpCvoPc-gdaB3TjfubYlTak56dMeO-BKMd97LXGsUUMWVfANWD79m505O6kvMIHOCmgG91CKQj35NAsN9NarxzFVJzYsnyZ9gExmbMvF4StrAxKPrFpl6d2pPsQf8CGBYj3zl0Fz-PTwoU-OQqUEwzrDI6WmJxlWbR9bNUgWsoOKqrTY8D20pzLb1KOfwwZ_3OrPOP2Rnv6oxNHf228Lkc6PSzu_p8v6Nt3f354H6hWriIzrC_CZxULYAraeQbfYa0FvfQXQlh9igJR4dwzgGpBQwdl-McQWc7GwMn2PqKUDl4nutg81g4XKMSszY9YLLhzBKUP3skoSlWn3rWzItrZKwMwn7wUlvjQ79_8u9PN0gSHUlc17fdJGWrT4vT815WzKRM4X5tXskA1BcroGTmCFvg1aiQ7Vtl3STHX-8yEErmPb64Ys68_oJEr7sX8sIkzc5mvpK9DoNylLSWUFlCFTIChbvnNOSvRIocX61rwO7mNt5laiUE059aYip9u2VM3caheyoM3LQv-GpWNd_ynFpgT4OglouALeZ5K7AQx_wy67N0OEIkrfqZo9NmNKJGGx94kT4zoYoM_SFyp_ciKb2Ji83dV34l2asdceLkydxEdkXLCUCy9gVQRsSzX-wGeMVRkQw9uj8dSfM4M4eagMUVGO9ntgOCHD_Xe4khL2vTi-2BooLJZHiDxx-UKQisLENXFm9AjjzxckVmEBfBRhmkktfMUf6-vLaI0OMckyf1PZHrts5q-Rjpr0wOJXpEfjZHszI0jEe2Aq1_FpkeeJLbqTY4X7oQQDKaYg_XlJQ18uPyGeXCC8XvfaFuvX5nlNkbVJ_HXftrkd8nsoWOMWnAwibu_2L999gNzfzxuUSGXBi02zV_7yVN9tGhwKQr-6q1-VxU32oWzkySNbf7MOs1QqWOznRRV1YDkja9Aj8--P81c-0jdXg8P41a0Ty6upX3Ut_wg87oLqRWVReXOTuG0GQdBNXOYWYi77fB7P3dTafgNFiaEaXCEcLnJPYFXXRVS7Xkl_KYtJaSMXzRLxJGPeGxTLCYn9tcxHmagxODv5DQOCoEw0gV3gIioK9qrzh04BvKoaOCNaGUnZhG-ltHJRV8ZVOq6s1BQe0mzgIFwO-srFZxOrHVlQDXcK4JHmEA1APf-HJ5MKJAarXdcJbSc1tLM8Fq7NV0huT7Nl9ZjHiHFH1Uuk-n_UJ7XCMCP3UYQKhUDFzO_vpstpLGh2pEnh2OrwaD345P_fQ1pasgU7HXbe5fRHoC.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_089bb8fb39dad13a016abf13663cf887d1a22b213e2f237380",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 165,
+   "total_tokens": 592,
+   "cost": 0.002504,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002504,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00165
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "detachment-2011",
+  "title": "Detachment",
+  "artist": null,
+  "year": 2011,
+  "label": "Detachment (2011)",
+  "hex": "#4C413C",
+  "rgb": [
+    76,
+    65,
+    60
+  ],
+  "frames_sampled": 5877,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "1WHakpvHF6k",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

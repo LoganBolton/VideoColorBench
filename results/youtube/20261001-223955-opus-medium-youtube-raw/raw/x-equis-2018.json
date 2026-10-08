@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894498-ShZ3hRJHbvwQ84Tf2NHh",
+  "object": "chat.completion",
+  "created": 1790894498,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is G, Luis Fonsi & Demi Lovato's \"\u00c9chame la Culpa.\" The stripes are mostly saturated blues, purples and violets, with flashes of pink, red and a few brighter cyan streaks. That fits a dark set lit with neon-style stage lighting, which is how I remember that video. I'm going from memory of the videos' general look, not checking frames, so this is a likely match rather than a sure one. \"Con Calma\" and \"Dura\" also use bright colourful sets, but I recall them as more varied or pastel than this blue-purple run.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm comparing the lighting and color schemes across these music videos \u2014 the neon blues, purples and pinks in \u00c9chame la Culpa versus the pastel 80s tones in Dura \u2014 trying to pin down which one matches best, and I'm leaning toward G.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the lighting and color schemes across these music videos \u2014 the neon blues, purples and pinks in \u00c9chame la Culpa versus the pastel 80s tones in Dura \u2014 trying to pin down which one matches best, and I'm leaning toward G.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSmQcKEAgSGAI4AUIIdGhpbmtpbmcSDE5MGhzN/dBC6/TvIBoMLgItVUlotXVfpfBvIjBcIND+/teb74p7C8IktCgGcgNEJ6NOrSjqSNequ1e5kZsWVTFSqccSjsoZfFhUEN4qtgbT2CchGkcDO4K1lZjpYKOGAHVnMicT8gvUE/IMotZn4Z72vJZzcrXu1p6bvgw+fjSuA8y2cucO/LhzJNMixClcZqayHQmMO+rKTnk9ZCSoKkYtAGJ3w8Jj2ZmFhE0PwFQI1zOndPkor6F9tW8/wglbWyNS1AhWlrNPJm4gPNASaxtg+RkSiyoC2EETlDyALiHWUUvm1Je1x3XwIXP6ysgXPyUw4QPy99XxwmXdegqHVnR1K7l6APjhsxHPau7/Grx668oEI82fHnIA5+n+QY4VRbNUYL6WRNhXf/zb6+IEGnG22DqgVR3VMEVnqJj6dnjvJM9+ndajKTx+mmkeg0JAScWQkqlnB3NQXmUPnUSODCd+wc6jddqN1RftDaDe497B/IBdLSKibUMoOa26q893Iea3sOIu7LDpXBLT734YV5kb3kMY3cnbAGg9Tk7lz624vJQd3XcfjY+FW0MuKuDugKdYwMTjvEcfrZnPiMyGmPab9+UJZEXQF8MLcEqYaZ83uKlj0sZAVSMqttS/yyjHdI+Bu2QpePrbkTOg/LDa9UOrjdPLPSkxMVhMLCOUAvyYrQVtD0wkEIZ46QRTwTRNE/3ppldeFtZveYDDXYl1OcAnOeEEPgtEYcmUlGlTCjxkWdu5xsN314kfLQiU8dUWPaJ1mDYMllD2xdZp5jObP64seeDuGUqsZ81Ml8E9ufdn7Bkc3zDWmRE4yv7cgUGlZDNzk8v8zM1y429gGb5Idlpz/L4fplP8HVo8BWVwYH23D6OyXRgOSReFqGvP85gRYkvNfrm+WQCbYazXmiYIHugN7NlMRN8DU4oRp1qoTbBXon5W6mvqlJZKIO6lMsIqSKffeg+rVwtBLCs7UYGcIalRqJGH0m3OgeZIH4k0BdW9BAGygqGHF4AjJ0fHmtQrHs2PDYbZMQJq8tjtitSuptwB9Ieqw4vW6zxMMWFj3Q1jlYyYcOkpFyQOYeTQfakcE9tYoXq32UNOiJ5W3KE8bAh80allssijzx/7XlDT8FK853Yp10NUUARAoyFojalUyoopj4Wtw8SRv31QNnaBV7jCPav7+U/fSTiilG+d2VEV335lrQYYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 336,
+   "total_tokens": 986,
+   "cost": 0.00932,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00932,
+    "upstream_inference_prompt_cost": 0.0026,
+    "upstream_inference_completions_cost": 0.00672
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 142,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

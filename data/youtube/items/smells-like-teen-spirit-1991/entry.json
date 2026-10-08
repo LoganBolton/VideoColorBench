@@ -1,0 +1,21 @@
+{
+  "slug": "smells-like-teen-spirit-1991",
+  "title": "Smells Like Teen Spirit",
+  "artist": "Nirvana",
+  "year": 1991,
+  "label": "Nirvana - Smells Like Teen Spirit (1991)",
+  "hex": "#462A11",
+  "rgb": [
+    70,
+    42,
+    17
+  ],
+  "frames_sampled": 278,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "hTWKbfoikeg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "side-effects-2013",
+  "title": "Side Effects",
+  "artist": null,
+  "year": 2013,
+  "label": "Side Effects (2013)",
+  "hex": "#3C3525",
+  "rgb": [
+    60,
+    53,
+    37
+  ],
+  "frames_sampled": 6363,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "NRhUyXDg6Bs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

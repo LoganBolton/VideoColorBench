@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924308-aLRkqR6I3tHeCZ11cOkB",
+  "object": "chat.completion",
+  "created": 1790924308,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "DeepInfra",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the color timeline, the dominant palette is very dark and desaturated \u2014 deep browns, blacks, and muted blue\u2011grays, with only a few pale blue\u2011gray stripes (snowy/overcast exteriors) breaking up the darkness. This moody, low\u2011saturation, almost monochrome look with intermittent light snow scenes matches the visual style of Adele's \"Hello\" video far better than the bright, colorful sets of the other options (What Do You Mean, Shape of You, Uptown Funk, Girls Like You) or the warm golden tones of Thinking Out Loud.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video from a sequence of vertical stripes representing average colors over time. Let me look carefully at the image.\n\nThe image is very dark overall, with mostly dark browns, blacks, and some muted blue-gray and teal stripes. There are a few lighter blue-gray vertical stripes (around the middle-left and middle-right areas). The overall palette is dark, moody, with brownish and bluish tones.\n\nLet me think about the music videos and their visual color palettes:\n\nA. Justin Bieber - What Do You Mean? - This video has vibrant colors, pink, yellow, colorful sets. Not dark.\n\nB. Ed Sheeran - Shape of You - Features bright colors, tropical, orange/yellow, neon. Not dark.\n\nC. Lady Gaga - Bad Romance - Has pink hair, dark scenes, but also some bright pink/white. Mixed.\n\nD. OneRepublic - Counting Stars - Dark, moody, with some bright lighting but generally darker tones.\n\nE. Mark Ronson ft. Bruno Mars - Uptown Funk - Colorful, bright, retro outfits, lots of color.\n\nF. Adele - Hello - Very dark, black and white / desaturated, snowy, moody. Mostly dark tones.\n\nG. Passenger - Let Her Go - Acoustic, simple, indoor, somewhat muted but not super dark.\n\nH. Maroon 5 - Girls Like You - Bright, neon, club, colorful.\n\nI. Ed Sheeran - Thinking Out Loud - Warm, sunset, golden tones, couple dancing.\n\nJ. Shawn Mendes - Treat You Better - Some bright, some dark.\n\nThe image is predominantly dark with brownish and some blue-gray stripes. Adele's Hello video is famously very dark, desaturated, with snow and dark clothing. The palette would be mostly dark grays, browns, and muted blues. That fits well.\n\nLet's look at the stripes: there's a sequence with some teal/blue-green stripes early on, then browns, then a lighter blue stripe around the middle, etc. Hello video has scenes with snow (light), dark interiors, etc.\n\nCounting Stars also has dark tones but with some bright greenish/teal? Hmm.\n\nLet me think about typical color histogram of these videos. The image shows a long video (the stripes suggest maybe 4-5 minutes). All these songs are around 3-4 minutes.\n\nThe dominant impression: very dark, low saturation, with occasional blue-gray and a touch of teal. Adele's Hello is shot in a desaturated, almost monochrome palette with snow and dark coats. That matches a dark, muted image.\n\nBut there are brownish/orange tints too. Hello has some warm interior lighting? Possibly.\n\nLet's consider Thinking Out Loud: warm golden sunset tones, would be more orange/brown bright. The image is too dark for that.\n\nLet's consider the lighter blue stripes: in Hello there are scenes of Adele walking in snow, sky could be light blue-gray. Yes.\n\nI think F (Adele - Hello) is the best match for a dark, desaturated, moody palette.\n\nAlternatively, Counting Stars has a dark background with a person dancing, some bright spots. The palette could be dark with some blue.\n\nHmm, the image has many vertical stripes of varying dark brown and dark blue with a couple of light blue-gray stripes. This suggests a video with mostly dark scenes and a couple of brighter (light) scenes.\n\nAdele Hello: opens with a phone call (dark bedroom), then cut to present with snow (lighter), then dark house, then a dance in a room (warmish), then snow again. So there'd be lighter stripes in the middle.\n\nI'll commit to F.\n\nLet me double check by thinking about overall average: the image's average is quite dark, near black in places. Hello's overall is dark.\n\nThus Answer: F.\n\nI'll provide reasoning then final.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video from a sequence of vertical stripes representing average colors over time. Let me look carefully at the image.\n\nThe image is very dark overall, with mostly dark browns, blacks, and some muted blue-gray and teal stripes. There are a few lighter blue-gray vertical stripes (around the middle-left and middle-right areas). The overall palette is dark, moody, with brownish and bluish tones.\n\nLet me think about the music videos and their visual color palettes:\n\nA. Justin Bieber - What Do You Mean? - This video has vibrant colors, pink, yellow, colorful sets. Not dark.\n\nB. Ed Sheeran - Shape of You - Features bright colors, tropical, orange/yellow, neon. Not dark.\n\nC. Lady Gaga - Bad Romance - Has pink hair, dark scenes, but also some bright pink/white. Mixed.\n\nD. OneRepublic - Counting Stars - Dark, moody, with some bright lighting but generally darker tones.\n\nE. Mark Ronson ft. Bruno Mars - Uptown Funk - Colorful, bright, retro outfits, lots of color.\n\nF. Adele - Hello - Very dark, black and white / desaturated, snowy, moody. Mostly dark tones.\n\nG. Passenger - Let Her Go - Acoustic, simple, indoor, somewhat muted but not super dark.\n\nH. Maroon 5 - Girls Like You - Bright, neon, club, colorful.\n\nI. Ed Sheeran - Thinking Out Loud - Warm, sunset, golden tones, couple dancing.\n\nJ. Shawn Mendes - Treat You Better - Some bright, some dark.\n\nThe image is predominantly dark with brownish and some blue-gray stripes. Adele's Hello video is famously very dark, desaturated, with snow and dark clothing. The palette would be mostly dark grays, browns, and muted blues. That fits well.\n\nLet's look at the stripes: there's a sequence with some teal/blue-green stripes early on, then browns, then a lighter blue stripe around the middle, etc. Hello video has scenes with snow (light), dark interiors, etc.\n\nCounting Stars also has dark tones but with some bright greenish/teal? Hmm.\n\nLet me think about typical color histogram of these videos. The image shows a long video (the stripes suggest maybe 4-5 minutes). All these songs are around 3-4 minutes.\n\nThe dominant impression: very dark, low saturation, with occasional blue-gray and a touch of teal. Adele's Hello is shot in a desaturated, almost monochrome palette with snow and dark coats. That matches a dark, muted image.\n\nBut there are brownish/orange tints too. Hello has some warm interior lighting? Possibly.\n\nLet's consider Thinking Out Loud: warm golden sunset tones, would be more orange/brown bright. The image is too dark for that.\n\nLet's consider the lighter blue stripes: in Hello there are scenes of Adele walking in snow, sky could be light blue-gray. Yes.\n\nI think F (Adele - Hello) is the best match for a dark, desaturated, moody palette.\n\nAlternatively, Counting Stars has a dark background with a person dancing, some bright spots. The palette could be dark with some blue.\n\nHmm, the image has many vertical stripes of varying dark brown and dark blue with a couple of light blue-gray stripes. This suggests a video with mostly dark scenes and a couple of brighter (light) scenes.\n\nAdele Hello: opens with a phone call (dark bedroom), then cut to present with snow (lighter), then dark house, then a dance in a room (warmish), then snow again. So there'd be lighter stripes in the middle.\n\nI'll commit to F.\n\nLet me double check by thinking about overall average: the image's average is quite dark, near black in places. Hello's overall is dark.\n\nThus Answer: F.\n\nI'll provide reasoning then final.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 970,
+   "total_tokens": 1399,
+   "cost": 0.0018831,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0018831,
+    "upstream_inference_prompt_cost": 6.435e-05,
+    "upstream_inference_completions_cost": 0.00181875
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 896,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954789-ISHnfvX38uMLJVONCgoZ",
+  "object": "chat.completion",
+  "created": 1790954789,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Haunting in Connecticut* (2009).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Considering film elements**\n\nI\u2019m thinking about the film Detachment. It opens with a teacher interview, transitioning from black and white to a narrative about a decaying classroom, which has an iconic look. I wonder if the red stripes are significant or just a stylistic choice. The darker scenes, like those in the courtroom and hospital, create an intense atmosphere. I might even consider a deeper exploration of the themes. So much to unpack!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering film elements**\n\nI\u2019m thinking about the film Detachment. It opens with a teacher interview, transitioning from black and white to a narrative about a decaying classroom, which has an iconic look. I wonder if the red stripes are significant or just a stylistic choice. The darker scenes, like those in the courtroom and hospital, create an intense atmosphere. I might even consider a deeper exploration of the themes. So much to unpack!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80xBN66tgDiaVh2ruDeSLMvSbgC38zPPt_TKlmqeFL9eOwwR2VdWy9RRW9fz3h5Y92KKc4LK6Z8obepDDV54g-_TKW8tgTd8zNN5-2x2OEq8QcXth-am9x1MJa_rlBOz8_mUYZ3n274a3-Gr3uXwAH5LPLphuYC2CGw43NItaU8cqoJIB1LGkNGxfC3x5A7afv8Pld6oNyjdyqgSS96TU_CVkl85_O014Zf-Tm5DEKksklr6K45f0F1zgv__XSWQDGCfj6IacHwSel5IDGclQoTIG089RSnKJ0eh0OE1XkbYGoeScUWkf1nm0RD2BB_dXN1aKYABhpSsaaSzIOJYi2ypHB1V33EPcBXV0UjlWyNY0uuS2qKag7GGVwIcpZM1Lp2HhkGP_dK3FIOtusJtOoYV6cZU4qS6S1ZhuLA0mCPGakuVHz3ktuIhEQ2139QIhl-YL-eXXRn2QLFDigKe2Oklgp3qzjxC-BF5vHBjfKHNsD8aapgKOEG5-rkA7S_pbp-Xx0ahjFo9LOHTWGuWjW8tIYhd-U3Me2mAmQmxlAVv6STDsoaLD8YkXQPvTa9FggRziG1sw3BGsvIVVGLeaydhWlhLEfRyen3RI2orXZ_GneTOcO91HCv7LI41okJuexEacB087G2H2ck-y6R-p6LhtW73MNpnLPGLm-Ztjk4XEHXoGJyKwMVioU_nNhaglQHizHE5Mx1fgvtsstzyJ_GdkTt8P-Hidwv7i2Bo_Q1aVgHuo95pYc4c0i26eOQlNuvRt2yh9s8IXbqdbnoLKjGZ30ezZ_nTnf-1fhj895UcuojTFaFoBKboKnqfB3NidQ-X8p4y7d4DgPTPQpue4W9nWdP63Jkomj9YJwzX2teb3HhT78XKHaXBqvYWyURQzNevRYLk68wvB0G6kRn32jt4dEZrllrGXu8LsufatgCmR_gjynNO9c34t53OztQEyHl3VsuX1o8e7IxH5SstZ1tKt1kHUfiWJfkC4Z-oxvSVO2NFAXtPFOFy6l60v3Ye0UOwN5UuN7u-3bLJq1S_VCxh4yaqmTByZUr4LRVw2Km61zExJ2TDqGeKa0pFekWFDZC7hedXqQW02UngI4kt-fzjCa0k28ZXvhFJ29ife4zJXher9aXv5Fi9ZCIZDLW6Dz2oftkFF6bQv96V2aNI2PruW-YZv9vJloi-FUoYwsEgDfktGk4dEFT8034ZOxKgvKHoNbp8Sapmj0ty_Y2J9cUSA_iLmq7X3qfPBfOuPIqG5F6lqSJII8okKyg67-v7fcQdU5xUgnzhWm_KXUSuc6bM19Fgtj8yIcD2dSQQ6qWejig62W169AswEtl6ZAWqTBINe6TGF9XIEc0jjKkGTaxD599udTJcg9gnKBdadg9OHjAupvf2Tx0XW2c1aFXdyz-zw1tyQNEltWnB8j0cwEkxeWjxYnQyBZCumvRHMyALQHgTX9NI1qRDw_ikHk_wy-dlMD8mYK9rvvwETp90wXnDljHcpGap26aVKREBm95lU4Vv6fg_2bUHH2i0azSf-L-2kKQhTC5gaw9jpZhMBWXiemaZ7rLtUx9OrN6u84R_xIx-ElRxCwosE-8JG0-rHtFpY2nMKd6n1F97C0Fpj0LSUBbYTakTKJ71oHiNTOKpB-Inh12oLeE5x0_XHz5ZRFVWduThlQ-32PMCuBp_DTKm26GE5FRDDKf-EKwdTyA28FQPEmL3O_JqbzS6oAHnG9ZInxZJgjopIg3kEhoWIk-iZYIyZE1pHIIuZziBVYAmhJ-vrQFWD39R6RTnVuWMVF7vGQ8lbF3h-3fhLd-WYsFpH6Rmj6Bq4uZg7E49Mfrff0CTAGlfpvZ25amhTi7KwTtPxE5Z-L0DCH-iHr_iEpYVfsblVR4z_HW_F0AiuQcVlhIGcixx0jk1wkewi_xK36Pw3jsoMlTSIOPy81CcDhCUXLySEfbqgkQ1pMyNwNjVcgAMkN9OaZ5EnmiTT-VyyLJjYXD6KrTl6EFOej0PUiMhpd4yWb9H0wre_9ZL_ioiLVpL3__B7EwKmIc_CRvuN0wUP6fb9YaJfB4fgNtNJDppP_savPy775X7Gs1kuIEA1ojnHD0HVjyrFRKPTYBeZfOujlGedLzn4xYWlRZuhrnEuZNo_0I0w7EzwlSBi2fUqI5m-Hfa2oZWrdJPWfZED5TNYY2W9O8SThZpZGrgPav3KX-PkKovDxPUOIHcLya2BusUmxZMdZEdaCQMHRFriEFNqSOfY4eDw2sMCvjYGhBh9X086ZfTqrQ7GPhDAFLrEFQcLr5GKgM-zgvr47WAzZ_xilVv0qxrAD71Aru4q6ddHVWiME2FF9Jw1kfZw-EGR2y_AyxV-Es37LO9ZMublIdIUdzp9Lxb9JIZNA_06GU9LsPQo_eSgtKVA2N1zIS81Yi3MGIO6ATxq-1IveslUbf-1uYuHwHcowArxiOejxsW6M5P7_PjcFqdSotMrRWKoNhl2VOnVMGVMYiqv-JzuMcHgVjW396H9zjcPiZABrHpAFEr0uxTiIWrbRFLvA7GhQZXz0eyolRnAMjvfmJeKKP5isd7NCBIo9JS0CfI0y9D0t1OUO8HqIvTJZ6VNEpr1BhB7jN-56B_p9ldmYTLmreMKpB_R0zRVf8jXswrilOzaqEuEridJW-WDeIP5pDIlbISuA9N0TiO3FHlaVqmD1UICKOVUncJriWHOjPpfoclWtUsQu5iwQe880MGiMBxyz1JnfVBbZfGRrk0UxKVhXE1gqzHzGdVfXWPBIgtr6QWuLHrHAo8K-5ByFNkHiPTCHkgv3WLVkkNCPVdnxp5eAjCwi8E6oycFnEFcOHZvNlbXs2z58GuJtYX3UvKe_JQJR_M2ST_t-yp3PjoWvs2tVYYGQNvPBIcYS3JaBJuB_zVOo156bmYD-AoOzeIu1ul4sO148dC7VEtbwtVkSeGMiJlBtzGny7MGAV4yX3FtLXLA2uc1kCp1_K5_UN2QdPHYQ05uAR9MlVG3ND8Zp86m4d4pgQ0KcTQ_bY_aUhC6hGhr-9W2cBncRVdTxK642PsDIhWMtTmUX_1Q6XeMaDoCRIbF4CsCt8ItA3Rd_3cmX_uSFgdnH03szH3_8vo9r2ctp0EAXpGzYwG35bWfo2XHpHA5lkL9umtex-6Yzgvo5Wsw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0213d0a889a0f810016abfcd27551487d1958f530770cdfec0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 433,
+   "completion_tokens": 293,
+   "total_tokens": 726,
+   "cost": 0.01898,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01898,
+    "upstream_inference_prompt_cost": 0.00433,
+    "upstream_inference_completions_cost": 0.01465
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 269,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

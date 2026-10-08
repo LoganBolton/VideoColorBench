@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907156-fgbdHwoTgi45bNY618dh",
+  "object": "chat.completion",
+  "created": 1790907156,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Dark Star* (1974).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing vegetation and terrain**\n\nI'm considering the vegetation in this prospect, which should feature substantial green tinting, but it seems only around 35% is visible. On the other hand, the automata appear gray and orange, which might indicate a desert-like environment, particularly in the last portion where the light is expected to be absent. Overall, it sounds like I might be looking at an intriguing yet potentially barren landscape with a dark star dominating the scene.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing vegetation and terrain**\n\nI'm considering the vegetation in this prospect, which should feature substantial green tinting, but it seems only around 35% is visible. On the other hand, the automata appear gray and orange, which might indicate a desert-like environment, particularly in the last portion where the light is expected to be absent. Overall, it sounds like I might be looking at an intriguing yet potentially barren landscape with a dark star dominating the scene.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMhkq_8SwtiBAbKH4ztcoc2B5SOR_mzaZdh7JeC1IGiIpMonzFD3FMaw2jlI_lGkyQQbKI68vvo2QDqgggseHtAY2fAvDXCP-Nxx25y3P4IZdbuYNnKKkTWGOgWLtAm6uO5bJuWrR-Zpr9AaD1fl3pDWxu7oh8jTFQ8JAjnnXgvIEjrH_hCbUCzTbb2dTP6rGCDxEoWkP7siqU2WmlqqLAy85DcQ3OXVE5WN3m8NCXcaCLeFYxLp2MaaO_AwMuD_2bpCt26YjzrQkWIKDShEYzC5WUxCBJRxRuIroxynyZ94vXrbY3YkBo9ZHCjsJrBAi4PQA4gqhSIjIsquz9RqCDrsAU-dV78td3TLjGnnIMUseDx1Qd21lnoUVJE3QYNuo85qlNB5doJ7TKU323rMTSLwF_tbfqceEmVwo7EvEViABMZt_75ZeCBsOqJuH8DNrKpiE9cNL2wff1UAgw_8coPyUVQbSxMmURL5H1K0gi4Z7OBSLVBWUFprYrNOV12ir5mOtdQBwTyvnmbsvhObJCk_YUIiQHP3KOPyFwYLFJyCc7xnIczca9OHZltVzOrotsY_-M-qyBRknlLN9vg3oMCijxgkHR2EOxQoHfMpY6DERYpxSKnlfTQZHy-IwmtBZaR8Tve5z8ufTpSaqqXTkiFGEEb8Ey4tV3JbFDrmKEtaoho8nExpdiPXtUCCBY7cvr4fZUhtXaB1M2sfwnIY4Cdxy81X6N0uyhL2fyMMj7ctC6a9LgMxIrq47_Nl1VsVe4wjRkG_QzKRUGub_qaFkH8dNikwQB6SDf3-IYodBn5HYPSMCvR0cxwE77QVb4mlZfbS41ay6_wHmLRiAOiO4M1vAGDlKJIUoLuyyOJr40TQSrcexUJxuGg481q7senvsEs8KSJoOjcH1_jU1nLhsxm3MScYcjSZSrhQCQht4ARb-u_N8R_LA1wRKS5HT5WHvqZ2cMuTh-ZqIAWQRwV1Od1SKpS87i_XwocSBWyw2iyZmK7eOF0QbTnD4vaBN3xOFUtIcXLMlTKknJ7_j8bYv3MMzWVJPCzZQNZGYpVV8I-YOt9HDqQdwVhvVQnYveiPYd2tekeVYPtyogHXgMoEkZfWOticZhoaipvWmyZlgzkAfnDzdgOI-fk_wIpi15kIWsqFojyCf_set17oU9tZ879_bQP0HFRfsEpeNtvEZ78iibGYw7-E2fIsKeAkLCdQaKUuqpokt1vhj-DughYUJw7gOpFz584-6r_IYeu16Rwt8IC-zeaGyPKjUKq-E2GGbGDu4eJjRHreJYF0Et9c5jnCizbGjUoJOZAXpTwinN5fMVU4aDYcvJwS3IfgEWGa1xBXUYJ35IR0V-YULhpQMbjnb5QH-surdHzZPzKFCtn9NBLKST5MINNvvZ8G9tQ0ByU3PHPz-p_C6s3T2BkswMjjmF-6V8i2JwoCqLwaUvyp0bd_jIfLsxZ99fuaZNyF1EW7GdS9_nA7GSqO6dqXGpPnzxJXAU7Ta0hkQwc6fTfutf3g6qsFZbuGhDH78apU94EUsedi1Qq76zgyKRlWzBfdDKhSripq3ltkqDPtQViLKLwlHrgDQuyF055iGSUWjKEiIjnhfgDaneebBTL-IwJJTzAt_ot5WxM5YZF4Z4FmR93jj89Z-9HcenuD02E3JNl32DNHvj9iUtSciD70Z0OfGzbcSuaCmBNupBWReMbSH5S1REJe4kSNFSauKU3yrpcjk240uxCzx9ear8SL4u5eIY-bckhIXYXVugS1haSxyRYWtpCtFqV666PFzjlz6d80ry5_ZvT-pLNiz2rbd3YuoL3ik3J-jYzBPgyrJhIJlMMkoiHGjXcioyay8qHVMMnQHr3nIm4JeQ43ofZNEEC_1uhslme3p2pVe2oZ0pfwgaQM1eGzckS6bdIAL7rAGp8YrbhlXXQRYaLW_EJ3SHXE_fmM0fqTO_RFWOl9_9Zo2h3FtyB9hp38qZMdLzwxv_ZrjvMMew32CMaC4fCAD6dHvGXpYyrVOJt5TWikvzr2-KEajO5unhZbkiT18muLuRGowqHzyOxGq2PA50ty6wu0XK4s2Gl2_G3W-gxhm5nRlOOSEK6uGHL-44VJwtT055uti8W4AqRPOysqV-NlQj9zqzl6Y7XwZExVHIOJj24QbQS2Tgnwqv2odnJ5B-mePGCqAmmyUGX1hd-kanaqa5r9vDk9Sb7if9WlAl2XTuQrNJU7mopsZYveie1JGXA4khuiLbCa1oupKjVlbCfA8T0rblTZ2zQN1Xr6qbIdSbnwi9o3a4S98IcxT1uXYEHv-bCcN8bPtpBCHfwLfJihY0I_PeMB1UZLBmT2GyYS9YclzwIeWbxddTna04rpbJkOHhS6SPQElR4PZxBDfcgDKvC1Ha0TME9zjzPYA7BLPm-zFyPc5AW_DLndR5_iJU8JjusgalJmmFYx7e9MsEr2XhWt2tiMUIN2NGyoUI6oClpg3CibVVsrBCKAprej6WePE9epJ0dCdFxK7boNLkDNJLzmzwre5HHExXa6eQZV0FuveoNjfPqcJLc1ROmm_HZai_0wo5iyfup6UJnGF8BcOWYpmaamNaJ4suaFPUTbZkaNYJQEkkXSGcLar-WWSbL3JiIUEfjPjqimQI7k17Hlpad9XNEAN7jwQ75ihNu9vqPQ58ockapbJRkIFOciCUdCMwLY2-uJAKroIS4kihhqvJ9no5rR46CjZXSt-NJU7rJPwL8_oBEIciBpw8TA_KG6guEEHxRsyKRfzriXeKOgHJJf0MrvpUPe2XXY-0-yDvIF6TECxwwNunsbOS7PGRq4w9u.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00d78052581315c2016abf131a84a887d19803b8405a672e31",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 250,
+   "total_tokens": 681,
+   "cost": 0.003362,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003362,
+    "upstream_inference_prompt_cost": 0.000862,
+    "upstream_inference_completions_cost": 0.0025
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 229,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

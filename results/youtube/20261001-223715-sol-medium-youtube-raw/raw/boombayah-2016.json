@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894298-M71WXWdrdXtWP2zDBMoI",
+  "object": "chat.completion",
+  "created": 1790894298,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Ariana Grande ft. Nicki Minaj \u2014 \u201cSide to Side\u201d (2016), based on the purple/pink opening, warmer middle, and pink-toned ending.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to infer a color palette that starts with dark purples and transitions through warm muted tones, ending with pink. I\u2019m considering candidates based on cycling themes: first, alternating pinks and purples, then sauna oranges, and finishing with dark pinks. This approach aligns closely with visuals, like a video that transitions from darker colors to warmth. Certain music videos could provide inspiration for how the colors could flow in this cycling context. It feels like there's a nice fit in these ideas!**Considering color combinations**\n\nI\u2019m thinking about the color schemes in music videos and how they create a vibe. For BOOMBAYAH, I envision an opening with pinks and grey hues that could burst into bright yellows and blues. DDU uses a lively mix of greens, pinks, blues, and oranges. I\u2019m leaning toward palette B or A. An example from a Rihanna video features a dark slate cube that transitions to neon colors, finishing off in a nighttime setting, hinting towards B.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to infer a color palette that starts with dark purples and transitions through warm muted tones, ending with pink. I\u2019m considering candidates based on cycling themes: first, alternating pinks and purples, then sauna oranges, and finishing with dark pinks. This approach aligns closely with visuals, like a video that transitions from darker colors to warmth. Certain music videos could provide inspiration for how the colors could flow in this cycling context. It feels like there's a nice fit in these ideas!**Considering color combinations**\n\nI\u2019m thinking about the color schemes in music videos and how they create a vibe. For BOOMBAYAH, I envision an opening with pinks and grey hues that could burst into bright yellows and blues. DDU uses a lively mix of greens, pinks, blues, and oranges. I\u2019m leaning toward palette B or A. An example from a Rihanna video features a dark slate cube that transitions to neon colors, finishing off in a nighttime setting, hinting towards B.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDlIdqjxu2TpgSbFp2rOr-0rGsyFITm7mHZWT4upVgzI4eZWcKvYf-PMuNtL1KKH1kbT4vCA72LdMWr5wGLJcYJG9Tz_jDCsnec5D2AL0NocRAuBHHlkNL_tDc6AdyOy9hWc7zdr8UJmVSRNWH5pzdn4zwkXpW_Vl1RW3DW6TGa2TQg89Hna0FME2kR0XbikQQeYPU8MlNFKV_tF-2WejNeIspFQlAEkrtQdAaTSmF9nZJpiNh7JIFu76s__b3rDMdU2YVFa5oqWNNmVAwOtHHwX-FIOKk0T3p-eXiq1FNl4nqCE-U2tuSF1B-u96Ns07bG1q9eKHsHeV9sLMNCYvp9mfycdjBJSfj5vRCKxAlpXyCj7EzyeNkw-qdZUEh8w1tyfZYNfcWcGHxaZjvv8u6jVLqO6nuHy6lM5hLOLoZaUg7_yE1KbadgniXWxZuyd2CtT1bj7lYrJ-Loj6UbYGTJlzXoY-SLbr4FnQIctcB--JLBBORyZpUeSE5BEzeA7izqWTmG-3nQGq4aA7La4Gchy-ZMFlkhLHT46PG72LBU5HMuTxIRWW23jwCaz7eI7R0cwo8qnTP2n-qHQw51XRSN1wyfbmzuJkHtaTiY6J49sFRa2yKkjmWn4LAQEa3aiJsjGOVdIirTvtfc5lYr_dU7PzCymkLXoxE5ixLOTFgtk_l2mGd3Kz8BGeH9nBYEJ0LiIE43mAaxZYv5dezHTh8j3AKmapUyj48rHG73l5pBYzT4Co_ONpb7t03cCr_82dq91b18I28GIUD3DtnbMb-12Z9A_D5yD3AKsVI2swqYAyWPMy2S8qazCNvubhcOPwz3_sm-otoxHc29PG3BFeLE-SvvHl2WIXvnGzX7yWPAevAw2xrL8-T0O5vds0yaFJjqTwQTmA_VVs4lAf1UzcElmuddruabdSikMQeATkIFWlV5-V810crLUi_MuPb5Fz5MeLPLJVE_G5QPd2mrtzuWOUar-8zuTDZRRDUtVWRCV4Gsy_rbfHq1DQgKgyQM2c_2SfufvaaCcucSbU6Gtj9IVooe-S7_UtG-C5IzlijRnYpCO4zEG1gDiE1t5j9Sbhuw06wmOrHvZkSpqb9zbfl_3Nhhq6Mr8sEirBAXnuDyRMq6SG7DnCsfhFApkaDbsfU6vVwTlFxwU8limwi7-eTwW5Ag1kKz6RF-6iAkUfkyp0XWqKJB7WDchulWUTYddrB_Ylw07RvAhfIjQEuQPlvT88NjHackVkFbrqqKAYDLJLCHZr0eEqHVM3f9-7lNZuGpzFDFQtGjcQ1_mFLERMkSONkKzenhIIPsiUxwrpahmtkUKC-_PJV-bbEkAqd3n5cYHygG-leQ54769kbd73Xia4Soj9CmMgAYbhY2e4QwXldzNn4yuZI33PpwyDyALA5IZagl9QpQFKAVRXf9KQjY-F-FEYW_qD2J6cDNgF-U2ZAmAfxPXwz3tckBdCObwy1Ei7VrcV8T36Sq12lxcEtL6bhvMeA75awYPyuuDMVstJ-MZ_OsGhzSSiGFgTX2NmmtYUwD4yBmgYQklQxozSmLmNvZD6pGG6cDb72DM6oZ0R1bAi7Y1iw1eYWe-wWyM4NskZlrZQ97NzKZv1DG_UXMS1Lxs0AlndOpOOCJ5d8su1bvQDb5n7WcA4NmMmTaxv5nKCYZNuxnGw-t6vIGJTinNVdDK7SD-vz_AGw17F9jWfErSlErMQPqnxgcBjI1EywLoHlLEVp44KZD609IRrUskEbqNOa1ThYmOzkYBzluzoJbRuH3aBavNujNUxhi_YhNEvwtdsWeaUQmrmk5MzPbYI_Pzjj-00ZYWb7X4QE18sR60PA2jVuhk-2rzyVfFy2otMmOmR1hYdyYFjIb96Mmw8hf5JA2gCyesOYM1Mtjxl-vYyzlI4PxR_l_fc_GDBNrdY2IsPmuPlJmBqTJnik_lpsTl5H2AL0IBjPFu72Zy3AKP9MjWROtt62psD0_kObG6kDXoK9V2O_af446LXDtjOO_1lcnrPds-hy8JGxnKRaLLFif3NiBYOszFhAc0IK9oTWgqudsJOWFdOHoB7ru-kvJRNcd2aaZhJKxJhciw3C-SOYSw5USXZLZ_2fpNK-qV7VrF_7UTKjyhSsAmpOFmilyM1TRDKaF96_lVb9xmahi-EKqGD7qnjmR0oWqzPQwYYuvuVymKcoCpit9Fu1lhQR6_CxrlcIn2W08H65FO8VeChwoHc28owVZS0u5qsGLxF-busCtHuMvH-apS5MQkdOFr5g83DMJMaokn0BZKZJ18kMLvU2p48rD2_YnqICSg9IPNiywsEB_NMxckiCcojL0t1W14XjYKkju3DKbDopq1o-iWHCtngJgmo9OOS-V-VMwPPuq6o5hD10v5lV0wW0POEvqjZNQQpcPyLk6tV_c6n0UWH-Vi_0BZrf6or_SPt8c7tc86YggtZhDPDfi3J8z5q0_3SBxZ34a35Jx-ihAZbsRsov02qxlUUi93YJghwUhOQYk3rwo3apoaaydc6AcY-1FoPvXm-NPms0hoAdfMJRDofoLbx8MK7mM7XM3PjxtvnZgwvsYRZbngAa3Kx-az7rI15GY3mG5NZj1XAe-q0JTlP7EDxTNsNFM2ERJ0iQyw70K6YYwt0bl6Cm5XYsg9PDwy4LvP6ACq8WzktWLPawFoOyZr-yz3d_o_JUZt-bCmIoNBlrKoMpoIezCIZIMaUkPUqa8377tfNQCAp8tPboxP3X3D2QtllfJUgail2T8G4Piqcs2DKqI2LJKJ2ggEYjv4JCRs8-APxSpESr1MEeDZr6GarKFBdfNPtDKuczja8OEwW-OMi0dYMM-5pdKRrH2xhGXJ8LPVmqS_c527Mc_aYjeJCkhfnvymFjfEeSDeK1ZEaimxbaqAOfktYivh827cV4kVGu8a42lW-EPCXlA86pFooWkR8CVHyx8xCdS28wmR8sUe2Q5lDppdQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_070834065840b947016abee0dc834087d1a10598263228fa17",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 300,
+   "total_tokens": 792,
+   "cost": 0.003984,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003984,
+    "upstream_inference_prompt_cost": 0.000984,
+    "upstream_inference_completions_cost": 0.003
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 252,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

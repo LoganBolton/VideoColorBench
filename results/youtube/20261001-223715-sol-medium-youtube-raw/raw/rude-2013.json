@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894273-GIbzISSo3xOWijtpU7Gw",
+  "object": "chat.completion",
+  "created": 1790894273,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "The consistently muted brown and gray tones suggest the sepia cinematography of Adele\u2019s \u201cHello.\u201d\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDH1hMFTxblbEfyp5o8QDEkP9w6_iQVy5X2SpwrIFTV8cGUbPgvNFwoy-ivu1Jly_shnYocr02u1TQyVYsdoqrAMxX7LfbMir8WmXnSDP30Jt7oKOMSaifUjgXmVOKKmG8CbgP7A5lVYdO-WEQ1djsF2F_wz37AfjAXPSqPZrXUgAbHCelPCj4S99aCUGmd9BbzvY8Xkm040j2T-Po1oiF5Rgig5x7t6Lc_RJbIN6fV_BPfEJLp_1MW0hulEzZaNf2TCNYruwAxV1SUeN7QCm0_1dOumaa8G3mMr7gWGWSRAK-IfSCYAJOCSxbSWBwMNxa_EXeMnfs9fgtcAcdHp1wylduNIglDRy77d_0WsylK59E8D7YNEOOGQDYYnd5nYpocJ3NRHtm4QNVpChRVnRwO6PP5p-56nhXuqItreMXYX6rE2rzhgkvtOtT9m3_c7uY9GtA-8MBo7B0Qm_OThRJ5jmA2z6FbcALpsjdu8ZdtkpEP4z_vieHPMOVb34ebyONYhrbvUdXCTPAAtZODJSMYf6uRT9r1nQdNTeURf9RoE5m-AmxrcRtZ9jv08TrhTrPeoBwQAS5V5c3GOgc3EjujSDUnMOe1uT3xqLFXuixynQ0FXiIDNS3YOY6rgq2GlnUzUd4MHfIEbVMdYGf4nW-CVynllG09t0nqgv4XE4Y6ALvl-NqkOHhb6ZPqWYKoRSHdPSZZFsPWzhfS_18PLRi2FZ9AzwTl8RYIA0YQNO27GRhIVOv8pWDzn9aRaQWqPHKGwGn6_Kn0N6qyU-lHQBUNRic-IMz3-Ts9amVknEDFS0xWtQ7nEK613iINuiq4jMUQsjcK2_84vFhYJj3MAmTi-um8SRsBP4k8_hOlUqG83vrasJe2HssOWEC96lekiW6PqLq1GKP9JqoKKsANGdnl18Bo__Bvy3w7Hv0U6SRcdkjSZ58dFjzihi61sjs5FDTWWhAl5bzFBMEr2QnJIhpr-c2ZVc3flXC-3QoMmhAmiaRG6KKmDAf76-yIDPW8wIfIkVu27xMGPjECGlc1uAsGr-v0v-roGvkFSUN_WZpItKiu96bln0u4w6L34Bd-qMY1p99hH0OxqlWHSBArKCZBDSi4qsv3Fu-meOrItI5PUaXClWGyV3VN2kmTGeY456o6AmwWwOP_rLq0YkRlBg1XBbkhXFjcSOwhL_bBOJUdh28U9LFAi1k8xjM2WvQSZfjn7O7xJwn9f2dPAYYQAvMW2X656vWjaD3xAML4QeG4IhpVTu7hTH4FALSn87Q4i_32rvjwnolx8nMGHhp0HHpEgRWSI8Zp_0n70_nRYNN5hEs3H_B-mQAxlj8YEG_qEt4zLIh8htdjRzlpv2AtbVD9MhmE7BQvEWf56wNmVX9vzLF83uS4RM7x-xFN1vt5uqoutcGPYqdw3IKKRKKC9_pOB1RXOCYHK4stCHiGnZsRgjdG4vcoMJ25Xuy4ffSC4lc5J1pVHn6spsHbSTAtJyPQOynirApffhRUt200wBXcrVzLvSaPRmIEq8F4x0QYQTF5CzvtJjwuoUPupk3a_A16zF2qygKMsy0i-anHmZGiUEJAQoDXal7HLHMeJ4A_JZ6PzffpVZdJSTrTRfEXNDvRxj_uiNZEk88vWI5on76D1EdM0gp74rBL9xqMOPazqQCqULFQVdJkk2jpaq8naXIegybpYdBbaUKYtS9DM40UvuvbH3ZkkpBhbtXNvSzZUIVHYsOQOPDBb2nWTYVsdTjEUunS0XtV5ly1m8jgVa_9qDLaPhldhHWZw0S11Mg4vV_pgJ9DO-I7VpAVhb5IRnNW2dY3hTkH9IDxaR8eZzSOtUFFhwvh7uYMKm6m7TfBKm3znrb3dblLGKqHOO7VgZbgeQghqDDcIdgXiJpnIMFfR2OX4wzHEU7M4OXsDctC1Obq05OAyyUJqqDABrxi1hE0GGiJ9TD_QbnzzcH9oF-s-X5F_uK651T41PiPD1-A0iz0xOUMZMXpyaCqwBaSazMgC-QP1V1YwIna7dCWscCSaPV7RDku6dfNh_sRZVAfbDBdmwt6BinagfTpG0npefoqeDp6FIBRO6fPRbAoKdQG4dWqZdTOUipwt5XLSd1JCIAZTfPzAINjEEv47Jpt6dvz2RAZhIVFSM8oiqpY6zhE3XuAlgT-R9RjYscSPlCBmJRHvWLQ243K7rqOAQbq-SLHvuA347N16U_ylqGpuSclDeTjK-3UE6ZBnk4Cp5H5eiSm.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d79e08958fd8dd5016abee0c3e98c87d18da8badfc98b4a6c",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 466,
+   "completion_tokens": 172,
+   "total_tokens": 638,
+   "cost": 0.002652,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002652,
+    "upstream_inference_prompt_cost": 0.000932,
+    "upstream_inference_completions_cost": 0.00172
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 144,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

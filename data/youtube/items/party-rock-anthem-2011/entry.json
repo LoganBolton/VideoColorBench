@@ -1,0 +1,21 @@
+{
+  "slug": "party-rock-anthem-2011",
+  "title": "Party Rock Anthem",
+  "artist": "LMFAO",
+  "year": 2011,
+  "label": "LMFAO - Party Rock Anthem (2011)",
+  "hex": "#424849",
+  "rgb": [
+    66,
+    72,
+    73
+  ],
+  "frames_sampled": 375,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "KQ6zr6kCPj8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

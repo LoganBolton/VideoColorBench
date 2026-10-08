@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955117-5MLeDMk237pvNwxGeYgF",
+  "object": "chat.completion",
+  "created": 1790955117,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **D. Bruno Mars - The Lazy Song (2011)**, given the consistently warm brown palette and relatively little visual variation.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86C35H1GwV-8eD2MdprfeXkGzOvK6ZgLliK5P4bm5tQnUDz2iY2eHM3Q0HLHGC2gxIWA-d82TMLoKC4mTZum4-aJfiGsN7yq8CI76a8sTLpe_4XH5dsSCzPP8avhEIUlTlJI7cX_uh3qt1N8BOW8SZVhzX_SDOauWtbc5JFdVAxsx4_OPtHdrEbM-cZSsbRVCgg8B1NsAWanLsAtD7GH0LgBjpbUHmINAn8d0uGSCNt2gymW1RXcU6PZEbFA3aWUHpIXx_MbAtuCiK7v7MGOgDCcffWhjd4ikd5XdHYtUJAE_r0qB9fQQmCJIiVp7Ka0VwfE4x0UlDXmaNHVe6YjVrLU6cBI76IHnCaek5DO5X3TZWjCNNdT7kKn1hSHb0t1JTsnHo8ThN-oQnRWLKv9KRlLH0wymxktc8EMcYz6LhgNtUFcb-nB-XH9ndtxdcgZ8tlxy7rwx77hu-PLs6_qbPLFWmYyV8CKsAlWV9SSFdN40E8tsDHweql0hJAR6y3IGpWAkLMJ70QX4pDzPdQz-DAxHhgiTCM1VOsrIeyE1WrlpzSHlyB8m5OcMtW3LsaU-FzJyMKNRJdx41H-6rqpHuE8sHETah5bK5ZCcElSW4lsLoiN3hyjaJzbxtFgcowHZOOhmRdHI_qpk8pAnc0ZlV5u5Zwf7AwJK4d4XkWdv1eDizelbR8-NRrMJmEulaeUXLnV0j4_7GIDsFEnP7KoGIZT987oGf5ZJz88QR6jAQRncnphMNRe8QP6AWinqMY4ATDDnZPjNYDcX95AFRKX5CW3xmbDjmCWw-qKmQ61PqY8iBpsVSGWy1rfgBzygHevtXgyo2EqmPu9MQ7akn3AjhyLgpctSjB52Wj5KXTKOhj2hVZslTL_iDUKPl1KU6SKjuS7f0gCohzBT9zBUBCeq6r2-Qh8ZfU4c6cDaRFBLTG2SR6EhFl5B4cp9hq-Ph9HSZZY1KUZfMt-EmVfBhK7EKTTEtD0I5YvHGvTW8nAToOgmMwP_eYhJQaBr7dP9sL_d15pWDgv9iArzxRSx02wVtVq0ND-gttjdqP9Se0qiiasWN5igmj2IeNziCHhKSb6H8tzVxppOCna5T3GMaLU4Fb7UvlcCduXnm1sSrQ1h0qRQos9KK-KTV7aREr4dyMnGCuedjIs_GB_GtpXG-zgGVFDgWVJ-aALilgl_lBiK6qmohrrECNCDelADrwjvdg2jzDctUsc1VBqlXTZNZqh8_ARg9ZxWk-EEcZAMPYVfosw_7698MzJBgrIP4S12JLRm4cg5TOOgAmw6jdu9K8RyTvNXzSfos-e4u-WfmMg9Us_7jOeqDfOtvaRTfjgaxaxAFMJQVl7KKz59BXXZB61WwWcWMaiTOXbVoYnZ3kwCR5Q1MkQ5CGPh1xqZXwGBtdeO95AJ2o3I2jl0CxolJUmFOWC2Nzkt9ejXQuONC_1Eq-QtGvt5x1mPY0eMrBonmPjsT75phtrt2MXoCjmjkd7sMKbi0mlp0Q9tLbpqLGcIlEDDC23-ZA68kMSofzVAIXdhkayI2-blBbA-_Zdw0axHiv-J2FnlT7J8qfp3saZZofgLwgMr6aayM2qfNKW9PlLnWsb3uB7ayBMhIGcharXlhaYFNXJVdTZWVGeyP38l8nm0KBcohRXhwRXcBuE1_P7E7V4Sf4tHFNXoA9DfjiIOmTA5WUm1yEvSkWcAOwUiWZHRttdDlwglXdI7IYAAb8MKPWOcN2nVOs9FyhyaENkO5Mdf-DxOKvGCqXRte5QrBzhYSqeXx-KNyLmjCGWQ_o-K0inLswWiIrQptJq3RptHAUtsjrAwQrLwM_cjZSRZ2gJAht0md69zQmtxDQIH7DSloRHGTZSOntbIwF-nt8EBScMHBxpJHE-NryEedYuYhSGBVWGo_rccMx1FzBNjr39KELpETMCmdedrG5FG_kkdivLjQIt6ZGxGGqHjyvY1Fhl8gi3nt8oqW2o5VirGFlhvxqA7T6byU9McXfuxTn1ZpNKUrU4VFyyEb2vBRySmRiKy9Y3aoxV4o-Qq68KmuMZ3vC--VTQgqSiNzsZTVJ6sxdwNJ9AkjH1uBl4jtg_NhaxvWSISPCPfgnbeuWsxKXJGnV9YDernnltwI0kzTfFe4sO9w7EbXi5RySGMKh5Qn9y8sUzwJ1WDDWSxmaWTREJb2OOtQwL9ThTlkXfJukmITPIhv2RKJRzn9Fr6XOVXSJ40V7zkyPeLUVqi3qXiestAWO5kQ-9ctAc4wJlj6s66vAS4id76Dv8BrI7PITt3Nm9Gd7-YKlaRiFbgp3jWth3Aw2GpreIDeSUTNvfvrcOGgip3-MuzhMwptl9whALapWpNVALhXJJwIagMcsC0p9mJihQTT4-_T6KaIU4zOv-lynipVv7K8EF0dgN27-cacZ86OC-ETVIJdVbd7XU7kA5SCpJ0rE10_zJgXMc9D2BQHiKhZwi_V6P1_W0LDse0DDFU8R3mczrHG2Mtd_04t6KFHWQ_bXnhhOIWiw0d4OrNolDcmt8aaYLU2Sxmfbyn1_JwcTWm2a3MMrZmZTIQcKHt0gIvDe_DLj_Oc-3XqG_H3x5DPY1wTdzAwBBD1P2ImhuZPK7LKIXzVatN3Ry75geNiqbasftQVwVVYVbj2kuBlcmensyF-4F-p3e13HswVxrCwbZ2ZKgoZXlE9ibAp7uX68LPblhdTiCt09T-VIu9ovAMi3SVEcUlnIFBLaWLqfxFUCwUjZQcO9m4VllkqoPOUQlqjSTlyh7CgYlomFJSuIVFnnNeIdTJvu_-fC7MwtT-rVQ8rL9b37UU4FgsaNhzlC5dGD5pMx4109h0Tar9e8tjze3TnFlE_MKQPawF8Q8WofUOTDXF_AO91sWrT7s-eJAsWM09V1yRd26db1csZuRB3scRJaXPFeYledlEYfLQFbJJoscVFG_U_AsLOE1rTByIwrGud1rjiLsAL-9cRTlcKtorL4olWGdeKBrgBTqBPK6e0RNBxAAzgllvNh3EknKNUMoIO4-TPpwOdMJx7b5yh5hXdr7D4ApqR24ksGjg2d5YqlJoFWcSNQViOyCsEw-I8zEJ2lEloIqq-nQoa7s0s8qLYFTHdXEoLI5DVSCQrZP8wdFlj3OISZ9bkl460M3cXOweYe3NxTvD4bN_N6L2ClBA6Yq0-Hm6dwVEReWvTWlNg-h77wGKzXMkC4WnlM0faT4I0M5Ypi1SZ-dmGR_pUyW78aHMCtcfLh0d3seO9sZngCiiUagXdcCoLJJtmq2xthmBu8NzItmKuIDqvHuTVnHYTdHe_aDDdl0Oi7m7kLpsnORiayeTwCqkwnQgAos1hdkd3ve-fUw2EJ6TZ_ybgPXpJXLDPlInkz3lOczuntiLYzUoH5vHBm77efjBQ6VRX_qu1HQ4QlmKhIwvhbDEXyLaA-JsARrYbPAhjKgcrc5H5k6GIdvmq0f-9UxQG45d-IFEED19CfNOOpNS1XL_p-srrCt1DDicucKSJ6YabbZvWoGWZ8mTsFFaWq5CqhsbQLU3bWiHJAw0p9Aimn5JVwAen6OfgCD_LE51p09hp6ulOYxcOWku5OESLmWylYvGHkDr6b1b6PEMH37nvxhyOoJ_18JItD3gMYbnscqt6vXzl-GTgrVzczHAKULdbBto_SV9wq7D3WKb5TN0wPa4hITAl4VPBEycw5gs4dF_V_ry00JYLZfwZ9cm8vYbHgOhmrvK7PemGeoWc_DqyLj1zfM96VPm8pj4TlTL2dzeYAN3egB-iaFcQHGCoN1Lg-ojrCTQ4kleiQC_Sbk_RREH35lIjt3SCT43r2xIZDL_UaHSiLM9_JjyfDJUJYXZ7UdgWM0kRCYIpX2V0aEWbtQx4pHLnO24ansbxCGRplO7aEOgJMCv23aZebG0FCjHgQT6vJpPxVkAvudXn_hUfu3aZkBTiWwJegNtlivqwqyKIo4eSBmQjAd-oIcWtD97XDVbDbc39CR9e7jSNUnDRxvOXFcRm6FdJWcESed8zKcbiUdncGgfTclATUCz2MsU5i35ll6DHeUzCKYPN2E1qjzv0Sy52CrOXPGIKTpVA7CaSIzTYmlKWMmBVP5Gs5-B_Mzverpb194PAQbPOa5InR9qnYlHurmXZnSnYCiDpkm6rTPAhSTr_iQR1DNeJknNmTQfG5KkjJvFKDIwATA1s9ZIB0gPs9bP_3wQRB4pEav0doFLJOsDTsA3vD5r_mrJR9fxFNMiAdkdLLCyw_hZkU5sBwOqldeYOJKF85GaQlboYx-Q5XC2Q2nqunl5__x7wXhyQX5dfCSGUUL-rk_OzoMYOmRJZw_82N0uAw7ZH2zrU30mgzv1Kx-rXYahcefguJokyEIp5GFhgTFgI7jP5fjnZJtFpPA7-0NveeOiUWlO_NrPgjZC9hoLkREeHBZcKAVsFKYNpKtHc2pbsbxEGsbg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_041951c149439654016abfce6f754c87d18624e40b8e3a4338",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 496,
+   "total_tokens": 988,
+   "cost": 0.02972,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02972,
+    "upstream_inference_prompt_cost": 0.00492,
+    "upstream_inference_completions_cost": 0.0248
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 457,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

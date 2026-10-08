@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894434-phdWzW4Rs933qcxqDmjb",
+  "object": "chat.completion",
+  "created": 1790894434,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confident identification. The strip has many short, flat, saturated blocks (purple, cyan, green, mustard, magenta, orange) that change quickly and evenly. That fits a video built on a run of solid coloured backgrounds, which is how I recall ChuChu TV's phonics songs presenting each letter and its word. The dark opening stripes would fit a short intro.\n\nThe other options should look different. CoComelon and LooLoo Kids videos are 3D scenes with mixed colours, so their averages would be more muted. Masha and the Bear and the farm-egg video would likely be dominated by greens and outdoor tones.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Thinking about the colorful stripes pattern \u2014 rapid changes through purple, cyan, green, mustard, magenta, orange suggest a phonics-style video with distinct colored backgrounds per segment, similar to ChuChu TV's letter songs or Miroshka TV's farm content. Given the dark intro and quick color shifts, I'll lean toward guessing E.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about the colorful stripes pattern \u2014 rapid changes through purple, cyan, green, mustard, magenta, orange suggest a phonics-style video with distinct colored backgrounds per segment, similar to ChuChu TV's letter songs or Miroshka TV's farm content. Given the dark intro and quick color shifts, I'll lean toward guessing E.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7wcKEAgSGAI4AUIIdGhpbmtpbmcSDFVRhcluu9GVpGzuCBoM7HIT8OaH66IEw/QGIjC3GgV3PBEqP8irxkwdB1TmeIr1NBJSymPdkcwOwEI4DhY3Wy6IrlTqBetq4RCpGqQqjAcbo8u8skTwJcYnL0S39Z7y+9vjESisA8xF0G9E4YqxFLWSBej/kfISDmFU0LGtKp7nUc4eRd5hg2+ooPgLQxAsjw2RyoagBVysb8mPUbERuj5mieh8gXxudxkYiYWwTaqlZT3t8PvlIP/wFUPkf22QjwSKL4PlGw/XZOilSItjN0Hlr/Zi1QewHJVQQ6xCyZbRvdknD0kRZ/3hUl1ZCUJyxgWztrSS9/tx84cc1PcS3LVMjyJD54N3y+41pVu9pRkOSCGsd+FpyCD0i3dx7EGXe93jD/NdloywpWQ9HyNcxehAc3TTPcyE5XrevFRXIBIXOBh8T9GVI21ds8GQT5IWbfl2iftSUVObZBUNPM6Vw1NBZ7qLWNMn4sKrGSOO81L1de6gNN4J4dplvNxDibym5ToOv1fNtRh4m3W6YtBtDbnIs0GB6qWOKfcME0s3rDsjhVpDYjXvBEclNSBTUX35Xq8EI62ZvDYGT03PcrtIn1SRY/MaCIA+SJ20eIych+DwSvg9V4bWDmEU0CdyH3EhqbPtZ0Wweidbyd34GLO5SwNOdMiJJ8Y3WDHSECmCfFPb0FvaaJ/4L+ihBFrAgloyb/m/vmDl5liNFQx/mwU+eu//ExeGeV9FyuSMAy/YuXFEOkU31YpXCMuafzbZe+HdqUb6wrn4UASDqx+paUwXrpZ6jYryvI4+wDwz0jNkJWX/uoyToD6TLn+vcOyA0HI5u60IiHl3l2Hr/dkGGtbsdm6zzJ54iIdaFSbWbG12WjV1ydAtcqNFc+EWGQKFTPYptHKLWsH+wjIaoUtafP9HeFAEOXWi/k6Ym+Aehto3VxZRYMXK52u1yKsSGjS6QY4zB+LnNFjPmBzXXPdfJgBjdQ8aHahE376sxP1acLDGmpmAY/p1g1X5Wn4DtGmOGmI9mX20ULh+9uU4hrYb/0SnVu09EP/aNUGoI3uSGr01Bv1vEBW/O1IW/vWyrSfE+GaOLGSdH6WtpHroeqZ5pR+g2lo9T8utDnn37lIU7ijSI8Qa9XftEpU9KqLIjgRxkwMeL2oX4ZsAA2YKqxgXuDeuIW9QxODnOIRUsfbDPlKkTkSU6WLapok2UsSP7Opj24/zjn1bv7kdYNNxp2lhHlSR28ZUdf95IECDR7vtkVvuLTVDLHpRAhpRBVDMPYj6h0fnch9aitx1gwoDpl0z1gGftwuxS2BDuSIpY0xkqRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 646,
+   "completion_tokens": 384,
+   "total_tokens": 1030,
+   "cost": 0.010264,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010264,
+    "upstream_inference_prompt_cost": 0.002584,
+    "upstream_inference_completions_cost": 0.00768
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 160,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894313-L5jMQaYNTmJXoH7cFW3u",
+  "object": "chat.completion",
+  "created": 1790894313,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Justin Bieber - What Do You Mean? (2015).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuD5ZJpq3oCbEgdF1siDtN_Lf4NJEHI8PHu62MSWK6Uuy5ZrMFHq5NcTmtVCBcf5g00kB-zzZPzLuedl1H4XAjBgxFSSM_goAaokbFNfliVroyig6Id_Dr3cZ07aOcpOPESxOdihcqsl0eW3VlSpbNE1DZJJLeE1ZNgMYZKNp0HuoQi8mtDmGH2an46ectydbLCtMNQA1LHuhtA-V84Bv54ZdtSAMR0IFZouLZsAn-ojUXDa56xCnl0SydxHZ1ywk8W2ZtfFo-iEv8-nkZmJGHHtUy-9niKJPoeloXe9J4hkLH1V7QP8wQYwh6bca4LBmSErOvv8uSOkVtXSJlNE1BJf6lKdaCA2g28EkGNCygVR0HkR1ID3zFrv7d_ClQG-bVgAXdmhhFjBnItJh35AyRQk0olyVdKGrt5T1iSIjN5Yi4gF0xpRG5qBBqnM56IwH3LQIp-UJMuy0kdF37H7b7dNXMsCXh4hF1ZGcIUzZL5NVhIuASdApAOxwCBbAgendNg-vRnQ3hU-WBPij7R0fTBZwL3mnvdnAGqVtLuXkKpj5FPirmTEyWFzeoQ_87W-d9lWqjljxbuge9isXX3LekWijQIPj6q6bADdw4bzUF9cdjOquFk7qlISzchYjJTwnf3XJydfIwK0mbwm6AugVF7W23ZLWOt2qhte7BQZHpeg543tlO4R1CV0uv2Cy7p96osqQGK1oT4RafjYt0wQGs3RW_IP8jqeft7N7-v59JivCTi1rojbJ032HotOs4Av47KKn5sOTQseQYoUqqC4z51zqUqymvDdKaUkvayrV003lNhTa5COmDaddZt5k6nsyu8NdAjU6o_W2wxtm-dZWSmFg_eewm6fsBK50KB0Ic068rVrutiJViIbIo2qcIdHBCUfzqtiDVOWAP69OW0oz4XcadvilHBFrX1DWO9l6j5Z74XYVg4nCG6Mm_xjbr068LpRObLZyG_ulSs-xfmwheanklGn5h-G-wW988cPzsBXyAJeWf_wdrqSYOegEL4zBs4LCPRS-Aia3ahpXlcw77-BV-G-m5oiOYCrOHolPqIRWZz99RS2Y5ERVlxRW6kjZAxn1qw65yldxkNOg9rt6FclN9AuSXxA4H9GbSO7gyzNiv7Q7cuixDm70up9QudrRKcqwMmfTOK7cSisRiEp4B333Tkrmy7mUYy0TdkRWjbBidqSdLhMPK7cHFkIqHBcSxl0XDYNlUJ7ZNmU7qSzDfdyeDAaXFt28lCjOgxGCR6DkPg7tZuUU1AfATUS0-vCSNMYyav2_rZWT38PUxw2f1rSKN7-7T8LPZzTJOq9N83znNu4o7C9gvwyjhh6VmhQbJNClVoCqHat0B4O2GeEp7kqM2VCYCOloI9wO78AK2SO96e0b1-IkG5rIeAn-e7epbGk5BBk9-nwcIbRhUHy2kydWfdjEO4WY9PsuGS4o2TalpwnX21Cba-7n-5Bx6lFvZy7S8sSGR1ldx9Yeji6_fLutN3gGn89OZrj3AWQoa33f58GqMwjU65g4rlF8aJGiiv03JQqazh2xPq74t4q1bbgaNvtKx_GZXVvofGqJShRk0WWVM7S7WhcC46Oo5rPFR-JTehTs7WbdTBZEi8ROd3yDTjKUwafRi_sC53WA3J9NAE3i_wo8VlXHKvk-hdaVEP2nD-peKUv5kRLbQgdYNp8tBd-pwAYUI45uUfd9j5pC6zaqjXAS2ok1c0881vOzyYExuXzeoGe9E_t_9XKavoC3zdO5Ht5LlRCGREMsf9a8VpD9ln9WBOA4T_x0btBwxggDP-9Mmp51M4KKakFctKcA_RA5GACNmgCaZj976ybtv-KBd01s_3GD9RQhi7ZsOJd7UA4qnLS8Jr_4E_SkGie4V22TRKwAjf-FnmLvyNO401kmrOENSU5KqXGQ6y6Zb5iUmjXFl4nVOXyL31VxneHQAPTsLg2mtANKEemvp_YCik9Q7yB1OEGBzIoZ1uwjDR81eIDY3l3AfTMgoCsTfRALQELqqOr0CREexxWV59WW31LdhygFz_XDE5AvLGnggZAGxUTr0CuvRW5_DOrJVjB3tjKhEifGnyGzLjeWBCNag5UaNDyxN09ZTff__cGIQjoCdb4ZFwQU1_bfF1Vbgvn53YIUiweGRsboK8qTkue0VW1s-2V1dBOzfysOzWyfENpo4J67kPrRz6zhfNlqgA_hzE8ThUwl_TvIZKvEwwyXWOTiPzKyWr8n5BOq08_bbuVmic3mo9_jrwZ2z9gsFF4Q-wQToC8tHSjOOwUiJPHrTIXF1NddFpNzbj2e9bk-rNZqlh6ldajRfWWourUbGp2oC2RYfkW_nhkQepqBxXdgFFNu_1G0wQcANXxSx7_0AC8YFMZ5UIYXdwLlwsgIv-jg7FkJtXZq7XeoXw7v2O3_7QhpKkOaad4w7dGJ2eOjiw_sxYdZhea1NDWKJ6kDLVc-tXy7GsXRnV9mj-Yt-9Q4mKLvHs6GRFFTPUGX5Z1mODzLflxURoGp-uD9RllCVDQdC1WB3ES3bHHqf_NtfUaeAx1SN80dTl94rywz5xXLLddG8TQLhck6_HRIP8fT9hLkZJGxVb5PVAzcC1NvLe7_psZGLuSrOmSZmkI6oipfcy6LjJOLpv_07JSOiA2QrDPieoaDB3TAt2ISIoWQF4XjzcUJyquUYa5bZj3y5ivcx19hmRCIHEYmQc_D4N_NqxBCvB3PG0JG6d-660nCr3Co7fYun2w7Ea-k3zfjtOPDt6EpXWsNw61We4oKpdpdQ_rEaBo5JVSQmycd3VzojX_M4ZtnjL76gjjA91sZG2DJ_UBw6gr9awgKBKT8csVTSWcW_Vkft_VgesUBRCroTKXzuT2Zcd8JCVqADOwJk_jbRvs2XeU1Atk_AAOWbczGn4vwCSt66iVa7ywVbjyewy7KbjFosIc19Z4Ydw2YS4yq0sM3wYyuNb-ip7ygmBHcm_52xWGyfDJtHPMeczOpC3Sm0TGnZd3_jEVxm97lFkuAZKAo95_J1Yj-0Eam7Ft0oMOYvZs8bpnLuExXTrTOwCXDURqgKXNTZCOfMF3gYEVJghiIyJxem_PgcsweE-h5BMikn3QEnAbDpA7fZI7MO5HW_7ia17bI29AYoV02h4CcyRHhA9AdNWMC_yXrH_xmtrMTQzB6f3kvcDM7gUATyZ0dh9Yd7UuodHn0IK5szoGG3IBlD_nK14nIstaD9shbfjXgfOxw3yvIB1Mb15gwzUMXuzvvOZn_eZz9XYvZ54_gpMmrnjJvzixH_FHVlK7xow9pPecq7rpLyXwz44pHNQ2vQvHNIrinJglrCMdiOljcAX39xjrAbObHwr__a4HcYV2eXR94fQBldbPUjNJhs9dmK7qcktt7w0zq_o_nTHXe__uQHg2uWIIOftq1aTXm6vITvxhpAIa6yacD-7kGGMzLh6Ef7VmuemzLPAYWjMuObUK7zesQGcCn-tDPrCL1IqHR-hkPvQH6yRrLEFvIIJ-nbyU9P5UEHEGvJbaLuZGgJ0tTnN6CNvMxDlu2gR0Ck1PzGJhhT0734hmnJmH1NlbpD4x5GmIiA6X2dCpJbM7NEBj_l3DZ45nWE9vMZs1D5FNJeJPngejfj-UJPnu4XBlAjoUHohuvugKRFAUv8VZfeFTZDbSWUAxxLza8Ud-HbxC9kDBzQS_tza-1jsScrTW2meWLwD5ICCcEm35nC3qLrzKu3JDbCahaKOqXNeG_XQEQwDXlIu7kWdXc3xPJaVi4S-OWF9zjypGTiRbSjghc4uR2y-6_JVKLmCaXeAtdR7-mLcst-oNpAuzAl31zeYm8THdo8FgnhuGPfK5tRFdm0VWsPkDp0rFpC5hfNL1Y6t88iNk08GR9O_wHI9Na11FIi-S-Ca3eyXUYpXdLcymdsn3ExMBdxXUOygKbeJhkZi8Qf4Op7VOXgWT1hLVsjKlJ99AGGTrdeeJ_4jieyQ00yogbLqB4Pjy4c-Zn6t2ESdh0A4YNOScOsZR8CKpKkrBqOk373EFQnkLAFEZbmc8MTHRFsLRh5GTomjOCRmd5pCZ46-COVL0RKd-_uk0xck3cKD5NlM-iGfNAeQCPv4NIOzUxZ9t75bLTocNS9YppveDiSjfIj4J3UtaH6n9gn9ml0VuXatuz9e9UkNdcWvkSDIJPFGRW1MY-UxuaLX56odR0I2w_hF0cBkAn63JOtfh505CvUtYJK4u5KAcPjGnQVHRLwiyeOXrKBAe7rk_Gw6nxPuX7WazhdXnUtLe06p-qebsiBEr483FAAd-j6guJf6jvNNC9J-wQQdK6BIXhsOvbFILIOx0DfuO1FKQO27iIXlfeC0e5hvgK2Y5wdx3lET7QsO3khvi4OSTTYEWNCcElvxwe7y9nxZhQYKZhS5paBvFPIKTZrD7Q7Bi72beRdLF-3Jq58l-pZOGXWu84I5hKJwc71nYt8rFMp8Pwna9LZnZcb-B6koMEgJaTIYxScubsSZCONe81qUHqkU_YG568RgAg0Ntq_FnHZNfsxdhzgeG7pFv1qK_Esqj4kYE_TX9kpiyysjCfMGjQy2Acp8k74vzBSmiN3efojy42GAmgZNmT94egfMwcWRCAuswQzQ2Ag1dPoA88qXu8_M3WTl_Sw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ae6bc772a18582a016abee0eb070c87d1ad4be62af6834929",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 541,
+   "total_tokens": 1014,
+   "cost": 0.006356,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006356,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00541
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 516,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

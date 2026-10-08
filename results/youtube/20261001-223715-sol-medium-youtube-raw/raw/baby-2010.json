@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894246-d57IpJjOPx3bi3Ud4EA4",
+  "object": "chat.completion",
+  "created": 1790894246,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is \u201cCounting Stars,\u201d based on the consistently dark teal and muted brown palette.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCroz1-gzM5KpPlAjA63f0K9ceHaiH1YnHaZwT1vJnP6WZ0N9qT7oaQiZ3dlHDY330MLY9N68KtQQKSJW1a10lwdJQVfYH9sVHQYBrxpTdEDnSOGSyWeGzY1FXoqZXGHRdibN4TaPmgvlSIv6xdrthgWoNB-jyP16AjjhCxgs-cxV4Xb3qoxYiaFZu10HiYS51ocX9bwWdrznwZU9eBGEkM_FOO_FU7ExOVu5ylzk-0IZtvoLtFNLGIjAfIdj9v1F8H76WJahgzfRmpgfKzj76Y9T6uhS26vaq1JxcTMmV-vyOQxrdK7Ak1sr-32d6vrbFEZI8kkUbMw5-yU4RCtJuDj28UmD4dwBxVYx_Iv7yMtDWOam-m3cRc6PJ3sjB0eV26CMsUm_Blcl_Gu9GtHLwOU6UT2BIVKbNV8t210epAAmsAGqH50dD9EexB1yJPCkepjwRaMcipwpI1D7VxnHmjC4lMnLWY3YIXL4IXG3qcb8LUJyHblLqQgo3wAnTklT3fl7WKQiDrYQZgthZe3JAw-dKYi5IhJ-cr8rIZHiyJhAHYgaQrQcGWwSj_R9QD5xU3J2Q7CkWomXq_AjEaZZkG_9iWxdxFbaW9zDSwX7dntM8rj4rDNs1nPR1_LUF9bEGjU7LkYvz1wzXZ1pHv0QvsLNe0tvR_7fyg_kqn2Wv7AXm4teRkh12CmjuAcQ-HefdrUH1AjGtJnC-J4dlenb_E2HyWUMN6jVpE9KwFDqZizLT_xziqaOa5x9O2dq60JojTsLKBmmXXf73tcJHXalVSkk5QR5Zc9uYe84NwxpJuNdPJbppAksp-bKuqUtSLBNxFkZ4PR98wnXG7vAlZ3ITRVlwLykwBMnoWOQZTJXDHbZICkC_PmbcAP5mqYC6uSSY4AJNF44k-Lbyt2rZ9td0UbXAbeRIPXU_yLcgZVUG1llDuezxCWuUK_Xrl4zL6oIj_6gPQ7WEsB3h1Fq7aV0f26PvVX3oEY3ZY594RrNvQAFFIgByiJAVGB8W6Y3NbSbxOnSjcjU2EMYfsF0LiWlHrg4rde-2kjBpba4vCH30M-veMY3M5F99QhmZguan-mGsvOYw1_cYM5sDC-RnqvG9aHw7oWg3-hE8-_ggohXJ6ql6GlBqfgSJI2gmL95Dj8FvFLubZz-1ehABrr_3Fw0yFHpxOt6RLO8OwAwi9_SFKzhTDFkvg2dcW4qRE8Kh6_AyqKrQE8QKZxAz4v3drDjgjrL6qsdOmgCsYDyQiXcYol37uypT2HRtC9GTHNcUNhrw36nWTnyKAMncnOS-b8AszJ6O_Zo12erkGWmiF5aUshT2R7-2jv32P7_rWqjwkKRJu01-8EOoKlHMDlh_pQzRxe4MHbCovhFkYhWqYaCPe4uNUpJC92bc7eRf9heht96n_DdqAtL18eqhDnnZX4y0mbVI9RivGHPI1N5pfN2G7UsSEgVvqBrGCcpKYqHUJOlinK9k9PC0EN6bzx9LdmusL9mSyi1voUxZiApRJRXBXaHGnemFWqoXhWNY6qwBu2uh_bs3fzraYLgkSFklGp86glLkbJpoazIHrTBKCPU2tW2Zd6NOS5EHIeVHiu3lTiwdXV1-kBwjLzpC4ZUoobkRpCJnori6XuuL2ZuQYTNPQ08Xv7Al1BFKwg6kI63kB8lHgdoQONipkaaBAYUKvj3GqwNdsX-L19ja0GWteCDF0j_9C4ZhQu_QUzuyIF8HmmloD8wjfProFDEhc4ovxvD0kdDkRS1SUdr6tliml0JvOJJb9zMdBIXfBNX-OGxIn_mIcXSZ7zxv7zc3Y6lkQQV4TbesfnhQPWsKZ3KqydnUxj27bq91EX12bTQr46RiDvq0OJ55KLmG7a37q2ZM9sJRdviJ_jfIT0fTawItcEyRdImXDgoli_lHmZakYAmoAPYgWjaAQWF80diXkFDyex_xgnR20-PNl2iteBUyjOeVvuh4NtVtaRdEJ0DwlReODB31ivWwDPzBXhcQKCvZZVs-h5xEAW8kGAOQOhKvq1HQ4ryE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_028317040fc450b4016abee0a872c087d1bc4a6a325edf72ce",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 476,
+   "completion_tokens": 127,
+   "total_tokens": 603,
+   "cost": 0.002222,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002222,
+    "upstream_inference_prompt_cost": 0.000952,
+    "upstream_inference_completions_cost": 0.00127
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 99,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

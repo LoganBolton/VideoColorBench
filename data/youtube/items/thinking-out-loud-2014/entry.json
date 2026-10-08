@@ -1,0 +1,21 @@
+{
+  "slug": "thinking-out-loud-2014",
+  "title": "Thinking Out Loud",
+  "artist": "Ed Sheeran",
+  "year": 2014,
+  "label": "Ed Sheeran - Thinking Out Loud (2014)",
+  "hex": "#343329",
+  "rgb": [
+    52,
+    51,
+    41
+  ],
+  "frames_sampled": 289,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "lp-EO5I60KA",
+    "youtube_title": "Ed Sheeran - Thinking Out Loud (Official Music Video)",
+    "channel": "Ed Sheeran",
+    "via": "yt-dlp"
+  }
+}

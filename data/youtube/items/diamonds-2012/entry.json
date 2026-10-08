@@ -1,0 +1,21 @@
+{
+  "slug": "diamonds-2012",
+  "title": "Diamonds",
+  "artist": "Rihanna",
+  "year": 2012,
+  "label": "Rihanna - Diamonds (2012)",
+  "hex": "#252A2A",
+  "rgb": [
+    37,
+    42,
+    42
+  ],
+  "frames_sampled": 283,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "lWA2pjMjpBs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

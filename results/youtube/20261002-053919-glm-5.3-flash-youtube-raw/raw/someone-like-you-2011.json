@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790919593-gXunStwDSmgXdRaeaKr3",
+  "object": "chat.completion",
+  "created": 1790919593,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Phala",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this image, the video is rendered almost entirely in shades of black, gray, and white \u2014 no color at all \u2014 and it's predominantly very dark with only occasional lighter moments.\n\nThis rules out most of the colorful videos (Counting Stars, Blank Space, Diamonds, Thunder, Cheap Thrills, Chandelier, Let Her Go, Rolling in the Deep). That leaves the two black-and-white videos: Adele's \"Someone Like You,\" which is a fairly bright daytime video of Paris, and John Legend's \"All of Me,\" which features moody, dark scenes (piano, intimate shots) intercut with brighter wedding footage \u2014 producing mostly dark grayscale stripes with occasional lighter ones.\n\nThat matches this pattern well.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Let me analyze the image. It shows vertical stripes of average color from a YouTube video, mostly dark/black with some gray stripes. The video is almost entirely dark, with occasional brighter gray moments.\n\nThis suggests a music video that is shot in very dark conditions with occasional brighter scenes.\n\nLet me think about the options:\n\nA. OneRepublic - Counting Stars - bright video, lots of colors\nB. Taylor Swift - Blank Space - bright, white mansion scenes\nC. Rihanna - Diamonds - has bright scenes, smoke, etc.\nD. Imagine Dragons - Thunder - has some dark scenes but colorful\nE. John Legend - All of Me - dark and white scenes, black and white video! Actually \"All of Me\" music video is largely black and white with dark scenes and bright scenes (wedding). It's quite dark in places.\nF. Adele - Someone Like You - black and white video of Paris, fairly light\nG. Adele - Rolling in the Deep - house with water, dusty scenes, brownish\nH. Sia ft. Sean Paul - Cheap Thrills - colorful 80s style\nI. Passenger - Let Her Go - fairly bright video\nJ. Sia - Chandelier - bright room, dancer\n\nThe image is almost entirely black/dark with gray stripes. \"All of Me\" by John Legend is mostly dark scenes (him playing piano, Kim Kardashian scenes) intermixed with brighter scenes (wedding footage). The video is largely black and white/desaturated with dark tones.\n\nActually, \"All of Me\" music video is mostly black-and-white, with dark bedroom scenes and brighter wedding scenes. The average colors would be grayscale - which matches this image being entirely grayscale!\n\nCounting Stars is a bright video with colorful scenes (warehouse, band on pier).\nBlank Space is bright whites and colors.\nDiamonds has color.\nThunder has color.\nSomeone Like You is black and white but brighter.\nRolling in the Deep has brownish tones.\nCheap Thrills is colorful.\nLet Her Go has color.\nChandelier is bright.\n\nSo the grayscale (black/white/gray) palette suggests either \"All of Me\" or \"Someone Like You\". \"Someone Like You\" is a lighter black-and-white video (Paris streets, daytime). \"All of Me\" has more dark scenes with occasional bright flashes.\n\nThe image shows mostly black with some gray stripes - suggesting a mostly dark video with brighter moments. That fits \"All of Me\" which has dark intimate scenes and brighter wedding scenes.\n\nAnswer: E",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the image. It shows vertical stripes of average color from a YouTube video, mostly dark/black with some gray stripes. The video is almost entirely dark, with occasional brighter gray moments.\n\nThis suggests a music video that is shot in very dark conditions with occasional brighter scenes.\n\nLet me think about the options:\n\nA. OneRepublic - Counting Stars - bright video, lots of colors\nB. Taylor Swift - Blank Space - bright, white mansion scenes\nC. Rihanna - Diamonds - has bright scenes, smoke, etc.\nD. Imagine Dragons - Thunder - has some dark scenes but colorful\nE. John Legend - All of Me - dark and white scenes, black and white video! Actually \"All of Me\" music video is largely black and white with dark scenes and bright scenes (wedding). It's quite dark in places.\nF. Adele - Someone Like You - black and white video of Paris, fairly light\nG. Adele - Rolling in the Deep - house with water, dusty scenes, brownish\nH. Sia ft. Sean Paul - Cheap Thrills - colorful 80s style\nI. Passenger - Let Her Go - fairly bright video\nJ. Sia - Chandelier - bright room, dancer\n\nThe image is almost entirely black/dark with gray stripes. \"All of Me\" by John Legend is mostly dark scenes (him playing piano, Kim Kardashian scenes) intermixed with brighter scenes (wedding footage). The video is largely black and white/desaturated with dark tones.\n\nActually, \"All of Me\" music video is mostly black-and-white, with dark bedroom scenes and brighter wedding scenes. The average colors would be grayscale - which matches this image being entirely grayscale!\n\nCounting Stars is a bright video with colorful scenes (warehouse, band on pier).\nBlank Space is bright whites and colors.\nDiamonds has color.\nThunder has color.\nSomeone Like You is black and white but brighter.\nRolling in the Deep has brownish tones.\nCheap Thrills is colorful.\nLet Her Go has color.\nChandelier is bright.\n\nSo the grayscale (black/white/gray) palette suggests either \"All of Me\" or \"Someone Like You\". \"Someone Like You\" is a lighter black-and-white video (Paris streets, daytime). \"All of Me\" has more dark scenes with occasional bright flashes.\n\nThe image shows mostly black with some gray stripes - suggesting a mostly dark video with brighter moments. That fits \"All of Me\" which has dark intimate scenes and brighter wedding scenes.\n\nAnswer: E",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 486,
+   "completion_tokens": 667,
+   "total_tokens": 1153,
+   "cost": 0.00032512,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00032512,
+    "upstream_inference_prompt_cost": 5.832e-05,
+    "upstream_inference_completions_cost": 0.0002668
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 515,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

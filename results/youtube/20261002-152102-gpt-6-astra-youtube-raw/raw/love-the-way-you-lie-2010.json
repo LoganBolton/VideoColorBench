@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954946-k3GUsYtUHhCFORnVeZIL",
+  "object": "chat.completion",
+  "created": 1790954946,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing visual elements**\n\nI need to infer a mix of brown and dark stripes in the images. Options include warm sepia tones or muted dark browns. I'm noticing an image that's uniformly brown with little contrast. The Senorita visuals have consistent warm tans and diner motifs, while Criminal features warm browns with gold in a dim prison setting. I need to decide between options D and G, as the visuals are distinct yet varied within dark and muted colors.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual elements**\n\nI need to infer a mix of brown and dark stripes in the images. Options include warm sepia tones or muted dark browns. I'm noticing an image that's uniformly brown with little contrast. The Senorita visuals have consistent warm tans and diner motifs, while Criminal features warm browns with gold in a dim prison setting. I need to decide between options D and G, as the visuals are distinct yet varied within dark and muted colors.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83OOLNguX7zj0CI79Njl2z61EqVKtiUUOG4IN8uVqSpkadf5yUOKWS9A9ciK33Ws6WNKvmvFxBxP1nSOR2ZN4Zqp27sXQiRjhfJygjqNrJpORBevcP_nriG-uLT3pvHKXR2VYb8nO79n1QLwjhx2zr---nUqq7WnaMu3XMqR5v8VSD0LcJRBbU5LE1KWK5LrdMFNAzNm9fnXyp-UiOnKgDFUjoK3DosOh3--XVSA6IluLE_A-NP3V0WxY6-A58vsdKXZtkqlHWsrha0JZ1S0_S3B0s0rm1dbn9eoB8VrsSom6t1094G1cY8YNS12bRj5uJYtsxk4aeBGlNZcX1Ad0Jad2KR6H__pZD2pCGexjyrwsyxkYmNleCt3RA4A7tIuQ5pb8XIaf0Tmtve0Bz7m4wsk3oSYzw3j8hQOM39LPBVEV1fGLRjaQClEsng461GA1YvDXZQVJdMV6bQ_IKzh-bHYryvGFlrUpA_76McdkZ2YfmTt6beyVdjM6rmQNg2ZgaLa33fjZO1Zn76dPQHUepo9_wbZ4GKrHAIDFIhzsLljPd09mp7RjhliW_y8loU5y5VtiL528vK9NXAC2zprr2M0Slm-4wFFDzg9hgOp2wcR3ZThs9ztvONhNLsXyCLbEDr04R2bDzT1oK_wlXmrwIkJYiKk1e9cC4pLLjA4bs6hn-we5QRha6qdOq_YV6tpEPFO4rgVOl9BSKxfEHpujOENueljbDnw5TKP_1eeWBfM1P766-JkW0PcFqVAu5oQlfKFbp5B9iDORy9SsRSTGzbnFKQrbMBSabH2-PWV7aE1mKK9iuizsvE2Fnsr6h6yWrbL8aESAJ7fWs6TiZ9nBOY_u1DyOaoPRDFs7G21z0zTo_g2bSoFHGGw2u1CJeZhmdW8n1DV5jRIr_jwxGVJR7O9HyZpphSk49eWimu6pZzR106GTllZuL3fKF3N9bYnC3SvlUvaXniCU0gVExLAFRUAMJLErieoJHqdG6OMLCg_Z6IVWt62PeDKy8UQagEjChHYiLDHuMElQ0sUuygNbUV-HSCZXe1BoWGopP-eORPov_gLsKaAE9LgqBBz5ptOBfjvb94Lg4oCRWZ_eRqIUbEpypGX47oRfy4YMeC5kZ-c4BmLV_3S5uK0qs0OruLJHTUevJEfdIuv_d9pJ0ea6YLBvnWjR43gpGWfKIVAJclB1AF7wItqD9omYoHjtO72FvOLfPK9NyDBWhvvepkt2N2LBoAJz_fNrXre4tV5RE_-h7rbVcn_FelWtt0ZQ6Qng0RfPqqpHt1Z0MiF7xO_tgzt8-QAwPFT9BQlDNzPHCPN1SzPB_hkX45LCh3UOOIszQH4B8qGUUZUg9jbkqX5m177CiTzj4_6sW7gpgtFEwxCSuL_qibIg6xihmvs1dSXmJPz6Kf8fkLatvbj0ALdnDLv_FzRDbQMbBoBV2V2Vnty3uTuKyHzGD_L3yw3Rl_L9a-dPBJmrut2hhhHYMvI0C-_dpm6HlVewtFiUwXT90_Sx-Lcm7mMo_ituHr-BlMbPqCalOqpuLm4t0DZXS5EtgNv07nXRg6vFUzXfYG6o9zsTWfX3rErk_5QI_umascwIS9Dlb_wQE65NeEW8H3VO47XH1IaBsQbSDbcydasdzIF5DJG-DYYBYQgn2hxn7WkRhn-6RVQ6ugFLMMEFAAx-lRfRc77eiNa9GukF-lJuewczysC3xJvgJB4b8ZexVdwP6mbzrqlWIPttv9BcoDwPdfzgGAfs0IzuilxFySOGt-IKs58LsDbPt7NqadCrhJhKzX14JcUPUvpnqs1VfEtTOUEILqgUIyGaB0TZGByeUGyrz-ax-msO8fGc8Hz094Z10A-fqjs99qigsg-IREIUCguM5urCCmqhwgtgkhKIqutV5rnwHq0AfYw1RnpZSP5Oof52CJegZ5u_47SPZRtdfMdnyIZGsX-9HDJDuXqs5NGlFV-xiLw--nEzL1t7FHwvfZRFlcrGLLoyUK0d8GJOcLTOS0mnOlrpisNK5tkqf6NlQ3NYkU350GQkKwtGx9TqOMjDHKJlWc8w4s8MqOQX7Ppkq1ahftk3l0wOw7rLppG90_L3Xkk6XhXvhjy3NV_GI-n4KaVCrzeqGl66BOSO17inODMzirrYRnEBa083fPNxP3DdTC64C1eOoyDBaNLbASYfeFTRNDCDzngaEpKWTN98Qg7zT3RWVYtaa6XcIRNxs9Fxr2DarY-MBTOIfozo6fYwc8AEDuu38QlaD3wE-ABqsGEnHt7hwdEtx7Wb08LlQehIWz4Lv0vt913YxWKmtxyxxn2gSLTn7xWA6Nt3G2fdb60IgF2fD_-kehuiTRfAZYkZS3cVFpWwwH-IKDK2bJTsjPeHyHCotgYm6kMNNZAOVX8A2XWFhvcShTKhoQBWyRPED_O-3hPgAMsfqZGCTBKO7iJqkAb85IXsPGPhUbuBEo9mFN_hlh7cIMNLPJezoYs4BfONY0u8U_riVuoJ5PWj7q3zdMo1AvOY098rqXRDtjrUPzHluDaM7_Cukhj1lmJ8umNFl9oujgYOmqdSpyHNioWQht-F8LykhVJeNHcW0mtwyFP_78BeleW8ATowfB0MWSUmCL5NHyUQ1tN5Wz.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b5c0b3ea30ab1e4016abfcdc40dd887d186b92ec30f86aeba",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 489,
+   "completion_tokens": 210,
+   "total_tokens": 699,
+   "cost": 0.01539,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01539,
+    "upstream_inference_prompt_cost": 0.00489,
+    "upstream_inference_completions_cost": 0.0105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 201,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

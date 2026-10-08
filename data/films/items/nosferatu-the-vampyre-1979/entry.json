@@ -1,0 +1,21 @@
+{
+  "slug": "nosferatu-the-vampyre-1979",
+  "title": "Nosferatu the Vampyre",
+  "artist": null,
+  "year": 1979,
+  "label": "Nosferatu the Vampyre (1979)",
+  "hex": "#272829",
+  "rgb": [
+    39,
+    40,
+    41
+  ],
+  "frames_sampled": 6413,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "udiys5P9X4E",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

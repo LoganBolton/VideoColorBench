@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955357-idPrQ4oxOcHNqlhoEpeJ",
+  "object": "chat.completion",
+  "created": 1790955357,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Visualizing video elements**\n\nI\u2019m trying to figure out the color scheme for some videos, especially with uniform beige and peach tones contrasting against black and white. For instance, in the \"Dame Tu Cosita\" video, I remember a green alien dancing on a beige sandy background with a dusty sky. The thumbnails show this alien with a purplish-pink sky. However, some videos, like X, use bright yellow and pink indoors but don\u2019t have that same beige consistency.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Visualizing video elements**\n\nI\u2019m trying to figure out the color scheme for some videos, especially with uniform beige and peach tones contrasting against black and white. For instance, in the \"Dame Tu Cosita\" video, I remember a green alien dancing on a beige sandy background with a dusty sky. The thumbnails show this alien with a purplish-pink sky. However, some videos, like X, use bright yellow and pink indoors but don\u2019t have that same beige consistency.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv89mXsSlMFfVfYpI_TM4lhmvuykH4BehC83p-xb3Gl2kD05mvr1XV1-zDns0P22Jr0R6EadebQkcNcW3N7mClfUN6AnplbADSs9gWRsRWunuswN3KRh7TiF6CazL1q4pePtP99aVYUDZrYlJaV_3RTXDNmm3DG5WmeAN9Ws-ULctLdEfnE-iQFAotED4MwXLkjcDsQlfHSheFrGDUC7hScPFeyZ2eksC75L4VdXRt8gYDm8SRZrXI_22XPaiq-Uqgad79Cg63LhIZXqwmyWfT1szCmBIxKTKvzb1OzWUoUqpE5j-Xinls5EobItLsrM0Js332TcyctmRpJZFZcfPcjXZ91gInT6UNDCYwh_WpF3AXQ9xJAxFX487fXErsZNRz0DDmScgZJoqkuyXzTDAczvIhOHTvuRPaEXQnpQaZm67r84urfgUXsE5ZCtkvHUzdNApQDp8GiwuI69FZVoQRRTclZ6BgAgV6oRXfAUPFHbfbqwXIbalbyTcPuURouOfDk0gyQoxhjmvOgGL862cqKi9NnRP02cdgfuIdwNJhjA1cRJSJFDKYdROvIxAxAdlQ8TofK92lQe8mK2ve0f6dyVK5HKPi1YvUIo6fcV384V-k8sbyHIuPHTVgUmZJEZPJDerPRT_i0ajL4WXci2T4PgtnXix1K9TrAF_H4PKAt5E6ys4iCJ7tyzjSUsgcKS2HfPJXdveSNj-9mN45PiV817BvmhYCR_KYPUAJ4XnIamgmvWuukPVe9OAePGy9i5j5bJzkpzjDe7DlQoPWoDqkq9xehEqicXAppLQrtZQM2S7K38E9fWSoTKV3XTo0S9FMy2tJPEsaIBYmvUtxOue1V_9BGKzpPpLwPiEnv0oH_pL10rvBvGkYS45ocFlJYUZADdz2AGYM3z8fqGPIo2aJMwFKDsiZT02r5rzgE3dLGHiA7U29hX-wUv8GzTpY1aN4_Be0kvcQO4WVPwSU0m7_V02VPMVCVFcAEKqDSYQZf6THZE9Lm0oeC0JUqGhJN5NfMokoR_6b7sHcXoXbuIUxfOynp6B4YnyqOVFTRZSYxkTf6hb8TaHLvOZChRcJrVpMkmDo-TjL-EU_ctJ42NCtZX2OA2cXcXiy_BF0qSLsNbiqb0NumnKoz3os1sLHxlXEkQRKrwPx9z55t8J2pOz0DiCzrzDVornvPF6X0mFl-9PP9obklt2BaOuO9qDa-89Bn9TeY5feLf3brcnakhn582T1t_ErjheKIUTM-SPPkHBA92yV2t_NCQVSCvwGXBiHGe8SGtg9bBf9endZxjIm10-IE4Ys4VKeaenSWg-wfuZ65wT-IGLI-EEFHSv62OTy7WLLolMAEKSld4ICeWC_flaDO12aghTcszZUwW7qtCPEN8OjsFizMGa7dWjs5Jv2XW24c5FA2BNltNbozAsDibA8tjl-ipIrcbPIPgs1eBAY46QMoarHbKi9q--peRXdZzR_zAwhIsjxUm7jbuCgJ7szIErllDBBhcNPQjukgdZt5wUmSKcsZb3yLCOoEdf__M3Qyf1bBgWitRp49faylocLIze1Por0WNrJm0-tRU9GF3mS-r4JxifhqwhqZB7JirSj0ZfnZ2HmQsQlEO4PO42c42qVtD3zbKwMzZGqbPS_yl4iJfBfcoo4vLZLRLsCrBSQxMWh62a-Cau74yaaHNJW9cY7ayuXfnq1lM0HiBSKbiBc19qbgsb2D0f_bxy5xYDERGvA1c4wvTw7x-3Mr6QBiCjvv9v29H09Sjo47nyzkS5Dn8BI6jfNqSgGcqHRPh7WQQPBfINC8ScruOFVt4eljeL89Dme6v-eloYD2iMfXvvue_5dNs0wF0vSBeSW-v7megrlB6rifg1wi0NCRYWRklqOIlNwpGpZlybOQw3ACCau28m7_Y-VOccCQNI6UgTPbBGsPfcHpC3c3dX8KxOZKEWz8GJTbzljPdWvDUtDaw02xas3Sb4fcJWl9ZnHL83QjtSXISakls3E_ibdqblT8ikPvUSqpC4ekAqigNoC1QUSF15g0uhTCk0rzL5GLOuKxXegnYdO5BhFeY4cNlBIuapUQpl9yRE6eYi8WTdszk47590p8jCI0Ub9wmu8JWPDZT2nYChPvo6LUSg0P-B8pGSAu-OcX1HxEg6KFAorPb4ZPiyuDpAS99ArgRMgFwHf6WQtKNfvGK5Ao0r3hM2FUWYjbIS1Yl7RPXVQDstVwykQXwQ4qRkI-GBW-HdyCtfnC2EiDbLBy2BJrIZwYwv35z1Qff406s5tszghiot3FDHbt8-KGt94Fr8uzApw7mQXPL87tB7wlWLeDxcocYZXdHP0VM2SQDEjaL3ShmogMxXCCF05UovF6hBojQ1ql_8kN1tkljiL3Fg-4QNO0MnT6Dy7yvERUngt1Oem13pgQrjJeGMrBy8kiHwyNxEF-BLz7YEb-t9NTHF-tKB9PdI-SDfCvlN_n3W-rRK7m0_bDPyzbEsKqr2LrXC_xvVxXELtW_glkrAj6WaMGWrBm1Pli6pvbz0IeW77pRYf9YWfftpCoTfS2w5QV3KW26zogZR02MBZ5v9taOA8QqDnVqux1NcPEx9Qg5pg7iIDQufgtqyqN3DoVgt9TPpRDwPeFVZS8ior5xWydUdCIhQpcu2Qw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0987cbd36fb4e980016abfcf5edfc087d19eb85771b1892f1a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 509,
+   "completion_tokens": 192,
+   "total_tokens": 701,
+   "cost": 0.01469,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01469,
+    "upstream_inference_prompt_cost": 0.00509,
+    "upstream_inference_completions_cost": 0.0096
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 183,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

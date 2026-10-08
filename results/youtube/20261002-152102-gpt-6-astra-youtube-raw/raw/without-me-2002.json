@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-TveMr3Qeibh6vhnUXJkr",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Cranberries\u2019 \u201cZombie\u201d (1994).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Visualizing Zombie Scenes**\n\nI'm imagining zombie scenes in a dim, grayscale palette. It seems almost charcoal-like with a slightly purple tint. The numbers x870-997 add to this striking, eerie atmosphere, looking almost like a black-and-white film. I wonder if this could indeed evoke a zombie vibe for whatever context I\u2019m thinking about. It's intriguing how colors can change the mood and feel of a scene, right?",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Visualizing Zombie Scenes**\n\nI'm imagining zombie scenes in a dim, grayscale palette. It seems almost charcoal-like with a slightly purple tint. The numbers x870-997 add to this striking, eerie atmosphere, looking almost like a black-and-white film. I wonder if this could indeed evoke a zombie vibe for whatever context I\u2019m thinking about. It's intriguing how colors can change the mood and feel of a scene, right?",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vxugGr75Pz6Ub-nh_lGqtQxwXONcSaIAblMymDBc68HxzMcOw9PXLcLQ8cdoM6KSoqkEbgE38kEFXrAYocUEbJ9VI5Qaj-_EoBe5qBW5CB9Fblq_86T3gbOo2xDwhXyTjzomBorlS6Euks4YytToSHGI9014r2ktw4Kg8GPmpnwqVajSKxMVeMz3bI3akcn9tXJZo-S2eZvSPyz-gpTFeF05oszlKBW0JPnlsALUoxcIokNEtQ8veE6EpdYekJmiHvsLeBWDlle65rRYXsPwlyLEE1eD_UaxO6-Xu7UZyN4jbyNvIesCDUa1PXW64j0gMQZ0dnMpTMSnra9ve6-zw2UY-h4X90y7064iBw28VAZOJTtYiXbD1v4cmT7-UFX2Ye8KtmaTmXoC_OVBYTMq6Qpf8tT1pikIDo6EtzxGVnRG0HRanqNk0b8ePcTwwjarW6z_tJKl2bvuzsCkCN60PGfmBZ4WeK7GtbONg2D58F-t5HdCcdWX6x4c20m_-_R7dKO_m2QvekOU-QGsSbbMpknfdK4Zg2tL1x_dt-yy1N1mbxExqPKV4cHBcqieKMKYXwbzawGcfoZ8XNr625lMeSOdnvqeIhQ6xkdbFahe_uY3Ip43kUjHvTeCfR3hMqnDgXn2qk6Gl9LV_aT72DoNF0pzOiz1tWcW43dA0tX-v0WyxA4WIVHUviPtZWPNlkIk2zfpFQHk9KjD6fTsHPJWLh8RmZoTlIycuw7bSQ5xFGI7-phSF66qDGtMxaRSgME-wgPni4OFmwiS80qpX8_Be3L75IAvOkWo2wmW89mdjHnMljgSHbh0Jh7SFyPCaRCmLpeUZCyo72KzO0qXUHKlO8XaYyKfMnNo0oEY9BFBxEUjWuyWwp_w57YnQ4w349vWwLXHWsXyl9TjissZnqak2c8-YKLIP7sSQo70i_kyFxb-n-MbgvkoKzxctW1ZjfA_TB6rRVz2kdS_Sz5kxLTOASAPvEdKO1UoercJRhoPJhCF_jInAs37nkHU05tvqwtFIaCiBjjUR2vqAF8JkAS2_PNcVl_nNPCeSlB2BQ-o6KjT8hrp3_Cs_ACutybBl7jqG3DK0QDfeluOArO_k4G92IVCpjaeG8j8012yb-U0hDqs3Insa417Wg03HbQL72WgXxIVXEl-iZwq2s6M8ybu6JYrqMl17fpcmivMN0Mgok4j3c1RqfOXKZ7Zdc4kraZqEprE_efEZLKYR2DdQxkrmcvG_l4kQ2XOYa9dHZqbmY779QSsI6IIwlpAo63PpLs136grxQjp9cbUG32ASXC5X-c1aiibFOiPQRgPMIZJ3ELdQ6HgLTnU-fSv4lf4Wo_wPwl_lINTmXv9q6i0mZm2zhn_Oc8zckegrdPzudWFuj9qasIJIwlaUp1ZSPb4vErA32_cxX3lt63ry9luBXPc2e7upNs2hnGRmKPsYWltKuosfU_A5laPJ9BN0VfX9Gg_TZDZtGlIDM9cf7saxlyGz9PcEI8PocWiLP6_Nd6Vb6yPDqC_i8XbrPAi5Cqj9d8KQTzbuuY87UdzyJ-ra01Zvvwg33PUXZ8HIhRhzkuzvhNVLHZ8kQvak04vmvkrx4kAqPWr53iAPrRpMnEHt7bGbCAa5Kl9_xoQLQquIla-TcBLRvyAqfmuaGSjHQ8WUz2BN8NjwSeeR52Ab98JPKGfRxFrJERhLdZlXjGVojFmotAL937CmWI37yF6SQrSVPprzxNy2FtqLLjnEpm2e3ojQOaIMqYqPV0gsnUHXjWGI59uiE0gZcFfRF8Eoxz59hCmQj7EtPHconJrwh-Y7oburC8nnyOceWB-FJwxuB4TZ69hECkLQExXI33eh33t7Zoth60pnzKBmxKg9yZs_wslziquqg5I58de4nXGtOPHqwIFtiUZpUXuut6x3F2WhNsKl0J89ah1ipS7HCdj83EPxR0EIVa4oW0Vd_LD6BPLz3q9W1-Mn1N3phl8JlABUFtwA4VJgHdN0sK0NTGArIdJVGR4Ba3Hj2x6Jj_GhqjIIjZ0lf2CBRpDujsHpRonvSEhckgWj9_JmrP3ZbKQxy1wcDcteRuTOHgyQ2bXjCH1o6WZyCEgRv6nOz3qkK8A6CsGjO0QB-bbcdtsY09l6RTAuK7hgwLsq8iYMzLSJVkC7Q9dpswnQL02MP3LSGh20ytU1jjP5w7AcqwNzVySTeyDPrtTlaZ5YdIqhXP7n9aJlHQ9-f7l4fErpPk8uRWMOptgGg8DkLvJVCA6BHgz3A8O5BpPh9ZtrUeqFz4PET4xKFUPe50glqmXNy3y4ESWYtSPH8SAvzMOxGhBA7N3w-NV9-2gmXFRNwRnIIIz4-HF_0MNdxh2rvrUCtS0DpY9qn0EDT7ghSKQSgOan2V67Q68b527h1Z8F92y3r2UKh-3aZRx2-ro4RAMTAwOhtGaOE0m9AFb7A1A_yeIhpQDhvZaLB6fqsaGS1WIK3xNmBMyx3u8FjYTucs_JDkpPObA-LpTZ1FcscNK87L3ay1oMjh94ai0Dvzs15FraVd5GOtUClnQ9AcX8qtOit1gOij1wj1eYwpO-y8scYb7pf-AlwGSNJkeYT4Kd83lqmN3LOPWpIzHCpC0KebkMvfRF-UyKFV616OaEJRfLGHpXg2d89ncR_MnoPL0FaAVj-U2I9dS5AsIVOOcVFz1pOKUA5o3DkQq_5xthQai5muoAsmPyZZstgGFCOD6ttEtjw_0MkEJcfw_ooqB5qLPHdJSdSl3bWuyF9nZkEIMIG5ZUlg6Ye12lqya6I7NtaetG3UJlPJEXfsPE1AIDQ3zRHmAqeyaKrgYDMffO2SlnkUK1wAOiIw1TjWvhRPewyPohJB1Sf74e_GGoQKr9EjNh4eRqQrsn_f1HQ-M1u15S5Tpu6CXI56WmokiUgfwKsbum07Z57Rvcw4pHU4wrvSnS5hgUFu76eTZq1ytVkbumpYTiFrcRGGIuYlYOCQw5dvFDPTb9KCbap933qBBnY7LEXna1dRP9XRldIeWcDJcvfbuK1SzlWEN8L-ckyWVGKvUcRNdMGg7KanJkoOT4fYtNEONhERLIN76zvwQr8PCLe2DmDM5rlJOIc1KfxFsSiymW3NPpSYPvgNxM1pyWQGwHUsFxz0PznvOpGQg64FQ-CfcszWCG6ap_1lhRsxImnjgXYJ30b7oZEQGvUcCCVi4Briq_nSZb2_FI4SIMT1t8cs1usWkGhvXF6S9-RaJM9z4Ao2EqUGGhw17nyFdnLD9vZ5ZBYyuPdkkDFotqWAO_n-6AoyDnbkhJrSpv-7Gr4MHTw30bYikbEW_eB7LTnvA6RfIFfrsuZ4lPLPtroBOeQ87bvcAFwfckE7UC6XvH47BQ5G5KUDh4fjAjOubbgvAWhDddfH_1_KQ8Tu0SPsVqvNM8wqlmif9IK3qlIQLQ2Uz2fqQEOfIZHlGkD6Gdh5uOo2ikNXEoV2wmUD6u9mE7YLaLtjBlVKb1CFRxbXFNQis4wcvB1pbaVO42aXv7-wF45mjMiSd4xkxRElCywV0WrdRbR6ngTr3PO57qMHoeG5duivM_rNjKFPvmetZxXIupwgstPjh8mZ_v7Xl0x9f4uyphNLDdjZm0KwVmgEbXp6PxF-geKpWQROsfya8aR8Ck56Y_twH_tBYBsxS39tPG2lCaIh384JOgWDkReo276TsvZkBC4BxHDp8bXVJ6nlj0MZvS5dqEC5Ha8kAGon28QJ6VeHMqyZ_xhz5uEESAi1Gu4DmZcoNJ8EYtoOAEyk1_XH0xK8smwLbXd.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04dd5bbb15ca2f42016abfcbe0201087d1a2e2e9ead5d4ff8a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 480,
+   "completion_tokens": 399,
+   "total_tokens": 879,
+   "cost": 0.02475,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02475,
+    "upstream_inference_prompt_cost": 0.0048,
+    "upstream_inference_completions_cost": 0.01995
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 375,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

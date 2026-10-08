@@ -1,0 +1,21 @@
+{
+  "slug": "leaves-of-grass-2009",
+  "title": "Leaves of Grass",
+  "artist": null,
+  "year": 2009,
+  "label": "Leaves of Grass (2009)",
+  "hex": "#3D332D",
+  "rgb": [
+    61,
+    51,
+    45
+  ],
+  "frames_sampled": 6288,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "sFhR1OCO_CM",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

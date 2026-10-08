@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790919685-0NDIQiqR9Xolfm2QPAtR",
+  "object": "chat.completion",
+  "created": 1790919685,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this barcode visualization, the dominant colors are muted, earthy tones \u2014 olive greens, browns, khakis, and dark greens, with occasional lighter cream stripes. There are no bright reds, pinks, blues, or whites.\n\nEliminating options:\n- **Bad Romance** would show whites and reds; **Attention** would show reds/blues; **What Do You Mean?** has bright blue/orange; **Sorry** has yellow/pink; **Uptown Funk** and **Shake It Off** are vividly colorful; **That's What I Like** has bright pinks/golds; **Perfect** would be dominated by bright white snow scenes.\n\n**Counting Stars** is darker but has warm orange/amber stage lighting that would show up strongly.\n\nThat leaves **Adele - Hello (2015)**, which matches perfectly. That video is famously shot with a consistent desaturated, sepia/brown-toned grade throughout \u2014 muted browns, olives, and grays with occasional pale, washed-out highlights. This barcode's earthy, low-saturation palette is a strong match for its aesthetic.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "The image shows vertical stripes with muted, earthy colors - olive greens, browns, dark greens, khaki tones. There are some lighter cream/beige stripes interspersed. No bright colors like pink, red, or blue.\n\nLet me think about each music video's color palette:\n\nA. Lady Gaga - Bad Romance - Very bright, white/bright scenes, red bath scene, black outfits. Would have lots of white and red.\nB. Charlie Puth - Attention - Features a red convertible car, blue tones, neon lights. Would have red and blue.\nC. Justin Bieber - What Do You Mean? - Skateboarders, blue and orange wall, bed scenes. Bright colors.\nD. Justin Bieber - Sorry - Colorful paper/ink effects in yellow and pink. Bright.\nE. Mark Ronson ft. Bruno Mars - Uptown Funk - Colorful, 80s style, bright colors.\nF. Ed Sheeran - Perfect - Snow scenes, white and gray tones. Would be lighter.\nG. OneRepublic - Counting Stars - Band performing in a basement, warm lighting, dark tones. Could be dark with warm tones.\nH. Taylor Swift - Shake It Off - Very colorful, pink, bright outfits.\nI. Bruno Mars - That's What I Like - Colorful scenes, pink, gold.\nJ. Adele - Hello - Film grain, muted brownish/sepia tones. The video is shot with IMAX cameras, has a brownish/sepia vintage look, phone scenes, wind, snow at end. The overall palette is muted browns and grays.\n\nAdele's \"Hello\" video is famous for its muted sepia/brown tones throughout. The video has a consistent brownish, desaturated look. The stripes here show olive/brown/khaki colors which match \"Hello\" very well.\n\nActually, let me think about OneRepublic - Counting Stars: dark basement, warm lights... it could also have dark tones but likely more varied.\n\nThe \"Hello\" video: Adele in a house, brown palette, phone booth scenes (dark green phone box? no, she's in a desert-like area), the ending has snow. There's a scene with the older man, the chandelier. The video is shot in muted browns and tans. Yes, I'm confident it's J.\n\nThe stripes show khaki, olive, dark brown, some light cream stripes - consistent with Adele Hello's sepia-toned aesthetic.\n\nAnswer: J",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The image shows vertical stripes with muted, earthy colors - olive greens, browns, dark greens, khaki tones. There are some lighter cream/beige stripes interspersed. No bright colors like pink, red, or blue.\n\nLet me think about each music video's color palette:\n\nA. Lady Gaga - Bad Romance - Very bright, white/bright scenes, red bath scene, black outfits. Would have lots of white and red.\nB. Charlie Puth - Attention - Features a red convertible car, blue tones, neon lights. Would have red and blue.\nC. Justin Bieber - What Do You Mean? - Skateboarders, blue and orange wall, bed scenes. Bright colors.\nD. Justin Bieber - Sorry - Colorful paper/ink effects in yellow and pink. Bright.\nE. Mark Ronson ft. Bruno Mars - Uptown Funk - Colorful, 80s style, bright colors.\nF. Ed Sheeran - Perfect - Snow scenes, white and gray tones. Would be lighter.\nG. OneRepublic - Counting Stars - Band performing in a basement, warm lighting, dark tones. Could be dark with warm tones.\nH. Taylor Swift - Shake It Off - Very colorful, pink, bright outfits.\nI. Bruno Mars - That's What I Like - Colorful scenes, pink, gold.\nJ. Adele - Hello - Film grain, muted brownish/sepia tones. The video is shot with IMAX cameras, has a brownish/sepia vintage look, phone scenes, wind, snow at end. The overall palette is muted browns and grays.\n\nAdele's \"Hello\" video is famous for its muted sepia/brown tones throughout. The video has a consistent brownish, desaturated look. The stripes here show olive/brown/khaki colors which match \"Hello\" very well.\n\nActually, let me think about OneRepublic - Counting Stars: dark basement, warm lights... it could also have dark tones but likely more varied.\n\nThe \"Hello\" video: Adele in a house, brown palette, phone booth scenes (dark green phone box? no, she's in a desert-like area), the ending has snow. There's a scene with the older man, the chandelier. The video is shot in muted browns and tans. Yes, I'm confident it's J.\n\nThe stripes show khaki, olive, dark brown, some light cream stripes - consistent with Adele Hello's sepia-toned aesthetic.\n\nAnswer: J",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 493,
+   "completion_tokens": 756,
+   "total_tokens": 1249,
+   "cost": 0.00045195,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00045195,
+    "upstream_inference_prompt_cost": 7.395e-05,
+    "upstream_inference_completions_cost": 0.000378
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 515,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

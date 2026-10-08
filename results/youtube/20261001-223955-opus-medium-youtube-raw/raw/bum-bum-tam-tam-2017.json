@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894468-OWiFtPPlSsucR7Ksh9yi",
+  "object": "chat.completion",
+  "created": 1790894468,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern alone. The strip moves through three distinct blocks: saturated red and magenta lighting, then muted grey-green tones, then purple and blue. That pattern of separate, strongly colored lighting sections best fits the Taki Taki video, where I recall each artist appearing under their own colored lighting. I'm not certain of the exact scene-to-color match.\n\nThe main alternative is \"Criminal,\" which is also dark with red-lit scenes. Its color scheme seems less segmented, so I ranked it second. The other options are mostly brighter or more naturally lit videos, which wouldn't produce this dark, heavily tinted strip.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "Trying to match the color progression to specific music videos\u2014the reddish start transitioning to grey-green then purple suggests something like Taki Taki, which opens with distinct color-coded scenes before shifting tones throughout.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Trying to match the color progression to specific music videos\u2014the reddish start transitioning to grey-green then purple suggests something like Taki Taki, which opens with distinct color-coded scenes before shifting tones throughout.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpgsKEAgSGAI4AUIIdGhpbmtpbmcSDJk3vK6PmEgoZSzmMxoMfmLVUV6dH3Yf8OWWIjB65okMHCe7FG0PbQDw01eYrGtxH2p5ZYnTPu4GrVpNFDly2Au9jAHv21coku3ZGPoqwwpFf74x9q855bYf6urmfIrH7zrDXV+qExMifZYWYBekrd91MkU9B2YkgAgmbQzAyawzS9EZWFpkYXZ+W4wl5tejcmPnpNF4RIHUIkecqxgRDJaZt4Y+zdzVFm+oOU3YcDXeMURDYd+ikHc6skm8IPxSeBV6zhOtdYL/4aqcVaJMCzPryDFlXARMXrMpila24uBwmn0W68JAG4yRMXWv0CCpVOz+KwHYr57N+90+tL39egi5CvV4MtDvK8KGp4psVLXX3G8jIlQ+n9k7Lc+36Wmt+8RsWWMRLV3xP5qc/GQGYzIL2xFZptHqbEzlV0Lg34J/hfIoSxDPfeokFXX2xKtXWJiIQY2dB3dF7asuPFQUZhKUZxRmuU9uRG1r+Uv+Lj4wkM8WxhH/s8D82xarBIWGsiM1DAwceBWzG/hOS+W5fECJIIf2hkN1K0vAReZw1wnzZPvdbFgd5g4Ea27aQ1d4Wgc1ZtDhdbWRK6M11OI8eEm9ozuoFxQnPZFLIcMSQbWzlbqdUGgtcM/IgBRkHrtO1fwRX8azm/6ABnKhj5sjwG4XfB9HNrEdMCoeo7ztkcsEA5qeGEgxyedQynNULPIo68Gnu3QqNWn13Rk9QpmYYd53aN79S6whXL6mGMQIihTwXA3h1t2ZP65FAhL8sqhrG7MLCMPT38DeNI8PGo12gTDfQAjuWAwKqElGsBl7qWz0FH5j0s4wsoxH/1M46b7vyLDG1dktA7a5uiYCaq62E4i9T2B6Qj/lP4F7nliDSpEq3oVOwXCH8B2nbns6HCK6N7Hes7YByDTxra/7ag1vMmSCb/L+8rXRbftFMB87SSSFyEA46UDZ9IhaZfdlN3Y0oQh0h4PLdtFeSiEzzl4aCg6P+M7lfqvV1IPOtyETqheiu0QnB6UqsdUXzz80H3WeOI0h5yOiqLiWA3xXGuCmHL7swNJpmn7AO3QOrFX3KRzu0PE8lNysktoGltpDvcX3Gx5ydOWgK0FwUdf/K4lB9s7s5WbINp6UoEm1B62fNtP8pV30oPcwzTk+5GTujJjlQJVakh7i/5XJVH1hvuUu/kLQhLlfZshenmI0MXVqwWoQylMdbYXp61iuCXsrH94J9FEFoYqYnEwsMZDmzxlvWjap1x+zp/J98teqirsIjofJPB+sx5vaZEqVKm2rmS63HmTwOQpqUlspESf63TdqMNUYHCX6Aj6pLhRQjFd6xUrJWxQabStOcGsBLQ0wyHdWxCxcdwxHQSojJXkhmKtln1p9VZssumlIHin7Weg+3RoSoGycxXfgzOOrW9I//IWHXHc3uqo7Go3qgTTNaeKf2SlE9ks5jsKwy+bHmp/Y+avekiDEHusmhr1PzKQdExtkdgAjzDb169kXVlEECJqcLviSxtnGZE6JW6CPYV9qxqGvamXp0jLkUZQY/cCQJl5qir9vlSv/PoVMRbGvTI70IsizwnueNueIdGSjdlTNYVxu6jEZ0+ZXYDlnFG41Fn5EB1GolL/bWqjWM5+kVIhjzPx9pNVjzvdvlMC9g9u5IqsiossYVmnU2cd4/vzvURKq7ebG4FG5CIO7RXmbxPUesQDEXWMyssnazfe0WKG2F1JOrhGzSzgF1ID30dDWSRqmRdIreQHhkSEFWd4cLvuAW1W+5Bfi9VGq+Rr6OeSWfQ1RbYSCBbXAZYVl6XOY0yTe4qz1MXsWWnGtyLsvQ9xHA2e+SDRjcaTvm1Ly91SD1G1TB3djonzTiSx9f9RvOvrznPOHKthwpU2/dgYR1nBau5iHFapuEhYOdPISmCuAdb9Qzi4YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 670,
+   "completion_tokens": 602,
+   "total_tokens": 1272,
+   "cost": 0.01472,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01472,
+    "upstream_inference_prompt_cost": 0.00268,
+    "upstream_inference_completions_cost": 0.01204
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 380,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

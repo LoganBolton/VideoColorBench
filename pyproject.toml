@@ -1,0 +1,15 @@
+[project]
+name = "videocolorbench"
+version = "0.1.0"
+description = "Can a model recognize a famous video from a barcode of its colors?"
+requires-python = ">=3.10"
+dependencies = [
+    "imageio-ffmpeg",
+    "numpy",
+    "pillow",
+    "pyyaml>=6.0.3",
+    "yt-dlp[default]>=2026.8.19",
+]
+
+[tool.uv]
+package = false

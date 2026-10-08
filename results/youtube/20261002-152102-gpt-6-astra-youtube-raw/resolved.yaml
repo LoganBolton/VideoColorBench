@@ -1,0 +1,7 @@
+name: gpt-6-astra-youtube-raw
+mode: raw
+dataset: youtube
+model: openai/gpt-6-astra
+reasoning_effort: medium
+concurrency: 2
+questions_sha256: e55dbb791e1ba993241ddc9a8b9c042353c2dbf33651ceb415f567afa4f29acf

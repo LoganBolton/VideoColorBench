@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907355-28eFXxSdnaowbeqMwJuq",
+  "object": "chat.completion",
+  "created": 1790907355,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is most likely **I, Frankenstein (2014)**. The barcode is very dark overall, dominated by cold teal and blue-grey tones with occasional thin orange stripes. That fits a gothic, night-set action film with fire and torchlight accents. The long, nearly black section at the end matches extended end credits. The other options, such as the bright *Midnight Sun* or the naturalistic dramas, would show warmer, lighter, or more varied colours.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "That dark teal/orange palette with gothic action vibes and long black end credits points to something like I, Frankenstein. I'll go with B.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "That dark teal/orange palette with gothic action vibes and long black end credits points to something like I, Frankenstein. I'll go with B.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/gUKEAgSGAI4AUIIdGhpbmtpbmcSDMHR40BtxI+VGZTp0RoMC7evD1y4WbYtny9zIjCpVBDsUv/UvPeXNtCXXzZRxq+AXPIUF8WmxRJSVcSwQ0NIh87lx8bxX/0k6Q2LWawqmwW1iCU+Pn24I1b9ja+QC0flqn/Ce0M/NxAWQtxdwbbRkobuWLRuuIZlCmPEILvKrKYP4pJRhkrdHZh1NV9K3w9X3dxahZY8u0P6iVobZ2AW9ISH//xDzu1VwWJs4tyUcPcBV0Sptu44u8y1xeH7CZUpuSDcRjbVh9dYKKS6WkmGGDepYPBHoelFOHyS/RrTSSQCa+R8BRvZ0F7BRkcfyo/6efgB5+qylSqFpGu6ELmNU8m7hv1WtEUvkkR0DOQmUIML92adwotvM53WEq58bA6tUmG0x/Yb3tPVoysRBXwsmcHH7DHAb0baJVRZHmIlQoAsIMxrZPSL8LKKjgNDVIm5fkr7PqM8MdZt+srct9GM0aaiZwMssnnExMS+quCCozSJDWus8uiCxVLXVw4DuR8cIXlHtUSTwsDJgrR+87+Pq4l9olYnHm+/vp5Xz2bDeUhm9Zji6tRqUQQ2WnPuqd4tDsL6OmbsVJ9B7y6XUZLCeyawLjnaql5D5Phe4ddUlo1YQplXZnodQyRrDTI0xPLn56kS8ZrpZhCZEWMq+CnzdmhuVKBgCH/KapFxpj4CM9Nl30CKjyvek0IqDhrZCyCyIxtZkjl55b6G5em9FM5SKvhOxaNeIpfJU4F+geL8ramkw8RXQlEyHGABVMuxmsU9crhwSCnQ4afzvKKL9wbSGvze/fbMFxaPa6KGeC1OTbLNIOa1k3fNfMQmV8anGEr8tjAvBdw9y2K9C91qagZ9HUeFNAtTA8S4k6KObiQKn3+IWTE67ESzoXn/peWnwcheb1KnA3JyUjT/UgASJDf45qPfMTFa/zIhbI2rwQ45/xBGP1WE2Q7NrE0Gd/9kLqt5nZzKYFI60WNAuOWtbscPP2EEjGEfZ5VPQgdgGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 220,
+   "total_tokens": 747,
+   "cost": 0.006508,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006508,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.0044
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 64,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

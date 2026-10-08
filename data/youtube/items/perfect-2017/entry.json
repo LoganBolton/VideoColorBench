@@ -1,0 +1,21 @@
+{
+  "slug": "perfect-2017",
+  "title": "Perfect",
+  "artist": "Ed Sheeran",
+  "year": 2017,
+  "label": "Ed Sheeran - Perfect (2017)",
+  "hex": "#373033",
+  "rgb": [
+    55,
+    48,
+    51
+  ],
+  "frames_sampled": 282,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "2Vv-BfVoq4g",
+    "youtube_title": "Ed Sheeran - Perfect (Official Music Video)",
+    "channel": "Ed Sheeran",
+    "via": "yt-dlp"
+  }
+}

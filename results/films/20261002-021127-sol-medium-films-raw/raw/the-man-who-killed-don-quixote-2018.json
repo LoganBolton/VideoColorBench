@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907243-wwbnWQATU3YnLsJrB4d4",
+  "object": "chat.completion",
+  "created": 1790907243,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Conceptualizing visual palette**\n\nI\u2019m trying to guess a visual palette that leans towards dark, desaturated earth tones. I\u2019m thinking about a ratio of 70%-90% darkness, reminiscent of movies like \"Jane Got a Gun\" and \"Killing Season.\" The image would have a nearly black background with muted olive and grayscale tones, and lighter areas with hints of blue. I also see consistencies in color themes for characters and their environments, which adds to the overall distinct mood. I need to make this concise!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Conceptualizing visual palette**\n\nI\u2019m trying to guess a visual palette that leans towards dark, desaturated earth tones. I\u2019m thinking about a ratio of 70%-90% darkness, reminiscent of movies like \"Jane Got a Gun\" and \"Killing Season.\" The image would have a nearly black background with muted olive and grayscale tones, and lighter areas with hints of blue. I also see consistencies in color themes for characters and their environments, which adds to the overall distinct mood. I need to make this concise!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxN2Axx6QPQmAQg3axnA95GwgHsNP74dooKpVWecxyE-h-q27I1-l4AufMYoyT_ESHkoGeF4o-3tNvpzjut2fUMFcatuOqX1DKXv-EMO_2AGd08mrGBEyahIqTRWv4Ly6jyV4cH3uYg6981KlIduHKL0grPo-2dEgn7SRumdIU2jFJhAYeZ7sE9eKZuWO6mGuwD0Y4FwMZ7kPElpBH1idiQEFHVi5AAGZqBdjzVeIKxIQQLjdBShUX-DZ5E_rkNHdpUkTvwmgXehBmBBcc0oJq83zKzw0dEJ3wRKJWekpkUkZjY1-nTR3K1mbSbBMsmu-pWHniOjsaZJhngIR2tSpQ_tnq-d5la9sv4Sngb8h_kG3EzUa5DZvWHz5lyqIfkDb4VZE0bgBYvOqxqvDz-JCTbbxZ2FH0XGZNOvU5DiIYNwr9TPt_P2RLmHqjEGgnwc07f2RYfg0WBVeyl2vHuKxfc4p-ZS4zA1iT6vBrzF-Y7PAb0OweQeTTm1ZZwfrE8ZuQ2idVcdTXpEy5KOaRIS2Am_JLxXl57u20CvhZBfkmXIwk29Lxy8j7AESJOVRCtDRwIfTRy00thUKE48A5bfeKv9QyT5JfkWu0WmFniqrbLQHN9Bc2bz0igr75jdr1fLbkJz-2CV3aoZAD3AfV-BgCvf0ghi3PsKIrlrvNVCZcZysUYvq86L2aAz1RzC9URypnlOm5qs3wvPJzY254bi6G6t2hWRoah6EQbe-_AGpHYunoHJ3B-cyR5CLeHIq0QmvptxViTmX26li1e992IcEUwKThpDqGZFaHL4WHRRM8Ow9xX_hssIF2DHm1-dJzy-r_-Ti833vm6yElKDZDwlDvNTefb5Vqjiqpy9pJ50_ZZSn8pF7sm9vnBOKWsXhHSnC0TgZFqIx_q3B6vvJnFseKfzZdEAdkJhmhzjZJZNV17WX4SAtF2NTElMll9Fo2bGKcFaSHSfPwFOItM0SX2w6K2nX_VAI-j25nQuifS2qSWvuA6Q4kqPwO54gcuAdz0ul1J7STf8aUQTSTR3CHxo6tTuifR8AWTY2BFcfAjhkuvZXIUExnFQbo8QqIxXguSZsOR-gOYSirl48cgdegC5bXKsS9gVHRi-4s0aThfLReAnJSpvZKtx3pby7R5qxZ1UdHPFSsRH-cKEJ9SkFZLKo4R_Xm9AHVua1NNX3pi9l_WX7H6chiC3CCdi8vPcCE1QjIDlqXej5GZKRsHkcroFabgkvBzNFU4qh7r7gzhlwx1PhW32V24GYnVcFr2vi31bJUuzTnIhKuKwtjB2KcHCoRvzdIKYe-ywx88ad7deqUqWJkrhe119LOp3fJznSof3MMrujP_k9vyyI5qQUpEnpVDV7pWDv77f8sf_rLqQklrKyNWsiMb18YxSXWNrjEpABH8uejVlVkP2JJxP4270C4up5MMhh6eFdIrTZCnRnL_JiCDedKP9jd3CION7cic02Wnh3pmpMVAYTOWAJKE_3sEiy0b0a7xK_Dde4oSwWWuoxCDtSCXAdys262y_cF5L7bCTOWYlQJtGgIsUAfvli-PQO_PM3r3xUb9nT1lTmkoeIhUZ3T1FMN5-M0hO5hJ_0_gKg5G-6aZ1hHdtV5k9_ftXMRB15ROBH2hCikY9pf_40qYoxeTALYPvnX77qZ0THeZtTf_porT61b1D2wjicAYQpYRncwOcYZZSeCVj8xMgPI_-qdB1U2vxoTs85ro2FB5YaHeaxL7bNK85tnl6xjDAwzOiYg_77d9LkLpyRCasyzbJXKZ0OjYktsAGYvIBXaqye7vwxvv636UC6s4TjFVe4rQG8fo4XrEAo4Q-V3GuvfBTWauYiVQ8Me7tBr0qjMym_yW9LUD9FwBkCuhxOeBHf_3rbVZZArKSo7koLpz9vMgtEAqsiwEXdn4MVVBXT9dd477YFr1yIdtVRLD038bXPrisxJDPcmrC4N4z9EI_rFackC55rN1lqpFjfc8EfU3BqKY69wCA2cAyJKmO6vFdIEFO2LrQGoMaK2iy9sOwmFb2CfW8oNm9s-l_IXT-1OH5s8OPbbTJItj3OO_L9CBUwVsGm_9_QpeCAUZHdVTdRrABzkFBXBsDAOqPnVBzOc3Ecix5zg4HW8F4QzfwhnbzrsVWGxEaA5oGGOBM9y3piQB2sT1d6EiolUJMZcnDESYJW_bpcBPt7MtRBeWwW457Aqzcfb2EmFIkkQWhxAMxJvTP46rQlYG6QKpLEcS6lAwTgMG3LQ874327K9PT78VTjWpXg8ARHUVOOtntm8E_Jn1XB1I1bN9nUEpBBhzqVRExjwECGjE-Np-0QYK2D-JDWvqPU9PLZx1v2F5AWPssZ8eI4FCQ3mo8QXLbimUL28Ox9RRkIT-Jqo7lfC9w-zHWcplf4wlTKp0dTIWvIWD0IXhAXG5I8pxtk-GwIrADxCCk.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07e6c200b8139d8e016abf137045c087d19e07d7415647a03c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 197,
+   "total_tokens": 639,
+   "cost": 0.002854,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002854,
+    "upstream_inference_prompt_cost": 0.000884,
+    "upstream_inference_completions_cost": 0.00197
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 174,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

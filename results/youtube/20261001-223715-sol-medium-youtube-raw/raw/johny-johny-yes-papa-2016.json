@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894309-9zOvcoVc8qxUJ9ko1x6f",
+  "object": "chat.completion",
+  "created": 1790894309,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Masha and the Bear \u2013 Recipe for Disaster (2012)**, given the predominantly muted brown and beige tones.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating Masha's video elements**\n\nI'm considering a video featuring Masha with a muted brown and beige theme, possibly in her tan kitchen. There's a recipe disaster involving eggs that are bright and colorful, contrasting with the muted tones. The video's 6 minutes long, and perhaps there's a connection to Cocomelon with its vibrant colors and music, alongside shifts in visuals. Masha seems to be a strong presence in the video, leading the content.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating Masha's video elements**\n\nI'm considering a video featuring Masha with a muted brown and beige theme, possibly in her tan kitchen. There's a recipe disaster involving eggs that are bright and colorful, contrasting with the muted tones. The video's 6 minutes long, and perhaps there's a connection to Cocomelon with its vibrant colors and music, alongside shifts in visuals. Masha seems to be a strong presence in the video, leading the content.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDpGAUjcDTNh_QU_1SwbI-g8WvLhYY-6biY9O4BL7PtOfYjYjPQ3vlMqPHRniIHmK2HEKg-758hJBkh6WsmAZAWzJ3w2ROwUj7TBRo-eI0PK0Ijs7aVbhlyVuqoMiTKbQDlt4UZSOmwOCSUv9twwU2SZwXEQXBGgpWXhVcyfW0PkrrNDUfLofuoaeXThVjI7zvueBShMjdYGUJsbQOLzRkmrnEG0fmjr4ZU7MTlS2PUlDBysV1kHNFY--wPbSxyZ1Z-Vu7X5qodWRMZVJYr3L5la3YYjJmoCjMSeFFXDyJwG4eKdYVDfhZ-OYjfcOT_pizwbcJs6ftCUj4yuD6jzw5qFCy1_Nxtr--YhUUc6DGjbqNx7CFarF4XQjOomgijFqheGWmTx-p7Rhl9BEQPXJ-LoJ8979dREsZ5pBwRPXmnFtRTp0a5v4br_tl12Hz1YR85n4UAp0A1-XZAbRHyQKBIUxHJF3L0-c5pVs_Pomrnf9vixybKotKbIWd1zJ0ipA9wmAf8nUSyrVfZVd--jbxbdPL7iCffDa_KSKGH2aMGJo2A_3j0-lJfRslT80TIOxo25inXFbh8ag5w5pdzvcGg_Lr5seE5eCdhpIvQrvXv6e8Hefe6Ua22mSC64ZBOUIV5gV070OemXVyQPViCd2g-MdFjy3brKHJmsLqKsQNCz3mJ8RGY9OW6GAYjtdTg78ANSs6OXpe54YbYvx_hyXlkycP8KXiEKbOxPy-0JtkskN4njCwhGiW3SUs8oB7wIseRLmtrZsfNFuXoxhqcWQL_pXbiR4vB_XkVc3q5y3kX44QQWU2dH6X9kBCIL_Ax_fbMYKx2aaUzoTsEkjl1r549VdApA6hg3OOVfJRnolB-wwxzx-yk2t0cgcv7hKvAO8YMZsETxNYB1mYxGpNdYuZtMHeA2lPqGyGsneM7JW0S-RBefsMEHKdUw16_l5MW7NTWcSWbhKNb44tEz8_QMCT1dRRihZSc7FsOJ1A2bHl7axSjus0NCFMBWCHuK1yle8RJy7yA1SDmZY-IfPkqk-DprQvErEAVlHI8qzsbZ69AqztTiKaAB6RuIOLPaD_csAjBzxtGtBZaeXdYOHSBdKgZi-PU861Ne3uVLFzoAixfFuCfuI32ZTI12uKB6gT-tcsUWIXkxASbfCzDJjh-gIgAOTTeS7riKPWD7Zy_44lhDZZtxR4rJn0MsX_hdjTXf4F9LsqMQYyaldHPFEEGQzXSBSz9MAdgauQNVw9Gmq-pIKWPmfvE-eyC2-HEBxg9ZR9bSZR1nZ8VRzjawzFmricgFnkcQIyClvYnfYEv9qckMgaUEmIpZNuKt_8S1cnVl0Zxp5lLedLRg3UGSQigcZO_VymjeUecWFkq9XdItcLJqjP5VJPSRuYPSj5h30ZwKFPORJ5P6kvsJN0HDHZ5tE1V9xMb7X6lfUbkn55EymQ8AL4lM9uOPLhRIiiCEI8KgZe48POYq-g92BZ0n_MHeXKQ-vmInpVOMf5KGze63B7RPzEHWI0oWihG1Ehp8km5icTTMRMvW26s5zeZARncJPy7rNuxWvqAtkxuChPstiI7VU1g2mX7jmYBtDCoJb93SncAJZgHMwg-g8TDk4GKMc98IkyyELks5y4vtxHInA4Q19s=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_097dc8dd6f3e4605016abee0e6c20c87d18e410a72dbbcf04d",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 508,
+   "completion_tokens": 90,
+   "total_tokens": 598,
+   "cost": 0.001916,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001916,
+    "upstream_inference_prompt_cost": 0.001016,
+    "upstream_inference_completions_cost": 0.0009
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 53,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

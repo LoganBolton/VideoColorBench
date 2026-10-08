@@ -1,0 +1,21 @@
+{
+  "slug": "baby-2010",
+  "title": "Baby",
+  "artist": "Justin Bieber ft. Ludacris",
+  "year": 2010,
+  "label": "Justin Bieber ft. Ludacris - Baby (2010)",
+  "hex": "#333D42",
+  "rgb": [
+    51,
+    61,
+    66
+  ],
+  "frames_sampled": 219,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "kffacxfA7G4",
+    "youtube_title": "Justin Bieber - Baby ft. Ludacris",
+    "channel": "Justin Bieber",
+    "via": "yt-dlp"
+  }
+}

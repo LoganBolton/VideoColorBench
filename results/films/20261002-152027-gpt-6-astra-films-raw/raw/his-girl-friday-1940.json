@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954427-kdzkfQ62REGBtklodvvH",
+  "object": "chat.completion",
+  "created": 1790954427,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Night of the Living Dead* (1968), based on the dark grayscale palette.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vEzO2IUcLsZd091HjTDuu6JeZqjC1UO0u7S_48ubtoYUku-SmFBXqo9e6C96eo29L8AI3VUyMxH9FEJ5an3jlSqrW4FNOx6sKl374Nj_82-DX_9rb3mAuZypCmgp8GnKnbRub-Xeb2v3DVO5DsBeJDFgIp6i1oxjnYW4Ak-a2yL_29nodQOthIWegPjFpX7-8WwklQDAxBloErLb66LOeFEHfS4l2ZsTwg3FiVZVvqgUKf6QfqpzY14azwzv8kP-V_QQr1KfvbSbIPLKId3LQwTu39woB5WqLAJgdMiLM-0_yy870VaX8V6Nrynpqcg-DcpTB_RG4nYLJEPdS65fNsMrcyiz1zWyWvfHCWvXxs6QUHOhyYqBTbqaD_hMXOWj0HcTJmkyMNKF2hwQ33vZuj69Fp1QNARqnq4YHIlKsYMAhwpjxYbTy4JNjcy2EhDDzBXoKfpFH1cEBmUlQhOd28QRJG5bWLRBc2oU2M7eRLCLa15w_VkbuMDk62yVROTiDdVB6cr0s1qEV5RLTxH7BJz5csFD-nncyVzPh-zQcUl8nApTMc-U2qNEfKIK_o_pwNbuh3WgcvkgHkcYJ4aWFDiDX6REuPgekpF5P4SUOen4A65tlBZuS5uXNrFJh8MovGOe8dWdr54hxLYPl5GcUAQsWhjEh7421lbkDBUdmGkEmCvkZeQg4SIV26LPHLkevvkteK2NFm03dWUC7VLR5MSKq6SAvoB2z1aL3gGfYlm9NEBGmkrSVExDuJubQLExIrNXYJx3zNTjW0EFY04nfMXk9Sx8acDPTutWgEo_1zIWKccg-XemvPkUDwwp9lRASw8GkZ4itU0S--zLIMhBSn8KxCu5L6AVY9BxINww0K5CYBJUO4I3cCwviIYbSGb1ZulDRLTQCCWfPW_LW4bqvYNv1-fv3nAimJWANPLoVr_5nr5lmwpuFfQNbVeKBsX-TkqmB6zUjBuvS4ptRt_5lB9HrEdKWkrXjKQoHabJVTpJSp2DG537vfe6glznt94o8_FZ99MxDorowjtA2vTx36Rk7JqByd0bBvZdro-VUZ2jZ0PFzLvZIXG8WF4hb-tJkFxpoQFh_UB5EF1_9B4algp4Xaq7Cjy9BZbSqdjBB5-eznaOAuEJUgcQbt9No4BCnfXfhl_rH7zicUwI-_aip71VxPS-D7nwBe_mK_Qr_T9hPJy4DEgjKWkukOJNQzd128-hGnbpDpeMr8tox0MMw5euKBA-K6DAQevoykAsJsnKsD4GR_tOImeuCNq3eC9j2NeRqlfAXyQf5nuEH3sMWNp4j3BqG5QhJPjMOqKTOAafClWBCegDOL-CGr97H2Qo_Xi8D9XPv3a6W12IqHVaLmtLQL8nXBjWT3a3OiaGO3BUJRrSTIEGvPL8beIlqjBNi_BATVBi-LUtjtxXiNJ-g7V4E_xxu-3pW3sP1zoUx0hc4-5rjtn96psOd6MThCwykNuY60jDgTCPBtJjk9Mz2jaCJHEYy6IBYCBjHZF2hWVmoubUZi2TVb_aWGPrmldqYj0BfeaoIHIpInmTkxk-FVyZFjQEeudH78GJFZo7EXapvbkzIIpTvM2aG3dxFyKanAmSCNwnlGpvlNIUFX45YPFLveF1N1i4-2kyexU0U9vkS_zXysVO0ZlQXBemLDxT6L2vb85QYmyfdfVmjw1ShWRNyMf-wDPE3-syLCFJXxwzSuYbo6oaD9OH0xoYy0j-jPZG-Ovb2wtQgZ__d9H9cvAE52TaK6aBj5YSLNFtRMuTYMAeBvq7XfJK5q7UW-8PzwO9hxRLn1PTyiJak7SG4mESxKkOM4kOcsPHRRGtdHb3WWyIVJMhVddb6SH8ITIdIIgMrHZbFeuZA6NzMK7VmfHgkzInGq2XZ5ZS1Mavp769xArV-3o4tT_2hefe8YnhAfeQvi070x78Km1BGz5xob60HJnMRh-pcJKWDBDwEaB8G1xs0UYmyYseHGnySMfxXkdowdLa68NkvUwDY_FtZFqHoHtjpuX9L2OuLAoUs2_3FCXdyKkDcCvfTqV1EffV1mlbWGLz_MIwneYsgUYnyh7T1_RTNL3hX8SXyAq839FPY7Q4nz0S4elAcPZXEpjSWat9kayuRAZ6xqtH4bB85Japud1nmM_1Nq97HOpxcy0P72yNF2kKQAdHAcr2NVMLIUvBMMwjJqsjkjHOoGeQVM3iy8Qmxzk9NXKr7xL5pe_bC314bxE0owobGf-yqQETHDq0TEPlloe44c61TIcGNn0WVXbaRuAPWdgC2GkleVIlaqc_1rDTsG3NY6jJK5UqZgI9JOCtqhcNPL9-AZ5FkY0VOBaaNmKKO2K2j1wxIi4Z1QBrdZ7w3NNysE9KA6lO0JZXoRxrXZ5sFl28F4i8XrL7TlGzDHYOsWhvIctfdIphaPI893tDnolNttZNiWtjHVAc6pARw3mK4oN1i3RcXbuJojPVo2sJlGHmYbgxM-Z4EuchjDY1-Y1npwr73W_jl9QBi5DNoQCijmd0h56XQhuSqbcVr96Vrnm4Q9cXtQxkw=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07885a5c3b061da7016abfcbbd515887d1b243b9569726e6a7",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 215,
+   "total_tokens": 657,
+   "cost": 0.01517,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01517,
+    "upstream_inference_prompt_cost": 0.00442,
+    "upstream_inference_completions_cost": 0.01075
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 184,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

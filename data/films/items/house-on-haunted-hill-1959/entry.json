@@ -1,0 +1,19 @@
+{
+  "slug": "house-on-haunted-hill-1959",
+  "title": "House on Haunted Hill",
+  "year": 1959,
+  "hex": "#343434",
+  "rgb": [
+    52,
+    52,
+    52
+  ],
+  "frames_sampled": 4483,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "house_on_haunted_hill_ipod",
+    "url": "https://archive.org/download/house_on_haunted_hill_ipod/house_on_haunted_hill_512kb.mp4"
+  },
+  "artist": null,
+  "label": "House on Haunted Hill (1959)"
+}

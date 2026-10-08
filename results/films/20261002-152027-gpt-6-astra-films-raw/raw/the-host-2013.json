@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954447-cEQHLsyJTx8sFbEPXwk9",
+  "object": "chat.completion",
+  "created": 1790954447,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Exploring lighting contrasts**\n\nI\u2019m thinking about the visuals in these films. There's this transition from bright, lush greens to darker tones, like the earthy gray of a ship. The courtroom scene is brighter, while Dark Star has long corridors that are predominantly dark. It seems like eXistenZ has a standard orangey lighting, whereas Dark Star might look underlit. I wonder if maybe everything feels dim because of the average gamma used in processing \u2014 but I can\u2019t say for sure.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring lighting contrasts**\n\nI\u2019m thinking about the visuals in these films. There's this transition from bright, lush greens to darker tones, like the earthy gray of a ship. The courtroom scene is brighter, while Dark Star has long corridors that are predominantly dark. It seems like eXistenZ has a standard orangey lighting, whereas Dark Star might look underlit. I wonder if maybe everything feels dim because of the average gamma used in processing \u2014 but I can\u2019t say for sure.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vdCOfZBxY24bNIRe-svDmjlGgpmd-n3qKGF4Mbd9T9-vyxvowztKtXknpNXTFNtFvcBh3n0hpdp4fF-Mf8rQyo2q8EaH41UGPK9KIDi9REUhDVgiXe0lHrA6Z2frZBqc_rZ39mFsKsV6Y9tlOmMI126yMsXsCrA9QpC5GmRr0TKxaHDF_kKl4WoMWVqycEXOpVOPd8wmZoovnt17aMxQD_WVECIm05oZIxdK6BjQWmleOOIue1K7_jqUQAZ7zLjNMeYGCAoLgFrL2t9vlRLS5oBQUkNyyBwvpNYVG_YmdGeLArQczzI3Nbp77arZz29_Iw26pYGtnjxgdYLxEkklq8_Law8hl7LaD3hUZp9HYY8EZfLWCJr-z2zjB1mt94qTKOkOYtprzxe9Bm-3IbKjaYNenUaPfsGezLQ6jpzZtfxDUAYcSab37hI_UcD3Z5bIJhifWL6CHU5xyXhzGE6GebD6TRW6X9JyaQy_dbV1cgfAKOOEHe5gBrvdH6Y6LjqGSX6gIufvk0gjHF2xRyBIzlE7lfzgjQwkoJPHHFoyhAEwJFgfzoX-hRaZFQyhriIWviubQbQS3IZ-wfF-r-rq2eCUH36450ilv0CRUoTrlTucwWE0gmDsjTNqnA0-IVi-KfeW2fFytCxoKs3WnE-5oNUj_3hct9Si_E7KSwXiY5s2vk1LkckFBpp5mjP3Ni1QLmtFBA2jEArEZd2YjrDkko_kbOdc8o_spUrYxTERB9_zngNbzHsQwTFUxxgj3f398KFAZizTncsvi2Eq6GZLhkQUmY7IP2Ov2ho_uLeOC2RdppPhMEpKKD8K4WBCwcsGt3DS1sSGNUMIx8EoFdSeXpS3d4MLVWXW8feUEoGH33sklPx12jE1pLpe_C9Ie9bCow-WdHgX_5fSbjcSMbzN6sXaaghW_yYgPUsgugv_IFLKNqj6G6bDD9Cnz0yeyHxMnfoXaHtXynXzI689zyffenCzm9uNwaG5T8m8ZGDxksHZPpzBlpw_otuoISu6m1xets3fU2uUDa-PQIT7gKMAHJJnfQxAwqYx00EavBAQ3DR-EYbpvuw_h1jNQqLjbG1AI8WbLeLGI30om9xFffKd3l3s-buRm8KgzcoqKAUC_MMz8W2SbOCAAN2ZWf4qWaO7Bky_7gqb7wzutnn2ZCF1I6rq0cZjvZKMS2eio4t65T8L5OmqkvapwXS-9wQ_M26g5Vf_Rx4YpUFWZEDB0TSiN0WS3WC4FZCvWUd8Gi15KdjtRsGnvkrMo9kfvqxE5M_x1By4Gc3zjbulKSWlvSwkxMXObCaEpVsOkCgmukSpaW4cjMutyxHq_G1YUhRW5GX2nsBK4c9aVS99t7vA-ND8kGY1Fh3okUBNJhbucjJPeyw7QBU44fpsQdJVc5zHgtoX6KnwIBkSJgfQAkT3spkHy52H93tJUKEs9TI0pJq8Uzr2UiHTOeZtkD6VW2xw51DlwzICCDILTgqYOA2OX6pu5ESQ11nN69ej9nArR_Z5A44KXJWQdwtc5TA4okXzVgDSDXNjVUPN6VJcthpyYYWUO5v2IYkN5p_H_14mfLeB2tU1y7n7UPoZ_EheF7P0AsytHlq4nH7gIj8rubwZtmBjIbi32bj-XWJ1m2xtBdtlydUntzXhMuvnLX6Wq2Uuqf7rwYy7XlUQVWcm49jI_6z58L3fH3hrdmg0EbtRefptWvs852XvJ7lC16PswQi4OLiQkJT_-o-rhmxtg6j3qLT43W4FmPBp3wAPgo6EASMM31y6ZnunpVk18M-GvGx9Y41xh3bSsI3EYz4hYfp7ck-BR1YT0w8JAPTGvUTL4UxaH-nxpXOxHSc9Ep47QLO1K6lw8ykALtyUMmsMWHqEpOXAfx9r0ChGv9P91O0-vM2JRRnCHVeYC4SzjJG4Xrn-gpj3_R_BE6GXFsz8KveuN0z51smX8K3HStJwouUcWG6Obvwhiw-YzlyaXzOJuhostGXzScxtFallKVSKndGIBvtxRw9g6f1h7KM7AB3CxyzSkuC5K8VRQzn4NsQPsDz9gKEPCnbs3DRgazoBjHd6M4g0xNqFvwjfTyPqV68OZ51fiTL9T24ZCuAufUg-IWYkP-YrpASk5_A7B_A_zT32oBHm-kwbS6zBQyUOliMJA9jRQkNy0NbEpHyMfJwaF7vq0ZhvtLbfXekpwRarCzDgOpDhSfLeFCFo_bhKiku_qI43SpvbrO-_P_2fSDqhzjWUnm7PhIC54rtBux_fsETPXW6xmwhECU7gi1AByz0IHgYpQ65FKDTSmAtv6BWnw9oh2ni4-flE_uHW5Q4aMYOtfDRzZ6mbHJpH4haSlNBQosDoo37MJ2ZJ6FoItsEWdRfADUYVN1IbCuQEMNKICwDHCTBmsU6dmqMaGNLXrr-ZXmp0Ik7PwOWeGebHKClfGuhXGukzK4F7uXxWafq74LBdhiaV1osLmZjE9M4xptL7n5eBrj41lNXIBI-pSkFIdU-vyln3W36cUUkC6fDl3yk7pM3Pw9Tw31YKSiPLZb7Xh5nVA169Pdofe69B1Rebt_VX3tm2jxymwNFBGg_BxGmNGx7W2MetMvT7Ac39f_SLTxK6u_3nJkur32_7kpDPTt84wuPNXrklv1ZgxcP1zoZooiqDkdmdepNZPFcRRYWmA96MBQ93Zmb2Up-noO43jm29K1MV55LATRW9mYsz8ysIOMpUOYwClezJoq0ivS0Isc0jmG2mJlQAsU_Ll-QUcWP1BLh1wTKiTKFpFov9T4I0UgdFX2EVXUqbaOQvNIr3U5cK1e0khmVOKmALUZxmJrocj7iSZlLW0dd-3b-ufe_6xltblq5b5RRhyJlSGpO6bepRpRnvfpytiNplok5HF8_zDt72p5O00Ue68dhgwkTzeBAkIaHxpiN2NFwn_bpIXvUPpyM147N7UiSyDMcZEynB9cc3UW_-RXKi8HPD87jm_iGof0DP99d3tkXi7ZNbAbPfCxUrpWVEBMqqskn0AbWILcAjCG8zKYfHQz6U0DIAwauRkHX45EsGbI-HqD7J_bd78AWig=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_007d9967d3614fc9016abfcbd114e087d1949c9bb98d176d04",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 422,
+   "completion_tokens": 306,
+   "total_tokens": 728,
+   "cost": 0.01952,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01952,
+    "upstream_inference_prompt_cost": 0.00422,
+    "upstream_inference_completions_cost": 0.0153
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 297,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

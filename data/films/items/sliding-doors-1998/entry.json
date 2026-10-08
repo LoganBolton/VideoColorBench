@@ -1,0 +1,21 @@
+{
+  "slug": "sliding-doors-1998",
+  "title": "Sliding Doors",
+  "artist": null,
+  "year": 1998,
+  "label": "Sliding Doors (1998)",
+  "hex": "#5C5657",
+  "rgb": [
+    92,
+    86,
+    87
+  ],
+  "frames_sampled": 5913,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "CzCZOYCHq0g",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

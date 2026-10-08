@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955194-NFFRpPOyRJx5PXLOg2YQ",
+  "object": "chat.completion",
+  "created": 1790955194,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Miroshka TV\u2019s colorful eggs video, given the consistently muted, tan-dominated palette.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Evaluating color options**\n\nI'm considering color choices and trying to decide between options. C seems to have a consistently tan farm background with only a transient egg color, which feels right. B has strong variations of green and dark shades, while H also shows more hues. Based on what I\u2019m analyzing, I think C is likely the correct choice for these tasks. It just feels like the best fit!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating color options**\n\nI'm considering color choices and trying to decide between options. C seems to have a consistently tan farm background with only a transient egg color, which feels right. B has strong variations of green and dark shades, while H also shows more hues. Based on what I\u2019m analyzing, I think C is likely the correct choice for these tasks. It just feels like the best fit!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87M696e4RAKXEiR8hF2IAz4AIQgjd1Tb24H1bXheaE1b-gwmwL-giEdDFUiCODqhYCDFRY2YANd0-nOZWoqJv2pxTAW8GXrdzmUuv1skOw51kMw5Wd30iTsNVtUo2JHCXMo-snCI2zGdV53je6Ga0_MR4fgyuiSZRreYduhs54lcdbZJiSHhzruTt3yXmL0YcMZSzz0PO5Uae7USsb1Hk-sUAaZsviWAUmW5DjQ5KNYnygkL-xI_J7-uYtIsaiQePV4jDiinn4aR0rJ9E9dK3XlQ_7gJIe7vboDIOinh55Q58d-VnjfYUXUI-zhpsw244ZtnOcDRHaFfjhiUKsrcGJIUczjLbEKSZXn51soJHB5pPw-SMUNkFfEW02vmMwwhHj1k7VW-U5_B5Zc-8ZtlbABrFZcOVrIZRifYEZBYXRfzwvR8ed0nW6Ufqlp4yHkAelVrET-7KKPOg2QDGMqn4NzYHWD49ItNDX2DG8Hl6HUMomCycs3kNaHk2LFCdNSCXnXnrX9U_EQDS3GOAbEQ4Uvzny7IzBGrNPGgf3iUovrp0Q9kxnt3C8IQUMoF5aagwV5ltI0EdyXgiuZi52Y96QpVv7Q0doDgDw45HdqN2nISGKWtqhkW18VAXbw_eIyAtjVuoKypjzUJ9hxjcUEpzkr-3-NdQ25flYS4XbrP4ObjPnG9LiZZGti5yYCOqxR0ZEJhgT-csB69Ja0Y-dLIlJj1m4YYClC8E4Eo-I9bQGFAI9TzKtEbs_6sLYlxV55zYSudEwp_Sb12vDLA555WJQi3Zh_BZZkBUxZ7PvLWAsbYKIySMB-7OJ0gNsiDRVA1oh6JrgsfwFmDWEJG_unvNe75SF_EJ_L8LnjjFcIbEZelRh7ohuoSWOwo0kYKlS1C-XcHwJneCUhknR1c2iGf_4MhMUeRo4jzW0CqDgMoVKBZ3wAueDKxTstr2w-CxFm4LwQHxI5rehV6DnSbYzsSq8QuA2ZJSI0qldlwj_V7SEe2CPdfdrMyWIWbYD9IudXluWmRNShFPJjXabYyLXSWRueJoHGH2rIjllHVbp5iXrlPheKg-nm23utICHf0jnrX09PX1DS852B-rhesRLaqLoWShpe4qs6lUVcz1_zo5iDm7HpI27E650XaQGAKXoy6Wq6IJMnl8K333XN-pBhH-jM0x6YSMoIYrT5Cy839rbZN5XpKl_XwBp2e85Xctz6AO90pX7xcnom4K09wiggEzM-KYGzM8b5OknwB6ceQa_NNw0GClvDhaMzFcEaLjbO0KAb5Qi_AA61NQLpYxSnpJ2ZY8F2RdaeIBwD5yunidr1bOUUk9aVUqEF0BoaUXZbNOexItAYu3V_7yehz0LJnztQSrd1JnJx5Jy03SvrxPSjmMGML8RwLaZ_j0d6Ts4cAkzzQRIB9iPgV9MDmftEGWxRm3fc9E8dVpBJlvyeaZrXNXlNeq4D5dMfvFtUtiSWbnZQRP41n_mFtxRGQZkK55rr5smrMMWnohPeaQOvOn7-fzxOleqJ0LGm4G50LHDYCyEV1vOGGYFDDcvzVrwJ7fbZBdAcY3JplR_sMw8PLWTq68q4a5jG0vKAiBasML1OTg0o1j6nc6HjmZzRXBovWQVn0LRg-gdUb0hS_qz6eupx3HhGHeXH2wqrfyQBhgxduKNjMAgdwO1n3xBFGrk7Q9EHdG0UwNnmttijTM4OVKycYmmtSWTcAB55lWyt6obrAeVsnoT1Ko7DdAklXOBApMI_MqVM8w5Zt6J1KYETn0yT_mpJJZUKI-Br8cwhf-f4xmWhSjts4YL4s8AnCe8vBucperbE0DOdAdFo1v2TNWuY4Qog7VwT9pGBO1Z7DWM3EZkQNfrlvWlkTUTJEn4Fn1xxZekr1jCFDrICelYk1YQnw3JbUDoH5DubNfrh8PHGnKcE0QBWdFT36iYQBQ7MYJ49I70-ball1Dh4rQPoUvImqjCGMw7YRkjsvxVGhZdYU2dfQEyqNLEz3Wrpr7skGFzGMRsGvK9syIDe_JvWVRn8a-q2TVqrRV87TBJY96L2XRXVOXYprYfoXKOQLoLgT8F5KoQ5g6DmhLj51dZHBsjYMa37RnAbtaz7af7pw3TITZ-Kcn8TBUBSsEFNJGgk9vLIWanmhQv3WNaUS74Fjl5WD8G-2tm2DV9mj6uHzx-XTMb7aOzVVnNbWu2cK6Pa8nie51bR-QD5ZCU1JIz7VMwv6--NfYpVBC1XVO6_sUeuhRky78cqqGhbd3oiBQjkvlfRfa0x-0fSDXdfltSBO7JlJAMJouu-gyhcMeLiuAHpv97ptWwCEtnYHrYo_hEET2TrvIKTroPoV1xG8V9xjGtjE3sk9X9tkmHIsDqcNhj7rOnfLANKrWfGxHYp4EcWBS1k6AdvjBnJ217sDuER4n8vyyrKZCX7rWcNhW_Rmr6iVbm6ym9yD45dx_yVEEgZhXuzmGoDBMgcoMno1egip89J_g14kM4T6h40iJLDyAXeeIGdtkMDVLIEc8M5SPAhI2TgNjKMAkM9Ehm8Lpb7OE-QhB9hegxsZ3o2iIEAWTQrio3IvP4JmOYv1OaIiyJj7huuUPC-uypR6UOsjEtV3XHAms2SFoZWVRQJJcKx63YKedex9YRdhtqSqS48in1eQt8dXbV2DMRkE8q0cki6G58AukrbHFaXg4IKATgBuc_OGR1lnONkXrUzYk6sH6YlclB-4UhueP4jtLGErf5iTb3WVTgDD_y855mihA9TnG57GBZpgo3xawDU8BIQjrEKP3s2dJQhO2sBcJ4pG62HjYgvCLb9d6KqyieJCStM8h2_DWStaorNLW31zxoyInQUfdOy7X8NImKJOGyHs4Y8num1W0fCRxRSwF0bnlJ2JXJ6NjSljHBkGBC1tAMezPgb7nB64a6jgJMfzhp7kSjqjko3_SyjcrgtbBOsDGpKl-pdjp7fS9IW1LqHPa-mcOeGZHzkPC9t-9dbxN8c-R1VSLCVxW-_h9crnctvHhhjRw_7YiPwng4iwdUTT3g5N6_4ze8v84XfAzP2gUExgkdrXvcbnTIpoenlHUllUXI9BiHaQjGncceSWDYUikxO3oW7ig4_oOiNbD85_C2CUJmugn_LCXg-yqk_ATj9xoDViu4G6kRaDmwd3enXfS-KTwuPOSuQ0NsoHmKVGPm_6ATA1R6Mhwkl6xBrrE9O_5VEtTxlj2WxkeD_KXj76RJ7YzFv8kqS2APcy9GDlnauXoMbGZIPfcEKNwdrPZ5WXQCec8sBUxNOUznCiqvZAUiMqN0hPalhzntzf6KFknq7VIVposNRP_1zPwSDEP_vnVt9UbT7eLNG6-dpxKwb7wNOA7i8jqawapAjH_FSdyirI66W7ky41yOFTRPgZDyYqStRh-ene2caAkHj80clN8Z3ZXtOU1VUDuUrSLUCw8JzXAX5fjdXairFJkOaOU-CsHRo9lcQ1s1F8NS8vlFE9MdZPF8j0EcRwXLwySAyHBf-0dyl7_NjUtNwLi8r_TRRM5TL_mrD7sLN4kpKW45AuqScCIgJjgJehGNbssOWackE8TrMyz-3eOQDnieKO7a-KaoAvvsfKgWIDcUei_PZdauzZR5Oo8YBYcc7xKrGct-cIwJr5_XcDdPwEHGnG4MKq15ubEHmzgfl6b2ZqmYVJLleVVjBSMO2gtA_xTRU0EB9VfFWK-eoTf6po3Fq81kUoXNmECKIRjKAI3RLUUrguYthg1hybpo6tpbC1_E7YikvA-5Ve6PTHhbvo17WRkRF9cEuRh2AD9w3_hkMTVW-cAAWtQYwGz4NtR0CropaQWAMTjLASPfJusVTZCCVzX4BJpnpZlxDtHQQfLXoc3eIryXAvOHj8dRHpbO7fPJyeQiLUVgXhMBR6z8=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0061dc2ca9f99e69016abfcebbdfd087d1827a58b74223dec4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 508,
+   "completion_tokens": 438,
+   "total_tokens": 946,
+   "cost": 0.02698,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02698,
+    "upstream_inference_prompt_cost": 0.00508,
+    "upstream_inference_completions_cost": 0.0219
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 405,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

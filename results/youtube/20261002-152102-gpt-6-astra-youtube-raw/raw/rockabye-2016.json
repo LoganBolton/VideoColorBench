@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955206-2WIapXBEmdPst7I6Bt3s",
+  "object": "chat.completion",
+  "created": 1790955206,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Alan Walker - Faded (2015).\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Clarifying color themes**\n\nI'm thinking about a specific color palette that includes dark muted tones, mostly teal, gray, and brown. I want to capture the essence of faded, abandoned architecture, with a consistent style. There\u2019s a chandelier in a gray interior that feels warm with brown tones. The visual starts with shades of gray and pink, transitioning to slate teal and a consistent muted dark ending before fading to black. The faded video has an outdoor industrial feel, incorporating these colors throughout. I need to make this more concise.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Clarifying color themes**\n\nI'm thinking about a specific color palette that includes dark muted tones, mostly teal, gray, and brown. I want to capture the essence of faded, abandoned architecture, with a consistent style. There\u2019s a chandelier in a gray interior that feels warm with brown tones. The visual starts with shades of gray and pink, transitioning to slate teal and a consistent muted dark ending before fading to black. The faded video has an outdoor industrial feel, incorporating these colors throughout. I need to make this more concise.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87O3RmuuVtr3ssnh4g39LybRSdPptyP0IreFCOmwGpu7CzT32MXh5BHwNPgR6Y_jrzQZCtr9vKwWHGg4B4gQO_yF1AQEwuAKS29AXhVDM486C1hYjbbZtXtuYs7s_z7VXs4l6rxinBq8gr5Gqt3MESog-al-DRl_OjCRVT9kMfxA9O9H47BCu6T42Rh83QYGb6c1tsPVJrUnyr8vTUJaykwUfBF26PEl0dUZmNzrNNp1Ct1zzqpLFRp1CMnDbXDdGWU8I0fw9YEeRkOpT1yNwWpgQBsQ2Qsofe3Lrh3gIQNwOjpj4ICroioZaYk6fOCdxNVU2Bd3LUkSvReworF8vFaFdRwu6m3xlgOhulkZPqUBa6ezI2NqmqcV82N7YbmN5vqZDyXz9wA3WJI9oSig-F0F3Y908Itzxmfs5KDfj4vlLZjb3uGkPVWTzEuQ_lJRE8M-H00kMX9Sg9Ibz89efskK8XTLi5UPxWFrM4bGbm2DGtQ5BIrblcN7PL12b5jMv-9sS9iSVtuQJKGp9wfBuJerJ0WgcpvAPxd2mxBfe5gAnB_c31V1MmZGSoJbKH2o_PU4NggC27kHCq-T3r9-2pYXaReOUSJ2TqvR67YWo-M2sv430ateT9X4Tl233GRgCD-AlwlnQ5W8NBtDArs9W3j3s61vgi_CotaAUcBtqOLNPbrY7s2T4VQs3aCv-fZq9NS5L0qZObK0GtYp_YzeO-SHEqk2mXU7DIQ_qY-HtwQiw85hqq07ksJW-m3qm0VdwQN-K73sLXXbtOTzkxei4IMvlIr3NpUfNg0pUMCPr-fSYQ5scApsI3sZmfbXgvRynIFah-0uwTXwhqLUEMBbqQf6nKKRiPS8k1gCQpYLyUKcFofrosIoC0OkLsG2e2LsAjIGALUNUgaVIhi81Nsv8w9EO7za7uIaQ8T3BBqDgnsBwKPV6J7KWxIpCJi4gnpSHqxQCfArOE_U914F0VG6ElnrySd8Crx3sj8D6hTLiT4vsq7Kwwc6uHEZIo0hCXYTAqBt6nDNf1Z3LVg-4tm5Pry1d-LzCkEFevlFHoAUc3XKFg68F2tzIhe1DztO1aQ6DPbPJagjml5dolRsxZf0apb3Jj4NFNyWpg34G9NKBAEVy5Op_FExDANRWrA2xmehI4LCLMpy629H9th96-ZRimSuhvoiVUcvrG9eFfuqd384g2xxP22SeB2GI_hHWo0sHT8Lp7z_6wqMCP0Tzx0cog973EL7tKLXu0DWRQvmFCyUgXo_u23tf552BBwwKjZl9ASpIk-iLefc4XYzZaWhmuuFp1Oj73X6V4ncCcdHgv0LLZLrhiu6cfKiKDoANzWWoa6YCFwkPiFXvNpzMyoEnyHtHz6YaN7fag8eCZwp5rmQboAaG2ICCYLoxWJbHosIthq12OaSZXRzeFXuTjJzIEqBCxBdgNB2JkEN2P5Fmp0F7781wR-hlLBqXQ7s9-hbBib6kND3aIhhwB9PbCyQvrQYitYDFBjqEaOZ6ZdqgWSf-CwC1Wrd01UY-Yi2roebq6uNrutPaUc92SE60ISnxZVQvhW_Q_cZPHduzGSfkfhBjE5zXHjdjuwz0TgYydx0STqEE8En2dk7nuiUGyWyywX5gVCxRlB1JBd3i9mZ75n3BDa_IYbpdjKJCZ7xCOmPO3OpIjsx2Ku8WPpfwQHplLIwICe1_knEahp1X8gMjaPvdRlj31CFZPWqJ4XdvWFQP4el_VoL0M1froM_I9lpWsQMs47yEE2Xs-ZJ1bQ93vILGVLW1Z0eLgRt3ulEVFxoH-aAMbv3W9DDUK_2xQZaXKrQZuaR7JsAA-i38c0-KSXdCncRO1f0wTQlqFtd-Hv7Jrx0ZZjzTUTmvP70ItxzZUH8ptRipwSPs0wRhlz-cSBtSRJpMsx_OR0o0KFJP9UYJIXYdWirJ-USdsjqfkv2mYY4A==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a4b857e8615d160016abfcec85e7487d1bbe228253a6dc8cf",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 490,
+   "completion_tokens": 110,
+   "total_tokens": 600,
+   "cost": 0.0104,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0104,
+    "upstream_inference_prompt_cost": 0.0049,
+    "upstream_inference_completions_cost": 0.0055
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 88,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

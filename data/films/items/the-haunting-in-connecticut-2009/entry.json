@@ -1,0 +1,21 @@
+{
+  "slug": "the-haunting-in-connecticut-2009",
+  "title": "The Haunting in Connecticut",
+  "artist": null,
+  "year": 2009,
+  "label": "The Haunting in Connecticut (2009)",
+  "hex": "#1E1C19",
+  "rgb": [
+    30,
+    28,
+    25
+  ],
+  "frames_sampled": 6148,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Jg47c6Nt6h4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

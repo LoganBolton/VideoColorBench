@@ -1,0 +1,19 @@
+{
+  "slug": "the-general-1926",
+  "title": "The General",
+  "year": 1926,
+  "hex": "#5C5040",
+  "rgb": [
+    92,
+    80,
+    64
+  ],
+  "frames_sampled": 4724,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "The_General_Buster_Keaton",
+    "url": "https://archive.org/download/The_General_Buster_Keaton/The_General_512kb.mp4"
+  },
+  "artist": null,
+  "label": "The General (1926)"
+}

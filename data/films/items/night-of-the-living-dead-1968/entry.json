@@ -1,0 +1,19 @@
+{
+  "slug": "night-of-the-living-dead-1968",
+  "title": "Night of the Living Dead",
+  "year": 1968,
+  "hex": "#4D4D4D",
+  "rgb": [
+    77,
+    77,
+    77
+  ],
+  "frames_sampled": 5752,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "Night.Of.The.Living.Dead_1080p",
+    "url": "https://archive.org/download/Night.Of.The.Living.Dead_1080p/NightOfTheLivingDead_DVD5_512kb.mp4"
+  },
+  "artist": null,
+  "label": "Night of the Living Dead (1968)"
+}

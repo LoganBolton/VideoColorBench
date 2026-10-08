@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954664-SuX1Fgsu4QqfUkNUGU2O",
+  "object": "chat.completion",
+  "created": 1790954664,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to consider a palette based on muted tones. The image suggests a mix of grays and browns with some blue, and I think Existenz features dark tones like browns and biotech vibes. Sliding Doors strikes a different tone with gray and changing blue. For Paris, I expect a segmented, variable palette; it looks extremely muted and dark.\n\nI'm exploring how the colors transition through different scenes and segments, starting and ending with similar tones. I see potential overlaps with brighter styles in Sliding Doors and look for more vivid colors in other references.**Evaluating color themes**\n\nI\u2019m thinking about the color themes for \"Man of the Year,\" which features muted political scenes but includes more red and blue. It feels like there's a Fifty Shades vibe with black and grayscale possibly leaning toward drab. I\u2019m questioning how reliable this imagery is for conveying deeper meanings. It might be better to explore other palettes for more striking contrasts\u2014maybe something more vibrant than just muted tones. I\u2019ll consider these options moving forward!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to consider a palette based on muted tones. The image suggests a mix of grays and browns with some blue, and I think Existenz features dark tones like browns and biotech vibes. Sliding Doors strikes a different tone with gray and changing blue. For Paris, I expect a segmented, variable palette; it looks extremely muted and dark.\n\nI'm exploring how the colors transition through different scenes and segments, starting and ending with similar tones. I see potential overlaps with brighter styles in Sliding Doors and look for more vivid colors in other references.**Evaluating color themes**\n\nI\u2019m thinking about the color themes for \"Man of the Year,\" which features muted political scenes but includes more red and blue. It feels like there's a Fifty Shades vibe with black and grayscale possibly leaning toward drab. I\u2019m questioning how reliable this imagery is for conveying deeper meanings. It might be better to explore other palettes for more striking contrasts\u2014maybe something more vibrant than just muted tones. I\u2019ll consider these options moving forward!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8y3qiTc9v_yU4s_mmHjXcs5kzu6MzdP4ORK7qg1P0fIhx0d9q_JoLn-oz-Rr9dYObXbH5AJXZ9SuPw8jLSIyCtRbzs4x2l3N2bpka3ju1n4rEihAzgoDGkDOOxUFOf9up-28bzVdmBubEpAjgTvkrqC3N3FuVrs6go_gO5exiAhga5xaDOnEhvdZg31i7Ow8_DcpiR_T6YVis8yuFXneUEkrRYHkFVUtfBkCKN17n6xJWi3axSTEHm4mTU6HSMgPKrvJfvmv7j-SoGFHep5_N6m8OsCkTGvnHmzpR7hS4mnQtjIAptOaNQ8vAYEQpSA9fcv2Q-17Vp5Vbk2aRn6dhZX0zOnqbHBdiF0rDYrulI_Ht79DfIsAHCfA-k6Z-fAqODbcQmvqorNG8psBtqortzpmYAA_EpIoPINzvqJpIedz-CsOgdviTM6ywfASbec3pE783ShOPbGx9pDooGZjR-K24Ru6ivF1_FVKjof0xC0QfMa-YcE_t-Ue7U3kx8Q5nnaC66b0u1lD9HvWD3N-kJ258O9G-3d7yyp1TL2lunkfmRj_cgpUw4USAzXYjmNNNYazA8s77yD538fTHFweq7M2Lx4f8X5KI3H_ztQ7YK81rhxWdn8Pmy8NvANER4motTS1QdNXXYdveiRyQQYgwiWPrUoUBYHJFuBTnwp7x_p1kFj_jii_YdvVi8nnDPefaAWW9ACSBYkbwd2VpJ7athR34a3g-Xf2D47m9YM6tIRky4hFUEbgJuhhhSj73z3KiKBZZXFPhx26nxhmQ-ga7fGFR9D-eUpvjffIEBdqrAdc25dfNa3lt-JvD0AIlHN-OznijqRrBENUpCBBUvaAv1VfFWoLmtszJT9M_uBgCl0cjNpmmk2LziGR-3CJn6k8L0zDBIG8Ni2WJlBtUB1mFz9VlURWUZXOASZi6QhPpB990PH0F5hDj3qf2gWed4HLqxD78EukDEC2sDTjF_l2MuNc0kWjphVS_nmglmoNLt1g3NPpH0JX0jB5JGIHIE6dw2uFRh80TGDziEzFtxRWK0is1iom2DYWE4AgVJBoX2D1k7pxnq08A3a21Ixvo8FloRiH5hPci8ydPAq9j3M1y7jzA9Jc-sOJAjVtBwIlPz_QVf2wYiW189lvr-B_N-lhK2PM5VW9L8layB61qUT5uWT8JbtsbxUob44OSZsmDw9Y7RVIke1Y2Mx0mJrDDE0X0xEdF8cfAgZ7o5mHMNhg80hbu1Ww_5cAwbSlJYnlCU7ptROR6ujpJycUqHhGyFx9k6Rqmf7u272K5ZHn8d-LORdb92J_7M-C9zRGNRND2OT1j2mqLm84nhv0mBOFEXDg7fkzonEB85rk8eZGkD8oHTw2qOvaZjGb5cSL9CycivjtA8qFFf5QYrOXJOfym3PWZOyeaik7E3z9617piYWY_8pZh3C1-0LBnD1Ew5vNlJ4aZZD9Yi_9GBKAjnxv8n2cZjP9kf2ChM3qhZJNnBBL3SScfYFsdUjArJekOrHpZ2WkmAehMnJvYOAoMq0dn64j4DI8CXWrmLQo7cWBLzvvBXPwWpTY-zyHzD3SOoeBEEq6cDAiDonsBvtXYLVjazjRow-thH-t5h4651LjwP2zRaRBQAuwO7ysw7a6PxIoiYVWdoSM_-k6g1_C_VuRE58TGQJHULrcZWP89_19AXs23IDBz7ReUae86y9o5s7RiZBCDhdkZTz3iuam03y45K5EuWKN7_LCRqMAbKnoRLVssK1_P5fj172DgRW9-d_8Omw-S4bNpXvcLZukhSb4jJigkFgzb_bKZrkMBOemP6sIWwuMO1EHTw7z6MTxhiZIh_wcdfVgRcON3wmhbcJ4eASzfg5m3FvonhMND6zIprl3piLnhtveUreISVJ620QTFkZhh4mMWUGlGOOERjfrnHHJCpKm8O8asWRXBF70Z4IRYvyxMZQWAM5m1RIMjcyL-LnuRsP8A9ndkRKI_UWsviutk1I3BGmFNSoW4ALxEwePQ7F6fk5eFq0pnWSl368MIa8bkiZf8ip_4upYJjVdUQrG5LtfPVRXYOUm8zszhLUdZ119i9tCLe3hVJZ6o4tk0QMCU-SeedFsiszSwXKygOQud7CWxiXNEZaoq9EFkc3F2U_wCRRoesmKHkn81tuH-B2AsMCBlNTtcUbgkeRWk8oICVwqONLi9dj_lDT9YaJsDcN7JPr03KlBTOjy7duxBUBheel0PPFDCtEDumGBuc6LHiw0qTRxP4lKKVcU1d4puG3lL5897b6nXjiBuZJBT8q_njq1lFCxUfkW1z1AVjW7J6Lr7wdbuXY0IxHiI85betHwhvTZQSD72qBl7bYlxNWY3nL4ieKu5rU-XMf2dUm343woUEeOrIRD8lyj4EcFzv-elsg5RXi3UZNYqk_1u3MK0_TrLesHm171tnQg8X5aDeAhmJDxgrNcOLScgaC-w5ecfjWmHhkOebBemvBvXhyOXpum8p5VJn4Hn_NMu11qJKCOFojDRwGfv9pkUgXq_MW2qIrRdfuSr8D2mJzY7Op3zYBJ2nw9mFZsO13gVut_vMEChsn-bQ9XYZ_VwiMECP0kmFY0B61kVKqrM6yi7EqrOcH9njm_cgwPSg-pRE39qaY02uezdSt5STdbu68FRLV__UTuqbC20JoFXfZqsL7dTivqye840Hs0W7hNCVlmZ2fLXlfTF-SYd_bdIuLmsZJ3JTywnAITNE_5-gJ6TceqMqF7IyqIDLjzjsju7Lp8O7vpEV4Dp3LoAhgdV0LBu3lgh8gZY6xxFM5QfQJjpijr2I=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0957ace2da426c55016abfcca944f487d18c58157b4c6d14d3",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 245,
+   "total_tokens": 679,
+   "cost": 0.01659,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01659,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.01225
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 236,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

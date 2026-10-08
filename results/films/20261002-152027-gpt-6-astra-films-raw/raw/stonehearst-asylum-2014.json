@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954448-zwFDVmo9uSA4z7A7Lhso",
+  "object": "chat.completion",
+  "created": 1790954448,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Silent House* (2011).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Describing a scene**\n\nI\u2019m envisioning a silent house where the outside daylight is a cool teal at around 6%, while the inside has varying shades of brown between 10-35%. The basement is cooler at 35-46%, and outside, there\u2019s a blueish tone ranging from 46-49%. Then there\u2019s a transition to a car and uncle's house with grays around 50-65%, leading to darker hues in the interior. It feels like a midpoint escape in a silent film.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Describing a scene**\n\nI\u2019m envisioning a silent house where the outside daylight is a cool teal at around 6%, while the inside has varying shades of brown between 10-35%. The basement is cooler at 35-46%, and outside, there\u2019s a blueish tone ranging from 46-49%. Then there\u2019s a transition to a car and uncle's house with grays around 50-65%, leading to darker hues in the interior. It feels like a midpoint escape in a silent film.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vd_vy9BqfQxmo0dKL8owv2Y1iRsPiqyN-W4DAVHEptcC5iGt8-gqLom9mX6A5qbd74VEsYlMByubGXVj7jwcqapytKUf-R17h9KykfMYjeb47dex7dwOHYlHUR0Du_fPA22UmYr2EUySgFlRjaZ0CaZKaC4m0dleM2HpFMg685IRqLzDWvtmTBQR9dYAeg8dluuK-jzZCXHt5p2HnKhENL1UyNDzv7zFhb1lkT8Wi_G3cQRdL_kyBQxcMCeMcdsd2ZNLRc5EvXRPIW7p2KP1FM0UFtEMvzfbBjYC2AKgN63ZQKyyFSFzPHb9jBteJLST7Su5wLvCI2pu3EJkS-ZsetmyuSEsNPWhgVCQKmgFe2Sr1AsW7SF9MYlHDCSqEAWsUpf7Mt4rluYd4ewAFtfbrZ7wUTsknSbda0MOSqTodPR3dHDlWfxsp_j6C64frNiOAoAKEkHRa3pKI1W6_KqO6_jNwM3LHiF7bQSD9LirupKhdx98w7_T9eaF07cDX8iFyTi4tw1C1GLWhT5LHb5j3wtAmOcwPyL3OTF7gAPy8ceC4x67kn3ivlpLqteAFEn8Y-LzIw0pySzh-CGWProYLoOSvPlvLGCLGyE6VtG0RaeGI30WTaktPzVixrtUtohaYVJYPq-ntZZOlGp5jyhnVWm9Ro5vkyNWgbmuLfmtsmG-eDa9vz7-T4rbCX1CSbsILc8_FekMTEymHFYZv1BXbdwyrkMwFn5Nw8b7Dgw0pgXsole_1-3p6M-Y32Ewopq5VKrzvMxeOVdnnkbXNYh6FhysMQKK62XXzMCHtPH48th6hZB-MZHjNMCWTjaUv52_WOCBEzY6MTFOl17i_ahyEyx3LYZG-0JD2TF21UFkK2bcE9Zx4vY9GUgMBaJ8pRnuhW3NAiLFsNOzYBYrBZccm8D6bATjUbEgRvUmufhKfK2p654fRWC5JYnrUj_7vs3suQcshhFnOnkQWC_1xGcFLlsTMMY3WsQM9SofXqHvFFEiPdFO62eiA9NaxFq7n_g1W0ZRixPaYM8xEI2RHAKYk4DBFjlXf5iBPeATuFLFl8ub3FR3gMeRD_Uk5orR5OT18HMZIAMomngeDjBtfHP5AU8cSTzhQiUTQbi1B3taTDun5Lz5IEpO8T7-GuMWTeaoDnhq3lO5-AME_3x2govjsMVxYJkoLjnQUMhi0zxbbetGfMYdtHxjWxhuTQaEj628iEtWoCbb7zRptRkM_T7PS77yNaRX-CdrbU0ND1VwNXzUL3EyWOnMEo6F6zqDHVp6FnA93vWmzbgLSLkGihKQdw0-8eYqTLp3JkyusSdWRq11VhFkPiDXx-0MRskRLezU9_VE9dEAzDep6idd3Eu2L7WLsfJzn2JyewekmzmXw2Fgo8UkR9mM5ZALcne637_THNRyXr1lmMe1j5VCv4EiZ5qE5pYxmFLraoLh3WOyyik0MgAlrM1V7Vdfoy1MYRIl3OPb5CkuKg_se1YEmJxvQ_rx9cu4ETVfrFzvl9Z4IZpfCDHS5uq62k5WVnyHuI6QxVikISA145mVsH_ZiCCmm6P7BWQGQtFhZDt6foVhW4D9yvZ5N3qKTJ7MOMDB9j7KfQP4Dw6snn3ws5rYYQJ5Lyyu83MhTLkX9bL3QYoz5D-a4k7DmZA-ROfVthAcfCv0SOfNJix1FRJQDeYHOyVzLGHFMvZL2RnO4lKtfHxP1tWxbtkeZ9oZdFJ9c8GVkJJ6SOTi3wVOW0_4s_GMceuPaG-U4WTs-u5arBBP3-iSN5MFyjNY33IEL2VBr7FVw523GvBlnrJOkT-c_wNcUlA6bbhmieiHrsualFVwtkXcBsp7SLxtyiQ6lrNu2oemmaS6mZ0Y29QpXqjjoiQT95LK38ojebMQN2S2W4NgueLdsRUr4CAoB13eDpulXm5aBl1qXt_3VbJw9KWJP3J3uW-RhmS8utjkiCRLzLhxLRatm05Vx9jT0TcnbZszG4JPoMsC3UWQyrfeqAI0r6blSaOAHZVxC4wMwqhirnkPnwqCtwVbVj264pDIdY9XGjI-wicZKUBgNCdFnwOD8dsvE3BuLg_47FVxV3QzljzC_z3BZvzx88AFRcz8dC4aBuEzah-jxsijC6W3AtPqqGvY9cwP_HJBzS51u76BqGzUvqCBfZW_zj7B47VtnhytKrmXV_i_qYm-SP8ODbdgGEPknXGrYyb9gg_nm9VcZfTJ3Ykx2i6z42XIml6gM3Sri6KU8ljS0DfjxoMYO-1FG4X74y-fbUNmtvMoeH1rHqTnz_mLa3wO5g-96LB2-9MZiOX41uICMcioW5H44_TIgmxh4O14MDR05l9FBMbK2nC-4GjuiW7Teh5-rsBi1WRKsbmaH2L1hRBn0mcPPqySz7MCUW-22Y1kUULS0yyA2P0EpuU1qR1jImMzpOSodHoOc1kqxjGECG5q-EOUHpMur8XglrMjVzRczkSj9EtBAFNheINT6Z-fX55DyfPPLHPnts_KkU_JfotuOAEGFnHHD2WgOCXIDl1tb2rOU6TLU3uHFKl7c5Pr8C8LC8G46WeWa60af-Re5TIn6j9D7UxXTAxz8SAjxKD60o5yuY0MSyXOHjrTCYjWkn7eZVJVc4ZRCv1b83AlLOmlEOUaFr2vvRGJxj9m5AoK4N0QWtilgPFYR1KS4R-quwiErl5aemf5tu0SZ42KDVczqJqfqGYJTBxZzjvvEUT1wrHXgo7UqJleZUHUJaqIxrb29yYmNeF1BE5Z1iU-6z4iq0SZXWTBu7m6WhT4OXTMVy4nTTjTcSrMOsesbBkTk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02c3bf2fb5d05628016abfcbd25a7887d1a8ea840166230e5b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 430,
+   "completion_tokens": 254,
+   "total_tokens": 684,
+   "cost": 0.017,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.017,
+    "upstream_inference_prompt_cost": 0.0043,
+    "upstream_inference_completions_cost": 0.0127
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 233,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

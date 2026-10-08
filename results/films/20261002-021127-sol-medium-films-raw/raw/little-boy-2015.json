@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907223-vL7auMt9CChU99fhz4J4",
+  "object": "chat.completion",
+  "created": 1790907223,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**, based on the consistently dark, earthy palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing movie visuals**\n\nI need to identify the visual themes in a film based on color. The main colors I'm seeing include dark olive, brown, and muted green. Among the options, \"The Eagle Has Landed\" might fit with its earthy tones, while \"Zulu\" seems brighter with tan skies. \"Jane Got a Gun\" has a dark western palette, which feels plausible too. I'm focusing on finding the best match based on these colors and their overall mutedness.**Evaluating film endings**\n\nI'm analyzing the color themes in various films, focusing on how they end. For instance, \"Georgia Rule\" has a sunny vibe, while \"The Eagle Has Landed\" features brighter colors but ends with a darker night sequence. \"Zulu\" finishes in daylight, which contrasts with its bright desert scenes. \"Jane Got a Gun\" has a reunion that\u2019s sunny, yet the last credits feel darker. I think \"Jane\" has the strongest emotional tone among them\u2014there's just something about it!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing movie visuals**\n\nI need to identify the visual themes in a film based on color. The main colors I'm seeing include dark olive, brown, and muted green. Among the options, \"The Eagle Has Landed\" might fit with its earthy tones, while \"Zulu\" seems brighter with tan skies. \"Jane Got a Gun\" has a dark western palette, which feels plausible too. I'm focusing on finding the best match based on these colors and their overall mutedness.**Evaluating film endings**\n\nI'm analyzing the color themes in various films, focusing on how they end. For instance, \"Georgia Rule\" has a sunny vibe, while \"The Eagle Has Landed\" features brighter colors but ends with a darker night sequence. \"Zulu\" finishes in daylight, which contrasts with its bright desert scenes. \"Jane Got a Gun\" has a reunion that\u2019s sunny, yet the last credits feel darker. I think \"Jane\" has the strongest emotional tone among them\u2014there's just something about it!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNzODPU7ZmfXAETwDUohMXd7nvoYFU2CGQ2dchA4Ep281X8Di2dzkPK0V8dxEOfmcEZ_Er4Ae6GCEs0eGAIWX4QwIetjtKTPlHOIVZMXJNfAkN7VF8bkegrkJE1CWe6y10wOq0PVTp0vjn-l3C2QO8DM8o5_T5Xfecsead5zqAB-92oYKGRGCIWWOCXEAfkDdLMLLndMIFt2GhvjAeldAZmtJm1FxtfBdfXRuDPhJcyrNp1Y7-8CLGzLHEknZAKY0lXmwmMPxxJlyXLUy5kqdXIwDYIJpYw8Ypwy-aq_Zfbm1Uwc_alVWROtpgNB0q8J2SA9T_f2v6NCoB8AUUD1s8bCuQ85IAn-EqMPLc6YMwClQZfD8LK5hzzC9hUt_TZICXRuq-M8DVBVi9fhD0YOqg-O4c48Lnx5A8Y14d9DKksFTYqXwHKUjyWSQSduuswNTjAZ0xMGQlbSm32PFPVZl--ZxrcXYawN7WfWovWtTHraLwEpvgdDmUSXqiJI0jptu4H1c-2PA8Teat3JFtsQhpXP4ghfOswGWm5Fy-yMeQSdMc7c0Uda1QXfOWwGWjVZ8UwNnhtLgGyj7A2b7CDnV4kwjgUFKPXYYYjXmnSrKbuR7UQT0ElOeukdIKAOUXATJdHMYT_ZeUEp6jYQ1Yp-vL7HSsODWO5r5fNZHFT1MKYoNrIQ6AI7u6G9aQYuNmkYPVQz0ZO4TRUiTcvPH3OfgnwkaKdBy81RkR1AfBj4A6viTZhRIXiTnuv1ZvwfNch7JpXrJ0mwQhDgOK67Kdt9HJZ3V8lslnBKqra-E9WUj6EGlAkCrJgD1Z6rfrndQRot9lEqxLq_3YKkk5yYEI1PPP9TcxP7zTlk_-EBVNRVuU0WRvB-JK44AO4CmQG1U3pWB-n7oVFS3jFJUzjOJ4m8LQ6b2lFkjg2FCSX1HCBpsuCKDvGRHjLGCDc8bn-9sfgcPJz5316aH5J52ea-2rQVejK4GY3mkjE6Anlzywik_Bn1ReRacEkDstVFr141lwUJs1-qa1bkMT8dN9clw2YeLik1jNyWmTDhiZptgeBiO3US-hBJaLUJ-nBcK3x8N_Ch2FOoA973LhwToDuQUfo3CM27b8gD0vE8NinIprEfzA_SqwIurnPgzLIlSxfH25tkxXeK5xtJesgl6_GViEE7E2tBPK54cVNUPsLR5YQU5gq--KPuH8vPbXbAW2KQAYC4RF4suxloQVpmj9MU7s5azXaHdVZ-hb_xXmI5UT2TQQJM6e8MAqyPPGbS_lnwfCN6rgslTsC394H11L5WA1prATUQhQrbxQG66oFh_qKVE79-cJ7SzRDjgQFitpzcjRE2z8-3f7eKTLWIwlKHoYKU5EcXPDvwGYU5LWMMenPQg9GuWyrwywWcY10kJ10Qf9_24AhO3G9gGf7FjL_cCZhUQTqDjT6qsILbEs8_uJEooNN6yov4FDrwWI1eUSgyLar_NJj9p0Lw1OwVH3Q8xLhItwAF3mYmkeos65HuY8dQiUKE4bWgQQUfhrn170POtcMIEv_ApFHJVfWT6O-N9uXSLHETsS1cUpjg-S9eSOQ8mjv25WKAMeNO0Kpd5nxWc9B6UiyJCpYoWCkRaJQN_PWw1D1oKbiPgSjW9avvX0TKRtxqGWD0OBeAnAUc4aKepCc_FTN92SKDIHvWJbkWwnqgACapeIsczjVyg44ExPwD9AJ8wTzR7m24x6Xc_BxoQkzx8oLy94W9mCs1lSdHHd91LjXlUMKOkMP1BVVGivPrxN2NhNFuII599t0Zl1Wsoov3mq7XgCGwAlf9tOo0S9VfLaEAQAbQ_CJ-rK0gdgwLcAuFbvyLZhqlZXrrUip7f7RYXohcA0NY3uT1nUXNw2kQi4eRnPe4_n6vkppx_t2Myp6xZ56lfc2NLhsJHnd35hUfpjqlxE4W5ro4mOkKcZev9l0zVYZkdUQUMgZV4xtqb0nBq_-ixiC5UpQ4FnNG7_q-bnrSApdCC5zZ1HWSCcevsVyHwaLvCExgOJrxK_lvj_9o9dzQndlq-rarb9OXg6WMIVu5X0VgnvvQUIFbIS1eM78pTKRiKwkxam8caJTXNnvE6_jmyIdgkNimgOpi6WEEvJuTT_iF7EV75HJx-5vB4Tt-GnPEzpU65yRNF554eCyr4_9n7DIw98bhCTDO43CXiopcJ0nvSiTvWNotydQsroD9Y1weN9uCFJxJowyt523n7zlL8wg1CMAGw3gw7mR4YZIwWrFnB72_KYv0bEIGPgVEq89aHdt_60JbRagv9CGvtlX0t3DC4U5DgaSTbY9LwVmDHTCvqpKgDN2SzGWK1BS7Tje0OrYG7EG6SOSlL9pgoa8wnh5aWO8NNTjGd23eaBDmcJco9XWxsA3_d7vF3XFP3TSGTAUR8fJqmQVLXPxuMlrgXillylC0bwEb--i2RycHy9ROyjPnrS_OdXhO292WHrimBYeDJyBvsv6LKI6eapCsfifNOcbxNJRbetfB6-F336pw38r2UZKglpyq3Al6rJ1ytkXuTsryAQOFK1ejtaaA-ep8XmLmfeTbFEHarE7js1UjcuVCKm5SJm5HHGMAj3AwRIX-GhWiWoqpOGd7Mey4uEZFtL79uslL6omrBqeInwRR2MWsUZ3UdZaY1AoXriBLfAPK3IXIYln3DTxzOkJMmNn8GDghoeyQhta5PUxhzR1MEltqYqMFnZJRS7wLWnzuAmK_p8CPhG2X2lDsREzonU2rXfkcn9WcufIsuwG6dVGElep0WDQezSPMCh0IjELPrWO0WSRdcl29x7VZlAEz3OehQVtIs6l8J41WyGJAswsznj5A71gkzNp_ozHqtZUpStGGziNQBQ-6x-1hWOXxC6aF0jducaAyZIzpEbzDL31nt2W9IVGNptOKdXHl72cCP-KADspsUKHsm4qFIiksRmRXXqFwAkqdXp8Cd1yFntTPygGNyh2SoyFNMDgR9pd93gyQQTUb7dD0dg63oyloB4uPJG3oCIysGYSSF13OmerETngFscg5Y4bSgXIEc7HG7xIBP8nWKZu-w2SAoAbvgmdQgoFoZ3JDlcxl4Ifha8bW3msCb_P-MXIM7gVSF71wArwy_EEAnDvWMBKCvrp-Btby0VHL4rdadoaiXAd0ndJdbwLE04GuP2o5RZ3ghKTXNJKBNuVqnL-SYfeZTVH_SeeYxntPnXmsjMLEyhtaGjVJApdo-3bMsffZjOdMSz2-UbhEsr94M77zFiLa5lHNv0jvyp4cl-CG6Y-_qX8YeDjgOOgUwYP2IFDrCqK6g_sdG2Bm6J32UjyGv7urRgUseftzjyOU0Xze2J__fE56iHM3KWk9Ld0XyfjOgrg8sZawti8XO5DycBR3oCGUv6UzGgyIPBLia3XfTs9IVGGgGCf2G0S7Vj08Q5AQ8XThw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fa38aadde3fd1f1016abf136021a087d18ff1a50c86f326ba",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 357,
+   "total_tokens": 789,
+   "cost": 0.004434,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004434,
+    "upstream_inference_prompt_cost": 0.000864,
+    "upstream_inference_completions_cost": 0.00357
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 325,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

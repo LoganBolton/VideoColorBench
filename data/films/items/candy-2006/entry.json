@@ -1,0 +1,21 @@
+{
+  "slug": "candy-2006",
+  "title": "Candy",
+  "artist": null,
+  "year": 2006,
+  "label": "Candy (2006)",
+  "hex": "#4A413A",
+  "rgb": [
+    74,
+    65,
+    58
+  ],
+  "frames_sampled": 6470,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "lP5-A4JHaLI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

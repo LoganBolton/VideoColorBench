@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894405-ZBihoFATh9YLzimSmXPl",
+  "object": "chat.completion",
+  "created": 1790894405,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the color palette, not a confident identification. The stripes stay in a muted brown, beige and sepia range from start to finish, with darker stripes mixed in. That vintage, warm-toned look fits Bruno Mars' \"Just the Way You Are,\" whose video has a sepia feel and features cassette tapes. \"The Lazy Song\" was the other close option. I ruled it out because it is mostly one continuous shot in a fairly bright room, which would likely give more uniform, lighter stripes.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the color palettes of these music videos - Just the Way You Are has that warm sepia cassette-tape look, while Lazy Song's single-room setting with beige walls creates a different but still muted tone, and the barcode pattern should reflect that visual consistency.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the color palettes of these music videos - Just the Way You Are has that warm sepia cassette-tape look, while Lazy Song's single-room setting with beige walls creates a different but still muted tone, and the barcode pattern should reflect that visual consistency.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2wkKEAgSGAI4AUIIdGhpbmtpbmcSDIKD3QvPhpEnNeIYMBoM1J8taqZKN+/ECJ9mIjC7sOtsFHdVPgmLlopt5qX5PvhouWKkxSs1Z57P4Guw8sJgwW7OiAqwUkz57/dxx+kq+AgE+kjxIJrIjQLWb1hhdUcKU6Y25QVY6kDmggeZkxomvqFUKI1S6hMGt53WO1zfDD+sKdGhVBRPOztCwNrbabC3xXZ61lEFLSfSytRfS81dwcQN+kkayC+/nsHuNGABBjHTojc0T8hHJT3AgEbfVL22tIhblIWEbW26hQ2wWnDcfiUDDRFX9H135TcLhpvuMEyeZ5bWZ1zSmOHAUq3r+CXFHXoXzbJWkqVViUq3CU1BQsdzbOq/ahCf/ek3BlGuw4GS0JPUYQjL6VcFBLO8e6Zq5PsPilV0CoTfBnRRMPtvetWJepTSnYggsHxUL3zD43b7sOJ4LxG5YqIuspCgcTIlQM9mRyJAMyIPtU50payzN7alQfM6ONzulbCsc8PUMGyySFBPER0adXcy4T9XXnmWNFuGK9wy1KXuLSRHnyTmBu9PDRF0bJf/93Mq43rRZrNIyOPfgrxYP/pmJCPyC8bMjXoZDowYcdcDkAdzgNNiuFDg5FArUedq45+ml9BTnnO53UBnMHZ0fnkTGKK4dSwBF7ErIZMKKROEmzkPyF5NKHmqWVJDaEdfdinIeYb05l0PwOHEC+14LT5Y0N43fAXTkDDNmG9bqmMI/TlozoPEOQ8pQBFi7HcYOBTuqeJMyLshq4c28CwS7wAL1lvCQdUsoWe0R9fIi50NIZ05FTsmWaeyhBYOzXu6x0LZ84TjUh5FeCpOn88/xSTRlX5HAoyaGsUen+0uOP1Fl9Gah/8NpF65nrsFKQ63bt3xcPrMDApXIRQgyS5gIMPM9N90xVP1rtrNjhd7gzzE/TKyi5yy3T/huDmYWV3oE9O2kjidGc5YJTSBoddlomUFVnDvW+xnla0boh0pt75XWHDPbSNj7Nq3OM3i3V3t84FQdVf9CQwaOjmo9o8R3X9D5KKOVfPzCzMLGqYr0XN6qD5PsDZpbzlOk/oU2F/OdoWhwTqsdjbSh0D9VjjScmucqW84Ck/YqIjeonhygsQEUmRCLYY+53ehpdpwm04jIsqEMzizMZfqn2RIJf7Q9T0ojZE31ApqININMjVF5QELTSXHure7E8m1mvVK7B2rBpitCy/lfHRo4bVkf7RQKASCxsDZN9jvTGM0xKacgcDj7jGmbvFKtLd2orZfieDREvSZFTA5j/AIi3dyBo3TgkbEKfUPSjJBCBCjI/GX6S9mbUd3RTX89CnrLdNe0/JeQhs8v14nI3Fv1jukbKgXPFpPrSYEi9cElan5BUGmbZGBWcTbjkCiiHfT9grFwSpcK2AzzKRoOuiAryi/bnFRJAVl8eyn/CKxCiRU79CXmy4HiXI3hgFOUlBYF+qHnl0v9VsNB1Dk6GJy9pnWGOaMxcCjBY5DzPm5IOJ0xmneIzlob3npwLPgeIkq1bf7a2oiLmDDgF4cwG/WbK2EBDUcHdXSAGZNvaRUpxbFSUKYy6I4i3dEAq/RG1JzvAd+vuZ5bo7ZSJhsYaMdSMMagNxUtknkC1EY+ORRcQ9dpeFganhDoZVpxUdvnqtAQ0geXA4wGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 626,
+   "completion_tokens": 427,
+   "total_tokens": 1053,
+   "cost": 0.011044,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011044,
+    "upstream_inference_prompt_cost": 0.002504,
+    "upstream_inference_completions_cost": 0.00854
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 254,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

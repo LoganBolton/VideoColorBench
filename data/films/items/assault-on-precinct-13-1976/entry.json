@@ -1,0 +1,21 @@
+{
+  "slug": "assault-on-precinct-13-1976",
+  "title": "Assault on Precinct 13",
+  "artist": null,
+  "year": 1976,
+  "label": "Assault on Precinct 13 (1976)",
+  "hex": "#242120",
+  "rgb": [
+    36,
+    33,
+    32
+  ],
+  "frames_sampled": 5400,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "AOrjMrkl9DU",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

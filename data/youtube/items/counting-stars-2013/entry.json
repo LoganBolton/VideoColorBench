@@ -1,0 +1,21 @@
+{
+  "slug": "counting-stars-2013",
+  "title": "Counting Stars",
+  "artist": "OneRepublic",
+  "year": 2013,
+  "label": "OneRepublic - Counting Stars (2013)",
+  "hex": "#39382C",
+  "rgb": [
+    57,
+    56,
+    44
+  ],
+  "frames_sampled": 283,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "hT_nvWreIhg",
+    "youtube_title": "OneRepublic - Counting Stars",
+    "channel": "OneRepublic",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894240-S3ePKBhd9d3cPnLCAKVA",
+  "object": "chat.completion",
+  "created": 1790894240,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Eminem ft. Rihanna \u2014 \u201cLove the Way You Lie\u201d (2010).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Searching for visual options**\n\nI need a visual dark brown image. I have options for dark videos related to urban gray themes. I love the way \"Love the Way You Lie\" uses earthy tones\u2014mostly browns with muted colors. I\u2019m thinking of a zombie aesthetic that includes dark green and gray. There are also colorful elements with dark purples. I want to capture a very dark scene with blacks, browns, and touches of warm grey and olive, perhaps with grayscale sections. I\u2019ll go with option E!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Searching for visual options**\n\nI need a visual dark brown image. I have options for dark videos related to urban gray themes. I love the way \"Love the Way You Lie\" uses earthy tones\u2014mostly browns with muted colors. I\u2019m thinking of a zombie aesthetic that includes dark green and gray. There are also colorful elements with dark purples. I want to capture a very dark scene with blacks, browns, and touches of warm grey and olive, perhaps with grayscale sections. I\u2019ll go with option E!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCmUm2B5CO6B-xrMaBlbPjBrkIFKlGxa4i4sTq-R1p09ZfFOS8i2WeIoeGaTrksbm5jy4sIo4Y4b6ah8W28W3J0X7iW6hHNCy634lijB7vxuBvQjf-Vfl4nFuE-HQhI2i0qVSyTJyaBCR99hRFqN-Z7zTbZRCnsO7qSMfBRsyv_upVEBaTRuzjcEpbER7isQ-eX7SNm5_fVYNA7boGhvJEcrZNBU09vI-uie8OWOhrDi5-Sidf6DbyGPOqGVFTRSIR4QenwNBZ4_eGhsA5dkUUXQgEzeIEdkWUpTUggTdYSe2ewnU6zJmtyLN4KpCTbLA-HSfrotX7T5WVOS5QL4IeSRy7iCKQIPDjYsBLCW1FUVst9sQnh3wdZsmpQhRHNuN04puad0nFkTGxjNn9y1d9EM2FMBMFezmUuVLlNiSgXVdWITCB4vOwsWDbt8rXPJARkc8aYTsWUdgzgqmD6-5x20aF7uvbA3QHCJSpx8FJtjmpGjmiU_Q4qYoPSIzh48FEmegWjYnsZBnEd1Q3VM59fpdwG-JLdF2rtq_7Waw3cyqUafdQQq44H5cZv9ul5_8eAnXlmgt98vfWJo9XPSX8AQdzvDpCqJwqiJJzNko3l12X7WjzcYZwYOdxqXc8OXOMHKyOLrc8tx3jxvyFHFTo7F9mN847NjIZKC84nCAkEMf6TgpyXAlNyeuDHHbWE1THxurrH5zKGtRCq5CmXYh2ZyOFDJi5c9NLeiG61M8OuyOvthO-yW5d1kWRmKirDiUkC3LxnA1RO2Gnq0HMPWGE-8fDaiTDbqmObUaF8tmXTSbsdvhZUXgMV3Z33ScTOfElfbJnuDLEKOY5YA2ZtEvqyNwua_4iC6HWGzN5RI3QlDRWJms0QsJHWP0-qgyvk0iv9qSmetmI8jsC9vm4dx9vzwQUYSSK8CgiDiXUJYa-b3-a4HiUib3G2cyVsgVxN0dSDQLasK6FaJA2oqMaFCAQbp_I-D3gRkOPj1mwLzApk6wowTmh9rF8plo2FRXUH6i7Zl0pl5Cpc7P_XTXTPK5suYC38Qwc6VGfS_2YvDyE0RdX-hvMS9sRGNEZACyaYTy27M1nzrfSQHvFp2G-wOkUuES1DrrWs_fxWmNy0J033SSrOf3Vy4Oj_9-_j244Vlkk49jw_vQYw2JBB75h8fcEKrK6gKEGyR5nNtqzLrUkffrNSyc66FrUd6VN0aO2pcw2NrZKulSoPHVeabG7S6F9gdsbR9Mae6b2Ca5kAIoMhoP4npPJZd19oH_DU-9iwzkftxH3HC-S2U_tn053LhmuwWgXXKFuPWON937OI3WrXnm-54ygnEjb0EFSYCrmzFhLAaThufSnu-YrI_TTp7uhAEQ-P_aJ81plKM4oDgPvDz9wSeDQ3w-13f1AkeWS82zi8IfqbK3jIKHct3mv6_XT2es6p0ouB0a3x6xxVoq8YVKUDwQalsT_l-lFn_qciFp38QHRQsaFQFSC5_iPCeuZuo_16cqgY6ET-suL-dESKxUJUMSM6NUSvUN1M6ne41thrfdZ_859YBQTBqRN95WTVxy4wJBGLn5AptUCFMQlPLYqWYEsYOt2iONoI1nFALNdHaUDV0Uqfsf7bMGoiBf0k2QuFK2ZEJXwZJzrA3Qca2t5pXaNe5jLNdhh6-Bc2rApu3_Z141rKn7U48Y2pLK0k4kGh2C0MON_NUX_A3hpA0Ugm5eEzX5OgFndo-G19ymJDbTSwbyiWzBcSSIF_ivdwsKXa3ZkVWoZz5uIB00oMaoVhd5jNJRVPaRbMbsbCra6-wdW5jw0tL2-ZyvMdYwQNZk_fUHrnKiFkMBjIz0QHuLnwpHCQie0imfYuhWDps3Gvz7jadidWpDdDW7icWcSMohn2ouQqLhr_hD_pvh2SeviEgpsFLlJJFY756xp5EELyiColzQin9hSZLr_vpRPZhLFmD-uqJdAPS7v7jKokwNyyQO2GjiCdMAgP99vZn8_J0Kq44ag4U80TnEAnnEn6mSKtIP80aC9gqZGM45EZGjJ6kOzkyZyLQ0Unln5zphIJDk2S0UsiSDulMot_0W_eCCxuQsGLNNSphTOF4QtK-isw8XEteYy1z_JjQDh79TGGI3oAHEEHJzsO4s9wWM6XTQGCrtNSWb3sqAEqRki8FeE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07ea7d32463037ce016abee0a1e0e087d1ab0d6bcb4fd7036e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 480,
+   "completion_tokens": 151,
+   "total_tokens": 631,
+   "cost": 0.00247,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00247,
+    "upstream_inference_prompt_cost": 0.00096,
+    "upstream_inference_completions_cost": 0.00151
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 121,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

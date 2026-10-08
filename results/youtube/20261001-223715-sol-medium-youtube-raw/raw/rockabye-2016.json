@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894310-s7WLWtcC9IZ2F2wdRnof",
+  "object": "chat.completion",
+  "created": 1790894310,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: J",
+     "refusal": null,
+     "reasoning": "**Evaluating visual aspects**\n\nI need to identify colors like dark grey and faded tones, possibly in a video of abandoned buildings with a grey-blue silhouette. There's mention of chandelier interiors that are beige and dark, with stripes in a mix of colors. The urban aesthetic starts with brown, transitioning to brighter city shades. The overall faded visuals suggest likely color shifts, focusing on muted tones alongside some brighter elements. I want to summarize this effectively based on these observations.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating visual aspects**\n\nI need to identify colors like dark grey and faded tones, possibly in a video of abandoned buildings with a grey-blue silhouette. There's mention of chandelier interiors that are beige and dark, with stripes in a mix of colors. The urban aesthetic starts with brown, transitioning to brighter city shades. The overall faded visuals suggest likely color shifts, focusing on muted tones alongside some brighter elements. I want to summarize this effectively based on these observations.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDuRgOgVt89ho59OkEzN7QAbz7dVaj-BF37L2aIahrN5exW9zxhiA-pITiX29i8bp3brWDR6NbhTi1nEbZZoKZAqIfOUJLlZcwinfHUttVojfXSULNlp_bu0fD9t3zt4Ah5cJOrMst7nembeIr0Ri9k2dcUpxcTm8NB_LCS9tPoOqEtMR4TDKCgE8CTqI_6baac34SIlpizG-bJl_vFqfuvEXE3whdxbX69nlULZz5EC7wXZUfx9ehFo036vM5iTlLN4cWvbsbJZoU4pGKRDmGvw2IrCBvoeoAiEBcYQI6Ee2M13feMHdgcnQzKaxm2yZs1Oxm39SwDT76LaWrazc6r0d2gD6QcO43HKcsmyQV94zHga4cgWW99YPHrW5pKdWxE9cilif-YMPFE7-ukyjpg7uaadKLpv548nsqcEDqmqslFPi5lnQRpzBMl7_QgJ0UYkKYqabblFkUubMFBNj5ABy2-xDFifacF92Ph1wODdLNpJ_WtoODqoAEx1r3k5RHk6IcXbjTl1ZaSYBVU3L7tlCkVswUsLABG0-paGm-Uh5jYhH8qPLjTnkGWe_dC5K-nSSQfKyx71AiTRafZx_yIEwWwKt3nrpwvnedrl_x7BagVXLjIcm6Z8R98HOLKqQE8YhAknx_9MRRyWF_ZfJAbAJcuWuxnFdTjtr_FVuy8CHlFtBW3PdNQmDK4KDuf5d2oyFdTP4qqnCCCw8Kor5tQAV8rEdiPKi2eYVA-RTvL8v3SJCLc1QuTQ6Kh65h_q7ic34QLlyNP3dnjARXZuvUXzYZYMDwrpYX1ee-X5CqwOvJObp17UwPze2wk0m86GjDyB7nZ4mZcrFKm2zBogAVF8Gx8Yk_clUb4X2NFkFqtDijJERr-2fYHabEo9WdkPkSPbhx_YIqc0IAIkLIhbErE7RW9KETiFhqyY2LSV3yFSvXnIwub4-Ykp3INy8wq9xqqYO9RYNyqgXhf3k__6J07NPt1pqtVd8kFsDSWNM73Itr06SSThVBHQEvyoKAF7AH8t8O7SRpqojmAOeWBBjoLMlwT-rnCq-9Breqei4tw5PyVwfuDKfc2FaS0-9CkbNb3TnmYK14rw6RFEqorptgiyVrhjupfwSrHdMv5rTbSPSaCdBmdxYAgsXhfhLqdXREeVMXeLZsiWR3BBqA-K2ZyW2ifCLO1oK15BpvrCfcZpL181hxcqPRNyju-JhcoHCmCf-uPe15IOnxBSu-u3rwjV873q4tEExTyMFLfdEZ36H_B3Xz6dkaLG9RTgZ57h6jSlUKIYnSLCoRANO8Ln1Zz-XhDqKcIRpMVvHB7NgqZHZNPB-BOLRiCOhtA-NWlUs8EEg2aCMcv5Rlc8UjRgTdgokjHYk52j8MtrVLyZRnvQCjZ9NepKXCFYR1hpnfu1IM6ECuVYPR9fNowEZsZosy4ztVjygdeW4DcsesGAQ1Mn30ZRAuk8rFlcs1EkfzUMlWCrb3HrYHWk5eke5yXk_Kjii9IDmIXYZB-tNRekMICBm3FV1TOLEF38ICsDqssgLpR5V-KyVEvvsI8jtA_9zUB8BC0b6wiQNIeC40QdpRGjawTMzTsVoqpeid4RCowXe0_vxi7p9jPk3UL_8NLNUJu_ik0Ah1Ta1C2wYg3oVvQeyBJ6ivjyxMY7fqukPZLHsTGlSTPuVYDFscsC54pQcp6JtonViuX-Dld0L6RH91HVklkeKXwq1Pwx5C91btN3pBhlx6LqPCp_pnGtiej2zhpidxszP_IjH9U38lK9PD_3tvvrcNOoJW4HRuoFVs1joLOcFiRW_aZYU7_m5HCuUqXHiOMD-XR5Q-364scbWmmuHTZnjSzRZCL5gzOMUEkK8Emsgrt_J6AiHWotAfSJWoTwENf1ao1XF7M6lYJNIQZ1r7y21ttNcB5RxA0vCS-qGqh_uSeVYA7b_ed2UzeX4pGE9IIfade0uGpH-QPdRt0-x9cKMa-GidBMvGF88OXWPMO8woO_ZnimzabyqQuaMa7OrdLDUtUxuPHoeywgwuFulNCP31j7ZxOKp9aJMcYtRfIiOcBppXl7I0XBedzU38Q_RnpII1F-7Rjx0jK76-mnMFAcK5acduCsecmKn3koI7IUitpZDv4R7E8Bae-ECtwrgP70jiZR1N9EewQnSo2-eh-5EhhvIAbddWxELY99hddM38Pz57BiCb-CeaT_xKZwVQAMIuR2nWkOKsWnPowxC0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05fc0bc84ffb4992016abee0e8859087d1b6aa6b0ca4b28a2a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 490,
+   "completion_tokens": 137,
+   "total_tokens": 627,
+   "cost": 0.00235,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00235,
+    "upstream_inference_prompt_cost": 0.00098,
+    "upstream_inference_completions_cost": 0.00137
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 128,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

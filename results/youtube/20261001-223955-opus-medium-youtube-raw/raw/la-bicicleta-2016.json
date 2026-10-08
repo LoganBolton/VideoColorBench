@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894460-jke7Vs9MN0jKNKTdzS1r",
+  "object": "chat.completion",
+  "created": 1790894460,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The muted grays, browns and olive tones fit a wintry, snowy setting with wooden cabin interiors. That matches Ed Sheeran's \"Perfect,\" which was filmed in snowy Austria. Most of the other options are much brighter and more colorful, like \"Mi Gente,\" \"La Bicicleta\" and \"Calma,\" or more warm and reddish, like \"Bailando\" and \"Felices los 4.\" This is a best guess from the overall palette rather than a frame-by-frame match.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of these music videos - Criminal's dark warm tones, Felices los 4's reds, Perfect's snowy whites and blues, versus the muted gray-brown-olive scheme I'm trying to match, weighing whether Ed Sheeran's Perfect with its Austrian snow setting could fit despite its brighter white tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of these music videos - Criminal's dark warm tones, Felices los 4's reds, Perfect's snowy whites and blues, versus the muted gray-brown-olive scheme I'm trying to match, weighing whether Ed Sheeran's Perfect with its Austrian snow setting could fit despite its brighter white tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS8wgKEAgSGAI4AUIIdGhpbmtpbmcSDNYQkrQyvgs90zbKxhoMimZGJ+ROa2h78CnmIjAJ8TNP5ST9I2HO/1cZhVv7G6c0gIucsyZQlduV38DiCfL615PPC9fRHiB6D0joxLAqkAgoqsQi0UzXKYU9xqzRXdYcM6k7CLug/pMdjP2IVLsxunO9PIyT9JBFR7hBvubcrIPHpjT9iSCORxRCr7r79dxIViAWYIln9wVhyeVgJsnlw0yXJffJB+ptWj7BTSnDTYOvUV19ojc6cY0XfSMAvcut8VdvZKfybkOuVHsc1dRozzql9aqkA4753TeoEJjEOzE983KYfvP1mV+ZiRYTmDMMOsj+c8YfXJCh5J4vM/FizDKcS4J9ftX8cFDt/yEWJnU65ssX61nkWNmO33QnnfrQzWoHRnUHLKx1WZmrkofdVE0UKnFT8hHXi9W0iZWDa0UPOQCRvqA5jqNMLZMmhiZHWRM2uR48bZNuToJV/vXz8AmE0LafZ/xKiCa53ryurRUHcwaMu5qicskMfF/QxfzLwiiTGbJQQuwJ8PSj646RYY7I7P8EtU3eIQ41AXgi7fMjr1IRWRuf52R4te+HdkG5JHqUGG08ezqwMXnHgKJnCp1/jic1CjyDweMm7K0+qAjYozmg3SuuhFBNDYJnUbesXryDl5rycVrvorn0o5Lno6wA7WB75EGyuQzW4vySP1w3yE1ZfWMZRTjj6C1MX5lWuh0bMOee7glBkZemdi9DJHHx40OfBoT8nyrj9JEMbvlqnG+pMKaX5F2khSoISxCMr9wMiTSwEdvPncGwv5IANLaDEYLSx4s7RJzfKag8aAzQ46tcyXd+mILHf64lEj3dtdsFgFTG6YQpgsnD4F12zPAyBqX0TS+VAI1+nLZCfbM0Ak2Q2kW7N0XtuvIi85sJBKOywGZEUujuteuKWU1H4YKMdBHw8fnZ80BsDL55QZTDHwkoIDq/1+ROB+RT1gF3ZhUeci/6/NjqpUrkE5pOaBnBOq4Q+KooNazrKAWkyJuiL9O66VLkTSc/t8CSxNPFLUX+Ja5rBOqIYtePpffC0T8Ta+1N8DJNSYItUHhsVt7VVY6CRrJOzVPT37WhMwclx+L6Rnp90h5K4f+0CR/kMqj6FB2guAEcKz+7E+zNNpUBDdParhIofz+d0R97Lx7jg2GgoTkMEPccFPdykonxItMVOpF3kw9BMBpipDNE6RgOy2mNmvrwAhDAYk8O9Pa5nD0Qndfn/9Jam26q/TOq2am8ktVi7AOFJxxN6EoS0Kcq8oI+qrp2QJYCVf46wjAve147E2oFlHHZTrYyYsqJpNV1615PP5L/ncZ/atcdGOrLLSlOLFv2mrVGQ9xkUefHxXG28CfZuq4ZrOHRIjmY0IgdpFQWwzOcDbT0uQpo4ndZz4FYCxx2hUQ50uawdwC9bn5w00mP+H2l+Ay+bXtXBhrm6RthMAznmrgSrXRtPLDn66xQLHf1bmp9sWmz41Y8jkmqs0mMpbeYunw6P73o8hgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 636,
+   "completion_tokens": 401,
+   "total_tokens": 1037,
+   "cost": 0.010564,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010564,
+    "upstream_inference_prompt_cost": 0.002544,
+    "upstream_inference_completions_cost": 0.00802
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 235,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

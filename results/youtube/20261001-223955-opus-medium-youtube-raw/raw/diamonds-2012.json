@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894417-fRqsS8moXuMAPiujHGOb",
+  "object": "chat.completion",
+  "created": 1790894417,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The colour sequence looks most like Adele's \"Rolling in the Deep,\" though this is a best guess from colour palette alone.\n\n- **Overall palette:** The stripes are almost entirely dark, desaturated greys and muted teals, with only rare touches of warm red. That fits the moody, low-saturation look of that video's dim warehouse setting.\n- **Ruling out others:** Most of the other options are much brighter or warmer, such as \"Shake It Off,\" \"Blank Space,\" \"Chandelier,\" \"Let Her Go\" and \"Shape of You.\"\n- **Close alternatives:** \"Treat You Better\" and \"Counting Stars\" are also fairly dark. However, \"Counting Stars\" tends toward brown, and the steady cool grey-teal tone here matches \"Rolling in the Deep\" better.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "Comparing color palettes across these music videos \u2014 Adele's \"Rolling in the Deep\" has that desaturated grey/teal warehouse look with a dark ending, which fits the mood best compared to Counting Stars' brownish basement or Let Her Go's warm stage lighting. I'm leaning toward Adele as the pick.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing color palettes across these music videos \u2014 Adele's \"Rolling in the Deep\" has that desaturated grey/teal warehouse look with a dark ending, which fits the mood best compared to Counting Stars' brownish basement or Let Her Go's warm stage lighting. I'm leaning toward Adele as the pick.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS+gcKEAgSGAI4AUIIdGhpbmtpbmcSDE+lCL3gSR5SpaqmwRoMncWLnaw2tMfotBAiIjDKL2Sa4iNmouLT6vlMZi+WGMVgo/gzLqod0s9yV4ocFGidTac43H9l17fl5s6s5vUqlwcJfKNlG8Njv9au1WnIsskua1B7VXdQp0y/x0A9CDBvV2jI5x2fwecFDv47x+BZxpVpMUZ0ewEBxRg8xTaO5wTxV9La5vDMH2zuqfOIiqrhDWqa+pN7BWuijk+yqR+AoBKFZO+BnQYuvfMKQDuhRaUClYKVNMU3XPJdBFXaNBMyX0UMQueGUjYTxnPaACku8EwWEoflwUBUInYnHokwyc4za+G0gNd4Q10d+WK/BQYh1onP6fNEhA/+jlqcRZF/b0+aK3yTvahFnMtev1fhFwSA3FkUUAfp0bC8TaYE/sliKyNczzdxEp6q4nqUxMp2QHPDFB68BnNsB0Wyu6jpt5eNKXnV34EX/XuIeBdbpbpl36bwWgOAasVF5lwmGPID3n5wfsrfSrm/aOnMgOgp2SkEeGKzvB8e2FTCAIj81QKUIiUkHZtLKL4veqxwcQLl6xDYrgTkK3WUE3nA0wHfkCOwh4zb0Kq+pjXk0w49C9eaGwgTMu4mmfRZewvWwX3q82uy9WAQz9kYbvFC5ExK1JSrDUVTnwKL6qaw/alsoUuq0Kp+MS4wMOWF+e1e20fv41tVME1VOWEmJnpQZOgV0CWM5jSwuZoJN6X3TVWrjGd2lG3dT90Isw7LSvScOxpB6uyTsE5QenlenqkIMOW3NvDYRDGGFtWhuQWerXCbTYvFZBRlPbLTek4rbkbRUacJLWPge65oB3wY/vGpbcLhDJIApCcudYHXnZJRmJVZ9iT1U2xGl/cfZl6m/5FmS9tGEUsM117qWKeqcv5kEyqdSQFAt9feBrsyncXkcqA/ExD19d8MEtHx7O3kNHUV3qoty+F7Fu/dvzOIQMOr0A0gB5z7LxROAPbF7Rjm7/BlS9SkNrAxpVIZDjQmaUK5E9PhIcHIjiJtdeprwZUw96kViWVnTVadGLW4odP5Y5glEEmupgnjiMsJz+gpXZ4Fhs7cUZCOGIzGGsuR8POOqDpSM5mOqTN8Qh8Hu+hsQNcy9rfMjSg0Mx3rCtyU8+he5QJSSbqfbqbGcmnzQ5B6x4X0yg7h/nKEXV0W/Bi/z9bpeOysvSXd45sAwLyksP8UX8C3PncjA3uY8pBGik/KfNkaXxU61RDxr3uSzfNE/VVfQVGPSs/X7fWGuvCWXkfxPiKsnvevrrCNde/trMrBoHJPRfVyKTZ6PpMPlMVN6Zg71/QLN4BWROEGSmMM7AD+RYQyTbag1JncN/PVGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 599,
+   "completion_tokens": 447,
+   "total_tokens": 1046,
+   "cost": 0.011336,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011336,
+    "upstream_inference_prompt_cost": 0.002396,
+    "upstream_inference_completions_cost": 0.00894
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 178,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

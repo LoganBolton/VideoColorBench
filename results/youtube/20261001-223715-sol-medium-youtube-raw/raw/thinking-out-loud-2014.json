@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894281-mC1eoxRRwSpVxXrGQX9I",
+  "object": "chat.completion",
+  "created": 1790894281,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is OneRepublic - Counting Stars (2013).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing music video colors**\n\nI need to infer the colors used throughout various videos, particularly noting shades like dark green and brown. For instance, \"Counting Stars\" has muted greens, contrasting with the warm blue in \"Thinking Out Loud.\" The \"Let Her Go\" concert features dark greens and browns too. I recall that \"Counting Stars\" opens in a swamp, and it kicks off with black and red for the title card. Overall, I\u2019m seeing a trend of dark colors without bright segments.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing music video colors**\n\nI need to infer the colors used throughout various videos, particularly noting shades like dark green and brown. For instance, \"Counting Stars\" has muted greens, contrasting with the warm blue in \"Thinking Out Loud.\" The \"Let Her Go\" concert features dark greens and browns too. I recall that \"Counting Stars\" opens in a swamp, and it kicks off with black and red for the title card. Overall, I\u2019m seeing a trend of dark colors without bright segments.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDRUj6PcpKy4WTtOBRfdh1dat1W5nC8Qu110qPhJUifbF4VDBtr0xAsHyVWWivit60KtRuIw9CSKC-DPFNY4oQclW2nP9RiCtWJV1HZwj56qF5Gbmo5EuUhEF4iAK3KzQPd9b3lFMk6v0t_TcGUHCmullxn-Ojx1x0d5IJMw7mwhuZen3XE4qZaPbQWscYYEPxNmX3MFK0h14sw5cv4k1Lxi0y_Y3BOwI6YEOzqWPIN9sGTlfuQUQyd3tOfRDtFAmGbpslZ2PrYDkzj_UsDG5LB0yaWtQiFUcKUHXz_T9t5uF313hXrIiQoYfldCzVTmPk1Y1zzWRPZZsfk5PpQ-ftoLVN_4pnHdEWDhUon6j8qrDDNjnh2f-mPKhEZJO_8jdvNyKOZQ27VKPkIBYywfahor9o9GrZ5ZzaNqVcj_ntn1e440jsjA6ybINMqrxOxmKxtR8OnLavtxPj0bSk4JjRFVy0LMuaj1SDvC4Qpp2oaY2P4fs4CvwFDssPmzjamW9sTIu5apUBdX-C_GBIxx1QJ5aWMEC1j8p20zZJZAk-_fmFJjk9GCRu7VXz-hbx6UpOnnMiI48UzscG3yi-Q5PXkIsN9s_ni7ImzFEC6SgeG4C5h48f4W6ObLCf4XqTPFGwfORu1KxcrdOzcrNQnYACUBxNiySxMWuDSfEmXA2Bs99XPemf3p_FBIsYTb1MCVLOAt1kjhw9t5ixeJoUMNxWfvomm22ZrJ8vKdfrTSGCoGNWKMY-OjK5oqr2rl8B_bb6LUkDwoEStrMf3hRmhSAWa6T6fgZIHMdHN27ZTbVd7HwOhKjZVCWRu1Qn9TORTf_32-01ITibwo9GsRBzNugUSBExDlgs0E2UeqhnZVnB1ZxvA1x1NghJ-nRWQTY4lPo8HS9o6E7HREEZqZRm1maVjo2-pFkDjw1nCCdKnjW0_EaM__V7qfmEX4FucPJ5ydl7ViRQRQBPVPw8Ym1eQrPtokqnygmWXoxtYmAvUIjEhQerTA3uLrOfE_PlPufedwWIwdYOikMdIV0_hjTgHqLsYf3HzdbMwFnunh7wqJ0e9nRuLCQBg0S3HEWQ9cztEcSsWdhTYWCUQFJc3o30FtBSzPJfDwKQhS-9eXwGyNVFWndZ-QGqZOWf5HMKieI4Xbn3pm2lvFrClllV_LGTj5ifNErX65KHzAt7eeyf6RAw1IILa8zb9_6osjBJAopPnJyqVcy6EXe0nM7DYArB8qZ3pAdSYXmQ_kUWp2Xe8u4rVaMZ_vCPQPoW6Jd5KkLuYJEmxprMiwvgsSY-6Na6Pb0vgdV-sPq3maKwboo2cnq8lg2jR9lD9rvmrgiEzwB9YmWWo5rl1FtNHqngXXEGFZzFO3dpMtg8E1lyRgfwYGue7yj2MtoeYL8rmOd6RbTpustmH0ddtwQumnI2qfo3ITQu1Hl0B5NMCTsHaXbbNn86OQy-tRGKa_kJmr6Wvi2zjRbQfEGWGhQM6_i0CYcXAOBoix1svAt4PtlGudxUvwnqpEHGylrquSmGrSrtYmuYHK03_aQBNhI2O2s94NQh_jGbEf-3v8nIgDsWWk-cJVugLZ4CqgirE5nkofYymY9U4qxlX06_eZ4WTL5J8SFdKRN09Jk0Li9grOh5JamQ7tR-y1WIzghaAOsVbP49eyb7FP4M3yYyH12Q4opGdod5DaEOOI2nGiCbEVDfjZFnmHGUmdwZGp608MkbpRzjA4pq28CMMFYQYUuq_H-KVNlUFBRbpQRs1-UEAAa52ghV0Yw-3tm6Bp9vT1NhDLgBO5Ejmn5QO03fbrIEwMsdRdPVd9Vw-w_NZc-Te8twD3fcIkg0MMGiTpl4q9C8aMXXV7HEp35WNx04eoA0fzmZ-sbWLT51uSbQqxpz6Macw-bsDMIvPoODFD6RJD0H7orqJU0WFVT4mo-GWvMlZCvkqwpM00Xo-aNgb0PlP-Aqy3Q1TROHB5C4EspXbFuUI6eDDpFLAq3s3EZs2DD9zt6ZOFyXnTDHroP3Eib-Mp8EiVS5-rCBJeF8bvAG0AgiL6yqEvdqs7vjzOu01GeTjtHaejgRVNEGp0GSSz7grw_Ta-TggLwvVPMd56ZfgJbiitWZ7bqPmkkhUnAvG9YijasISuTkuLvqKkkabtZfOQvgIGIxOL9LRpRujmxH4nR9_MVP7jBgWBdeD_S-Qt3vrl-tq2oA-h8L8_wwg3PLF8UOLQCxlPUDtWA-UlFOGlT43tskwZmVIwG45N94z7MrmNVo_etEb6hXvv6QHd4bi_opHVeY5X_ZKC9YfPppu6U35AhACdj32J7VnXhkPtl0cl5Cmz8dt4-A3UfrMRxrQQTB7Vb7LkOZNd3vUvqIZqqM-HQFdV_ZiEi1tEQLhfejdC5I68i-l6aeschfuOVQAI8KgzNKG5dRBeC9ioeuKpmUPJCow0k7YhGNXTiTVW4h1O5PuJZ0YsPWDj4xhzscoDCfOrbDZpX4U64sv0kaTWmE3bb9wA1HiQJYUPGxzTnFepwRYTbQeJJAF7zeXl68rMbdHuZ2flefmHJqYOYBZzUnNR1IxTBPCHRv1MCwTJSsBbEGIrpZ9zNvGlqhRfGQ7tcg-VtvcwSHbVFLVeHDVzukKlr08_rNZmTGsKvYJEr72nvC1WChhIO_eyw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0eecdb9ab20bf151016abee0cb207887d1b43ee5263db61496",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 203,
+   "total_tokens": 675,
+   "cost": 0.002974,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002974,
+    "upstream_inference_prompt_cost": 0.000944,
+    "upstream_inference_completions_cost": 0.00203
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 181,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

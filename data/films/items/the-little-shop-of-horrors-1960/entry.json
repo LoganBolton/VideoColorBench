@@ -1,0 +1,19 @@
+{
+  "slug": "the-little-shop-of-horrors-1960",
+  "title": "The Little Shop of Horrors",
+  "year": 1960,
+  "hex": "#646463",
+  "rgb": [
+    100,
+    100,
+    99
+  ],
+  "frames_sampled": 4351,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "The_Little_Shop_of_Horrors.mpeg",
+    "url": "https://archive.org/download/The_Little_Shop_of_Horrors.mpeg/The_Little_Shop_of_Horrors_512kb.mp4"
+  },
+  "artist": null,
+  "label": "The Little Shop of Horrors (1960)"
+}

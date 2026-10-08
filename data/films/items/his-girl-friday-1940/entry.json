@@ -1,0 +1,19 @@
+{
+  "slug": "his-girl-friday-1940",
+  "title": "His Girl Friday",
+  "year": 1940,
+  "hex": "#484848",
+  "rgb": [
+    72,
+    72,
+    72
+  ],
+  "frames_sampled": 5505,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "his_girl_friday",
+    "url": "https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4"
+  },
+  "artist": null,
+  "label": "His Girl Friday (1940)"
+}

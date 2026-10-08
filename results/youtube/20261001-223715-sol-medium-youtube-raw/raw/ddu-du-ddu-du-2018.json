@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894340-yS1uCJfmAECncw50MA9T",
+  "object": "chat.completion",
+  "created": 1790894340,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is BLACKPINK - BOOMBAYAH (2016).\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEOwXk_po-a_-7mcvH0x9NzeS6Vsb2KJhrjT8nRHGYyGZ-v72lZIewJe4Q5Q86HIJE5XQvv8KGXJD-jfZkoHR0ffIQJBOqJ66f-k5gT8vKBiT-7vfyiyq5ttui621LaMKVZgxoH4PDqf-qnk9cWGm3eXfW0MPpSu_7jQG6focCrED2baYVhYi4Br9xmxUdWZo4mcJ2WNQgzwcnik-TZHjYrcd-BBECHxSmam4Q2zNM3UGdAuOXuZtlCnuno5RTg2X0FXu71p8xqWkzXk-4Z3bGxFSz46OQqqz5kUjw2CO9wSXafhKbPDO4ZuWNw-7BsN5WkvotnjR0f-e7al0UAHoFwtxcp6FjWxu2qKtKHLmMQrrYUAAozCVku3yr9dCk7AFRRtsYe0lfuRmwcc7on0qWbsT93vwDj3A-FcX8thcnPXX-VUQWhBzY5OtHITmx_Kr-68NWohWSF_UxPm6UklhiR3frPkKzQVDtuksjM-Irm7fW0DWxHpobfz-mLiEI9-RxDc9FmrHWBKK-_or8C5hCnigB_AB9VZha-EmiM1OLxuNrm8LBtXxeGIxxHXF5gxp07A_YHiDLUHmlqMu5XKnmTpflRVwNZLeec8QPpISCf994fQZVf8kw-nc3oKzoooH9d47UgyerutooUb0Jmx-4KOBOn0uD5_3gfpVxDMp896qpkZ-esU6BfGVrkXYPTJQmy8940PvBi-aVbwi9o_ngU-pg0p9huhmMViMM7MF4Y97aT6r02nOLcSQ2tKkEJ3qHtjQdLhPT8fVcPUj9HYnjvbrboZD91LPcMsXtay6ZI6ax16lI734TZ6CsGZqJ0j234tWsCeyn8Q4QLxDnco5s21_L8A6wIovnxb43IwJISGRY2JH4maAtgp9oG05YvUQ289V6J9kvrFL77w6ml85YlNzjhrJw4UdE84WUTmg5pzu75jLuwv5eQL7mtAw_Phlq5Wwf7szNUnFjxFVaRznpiwBQiSmjqCwvtGdM57Q8FdBne332Lh6L6_fE7_09Lz9qETGcekgR5CoKrfTvtJ4ItbwAbMc4AXYRxgncRkQwASyZaRwQ9WuKKTxtm9P3_VNV--VgdGhh41OfMQJfhkX_Xu7xR2jebyuHNfo59WsrVkYdHmnizZxAQqbesLVde-ms5Xm6k_o94Dm4BWPgvXloonufzVEQugNw7fNuuAdGXHHhQormaspkU51Hg431E4J5xgPvhcT-cWb3OLGGUqSCqpxmkP3hjrMSagVPSnJxwK6Icg-9080WCmJOweNzp0JU4wOC1GOz_9ZE-e-Q1bfK2Nv7CDjJXEqBpMLaz_3vNHcL6z-DSJ_jsRgjjt_XFQ7nQM5FrL6Kh3Ng3pevhorJdnzhcdxBjcTPGVDTPs7GhqyRnAxwVstvjtc7RZ9AHMaXc1t9BY2tXrJXfEUADM5d0rHbZBf5Nuxz79DEwmWA2iWtk3FlxDSNj7wqJ8PtYg0y7QpxSckq6DJUaFU-ozSws6AfX54H8EJV0PJzdKca-fBJZHmZgtlEpAEBLqIvF9TOe2eGHllEvR0WlxNqVHf10tqgVmZzaOgNuOMKTKRm2FDoTD4BaI72aQnZn-_Z1sIKvT_s7xiv3bSxZJKVEchvy2ai1ldlY8rykFxClwrt6bL4kDtJJcC1r7FiHlOCIb4hZzKsBGzco6w8Vjpqln-irzATObML7EqRF83pnMbL1X0C6Inf-rMEkG7xwcgdD5CpV8ZkzLOiOulkLPJlr5YvHQyCFXmhpi6LsDIvpagUMluOqUQEXjFTVpRYmGg1fJswXRSUMx_hYMOaTG3YdWfnHeOlQwqZs-N-Sk5tVgms9_k6v6mtwiaNQ55UNYxLEy8rEb0xkxN5Hui7fuD-VZMVmE53ks7vYEw9S6yNKcrBrsp1e9ZHkMvlFrNVXq3wS7mHlggsZAf72QM4ALrke9CCF5FG6aN8XeWz8I9ybkPeouYyCNjQgrOcZR_6kWokuFb_el0DpMG-2W6bfnalwkd_JZI70US3mWFkNtLXdRjLNb0TwNF6SVXGuaAd4vQzG_dqOGwcl9VTTztgpGF8BiGLhG8vwCO-KTp0OIKwEZlQ9ZnmuOfrOyNWmtD4I490fhsLD0Xmc7K1BlyxDZj_lqxMkeIuhdbWHbMt1NvyeJwmT5hsXqdwIkvciOfa-LSPDox1pzEWLloZbE2yiWFI4mIK1cSL_E1OEAm6-N4CqA8XRjIVSXvMTa6DsPy5UK820aHozJ5_CbZKuYmhh0KALZETss_rpI3fis33nQeDUBbyyXw9SHLHGtSMJ3QqtXoxKJlnOJWakMSpt2aaO014CYYkvxtPsokEtr1YtpcAjcGzTz2J0pJD7dWoOf_MqNL9mlYQ5iO1yG0_EmFIYAzXQBGrww6gynKSB3whAUe2W8dhT2GQxveIaHM3U59Nc5mFcc3Mb4kBCxVtor0E53REUAfpjuQDywtMhHZXaxJl-t8qPn6XPUW43LLcEQEAwXBrvOIHBmcVC4PjtFuvW4jxLSY53HUlQrKpB59g1cQw60t8jvfXhG6dz6pBU9lJzhz1UAA0U8p_fvEWIqDP6FnxfitH9gSlqSa7dZVpMlgrQbEnlrsnghgANEdNomydwggFY4zsW2AIpulMuRycme8pznuTvPYz4ldDUayd1_LFE8df1agoISyiAQoLutISi0e2XB03Sx9ddBZ7cwQEccUEIs1FiXCPy6J5JC1wDhq-Y5XlSb8ugzaHvozIfWUYCvy0rmH2P-QfKNUR8MZtYTQcHA159Io1mmjbc59XAmmhgm1hpAqxu5nTQ0yM18R2BzCZpxMPiOiDAkj4_p3fvdgTXJmNUHmvpON8FYDS2iBk8Fr66xh80XoKsdpvKn-qaIex_tnAVuPHAwP7v6SdEA-_ZZEnGxY9vUbygALCFjdvZ2RbKiHGtcVnMFO1xSqk-q5FiB1Kur1Pw1dbeMgujUEtraboGu5LHTCdbIqwalLB5R8Cqpyhvza4uX_8-9ZiRlliebjd4AVvAhWW5i5X7AzOPhn3rac_7wICczeLJVVgk0AqkByE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d01065abf2e8526016abee105295c87d1b087eef9ca31470e",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 498,
+   "completion_tokens": 359,
+   "total_tokens": 857,
+   "cost": 0.004586,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004586,
+    "upstream_inference_prompt_cost": 0.000996,
+    "upstream_inference_completions_cost": 0.00359
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 334,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

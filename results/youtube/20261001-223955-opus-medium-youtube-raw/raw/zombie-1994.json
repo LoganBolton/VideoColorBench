@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-1HP5u4kshqYgwkMCWBA0",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The best guess is **Sweet Child O' Mine**. The barcode mixes many neutral gray stripes with warm brown and dark red stripes, plus a few teal accents. That pattern suggests a video that cuts back and forth between black-and-white and color footage. The Sweet Child O' Mine video does this, intercutting black-and-white shots with warm-lit color rehearsal footage and some bluish lighting. I'm inferring this from the color pattern, not recognizing the specific frames.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm thinking through the color palettes of different music videos\u2014the grays and warm tones could match Sweet Child O' Mine's mix of black-and-white rehearsal footage and warmly lit color sections, as opposed to Bohemian Rhapsody's darker scheme or Zombie's gold and blue tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the color palettes of different music videos\u2014the grays and warm tones could match Sweet Child O' Mine's mix of black-and-white rehearsal footage and warmly lit color sections, as opposed to Bohemian Rhapsody's darker scheme or Zombie's gold and blue tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSgwgKEAgSGAI4AUIIdGhpbmtpbmcSDPWtbhl6Pn1LnK28IRoMAejw4lNlUD+8lHACIjCVZrsJNRQsQvg0UCXEchQBuBbix8gMxEhIA2VxgiP59PPkPbKMYs/GvWPCnX0WSwAqoAdgcJ6gOlyxUDME2w2T7ms2L+RjbFUWhWabyudVPVXEtWdppHXT2PSo73+DnJcTKtim99qSHGlCqklkic6/aOS+SrZvNNgKbtm5o3Hto2vDPV4wpZ/fUMr6AjCf0hqx1BxAdWAR126/HMCqFBbrXPa67Jm2MSSg7cbLpIff0KHjW/7Q90F3lRVJfKMlTp9oguXCxYXpQm3QUeI2eL3bxTKoZ7C8HigqVPrRFTNHU7Hfhuk5yk0/KzDBOnswy3FHTdCdoNccsEYPfJlT4N9sS73xcBej++63iqweosPxwu+hin5zttB2AJ0VHzkTfUT4eOJSbh2i4IEZ6lFLyzSrHf1R5TugFl8gIIvRCfLrlMWleTC4AYc1gddO9DlI/Z0KCkxWOEbLOHkA9sNb/Y4SX6cWIMvb4UK5NP4AqEJJhZTiocG5ppqG7Kv1eWQ+G/BwaZ7oTeW6a2JTta34iD+IHkPihYGrp83/+PURewg7IQq8I/1PaS0MhIrPE7prTjQSev8XjL6qUGQwXDrnwbwwmiZICHogd7rD9q21UAa1fuEQLbrHyvpfFJm70kFITCX3paxIvJt+GIidZVBQ+WNZrBa8B4rV8PbuLERmMCd5Wt/8dUUmMSS6T7fVintl1n7gGLe9IRrU2foTXmEDXbhziaWsFFfA4OqoQzt2YCucxn6Ms/BW8BLFK/ZoJNafVwgzLXTDal3D4vw+z9hB1h1FBhi0umylbYO5+rtKiXcxv/yboDZP73RtElIJLYrfglQpeKWV62s3HnPPGmP4shiIzDcT9X8HX2r0u/MZpM4oU8fgRrsCSM/81sTw6jrgdSge3+GQXu09I8cXqYv6ZiUa7jZev5Gg0xWyYEL2XupIV+IuCsq8emJQaxH9KZRnCRx/k4RZTpausaFlzQZWHgunWGiL5DmSIURI3k5cjyLFpP00Xa8M4yv1i+4LcHeFcFwmDi5SCentXfWtIipcr74HY11sf+WLqo3QpuCPb/XqcoBlLNA/5tNu1JOQgG5Ecudt4EoF0wG58eJk7UHKbmRYDBtqn4XIL9pvesP5lgndksxvB77sWlDnCDVcSIKk5ZVgafHp+nafiwtBFmJTG75K8TmwKqEBvSRa4oGoq7zIQS+zsDiQBoIwBdL++jAvSbCGgn0tFFOy4As2Y6AIuPNrZFcXiyoMXpYLc/ViTWstYPmgAnJTaeWQIFgIza6TgHdZhKWT3hSS6GYqnHj1fK0pyFO7GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 596,
+   "completion_tokens": 340,
+   "total_tokens": 936,
+   "cost": 0.009184,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009184,
+    "upstream_inference_prompt_cost": 0.002384,
+    "upstream_inference_completions_cost": 0.0068
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 172,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

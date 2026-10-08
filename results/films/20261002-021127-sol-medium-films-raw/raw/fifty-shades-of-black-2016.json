@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907232-Uhi9fG6nNTbPIjs9MvmO",
+  "object": "chat.completion",
+  "created": 1790907232,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**, given the predominantly dark, muted brown and blue-gray palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing image palette choices**\n\nI'm thinking about a dark, muted color palette primarily consisting of browns, grays, and blacks. I see how it starts gray, transitioning to brown, which fits with films like Stonehearst Asylum that have a gothic and dim atmosphere. Little Hours has that striking outdoor green contrast, while Stonehearst has the strongest dark sepia tones. I want to map the color flow, starting from gray to browns, highlighted with scattered violet and black towards the end.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing image palette choices**\n\nI'm thinking about a dark, muted color palette primarily consisting of browns, grays, and blacks. I see how it starts gray, transitioning to brown, which fits with films like Stonehearst Asylum that have a gothic and dim atmosphere. Little Hours has that striking outdoor green contrast, while Stonehearst has the strongest dark sepia tones. I want to map the color flow, starting from gray to browns, highlighted with scattered violet and black towards the end.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNpqT8yHqQqDWmDPeDFHBg9IIy-a7LeLacWPwRLY3kt67LJlQcFBxh-OOOqNhbkr6AbUmPLfvIpQ3uk2ZVTY0iS9bmv0vgSpJmeULRpSaOeqtndrtkqKludquBCMCaLPe_tjAStC6cY9nfxjpS7Zg0fRTGcMWTxtX0DBHDtk3zUShBIgjv48W10YdeH8YL1xTKWetdqnfRteB7uLb2rJX2L8EsXyeIxNGMNVBdCs6eg4PMp85EplhPnw0ERoe0xb-H0-UBpuugGnnTx_7k3xGjYW7foEt5Priv5wTF4xpL_I5g650YHcmtarimjzh7wXtfpXcwUmrMUfOaEENru24srfgQdin9qVeQgh06IKmN1MP0bm7qwcy84nqkXwCxzVnWLSh-YYGiiGP1mmbO7b8nXxK2OhXFuZXMbJdgcY41ANHK5sdrAUekezwqRX1SNPwWMY3U575NZ-P9d2PhKLL4_Q1Q0XwDt4lJfRZHggxFnP7RDzOlxVa48fvknGOsASzZu1cT-GFSobSFeb2oyGk_TsILp8YpKE4sQpxAJzx8QlMtF4iEnPDYsb1wxyh9aYq3C9CS2VR0J_UZCfpWZwBRxcH4frtkCMXZx-uK5mL-C8JNs8J4u9cQWHm0HcMRIWfs3ZM4wtEeo-UfAGSwBNTs3VnM0dixN6Lfb9aoUHICnjKdLrPg6KS31va0dW4g_-5G6EJILUOTkFZlmBvn33-_A4uMuGzxMYpM9CAWYcCA_q09OJsrcHeKNaFELako43Y1eqZy_W3oMrqvyhb_kopIxGHhQo2nHAunAWWdgrdkqJbQHk3KbfITkzZpgairnrIyzr593kh1HS3AI7Fqo0OEtOtYVyqFRZukzpcMkXLvznWIALfqYGpW-q4IWt1YegN3g1rOzdXR236CXq-ZpvO5dWXheJyHnI6bHUAAlzRWKCGfoqyG4Zc7ETnpUwzehCiL5VC5RlBvyEkFpsF-Pu7hixVqdyhkdtT7gap8PcnbpWOnLocU3VPL9n02WGeHCA6JUQ79S8tggigSrFjSSElxnl6cygQnRigNhRWE1ayl6jXFeRayy8WBPbZ7MWDkjKhKv-7edAO1dGHQED_egs0_0vDcp1GpJRaYhm1vR16Wi5m-uvU4arKJxa1kTDCT_Gzz2ZNfvZTEKnZbiZK6BWza0_VRWlNZ5H6v0Ss6gV71MQM9JQsIIvya9OFD12-5bWK2P6mIGkha54x2N_9CCMqSntC9155HpUzNSnN7lncpxmew3_5gtSnCZyrE9ZkMq6idjn-ANsAHzfRu1p5Q7gSe70O7v1JPPYTJXuB_p4r0E8BEbNleO2k4EldGfuRDH8A7bHB7OfxYore-aPxuNHcFi864Z0qOdb4vwL6fOLF36U2K0Ua2yQxIqV94DtEigIN8c8zJ5uzDaMKssVEa5a3qPuL4ivvH9mj_XBthjphGli3e0QKo2EA6_HNllKk0Up5aLZrKV7kR7kO_OQ6A27RWlPJoB2tJ-JZA2QJcw2YcxtruhnGjEG-h41KhrYdTvwqWSzafiAyxt85ZNWD3daIe0bzjwYmzTMuzKNNsy4azlOISx9nu-xT9mfo2l6BRxJ2N6JlppyrlygZY33bX4vEEDGZNec8Gpn_YHMT_1schLvV1_9NnJyuAq8HG2KMf1HMkBSbIBx8r5omhNAABTsimcDMjq7nx90ZkdliK9Wgz-fxobN3Cp4u1Osa4SilEiyC9MonvgBETju-4hPdkgVqpxdEoB6HSCTihRdHCqRPHa_pHa-uKRIVcmChsvBa3z7URnO1surbPJi63N1UfZKhaSDRrWFNOJlQPMvz34UIfhPeaC0qVkzt9iOYoulWeKw7HW50ei3gGwR_7LUPdlokYVJuvJLwM6R2iiEJfcnky5mtpCSdC1iYkVqSpw2O0Vv7vn6J8JrQcJFM6yycQtGn5Q_LEo4yj494bl2TERkEiA8__LDAAbGTF4aFtLAbV9qxbJdnPWZNoFRLFB4RHTudozvNg0hWKqLrAmsQB17HgzeSY_imljvNH1c-OBAjIPTHCn_hMEhFn3kUVx4SXLuTuJRMNv2LIy1rekYyActjVQLbQpFhbA0liuklEe2pY9Q9Q-rjs3lQuYZ-YR7OgaPRMq6elVyWLT_CfRfdvS3ccziRg=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_065a4e2c82505b97016abf1364f81487d1a4a58f832729e79f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 162,
+   "total_tokens": 596,
+   "cost": 0.002488,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002488,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00162
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 126,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

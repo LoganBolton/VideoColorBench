@@ -1,0 +1,21 @@
+{
+  "slug": "stonehearst-asylum-2014",
+  "title": "Stonehearst Asylum",
+  "artist": null,
+  "year": 2014,
+  "label": "Stonehearst Asylum (2014)",
+  "hex": "#211D1A",
+  "rgb": [
+    33,
+    29,
+    26
+  ],
+  "frames_sampled": 6774,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "gGUr7m3WVF0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

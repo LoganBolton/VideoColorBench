@@ -1,0 +1,21 @@
+{
+  "slug": "bad-lieutenant-port-of-call-new-orleans-2009",
+  "title": "Bad Lieutenant: Port of Call New Orleans",
+  "artist": null,
+  "year": 2009,
+  "label": "Bad Lieutenant: Port of Call New Orleans (2009)",
+  "hex": "#383835",
+  "rgb": [
+    56,
+    56,
+    53
+  ],
+  "frames_sampled": 7317,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "4yDkoKoZdXY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,105 @@
+name: extract
+
+# Fetches everything in catalogs/ (films from archive.org, YouTube videos via yt-dlp), one parallel
+# job per item, averages the frames, and commits the results to data/<dataset>/. Items already in
+# data/<dataset>/colors.json are skipped.
+on:
+  push:
+    branches: [main]
+    paths:
+      - catalogs/**
+      - extract.py
+      - build_questions.py
+      - uv.lock
+      - .github/workflows/extract.yml
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Reprocess items that are already done
+        type: boolean
+        default: false
+
+concurrency:
+  group: extract-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      items: ${{ steps.pending.outputs.items }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - id: pending
+        run: echo "items=$(uv run extract.py pending ${{ inputs.force && '--force' || '' }})" >> "$GITHUB_OUTPUT"
+
+  extract:
+    needs: plan
+    if: needs.plan.outputs.items != '[]'
+    name: ${{ matrix.item.title }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 3  # the public YouTube mirrors rate limit hard
+      matrix:
+        item: ${{ fromJson(needs.plan.outputs.items) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - uses: denoland/setup-deno@v2  # yt-dlp needs a JS runtime for YouTube
+        if: matrix.item.dataset == 'youtube'
+      - run: uv sync --locked
+      - run: uv run extract.py fetch --dataset ${{ matrix.item.dataset }} --slug ${{ matrix.item.slug }} --force
+        env:
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}  # optional, see README
+      - uses: actions/upload-artifact@v4
+        with:
+          name: item--${{ matrix.item.dataset }}--${{ matrix.item.slug }}
+          path: data/${{ matrix.item.dataset }}/items/${{ matrix.item.slug }}
+          retention-days: 3
+
+  collect:
+    needs: extract
+    if: always() && needs.extract.result != 'skipped'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: item--*
+          path: artifacts
+      - name: Unpack per-item results
+        run: |
+          for d in artifacts/item--*; do
+            [ -d "$d" ] || continue
+            name="${d#artifacts/item--}"
+            dataset="${name%%--*}"
+            slug="${name#*--}"
+            mkdir -p "data/$dataset/items"
+            rm -rf "data/$dataset/items/$slug"
+            cp -r "$d" "data/$dataset/items/$slug"
+          done
+      - name: Rebuild colors, questions and galleries
+        run: |
+          for ds in films youtube; do
+            [ -d "data/$ds/items" ] || continue
+            uv run extract.py merge --dataset "$ds"
+            uv run build_questions.py --dataset "$ds" || echo "not enough $ds yet for questions"
+            uv run gallery.py --dataset "$ds"
+            uv run proof.py --dataset "$ds" || true
+          done
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -m "Update extracted colors"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

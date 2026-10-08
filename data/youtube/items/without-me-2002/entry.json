@@ -1,0 +1,21 @@
+{
+  "slug": "without-me-2002",
+  "title": "Without Me",
+  "artist": "Eminem",
+  "year": 2002,
+  "label": "Eminem - Without Me (2002)",
+  "hex": "#3B3029",
+  "rgb": [
+    59,
+    48,
+    41
+  ],
+  "frames_sampled": 298,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "YVkUvmDQ3HY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "bad-romance-2009",
+  "title": "Bad Romance",
+  "artist": "Lady Gaga",
+  "year": 2009,
+  "label": "Lady Gaga - Bad Romance (2009)",
+  "hex": "#80858A",
+  "rgb": [
+    128,
+    133,
+    138
+  ],
+  "frames_sampled": 308,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "qrO4YZeyl0I",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

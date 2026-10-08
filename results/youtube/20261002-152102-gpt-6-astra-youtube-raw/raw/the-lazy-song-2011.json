@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954986-ppqu2EoGF325WJDfY1gE",
+  "object": "chat.completion",
+  "created": 1790954986,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "The consistently warm brown tones and minimal color changes suggest the mostly single-room setting of \u201cThe Lazy Song.\u201d\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Evaluating artistic choices**\n\nI\u2019m thinking about a concept that involves a stripe of brown and a warm, static atmosphere, maybe inspired by a lazy song. This scene is all about minimalism, with brown clothing blending into a sepia-toned setting. My idea begins with a black screen that transitions into steady brown. I want it to feel consistent, capturing that lazy vibe with a single shot. I think I\u2019ll choose option D for this artistic direction.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating artistic choices**\n\nI\u2019m thinking about a concept that involves a stripe of brown and a warm, static atmosphere, maybe inspired by a lazy song. This scene is all about minimalism, with brown clothing blending into a sepia-toned setting. My idea begins with a black screen that transitions into steady brown. I want it to feel consistent, capturing that lazy vibe with a single shot. I think I\u2019ll choose option D for this artistic direction.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83wgfyNd93Tw64j5uI0wrSNyu5fMaFIy5ocAfVWyb5QhRF6vmanjJDYoT0ca19P_JYcw3TXqFzaK0Ru_ynjNkVhcGnxTsM9dXioyb_h-XA4V0mXqZnYschP-xdnSKYQcO_x6YsopaKNHi1Fhd65BOlwAIZin-w-efwqGGdICRsVIwo0P1tL4V3tQT0ZVuH5FftTTwFUpTINJSQPVkL9UTuUR2rVQ52U51ApXKw2_KiFb1Gb7gl2lzuJqDGsvqXeZYyo5-cAxgMz32bihqD2GDiRe9OIrppUZNKmq_RceZG7d2g_Hb3RPQDYwuJvueE9rtyrxQEPRJDXjQ0bIMV5urTLvu9bjixTlpj-i3wqFF8rrUyaex3z6kccMRWqmPO7CY8itt0UmEkzkff1wI_ujvTF5N3N9aIej1IMVbQBf-FbukrNRBjfneAKpouQYocDVKoAUc05j_iyuObeiWP2pKHIZrc-xtXPhfUV9fnrkyK2itbxkF_CGmAQje0oEISpAyr8oMx41J9QS7XS75D7fw1zXU6x0qLR2iIAgkXf6wCOheCaC536iqcl7OZY__p2OCw3CCfhHuU8SvlI3yXOPjmQ-7IKaodPeqs5KUx5oo3jSNU8X2yCQudpf4nKFJkzpIRVoODm3Z7yu-uDRZrHLctzIColTCRKPYPP0fkKbyw8w-s0mLaGmirohhiYcoRPkLYUttjWUYBmhhMOipug-M4jNvdcXEyDgx4IECPO7DSx9PRMBkKCbUyoF7luNpWevn4g7tsHGVhcyKvQRCGmBO1GY17frsmkT111PJnWo2vBPV2Ho5agoqUxjx8HDm5JXeF-Zoyy12a7RGIEjVIfkIiWDUL19ak1kBNtCUImAfKxqMgjeMl-duySQPrTvwjRaNaGrBfncOM8HsjoWu0rSjyaf5lfO5NwLCZJKmrt04RUdMx-q79i-0VEqVNhNA8PeBLjQBRT2OLaJ_AAWBL9Ikkq4nRSZAU3JrLnkBCRPvXVOabIH4jEAzeAZ3dExfwQi0irf9uIbwsqbo97m7BJ6UM1E54j0APDffXT6c6m6Az_7KCM9VTVEE579Yic7iJwUNT1JfxQa6VRTaY_i2_YWmT6PyZTm_QfLkjkAV0AFsdBdNh6aghIvovwQ9uT-wvjANCv3F-nu8r9LExcVeiBAQbDb03FVn4oAdEvoC0Gb7IKmldoff-KaiRLULmBlj5oRcYwX0TFkPEzViarJhjSbnX4E2YgQL57Bk5JMmK0gPqJKeZ2nX3T0xwdSxXjJ8bpbSGnphEjwJiRrGBgUWg274o1jeFYb71UBKqJihj0BbssKDB7EbyRklQcCPJfgaKW0JrONx1jymFydxQAi3Hi03THOFUw9blgZh-DCBKJFNqTuKbwZMqNNr_EIINSbu2B4xv211rwmYRnZX3CmbZhELH0WNqZvF3u7F2R55ZsjMFvlExDaU4caYZ8KsC-tUQB_4Itvk3YdQ2DrXpZQMNpb-WpPe-QFGpLftpzTW6d1i93QoIW-EtGFN6GrKVsJUpsoGwisHMlHWGbDeXzr4R8rezRuEHvc6ejwsUxwc1cXGipCLpHOz2J4Xk3DHPDxmXr58b_KnPRtacWu5tNzyS-sBLgQVzCrWXQnefoigbzjtK4FoHeHNUjDIB5kEO5fw15kOg4zcamkHD_V-Ut6zJd2Pmg0kZdtFpXWFzQMok0SO607_Twsw5irtYS8uEPydPKEd-Yjn_lH4YMonrjFQqfxBaswyLdlF2JesOESbEAJ5-NmtI=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05f108daa9a6bdd9016abfcded981887d19e3b26652d99bee3",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 478,
+   "completion_tokens": 97,
+   "total_tokens": 575,
+   "cost": 0.00963,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00963,
+    "upstream_inference_prompt_cost": 0.00478,
+    "upstream_inference_completions_cost": 0.00485
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 67,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

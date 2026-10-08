@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894405-c9CcWKMOXVUi9ll3kYuv",
+  "object": "chat.completion",
+  "created": 1790894405,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The strip is mostly dark, desaturated teal and gray, with occasional deep blue and muted red stripes. That cool, moody palette best fits \"Love Me Like You Do,\" whose video uses Fifty Shades of Grey footage that is largely gray and blue with touches of red. This is a best guess, not a certain match. Charlie Puth's \"Attention\" is the closest alternative, since it is also dark with blue and red tones. Most of the others are much warmer or brighter: \"Uptown Funk,\" \"Sorry,\" \"Shake It Off\" and \"Baby\" are colourful, and \"Counting Stars\" is brownish-amber.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm going through each video's color palette: Counting Stars has dark brown/amber basement tones, Uptown Funk is warm, Sorry and Shake It Off are bright and colorful, Baby's bowling alley scenes are colorful, Attention has a dark teal nighttime LA look with touches of red, Love Me Like You Do leans gray and blue like Fifty Shades, and Bad Romance is stark white and red.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm going through each video's color palette: Counting Stars has dark brown/amber basement tones, Uptown Funk is warm, Sorry and Shake It Off are bright and colorful, Baby's bowling alley scenes are colorful, Attention has a dark teal nighttime LA look with touches of red, Love Me Like You Do leans gray and blue like Fifty Shades, and Bad Romance is stark white and red.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3AgKEAgSGAI4AUIIdGhpbmtpbmcSDGlzR9PIzATH4kl4nRoMHjmDuGHEwc18H3NoIjBz0WR8hRXrOEXKdo7wGNsGH8y9klsft6BcscJ2p99qeCElHuw+Ns2k+lxeQS3SBrcq+QehNMevEBuMHWJ2skhmZG5AKhMmsiYAt3FXj2T2LhNtpkBzyDLNqmSED8WulP070m2Uu65E1r9+HdYyG0ngZ0mG5IekomIfIYTHiF7bDfkklxTd8LdgCopmemBHtVRQRSTUjW0l9AhSv01iGoKG0BoHFgL8/IPs7/grVs0Jlsdsqvdc2zJOA0pxHlAiXxxxfuMPAZDrAyBi5ZkzItGFJLw3c4ln/eIVIsdYECJ6/XLLYkuVt28Xg8PcO2L/asb1pLJOG119RhIViKrts3zkbNeZXqXIiwLdIjH9xqq9CkUaRExy0/d0f5AYVQGnS5sHDzOzFAFffHvzG52GCOx3iJt5zEqSeWx3zzpwcoOtTOztrHwMwRt8cusqunq79rTd/fKwVfpqEKqwDEDymc2MPgphjcS6VH/ou9+KShs/veHShi3HDB1ywDVwurmrmYwGDiIyG/M4MawXAgq/GZiWfyJiLPK0VvGzZrKu5wFK5tKl/J5cJqT2Md5EMd8zPpAJsj7Fe/H0g7AsO2vlAbEZVn3L/QQV+jJvaRYowJwqYSyfvoaxxIqgyj3PLtbAB02akkzCLZ/r5zaDvgZQj6jfItziR/Iv8QuNQXwSN80oB2QnwngsziMEgk0dEDC4Rdp0jzy7W+wqRlBTmGmFlrN4fcPbzA+d9q9UoyEXBvbvAytenhXwDtdRuEz6SFS+lm7fV9MTSYtQHW29H35AdVIQwadKfRv52YXspgFLpi9Pwwb+2CUFywsYTcMxyrHaNxFJpH7iKeElXRm1VmhckZ5M2GeNG+MPetptRlo0sfEk8R1op+WBNqTmCD3XeJK8eecIkI71ZrWNiAErsXfaVDmH9A8sM9EBHWxh+n349Lf2HmZe3xg5WKAq0VrdePdkJytRDMU/okGy+hK3YFhQJ845sfQpJxHRwvp0p0m6MgMVz950FBQm/R90BV+P9ri/CSGR4KVR/DbMNxmu/GDVlVFD8DetkToh4rHCFXW83twcXlU+c3MP24FGYMDBrRcb/WIQaeKZ+crhToqH9HsKgiN0qdYhWQSbiCzIdq0cQi6BbHSdV0bsMadprPzyOl7kbX7W8F9mpnACdVICv6QJBrEy/YpzdUFOuyIHq//CW7zZzcsgj3tzVEDh9ObSadLSb68DvsNi19oG53iaBLkeimqLgq44gtGF/OZQBOn4Ht+laVB/kerdIVZYaEVEv6ftVYCGBXXQ1vL1UDPM4ea4VQ9wZq9Ut2QP8Kb0oD3IOicYjsqXRdVvn4YGjq1hSEftY3qH36/UgxFnBn9Iv+Om0Y6OPAcfC9f2SWi0hJ8MzYo/IkrNZE25SfJ+XDwGOLNGXXfct28vmWZw2g/KkhsYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 631,
+   "completion_tokens": 430,
+   "total_tokens": 1061,
+   "cost": 0.011124,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011124,
+    "upstream_inference_prompt_cost": 0.002524,
+    "upstream_inference_completions_cost": 0.0086
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 217,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

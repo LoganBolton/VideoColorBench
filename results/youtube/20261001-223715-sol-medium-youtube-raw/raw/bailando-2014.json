@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894275-GSbENjPXjuWE64xCg7FR",
+  "object": "chat.completion",
+  "created": 1790894275,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Passenger - Let Her Go (2012).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDKoOiv7La-GO552_wQOwXdNqzLJmdd8GKADSzhmjdWyN7Op9a7y7wEGEuxW7a-J3xqnohTsWZKSIP392lTxyHzcKON8hEgloWg_dpJIWOOoihHK2pUx_uOB6MhzAuQPiiLQGZCWPXpppkJ3nItEVfBRSTDY3JRidw_nw_0SXUeb81fStGD559ouJDTOj6lXcPlkaErB_bob_z075BK6JOvUlyTKpBQnLv2lY-4ioUpcRqD4pmItPxVN9o8P2kNyIYRq4enzo1KeXigPkOTB0FJELoF42mqOQ4kYsjavfpD2sKngjtIeaZghwOUHbKn9lIOhOKCUiizpLeGn1JUByTJjnHnjM_EOomjYuFnh-BXicSHM91-E1dQlLSlwPWBrzH4tdloqP3hcDgebLntrysPKhVmmrSrdTWPBKKToILerb3axFGDhzuj6d9ZPpH_RzuFNtlokGHE-iGF2OLTePJXrDMhjINQhMkMWCLxDQYY6QP7uyLVDd73QUMYj16QgNaZwfRGDXLLEkWa_Uhh8h86eOwWN2x0Wlaj8_spvDWkoPsJvok2ND_yWDPkNHrCGtXLPhN3YdsGwxP0kbYGyCWaNwS_PDPU4dFu1p-5XwVRbHchJ-fyRjg9bBdQ2PAhdIZPAC_Cp5eWtdD0pC1CrSZ03XBPu6fek1ieqQ2dK0UsJxwyvMrCg-LgfOVC2oxRw-47A1mXTxsc8Vw6rie_Jk9WfbdR3BjmoK0SXkNsz5fLCZGpNPgWkDaIkJtXDmw050lIU-7imqCIL41-8KHIo-SfOxlg1y9G15OOm0IjUR2K86WMFs1UwvXMqWM_r2YkRI40FtiqOweRM9gUwTXqk4bHzr_ArrUMoeAEsO62VeCuDwzXs4WHfWYN1nWzzrIxgg4FAghc6x-xxFxjDQbwzUwwidhzguappsGVKVWaSpUZwqbFANQHyNnv9L0knDU4YfobKu6SVjNoqgsXpeiJqObaOmpyUpnYBJtkR-mbkurlbzcmi3fU8oplV-qaWpgEKPq1IBd1br3xQKLmZgO3RDAr3jxOIj7JorRTBgnuMybHMFwD_ei3czl-n2kTKTQr4IPHPTljNvNllTZTj-ISWsrD-yz7FbUUXWc6RBtmiX9gXUaM7ooGBdI92o4bekgzuyU7LIgnAnvY7Iw3NPI1fS0E4AvkG5935I8Vxcf41bRKWNAFVQkRdzzHrpe-Ts8zdDF3TYx6BaFuZhmW6zxpzzQePxPvQwGA-orA-Onb5Yw_87gAGzHwG5TanrCN9QZoR__YOJ6yyhg2cXq6A4ZHtesJesEaZetBdEcF7z2iQrYSbfKhNtUYIL4e_GeTZ-ScNrIjvwFyqvtYWVZXz7URoXx01IsoW2TCaoDe8pNYbvTYxZ2ADvuMOKUsUdYAHKy03FEYeiP1Hcxw5woZXGHQrQqEDuxInb85u1LRpXZTgbfiKybIDbIfkqU7kaQ7UgNitdqGZURVWu5gFCNNjVA8uyzE7N2iDo8PkzN7Gxp3EnfQLc1l2se9KOAk4QDeLC2kg7L6Au0ccP8ayjKchBNXFVtk2fOTmsnBDoFFgoS0RqGR5Um1G0DGY1eH3DSGFpMlTIzmNL6eJJd98RYvRi9FFExvDkDS--INxtoaoiDQy5PKZ23l3eMEXM7Hi42PiEhi51JzUdLrf-lUS82cGvEoqtoyWxXGhNV3oUCSDw0dpkAJujlcq4fmVNp1asT9g9gy79UHFTHnlZcj0VAccOrOWMFeWvl2KrRZCDUU7HyYnT3ELQnKZmbV2gatV5L-gqT2RO98SAa2nX0gDQJjFxP5KVmHgUZcIdyCAYl3iBq4XWEurcriFMObUdvI6hVgNN-n1Vs0GH8hWi9zfeej7Bjv7lV7g4tZi7uy7AzH2dBYtZLwIr_aRH7OVG_XHdnHgTwoH1mtwmgNLEnmNnNWs2KnUSA_58ySDbJrNP8rXFQBwL5RvQ2Tf1xF5_6lqm4gO4t3VW-yYQ-tDaqewphrpk5IaiSRpnAI12QWvDrbSH1yGilWha418Yfa6BCeC1KwwrPEykc51WDiGn3h0ym337pM2X4VF9v_Nt0JWheQO1moHCLsjMtHtDoMAFn4rxG5SO65ARW2CQSvvOsiPj67MalomDjb2Tqx74B0vceIGujMD6MO4GVp9QvgkazZ0ObItB29zYCPvyvDFmzMZfCv0-iLqg8HGz0sxud5Htm3_iz8UGLwLBQCsd4ZQbrv4S5uk86sjaVY3AyoK1SdubQUgSrnr6hlbSTrVkBJ1iqMJvf08f1vBhJ8Nj4V_hByuu_yaUAVsPfvDMCDQYG4Ztvcn6FFMzAMMKp0s5ZNYp4cRJjZEC6xR6SG2_UubRBc564qYeTzo4SdeLqJ1EyGIb5jy7P_B5dCgQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01c54ae831b328bb016abee0c5219c87d1827eb575b22bfe8c",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 486,
+   "completion_tokens": 175,
+   "total_tokens": 661,
+   "cost": 0.002722,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002722,
+    "upstream_inference_prompt_cost": 0.000972,
+    "upstream_inference_completions_cost": 0.00175
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 153,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

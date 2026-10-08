@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894306-XC3Jal8NhhXc5Uq1Ts2M",
+  "object": "chat.completion",
+  "created": 1790894306,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is twenty one pilots \u2013 \u201cHeathens\u201d (2016), based on the dark green, gray, and brown palette.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDmPvP9tbPNY25cq5OPhhWJzzM7Z-GQ1my8FbVlzjpj5eI669U4ZreQpI1CuDws_Fhz5FLC6f3DOJefdF-BY0tDIuUA1eMi5tkQqdG0Gg2tDXfoF_lMaPKrKExoA-1Uz4keF8PIQhB0XJa-WXBU8zW4IwmQhb6dG1TjdiOO294iVuQgsHPuX8MUVsBleDGaLW9c8y4Grd45xmli5TmBXBDITBW5081o_e004hmEiXs5nII_HWsDDB8amA4Mf5HZ1lpCmlgCsVKufJXEeP0iMuiL-_sqhW9eUdcn-evCAXNC4hiEafFxOHyaxy9lk-_63MQkNOftuNiHVXTFGoP2f_KZYjW_LbElmt_rIgoDmA4vV4ZbyHAnckNlvu1S7fRHGJr-pDprA4dsCH1PxzMMF3ErAxh5fanl4Zq8ZmgYKqSJTYAHhVJRP0fi-chtrnnP44jfxVrqviaJYMnbxxY31peKBDyR50yDcm5BaTnw5TagM_2yvadeed7qXfknid1OgVoPdmzDqnl5AHAIqdAN-C6ENKK581ag_MQlzqQPdNR5GyAIIikYoHtfGqjL4HXCIrvL5zjmNd9dxXDzDhPyYgb2kK14v9ErJPFhgXSoBF0QgsFQSjotreGoYu_jX88MiV6ooPlEzYBTNyWX0rOJF9GZBbNrhsxZLJSMaMHh2GpZ9G9Vh1vrWFTZ5VRsAraRwaDNlydpw3MAQxXAQIlTEAT7n-iedRqLaefNhzcZQYebjLlEafBvFCJ1jqG-lsGUHcEjmaPwcHsLs3hNIjQ3pei3nW0waX4AC00QtZMBVpzO1nyjmtreuztveSfbA56g-sKK3DFcx0OzkZxgODsYybSmP2upFj-MvOCfQEPYcfEWo2ThF_nyQPC5kgrVxF-mUNrOf7q028tquI5n_uMPYAliI-ALCJ5JGmaIjZUiyJRM0fILC5DQvZIujKrbOPZYKyrYMDdoe4j5z91k0ujgLDjIoJOHWFBu9kiQKJ8Z_fkL24inOl4LeL9Fm2SFCA07HkYylulOw0nyn-UD4KGgJVK7zvoV_KulMWGT0vWm5yWGd0OsKgC-Fim_JWGHDbuzDq7xFkODJWOzQ10HY1hh7WFLOL_4kTfvJwEHkqC7l7NwYV9a6cHzY0QRsKIqfYTbOuHYmRQIoIO6JECpG7kQnJslArPolPviGzR-D1Xm5xoR5A-GRYbpzvNmddkRhqT8U8oC0FvCfThrcus4KhC9hWv5yYWHgm6_nY940pX6Atf2buYb7aMcbQLEw1lrPdOF-DxSNeSkw44CK5QNsjHa_RbIPlxWTJssNFE1FC2IcIiAVNcnEHuvvZCU1g3a7X5Yw6t-A3JW2ZawGjNp71kv3NAqrzPKmBWs0rSs_yUF5eVjfF_pFUBcXWz79Kuub4v-KNGLTVWyf2ycxtHIMYm3m98XIeWVrzkNULCA1HBv-FBwDZvxpYIMwTVNZvHwvMsCQdtVdqQUVMn8ruHQ7bLL41jGck9gLTKDf_0NDJH_KXopXwFph07R1W7RecyNvFC99UmLZKtyOlIfikcZMOsIMLHFK_WjvWhdDkTdK4eabAcIuXaJl6XJ-WLUwrNUM48WgF3hgkjX_Ntsl-KeFtNuuM45D6LkiPoC-Sm6HmRAIY4c_v3GZE8wStYxQrDYEWJfTkwYe_O02VuZ2Ez-3AKMD8hCgk4ohLyKnMVdjToHAzt-iGxFcel4qd4JhAwSMb69KySDYqbwhIf6uskV7P7B5TIr3hwkiX0qlKcL7_iHhw3l89kCnnsabnLkDXWWaKjO988hxut-qXsSmLtnXhYKuUGApwnGm9DTb0rFSh0PGwk_i4PuVGJ22Arv1rhMZOXPD68ixTY35QU9tSqnaMn2eGdM7H9qBI1N6_H6ii818stOhsmdtRFXVnzQkdmCVWh3xtWZNq3Nvs4LfPZAyOx9ZQ7ElGz2oJ0fOsLrx0EUnGnsfo7_bHWoDeTwCbGlDXx_3qsZpZbAfmOOZml-2nn29OBf1ZNMOyxZLovfwJvA18VslhRr5Xh-kMDBQOGh0s0SUh0oqvwOcvkm9DbNKyclVRrVlA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_027a6c10148b4f53016abee0e37fe487d1ae2e51d68e658ae3",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 142,
+   "total_tokens": 615,
+   "cost": 0.002366,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002366,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00142
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 104,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

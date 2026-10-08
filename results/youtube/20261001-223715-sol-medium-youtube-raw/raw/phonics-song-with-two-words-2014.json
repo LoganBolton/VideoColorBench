@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894280-saQtf34nyVsbhSEay98I",
+  "object": "chat.completion",
+  "created": 1790894280,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is the color-learning video, based on the repeated blocks of vivid colors.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Identifying stripe colors**\n\nI need to figure out the colors for stripes, focusing on saturated green, purple, and turquoise. It seems like I\u2019m looking at a color palette inspired by Miroshka eggs, starting with black and featuring repeated vibrant hues. There's a video about farm eggs that shows these colors well. The overall stripes are dark and muted in hues of purple, blue, and green. I also need to analyze the video\u2019s color transitions. At the end, do all the eggs turn colored?**Analyzing cartoon colors**\n\nI'm noticing that other cartoons use a variety of average colors with smoother scenes. In contrast, the color scheme here features homogeneous blocks, which suggests a strong design choice. This uniformity creates a distinct look that differs significantly from the mixed palettes in other animations. I\u2019m curious about how this affects the overall feel and tone of the cartoon \u2014 does this simplicity enhance the storytelling or make it feel less dynamic?",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying stripe colors**\n\nI need to figure out the colors for stripes, focusing on saturated green, purple, and turquoise. It seems like I\u2019m looking at a color palette inspired by Miroshka eggs, starting with black and featuring repeated vibrant hues. There's a video about farm eggs that shows these colors well. The overall stripes are dark and muted in hues of purple, blue, and green. I also need to analyze the video\u2019s color transitions. At the end, do all the eggs turn colored?**Analyzing cartoon colors**\n\nI'm noticing that other cartoons use a variety of average colors with smoother scenes. In contrast, the color scheme here features homogeneous blocks, which suggests a strong design choice. This uniformity creates a distinct look that differs significantly from the mixed palettes in other animations. I\u2019m curious about how this affects the overall feel and tone of the cartoon \u2014 does this simplicity enhance the storytelling or make it feel less dynamic?",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDU7fCArHuKRzss3DuOD5lWPFzrVqJaYEK6qAv4ursZYfTV9wG-VKuPUosPVeu6ziTfZ3PIYHfSiYPNsSu08eEIytq8foGYM4u5bvc1UK7v7_SEYGqGsKECu6YTAZ-bmMtpYm9xtpN49zFbdP1faK7XUVdqBr1hewl60dH2oTSlEfFo6BO7qmB3ZviYeN-002yV1REAwGpnNhyFZWjrEoPzrUmIzEjBUYM6aQS85rusLuL3xj6ntFavLmoWm-nawBFST3_sFsm9NE52fTLYwX-6YhshT5KVdS8SkFh3YVKnlay5Ng7JO_hYEzrjqzJa0baqoye-2czfxRgsNDhJuxu9ov1w7ldoy-hq-hlGtm7G09zAEAZGpRswopfmGyayB7bceLLS13Xji5dVktxDQKOx-pvuc1Bf0Vd3aQSPevjDvM7T9KqKnw5FhH1DzG3gwnHFtwuzME1JJTUlPDwjkrrIrDLa4FtIXKWZC-DgVwBpmJkhegTMAyBBpEGx2ECuPWWiU7LCWbERLzLDnk4J8fg94sKdYSfcTE5iwE5QSQeixK4ppdEDJ7Q1KoMRWS_WaQ5X3qU_jdIX7typi5F8m9FMuZg6AHqM4a9VlZii8Omz7ApzaKVoIdYeHS5TyfNuNtyT6uh-j75jiAPrhr7ZqmJsiC8qdhDUWMfyBLwOx8nTH620JpYCv4UhFkQ1eP9A1rMf3mX7F8ymMbUMF1wWKNDHkWhnzUqmBTDK3glqUV3VueRIEcVRn9gWsVC7YiNcPxgtPiFVaoNpNeMtG0ERHvE8eD7C2DcN9s1s5tnEXjWIkPeINBIa8y8429yA_F3nmu836KcC0efvzTtET6JoYYkBmkqC_VBYh5a9iucTG1gazICP6loLF5KmND6OPRZ-ws_3dACHfUGyvhvqX6I27CMoxaaKSd0zTR5-5xiUdKY4nCSr_MB-kZ5b3Hj-WFjVzlacCUXHt90jwUHEONfv4hh0MMKAgphbQSeOA3rz-QjQKe8nrlYHTFZf1zd_P_G8jQKESROPZ13JKZDaA1dzHlfoK2OX4-zLiU8LeK0Qbz9oghwB8Y_CKGGrHHtTcWlMmRVAM69SfkRG7fZVYBi4eMEOKTyXOO4W7fwJOoqgYGb0Avba87xs5z0X7O2IA6t0OlwJGiEn2CATOrCXmhs5chR5xIVrdDoZBcsA_Z56-QcUXSu80tL_O640nKaxR3EIhFlz4XLD4S7OR_gMRdbW6NAJhtHxTxcwcWw3ZH8-1eY5GerGaDBAdZzotQKL9BEQHINO0ptC88Zw2ptmU9Stmpl-Ed80NafiAsk8HAv2z-uHi4DeLIhcke6yw25Er_dP5Yzikj_5tTHMoIclPXmd_OA2hktLoZfA5dVG1sk9rZXGnAR-dufI798vDD3tqC_vVuCRGBh-7IBJ2YJs6Q8dX4ZGhk1OQ4bGgspYoFOKjMihWlFvaOb4KZVmMxVQVsw_Ce7n5tK1iXOaP-veI3Nmxjw5KD_ut9DHT3o8vcK1cM1kNn-LRvkUlUA013jKvzM_uCiJy83KXYRlgs6fBr_x916IWj3p4Q0oq4ytrEW7gu95TKFd6Oi0y2oMpzmZgVh-50r3w3XrUfvCeeRmDwOoD_2UX5VYvg3HAPyNxYuRbNRLLdrO9hTdTAZI66Xen-VkAOwTuC7DeAKm2WBJuDUvUT8uXv7IYRYDowETtweP-6rKxDgCPBUAZbNTzNPcrlOGDOQc8Ik0xWVZosPjLvABkToiicRbVYuCnQw7EQ2Xbci06R-qLY4o2_oiEijskuIYEwm36Ue1M-9PU1IPrd86S-IhNKv7Q-Md3sckbEc8juF240hr1qjSKOfaSBKgATOoGnAncPhDTfRo5GvkckiOJR0I_wuNiHsjgkbHUKWxVs32tLSY138e7hA9ikicJyf0XGJf-2szN7qXvAtSoiceQBxM-xQHRaJFLppTzx_vF_KkN22xOWjRjhNRCAMagK82yzRn2KoiroKDrQv0KrkSvuldrClUzAin92LXVaAdM7pKAfxKe3TVndkqaTfNd8S_nsswugKcZqNLVZ5Z-2ZYnrxwZJVX8oaJvFm4gJ7cjPfMzE4WQJ8e7fxpSYVaJFig6RzfaPpC6rAJ1QDkmdoeoaoTjbTAucYPFJydeXx78mxr-qIBe6P9RmIzFtaI2atbatoi0DBQVI4Hjjb5P9mysl74TAIUaATUizuAItnIGVLdRwBX-MUKksWewRO9TdRHrUhYzGx55Wuo35Kp500u_sFq2DSiqxEklW-WyeNIj7n9o8AQNIpoUOhs395vpvP7DMLCj82mzOJ8JU31i5e6EcQZhg2LzEramZQopVS6pmXjC-71V5HvyKqd9cZFcBDAdBpXnuox4LwW54lYTwKXAlFiCjz1imezRF6Psk54DUv7vFkBNnCUoYwtpbASjGy5W09sAka2G8-hy8_OgnISsf62CndYrUx8Roez3miQ_1g-xyIrbmuj8ZiNcOFJZteRDXdDUP8PS3R1lbDSIc1rR84KYO9BObhC6tSLGlpuU_D3IqgK3n9LuWg90tga6K5h0J5DxucM4hUdIplqbj7J6A_LUBwnzpU1MnfKk8qPjqyg0bz7IZFCKAsaT2QWSm7g0Bce8_3tF6hWLaK3bdma5dmb84MsqHowD-J2Xmwwcudh6pGgmlXZnkR5ny-gTtIP27orC-OR4133wnIjGywFW-rpRTqG5cHhaBxR2xD3ECTUjdXurug6ST1a2RZsLklRogyiPCFnf-trszPgMgjv9wuLM3t-VqOnzXy92fgfBQlmB15sswAyk_GwWiojZE05Y0sblCT9jv2M3rOjYpSSVmCMKjS-Q85FO5fY0CuchDTITyYx8D2tWmEunroer11GpUtQ3k1XozugjpsKZhrMH0MLSSIb9yU1Jew2LVGOnFxotlVk5mD6MRPIiOn6C9iCiC3lI-J9bC5NKyXOxQQ9kg9ORA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00218bac63107001016abee0caedcc87d1b260effa0eded8bf",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 497,
+   "completion_tokens": 325,
+   "total_tokens": 822,
+   "cost": 0.004244,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004244,
+    "upstream_inference_prompt_cost": 0.000994,
+    "upstream_inference_completions_cost": 0.00325
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 298,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894485-8P65ahG0tjZ6I3JxcYyj",
+  "object": "chat.completion",
+  "created": 1790894485,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The muted earthy palette fits Despacito best, though this is a best guess rather than a certain match. The stripes are mostly browns, tans and greys, with a few accents of light blue and teal. That matches what I recall of the Despacito video: the weathered buildings of La Perla in Puerto Rico, a light blue sky, turquoise walls and dim bar scenes. Most of the other options, like Mi Gente or Taki Taki, are much more saturated and colorful.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of different music videos\u2014Despacito's teal walls and earthy tones against Puerto Rico's blue sky stand out against the brighter, more saturated looks of Calma, Mi Gente, and Ay Vamos. Despacito seems like the best match given its warm, muted aesthetic.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of different music videos\u2014Despacito's teal walls and earthy tones against Puerto Rico's blue sky stand out against the brighter, more saturated looks of Calma, Mi Gente, and Ay Vamos. Despacito seems like the best match given its warm, muted aesthetic.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7AcKEAgSGAI4AUIIdGhpbmtpbmcSDNG1piz1mUB7J0rSJRoM1dCDpR2ShlElIMKlIjB9/SKfPZ8hMhFw/ue4RB1uyiZQa/fqSN4VW69riPmgFAtxBq77NfzKfBAgcvGRdXUqiQc9hn1BQ+4Hont6L86bBaeLVtC7DoFx3J7Rn6TisrbZ6c1lKxDDryat0ivDNfcxZetMrujhCIsSsR4Fy4kq16v0FORWBf8FbrZz+1Xan4O4YNhqfquDclNrQ7NHnerMSaIJr0ZsSceyZi6yPP2Nwk0QnMudqxYJRCGr3aeoW6vdugw2BjK1hkk1UzA2BrkECBmY7XIqFbAiZrmlMjGVYVxphnkRQuDgWOjjNDpTazT7ZuYzuatP4v1I9JTjMpAfv3zE9jkoTaorazND0Lv83eW4h+IzeqWCmdAHMcLBAxfI/iBSEyf2WfDcELibgmiXFQ35PM/EFs3h/YUOi+KVysJ0AOE3wM1b9BxT3NVA7No2vUiKIgYzt9Io+b9h2pqXMvW4mfefXKf5WLPWge7U4KPeOz1fC76PcixTpag8FaCkTAuE7PD3CYyQRdRTh1kxYh66buyAQttmvOzmD11rGHdFUym9k1wOpZXBSfEvBt3msxdFWzmuk7WUwqdIEAjp/dCArho7H95Dw3PY5Oz8JjhHARL+j/RBWYro+h1ITeQFT83wIOd4OmDRUNx9tX34FcDylIBH6psCjj5z+d0aHMW8zqcq8hRuQ2wDun1RUz+ru+Cix4Jwiolxk0FUhMjnuv4Ijl2NEwdRW0SQj/h0FjPxa0qklwXU0rMwrhlzBCKxJ+SFmOAMyM904fjC9tMflWRChDQL+hgst2ySUObRj2lwQvshBkNZuh9MT7QZSiJobJnJUev1VPCzKGCfExNpDlpzPmkFIKyK5igoabvj7JA+YKgPXxSDS395665weIhxxFWAd8c6AIeEp60sY3rqiuGjLvo/RU+GyYdkjK2HQv9XHvYy04kGTdTcm5Kthw5P0nDKIQIaDy2G+DrfMnGP+/6fhazkNxF9KkG/AM7ebOeF2oDKoOvLBaiLcRYMd75q1Naxfj6tbAFEZK51OXrLnzi13v/nOhRwLfTKkb/3/1ML1S20mAVO+Q0M2YKj6zCQXF+L0N7wmW+7UTOnmQJgMtIukyo5ko15+vqtl9tE7gsyEj+mGqak6z0X+LU+hPpI6Oqb8jXH1eMG2H62rXlOMnn03XAJUriT/+kCYcDrD6LaqihigHWia8yxfxGKQ29ari6RcSHZdvf5HBsfKVR3d1W2A4ygLPD03UbVTNX2cYOWj0J1URO4G3r+Q5wuR9BQyUZXUFGCMWvnYhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 666,
+   "completion_tokens": 337,
+   "total_tokens": 1003,
+   "cost": 0.009404,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009404,
+    "upstream_inference_prompt_cost": 0.002664,
+    "upstream_inference_completions_cost": 0.00674
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 177,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "recipe-for-disaster-2012",
+  "title": "Recipe for Disaster",
+  "artist": "Masha and the Bear",
+  "year": 2012,
+  "label": "Masha and the Bear - Recipe for Disaster (2012)",
+  "hex": "#73624A",
+  "rgb": [
+    115,
+    98,
+    74
+  ],
+  "frames_sampled": 403,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "qBp1rCz_yQU",
+    "youtube_title": "Masha and The Bear \ud83c\udf89 NEW EPISODE \ud83d\udc69\u200d\ud83c\udf73 Recipe For Disaster \ud83c\udf72 (Episode 17)",
+    "channel": "Masha and The Bear",
+    "via": "yt-dlp"
+  }
+}

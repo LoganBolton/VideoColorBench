@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907101-vVZa1khoWANkKZWFnTGy",
+  "object": "chat.completion",
+  "created": 1790907101,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Carnival of Souls (1962)**, based on the grayscale palette and the darker stretches near the climax.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLtGvGPAxuBp5vCMs6pO5Y0ULBwxSj34cdZQMKvZtokAkKaPj95uXoiqM9PurSH3Xd_yhObw3bQMuliLhij15jJDL6EuWm6Z6SZh8g-Q_LT6JOjcgEXHbfqd-bmddj5TSprBwdW6t8xTOryuO6msGPBimwkdf8AuGPBCtLVEqf8vOotSIXeDqM2KapwhAxopL5QWPyjVo_NozfGkL1XDNx0Zlpi-ODxlpUjcU4MzvVx5GuH36l1wO8GXHVZZTN-VLEKfPtw_OBhcxD51zD_dGW_yUHm2m4QMR9CI1MHu16MYNVeJp2zxDJvPZr8Vq-iq8VL-2zdhpF8xhBE8CHSBfJv3KlI4W1lOF4zHJKyoR8oBr5YEYZmXYalok-mn2ll0k86b5xg8LHbugT4Wdn20ez9UxYdTdfuyqz6E2INBDnZ0hdOeI63pNaGgt5bggFJ0APnamwKd-NQgLZOpNX7wmqvqCNy-E9RuSuChhqZ-So71D6AMJIKwzJIS1wHHEddqqU77PcST4QzI-5nevXq49MWT1zrX168mTcyox-eeks-21db8oqX0V9Is3Ic6HItxZBKWA9F5kzEJakKSUlQ1b3fG1gqND6oeopxVYp_R7ls3gBAoj9N3nDq6abIXM_cYnl9Ny9jMAHNn94uCEOIXEAjPJppoMEELT3hF_iQfJCbJRyETycMLoHLxUAaagmwAv30hY_rDYIj_GNyIwgk0sDwtauyxHdJhy_Je_VfxYAJ_Racd5lllXGDz0G_MfCKwqbyIvkT5ArVVDE3KVI5BL5Xus_1X8jZA7RzpojjQ-hYzxbjeqK3hx7KzfZhopECeN0sNkkqbI4Z6kkEsO7GcwMyUhXyIsgfOV46itN_QjDY3az8WuaX801la37YJgFjlN79eLtFVHWTgXyZ5G1JFD61x99txpGE7UjACW4UbwRDWrakzld8ACKo1VKVoD-vlwVZ_YAzNb-MwkEXQnm_ll7kaaRVIKGYwbcV-z9p6xwTGm1bA7z6CZ3lk1rfEh3FJlFHFd2iIbh5QjRoW2LU-MJ43K-h3TdZukIFLCp8nxi_Wb52UkSv9-NvHWt9N8qdHH3mwu9SzEBDYI8ivmpQlp1BkGX9cCIxs4pjmpqdKWeLk1IxSE9aL9lHAQCgw5W0ifLeEL3LTwGPIQCd9azmoIUVbNblKpWE5FOnE_I814hIyewcVWDDwn9foLff-8MfXLM97dcOF5Nqzb5wFAB7Gqa3--5r8p8Tpn-wFOPhErxhiSi_zDBj2yWyFRxlCA1856fyo8_QedVoqaRkSRY1gT0lnsiklrWikSSJwjboFwI1-lTrbIa-vvnlYm06O1jZVFOv4pX9ufnsc2sbL2JG9H9DYLrOKd696fVvf070f2K4HEJrXLWG6N40wuHyzICMkaes-cfWDiw2VgK7JAUgd-TTNnj1HY2fLICr1mhaYv8SjhoeZmlitnNsRaxJQXTj0IrwTcOXtwvi6yMJOsQNilcAI8dpcI42NVKmBqvW3DhJsT3b9pOy-zsl_smhGyhdoXeEoRDBGYVgG6Wy-33AnV8z6J9PXRpEEZBWvVXVLyKblx2PSTnEGHkoy5OnzjDdV-ZWX410ptI6VHOtvbLn8Zz3IjgQdd0NbheizkTParooGBKE7YzeSuJzJ8qgOp24ZvVBFiOqOw6o7n6DrzX6p3Z6-m5AIWAiohQ8MNCN2rK8Vw133zDIl_Z4NwYSPAKQ-ILhlY5P8vqJQdFxfsiTs87hIxcNYFCZs3Fxox84NBpcutfm9nB8Uwkq6zj8xy9BxyYnk9NWtvIs0PTw3E_c-ffCJ6n99CG2P16y7se6LEQFSzMtwAHQZ1x23BqiaDrFskZ-cYWIr8kvJL5I6-e_2vFyrF0M6ooworOoZJt9BCdepaRUhTUPpGojIcCe1lsZtzzAgWqQSzrxX1xETvI1kJv4uw7uJP0UOtDtc8UX2V6oHkdvTdUgQ_px3Khga6ejP8oqphyGiChsHPmI22V6v8RTDMDaifSHDwBTdxoii958IiOoawPmEWOGnleCdoodyCcUNwUB7kLQSV8opZVzxd31FW49erTuCHOigSBaAkITuc9nurDdqTWBymUyEjJ6g2t8pwaavlTop3A2_TAx_u8YwvHwSArQUEHy0JggBEbp-jgs_lVYT9nAiJMME31Vsi88lsJK85_4l1AoPp5nDytko__UD7vqIx6Fs1Lx5eSoLV-qwz_nUI0tV2JpzUXmd0ic5RBy1cftyMHpYKf12hEvVJULqJWVSynXqBG8M6-VU8lRtxntHJTfn03sqFJvtqwl_VsH8hQRYgB07qnjUOZTHhAOgJi1WKO_0qCNkNTjqXhcXOwRJsvsM6xrUaTh80Ok0tu9okUjxvOU4RLqs_ep9Evsr2nnjLH8w2Q5TjMkixjCHQtvcyfRZ2dOYxEgzGkduyUZPZ6p1uxD9o9tPfehEUhmHJQm49B97cHIlylqtFwo41kWCj60RRgxg1O05KK1QDK_JSqBDlkldfcQhiaPqxvK6F77fFhx9-A-yl874pVm0DEZ7jbOr-gQB2Am_DmbWsuhYA94nxD2y0ckJwCxRrdfFbDUTLYcyC9Yb7_Vb3f45KCIaE585BJoduZpiJwixVsp6h9XCxTGDl-DuejB_VS5rmxlaMpxWRCUX3uuxj6U-JM-zIkn3sPkS9m7r06tM65cHYrfN0_8PYWLJ1gs_9j5QcS0HWX4KHFYv4C37AjyfH_E0tBOIk4fzEBL6ywQqZNoBvaJ2YsttWxk0i20KaVMEv06kTXWxmYtqbHGDkf64L-1zSBkGIcNc8EPjkEggXoa1aXlDP2Ynk1fBKMhjWH2JTcQc5MASXO7dFI6DTLCNo0FPas9ABuWFZ2gT64OeGDZOGMkT6glyLEGj4QXac8_ySwIsOhGSW90mqH5dIySEIwkd1Fh3DIUQSbZDmAb2e48ktKWQAp9nlRDHVvSyNYC8MlsI23JhHqf4XHrPKKIt3RHqMfLWB5tnFqyAL6qS-ZDC4y8-60MRtFjPiJP8s50hBINpNDUE0rKvyS3KODQ7K87SOhU7IOeBSziHl-p8GmPAhLswZiRkD3YoX4bQ7aYaVuBtz-A3uxDPHuo0mijJZFMknoSFzQNYsGWi1C2cRVGRQ-d7WGq9r-txXBmHQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03f071f9888bae7d016abf12e3c57c87d18ca64b0b2f6b17bc",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 446,
+   "completion_tokens": 338,
+   "total_tokens": 784,
+   "cost": 0.004272,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004272,
+    "upstream_inference_prompt_cost": 0.000892,
+    "upstream_inference_completions_cost": 0.00338
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 302,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

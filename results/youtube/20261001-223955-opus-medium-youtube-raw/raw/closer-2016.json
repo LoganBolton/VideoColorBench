@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894454-ZvDliES7mq02Ms0wqB2X",
+  "object": "chat.completion",
+  "created": 1790894454,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The palette here is mostly muted, desaturated blues, teals and grays, with occasional tan stripes, and it ends in black. That fits the dim, cool-toned room scenes of The Chainsmokers ft. Halsey \u2013 \"Closer\" better than the brighter or more colorful videos in the list. Clean Bandit's \"Rockabye\" was my other candidate, with its gritty grey-blue urban look, but I recall it having warmer and pinker scenes than this strip shows. This is a best guess from the overall color mood, not a confident match.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes of the two videos\u2014Closer leans into desaturated blue-teal and tan tones throughout, while Rockabye mixes warmer pink and gritty urban grays. Given the muted blue/gray/teal/tan scheme I'm matching, Closer fits better.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes of the two videos\u2014Closer leans into desaturated blue-teal and tan tones throughout, while Rockabye mixes warmer pink and gritty urban grays. Given the muted blue/gray/teal/tan scheme I'm matching, Closer fits better.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4QcKEAgSGAI4AUIIdGhpbmtpbmcSDFlxTTCel3MWiifpBBoMTl1qWTAkUX/OlZmDIjAF7Z5iUnS6T4+ty4/uml+fhwEOGAoqAei6EQn3u1NluHQqvAG6RREw/KtuiH9sJZAq/gZWmkgwf9HOq60DLyz9J2QlEPB9Q1av/UrXIRqpp2d2PmuYykgeSIBEF71IPvtowKz0FMSy9XYwWDnxnb3sO2+m6exdX62i7bm+iHx0Ox2G1LFqZg/uzMcaDNsXxBO8Uj37AsUbnb8jgnmQeMM8+0HO+uc80wrDsMXcqXafDRDtX2tydLFrqp9l28dVQeEXdnpm4AmGSZErzSCaRmYOvWbZmx3uubaoUnyVJF7fVnMj4xbnsrGAKq3gpGdEccWsKXAup1R/fWx8E/wMfBU43lYavEARzocHxgZSOVBtpi0CAJj3dCKPpppVKrAwJRlr8mQyMsXiujvqVRLS2ciFaQ4U0BeiJMHL+baKKPA0u/PQl+8qAiMkuMaw3dVK4jV/HghQhrwry9wwF4jO9/As0zSTls9ic+QyVLTEHSsdSO9KCF9bDCUPWNpGtjYh4HkInWog4WeGN6EZIpTlB7+p+mjipFck97DM3iGffrVMrBYfpv+7hZ9Y8s4UH+2+Ew3Nf0hGPZupbSvw6bYLgKdNcNzckk3IG2SSHL1+3H917nC4r2K7Gh47ghGe/ip/QApjjfHv1PoRgAN/su7sXqhEi1NUMxstM2LNmlDdiSynCmEcGbnadaVBRZ3/DO5wXw0C0rqQ0VstTZBa6EXWPJiXGXbi7syDwQHOOhuGqZmPW/QAEKOBvxXeCgGdN+e/7l2E+N/4+Fq7TkVIq7O6Ht1YjSO1ZuEsoU4TfmcD3birBSxZ8RNkkhMWmg5xVJ9BvDd8wrqKNM7EdaYrDuIRG5MjiLBbEHLiF6coT0P84MXTdsurn7QUh0Sn3vq+k2tT+nGUhfaFYgrJNBGehXxlCcIaeqiHjODcrFtzAUmcOmMOXs8GGL/UICP1RMKZhKzZX9r5ExL6ysEoEEqayJtygTrqWWuMNharriAanWw4XONxKZ0S5RoRgPevmnOYGvaWnn9FhVo+o9twVak4IBBk6cr3r/+GuH/hYwaK/MVKYBwT8MR10Z7e2kzEkPxy78M8GMiIUskMGlavMVRux0AyD6dSBylcSRYZ6PlLzbLy235RjFL7cqW5Oo1p0MdU/7Lh7uoAMBPPbW9/Nc+oh+FwcnsAFMJS9mvGZPfowgAMQolT+m/8kORwU2RFz80vCdwvwVO0LwrZ6LLM360wdTmKk2SH8xNAl1dYPbAYfRPpnWtoraAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 643,
+   "completion_tokens": 350,
+   "total_tokens": 993,
+   "cost": 0.009572,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009572,
+    "upstream_inference_prompt_cost": 0.002572,
+    "upstream_inference_completions_cost": 0.007
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 167,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

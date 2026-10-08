@@ -1,0 +1,19 @@
+{
+  "slug": "battleship-potemkin-1925",
+  "title": "Battleship Potemkin",
+  "year": 1925,
+  "hex": "#393939",
+  "rgb": [
+    57,
+    57,
+    57
+  ],
+  "frames_sampled": 4370,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "BattleshipPotemkin",
+    "url": "https://archive.org/download/BattleshipPotemkin/Battleship_Potemkin_512kb.mp4"
+  },
+  "artist": null,
+  "label": "Battleship Potemkin (1925)"
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "yes-yes-vegetables-song-2018",
+  "title": "Yes Yes Vegetables Song",
+  "artist": "CoComelon",
+  "year": 2018,
+  "label": "CoComelon - Yes Yes Vegetables Song (2018)",
+  "hex": "#B3A17C",
+  "rgb": [
+    179,
+    161,
+    124
+  ],
+  "frames_sampled": 247,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ohHYABXMqUQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

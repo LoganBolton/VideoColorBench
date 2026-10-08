@@ -1,0 +1,21 @@
+{
+  "slug": "baby-shark-dance-2016",
+  "title": "Baby Shark Dance",
+  "artist": "Pinkfong",
+  "year": 2016,
+  "label": "Pinkfong - Baby Shark Dance (2016)",
+  "hex": "#988988",
+  "rgb": [
+    152,
+    137,
+    136
+  ],
+  "frames_sampled": 136,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "XqZsoesa55w",
+    "youtube_title": "Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children",
+    "channel": "Baby Shark - Pinkfong Kids\u2019 Songs & Stories",
+    "via": "yt-dlp"
+  }
+}

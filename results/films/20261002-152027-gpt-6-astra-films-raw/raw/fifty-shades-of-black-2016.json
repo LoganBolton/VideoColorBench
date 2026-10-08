@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954450-X6lctXqtakNrRp1LMG6e",
+  "object": "chat.completion",
+  "created": 1790954450,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**, given the predominantly dark, muted palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vX-qqPOeELbXu7QD_-gpeteuksD_GaznvihfBWVIjPA8ATc47x_YCYcx2HtrxJ08mPa_pXXIY6qSmzlcy6ixJWStFHj5PjiVDTfCkJTZh3JJnPKjICriwJ7IwsQdJeFfviFWQ-vi45SJPmhe8CmBy9LhzJrrH3A8mwrgNpl07pocKAyUv3mK3uL-pppw-5DY8nJm_CCpaoBKSCS4ioRSLtOYusFPvkK_NyxdNmdBHZxpGQFHef7PMG8s_IFmQcp1xR9lXMcMEYcKVeDfoUIvqvPDkeFFj-nNaqVjvDJcxOWr9yGkP56Dd2FsDBuwAsg8zeFne4_E6UB01o8k8meR_HdAUOln9ul6zhK8t2a2Wf_VABFGvulnpXrS_21EpQ-gbRGZajd65BFMDQf7mBk6ZWXykmzxV70AUrHjp9-kGq1D6-uDfbMABT1eDwUPQ4Wi3Iw3i3wrOtXlixoHtz-MkMNH1ORtbmcUKpadynq9d-d791hKcxVvehVpOXm7_QWPaZI5hr039dqM81WLpj4qBYqVsaC7W_KRZvOq_ywc93NZc2UaaBPe1R7iA9vEScGqsXB6vItGZJhkKM8ZcouOsa5859XyT8jFXPUfBw18r5GmpE6yWL5xzypbs6ayenHnp0DFQbkVsTe-FQ6bRgUpZ-4ee_s0Kb7wa-mWUCnw3DbeRsEVDkVKXX4Qz01RZAxwMnmsy3eNDx0uj-Xxed04NbRmmSbhrLcA08pXkX9f5Harl1v5pnRGoibxicaE3aI-5ded2ukxZTMFfIRjpNf0cQciXbEw4l4O4d7oLT5vRuZun5oWc6aidMOG3fsHNazwYRCjjQDVBoHOPbJP9SDeHUCC2jRTlLspwWXndkHJZoW1-bPfK36kl-_nFh6Ef_x5mlefPgbLx7VOvDM3s9OLpOuJhUhQDBBFXbAMRhAR9WcS7P5h_ohWEHRr31eY2Y0Hb4LoMWotWKQ62PTgN_TxPSF9DHGIOPmWfAU2tvFY6A81GvcJqzTkfAIkPFLtSJAfu3KM6Sgv4VIMz7UIoOyVfm3WEdQsQTdM4-iVdfT-SIXCWsh0MYU_raUrArO_JBbo6_1KQZfl3b52cB7jd-NS5BMkhoL2W3D3aMkCIvGa4RPPJYP6S31UHTqcBE4DrGeciVzoTI7aQ64Dp9JQmszF9R8flnRi9X6V_pgDCQXAm4F_K6cKcyjaUOuugtARTjTRMmQN_OZOaCI12fycgQ9w4kcjAc6oWAYCFpp_-AyZOAI0aNTc8ERDf1EJQ36jFTFf8y7yH65grLxL5GtkYuxE19yXxmOFw66Huzt-_s3HI5rj66zqR9CD9wKkGKpoi4F2FSZ8UykJkJ-fHGqy08EGdwIb5ne9oTcOTFpnyPCRvgMrXCEAODVEy7yZIfOLbwDsKQPyDtNocaHmNzz9p6503zwrnvVmASL2XHspfs8JX1iCkYVpFzbwzWxodoga8-ICa_nnGuYzFPPjDuuuBFAl3gp_zmVDNVa9voDWb8Z_EiN2yChJaKLoMdgnJtjZ4BEvwLrKCJ4kSI1PgJcipZ8_xDJcLynIkOCrZJHra_UpP8S0T4BgtINZKdpkuAmAWoS02VyScMN9dX97zVfI1rwIS6CaVaEf3KtzQUTAyFCG8ukbbzLQPeeYjhVDNS3u7h_yvtw_KQxP0WGmee3IOCyUU7qADGcuzTDVJqyv_XjTlJtglmSJ75JX8xzbLXkK7vH1JllfgbsRSq4RfkvwR2OCbI45nnuhOJNQ55ODBJMxhdBEuTwy4CFP9BLmHmYBdp2mRCqh5dcT0zJdkzHCISLSuH6IibgLiw_q1FtuBZmS0kqxtbtT3JPe1TF-sr551xPGi7Y9Et114-luSreaB22JYxZw2L4KplS7LkgJY69nXdvYshKjQXPRVl8hpiZxHglSoSpjAVpJan4JIPYP5Clg3OerEnBbPXTysy3kwoY0pEfA8Yzo2NopiC4WSJGqni0kOv0ee9hfH3ivU3KCrlX85_QA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_095e6a475f93304e016abfcbd40f3487d1be8cd77b63fae829",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 142,
+   "total_tokens": 576,
+   "cost": 0.01144,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01144,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.0071
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 110,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

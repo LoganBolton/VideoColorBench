@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894451-n1ci4UVbIDXOSGjbaX0Q",
+  "object": "chat.completion",
+  "created": 1790894451,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The video is mostly a run of distinct, highly saturated solid-colour blocks in quick succession: blue, brown, blue, yellow, pink, purple, red, green, purple, then brown. That fits a video built from separate scenes, each on its own full-colour background. ChuChu TV's Phonics Song with Two Words is like that, with a different background for each letter's segment. The muted, greyish stripes at the end could be an outro.\n\nThe fit isn't exact, though. There are only about 15 bright segments, fewer than the 26 you'd expect for the full alphabet. The Miroshka TV egg video was the main alternative, but a farm setting would likely give more green and brown throughout.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "These color stripes - blue, brown, blue, yellow, pink, purple, red, green, purple, brown - remind me of a colorful eggs farm video, or possibly the ChuChu TV Phonics Song where each letter segment has its own colored background. That phonics video would have 26 segments though, and here I'm only seeing around fifteen before something changes.\n\nThe grayish tones at the end could be an outro section. Given how strongly the solid color stripes suggest the phonics format, I'll go with that guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "These color stripes - blue, brown, blue, yellow, pink, purple, red, green, purple, brown - remind me of a colorful eggs farm video, or possibly the ChuChu TV Phonics Song where each letter segment has its own colored background. That phonics video would have 26 segments though, and here I'm only seeing around fifteen before something changes.\n\nThe grayish tones at the end could be an outro section. Given how strongly the solid color stripes suggest the phonics format, I'll go with that guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSkQoKEAgSGAI4AUIIdGhpbmtpbmcSDFUcCNr2GJobMqOfGhoMK64dMS79dmXxly1OIjDrrdgkfAKFhX7JP60Gf+rJ8GwkX7W1wU2NtESDh7VBqs8UMWPt6mcKnWuPw1UcpcUqrgljrdE8GHvlOuiNnAcyS33585JjlXwT7nHMifEYk8L026jh64QdxcWUWlXCtAD2kFDQrlm7zbdZHEglwHTuWh8e8GWmJSR732r7eljcE0XzQW67fP9ANI2IKZbZUTbr5tN/fOVfx1mrvHXvXQjCVumvG6bduBMu2xPABveXvhEIESdAv7AOC3RFIarRXoQ/U/ujPOyUxp2R8P/sO3Sk5YXCbN6dgqApdgAlyf8Tp8XbJnmd3o/0z9IIXVEcdzB6/cY09T9t169g+WvU7s9/bg9Xin/KQPb591cRB8xscH5yV4i++2+iQRN7KJSvdpkslRrgyc9P1+vIRMUTy7/cp5p1T5ko36QK8SSlcBfTj1rkV/2ay6bNvmuXSA71fvSxKSmgRypfg3dBVsBNs7zPUoJ+Ja/QnpG3tlHm4CL8CbE1MvfePpRJ0izehSwPCXllOZDSOq7JEMk7ReMcARa+is0R4+QNR95o4hfyirKT/zytnXjPOZkv+gI9IsdoWNKtuGdbC1mZu8qJ3+2AWjLuGNmd7sgWU573dXtIWy/9x1kTGeu8uGzQAOv4rJDTc9wRfDksyfImvy0frUIOMJo7AZk6kVv97Nw9yHssvK4OOO8Dc3GPX6G6Vj/yzbfrtdxKFRRltbHs5mKNPlYC574wTwdFPP72S7UwYaWPd4CwP2wD1oX4e4A+L02lJ9Ed35QzHk5wUDKJcN5/J6bMhru3huhL4rs5uGkrAp1lc3eIDuwwYpPLxrVgA0IutIZVklJ4JHthWb1YFDTB5EC/pxFh0KFieYvCVQ7Hizd+xR5oCkXnMSWAbW+bW611Q0DUhtR4jAeNoXdCtSFeoxHtVUPUrjc4P7UyGpFvP3Kt9LvwctyfvAA4f7bZHKiLMvQndwGSg3mU851ELb1CQGVyrGvo9nmn3/Of2ogsCyT/rx0i+dfJ8Cac/ZVBcF/NhNl7p74VCt/fwhYsPG46j8pOFo3JhvRQVyPuKz5rGDeoLVPI3FMpr/3kemARdAon6xrjUZJcX5MJi2FSGtByvob6uDOxQ000/dYBZW0qnQ4MaWmLip6TtU1hDrMlS1w0Ap7PIuSvkvD0SzKyIFIi9afwDzCq8bOePrLYCqM5lVVCxu3wtPAs1t9gFHaUthigVBbh7+mBj2WNWhErbNTf5CTVHlySAwQ+S15zcm1iDKU+wmwxA/JBw/XJA/iR5omZ1KvCPltkUnG4hafLuYK8Ilg2IclceoiVfZC7Y+cxSGYCcKcCL7CdqsGiDv8bHLbdp0xz13Y9C+eAcRBf++wSzYn8wuKxPCQRBTR89MwLajjynuHeHo/Okjz7Rk8/B/dQxF6Fo1Tj8Mq0bWVVBUammBGX/pffJjtWGPoaJ5WxNBHC/8hy5jknRqJRlKPYTz9miKgs1MPQxEhwMNpGSB/Jo/TnqO93qruw53d/9aXAFzP0468NXCufl7+0FHalSWtQNy1BSCuj+q02fiZ6ft1p8exFVQ0Ogi8sIHXLR+ZRMe/eO7SkhKLFhqpNrKgXfnTA5ODtJN3PoAMFrROBK8iKofnb8V+2NqAPWLB1UOVjWN/3H0G4ju705iywQQnzRwreX5daB+DuGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 497,
+   "total_tokens": 1154,
+   "cost": 0.012568,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012568,
+    "upstream_inference_prompt_cost": 0.002628,
+    "upstream_inference_completions_cost": 0.00994
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 261,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

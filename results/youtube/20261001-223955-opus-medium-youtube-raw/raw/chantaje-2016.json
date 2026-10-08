@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894452-pIJ6eFjDN1hDlQYlgbXn",
+  "object": "chat.completion",
+  "created": 1790894452,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is mostly muted and desaturated: grays, browns, dark greens, and some deep red sections. That rules out the brightly colored videos like Despacito, Con Calma, Taki Taki, Sin Pijama, Mayores and Calma. Of the darker, moodier options, I think Chantaje fits best, because I recall that video having a gritty, desaturated look with greenish bar scenes and red accents. Criminal is the main alternative, but I remember it as warmer and more orange-gold. This is a best guess from memory rather than a confident match.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm thinking through the dominant color palettes of each music video to build a mental movie barcode \u2014 Criminal's dark red heist tones, Taki Taki's vibrancy, Despacito and Con Calma's brightness, Sin Pijama's pink, and Chantaje's darker bar setting with muted reds.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the dominant color palettes of each music video to build a mental movie barcode \u2014 Criminal's dark red heist tones, Taki Taki's vibrancy, Despacito and Con Calma's brightness, Sin Pijama's pink, and Chantaje's darker bar setting with muted reds.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 672,
+   "completion_tokens": 594,
+   "total_tokens": 1266,
+   "cost": 0.014568,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014568,
+    "upstream_inference_prompt_cost": 0.002688,
+    "upstream_inference_completions_cost": 0.01188
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 405,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

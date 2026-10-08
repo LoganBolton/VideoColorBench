@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894280-lOZ8rNZLcm36I78eRZae",
+  "object": "chat.completion",
+  "created": 1790894280,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - Just the Way You Are (2010), based on the predominantly warm, sepia-toned colors.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Choosing color palettes**\n\nI'm looking at the dark horse clip and noting the warm sands and the strong teal colors in the video. The side-to-side gym and locker room scenes are vibrant with shades like amber pink and sauna gold. I notice the stripe lacks bright pink but could use gray and brown in music video scenes. There's a connection to Bruno's video with warm tones and the blue lighting; I think I prefer palette I for its color choices!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing color palettes**\n\nI'm looking at the dark horse clip and noting the warm sands and the strong teal colors in the video. The side-to-side gym and locker room scenes are vibrant with shades like amber pink and sauna gold. I notice the stripe lacks bright pink but could use gray and brown in music video scenes. There's a connection to Bruno's video with warm tones and the blue lighting; I think I prefer palette I for its color choices!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDYVeu16P87ZqI01C5_0Nnqikvak53bRUl2i8t9AbmZA7SG-pDiUVFR53OsI0ddbDiZusStGiMfPtHRIoWcXsONDEaTu12qZuvJ2580dwHr4BCGx3Ouk9phfo-6Bijm_Q6LXAgH4nLJcRO4-M8knvWIJPv91tdzLGrTv78dKs--yALX5TptGN3Fkj3JJuo-0ezGpi1oZDZHrVrPPxJryg5psMmdsxVsCESxbAEQ9jvsF-ox6SbIeW65k2xd0tEQT0Xa74VNjyWFz1u6IKBvWsMWKy9uJYMZdE6d0lqPUiTqCEWqlHLqol4um-VYlrCfKWgKSh4TXfwwQy2FUDwFlothCCzO-s5PkqO0kYc7eJgVFfEmY5t5ZKS5rd3tLUgTJUszHvFVl-FYlcKm1R-ijrIUfnqOZyY-DusbR20DaFY6RTuqBUeGWKDKlr9GPgDinw-ToGuIG_zcS8opxpytq7Y2tSHCigUbwAMmFNSHPHvy00bK3dvijPFCAyMvX0TPPqjeqcjmjqUb62pwtvPZAcf4JEXOsNwwBV6YXcivlxpk3lnbVbQRvXucYbGecEPPawga_BUb0sWIYxja4aMGegw_p9lbtM4Z2o7qQUPfF3nO1csrrGsyrMG5nNsaIXALzwr3Soi_bJcxq2syY2nPSA9rjyYWiEAjnDgckuMW5PCDamKi7ShyuNB1-pX6WY8_Af0q9rO_JjJP_zpYrG8W-JNmuTehNBBBd6CwabkFxnjAEX8md5Sxh1J8Eyju3KGV57-JY-lSw6n-jHEBSPcggDAD3ExcAiQ-6vFETbSlQx0GUhWM5TRVYsmUiXus9BwNAZp8OL-OEkdDiAfcq6NvoneGA2C5jFQdNMuht9Ft_MH2iSYFBCjHYjFhcq9g0eWcV9Lg4EGSoQvUhWpwhd2hEUXUfTcxnaE6LvyoLGjr5YSo2nl_r5tAC0LhhjUjps5lOvj54FdhOJRecmfmX9hhjX49Zq7GqqmHIvWm29CRHSUmn2KZ7zk3JuTgLuwnGo6AItnnWsJ5bTUHoiHTPEVz6_3TLs2SmlF6hWAtnGZ6JouwD44SL-3Orqh-88MRLTilmHphXsQI7SHq_xWSou9qAU72auSiwmMLoIjl0LjOmaX-bIqXDUc-116vm7Oosm-vXvOTNtqqoyiJLQx4CoNxSDDXMSWhyuExLA0elSoCjXmJyKOwSHW9vOvRm-pIV_oNUm9-DEBsJPZ13g1EVKd7e0rQUOWmTmdjUkunFYHY4TUZU1SN_O0cSqdagRsz1a6Ua4rsXxbrSE86i76bagS17KEgHjSd1RTQvWQ1VrcD1haKtZuh3MJd1B_2E5UHfVdd4oogkB2z0-XdTW-sVbt1J7ZNsk-ZsvmYDalLGxV1FT5TSL-KMmFO9dLBP1xtbit3s39-Elyz8uA_MtRdqD9PkjgwameZs910MwNQLgANXEqTwLwh-Ozl77dbfNyyUUCKaE4p0_VP15a8wZipVyIju0__WVeMdyyRFMaOXM2zIjAfsPzVK2b-uc365YvguicL4q__2R6vjx7p0KAJOqLokOJ3i1FCQNIPI3Voc7bxS4CaZBy3Wp6Euwu17WIr3UpNUW8ukxpOgDlTU3VSY-N_JfVPfUXtk_uQcZcmCUr1SNpVKyWH2_HB5DkxfgwsFhbi6gQcNmlcJqCfRtu5mv52Rh_GT5ZUfyF4TZRG5RZ5Zr72fEXVQKzlyI64FMQXUqrwCrRo5xudl64aW6qIRV1qQ0ptlbjdpBoiGoVEUdLykqjv_wwQ84o8k_dmM92b65PMMaD3U43hvbA4np5LRc4T9JjCU4ZITcCLsgVGWFggcvXqhAyU1nojDChFnfmqHvB4Bdrf5VtBZzMF-QcMxk-pQMxH7RdoVafQnOzCoFF6v6ekBUiHjMUSdIT0ylDD-4k0w0vpMNQMH4nVlHNVrby6JvF6NZBHCPC7C0Cx6I2u29u-O-7pWZVakFp608Wl-vPHaqf0Y9wkT7o043nUlJu4A9-3juj2Yp8TrzpGXo481F6HkmPSXMYLdflGFlGE9Y2Lh7_h-bfa99rsKwHjSlLFUtTYcJqb77SnFCy1devviiBdP-coi79PxUGYu0iP6PllWsXeNpeZ5BPrThriXAwjo0fsYHsNZuane6lF810ZhXrisGZGjf9-0bXGcHDv3vlrwNGaD4eO8-yN9EEVGHs3s6t7wNjV5BF78JxKzqmACOAFXDlg8dtft2aLFi4zjZuwKLcsxsxu9BSCgb4cbYUhX-si0mptvr42EjR7tlkx8adRfy1P7PbwmBcysNh6sruQXcgf1VRr4qckijAej8Rda0Wbsv3T4hdN2qx1RoEKpvx_buo7zo4v41DhPe89M27juotVH70Uks9d_6InkX8PTcb-rgdLJTxcbqhY9VLeKJdpRMY_Xa88U0M7ZNXvKXMajNuAZ1U5xNtgK3YFEsWtwP_CZ7IGy6t4onW6CIU1nhCWbYIDrkHR21sGJZbEqWWBQMWwSpECeDZJbRXdgvhUdI1wPLKyB33jJAa6IqVjAwS9AEm7c57vIBZ8-N5y-dsgCgIsdkKm2tH2evNDN2K66bPL8Cp4h88Q7eLLAiNO2L71mu0RdDBzWE9ZtYvFIZnbbBdjtPoTq1ztm9l4gbu15vupADKSJIV51d_bHOh2taxEDW0rKOBf8eNUXmuldEmyH87UAnq3DCH3iLJiRJL-CfpNL8TIVE3TE7RBtOO6hRU6xolyCRq2313R-ODOW5CCE8J8CNRVy-Oet4tOG6KcVfUh6JEd7pTz3ICIogQpl4aPIjnMGwFSLHvVhT3asWrMV07rnbr5JprM3rNtE1bcphipFYEBf_TZEooYCL5ho0qRkRmbTIG4jtu_Oo8FGSGAKESYlTjwwVa4sb8NCCszKjP-BmDoGQo_3pIqjQ47hSYLIDe8NQ-I2-ruY_MqHZqqwRfy8WBfO6ayOKZBjjN2woaOS3R_lgY5j0P03RlbtmMXKiXxmsKFzTH1vimE9YFn0nxgM4I7H_RnhlwwvUIPdGJ8S7FxdpaLsKAypRSIyEEWuWgS2PU-AB_heEwLp4qUvmrgWlWjFkZWunwfhVdhS5yvpi9Is2LzSfwAXJKfJEYXxIm7OyNOR5BgsFXNLTRQoZ7cgAbkIN4_NCPQB7ikuVXP4vEyn0jyOMxYAcueyfl0YVFeHiW2ZMLtBtVaIfnGerz_yAqJB2rqSqn6BkBNyKNKn1bV0mDP9Us6kVnzZrmQj1QI24gZM2_-q_uO_CYhrlyIpbX2CzN5xvLYQOSlL-SkirXzjGHOXUlBAjTPbWewyGzft4Vd3QdIIyh263FHKauA2Ycy_2LM3wjS79JonHxww_Y3L9fDeaD66V9QTljowqzsdBaO4yk1yWLEI-kc6c-wfjLL_yOk_Gj3AXD1a-33rX6LbcClU3K7fTyHNvuWvITII0GlRoBxFMSPm1nr3y_sS87TeqUlUTZXikinibIsC6Fz4r-RaxtciPi33qJtXVT3TEgOLHj63Hhdz1t13x8wwa6SQo2ejoUzP8H__MxGvEnQ3BoQMTldAH6drBZekPAO8vB02OI_qWnwoWXuUhYXPEltx7hULCiOC94jKUDRwuQR_ZYMgGR26xR5FDuqTZUkhRIerLnQfhmMJ37mZh2tUOm_hPx5y6WHAFsMeiVKeWtwnurghzTHxAp84TuHHhHyg5NMgviP9wi780QTuZvAVhirrVtS9uLSXMj946RmGXZrh1El7HAiDh5edBC8wF6O5z4bXA4koCmt3CXG3tOKDu_oVKQamP5iwc27_w2mFDHqj-Fda_QqV495Vng0SV7wVJ8Spjg8RuVvMb-5yPNw-refiW8GF837S3oH3l8RFIQ42Jc_OHzF6nX2Jk9xtd7QKRA5FoCzjaWPcZdtF6phUnaTPXrAAmITV590JOMLNsXVhdDnz7GXdKWy_8nSwpebhYYk0tAexDhbvoCXPyZYVM7csGwbys-s9HKRX0ryMNBMskzo1cC0-WfCtlZTJZfB3DyU-XIlyigJ0qqas96h1yC9hy3GlZBGfb1VKmjH8NT-o5rv0u3iO48OYqimb_kaTC-Uy3rKmG_wv_Ovya7vnXb--i4M5eide_-7EV0hrUYqYCWBznqqyCti2BQabqc3_KvwA7fEINnTUEvgCIcSzza7P07cJH6vXXsTQwjTpjo3DsOShEgkl0V-3-xLhXcNZpyH1TCi8CTOytrxSWW1gJHn8ReM5zQDrx47-b6LR8Obj3T59SXqmb-hWRm3kEtNIL7RuT9u08JaHHB-eEiGIPq7-ZTXUYoLxFHl5aZhY0EurafNQxa77qE2S0d0C9G3uXMIwqzKns-2pC6Yu5GPpVEJ8UwnWXubqC8JDb_grqE6wjiuJcv5I7sBiCo4uacbkkwOiRHyk04wVKe5s9dz3PZddZ4_toNG6jP4XLfxLrQCSvqWp_wqODrcL9pgGkxDBGMs0ddoSG4VXb8PlphrW1NftBcID7PNMrwJUchwGQDzhtr4cUHhKaZb0qResirfvOI_KqlylhzyKDp8rf5C.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0389f9a4e2428218016abee0c9f08487d19272d97a8ac6358b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 494,
+   "completion_tokens": 536,
+   "total_tokens": 1030,
+   "cost": 0.006348,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006348,
+    "upstream_inference_prompt_cost": 0.000988,
+    "upstream_inference_completions_cost": 0.00536
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 499,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894424-5BsIi6yewFIYBCxwq0u3",
+  "object": "chat.completion",
+  "created": 1790894424,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess, based on the color palette rather than anything certain. The stripes are dark, muted olive greens and browns throughout. That fits the dim, cramped basement setting of OneRepublic's \"Counting Stars\" video.\n\nThe other likely candidates fit less well:\n- **Ed Sheeran's \"Perfect\"** would show bright white snowy scenes.\n- **Adele's \"Hello\"** tends toward warmer sepia and orange tones.\n- **The pop videos** (Shake It Off, Uptown Funk, Bad Romance and others) would produce much more colorful or brighter stripes.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Comparing the color palettes: Counting Stars has dark olive/brown basement tones, Hello leans sepia-orange, Perfect is snowy white. The muted olive-green and brown tones here point to Counting Stars.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palettes: Counting Stars has dark olive/brown basement tones, Hello leans sepia-orange, Perfect is snowy white. The muted olive-green and brown tones here point to Counting Stars.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSzwcKEAgSGAI4AUIIdGhpbmtpbmcSDI28hwuOsNb8uJ1WTBoMNSvfdKn3cgMgP7EnIjAzLcTN0kmJH222M474SW5Czp4f1r2p1tCsb5m4HvnJt/07x7+v94rijxtxj2XcuaUq7Aa/cwn4AblR2c0ppArWlo9czWP401K6Wl2ennVUWcCdvxSVbKsv4R/45v4uZAk6C7FaOGdwa843ZEMN87OHOPZF6sYcfF1dwc/rKWe7lYnwO6YMPrTGMF2Npgg2gIRzB/b51u73WugRMnd1srI9geg9xHAuu/cIbuoeCjNo8cMz+Mk3i4Pq6X5lC7Pg9YlOC+tkClrONVbq6ScIJGhuSDLNNYZjpEuztG4gk3+/zejwVXkAQiLUJRNW6+T/NA11rAIlf6rnIUf8xY9qLPLTheO5VwPD5u9uh6zuugfb68NkCI/0pCyYBxmQwCBPtvySJhHLC05jBOxoW8eRF+9tNXdcEUMAOT3NcjmlLriY8vUclHKi/B2PAw2jrK5kGImKIMshOOLTJtTrmqJD87A5SpYF+cUGTDtNrgpqNhbfaiZc8LW8KT7vrzqjD/2nmeRiiWzK4puRmDLAQZc5hhuzKBSoFFk30vEJWShXEC0xaKOdoXf0x679q4i1Rzr0fn2D7eUcSsBm9xPHf6PSR73TMcwCXiEWU1MWy3rdUouOAHdm1FRBoyffHH/wfQy2ino5TIhiFJBUY6oi6WTtuL61kbTcRk40XCHA6AVum+UjBYvgRZpg+61eUzNDLFgeg3vTAEkZsARKGSFHkSDAvmlngRIXpWcoOpfAGp7jcWLeCkxF06H+Fw6Uk+lK0yCp5/2kLOK4DM7itBCPAnN6u/XEAlyTU5+SlCdD+liGSkp6elRryTJLk9LWHPtpQwS7XM58wmZepbBRzlwjw/hcu0AAmyXErbOk5P3TJXzI/66I52YGTTXs4nNnVz2iG+kQTnnF7huga2Vx/VufLvEyrxdE77Xrv6++c3Q+HRTsWC/zv30n9Hk+IIMbNTBMAUfLFt+E2fM7gQiR/pqqIHZBwcf0AiPGgondwOlbng7EB26K7QRfki4QbTMv2eBcxjERWTIn1tzXRlZbhbLM8EPhPV2AgJhyBZc4S80HfBtokefF0sSoUoxNkU/4nA9jqbyjTZJh5E+xPWS1NovzCWu8c3CMI4Za3/g1IA6nNqphisVvSP8OyDSdd2RpF+zkr8NNpP2jKSJzVYauHTz+7fvohQSk0MuLdDfZIy6ReE2wPW7KOnUG8bUbOfHtMZ9I+2sG72KMVqN9fahM6q5bblnMlNMYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 618,
+   "completion_tokens": 352,
+   "total_tokens": 970,
+   "cost": 0.009512,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009512,
+    "upstream_inference_prompt_cost": 0.002472,
+    "upstream_inference_completions_cost": 0.00704
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 147,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

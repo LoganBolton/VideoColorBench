@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894433-ypf3v4TmiHF1dVDUfdot",
+  "object": "chat.completion",
+  "created": 1790894433,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The early brown and amber stripes suggest a desert or sandstone setting. The later mix of gold, teal and purple tones fits the Egyptian palette of Katy Perry's \"Dark Horse,\" and the black stripe at the end matches a fade-out. The many rapid colour changes also suit its fast-cut style. This is a judgement from the colour palette rather than a certain match; \"Swalla\" was the other plausible candidate, but its colours are generally more saturated and neon than these muted tones.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the dominant color palettes of these specific music videos\u2014Swalla with its pastel candy tones, That's What I Like with colorful animated backdrops, and All About That Bass opening on a pastel pink background\u2014to compare their visual styles.\n\nDark Horse stands out with its Egyptian gold, blue, and purple palette, opening on a sandy desert scene before transitioning to darker tones with teal and purple accents. Given the muted brownish and purple hues I'm seeing here, Dark Horse seems like the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the dominant color palettes of these specific music videos\u2014Swalla with its pastel candy tones, That's What I Like with colorful animated backdrops, and All About That Bass opening on a pastel pink background\u2014to compare their visual styles.\n\nDark Horse stands out with its Egyptian gold, blue, and purple palette, opening on a sandy desert scene before transitioning to darker tones with teal and purple accents. Given the muted brownish and purple hues I'm seeing here, Dark Horse seems like the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 641,
+   "completion_tokens": 583,
+   "total_tokens": 1224,
+   "cost": 0.014224,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014224,
+    "upstream_inference_prompt_cost": 0.002564,
+    "upstream_inference_completions_cost": 0.01166
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 416,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "the-eagle-has-landed-1976",
+  "title": "The Eagle Has Landed",
+  "artist": null,
+  "year": 1976,
+  "label": "The Eagle Has Landed (1976)",
+  "hex": "#373837",
+  "rgb": [
+    55,
+    56,
+    55
+  ],
+  "frames_sampled": 8132,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "vl9X53NdYwA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

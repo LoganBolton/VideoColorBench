@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894438-7i5D5ksylilWNcOAzSt6",
+  "object": "chat.completion",
+  "created": 1790894438,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The muted mauve and brown tones through most of the strip suggest dim indoor scenes, which could fit the motel-room setting of \"What Do You Mean?\". The sudden shift at the end to dark blue and teal with red streaks could match that video's closing party with coloured lights. \"Attention\" also has nightclub scenes, but I recall it opening in the club rather than ending there, which fits this pattern less well. This is a best guess from my memory of the videos, not a confirmed match.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted mauve/brown tones with a club ending to specific music videos \u2014 considering Charlie Puth's \"Attention,\" which opens in a club, and Justin Bieber's \"What Do You Mean?\" which starts in a dark motel room and closes with a party scene, checking which fits the color progression better.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted mauve/brown tones with a club ending to specific music videos \u2014 considering Charlie Puth's \"Attention,\" which opens in a club, and Justin Bieber's \"What Do You Mean?\" which starts in a dark motel room and closes with a party scene, checking which fits the color progression better.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/wkKEAgSGAI4AUIIdGhpbmtpbmcSDLA2lrRuOq1GE47IUBoMAGIsyPfYKPHFGDQhIjCL2eSGxw958tURSQwksjvo0ECJt7K9knLZPpB+bM9PNP82lINelK1V6U4FNWNoTjYqnAnIEH/1hUzSLYLnPwPeYmrm4/+4AGLRr0l9GI/0QmHniXLnMc4CrDnD4O/o7/B9ybXqYFLBEDK2s2dqZRHwrxrrp7XuR1uJcsyTOojrgVjnGigtBaQ+IsTaw8mNeaIJwqy/vvfs9923djU/jJiV+b0tVFdnujSnCm+W7OrV0Y3EJAwxcE4sgqIxJiTO/IdDYNYjsBA3ufQSI3ssdHYE+yV2sQ+veOHOJfbV3XejiQH8WH56eWQLURPPsWMTx8Mtv89SdXNAzebTPzCjtjMprvVYDKb+MAaIj9oRAMxUe359Udmqx+zI6g5TUTXPzLbvWUGQ0erXSRRAF+3ZpOpV4l0IegmyBt8ZKTfZOcbYgI9cOBFYCtiVd2shNlrPNjxnraaV8Vs9zGBZT0EGE/IjNoMK7Pp3F9Im2EJXPhBw9Dz+26C5qkFltDr3C/An3oc/DB0iWpRUFRBwTTaAyIcNpMMKdXlNSZtEHoVdpfO2/jFkuWwlmQ9k/1N8tCj6NTLxSxx4PrpiPHR1itVkLRbnMKmXCeugNHz8fMt9Ckhvlu24cIiWnM3mzKBxYgUTEUsUB5iSh0AHUC9o1YtOzNnhHzU7D3+qCyYbYrJ92xEiKNVBGZQKH7bCMhNzgGcfCb3zyCXCKgDZZpVn9TS1Fg6GZ1/gcSR2Ya+nJzPcwS9f3b6hQrDh5F4ZYP97D+sM6ZefqgvudQzMAQUeClmGoMISM1HPgXIsWZ5Hr+CQSptVOiwk7jLUDHmngyUgjElJY1aftNI17LiJkGENVBOhBfNAHxHb4TBL2xqgNHfuDLMeh7A4pi4RqJOGt/2nvEB4hS6dSCnVt2LKpnIwrpn9JwVjFhKgQJk+Lrh45XwbHnodzbR53pPbPXCtULre73doBA7ShjiIDeZ0aW1kZJG7ly8LJiDKbW1RoDwyRXf18jd9MsJkdROot9Y5c/R6Uye/y1KfTH1/j4NaLSNlWDiFZ/lLakWScUiXhkiktR2QvroL+ImX2h9zQZlp7vWKRecf4ZywCKzpz2Q38auJVzi4sqIEyNbO1Ze8MLMpaWrueB0GfSUM2/ZdlNBn1Jw5y2wextjhZQlp7l8MMMGxCcuw7hRmtg9E8rBs0XE9CayOTVxujmBhQ+ytjV6OVr2dTSJBzKfimlFhJZ67TwdryXzV8tZw1EB8q67Mi+F0w7LPha3yzoJE6iMgg2nPfGrgOcoKp+YenE/scLT1F4dCtH6eAua1Hvl54vv2hdTzBhAo14nJVwll0VjfqAG6hsqw/q3FZVucgYKvT9tRqxYEDXtGZLBDozV8+Fdx2rz4PVQVOg0RtrqTNOzW25ytDg7XjYtMo+loWQEE+UxQaGehms6vrg5Tizd9rO0/8RD2hMvbxRMmgd3NyAmzD+CjNkQ4T39H+F03wgjPimuJYP+fRQmw4uyZgQalMaKWNApb03UCLxItAfNvaSigsX/lifApW2aGvl3nOFMJMrQQZ7fgXVwK4GSeBJTz/xhxlsUaaqNcDEEQnXo/KHb0yOqc+Ga9AFmq4nfgd/5HKa12p36BUZg3ZgsRqbnRn7nGVY/uOb2w9DHHGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 617,
+   "completion_tokens": 412,
+   "total_tokens": 1029,
+   "cost": 0.010708,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010708,
+    "upstream_inference_prompt_cost": 0.002468,
+    "upstream_inference_completions_cost": 0.00824
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 251,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954679-IDRarYJNn0WrNmstjHI9",
+  "object": "chat.completion",
+  "created": 1790954679,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: G",
+     "refusal": null,
+     "reasoning": "**Selecting image barcodes**\n\nI need to choose the best image barcode with dark muted blues and browns. For the credits, I think the last 3% should be black, with the opening blues taking up the first 4%. The earthy greens will be in the middle, while snowy Transsiberian scenes will likely be brighter. I\u2019m considering movies like Trespass, which has very dark suits and nighttime settings, and before sleep which remains consistently dark and desaturated. I\u2019ll find what fits best!**Choosing the right visuals**\n\nI could go with \"Before the Devil,\" as its dark muted browns fit Lumet's cinematography nicely. I don't want to overanalyze this. The strong blues at the start remind me of \"Bad Lieutenant,\" especially that opening with the jail flood and the dark yet sunny New Orleans feel. I expect more variation here, but I think the image I'm leaning toward is extremely dark, similar to \"Trespass.\" I'll pick G!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Selecting image barcodes**\n\nI need to choose the best image barcode with dark muted blues and browns. For the credits, I think the last 3% should be black, with the opening blues taking up the first 4%. The earthy greens will be in the middle, while snowy Transsiberian scenes will likely be brighter. I\u2019m considering movies like Trespass, which has very dark suits and nighttime settings, and before sleep which remains consistently dark and desaturated. I\u2019ll find what fits best!**Choosing the right visuals**\n\nI could go with \"Before the Devil,\" as its dark muted browns fit Lumet's cinematography nicely. I don't want to overanalyze this. The strong blues at the start remind me of \"Bad Lieutenant,\" especially that opening with the jail flood and the dark yet sunny New Orleans feel. I expect more variation here, but I think the image I'm leaning toward is extremely dark, similar to \"Trespass.\" I'll pick G!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8zEw7dSR4M7xV1qyehFs1m0VXvlfqt7mIe9uxQJ5GWdlADkg-1tbCVIwQ_jVUpWhc1tRIQUNosAH33O1CjHLjArJ22n2u5bZEK5anh7Njdch17HlbXg5QnsIGkhZWVWRpQkkHbS2P8HVopptYOsLA3udx95K1nXf8-ksgtyF49gUOQ2nWYNbKR54gR-AVdnmIoXZeA-YKhBsaVA5YmuuORRc9XbdriZe3erihA6lsUp1YwZjJTJ6ampBlN503_NgSzncVQWnUxWuZK6kNsZnypCkjgDa7CLWIHxSeCCl7_4rGCI92213mcq1viDz_bhuSmJceIe2bThFOyiEVXMvU6aaFmCaZAzoOvHZobow9O1ylLCWKvOGxYsqNTCwlfUxESvt5-bLp38mwEVjarXCk5R7W4CctmycY-9BAYjFG3SMWLpd_iJaAvlrjgjAbwmTdkRXKDM3k7waDl9luQeKP3qOu2eI8yls6ylRmkwvc2uFe3AfqgFsmyZDXiVfYf3PVNzPMu-ncwofP8Wtn-O3BwEl4BCfqKeHq3Ab_R-2zdysw6xBIapQJpCSI7wP5Gqu-ZnFVp4Trs_vUgOGvc4UWnCAdIdqAhiCo9LL07706C4ryZgnTsP1sKaCrFEogxXnbCQHp6jduqwHk7uSKDLjL57sWaKVz8QqFLo6ZpAXLVSoMXfNCCvdMzdKSxGHIWMViO0rsHNafRk9TZ2KQgFWbHRhs-8KHhdqyFNJErskUM0bNoblQCpGLn5fIJuSZGSCTzBGcU19Esdweuqv3r0yfg-RmDv8LcPKkyiE7OYraW_u60ST6p1KOYHay46AtJejxadoJdZkm-Nvplgx7954jVGW_zBejc3uKc3CKG29OOCuako5Ze_S9XycDZvzM5Yc2-mntoE5SXvCW1HO__q8cNxLMIaTfOv38jHfYrNvwPpUsNRdPeAFi741qcMPwWiQ0aXNFjFmjesesJs1AvC6RUbYrVM5XRJXYZu9_yRUsRRZGeg6KyvhmicgGWRUnrsygRqGSXFj5bx5eQQdn-dpOpTvyE8mx2B5kqskbxsou_1w1VgYE09uE2yDt3sJDEJhnethQny2WEwUgZ1hcAkF5DrmAnz8Ut6sL8ujsVJaRC9mgI7rcTi6oyTfPf42z63Uti4eXJF6kTzJhj-yIR2gbrOUzgc1jWLogitMJt1sAMi5jf32lcaZFlG4eFU37CYXvGz_f3HLP2pItkTcKGTWpaq_5HsxsJrih6C2FW5nytng75L8CFyifiJyqukizUn0FILXG2b6emycdCwK_MoEnpuq5y73_LU6eMEZS_DBZo7sSe6j6RHpD3QHNmaQH9u0zbFmONPiGIqqIinRmh0P6rzDVL79MDZycS2g59tp45qIkeSQUARYX3u3Zoq02zzCIX5escN06twTiIY5e1l7nGISESyhRU39XdPhpNxOgWVTQtC9JgcF4WDyY_BBMxbOn9cOOuSeoCeqF-CyzrCCkjhj9vu2TP1HQdaBxWq49px9bNGU-ZpYhf80i_CoFeLB6LkpOang8nsfPaJEIfuiM7dP3mHog7r5R7sY3WYhA8qvo-zcSveSq7msbsqmxwnaQM3WlFItuVjnbxEeuLZNBzksRtrqUg2kUUELOZR8wMtFUOgyoQH4A5l9nxzIJzb7W4AZXK40RrF_kxhG-GhgUaMmR7b-dwae4ChuJ-wG7jIFSWc6WDnNAIfLDqJb4RDqsRe_HgK-nDgclqcrNNn95mYQS_QHg75vWeEsIZbW-8lqCFpfutrpFaG7J5dscnC4K8CyBmXZa8YcaKlh8AuwlOFyDP5MH-q1V3DEttZy4a7zuMVnqXFsvLX80ZvcD0eTZ0Smmk6pTHGriROkBO1ky15Sg1M7i8OsGuRalQn8ULVXol6WyrAHYmuG9B-bm_xJ0qdu5RSHH7JD6JMq0hWZPTc6lUvnzf41irbrXAGIdKa4G_dh5fZesgOH74x6MBxm3v8LktD7xqcgIPM08GFCZxap7oKYrksWEy-nIaEIbg4-mUtf7EgrZc10MvveL6d7zE7QqOpiKHrXvVwmz79Yxzxs_ojVlLf445dilOW1AQUIRZkFeo7deQ4nXptngxC08vRAEsTDUzdDls4kx9Oqo8ykkifmJbd4hlrt3F83bVDkGSchWKvA3UloGYLih9kbf6jRYufNO7fsW3VHRyPsGDu4EAz4B7VFk1l_S9JRCQ9f0vcFDUD220Ddq55Zf3cFqMDVtNWuRMNUMNP9fCUpqJxJXjAVRzL1ImKY3QHLrpekXNAQE-A95J1PX8cJJm0oMamGwzqh6ahk-_7Y4mhWN9xopLyTMIOTFpqLHfuJ7NCRwgvUgzlaeYMZBfmT87n3RBbGsCMvGDeMu-HVkQCY7x91O2q0kDgJKE0yJ1ld0bZjsYimu96EnWO_RoiJdvcluOxz3Ij5ojnmkr3SsnvBuMCY8s1QFKg2NJra9fJL5VVLO-g5jByL_WBxbJE5H3Ib-0J0aKT0kpl24OTwfA1NZ6gaFd-3eD_64uDdZ_YE4hXn1CMrwcZOHAUjq__QcThtX1nYcE-EeqrA-pAmIUr2d3KMjxAsg_NyBOonJx7u1_yA3z0rm_VhFyQlYJyVCrBBVGjWK8o5yxBdF9mdBNLWK5nuaY6cdWAOIQOsIM6IXXBUbw-Tdy0dZoSpy3sSrDzb7bWeOO7cpbGUMzV2EBf94baO4zmAd14dAMzAdJZV-JTNYljZBQ4zu7S3rHclI3SNlDLVK1oOSxtwDXJmrnDwWUhVyuyHRfJJBz3xDzZ2uvbBGCujVhjlMCoTYcmiTB7mWPAst8QWHtje-tFidWAiXjSVD4WJSzsuF9o0TeCmeAMfmxbI-_hF2Mt0MIbMfc0F19HMSHPImhv4W24UnRWpz9o8A-wy-XN646e-tOR1UpprjeYapZ6-JtQpqcUL0rjp7eq5_KtppseoPZZgMA5Eim52ve3s_eCAbLLQU09EyddZwDekXr9GyL6EoVrBPUWDZiMGZQloN3cIi-CAjwuFRB6gTdPUCQHlpiCaYVo4HDZHpk=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b92c3eb1efb1a45016abfccb902f487d1bff289d04c1c9e47",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 267,
+   "total_tokens": 703,
+   "cost": 0.01771,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01771,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.01335
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 258,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

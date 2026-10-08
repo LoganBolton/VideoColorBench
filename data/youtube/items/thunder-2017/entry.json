@@ -1,0 +1,21 @@
+{
+  "slug": "thunder-2017",
+  "title": "Thunder",
+  "artist": "Imagine Dragons",
+  "year": 2017,
+  "label": "Imagine Dragons - Thunder (2017)",
+  "hex": "#505050",
+  "rgb": [
+    80,
+    80,
+    80
+  ],
+  "frames_sampled": 204,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "fKopy74weus",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

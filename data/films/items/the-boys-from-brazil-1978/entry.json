@@ -1,0 +1,21 @@
+{
+  "slug": "the-boys-from-brazil-1978",
+  "title": "The Boys from Brazil",
+  "artist": null,
+  "year": 1978,
+  "label": "The Boys from Brazil (1978)",
+  "hex": "#48443B",
+  "rgb": [
+    72,
+    68,
+    59
+  ],
+  "frames_sampled": 7496,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "3UKWdOEEFMs",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

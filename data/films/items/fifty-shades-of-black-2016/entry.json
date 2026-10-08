@@ -1,0 +1,21 @@
+{
+  "slug": "fifty-shades-of-black-2016",
+  "title": "Fifty Shades of Black",
+  "artist": null,
+  "year": 2016,
+  "label": "Fifty Shades of Black (2016)",
+  "hex": "#2A2420",
+  "rgb": [
+    42,
+    36,
+    32
+  ],
+  "frames_sampled": 5529,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "5dxMLelP1xk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

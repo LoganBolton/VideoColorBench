@@ -1,0 +1,21 @@
+{
+  "slug": "fitzcarraldo-1982",
+  "title": "Fitzcarraldo",
+  "artist": null,
+  "year": 1982,
+  "label": "Fitzcarraldo (1982)",
+  "hex": "#525049",
+  "rgb": [
+    82,
+    80,
+    73
+  ],
+  "frames_sampled": 9435,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "niuhgDRZa3M",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907289-8tZOgGvxMo5Ataqa63CX",
+  "object": "chat.completion",
+  "created": 1790907289,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess based on the overall palette. The barcode is dark and muted almost all the way through, dominated by browns, near-blacks and dull earthy tones, with only occasional hints of blue and rust. That fits *eXistenZ* (1999), which has a famously drab, organic, brown-heavy look.\n\nThe other options fit less well:\n- **The Red Shoes and Black Narcissus** are vivid Technicolor films, so they would show strong reds and greens.\n- **Aguirre and Prospect** take place largely in forests and jungles, which would add more green.\n- **Charade, The Little Hours and Sliding Doors** are brighter and more colorful.\n- **American Animals and Capricorn One** have more varied palettes than this strip shows.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "Comparing color palettes across these films - Existenz leans brown and earthy with dark tones, while Red Shoes, Black Narcissus, and Charade are vivid and colorful, and Aguirre/Prospect lean green. Given the muted, dark aesthetic requested, Existenz fits best.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing color palettes across these films - Existenz leans brown and earthy with dark tones, while Red Shoes, Black Narcissus, and Charade are vivid and colorful, and Aguirre/Prospect lean green. Given the muted, dark aesthetic requested, Existenz fits best.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStQcKEAgSGAI4AUIIdGhpbmtpbmcSDNxrdlusG67DrfLYpBoM+C59HNtAjm9i1bceIjCYFxM6RGxyl9EafLv2Y5fmahpub8PzKdD8Dcex5yrLNeuV+kb58puFhXM2dz+/KA8q0gapmNo/o11odtSBNUbl8GjebsW7mwF133M0euteMNQZUlhiVGgQLUhTQNDWgIwIxRSHPzY1AD0roNmTIgvODCz0VB44jYda/Jgck48epMpAnt03uxx8NEwNnUW1ts+h4LPDYt4imtYOBd2kp6cQOxcTkaVgfvlus4TBEz82k3A2x5wLX6pOtD8sSZIqCMgr7wmZgPD0Blrvpm2IV8p/+zDHqN4JRzUidb+AIn2i6zRz9jb3BWHtvxcbC6v+nhNkKXjUujM7waA7NipB+lNiRA15gBiU92qWq4o/X/iZ97w0qZ0yzn5tFJQ/4O1L7XjtxXyLBldlF9QMGvAncQk8aeXYiHCR9pvnMKMvxZu++u+TVM0lccbuDwl8N62kUvLJ0OS8Ps0YCAoVotzc+SzvD5kNJacqo37gp4kIaq8ie5qakU7O2wJPwbmdUIJ3jslypV4SjtgHEkZDHtIK6YuKOt9Wg3KFrhFKwHTb6FYNJ6Gx1zESGPptyMs+ySI6OoKOlOt4epbATDRh5n/QQ/D5S/j3VRhDl07CUAmAU/Pv/juPn9vmtRzak+Ho7Hpjbani73ULPhDJxLLCR3z/N+nliIVZM62JMKT3GBRC8KMTwG4gmtWl+y/bvehNZ32oq4BU2vsft06QjiqCcuUGNbAfvztyiZCvlSOJR/IZ56rksGCImbp3vf/SmoifWcAClMealPJ8JciM5O0mexRRj0UpbZGzIt6i7tkDQakj6awIkfuX5vaRqTBXNbRxflTj9vF67w0zcN4qJqRcwKymIP9vMvXxlSaDVjMCTTuGqxkXsrgicxryQUh9dBRTyb/roScThRqob9lGUOr6EJfeUsBUkwWG0PJze0j+dyB44APNw/IHlFhWCMQBvFVn0Fy9/DSYWgvZ1DUDXqU1l0x9pfJeTvbhUw9VuuSsrd9teJCNTYbZ+PeoyoyfYUOhado3MaAtxCi32UbmsPwNXsRF68FBfz4PnrxSU7l5OztZoCFLStArLUVPIx6PaKUF83VK7blp8m7LGJimxWUr9cX6TgkE+z0k+14Tu4pk3EHySnrtpI5rQcF16oUT0nGif55GmpeaYN3jDAAsamrgLNrG/ydCV60bSVpK2dMkaK86x62TwN2RPWZsGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 520,
+   "completion_tokens": 396,
+   "total_tokens": 916,
+   "cost": 0.01,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01,
+    "upstream_inference_prompt_cost": 0.00208,
+    "upstream_inference_completions_cost": 0.00792
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 144,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

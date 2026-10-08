@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907168-YlbddZDDbyjRuw9CNVTZ",
+  "object": "chat.completion",
+  "created": 1790907168,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist (2006)*, given the predominantly dark, sepia-toned palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing barcode colors**\n\nI need to guess the color of the barcode, which seems to be mainly muted brown and dark gray with a few cyan separators. It gives off a strong sepia illusion. Other colors might include a vibrant forest palette of golds and blues, but that's less relevant. The sequence starts with brown, moves to cyan, transitions to darker hues, and ends with black. The overall aesthetic seems to fit a theatrical brown theme, so I need to provide a concise answer.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing barcode colors**\n\nI need to guess the color of the barcode, which seems to be mainly muted brown and dark gray with a few cyan separators. It gives off a strong sepia illusion. Other colors might include a vibrant forest palette of golds and blues, but that's less relevant. The sequence starts with brown, moves to cyan, transitions to darker hues, and ends with black. The overall aesthetic seems to fit a theatrical brown theme, so I need to provide a concise answer.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMpPf9ZLkvVYcdRbb2nqEWzGyg-m39VtiH0HryGB2Hjt3HMZUu8tgKOgfVIpERaRKON-ORtTwydb9MJtIVLO2oHTyKwxcua6BU_qCAgABVPaTf-XU6eaGIZmwL8ZdnDvqEwyT_37WYjCPoF7cp_iIz0yInXEGdloCaxTJ56QO-o3Tmf_DtMZZATl2hmXAL7OSAo-lP7XVTdG-oCFmpEEkSaImEZ5g_sTPthkuSGAzBvxMxzhzkycPCX06x6P8FTpZPwxso5ZrK78TokqbvpN-hSNfwwYu24TowiZ0olwf6z877zIOT83C9FWlr7ooOJdp7H-Bh9w7bHztIjwTn5K-dKb2jM3PnBZMTBN6koO1UkNp-cPaD0rha8cIjsc5UzSnkPK5bm6KaKALeTDJ2V_lLDisa1GohhP6xrGKnt0D3BHwtdoFED5w_IEmwt8SmIoN1PQLINbs-2M-ZBvKx1c9mTj82IakygNy8pMWUFDoQAK1AZxlB389DULxWVJt3SR_jOW99ow-13g_mlmKcltzudKOjRlXg2y3VkLKKme8mkusiH_N4deZr028As8MzMm0xQzERyFM3FUYozejVb9lbLPfgZvviaNlApvUHSn_jdu30Itm0GlXL9p_3qn52i8CJ3sFJ0GseD0fqJi7qDnmuted4avAV2iJDo1wzKXINxQ9bGx3jBiizUqc-SP9ZqooKlK5dME5gioXO0WdMVPsoeEVkzdb2nDfeKqOlMwPPMa2TqoedVY1iHpd_hOl5kin0vx-9f7fP7n6tM7X2gjAa7aRdYoGoxnuMoIoHiOlNYSxz3WL4CRDc3JBJR25CYZb7TXfV1pQwh7YQyas9zptVIy3VYaFjOR7fu5iYDMLTpY0YDVzb9YIumknOb7nRxol2f3gNSk4frPXq7UnDMYH7o7gf8hHI6y0oxNAZA8FqYB59jeUg07e7hk4CoYguYS6seUAPeUWoFkNaAl2mQMA-OemKvXqf1kdvuzuyPi8Xc7pamQ5dfF4klyRuU-k5x-Fe_9YAjgFtYYfWapnpvr_Uxop29fSXGzVhAXXYNCf5zjXNlszmlPFAH1BHx50d0aNApgmi4nzFhx5O0Y5QcAuBrKYZA5NU95fwF-hMDvXWoVaR_awau_QRW73k58DMF4nuPARxLk0-15-t8ZZM91lGuFl4oBYDl1gLJ0AXR1VEEiAu0LdkGeL0sb8gCoO58gpasYIpD7pm5fBYOz5fDLoAUIVKIvSrTz1SUY0GBNdDf76M2H9LZ7ENkdj3YQ89eV9aGjj98Q8hZzZ5pjVIsJI1ZUY7Xs8x3jqi_z8x6ay48hptLRnhX-oLPOyGqH10FKL1ZMIOTlvQsCAfX-Kqv_97Nl9LYCRtZgppRGY7XmAcbPQ_SLfPixzc8WsL0uk9VkZlhzh44RLtAW_yHfV3_XA--oMl5vEndBE0EX10UtpH0vtX2qWFDC4B7A4CUQv2Lk0PqVmof1uhOjlH1YTSjbzmrHyc5tFRMUjjlxX_arxXrvxst5KTtnglX7eslSXLDyO-oElLUh73E2AP-ITWiyTUhPK2y1hI7ES9p0Wkaefy5xOL0IDgdswOBZSwdb6oovuoFa1hQ7LWvGvGy8gsl6ENDycTB8TvxoIkLJyJ5G_0RGGADfTVsxJZJzOscT3An7tgoOLBsd2RqlKpsnKergwnn5GCdVqY3GMf6dERVoMpKFYExrQKDvJFkepcv6Gj9mDKzTO2onNoad22pfL1wDR43GiVEZ7rq84pnywBLnpM1szCZbKd4JmM0HIzqhi3PLcKhu2zVFR7dOD3aE0tDle0t7-A-prAdKc42VthB68XjQWXDF88sC5BacvxxM32JKwxmDpz9v7Mw0F8ue--L4Hoex81pnMqIk8wOkmxvNlHncqY=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00c4ad913800efbe016abf132670d487d1874ab7b353c94ec1",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 430,
+   "completion_tokens": 132,
+   "total_tokens": 562,
+   "cost": 0.00218,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00218,
+    "upstream_inference_prompt_cost": 0.00086,
+    "upstream_inference_completions_cost": 0.00132
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 98,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907320-5RXS17FDIJ6Ej66anMD5",
+  "object": "chat.completion",
+  "created": 1790907320,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is mostly muted grays, browns and purples, broken into clearly separate blocks, including a dark gray section and a bluish one. That pattern suggests a film made of distinct segments with different looks. *Paris, Je T'aime* is an anthology of 18 short films by different directors, so it fits best. This is a judgment from the color pattern rather than a certain match.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "The muted grayish, purple, and brown tones with distinct segmented blocks remind me of anthology films\u2014Paris Je T'aime's 18 shorts would naturally produce these varying distinct blocks in a barcode. I'm leaning toward J for that reason.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted grayish, purple, and brown tones with distinct segmented blocks remind me of anthology films\u2014Paris Je T'aime's 18 shorts would naturally produce these varying distinct blocks in a barcode. I'm leaning toward J for that reason.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxQcKEAgSGAI4AUIIdGhpbmtpbmcSDM1dMWpP9OIKvaeC6RoMc8s1ntWOX0WM5ZuxIjAeMHDPxVKF2FU4A4aDJKmTKo8Kr34hd/r7IIhnSTop8RVWX3AND17hpBRxECKzWs8q4gYfgmahUNwmpiBg53EB6oRHV4xJ/ga0GJoTpAOQihXSMXqcaABWBcmHeDjNp9SWuaeV1Fx56XZNeYpciCaVYWoN5hYBRtxazWblnDZSAEotma9pHkG67knt2AbtNC0wXexrnFqgJezKnJ0HSZfB+ZiotZAKAz8PpAHBHDJv83ErWoAatBDpo+gbxZ61DQsm+paqDBJklKvJkekENEoOkKl64BQTk+c/9eLGwIjQblLTX6q5q2XsNunXXHBTd/zCtVXyBoq5SoiAySbiXX0dpJj5hHcPPPjmcbm5F3ZFBWGJRF+rh1PHjtx5uJQ0mPrxs02r1g5nO7UVpr5RTOGiQ76lroOZp6IEN/PUzw8uPbof427m3brREDDyWwvme890A59vWjuhA8SH89fqXtdQD1qDdDJbgy6Iy5ypeeCdXDrr+QTxm7DWx9r6Y+4HPeC+sfZsBMZCq/4AJXRRN+ItA9c/ba34rGw7TW9vfdhsBn0JlFWii5DxFWYLFDyUWTJM1j7KwQu12t1Xv7/2OVMKx/nIby/EV6wMuzF9nLnsJTvHlvpPL7elTcO34wJf/5ek4H8J5KE7NvvU4q6txis02pAp5XWoOcXJkNDMEIq0LWUPwuZ3VJuZj2dRjSlcMnPyfgY1zD3yIaOGbhP6TlVrQPLzzWGHlEZ5ic23XHB0sVgpJnZqQr4KAxJlxtuQgPMzkqb11rk37YpmwvjttTl2j1KT4GpIIoxYAgy1E1BHb2YSdtepXBRigJxVWjD7N8U5I2sO/Zj3p8CLZuqfVxnzb9ExUJGFVoVyX30bL3oF1nsRGSBaEMdyn4kGB709gapWier8NuUupxbOuSyBBMRwyRgr37JniPpeUu02pUIWKy56j4EO/wUNcuWG+cPGN47gfmChnRsThSRNY2aCbHUdl+IeWpVfljt9B9EkXBlWy7fQKXwMoOGnaPxpMUVHvrNqiiiZ6ZM2/Kn0lr44z+SSEFq9WzJb7nbuEsrOIWBXvS51CZfl2FTolf2t1YgFo8BbgOeCSwuBzz36rYd5JKMP4XS7y0MF3K75+sli9BHBZfGaW7WoJYGdOkGgP0ALh+5lxqjGHKv2usZMV7qOhiI383s0O95Da6v5p8n/EGaUxitLvTDwJyxLxviHdFJa5L9bShqjnRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 535,
+   "completion_tokens": 271,
+   "total_tokens": 806,
+   "cost": 0.00756,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00756,
+    "upstream_inference_prompt_cost": 0.00214,
+    "upstream_inference_completions_cost": 0.00542
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 143,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

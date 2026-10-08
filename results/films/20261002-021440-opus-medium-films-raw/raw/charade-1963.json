@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907292-cYUlMpaDvrEQgueczG0E",
+  "object": "chat.completion",
+  "created": 1790907292,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette, not a confident identification. The barcode is almost entirely muted browns, greys and dark tones, with no bright or saturated stretches. That fits a film set mostly in one interior at night.\n\n**Trespass (2011)** matches best: it is a home-invasion thriller set almost entirely inside a house at night, with warm brown interiors.\n\nThe other options seem less likely:\n- **Transsiberian** would likely show white snowy stretches.\n- **Charade** is far more colourful.\n- **Rampart** and **Bad Lieutenant** tend toward more saturated or yellow-green looks.\n- **Before the Devil Knows You're Dead** is also muted and brown, so it is the closest alternative.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm thinking through which film would produce a uniformly brown, muted color barcode \u2014 Trespass fits well since it's set almost entirely in a warmly-lit house at night with no bright color variation throughout.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through which film would produce a uniformly brown, muted color barcode \u2014 Trespass fits well since it's set almost entirely in a warmly-lit house at night with no bright color variation throughout.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS9ggKEAgSGAI4AUIIdGhpbmtpbmcSDGclkpr9fX62F73qZRoMDC2gjOoU7dNXQ2kfIjBbjbsSXguUXp/cr3LxR6QfWOo572894xZmjLwUsGtH8So2ytvp7UX59SFtkxwo760qkwishPiQKjYSz4IyHOffffvsyGaU1gF/kRC5YHTGLznw6Sd6rF0QGjkY0/Jd/PcorGhje0I77M0StsuNTDOxLru4Phaxd8ShaSNMh3dLGmgWkLQLNnJ6aqHCiAFE7ec9rjOl4h2CJPLVw+tuDu1crNmP7sQJc2at2xDvNx+0F1mudgZnKzDnXwFqvuullX5WXPs1uo1to8w4u6S45huSw2vRWqxLbO7a1pITY4NRT/6y4j0Zajc5+R4vyEKf4WbWOR1M7U9gSIqtx8rMe38HFhmGYvYS2qClcaDJ1xwpa0Kw2N4v29Cw774yU8D2MZeaZbP3I7iI2epAeiy3caLE4k1q+mFfFtBjcxbftmuYCc53GHxoqEriQ+uieRwdEa8z8htklwWVOIJh6eYeeRlL+2djSO7ObHxqOzcIn86kNbCObxG1oLLfELGmT4V+gsUHBfbYtWfzs1ro7NuzUnrSmPsfoUN29nmEtgavhZqza1LGs50UK7jxXAf+MT7vRSFC/HI95s6o+92U1cplJl+hqc3YoMXVCfQk1/QNz1IHBm73XYAP5gArOU6MokusLRQvTknjHp71ISk3Jf/KQOwo+JiPux86+2lIm/XgqGAVBulZb0wQXkgArRvRRIKNq8Uqguvja4xlD8iFtSsacbjjRsUKJDeF6RT4iippAZ7jvqwFiWfHMDScU9WxOg5rkk8NcohjvaAuDyOWxjOG6xVeVpKqu48Nvykptmn30eF/CqjoEhNWn71guwM8f2lt5+vIsBXCD5ROEcEmwv9ytLWWd+VXgHzm7iv1DNn7ngsWFdRkBNpBG6v5TemwGq1yuW5JAdLw1vglkZlR/goQwBQgHIStO8oiBsiaKcwyPev7Pd4ifHrq7XikjN6td5/wveGViKcr46NbMREtQqniFKc+T8tfSk5RgIUwQjCZldNGeewx3KpK/YgZWia1ynX9Dbk5zOk+SK4aRPDXrvbKVo0XwS0tpmIM83onAsuy1wUpNRi+fIp4a5fOLPZC+H9rrmQUgV/1rsvxWxhTKpPNt5xMekzyxyjaexVMQcouwaLkpIz3qqRGNeGTK0sOQOw5iwCZI8k/8nbKsf9RF6KbKHFhFkl4/dEOdnDkju8CWBwFF9GM1OtgUYbU9MfPiSNeYdBTW4TJjH+5QOpoRvdLSPc5/mHjc5K6kiaVMk9ZemiZ9cW6XJBXCBMjvbhm0kgjI6stRTvbvj4bA+jy8x09bpmxTzc7Nnh4y45lfo6xRw+vs5W8UWaRq7jT3VFIR4lWSbirYaF0NF2pyvgPJl5NRE4nhx4WnOZvynIUHGWnKT6a0G3ffjcMehqHSzOw+9DDBMh0bQITB3DSBIWWoiDz7DPjS2JXQQWPhvss/9pgzQsB2ZaoDFlvOxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 544,
+   "completion_tokens": 461,
+   "total_tokens": 1005,
+   "cost": 0.011396,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011396,
+    "upstream_inference_prompt_cost": 0.002176,
+    "upstream_inference_completions_cost": 0.00922
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 215,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

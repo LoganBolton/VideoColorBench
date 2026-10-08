@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-ere1nwEtKfEIjKRZTSY4",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *House on Haunted Hill* (1959), given the consistently dark grayscale palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLaYzK0CyXC3mp0aPiN9yRUEx4C0ofbqA1WgX-S0l12Z6_FtiVBkueWcvUurS2Y7rwF8BLwjG6jU2pQauZW5a33vjKjWbsm-8RC4H7O5r2oMJSieFHqzvad4rMxFf5TzB-mNgvJJNEjcbAcrXQY3wn8hPYl2AspAOcnJnwv38nHPfeMZ8XwPEozKc-vr89ebQ7GhAvCPKtyEbxH9EkR6Gvryqf-GY2PNllvLlKVFrZ26MTOA6LlM5Xr_4JImrZJYfPy86OlStyj5JsMHrIXDyUEttj296igYpVTjBfpt81tzlwl4guBAgvEO6GFgfuijb-O2mZTsA7_FdmCd5mO8hncGPdGV73SyIYpB-IxYZQAKiIGjq75OobvOVhTBcz4LYSPPTJRGMt1AkR6uHgZxSughBFSxIBq8AnengfTbNeYg4q6e_Gh6MhCKy49-jatwgx3JkT3UL-spPOLlEO4aT_tJo2D0CnHtpMLd8zlwQU_yCOZ0udQPtG1XkBpyxSjlmCx7Nglv2GyW4DOnnEr4dZSbcxYSkXp7Hatt1OnxNf8PWjo2w6kH_xnc22HAX5MAjV_ai73H3VVt7eG6hesXIVYzuAeREzibqWV3FjqrlcdoKZpyJn2xv1uPbUsRVyNhPhdkGILrNz18ooqdqf7u4xKzetBLd8lZun3JfapljifPKK2rkIPeec8dvKbuKSe2kwC4UG8CHX3ewKyRMoEDQFZyMIZoUP-5EYbcoKbSH1CZtT4kweGYO5YOGZolEKG7Gd18vIxt2y9ZLBjj0tB0p0Akakxq1fEDhm2FieFrOft-r-4og93CrzKYwbCE0iiWlh3TAdTwsHBJM0L5kEQAfSKEAuIF7L-s11_hkAsGRuk_lEs4aw9M90_8mFtfTXy-wvzuRpoKtxcxVgWEKp0xrNrNsfBMedHUjL9WfH3lK38NP0t0b36qAeyWhIhZSEZJpF7q3BKL_STiqKGplZqUnU7V_YRlueEaPdFoIUVeod3p8Gl88zzpjlBVKLo8DrsyYC9sy21FQigYJgVuJTyuOn20HLRU7FJBSNVW5Iqm8cg132nMFcz9Lzf1rAUDuuKHiSYe6LoaGWUtHD2XXEdN__tZ_rlOmLERhHJVI0XuP9ew69Wf9J_UcTxrYpkw26cGfdyD7X5_NZ8THubtNDxiVcPRAr6gdJVPcLI3_0Yz8mbKiWAO9fXZJEpFF6kmkK-Wikv7We3_4fnak-OHUPlcAuWrvQZWY0N9QvFeJ5Xkdsg6Fbk1y1LcylH5ueKn9z__nuEkw5-CgfS9_fTscSqWU0Z-BTsgGqtUkZfn2WKoQVcpdbLULdzLQnFbQr4KbDiAe3rmYHlFwJ4dBySVVq-tMHyr49Z_7E7fziXJwPiVOjjkfv4hh-6dKgfLwLWr2xOM9skeHcO6Yb7MexM4SxhtL1bvDlmD9gHv0MRQ63-jCqUj2Uwj8eIF_Y2YQe1Gxr8nQrzm--DTfjOCfcvucLGAmH_qM7RMtiWG4s_6oFayEz9ffO3u4Jtci1MKO_fQQ0CnJywFCiZlzbverA6YnQBNmZQjF50-Pfxf27n4gsSDFvExiuNn1fAEiQ47kRkxhztjo6TfqhpSQC_cGfWF9kEu65lkf8SkUpdwi1cEXDKgVcwV7Mrnw5xKrK1nMfy_L8BFpt2SvcEg7e-yAqrhzXq38IpHY0hbauVCBsu7WnZ7XR4eByeoN38IscYDLtSiWiKY4r4FVq0FOnZxYHNt7HEFQ92UCv6tYhSEUn667-wslexfpp_zl9NJE3_3VbI1Yp0xeRNxPenpWQ5RYWce2cLIHa6-jyCzZ7--02e5jQb2-GbIatKVr7inP99bHDnyr-3inrNkr0VcM9oOL21Nw3xxCgUPpfcNssSWzSrhbLBpD4zRLuW1lUK-yKaumGl60WOr9Xuk1bCft7J2fqIvlYYmlrHA2jbeKp_EcxaJjClsEgRG4BRrvbNEZH1iENE8NDa_5Cke2GCn2Wz0SOicQZsVTfWQtoKs0pUgIFoQwka1l20Pq7ETFnRugoozHbfFr__LcHOa20oNEke6sCu-uPCC4jr1wEZMxMyJBcGXPzsmbLoE8r8_9_fBFfB-c9s_ezLenVukB_quwpCZDkQOtXBGTmozNxiRvAgTopnMcUk4HPjtFkI-lz7uLn2vzEWOtuUdVZd_DhnDhEGDgMTwJAe7XLL0-ltBhG8XNa390XBnv4t4e7qktuKA1XHvIM8oXURFjAw8GOJSMiF3CYzah8ma3gLdUON4Dzge_WnmrBXAtTlau809SD9wb6oepjjozhGGGiUwC1J2KT_dZcXIQm1XDENeSc-7JNNOs48rzSgN4h2PKlSOMqXMlIztvCbR-5JkS5gifnx-sV6o1d7m3DnJPdk1d-eERD8ZfCtoKiT7IR7T9gLupDLIXSolZey3gC2FCTqJFyoL3H8Mu-TpB51bF3Jf95VROfWF4JZi4ax65942AdRqMuM-GdIuZo6G0p-AwrGU3ylWMqHvTiJsm-r6rP8SA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0682881518303f8e016abf12d4c95487d18243a506ccfde567",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 443,
+   "completion_tokens": 253,
+   "total_tokens": 696,
+   "cost": 0.003416,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003416,
+    "upstream_inference_prompt_cost": 0.000886,
+    "upstream_inference_completions_cost": 0.00253
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 223,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907320-nJsZbMVvavZRS5JLXe7v",
+  "object": "chat.completion",
+  "created": 1790907320,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette, not a confident identification.\n\nThe barcode is mostly muted, desaturated grays and cool blue-grays, with almost no bright or warm sections. That fits the cold, washed-out look of *The Air I Breathe*.\n\nI ruled out some alternatives on the same basis. *Transsiberian* would likely show bright white stripes from its snowy exteriors. Several other options, such as *Charade* or *Pacific Heights*, would likely have warmer or more varied colors.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "This barcode is all desaturated grays and blue-gray tones, lacking the bright whites I'd expect from Transsiberian's snow scenes. It matches the muted, cool palette of something like The Air I Breathe more than the noir darkness of The Last Seduction, so I'll go with F.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "This barcode is all desaturated grays and blue-gray tones, lacking the bright whites I'd expect from Transsiberian's snow scenes. It matches the muted, cool palette of something like The Air I Breathe more than the noir darkness of The Last Seduction, so I'll go with F.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQShQgKEAgSGAI4AUIIdGhpbmtpbmcSDEpjnh0vgR/Dt67QMBoM6dxjfB2Kow1Sq6r/IjD19W2von0O8cZ0suH3vDKIm/U3niOnDMM9eurDtJ2fJVLPFAx17G36m8RrvvtNIesqogfE2QhTXl2U4uW6WStEb6dMJe/YVRvWNYAnpDJt7FdxW1nEjkWXWNhQPVU1qEr8HJmdX08AVaehVEdlnEdUhSL5tFl+a7sDMrYP1N1bzXkgjVmIMvhqy+m2WLh3K9KuaoWIwynK4ld4WV9UpPmrehbMXA2NXbnNmJzZVR7hk8zDVsoEoEkiLDc6EWdDFLuTVhaXolHM1zz+ttcVCECGkAuf32X9vhEx6y37EGOKbIGXhSbWXOr07L9Yyx/l6+fz3kpjyZzhD6dunLF+0h6Dy6fZ9UPaRF38kEXuP6PaanCcg91mLmD4oCfq0ZHQ+PopgHLacX3Zb8WEaie/ceZhIaZNcs3G+nBiZEOM/L5U75N8s9xej7yYoQUIQTn4eYMTgTxEwGuVj9olYSb00tmfs/jTPDRv6JyF7juHR9DgZJF7EMFYuCwkCdCOJbB8TjmCSXuA7hZWPFqmO7RaLjZSu+9LnhRBsb9Cucz/bf3Z3G5B1n5cYYrti4GXP3JmxRLc3MXYwrTtPc69Z3Es9hjYJYVH/W5EdFAHY0d85pj/6sntNAZjbijtP+LCF9gTSKg7rpppfCZE23sao2uwQNIhxUjTVRBujaaBop4jxTmsyPW0nCfjYl2I4iORUfcHc9UezvmEVMgh5jRuMykOgL9uTTnvwekG3V1sQ7/55q20ONH5SHyEnjDwMNOoBRamtdpchsxKRdHpABn5v/HWDf2YyOV32JxKGvwanle51qLIi2JLlbd4tyxllY5ZnYjp8WINB1JEPno8roroVIpDL+lt0eSfu/AfqjN8PaGe7+N9QEKwZTMmoa6ZQ4yVPiX9u5xoi4FVhuX7UoqJmsjtQ9w8oG0MMgWSuSJZshz5wfgUb8Z64Mo3KpWOo8tNkSYSE4xQSmWX+rRgkb5rmS4GO6VCsCMtGSg7EXt5hXnUcZKeTer6lwNvx5yvwb58gK7myrQBUnLy27dcDIMLM3KisQLLhYX9q05A97X9tdQNSkpY9LLDZDuUPwjZJRI3OtXvgh9SSiWt+k30XrHY1Ru/scm8OvdwJ3jeNpmUkeoznyfHN/Fj6I4IX2Lwr8362kjW9R06uizgJXb+Mp/2L73lhDtjm5LqCHsHe4xgpHDa6ymRF9d/d0EDdPfXE7NC/7nw0g/bYvIrCGf+3l6BZDcFcS99O4aJ6K9Sre83QytU4p5uEjB3q7LbWLGXbKIzngOR4INJMRYPasHfUh+3NFRePSsNawwLW80YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 530,
+   "completion_tokens": 341,
+   "total_tokens": 871,
+   "cost": 0.00894,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00894,
+    "upstream_inference_prompt_cost": 0.00212,
+    "upstream_inference_completions_cost": 0.00682
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 169,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

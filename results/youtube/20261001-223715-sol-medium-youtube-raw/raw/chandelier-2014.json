@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894280-h71xMxKXNG4P5d07p9c8",
+  "object": "chat.completion",
+  "created": 1790894280,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Sia - Chandelier (2014).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Deciding on color palette**\n\nI\u2019m trying to figure out a color combination\u2014something with dark gray and green strips. I notice muted green in the middle, with brown on the right fading to black. In a dimly lit space, I\u2019m considering how the colors interact with the bright skin tone. There's a playful chandelier casting gray and green shadows. Ultimately, I\u2019ll choose a palette that includes dark greens and various shades of brown and teal.**Analyzing color and shapes**\n\nI'm thinking about the color scheme in a gym with green lights and bronze accents, but they're not consistent. I've got this image of diamonds clustered in gray and green, fading to black, reminiscent of a scene in a Rihanna video. Leaning towards a palette with gray and muted greens feels right, especially with a warm light from a chandelier. The wall is an average warm gray that transitions to black. I think I\u2019ll go with option E for this.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Deciding on color palette**\n\nI\u2019m trying to figure out a color combination\u2014something with dark gray and green strips. I notice muted green in the middle, with brown on the right fading to black. In a dimly lit space, I\u2019m considering how the colors interact with the bright skin tone. There's a playful chandelier casting gray and green shadows. Ultimately, I\u2019ll choose a palette that includes dark greens and various shades of brown and teal.**Analyzing color and shapes**\n\nI'm thinking about the color scheme in a gym with green lights and bronze accents, but they're not consistent. I've got this image of diamonds clustered in gray and green, fading to black, reminiscent of a scene in a Rihanna video. Leaning towards a palette with gray and muted greens feels right, especially with a warm light from a chandelier. The wall is an average warm gray that transitions to black. I think I\u2019ll go with option E for this.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDUZsy-XbwLyoPPKIY9zKERYwb5Mx2Dz5Twnw3yaRK6eeYNwdbslcdxgCtyvP8FrbtWwb_i4Q3lgKNsznAsOXwKb_BMK9tEi0Kc0N35YjXKbGckXf0UVYOMg97jO-EhcXmY2sue8YJ65XO8BGLBHAwe6lUvAhSeG28-IUQXICX7g6SGBG0Op17-FBB0sOzodYVg5VZ7J3eMzevPEg27vcL5hik7JhvoJC5wyCUboaaZk2BTNeAsn1kcXyO7hs10vwYc5-zbPpXA8r5ipVg7jd-5W9pLfCEMDEckGCYHiKUPGfGW1Ho9v2apmUanRNmKA91Of6igzgy5-tmBIuAPSZXEZzfjd6151GrIWtrJlua_N0rxy2WD9BzAJHSGTUI_GG0YOMRubmdtkBn70jj4p8Cm8yGOhvRlZlqnbjY-Ogv4ghAOS5AsWcNlO0p2PX6VMlYEm6oiJ8hPOsBP990yF2rWFsBAtPRzqW2SZ1qLwOYPrlpZVedShSmpmpRLuuA5FMpcNxaqnJi0Ij4mCoboeFo49KzpS44On02U6fc7xHH9FQJ7CB6Z1G3xAwdpAIrqGhG36F-Ev15NFAAgazRdbxRkBY7achA5p-aAirfhG9uR5KQ6GwK_dSLHF5H_hWB5r-oaP43uSby-ZabpVn2KUlQZmxALlzcU6TfADX8V-u-SLImQfq-zxKRDB4iT-AdAHFWb9tZBw05DyPURIxOXnS5ibT1JmwpE6QOL8Je0QkkUB8F66FtovHmEWn2_I2xZEVo2ZVuKsf1PDzlhuE5kWcRkj51jSgAiK25Exkhv5HR1o8sdKmbNDzkFok7rQZKucOuq3chDu7Vcf_55EeoTdF76ZhF86epAW_yULgofpSdJqvbihURdvNbESNJEwycQ9MKyBqvILPTusyM_upDFpQgzDFO5RFsXQ_D7LGBwQ9NcPxqFlm9N65ZR4fyXOQ9ZF8UCS-vvSCQ7wWCOzCK6uZYV4poiOu9hw3qifSWtaq2iuPQmyPOw872B9EfSo5WFEByMF2WrdIkq1f45yr85jaE4THiMl8THaGAtzEXXCj9w4aUMCQ-YWD42vfyKxFnPyKvJLTure_3JwdOF1WYi1xu8OxUzbZhwPZoCbrflADm5n9-BH_VmdlSeyQiLO16sFroUTLCxggMZSllQTdNViH8qZ-CjMG7Bq_sTSYLrWQfCGXjWBP9KlCHJ7-YPp570WE1zrf52WTUFqUZPhShN3I8s7L2RZtrnp3f1JSYTDXIXSLjhWXH6VAVoldKFNwv4NKvBi2FfTxhd55fgkKS7d0uYU_-fkv_zMZJmo-1vjNLY6s_7I6LDITyIdvFbsYFh7lUIeGT2hqzZ2s9jXFPaCLdNAdOAwL-QW2Nv5wjjf3GJ4wpvsj7mrjlYlCBSucACEcLwkjJuVjz5EgYgmTr5yKOsGTE6aEOvQ03JQt0grsZtx9Hl6B60uZmiFx_6u7y7B2Q0QdTQGS8es783GnXIUJwtbRauT6fsUgTDKTkoZ-JVM6JZ1C20up50lP0lCHhXT7MVxnNDRRYH0h59ZVU6Lo-NTl9RReVGx8rjwSJOjohi1rQ_j3SI8HWB5eLnoVdVwaCbnNnemIt9nvoOQTLKfOiEE0-i7XLf9Xfef3Ju85TswhwpAGUeuFKVNahZ9BRY39kTbVxsZpbPJsj6Z6MPgN9G6lloUnx8h_Qmc0yYZS04kfXgnKJ1XHdsrrpBJlAxWXFNbrnoA59_92DpObjASFf7BA9ZKYkFX6FeKm2oEvaJ3-M0tGSV7w1HJmmWpEIMK-95jODKRsDL68dqink1dM5OFKZzckiBXz90iV_AkH5qNu4Unq0GgoKqcwKS7Le3CjJA1b3A0rZ5Dm27lUkYClMpk8Fbfv1duPoHxXnIsH0XftDs8_dDp98SdWjHNoVU_z6UQ9c8ikWhlwBDXX1mRNJY2zUSCNmfk2goNdeoXUm2MCsIXtrZyx-y30deaZUZgTIQGcR-dOvwqsZ3ZZbxsBchU4_vDhTlmTCHCMe2Dk-F6WlCKmyajFBEVJ8QMd2zlZZw8W71kdfpaR-LIPBEd45VL-xnLj2x26BLlKApuqbnknMK0HOacP-yDO18zvUrTH5JetKHGGAHURJU0TIe4-7EZkpL2dmbUYFasSmEC4dHgdFfKsZxH1b1n84zRbGXwn8cVAumRMbaGFv1_hECecD_bTHvZbsqVJ_MT7uHOU1uij_wtBrXRZ4N4geUOA1kmKuz3O-faV0XHIKzuZrOwip2lhxBrTC2hQdWmGCkLx7WC25EB5CDy4gvVSn_DY6ldX7vuAFOAh842M0hAIwMnFHceIhfX6ZQHjGDspnMyKhINHb-6lID_Z7GN1pZzq-tnT7yjYg75f3Vjlr42fI1zmqTQERPQ_mCYf7MolXI_aSyE0UshjrmJvkdk9AYwyHMsmPsQctZttthjatpmHNtU18Zhpeih4qKQ1udP7DYOyXLIYhL4iysbzoiNsFSdHQQcQHV9_6r6idF8t1pRQvmb59IxhD8CjnqYTJiNwrorTxb8trUzkBbvAsxe2a3daa-1lP_T7omNpUJNsuLvirehO4GT2t90bnLvUL2zjDbqq-WbD6qgbhwImj8L76HWdk3q_ufaxi1_28650i_5unu2sUNv2aFT8c1DUcX8jbT7wOhsWys7YheVDIIzFYSMdodzWBFCHkMwdKDyXIKi3pC-FbPGML6Gsax2K9qX8m6zXzu4Ek1wOJ-EaDTKAZca2j33Fq7XbdgeX60FcQy-_Eb84YpQjqzsOesgrJpC4RzokXX_28y9FSDewLD0rCl1kKV2Lzx0w1EEU_6WB1RzUjo4M7Z56hr7sVleYpRRYxMP6tI6XANjNmGb8w_L8BzV2fNDo8pqzgtvNEpPuAqDvnNbpZiBOCoVH_TrNXTdN_kWPMjYNRCNZCVYt4NN2_CoWuBmb5kNL_3rnLVbMabaOCASb1wZctnazGN0pyld-LcCOniYxUqtzQ7vkHyF6SvQhdO20Dv0AZx8wohqWXECFu6WrLqPoBZ_RWxSMGOmKiZysAiuO1FqWplsupfipJKLk0y6KJpVT1SCg9LAFYLe8e-r58neSD750kLP1cu9iDW96uqW-slrgaFVQhUBxMgCpkY4vnMhReNWiaC3wlLzoIgYXaglrOTTgtQMw6F6v4ed9-R0IsAfQmTfGB4hXx6NOm7jRdYGBbv56GTTeYMLGlWkgwUJ29fqXa_fO18zmWk-o8Tskg=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05cf657539c9e0cb016abee0ca4d4087d1863b1c89c49d16ca",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 320,
+   "total_tokens": 792,
+   "cost": 0.004144,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004144,
+    "upstream_inference_prompt_cost": 0.000944,
+    "upstream_inference_completions_cost": 0.0032
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 298,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

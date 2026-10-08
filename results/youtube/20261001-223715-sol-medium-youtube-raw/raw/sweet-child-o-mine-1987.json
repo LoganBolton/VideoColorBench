@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-QCeJ0QORsFUQKtRFYOj1",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Guns N\u2019 Roses \u2013 \u201cSweet Child O\u2019 Mine,\u201d based on the predominantly black-and-white palette.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCqQBwvlfQjqZpTne1d79T-ycPp830USqhfDFFclNyRV2K20RS0tgwtgpr19YY2P01JCrEPSiuyRJ5Csatv4s_tQMb7zMZB1SIcEZ8acCmVtdobmw14Ay-qpniNMHTxXBe-xOJtYVqB_hk1-c3yCS4Yw16FD5Aw1NSEd0YjF-C0pUdf3bOdeSVD6iZULzVu1Mb40dpPkWQUZDn3guAPJLXM1aXNDPI4SzAAPLted7Vj4G2BNZ3qb79xaIOlirTo_6qU_L5UJRPwqRbRtgMCZAqMWaQPBhUMSX9pyR_t2xT9iu_aEkL4o9jDwOFVIK7lNrmu0xuo5yKLL169uD6bOu8KVYsRFKSNZqbeL4u_FygpaJyvY-EjGwwRSadDEzCMAl84FiIFT08t94KPuXEqJdwv6dbFM9xsHu8pFT_7OR6TGHSdmrCE_DjiwH9N2ObzQsbz5XNBKytWXfcUhyorsuDgFiU6XtZVq0ikBj8p46hrfmaFpu8j89oJnZVb6Ddmq01OsExg4qUh3ETXrFtYvKjHtT0DLzvhG3Qn6-A8w-CjednoXnx-Go1aIz2_PHHmP3KtqXGS0inp-5-Kt191uRcoi5W0LmeJj3ZV7mKrrIXIN2lPkXymYYroKWuax-e2RPL6dyeD_Sf6eK0gGduLYTSRYweETLBe4HLECmNLLjId84JlIZGDeKEuPKqAuI-sJjaf7bYWc81pcDrvqcgO_McOf5XTpEyBlEkR2nDuKnlKdOw4-4vV_g5bCxAYjOvofIIQQwAeOhROq4m5XWB4pLdNusz6-rbAeSBlJVNal8KIFH8XKff-FK7jUBXOESLdklOs3SLCUaZ5aEpWp436gLACBeVks5QJN6OxLk-Sts4M2k4v_nciRdeTNRuwk9TP620uM1RAxOEZzTELunMira1agriLnkX7ECUMjs4TwYZ00l3n6gCdm0KQgd6eQcqhvl0LwxTxClHPj7_gPEVfSqn0oaYxJXWcsLCIbmTLV9OBiNQ8FLsCGhb6nqLcVbh4g2D-taC1v1e2WENLIukirxe0OjM8xkJsDRJPcCR0gXnRLK7Y5ITxOSs7et4pQPvJ10AhygCo7tq3wa98cNOSPiC8FNWlForEKnhxA0kO6Oau7fnTq8GFLOasCmBPYYGgKg0tmS0j02HJNiVdZkjT1lytznO_fOZ7WZKd4U6yczNgnNR6LhtEPWDeQWopaVWiqvFlFXGEBYqRQBLsdWUt_a_mxNbzsJxdk9WgdrHl2EKeFOuhv9FTWf0AE7guSamqYXokGuUycBQpmyEOZnLqB0PX3QXaA7IiV9UgnQjsYNp2yQXlEmm3RQFc3dIqhr-melaXAJpOShQmXy8Nb1XbImAx8ZrbqZo08AIQ8ktWeYuq1eu2GdnpAmajPS9dqesSyzdjnJRTG-o5PXsjgvGKJiw3ljzOC2uPUZbOC1c5KaTS0GeiKrGouYh8hXah5KdIRkuiAIZhlyHMK7jJhWaUWZvNVQBan4BJxqBeUaa83e2y5nAa98jW67HVr2rDuag1hIgSgnwI7xY8L5YmshTNJyLKDkGjWaRubciJL2Q5VTbQ-NGj9SaSRcp4Auf9MRp3RdXjQ8XOp_YtlPJNTKskXQiTgTZr4yvEYTG3F3CsoAu1N2MjZ3dUZF-dxaU49Ey4E47Vz7G72REzXqt4dJsJj1LsDTSfTtVjP8ZYTSeviXK6qSnzk3aUmDiPQSfRNMvUcxmU6h0X7FEiiXiqZFP8uUpXcvd8ws9P7J9Fg9gqGQIY569kjVXFGkJVMHo0MqllPBFWfmESQFUYTcFJzn6mfFCyupkcwjVJt319uqVa-d_GR8ikaI7y6DG32RhjMGt3PPPvRpNmaweSVkJ66EiB4St_7xBABUoZ6d413Ebdwc_EHOkrqiP3flXcwffmEhwqyn8DpCfH1dq5Tz7wRValoakGhKL4Fyk8sRhuDNtYa6zpiR9oYhk9Yke8RiYeTpSOYEh77kEQdlKCzgGBFE4IzPb_rOZzIHBj25A3EGrOc5Vz2JdGoH7TozznL5-IvEj1hdPrOgG1PlsrUruAl7emT7rd00nqxQIyAkwpnSZ-TX6yh0mi0Rwi5oWiXMQ8tF8UtoLa9TmrA2dNyg9a-1wTtdKZ5-AlP0DJ0qvVri0SiBUYqvXpn-W3buijMC7RWqeP-Cdr67AiHmHca5OmyEHzswOaPfPtOqK5OP4TujDYN_6e8Ov8ql1LepDU_kZhkReWglyJ0dxgwHh6FXdSUOeTImcmE0x-Uca-ZG4GGPpU84WOrf_6dbWGrl13IlJeU6mhX8YJVWF7qSQ-kAzIFsKryaZ0HQF-frBIR6A-ADEmgeo2y6CXzQFKX50T0_10sq6qRBWG0hGzTL8DvNsZNpgEX0_VNAWNrPyfoVUpDDbZ-efqVJYBr_bYz3yyK8iGou7jhrpqXhtgpb7jAL9Xx6MYcE7WbQ8YMCF4DO-twLENIcbBJGheoWAdxNbhHzdMcDgo_JzsaZ2QdPVWbr4tGpz1bYTm1n4pexfkMixm_6JUmukeFb-IB05kARnGFvcR-ln8RN6vcLynZNeMM0M6hI0GcSfqYRamNSpr2GEkmpDkzGXV_q8YWJBPGaH-EZbibSVHHodI7bMeyCQCTiCB_33H7R1XA9fCShbvQ1kxH2WG3DJrIiHoPANOGBIpaTMa_d3vwObKBk_M9gyTVm7PjFJMzCCMsFLoLC9pyI-72hTTLt-zTqVAHpaal8OaUEWcH4ybfV_hQoP1GiXGrePVLzf7uy4Gynom6njFj3Gur1Zt3rSFjSPyGYlq9nD7MhDf4fpgx8Wte5I0xU2au-vVazYqj_bmXH2LOKquy1uG1PHZh1R7MKcBiNDwpylBmt-B1BEEStGhVZYA5-_DzX2voIePlKXSd7SGBiF-xL-ckHNWHi4ydWd4ecCh4DCz3EvAFHTP7xOpwGBybM2gk47LjJM8sFx0hQjwPtW9tDzdMQftOtV8IdajiiSupkPj7Gip8-d8LRAdY67_gSUXm-eUjvmejjLICrP5hM5kobknaoIwND1t0IPVg5_JyvLZmJLcASgSuUJd9l6tEqXLVkZXTTOd71P9amxXW2xxDBEvPe3Y5KsHjBcCppH8vCsvlPGkXkvjhpw56UKadA8ngJFtMYGUM78xKOp5f7a62_CxhW-mMDZj5IgkfP2gxCRT3NjtULytO5Q65vf_C3u_fri_Yr2so5y4lXwDyMNGFP79R0U2a8LKJ8bEDywt78_DAs23zB4qbxUJE0FNSw2j71AFBf4wDvN5u9zRiBRVbgUP_Z66izAxDkrTH13QhZImBDR5d9JY0cuURlM-wZid6c_LfQ96vdinXKEjqZzYBuxSV55yZdtgmILnfSQnULJj2PVxdNA_Ldg9ES_A1QJ0qkeZT6WmHpGL2ANFHJMOjJJ9tlYex9c9j1BtEtcvH_EqcIZpRUxz2ZJxhB_vCQT2Mkqs2o4buMyeUdUCCpaSggGyLtki_kFCx8eweSwcvJA3bCwUjRXPvVpoXO5molq2kAdbZq9fFm1e5JLjd7374ipEquKo7XWbuMzEBNoSx7rmEtxF5uFtdUnl0E_4JmLPkcjpH69iuFfYV6Eiyv1zY-fNB0F1y-ha1gDSOow7IeNslKOeGknobVqlkkLBeFL8fsH-XZ2P5_15KVA7dEo1XRmGl2GJtiefF5YlTFVydUbFgbBw828UpvuTz07R0VctiSNRQ8jmkdA-eNA19vHMaWZ5ap4qP5G8qfv-EMHSxILO1mEJi3fgCx9Z-qTL7FQvQ389Q4MNuh5YuxqpKZdb9IXFBvV3qamw2Ix5YjHSa-oWn7c_D4LBIE9tP8-JRVA2A1o4iUL7g0VbxInVt9FMKYYQ1fJ70e3t7IZ-xSVw1Ow4SQu2d1-cSyoUQ9bdmN2IKpGe9pDCXoY2zeWGz37T8nUScVuvSZcaykHbbDwkl0HCDQ53TpqXGOLZU0kpQBKSzD2oE6mqCPdIUcHhwnjdaUG5TPLHCbEVC4qWIAAD1ay14_4LdV2V6wYHthCEoTJtKDOiZM3PyBb-nViG8Kc4EphVZA8Dp24qqBnsvOsJOp8QPv2-Vtmu3T7QLGUKN71r5wvmLmAlVkH-GCPk9QxP64mfEtdRmpfaIz8A28XOjv0CuWqOjfhc2Z-j.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_031b9830e062b350016abee09d754c87d18fd88d53d78c0b08",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 446,
+   "total_tokens": 918,
+   "cost": 0.005404,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005404,
+    "upstream_inference_prompt_cost": 0.000944,
+    "upstream_inference_completions_cost": 0.00446
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 412,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907321-ZKCBhjXHS9gLH36OMQWK",
+  "object": "chat.completion",
+  "created": 1790907321,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a low-confidence guess. The barcode's palette is mostly muted, dark browns and olive-greens. That fits the grimy, yellow-green look of New Orleans in *Bad Lieutenant: Port of Call New Orleans*.\n\nThe light blue at the very start doesn't clearly match that film's dark opening in a flooded jail cell, though. Other options are plausible. *The Pledge* has snowy, blue-grey early scenes, and *Before the Devil Knows You're Dead* uses similarly muted tones. I ruled out *Transsiberian*, which should look much whiter and bluer from snow. I also ruled out *Chopper*, which tends toward stronger blue and orange tones.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's muted browns and olive tones against films I know\u2014considering Bad Lieutenant's greenish palette, The Pledge's snowy opening shifting to blue-grey, and Chopper's distinctive blue-and-orange prison scenes, looking for one whose color progression fits.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's muted browns and olive tones against films I know\u2014considering Bad Lieutenant's greenish palette, The Pledge's snowy opening shifting to blue-grey, and Chopper's distinctive blue-and-orange prison scenes, looking for one whose color progression fits.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5AoKEAgSGAI4AUIIdGhpbmtpbmcSDFBCEJLedoaKnlivyBoM80R9F+f59p8ppn8LIjCdeRfgG9ik3qGyLjKVTBSVm684LzNnLRu5tPNYUBbcIPbUKt1lGJ4pmM9L2UaMaVoqgQo2tGzsjI4T6nxVInTIZPrpmyK671Eb3fI4esDVcvhp0PYfG8zLREiTpEJbQJ0ZJCKE7fEdraCvouHk+OyRTS0Iehg9XHL3kXEACj+WbZ5Q5s526ZULicNQ0v+7CS/dVm+eghyJHF34j0xUQTrGHD1iT2D7cJZ6bSHkHfAQCrRdnUFHKlVL1rHUOoHFtxz6hkzjLPP/mkOzvPGgOqDvxwcLWfIw49tgWmkSxdAQcwjGtpiUZ7YnHbpzc9PW2XkrlQ8mJ53FpNx/6ofXwwHJ0TB7zbDOWDY3i0FO91l77f+1EHy+qVKmtr1OPITBxizjWqF36agX8QjDAL3HFJNp1o6c+hG3by2hUdUR4m4hBT/lQWINqM8vQBBOQv9OW2HVvIJEtsgxoa8A8c2wLza1vnYYOyHKzCh7IJDgpo3W8EWx0WFiqKt0nl9JJOBOt1jUtAqT0JGN5kvsA7BpzvldnQmqvauS/r0MwG6BNFVq+HnpW7nmHEAuHcyq91oRRgZeuXybZOB2N7LRAZOzIvmwZWIL6dw4aE4ODH/nAqkuBQDRZ2PJ0WyHDL+Zc7GTLB6d3ILXNZmbhAXrKobMQTZ/gt7SKXPefQDTeoXZhkfgA9HSO1o2qj5zVAoK+8R14u0rmkslEGUYGO/E033SZ0C4hr5ShrlSLoC/3a4pADsyjjQkfSNGNEyIKxe+QBIdc5bVh8jnE5v3oZE7LsbnhjBMSjjbrvAucvCD33pKWPzw2SS+UUFrmRNQhSPDrnhjC79Zp3f+U95VmxiNbcSUUZcTakKHuh2DeC6ClqYgkgEiXqIhM0jruxqYFAJ83oICxzQzc3TrWzZw7OmV+LbnS//qemU//xiSdzGnMJs57Mq7lnCIgUBt7Gv7COscmZ3fLG41F/9BzHtYqPzsql8kucW8zR0jr52oiq+S1GQ/9+njnOrUsjJ67uY/Wb0MYgnXnU2eiqimyus3RRwW4Cam+4tj3ws96TDiU7Dtar06gIAMS/tH3h58e3jY0k7/Y/vGRJm7hPo0e6qsBzQgccBrjZ4pS/WGSY7JXJ+8RrV3+jxME3idgvCXy4OO1SU98sUtB766OHP0mHC7z0dP4c/JfQgVwffFaQlSldZaj1vYGmTigsyAmMgs+6RwxtZvKHDcmbNd5R63kf/1KZtEkyJlM4SYF+OcOqrgeRRGMGbVwzDiPmkuouAXxrOE+6fKZKNBZW+pQDttbAKJ1F3PKZGYPhUoyPLl1MNN/Yn7DBehFH/03Z7khj4n+0cEvj2GRVZY6VQRT1qthFxA1almFIHWVnqZqisx5HVrPafd2Cc6Ho2DI8nHNIdTdcqJNOWpnF6jeLfkBQRDnYxpn9eNilNCMDWMmjpoDIFpjCmD1pNR5wRMD8vppZ8OGnVv+eUThUNVXhag2ZrBn+XYGKMpILN+fAasE8Yo6qWTs7M7rvrp6+eIj15U/yDdrPjKO9aGO9rit7l9enppWHzCiplq1frN0g7NB0SnjMC1zYPHKEJe2ztLD4fQXIAZ7ZpVKTYR3EHhFpgLJVjGBEazSGse10tbMT6KUTqAen6vE5E3dx4IUEPdPeeMx7RvpHcT5O+TCEc7AmHA3+EUCW7thM/qYG4XR9Z3OcKYPMt4QeTWNgtSZ67iWLx7VjbFvFOjhJFP6ZT3SsvbE2irX5Kh8uCM5Jx8lQ+A6JJ9EDPIqpF4uZnIRzaDlrJT3QAYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 537,
+   "completion_tokens": 575,
+   "total_tokens": 1112,
+   "cost": 0.013648,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013648,
+    "upstream_inference_prompt_cost": 0.002148,
+    "upstream_inference_completions_cost": 0.0115
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 336,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907171-w7Bfd6ltGnfsJkYJZ5o1",
+  "object": "chat.completion",
+  "created": 1790907171,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Evaluating barcode colors**\n\nI need to choose a barcode based on the image colors, which include dark muted blue, green, and brown, ending in black credits. The timeline gives me specific color ranges, like dark for the first part and transitioning to grey and olive. I think the Stonehearst Asylum has a gothic feel that matches warm interiors and cool nighttime aesthetics. I might go with a darker option, focusing on how the colors evolve into greys and blacks, particularly at the end with subdued tones.**Analyzing film color themes**\n\nI'm evaluating how colors in \"The Messengers\" contrast with its scenes, starting with bright greens and browns during the farm scenes, then shifting to darker blue horror at night. In \"Killing Season,\" the opening features desaturated blues and muted greys, transitioning from dark night to a prolonged storm. The timeline is interesting, as it mixes daytime survival with a final dark cabin scene. \"The Contract\" mirrors similar dark tones, suggesting a security setting. All in all, these films have notably dark palettes, possibly indicating \"Stonehearst\" as a likely choice.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating barcode colors**\n\nI need to choose a barcode based on the image colors, which include dark muted blue, green, and brown, ending in black credits. The timeline gives me specific color ranges, like dark for the first part and transitioning to grey and olive. I think the Stonehearst Asylum has a gothic feel that matches warm interiors and cool nighttime aesthetics. I might go with a darker option, focusing on how the colors evolve into greys and blacks, particularly at the end with subdued tones.**Analyzing film color themes**\n\nI'm evaluating how colors in \"The Messengers\" contrast with its scenes, starting with bright greens and browns during the farm scenes, then shifting to darker blue horror at night. In \"Killing Season,\" the opening features desaturated blues and muted greys, transitioning from dark night to a prolonged storm. The timeline is interesting, as it mixes daytime survival with a final dark cabin scene. \"The Contract\" mirrors similar dark tones, suggesting a security setting. All in all, these films have notably dark palettes, possibly indicating \"Stonehearst\" as a likely choice.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMyCXoBkPcwD_cZHp36i4_P0NZ-i68A2gVALDzvWrPBMgrKTCRCBsD2k8ZECqxWjCZh0e3pR6j9Kf4e6nKG6NrVi7VB4wLoKWFrMMmtJE5F99OlRm43cq3xHX8e0K2tzPJW40du00yeMgjKetJlGjzKUKr4rbiCadq_vTOjNkdgKdKaHqdGKXjHVUiIm84Axu9d41cFb6qtbeASN3myJGus2y5fPENhV0fmW_r2o01IgFoLju2rvwDAPIhrMpCcuGYKISCSYMbdWWZQuz_DU_r9No-oT5nwtb-HSUq5mEHp4PQr3ey_CZN_dan6keGisqZa08K3KHaCL3Pdx_ma-I72EGkw2WrmCircKB8IM6mDyD0J7bqtcMAqexzcQDgphOiLRECOi9Q1ck3LA-puxLsGUXaPzjV2iOrsMm-xdTZUA_wvz2c1ccetv5Rpzx6PVi0PP97T-QqmbXjqyuyZeV9J_KRIAMOqqH7I5a7MgCc59jEn31gUSACVF5wDLpKd19eyj3LvFtGDcxvNrElNQp7OrEBUPU-gcVtOndupxwYWJPwOOIYkLUnGWTuS6fwmPoeow4aYLejEpQexq_wiVKj8sHrhvDMu5cR4HWZYjJQTtcHSLxZiC4HndrwkUoc0Zv6NQMiyE-WAEXkzBi_LyZ3GGAbIYcrsGb4wx0A366kcPOMIMCD3zeVo0H2DQnaU7tJgVOxhC99ED3vQ3RBvZIkwbQud_l0n8FhJIPioJ5cyPUZjEb7fzeq2T9c_-UMc8kgp2Ey-agvOSec6g4Q4qjZigTMes3QofCeDS4h3ihUaE0D8KGGEU8CNhn6jdxrix-C42LPjkSRlF7UAxLrQXu0yEGXNqGil0VFa6uwaOcQ8EtiGWxybv-U4nDx6PGwhtnbHnZJMbwF52jyZ016YdtFhsFqq7-pLWdxlmxbQjm0EoZ89QSPn8o9bJfCGDIuS-N4_VIYIdJQe1JASl7ucrbyxLHUYSLwPz5iton0FmzXnmYRzKvjc_lMv_41xkKkknK4ReF51uKMWKIgTIddnJOkwUY4WR51erL57AfjzEzhuwSGcErNmfcsS83k2pRsQ0LLqUosTCo6jyJr2SznKH-PIrH_Pe6vSCXBQhNKyNWrIfR8UmxMV40RYFq6eUcnnT9JZJt26RSqQBr3yEcLHf0hYr0o1Z7u7k29DtbJoas1Czw37T6QcmJOqsJp4eSC1tSpJJj-fCHnwSTm2ZIOXp4gKTdF5FPi-0XGeBSQTSEGUlEITDHqqoeL7Br_-fwT80QctZj_sEzUf_pKUbqbPC6taP5HnTEEJIT2C_T5Zj886mUnYb98Td_jNiRwayJuymXI5KwIsTFYoRCSGbryu4NXDP7NKFAJz9tU33QW7VuV0PSoEcb29yynDAePnlwIsX7SXQqgs52EgWEqa_15khVROpXOU71Eq3iBNkH23pTquSw1yuuRdEUz8JBcUYrX0wv9ACheqKR8_4DgEr50FDvj0U-mrTVQc1SdhXzcsLF5kiR0JrNebRteO8kOBfVRlZMjzODcl-nN9I2MHMhauY0BGIThQ2QabrCIDasx42ckofmQ0k4J_95M0UNwXvSkWvsr6I9x0ZIF7Qegcg8u-bBYxVwh_R_DjDKLNcDTHCcARHVwXIcSvPGAh516jb8qyPXGmh9vsTLPfQpiXrun22YDQxYMXEQ5jVD7eCp3Te_njwjh9TUlDGQQ4rbT6qXad1OxV-IEUd8R-Kqkn992Ch92kzWsLfvmncczx6J1QbtcgCebYkcP5G3lmsyRZwHHao2YnMPlZsgoZOQ9c2wv2NLNPJgzKP-7fUiN48fRj3Ld_hWvCFC8Xgf0yEd_xq-GQugbPGGTm8rRs8FTvcEnTVGe-juNFuc0Ff3n5f1j_vFG-rnQmnE9yp7zZewknGMmTUGGpSyPd0PlYDd4p9DNAaFZ0c16D8TBNhJqCDLcVDrn8qz_bQk-iuUC5ebDo-CmS4r0p6tsTK0Hn_RJanJOiNbP_4TDQvja64l-fh-AQ2hesynWHJ1asQauRaxZbSFl4bCBySthH4g-2IXUtmrPPz_GfVcYJ0jPQ2z2YH0jMG2YTahlzZFlxtCUh-LdXYj1cCyks_BgutYJJKDkjRaD5Dneuo2X6-KNyO40sgEO0gRZ_NvUX6cCA_euVYJjKGU8gUJloqYmzINhJubVvLsnXb1Oqq6asL3I1K0HcXYNZDipiETFCsBXVA7XFMDid2ChkQe08ilHMs6eFNxV1dvaQIn93s-li5hvj9hATbFrAxrJISZaxJRAqb_D8Jf1g4YpmuX8Z7HSZWB44cnPhsbrlWYwGBcGd3h6NeTts2ay8LuPmwm4U2f7DWzyslU_Zff0gTtcKH1YKDQFmpk2WGMlAMYT3vaIOXTBvaKY3jWe_YncmbR9m3x2WC2mDKzKeoHiwWPR82_dnKioz6wFI3XRiitbz8cmqduGCmnQZI1WGOIX1pfuHsLgtbbd2cbD6yi_vZTP9q4fhJ5BhqsOyVlTASQ_WT0W6x5eRVF-sRp3Z3QNxjECOjbQRL7iugFU16Da5hDr1uoZY8yNPIGmn3Hqwi0nYkbhKo-CitfUXS_PN_EQO49rSwSF4xDgOsLdFPwIAcG0r8Y-4TJY8ijTa8um3ijEYo6LFIVP42saIdh7JwAjuwarc2Ofy5NNTppsuLEWb_g9aJK_kVtwLk_-Ini8IeDXB9zp7f9sMK540IVmWd803L56F6h3HMFFE2cOJVRoe6EIKUPHj1DiO-gqDopSOH8DxhyIKtDxm3Iz48Vb0bOAsthK5f7Y1t-3w-7mTIb6PPcevP4gZcn4H7-Y1DH5KgcJx4D6d_DM2e7r6k-bFBUD587FtTIbDT4cuQodym7mNbiI2KWqWootAXOnhQqhaBV0oX2zr9NawFG-acBRRSJEGXbAMPhN_0gketgni08Mlf77awSIPRw32OnboTRHNQlgeZ1OKDWnSBNVLpVsxQzZD2J2PtkUqdwg5wyoRivsx7NsP9CGF3nhluFQuYsN6sIT-Eni5522CxPQfxcUgXD9ZfHFWZoaEFBIzFvIZcyko4wpzaXMPclAG6VBXgBAL5YrjzNbbSnPkh_0Bryl27aN2x8WJuIN_bXsX01sMyINqltfLwt2_E2_Gc3WDXaBAv1s1CGnk3VDu4O8yEO6POT99Wo3r6O04U367j35QYbWNueu0SjqEIfLOFHiD2dMFJ3t3tAMRb8LNCjEwgYCQik97OvqYcTjXAzAoTRFOVCZ_revuc7PH0ieZVHruUYdsecUaH_zfmDCVDqFFwN3UA_BlUfVw051x8A_aBhzaIqHKqYtdSWyTD_6kWmM4WqJaKnijIUiy7hxKt9wiO4sPK0Uz_C7InCWnZ8rVe9hScuD_TXLpMOEUxrvACKMP9H2TXsMiCdGoViKalJZ7L3UV6TzBL4KW9ot-I6sqYm3gqzV4QQRDCtbDXdDsgAPOHf-hz0E7O80Mg1aSNzxOWzxGkYerJij6DbsbJ2uGukRTzxKXz5ul9o87Xv8fSmfz0258vgHMUmq68-0y7A289ztnkYUOPMc=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b321aeb01357fe8016abf1327b1b087d1a3634383ad0803c5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 370,
+   "total_tokens": 802,
+   "cost": 0.004564,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004564,
+    "upstream_inference_prompt_cost": 0.000864,
+    "upstream_inference_completions_cost": 0.0037
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 346,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

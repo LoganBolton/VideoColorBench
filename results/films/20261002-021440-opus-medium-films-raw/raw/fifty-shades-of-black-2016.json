@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907362-RO0lmmw80Lz9noOD8C4J",
+  "object": "chat.completion",
+  "created": 1790907362,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is dark and muted throughout, mostly browns, grays and dim purples, with a pale gray-blue stretch early on. That fits a gothic period film shot in candlelit interiors with a wintry arrival sequence near the start. Of the options, Stonehearst Asylum matches that look best, though this is a best guess from the color pattern rather than a certain identification.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The muted browns, grays, and purples match the gothic feel of Stonehearst Asylum, with its opening Oxford lecture scenes and snowy gray-blue arrival sequence\u2014that's my guess for this one.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted browns, grays, and purples match the gothic feel of Stonehearst Asylum, with its opening Oxford lecture scenes and snowy gray-blue arrival sequence\u2014that's my guess for this one.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSjQcKEAgSGAI4AUIIdGhpbmtpbmcSDCpcGrC55KIM4DPfdhoMgpl2Ddz1PNWnuHiJIjDdqnGUJZ9riIc0kSYEvahAmcJf5qW7BEFfa1GU7Ne9n022WCfW04k6WL9O0XYD3TQqqgaCFgkNt8AcW+l+vg+i0DrGD9OExkhzfk7RLJYfMJ8C+RHKfe6sdlp+/l0seZKKMbHURnMO5ulPyB/cVl5TdGSEG67r2kphZ84qqYhFfENAuPfkELVfdc7V8Cy9EI+bjDamv0dzEu2wIW9nN5fA9ztd+X+EQbzHVZp6BtK5ajrU0d1K98ZQGv0tr4kBkWzJURv0j+5w0lTFjzHI2rmINBijO6KS1e8uhepfLAZuMpblvxIsWZ42LmmakqWnlLpolU18RhCGym+Nm6LuJ+AqNWFNWaW0Fj9PbYAhcvJzEZzZMATQm2+aPeSn6e2q294h5IqR/EX9qbQ+8IWe5q3ikFOoNeOM2und+Ze4qcx7lEllIb6dunP3gxLjuJAKt69LlTXNFBPm4iPh8S2jyVbBSTTfTmwpAChQFnZxEwowWTsU7f/o/Q4KeaCjBvfk1Bo/ErPAymuWRi993hqGCBn/Xe4K4Q2jPoKxHq9ngG7HFxlYd2BmxAMJ6Fio3TTWyrsJhL04ZrmMo/fTQdGWyJ86flWJR682id9WKmirCQIHalfdXM8xG/jkwiN4sl00/K5/pqyz08iqYEjBVfxYfSllQRJv6kyzIhKiPbShq4HP35YJuQiIoE1kB3coPIUtKbiiWRSTM2/Li3v1nqzhSwE6/yzfZQjRxri1XIqfShXl3WsRRqoXcUvGfre8zqKNsIwTU7tYdoBhfCpwHEJwp2RHoDKNugrr+hUxA0GHJ/950lO0CDkUDjAV96WwWhFhjbmC3aYVDu/fwr5veYnEqDDJV1afaiAirF4dx+qrYYmpNYy5HICZuFjQ0GBpkBW1ISzvW+W76fTciq5l4H2HmKV2R5JsbSbnV8A4CtfnoVxWCQjpH8f571EHH4xYVvUtS3fZFN99Y8O8ElAcMXFFcIhNkDPflQiEtHEYiGYVznrbm1cYyS7TagISU/Kn6bl89QKWGuhgJYhY0lDCYRvQpOKwJm0bTxiCPDL+n+L6avJTYg+p3wBGOBiJtiJCT3smLr5If+B8DjcU/8x6XFmPlZrLgmCcCjS57e/IP0solkEeCC51v1Me4KX9k0tOGfsYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 260,
+   "total_tokens": 800,
+   "cost": 0.00736,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00736,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.0052
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 132,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

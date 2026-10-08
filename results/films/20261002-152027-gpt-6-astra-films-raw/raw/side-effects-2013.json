@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954822-4dRwSerI2X08B3djUgDe",
+  "object": "chat.completion",
+  "created": 1790954822,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI'm thinking about the dark stripe palette with variations of green and brown. There\u2019s something about a nighttime, sepia-blue vibe reminiscent of \u201cTrespass.\u201d It seems to have a base of dark olive brown with touches of cyan. Others, like \u201cRampart,\u201d lean more towards outdoorsy orange and strong greens. Oh, and bright touches in \u201cTranssiberian\u201d give a different feel, while \u201cAccidental Husband\u201d adds brightness too. Ultimately, \u201cTrespass\u201d feels like the most plausible option based on these colors.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI'm thinking about the dark stripe palette with variations of green and brown. There\u2019s something about a nighttime, sepia-blue vibe reminiscent of \u201cTrespass.\u201d It seems to have a base of dark olive brown with touches of cyan. Others, like \u201cRampart,\u201d lean more towards outdoorsy orange and strong greens. Oh, and bright touches in \u201cTranssiberian\u201d give a different feel, while \u201cAccidental Husband\u201d adds brightness too. Ultimately, \u201cTrespass\u201d feels like the most plausible option based on these colors.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv81OzXHvL8wqApax2VugLQVsJE3FgBaOzOtOe1HaANwTNsKl10923UJ_Rtca7CftbHK7iEAVQyWAVLaJSPtbmT_BM0miQ8sc61_DnsrkrpBD9X7WeFMqk8yEIM1UZLweOboNrjPXo2cbACPkBFHK9wLMfgqZDW6w2MTph_z6-VawPR020O6RF1FviP6yw9RxLQCrzHpAdj-k0tRHYVxSJCy2PQd40iD0K_PqieFPFff2GlEhfcGB4r6hS4LA8CQ_tn3e59cjoAU6xg5Un9_Ba4Mb4upXQp55kWKeTQ8a-A85POvCkjgdwmg-qFM7D1b3hWc9nsGuNYYkbS1FgpMUOpm_Q8ZJ5i4GfY7mX0utpyxI9_d1F8vXe4cixB1bGzQi5R9czwm510P_oy2Bqro_FEVruzVxUfDLaydmZg45p0CZGvWcIqnqg-UDtCM3r8wGWbMbpBBwNZVKpZv447xF5zpbklviAVkUO_2V3eWQWPjz-D3RqOGp6LguJTgSuy18Kbi01Ny5-w6mRQeCV5uK2auN9P3xh9438XlfZVNDTePZ_0mBx3td04SMIL8Pt2sVMS9tqYzQBzHmwriO3rXNGkzvnq9zE57mfltCVRmU9HRPSMiN4M3E1J6EMqYuaGMMZz1Taa2ZDnQlMsW9at_GEnXSk6SBfCx_x3FWBJegeifJABOy6gazHi0BPbAkKZ7-J5IcE7B1EY5oXsWcXq7pTMC50ACEQP_juCrsQ2D1DDoJd08gXhz3cxBPO3rN-Ke0vx5GrI17S1W4IWwPvQPkSibnnnKfnSG4A9uphI59MgXPa0Mc1AQL1xpxSnO36CxhzeR7XM6QNFLrUdAPKrYl9J4OxEo5hWwC4ibIw7oAcaa853Rt-BDM2cfPM31KOf_ECErS4hrwMQKknCuc-gdfae2E_4QC2TaGvrIQhQrML7b0us8V5KgCS51PNRPWwNkZ2Y7h2EX-hYy-r7p7iXz_yvihAmePoZ9duRIzSTrY1LHGIhq1uuty_NG9eIfunyQEmxPhhbJ0gX_1Uv1L0PbTTYTwz1kCRj0Qko--zWRBGmdr3j_mzEhX8noBjF0NwyQUGY5DReyjAnBl6mLvTKud1QZz4KhvGxT4pFXETUO8CSL6776wGdu_70MT2Nn_izv75s_JdVpXTGuHX4RTKsqiwOwq45R4UN9BUQP1UZIBb-lu5sbYrHnEDHt_zyCF5RxeU0fKlSmM5S44NWvxA1I5th72jdS4k-jUT3VS0n2EhBO8-HxSJyJuTRQ8QEqK15Zc8Cc2wta7jplT0e7EBeKwD6eVdmWimHr9YsVGIgBJndwVYwURweUJBujpzPGPAOg95jR7ko5uSm_9wwcJbX3ceXTc28UezJzS1mOOvNjL-GG-5636S-ejCWYuj9SiMfarcIjFbhkiHta90RK-YOnSepkbnrE-C8Pu-tUkVaHiaHo6Vr4rQKviroBOW0tbvpYpme4Im_kBta6P8mLF3Rf-Zclt-g35B4FrpgkfpTMZeU-KD4w8AgRa-5JHToRI1YDmToAtExw0_UNqqgWIdKJC0JGYnhB8L7tcTESbOCy_DCbsGf0QiNQEuLEtAMjvhErmMBHmWIYtym_t5UzXaUXLTqKIVYxGqTHCDmlvHX2ZQ0LfqB1sYuJjWZnODWP74vBkOwxbsZc29B1Jbpe2Konr2YMNNghoBVJILcN3e53lfX_zjX_W2rtCCpzVTqzHK5QiqSXJTjLzzj4edLmm_Mdzq9bQ4R_bjBrXpclfLAUTQefrUlvdzRhkcaJe9s8Hm0kNP_bQrsuMPmuEbsmEj1Xm9dQ9DlrgFEqiiNHFnUe25aiNRnM-iUdDUKzra6ulLItpyP0AH8j2Sw37zn3iHf-L-BUqhVeLyUVaSRhsn3gWfZudEEcrW4jg7ecHteMlEHEgK7rIG6gMblBIeHVb7Y8NLylR3zEufRTeR3SxcvkM8uBsWMfCGfeb47Ypts9cwIT7y2Mmjs5JVVE6aOXk2CQS-LyD5309kZgzfAFXaD_zCZRuTD-ejiZzui4WAhIJmrueOhVhi0UXK-M1ItPKJatN-eubEYiBsG7TKMakrTA-JIghbV3x7Gk3YIgS17nwRYSTlSxnF5XxcnHnDhHu0ppu61zQxDVYR5n8wbYEJeEPyRt3Yif2DtvEdIHwcAnhvi5y_fxvNh2bNO67vmDdNmhBomc3mw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c8f33ebad55bbe2016abfcd47a9c487d1bf5df94ce271e315",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 435,
+   "completion_tokens": 153,
+   "total_tokens": 588,
+   "cost": 0.012,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012,
+    "upstream_inference_prompt_cost": 0.00435,
+    "upstream_inference_completions_cost": 0.00765
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 144,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

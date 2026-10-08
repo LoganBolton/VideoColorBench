@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894247-trDnkK7rWrTNTjqUhlRG",
+  "object": "chat.completion",
+  "created": 1790894247,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - Just the Way You Are (2010).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nIt seems I'm trying to analyze the color scheme of a music video, possibly Bruno Mars's \"Lazy Song.\" I'm noticing a beige and brown palette that stays consistent while capturing various scenes and lighting changes. The stripes and color variations appear throughout the video, creating a warm vibe. The setting features elements like a beige backdrop, which serves as a static canvas for movement, and there\u2019s an emphasis on how the colors interact with clothing and furniture. The average beige might just fit the overall feel.**Examining video lighting and colors**\n\nI'm analyzing the lighting and color contrasts in a music video, possibly the \"Lazy Song.\" I'm noticing how major light tan gaps and dark lines create a blocking effect when subjects, like dancers in black suits, are present. The flickering seems less prominent unless there are cuts. I'm considering the color transitions, where darker tones shift to warmer beiges and blues, along with how costumes and backgrounds affect the overall mood. The consistent color palette appears to favor static elements, creating various visual interests.**Considering video color tones**\n\nI'm analyzing the color scheme of the video for \"Just the Way You Are.\" It starts with a black-and-tan introduction featuring a girl playing a cassette tape, and I notice a mostly sepia tone throughout. The \"Lazy Song\" has a different feel, with gray, beige, and black elements that seem less reddish. The average stripe color I think approximates taupe. In contrast, \"Just the Way You Are\" features more classic browns resembling parchment. There's a variability in tones to consider, that's for sure!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nIt seems I'm trying to analyze the color scheme of a music video, possibly Bruno Mars's \"Lazy Song.\" I'm noticing a beige and brown palette that stays consistent while capturing various scenes and lighting changes. The stripes and color variations appear throughout the video, creating a warm vibe. The setting features elements like a beige backdrop, which serves as a static canvas for movement, and there\u2019s an emphasis on how the colors interact with clothing and furniture. The average beige might just fit the overall feel.**Examining video lighting and colors**\n\nI'm analyzing the lighting and color contrasts in a music video, possibly the \"Lazy Song.\" I'm noticing how major light tan gaps and dark lines create a blocking effect when subjects, like dancers in black suits, are present. The flickering seems less prominent unless there are cuts. I'm considering the color transitions, where darker tones shift to warmer beiges and blues, along with how costumes and backgrounds affect the overall mood. The consistent color palette appears to favor static elements, creating various visual interests.**Considering video color tones**\n\nI'm analyzing the color scheme of the video for \"Just the Way You Are.\" It starts with a black-and-tan introduction featuring a girl playing a cassette tape, and I notice a mostly sepia tone throughout. The \"Lazy Song\" has a different feel, with gray, beige, and black elements that seem less reddish. The average stripe color I think approximates taupe. In contrast, \"Just the Way You Are\" features more classic browns resembling parchment. There's a variability in tones to consider, that's for sure!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC3oMXOcbPMImS5iUPfzFPK1GTMg7TNESATCjDJdwdRWJpCqlzo0K7Sf9IaAq0AdCmG0Pqnq7lp4OS-DPaVK21D6tKClJvWrLlGppI1FJYi2X15wSQecxRT4sn9px9OsxC3jOb-t9mP8BmxTaJWDDwRvoevUEsgLVHM0AwfFMDqO6VE2BB2A8_3As5aj4V-MMfnkTustUqmGrUrZyGH3ATypFeZNslHYh7crmvat8IggGp4im7UiRqmvb6W7mkBPjDiL8jbsoVvty6v6Q1QZdMqfMXGVZFhc3lm9OXhB6cCvkeI3MCVifPFgggLi7G_aiMXolVffAaeP7VIHLm1toNr01Bcdpz-JWLkqpyOITBRm4-i9DgKs13WEO4mZ6C0Seb4MlNcuRxak3UlUhBvg06gdic6dXCALfzIzbWGryfHRE-N8gLQWqklQLFKpALJE3XEkv5orjhymxBuBFaiP5xjPJfjxUTqPBaUcUbpu761evJL1b-eqXxGFPIoyPFC5G2EvXTMQENjR5JMIrB_kiAVhhq6uOxBiWk7Mpx_psPtiuGLHwIJbjIvY2-TW97cw6g94JUmqPsZqJzLmB6ZcYiKRGTEGPABacszgxmrH9rDYzk5Z5bxkxzB700nxlReGIKssQbEiaHqRxmY2vFLQH0PPjdDi7NymQboYyC7sshWq_JHVM4sfgSxSswGSd5ox7rJGlyBeb8F8-lqZnULLFst2PaFSdJNqpVyniYYv_Exyh3JnsfB8v4J4oQFv2uoYqulfCubaL5LRC8w4Y-BZwHMKdVM7eAAxMJfGyHuYi1P1c4nZXZjUtZQPRBk16VgyPM3hL0P6j8swO78mkCeMa4wJ6V0b1M5tZUES6WjqxJa0LjtNjGPklJFDANb4rmDtA5oBU-0jglwLOjZy4TIejTu00dAv3xPxT2BWkKPnef84pY5q0i5Fk5_GbSSQkj0TU8mV4AF3LW8uOrJlevQIsDb8XazqaP2In7n11YIqMlIriwFmul5CBcR2NFV7L7jstfe45pdTtFVryOUbVHvQ6YlzKbEAvMA_p8hZ-p1tydAbJyRYodBY1Rlm4LiAn5IXCTVTY7MtPRomI348f0ze-x9J9gPNfjq9GAySyp1hHlP8qkReMCAcC571piMqUBOKerk1F1iyZTgEdCnr4hjP7iSzjXSHKiAFtAbQ9q1q0iyy5Rsy1SOef1kHb1zXgReV5-Psxd7_M0DvdXcvBmRscabIKcruIgQWl4ifusC1rAi6hHaEZqPBeLOgj32rzodArnjkeMaV38z58AJE6Kjg4MUP5ABPgpL1a5su8zwSuMYt9noB-z7KNMixDTzKADPi1D6DImHKglFnqfgsLh4VT-rZXCimz2SAwevoPvux5Kx6UUQSCW9-shbgaTKWMm5so__EMsP7Wp0E44ieJJkM5D9cpgVvdi6LfwY-nxHXmdzX3QEWlzRoiM5q9argSB8va3A0D3dD-XrPh6ZFhGMFmXmFIcdLpF5NqRVdOoVPVxd9tSgMddXU8hb0MSTiZQNG9gz0LT4aisC8oNMKuqjake9aeK4DzdmwVKyBa-ANB5wWKH725ukRZGBWy6yIBXAsD2f-eSKreKrlCTwh9SM63mqXAl_RHw7Q0RT2cc4H2vqaWgVSpV2AXiQoE1xGutxtx8YlichwjpOzruBFNIJLo843mwVUXke4rl2S6YU1oI_XoIrmhOkb4usGx26z7ScJVlAeUIijKiBczOOAhS5P7VtMMRVt2oZqo6ttxN1S9z2KgfxOCVBRaelgkM0r9smOgnyjobLvdO8uAo6erOvi5zrjdSaRQal4zYy__6bgf_2K0YhF2el2Y-dG7grDzivKEakJi60LT-T1rKQwRGbJ5l9gqcCA-wY9DewqS5HJxm5pWdd6R2gC1zJrYGWBqk153NcO8GVGc4of4_kBFWNR3w7yyZF-tr0xgYCdOFKiojFr9UjGK0n66p986H2MzfePYGw6IdHuNFoUV8HoVaZ9aYeQbmVS5nRFWy4VN7QnhPK6llkFASeZo_qpxrFlGPkXzCjslnqVMxn8JJnEpSWx0pRDgvLODDHUT4oKsiO3uMAa9WpVM256jySWklqhg4z2nxQodj2wSh7dU676SgX9VCsjZFWMyKzlKyon4or_achYIY-emG9RjavtFL8RLToT3HuMKqpWx1qUJUTvUcUmiH6kmo-uCw1B9LLogqn_ACcCKxxm1L27-p7LSyhIWty3BxusyYO01UxMA_nN_CyUnJg7cXf17xsx9XIT7y0EZqQS3BTxkv3Fga7GYeWeVw2gSmuT-ihO-ybUbgc_-u9u85tNkQ9dBKT6tLR1RB0CGzjd8I1FYTr1WTwrcfAwau1Y4E5x61_3uWtbPwy4Siwa5PMnY5OJcnzz9rKr8JLFeP8S7fZZ71uO92IuA7GeC0nQXzmKRQwszCBdnJIW3P7Os-9vDF2TfOofuwkcGgvWJWNADKX2LVH867sjnY4phOdprdkojfSsyD0J8HMbxnRIFrot756V5usMJxvoy3L6hacD226jn4EDlwqDZ-VPaOtKClovc9UOs0NMrAIU6R7Uh-3eIFJEDjG0FpuuzovK4esgqqebJokG-VttGF0aRBOJfpQIzTKFjeR6TZYpd7lYp0VWs6i0HVDlg6O424sF6UpFv7dou2tYApWn-dmfbbmLDF2HWnTMbS8yP7h1_7lD6uGEGJmUflwxuqp4IcTqly6EvngXSg7DnQY-t_53Kjc3Gf0CcIxp-aiXZn-9JYks6T8q-BcFDEmGEFYd5U6A_GDRJ_3zS_22Sejf6SDcbgcFfWxPoXjUH4jP6oFN8PmSCK_eKxaW1C0msfOL9C0ImefuIvMVW-slmvB0qjQPAkjKj6-8OLXQ6wc7KR3z7_9NVOo-3yQ9kkne8XqCTKvVQlkDTh8QTuGe5VvGnViS6NkmywcwOexkU2-AHGshXL_QMtRsTZRoW7A6KMeoMdoU7gaQPGiBISIq2PBQdN33bEfH6cSaUptxIdoqzj-hOVEGZ5qQ47pi2ic3aaAjs_I3INUJ95UHtPSbTPwM4Fm_Q4U1273AzIP7Ed3cSLJhlCUw0AK4QKXwcLMGHRft38SIz1lUEk151TdtOOD1yIaSywxwjqjSNY6MccSJhpPKz-8rd5dEIFFpM4Nwws2bPbtjC2tGoTHVGVyUic58TxPCsOKf78buMUf-feNGeX48wYIECIaQ0_Qdms869xip-JyIbucqlJN2kdK8bT3Ce2klEikBVRSz9WaESWnqe7V0yUrCwnkvjHIPlohN9CoLicUScFnBrHurgI_Mh7-81DHNIeBSUOn04YuXlAHZJz0V6pdqi5AOWeKgytaZs_AOTnY9iFSo-UTlkZ1d6aCaZKMOxFhg6sZRLaln53tkiFIxUxeEv8eZ7kCdCQngpOkNFWPAnW75diDCsW1Y7ugcszi4xDVumOL6stF05LVXg8VjKs9LjjlSBdP-VAJk5m7kJI8v7IIfx3leZhUHeZvnsEz38arTcOnDlCXV94SnqZcescw-L_bMQIRVw2F1KtJ6VNUoDIVHKjhvS5KVwqdFbXXs6wJifysvMxkGKFhJrmXmnsaMdLK0UvV-8bBpLKm4_P41tIwa8ic_lmG0yZduY437eaFGLUC1l9Rot5x2KgV-OcKY8EYqsnl_AdvMNinyN5g4okRswjH4xbvAbtle5NFjbPIlXbKS4mhtrMAJ8Ouop5NRLrIMApkZdXRE1KEqWZx3Htmmrtldi6f-Ur-g7jHKAbGWUTcmMVpzYqbFtzOMdCx9DmYVREoqrl24bONKvzMTdU_AdTkBrPKhgcQwz0t7whkzVVvm98upU_KcTzJg2JeCDivm7CC_OJuhQ63heZ1itIZGdXrw-dSeNrU94MSKd1e0SMHjyDSwt86Lmnpc_8BZjAXG-UGp8dhLENTwdoX0arDyghjVHY5y5Wj_D6iBcO0D5rzoAncZkV9hBTdhTTVDUTFbqoJoUBd5rM4NGU5xP9V7MxSUnHpaoJHDzMLNMbPXCMpMC3DUL0UHc2_k7gpDbKHIJss0NtTowKKGngJ_KT9Sy0HQdfrduVSBZ9HdRlDyO83iC4Pv89QHN_xjNZbmCb9t5o2p9N0rky4bmHwed0-PgRS0TMxN847RcwluuZDjJaNd30XlST7912gzRG8o7ffmIVKGohBdcE3gPCZJJIcChkpMv0fjMAJQRcGeSqQx8tbX6R17Zq7UUvKcVQoyrWqczWZsHjuPEQFUwhxHDKii-qD6uOHkHFOxNA55L0vgyOf4Uf2tZQSxflV6Z7XssaLiIZ3JhlAv2taoY73k8SKXkM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f223a1db70bb9cd016abee0a8cacc87d1ad823618bc01ceea",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 482,
+   "completion_tokens": 471,
+   "total_tokens": 953,
+   "cost": 0.005674,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005674,
+    "upstream_inference_prompt_cost": 0.000964,
+    "upstream_inference_completions_cost": 0.00471
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 446,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

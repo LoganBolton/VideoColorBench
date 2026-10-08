@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894464-3GMz6FQWtMHQkbUsZXMK",
+  "object": "chat.completion",
+  "created": 1790894464,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern rather than a certain match. The stripes are mostly dark, broken up by bursts of teal, cyan, mint green, magenta and a few thin reds. That fits \"This Is What You Came For\", where Rihanna performs inside a box lit by changing coloured projections. Other options, like BOOMBAYAH or \"Something Just Like This\", also use vivid colours, but this pattern matches the projection-lit look best.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm trying to match color palettes to specific music videos\u2014teal and magenta tones point toward something like \"This Is What You Came For\" with its projection effects, while comparing against warmer-toned videos like Closer or colorful lyric videos to narrow down the right match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match color palettes to specific music videos\u2014teal and magenta tones point toward something like \"This Is What You Came For\" with its projection effects, while comparing against warmer-toned videos like Closer or colorful lyric videos to narrow down the right match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0gcKEAgSGAI4AUIIdGhpbmtpbmcSDM3o2KvTgoTAgYTVOBoMXPEhXX3ht3mZINBWIjCmUYbY49uCtQ5kl4wr0MLLJFfhypKdvaW4F+qw1p/slSToZiYGLNfCVIfGfh/VpqYq7wbtfWhjTGpDMvT2vgpXzSsI1taPJfI7gXARNnOLxsTokOrplBW1BNjo6SysHJTro1Bns0rfut71BtRy4Oe1qwFNxq170A6NAmwg7rvZABww9TzJUcQv1nX8rOVrVddnznBt8IiHjBxeAoPgSVYjDsh/xS3q5LQ5Djx9lKnM1AJ4PYY01rSIJBC6x+r+gZ7Or0I/+uySTb6F2YB6Lt8yL7CGnyVZFzik++mGfywvgivqgKlGeW+Ne7KqAqEyDsIFpuH6mpaYP6h9FqZ9f9kfCqkN1BYkM1xQHLl+x37FgKzcl2g778NAlk+/AobuxLOp/CtAKMwVCD3gIK/7RhmD/bx8zxyfzMzs4Hi5t8ZXCPqIgIggGBrL7burzxjT73Cf1Z2/zbHCK/SODok1TIN24XB8qGVpLZtpZc2lIz/LWrT2YizV44gPmo7D0KUb14tmHyuLxpsM7bNSz0U0Yrn/+wj0iI+eKpsIuh2Vf+S2VH1dcvUJcfTL4JQ6ORAUo9JXKTl53EBDazP4enP4GQ2e+jMSPZHN1A3ZzPGLrGWzNp6lM7aatDT3Bocr2Yuaj5yyVYya1vnk3bby5iW/nqkn29yRxngHen3PisXzyP7Uoo9Efs3NEtP4Igrli+7Tm/J95kRpNTz7QhcCYb/Y10cF6WRqaVjOBa+5uG08QIhD4ITYFVwYHZIB93ILFjoYZfseMM5JScFvA+RvnTUfwas+q25O+yEYZFvlk1bOHmjmaGEfowWh4N9Qo+WElnRanROsWpczvflI4RK6c8Bfbe6+53cgSK25TimTeHeACRXLK8NDUDnIO5INd4gcUQKJch7rar7OusWX6hORpGftYpykklo4+xWGpWM+40lniP3fYYQyqOpu/hTeZnlKjNh51RxgJWgGa863SzBl1ew0l9KYgaBAyArGWsQCgGxhUBw57HdA+YE/+jgrzvF6gxYPyl57bML1jbYk4B1Kli3Tn4bs2USAn+2TNbXHvivYscdE+X4wLmqM2eFSImbBpJn8Ip7jfAI1kcwvZi0o50G5JahvzxfDvncIigUoY4ZPNxn9LsMp+1iFRA2S/BKf4PaP/FPYpqXyz9RnxOKaKbpYfp11AgTlRzt991i4kRPyQi7TINLTX/1dCcAo9teGmetw948ZnEp2tW6B/NqRYHVZ1H4Y61MYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 671,
+   "completion_tokens": 309,
+   "total_tokens": 980,
+   "cost": 0.008864,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008864,
+    "upstream_inference_prompt_cost": 0.002684,
+    "upstream_inference_completions_cost": 0.00618
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 155,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

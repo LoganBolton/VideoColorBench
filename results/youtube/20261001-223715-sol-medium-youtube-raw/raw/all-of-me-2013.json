@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894268-r0dWPZn722zs91CBVaoL",
+  "object": "chat.completion",
+  "created": 1790894268,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is John Legend\u2019s \u201cAll of Me,\u201d which is mostly black-and-white with color wedding footage near the end.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDC4ckSWjYBMrFN0QDIFtFVyMVZAyrklAb035o8B8yOTI9jx7AtdgFYB_-QBc2Ki7dUq0XTv4MGWLy-IJtCzWlHH-YB4yKdRR7gq9VYE2SpPiEVMEcKi68uEewwrpOLM7A9EWWHif4Mbld3G7kRumsa2Ym-L2o6WALDUwbZvpsFOKVW7L6JVHCP02sVhzF-yQKXWQtxbHKvcqGZW5PdDXejWq9S7XHdRuqI32C1X-iq7zOcHDcWhCHyMJmSA1bwLX_5NyXM4kZ9G5IR3MNu27T1pvIw1WPlkYxivSdsjOcRLAbOdc-P-x5rqQR_lfAlYRP-5E9J6rwocWLiHpCGdhnxY39O9Y5GPs7voFOpYnojoCpeBgqKNR_ybMrRHZpT_EDmcMFF4mxfQhKD2UkH2SBf1Kmt8ywwGx1cVblqNhTOYq9vWXDl1O2agrexsSKzg-94hi2_toVIuf1ugii-zpCSMHpNrBT1zs6L8R0SMVxc7ocoDgT5QZ0DrzDJTwhx-OuxC9lvVSsBXeTfvQrFtB5QwoM8Nm2AxusD11GfuIFHWFOm7l3Ul4UbxMm2ORvGN_Y9w02t0XyQhpEnXgycd6vLqOwtZ5SJcNxzjAn2YviA7LhHXaB-vnuvuctinigjv-o7bhAceXyWgbnQDGwGTlhfY-BWMdmghcH5FaGwVX3HH6Z0LM3UCjyqqkX2akveCmpOAI4s5-Z6ktxya6SOqqISZfeFK9zemNkgtt4VWOsNWNW4xW2xZGSELGQb4MaLfZJK4wGICdTIs5MtiqVQ82KdXdN_NFFJ7sWp5s9INb-mfNW9JVMHpeQv8X-bVUDnktyfD2VykrVkkJ0afRqrkZ1jhBuJ8_D_i_03qlIrol2E2i4ux1lNLPC6A_cpWakcAqNv4nFjXWVazAt-Mwe8RjytRnleTDTmKG4eiWqT115nM8YurgaGu_ish_WvNV5FPmyKMr8gFLwAhtgF_8-u3pYrNRFHvOn7L6lwM-vcCOgrcfUJ13YtTkX172D4Iv7AWcqSdeXzsTWoNNnVrRMJBs6fwQqS6tO8lXx4Q23NFevpwfNTgKENCcKCTyuRz4cbuwSINJyVGDQ67e3yEfINsuwSDYjSA0XphxS59A1JDGvwQ7VQyLUWTJrJ_HLBPzYPxZcfYZiw3-A1w_WYO4xM8PrO7NhN4d4JQs9Te5G_yqp9tWdJ5LZ80B-sTG4tOU0jVX6LZZfghPHS9lFehVofo3FAQf0iUGk4uGzi5c9WPyO4MvzQs_iQda0vVpoA2xJXpvsrwR5DwwAP2fdXGlgVptnWIHCCJLMw1wpE4onsfH1Yu8CfBUNVHbX8aC0ntSzuFUdmI3SOmokGqKIra0HLHZxGhbIgOiqKtwYDu_leQrxV0XSr2CcTfHOGPDrZt7dS0RxIHEm3ZAlAR1WCvefBATJlMKbokGv0UmWGaF2b9riJwGG0-FnTTuqAH32ZemcgRlko7mE8JHd2ZzbSWe20WB3B5BETAZ8vm-nGSQYpOZhyYfY-_8rU7cT2o5lDw-BaELL9EJ0u6yN2bhB4RyjdWfV5NKuHmRsLr0WKnGREMVfTrmsR7SSMcWbb0M3Gnt-h0i5bfXEY42A68T7wasen2tJVZBopM4gDokM4hg-qjCXrQkUSozU-Nb1MaQeuKNXPzbcxmZnf_Z51gdVTPHnioXnx3w5G84QhAldtnP_vITElpEigl0DczmX8rqyB_SbEvzYEGQ2kzYXn1WKqh_l-ItpTgf8Cv1s1wQ0ZFIZoBIMqOC_m6Yoq6M4wHJpxdSuCIC1jVcqVMeqfvtlZbO9T0IPCqSEZ9SoAZc08dG9vrSMoLVGeWP2o4VrLal0Ya_gJuRMmOLqWWboIPf-2RZdiUNBi2qtHjiAMUxIu1E0kNuTueAbL0QEQCNzgE517xp4WK1FQIpGizerWOrR8KdUeoYLWovlncByG83p2lyE7UlJbYHUiFrOpgMFt4l8gPXfWFw79gAqmZXq_asy6nOzw-WJY4F53xe3iiP6hHCIhMtrKauKM9Qb3atX-I6H9B1k4vKuqiIrh8JSj2nlrwYj8BGJ0zD-g1XhorkwVfmzcj48RJJXgRjeOne0ofiNorVNAuSSh2VJxigdpkSNKGrhH60AcSXsimH0NdJruQ8y0dfBTXgQlEY85DoTndxjyuqN8ZUCS-a5DRb_d9Z2aaBx5qNgsRMOrOmI1TC7-7tRLxgPPP4rTpjHURWYxcA0rFMhFIh2jwu1XbBUboRqUxqRG7pe3Lw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_001909623f8dc23e016abee0bd7cdc87d1af0834c095a3ab75",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 460,
+   "completion_tokens": 179,
+   "total_tokens": 639,
+   "cost": 0.00271,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00271,
+    "upstream_inference_prompt_cost": 0.00092,
+    "upstream_inference_completions_cost": 0.00179
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 144,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

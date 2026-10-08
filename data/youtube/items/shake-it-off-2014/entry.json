@@ -1,0 +1,21 @@
+{
+  "slug": "shake-it-off-2014",
+  "title": "Shake It Off",
+  "artist": "Taylor Swift",
+  "year": 2014,
+  "label": "Taylor Swift - Shake It Off (2014)",
+  "hex": "#656772",
+  "rgb": [
+    101,
+    103,
+    114
+  ],
+  "frames_sampled": 242,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "nfWlot6h_JM",
+    "youtube_title": "Taylor Swift - Shake It Off",
+    "channel": "Taylor Swift",
+    "via": "piped:https://api.piped.private.coffee"
+  }
+}

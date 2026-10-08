@@ -1,0 +1,21 @@
+{
+  "slug": "legionnaire-1998",
+  "title": "Legionnaire",
+  "artist": null,
+  "year": 1998,
+  "label": "Legionnaire (1998)",
+  "hex": "#433827",
+  "rgb": [
+    67,
+    56,
+    39
+  ],
+  "frames_sampled": 5915,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "J1v43BgRE_E",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

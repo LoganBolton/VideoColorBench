@@ -1,0 +1,21 @@
+{
+  "slug": "on-the-floor-2011",
+  "title": "On the Floor",
+  "artist": "Jennifer Lopez ft. Pitbull",
+  "year": 2011,
+  "label": "Jennifer Lopez ft. Pitbull - On the Floor (2011)",
+  "hex": "#3F332D",
+  "rgb": [
+    63,
+    51,
+    45
+  ],
+  "frames_sampled": 266,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "t4H_Zoh7G5A",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

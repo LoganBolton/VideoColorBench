@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894309-Gokrqk23RVdAx4xWHAuQ",
+  "object": "chat.completion",
+  "created": 1790894309,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Romeo Santos - Propuesta Indecente (2013).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDsE-ouVGNKoV2jb1QITvu-whVsF4Bz_6oHpk4drjaOwYByhEoMk1Bs7esteJwjO6QdUbwAe_lSxsFea8sOlZuUVAANQFAf19wkIv3bJALX_o3sztF2q8-mfurQA58G-doi_VA0-B6VCqVfzNOiiDeNL1PnmR0h-Wfmw_flbFLuUnm6sY-Rxnp-38cu7yr02HwWJDU25db1EBGI2hvP0tprYtQTL6DbbV8RLmwDqTr85Ht1ukw7YyZnIqWkfR4nXjgwaiCWRwkwpxCt_UZ2MydXDzB2lJfPOod35gSAzgQSq-rdXpYh5webwMYuyUR0t-Zis-p9YHrmnOJk8OLJiM-p-mG5ASjH3H8qEHTLu0jT2GUEFiACTuJH4UU9_PdAHP-MVBm6lm7ESo45hqfvRIDiHtbOtWZnGfNXo39j7hLqc7OKEMUfUzsw4HibO5YR6CDh5xNg8EDPRZJEEt2obNJ-zcVslFF1Oql7xewWu00VAJL9p_Hj2T44WOYmISdNzby9nOJ08HEKiC8K995dh9sbSgDxouf-T76yr8pgS5rpzxOVrnAOSHm4-adu2opIxAJAyfxkFloi1L0fK-jnojxkMzuUKiw2YHtPj2cwrq9WZbbAfTAjJi9tv-tmpfvlt7z4RwV0Ac0uo2_DLsH7WOMIUUQCPjb_ZHwCDK0zjYFye3uFQ77se6Sea9pbNnZmQNppOOeQSB4BQj0IM0cJITOYCPQSkQNVhMayD6cQ3LS1LNoXGG-Gvs4-l1yK-LR9m7AaWhMM0wZ7lmEoRJh9fhuKwBgBEY2tAjTgaVRZWcv94jKS_OpNcsQb4zJrIhBSW24D2gu5ACBVhMvM7igcOpLhZk_0Va7oNxcAsVFcCkbp6c8YkIGZqyiI8P8SyppV2KA3U4nzxeyaPAxyM2fNFDjy5To-gChizpt2T7aFYElSRlyEG21UpHqnWg4gR2HsL0IJYQo-H5V4XaWJE5HcxzySwL3nUooNHNBpYWD_3b7MKFEb4BMJ2zpwazp1XVvYOEXrbbB8WlriYmuZjBWp6ZsRO_k-xk0OFoRMPM_3xoz5dFS9mMBIEegLQw-tgpbPHRnyXaGOR2vaMS5uUZpd-rlD0uft8DWMvxqpYlPNWIEOhuqyC5ZbR3295oatlsi-NQ9qOoBtJS_1BNXA0KuKFV9RpsKDh80b5rW-8dQ2kxvpuIo0_8dWe_lFx3P5pcxERonX9m87dZjX4ylR6wsOSpfEt4m4qHzZ9i_Z4WiN1BdWdMnzH0NjMfvzpPKXBN-djwa9t88t_2vGyU9HIXcC9cegElkoNoTXpa_A5pAYDMxkIVdHREJbKHA5hgq7Kb3EjC61pkS9ScH6xivD6S0FNpUnSmGkggR16Q8ivcPmHXgbU_Gi6KuEu8DF57FTudTABMOwJcR8kj9tYASOeR8cluuJp_YACEyyaM-LG6QnEgCI-4EftZBpB_9bgwYwNtCZhzMp58wxI3G0GKgrP9nZaxrVGxK24EXsi2d5DGmkCHUv0_AOiQDMieKwMfs1HrM-KWQ2lFTwaTjgdYVm8lbO4Lj4gjxVUq7nZ87i6UrFw8GTGXueUcNHldEKHqOg6z1EgLLmrhquk0XhqA5NIU5lrrQNvUUOwOvVK72IgdYuzf0D9ij3sQgEx_7-uKOcTL9N_05oJ5xPKx5dmM2N1EMoD2sKxdWfxQyl7F7kLrVZOiS9DloTjw91FjJ00euO0NsdSdIwpm3AZfZwpzEaJDK8kcqWj3wHdcDAXMxUPOjNBV0EegWijRG4SU0x8_HPNfMa_FpIl4WPTKKkIcREfOX2iTZPSw7nmNRehYk4lNKuxgxJ2aVHylFIZmKxkNndypiBlu6lSz7nPcOoULkq4gp1s9jHWeuKhTLkJJKd8W3Ls2W--JyjmZbQMAFe_HXan-Cp64jKvaY9O6mQsgrmXC5ScNSCuCx1ANOeACk4RYHuhxPGCjEeiSshDk1vIdm0g3hOrhDh64bEoqRJbdfz17w86fC1eEE-WlMWW3NNhKw7CLAF9t2cAphn65SYRTWU6ojANCFUsnfEoVvC08Tq7Aj5TRjREeBMff9NbR5ApS5M8W3qwTqP1a_uquC65EbYI_9dPm81lcgAgO63s8huzt3D-GjbjRkl8gyjxE_D0yMfoqQAvvoM0WbQBzb9R_-LtJ-6iP21bhdj1eLo2jYM-zNdN43_GPQhdC1Pqlmw_I50pLZSsz8EJ6d849nXdlA4XFC-MAJRPnZqDVhWb0Jxx0QhsluCRJ_nEZGWbgUVF7CoLXQyGFZ6Da4gtJ686hxiYjr5pYNSWaLA3MmH9-6IHDmKKsLqxg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06fe76feaff482b6016abee0e6d99887d1bddd400f83ff38a7",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 491,
+   "completion_tokens": 176,
+   "total_tokens": 667,
+   "cost": 0.002742,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002742,
+    "upstream_inference_prompt_cost": 0.000982,
+    "upstream_inference_completions_cost": 0.00176
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 151,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

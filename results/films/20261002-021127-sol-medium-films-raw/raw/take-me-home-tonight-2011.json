@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907204-3BiVtAEJ8MyfYyyINgMg",
+  "object": "chat.completion",
+  "created": 1790907204,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Take Me Home Tonight (2011)**, given the predominantly dark, warm palette consistent with its nighttime party setting.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Recalling movie scenes**\n\nI'm thinking about a movie that has a dark police scene, but I\u2019m recognizing the conclusion takes place during the day at a video store. I recall another film, \"Take Me Home Tonight,\" which ends with a scene on Tori's balcony during sunrise, capturing that beautiful brown and orange sky. It feels like these moments contrast well. So I\u2019m leaning towards choosing the first one, A.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Recalling movie scenes**\n\nI'm thinking about a movie that has a dark police scene, but I\u2019m recognizing the conclusion takes place during the day at a video store. I recall another film, \"Take Me Home Tonight,\" which ends with a scene on Tori's balcony during sunrise, capturing that beautiful brown and orange sky. It feels like these moments contrast well. So I\u2019m leaning towards choosing the first one, A.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNSAfZBFZfxA_yys69gcHMhQ36bYTTB-ORR_5note6RoT_pQ4phntNhbSFewvd0m5zxCe7Kyjgr_i2v47Zs8uM-q57uGq19z_9xHyQhSceJkKbkT39sYajVHR_j_7or_22p4oKdaiFbEyUGPUUnVNNOrdqd60Jypgeo2uWq4N5HKTBk2QVL4N7pigaImAKutarns9RNumw8M9p1Zg_rHK93t1OKKXm8fWieJFtp4JfWJuRpoa4VbutSg9vlKUq7JsUuFp5M1z0kHTUIjZwOY_wWIFu40QZuPmjFB5JqNfLLNapV2Tk6r3yRc6p-m_P-eNix4-6YLER-unxGpYvBOwQ563PfvbjXvo5_Di8kAu8isNUakzGUg-KRY76wkRzdebKJHViTzQ5qcGu3f2dtqGxBWIUMt89AoWxPUhhZCaJHARP6LDnZ0uY2sLV9dYxQnUReOrmh5qBk1fSawEVnA9o_OThMnFixc9ouWH_c1GIiTLn4v0BmlCPWabxS8DL1JYrY-sYn3_ol2BFUfM4GEVdi9OrpYLSiB1f93UxMdzTsyUBVTydFEuO1vwJ979VcKQU4vr86Z36CT7tV-VIjDuAJXI28W5-2JcN970hoFFDKpeUX0FvHfEs4N_rnSB55IPdduJcoi6NgnIKqsxQPihMhcFxpSFiiMLafVFcSDj-XZ5_6rp1qYU1N4CcW7rvqH95VCV5OF_Y-eT3WxtUWCLT2gXbhlnAvpZg8be8UZKoFJAUWt_H8h12SGBPQeJjDq5LH5zjD_fDG1XsjLD-zPiuJuUYG3VOC4-Nk2zbBAmXrQSZw5nZ1EX5f0PS6o6sIOVqtH1lz_hrO90pEYXYeN6N2lrmsawquo2T7GqDuoP_ppBCaco_OAAHJOo_AHW4s_ztXda1z7VGe2H1b4cP-RSK8O-nolvga5oUw9YDVSnAyOZpIXFc-oxsheQJ5Nu2_ULZU4ELksJF_I2_T_ofAfqkCxt9DKxWrE8SESMN82fEvdkqUgkWpp4805uQWjKVNlt3XQh9DJ9KM0D4WLUSfefJj-HyHIIrdaJqnYPfNuHolJMTeLfff8LtjpwmpDfhZM0q_6riHSepQHcYlMB3YolURrFGDcKye7WfGT5vHIZC0ANpw3BOI-I6lKwZOVsGCwmPghGDD3Ofy98IKxt_BNHowZHEpkfaE1JYhz2uqPJg2tQfFdroTjXUYcFxeDdp4PEXbzTIPxaclZPbqlagF8F6mvTRIDM3KQiFX4-WNnTuqqtStcxtcjsV9kgdkM3hDnP46KWNQ06gwrYX_gkXLS4Pi__o3PVTnqjorEecceVZLhw2rQu-tVzDb-K8wVx6kvDQ6jZj6F7tEROPdadU60da4nzpOvRYFzKKakPCcnT11w8m5WGDSG3GC-xjun5anSB9XHeovKkFXkGwUDyLj3BhuEcQSg_bHKOqyv9xcaonq_YxD0j4HZ_wZbUHnE3_T6IUpQ50FFyAtn13q2UzPRaTBkb1zSSSUv8_QnoX-TeQafYEuEWRlFLjsNiX7gy2YvBps653CZW13-YN8rhucCI1BoLskF9eoM-gIp1WlX3ReVCauDSAxUG7v3j20phva6pNC8vFtgVTvfLmCEmFMbC6BBEiHMFVVgNsB45CrUxvzaox3Vqsx6GpfE0KUWr5QGMI6O31ybFKlSbT2zmI59uq2HBKDrsiMtZ4EAoEVyfFA_65weCMQXDH_IGfekCYG__BvyneZYEvz3OHeALT0YyP540OLhYzXSzimKunbHKuL4Hh5RC-Jt5PFwoYszf-Ql7VLk6Xn4Bd85jCsKkfl0dVTrXM_U6sI0E2i4D1CLHzNtvB5cW6yA2z6kip9yX_dARWNoHe9jjTReRzJf4rPZvqZa6idGgREkNym5ddtVa1KGXxScIR6jceGo2p2sPlvXQztv8HzKLojWtBUpCVLbrvI-qEDMIRmUNZRrGG_kz8umdqZuGJusC_bltAbxjUo1qfSR0XgdWCOmX5osJDr3v4g-BRdf6l4QPNtAipRXYHqVWBIWTXXYC9IQcHv9xLgMxaW2A7zliYb_jsSYDPdyOIo1UOLEECJZs0XZA1Hdia48GP6EX8mKLhRpXxAMge6PKknji0NrJjDuNLKDFRKxjVVHlXPYDFqD8JoYL1geBzp8SFWoz2c7Oi2Ppra4E7ZkIEXlT4xg51ka81E3lgBF22lRdGtkxaopjyXZ5qCLqlAYFy-0Q9XzxjmLIuNpdwOlKVPp_FQuH-vF_2kSD3h5oUrDbhZQbVlRB4oYlreHdthw45s8WmO0_8_J-2oV1tjZ4YmFsR-ESI1P-p_m_ym02VbU4-7Sva5Pq38DLmJ-S5Bf5Fd9ujBR-btIKYJxj3-gbrGaUx6tvzG2nmFbV9qMmNJ3WrCUDfpckhKFyh7AmxaXVg6Pe00I-3ZLqsulckv9pCSpdYIHQQpXfacs6X1bnn0dmMPkM28XibBirqLbZYatb5RRBWAIHlk6Io_TGayhXVJ3a9L2KOmyZ6C9o7FNuZIxexJiE63jqVCfqP2KH4mbLzGeWRjlPOqOofCCfFerTBWgCiHjYx8Xdrpu6fEflySh1tJoME1DGutp3IprJwbb9Bmb1oNdW63GjcZkTKA7XFKtNmGW6sQu0uykcg8D8EG5qNbywG7NVuh1sjEUo37vTd7ZaDuVHfoq3cDrhN2xQpB1h-LaRnqAa6FMtueShE9qqklqN1ws597e8RiwEu0oebkb9RvImi8SYDsCB9wzdJEpf0h3J5Ad36rEEuFAyjVgg_4Qae0cOcTA9AulJdW3-NB9B367KlJQhuVfP5p--zf.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02d2c8b4139be05d016abf134abf8487d1ad011f81227a8b17",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 437,
+   "completion_tokens": 251,
+   "total_tokens": 688,
+   "cost": 0.003384,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003384,
+    "upstream_inference_prompt_cost": 0.000874,
+    "upstream_inference_completions_cost": 0.00251
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 214,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

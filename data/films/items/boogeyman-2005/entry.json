@@ -1,0 +1,21 @@
+{
+  "slug": "boogeyman-2005",
+  "title": "Boogeyman",
+  "artist": null,
+  "year": 2005,
+  "label": "Boogeyman (2005)",
+  "hex": "#27282A",
+  "rgb": [
+    39,
+    40,
+    42
+  ],
+  "frames_sampled": 5330,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Ftu4CSDsqBQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

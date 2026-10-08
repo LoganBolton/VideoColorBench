@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954437-7ITCo0udtp6EjJvIFJY7",
+  "object": "chat.completion",
+  "created": 1790954437,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": "**Choosing barcode colors**\n\nI'm analyzing the best guess for the barcode's colors. It starts with almost black and transitions through dark earthy olive to a gold brown, with a strong amber finish similar to the movie 1408. That movie had gray-green tones initially, then amber and whites. There are several others to consider as well, like Jane Got a Gun's all-brown palette. Maybe the variations in brightness across these films will help me decide on the barcode's look.**Analyzing movie color tones**\n\nI'm reflecting on the movie's color palette, which includes dark flashbacks making up about 30%, culminating in a shootout at night that transitions to a gold and black ending. The desert action scene in Legionnaire is brighter and shouldn't be muted brown. Jane Got a Gun features a desaturated sepia tone throughout the film. Based on all this, I think I can provide my answer as \"H.\" It's such a fascinating mix to think about!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing barcode colors**\n\nI'm analyzing the best guess for the barcode's colors. It starts with almost black and transitions through dark earthy olive to a gold brown, with a strong amber finish similar to the movie 1408. That movie had gray-green tones initially, then amber and whites. There are several others to consider as well, like Jane Got a Gun's all-brown palette. Maybe the variations in brightness across these films will help me decide on the barcode's look.**Analyzing movie color tones**\n\nI'm reflecting on the movie's color palette, which includes dark flashbacks making up about 30%, culminating in a shootout at night that transitions to a gold and black ending. The desert action scene in Legionnaire is brighter and shouldn't be muted brown. Jane Got a Gun features a desaturated sepia tone throughout the film. Based on all this, I think I can provide my answer as \"H.\" It's such a fascinating mix to think about!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vPyXDTgIqe5M76-_f4pNmCIUXG9DN4XREo0x2Y6z6KQQsmOrugVK2djVYzpdrdDcp6mqYrZuJIhCW-t7uL5i2Am0Bc3dz02HZhlXXK1jFa_zUFKQm6RZIlsdTf4DgLsRshOedT7Vm7YmfHdHktXJm_62f2Rzc3Otn_SxgKR7I_me5xFPKkERjXZZj5S3VC-finPpE0wNwNDbUldMR5-fVYe5kAkm0cyteAPOuoQGllYmmiYs9L6nTPDTn4PbOwUIfI4sNwgAk5XPUaXN-9gEu807zGJbTWZTRasIqV_Kd3YwKH--md7weXqgN0p3wl8OV8b7s4e7MvwlYbiMdnYDE8TgMOLwPw_bLE-293JBlUjZqPgvwXSvkQydraIm9Z7tDftfbnzCkx5AiM2EKA6kZi3UKW5cr3DCMHLNGDQUhNJwxQ1RzjRI2yh406DdrOYYGSRa-pU5-fdcR5gVo98leN9sy79VWY5L9vJCyaEW3uqey8KCxibpW4BYdpmqq0GVtb9-CAP5k69G_bAF_i0fSHzVJDGAm65zezSMtxg0jLKK8hzGdGjvuPS34tSDIC-Uk4M32bMqpV3wY0I8Z32_iI8VOXyQQWAM3cNbMMeDCq2qkfKYMJaXlZ39QTPLc5JizhOB0LM1VIpTcgXZNU9yoGX83WU5yIrfFv59VtPckpwOTgUG43Zbs2mn7HxTnTQYLIhScXNwP7OSI3lkzJD4V3kI-RbX6QgGQUd5BT4VxOszyEdC24wLWJk7at8W1Ii-p_IU610GTV3WhPwqtrFLeLXIcqg3ClI-7pdEicMaNWDXe6qaokJ92PIVZy2-3VJdJqN0E-S8MI0pq4P66wGvr_wQ82PUdK9tJQnqDlNCQDARTaTf9xfaAzyE8r2kaGBYrSXYzLDVuPV9N0wCoX07in-kZgCHN_5F8FXzoDw_d_vwGnriK_Dp0gt47S8ZOPG4ihbQx5i2lTDcKFDyv5KH0JRYPS3uYt6YhiZpYrPPRjvF5ualXpLDYo_vRnU-zBm-k9vjOHPrWeIhr1STbC4IDc0-4ObSHesYqlGdCWQ36v87xFmTLXKr1X3eYjTb_h4NdUGMKJPS8JTn72r0hOxiyEVTvuIcdirtm8FHI7ZoGNppyEhFRI2znvX13ha6Yt9YojCAzdaqiaeuw4boKXH1pa47gHR9f8HlYJZQazjByhEKZzvzAFN3Fqz7d99mulCZMUQb-MB7bfjEeC0jYWRpCTV57ZiXUT_CR2_cglXFWCKBSZmnTT7cmQM8bCZV19esvHk0eULL7zaGQxFPjOMrGX_Oin9yzHPEG5Nejs_BAVg0I-vPsStY0-qlsfSp3rXUDQ5ZySF1rAlFWbg1gOoZDr3mmGrYlFejLzkDghDd1sXNRdw0-XPYDmTXOyrY9NfR-FUwncZ_rg7TOMJp_d2zMPcGnA6ppK-CJmmWV_6ERQtlgSKqD1efcYM5nAMzZwuLj0nJLfROZRbI52As__-80zXU1YvMxzgJYr892ycNyzzsmV4cC93tV4WH9BRVrpC_nnngyqQq7UD6YhiLpBI0FGOh5dmAvkBcMMFst65dyctmOLicI-WIh4LkaTDc184Bv8sbIPV-gS-NHsMV3gmDkGipoVBsp8fIPCpMU9ZDHA_eN6B5C4ZzPltU9sU_2pY8sQdNuVRWSzIKhfTydPDRDPZi_3T2_P3HVY-YHTtHgsriUdvi00SPEHdgTI_9ehhUd0VNzHoBO2_cYwnBg0n67jy2DxCVU2bsUcFp-WfNb05RDgND0N8uPgP9dqOePm_aIVe0Aacq7Ytq51U64vlx6jtO8T2T5V1kDCWzB27u6X1TkB_Mw-THXrKmOOHuQx9CEt2iOCPKzVDrt0fZkqtdkmqw0366s4xbczsP7FIalLD0DWs-5UUzR4qWGzIHwMgBw5DZ5lCqLIycj1BsCGTDNmaFZjrSzOA_CYVVjVdF7YuMcGKY5wWyFdpMJCLyLy_66ESCw5E05PCukKyuTYkYU2yV6VvI8OYIAAa0aq2adkyCDmSVh70m8kKJ7PBbZPBpdW6nVFA5miiiYJ18_gat6vjzszcVXpPsHMMb0BnIkaX9RUGZ_nDEix6i5NUTBycSsWh0yiTbNtWJl_Mm4Zz-AwjuAqpBKJUYbPvfDjuL2MZbWjklW2Wh9M_xTWJsGPGhlOo1W4J1ETLv-eWf1TmG-pLYKi6Hys11p5HvDIq2UeBQGv-pT_D5meO2wKCyYS89dAw-_kZVQ_0hMJazOQjeHf8Dp5zfiqM3GSR3gtqnGPAaW0pyMGkxmv8qOf7kk3JLHAeoHiUm0D0NgSkX3ZeAhTgwJL7PPHzwnAwUqMffzrkV5lSljNkvloOixq1L3kiLdpmW_OYvZ-S1TA6E8E7qUQlCdkZMzVLG8tl8weAXffLsEtn_pFmw0WqcFIwkhefPWIVUoGgWMinYwW3WGi0aHTlcrfl-GaOjsTEKrgMirf-0YZwe_31_IprcXoeaT2ckeIrzK8jqMXeo8T9HGLs36ogfWWW1K4GRozz2x-4W9_XnF1FYOmiR6u_Gj8TBYNNRXdr9tn63J5908eTMqDWLsqU9lpOYzXo-Y1e6Rpjg2xZGLkvakJAPi5Vl-CZ9I05dPb6s0BN3lwZaBGAPsk-bbsaTCialWicqAYjhh1S04R1WMABbd3-N-EKF6zayt7xVsr44qKvq1lnGdpnNRNJV2e4kjn49BvDZWoHZi9_oaB7avr9X5TLLva4EFsbysVaFm4_qy77BbI-NFFd-vu3p5o0ft4GlePtziOFtn5AN5nrIJ-tQlagyKvu_Iw_5SU-79GcrM473jA60xqAPjs1x47JMRJippm0wd-7h58G2IbmKuzO16miw9W5jLpALN66PB7vSHIAmNKrw8HyPHVuJ-T5g==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a9ca28b4e97ba4c016abfcbc723c487d19d657d4d93b6da7e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 249,
+   "total_tokens": 678,
+   "cost": 0.01674,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01674,
+    "upstream_inference_prompt_cost": 0.00429,
+    "upstream_inference_completions_cost": 0.01245
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 240,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

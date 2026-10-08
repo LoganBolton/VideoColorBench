@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894492-PKZP4Nrf9XXPLo0xMfSY",
+  "object": "chat.completion",
+  "created": 1790894492,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Passenger \u2013 \"Let Her Go\"**, though Ed Sheeran's \"Thinking Out Loud\" is a close second.\n\n- **What the strip shows:** The colours are mostly dark navy and blue-grey throughout, with some warm brown and amber stripes, especially a brownish stretch about two-thirds of the way through. That suggests dimly lit footage with occasional warm stage lights.\n- **Why \"Let Her Go\":** The colour shifts fairly often, which fits a video with many cuts. \"Let Her Go\" mixes concert, backstage and travel footage in dark, bluish tones, with warm-lit sections.\n- **Why not \"Thinking Out Loud\":** Its dark, blue-lit ballroom with warm spotlights would also match the palette. But it is mostly one continuous scene, so I'd expect a more uniform strip than this one.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm noticing a pattern of dark, moody color palettes across these music videos - navy blues, sepia tones, and warm spotlights against dark backgrounds, like in Passenger's \"Let Her Go,\" Adele's \"Rolling in the Deep,\" \"Counting Stars,\" and Ed Sheeran's \"Thinking Out Loud.\"\n\nGiven the brownish segment I'm seeing around frames 640-750 and the old-tinted, multi-location footage style, I'm leaning toward \"Let Her Go\" with its travel and concert cutaways - going with option B.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noticing a pattern of dark, moody color palettes across these music videos - navy blues, sepia tones, and warm spotlights against dark backgrounds, like in Passenger's \"Let Her Go,\" Adele's \"Rolling in the Deep,\" \"Counting Stars,\" and Ed Sheeran's \"Thinking Out Loud.\"\n\nGiven the brownish segment I'm seeing around frames 640-750 and the old-tinted, multi-location footage style, I'm leaning toward \"Let Her Go\" with its travel and concert cutaways - going with option B.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 612,
+   "completion_tokens": 649,
+   "total_tokens": 1261,
+   "cost": 0.015428,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015428,
+    "upstream_inference_prompt_cost": 0.002448,
+    "upstream_inference_completions_cost": 0.01298
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 354,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

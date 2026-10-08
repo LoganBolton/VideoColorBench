@@ -1,0 +1,21 @@
+{
+  "slug": "roar-2013",
+  "title": "Roar",
+  "artist": "Katy Perry",
+  "year": 2013,
+  "label": "Katy Perry - Roar (2013)",
+  "hex": "#45513B",
+  "rgb": [
+    69,
+    81,
+    59
+  ],
+  "frames_sampled": 269,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "CevxZvSJLk8",
+    "youtube_title": "Katy Perry - Roar",
+    "channel": "Katy Perry",
+    "via": "yt-dlp"
+  }
+}

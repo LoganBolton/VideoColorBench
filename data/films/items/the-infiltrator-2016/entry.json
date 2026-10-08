@@ -1,0 +1,21 @@
+{
+  "slug": "the-infiltrator-2016",
+  "title": "The Infiltrator",
+  "artist": null,
+  "year": 2016,
+  "label": "The Infiltrator (2016)",
+  "hex": "#3B322B",
+  "rgb": [
+    59,
+    50,
+    43
+  ],
+  "frames_sampled": 7630,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "7kZrcPJtkvk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

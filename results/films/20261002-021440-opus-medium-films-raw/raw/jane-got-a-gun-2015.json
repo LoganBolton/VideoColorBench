@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907357-wuHyZjQplOLJTXNZjPKS",
+  "object": "chat.completion",
+  "created": 1790907357,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the color palette. The barcode is dominated by muted browns, sepia and ochre tones, with long very dark stretches and a dark blue section partway through that suggests night scenes. That earthy, dim look fits a western, and *Jane Got a Gun* (2015) is known for exactly this dusty, low-light palette. *The Warrior's Way* is also a western, but it would likely show more stylized blues and whites.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "This barcode's brown and sepia earthy tones with a dark blue section mid-late suggesting night scenes points me toward a western like Jane Got a Gun, though Warrior's Way shares similar sepia with blue/white hints. I'll go with Jane Got a Gun.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "This barcode's brown and sepia earthy tones with a dark blue section mid-late suggesting night scenes points me toward a western like Jane Got a Gun, though Warrior's Way shares similar sepia with blue/white hints. I'll go with Jane Got a Gun.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5QYKEAgSGAI4AUIIdGhpbmtpbmcSDF4Y6Gk8Zz4g/keu3xoMLwMvIPECIxnTtnNeIjDHW17bMnehKC9nKCiUceX43LBq8m96hqL7xjLmzMCFn8+OaVUlGyUDg5jbg1eFbYYqggYiEtESClC/88tEe8/x0272ySC+Rm2IeRxtfpmBilP+y7C3EmjXDMgGhVNj6gtHoThKI30NdbTjyPuezH/+ukuZL6A//rN/SClXlL2xDxC32lESXzjNuaEutU71HhPrXr8NBYgJ+fHLH30y9ljVWp4nbMRdj5jT+mfzp30Kn5La0d4FFhwLcFK1HYKDyzxCinUSKrgofW2bKWv5UThR7I4Y5YC6n372UVC9RGziaphvHcxWOgrOOWsRrZZNsLeB2twAlpRy0GfAuuUIhdF/45viwhvOKC9fOISY8Mp1YB9lUehW0kxAuy0HJAW3L8a6uNBGg/quc8k2oB+Tszk18AxMfwm/TPW2207sDqiDhJ/ZxVPsjvSSZwg9Nzw7PMKHazyJeVbfFvoEZY9cyDA1hThL117cXWUN0x+ZhTVDM9Hl/T6E7JEH4vCkPqS0QkZrumW5uN7Z0Oe+rYHQxfnmgm6Pi8fo2Xx0+p+llDz3V5GCaK0jHRK9khGj8hUbDvZboIugri2ZnNvrhdMHLSWmhgiWhhKOmCn1QW4mqpPNPGChdawkceKx+mM35pamE2vjPEwSt17k5s0IG81PhrXzNf/e1/vSvyPw6tIJwALoMVZCNx7aKcHTPOBskCISX6CDnD8lMwH61K7xR3NmQFFDFbXu4A0KZMJv34GfhSJX0I1IA+gqsYLQM5CH+qAKl9xgnjsVe++s4DDt8J8PTfbGS1C5BRNcIfZC5TTfeqE931peRWA/iB2tP21TzZapVeJnNYebs8+ABmXb+hpaUyJ/zpBJu+Lay416aiLQTIDt/ggm6wA8bMvXg8zkQ4Yc8oixrFekdKoHnIUuzX0q44gdFhNe25wDKF4iaAI1LnabbkccwBlZZhC5Kb8mKomji1IDkYV6zPX/Dnr0612vKbMKJc1i+H8DFA8aszvQf43jm7q5ZnQxGPjiXcOiUvuQm3iX9hXsqKiQiW0Xn5ScdHgFr2CThimb5jDHopXinXajGJOhN/IzaOE5ZqyWjuug777XGd7ydhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 515,
+   "completion_tokens": 261,
+   "total_tokens": 776,
+   "cost": 0.00728,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00728,
+    "upstream_inference_prompt_cost": 0.00206,
+    "upstream_inference_completions_cost": 0.00522
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 113,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

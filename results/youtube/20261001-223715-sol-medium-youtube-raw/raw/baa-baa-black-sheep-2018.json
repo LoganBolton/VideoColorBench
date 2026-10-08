@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894334-XnJ1zcMb3OlILumIgH8J",
+  "object": "chat.completion",
+  "created": 1790894334,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is the farm animation, given the predominantly green palette and earthy tones near the end.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Interpreting colors and themes**\n\nI'm thinking about a sheep on a grassy outdoor farm with a tan fence and a white barn. I wonder if I should go with a vegetable theme for an interior bathroom or keep it animated with orange walls in a dining space? The bathroom is all blue, which is interesting. My mind is swirling with the colors and variations in phonics! I like the idea of having vivid D eggs against muted green backgrounds.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Interpreting colors and themes**\n\nI'm thinking about a sheep on a grassy outdoor farm with a tan fence and a white barn. I wonder if I should go with a vegetable theme for an interior bathroom or keep it animated with orange walls in a dining space? The bathroom is all blue, which is interesting. My mind is swirling with the colors and variations in phonics! I like the idea of having vivid D eggs against muted green backgrounds.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEQQ3bqdiSbnZf_bW5fDMZTlV4E9WvSCariFvJ6eTWVWTF5AeIwqSmUYwhb0WlQ4ITQtkIEF5z5pI2pOvzIO7ErNHmdezN4C1J8NUP6rvvViHdjfNJztCFnNKcuOaISFUP6Xu1x-7xD8Uet7LtdZMRjKM99xApYorg1kW5QjgQ-2L2H-D7-9ko70v_t4O5pBs9wLMHKBWhgPnwWetD9jFpe9v1JexhcUWN19m-5w9DOcdeJE18MZUwx1q4nX0xV1ukZVQjC1lqBA-6XyHYHsIoeOV-uRTAs-fmwJC_wTFmmMmRD_UXtTRlrWF5yU_PR1tyZ5irIhnfCWsE2xjfSJFzi_hgzIWHPSfUpasyqkmIW9ZFB2FVs0xo8qNh-aZgg5oV8xoPPkOEF142_UFhgAmdlu7P07aNGqhncEzrM3V6I6SfJaxLqCdF3e3bAmzKnduxYXuSHiq-jQtRA9kNJXdiizgypFOWKVskAiiNmOv9ciZ84LKJ9AqrwmxrgAbwNKe0jaNGwHpdiLtR3SGZQb0QfPI5-Z8lfAMXflp2NEZpB8F5KyaFXEGhw-PPFt4isAIGQwtBMVVkqjbj8cS9XEp6YC4H7MgTdi_gnIq9JzRY7w4Sv668A7uVbLOsryRnMhi9USxDOLtZMcfqf5WzLBJzIrpmGf1CzYsLZw_gjyiUFBU2MZchIQvh8d3-Q5k93kJkpdosuFOLGapBqBuCjxMRqWcCL4L1LLlyHKoeSQ3IS9tsLXX7euGiBC60ReSOf08V40Y3PMRhKCqosDsL4Vj8oOsNDEBdjtKkEGyy6w1_qGljEWrF1q60fL8JNRFayHa5bYXZv3_KrtrRgWWIVE4OM5yVZvuMbTAlIQwjEqXhn_ad4jNdIksSTVOsHWosk_s7peM9Di_NGyhMYDEr_DlS2CYaYEIGt-vkMWXkeV3u8BAZQcdsnyje6wfq9rXtQvTo8pLTfM9CfNOpfXhMCLhGixmOiQkifXh5h0_4Ao7DmTvU-0hSK6zcTNIhdxEgrV0u4RRQkv0QKfabgEzPTMoosx4tFIqFZOw2EOmMsS2AZjCfZgyBOpwN6S0TBAXhse1YxR8wS5RNZT26c9_U2WtthdhKIgeAbZFJ7yToH55oAyONWw6AvcIjiMM-1rJsTuyFTygs1l4b3j8DGjCpTq7Cdeg8EdkJKamtm_3VEtbBbP3EfjArh4Jz-NlomgTvVYGKx1wDIZplWGoqY-6Z4_jI8gbBBZJhrYTPxcIweFIqb8EtSI1jmZ8BvvR3iOViLFX5i8Q-1vpPEbh3yj4C9JAcDPtYi0n-9LL_V9i1ho_7aWMVarD0-a7yGJrY2IZtsJ70CzMGbHRNcLDghx_mlS4kfDXIq5fVv3T2_WAhAdCFYW99nrQc9c8bB1PgywSiYJv7zYNUCUq0_u37-XNPBhVH-0AYV1v8R8JCP00XHT6zsyGrFtPlm13hAIBru1Od0lOSpZO89gFyIbavi7xK1OZc2hDxI9oY1wRZDKIJ5GMOYoZAC1YVdmJ6t_UaGPlupF4y_N9f5VBlP4xc6J77dT0bPEKkJWEq7AvEu3ulqpADa1FZSa9St5e85TxqQDd7XKwjptqvi2YDDDmRWaKggGmra3zbqxvo01tBDhuP0W_ufz0aHAgSe69tWZhD3TWpjiq3KynRbuWwA7xbeDv-EagMiuVI5CAp1wCjMGRz8ltCGjgJfJIFoJTR2udNMhat9UBco3JGM7AZngpIkjDwCwSGdNANtqgY7hQUf97fTQj1iIdf2Htp0tF76TBRvLhuRTHt88niCpjf5YuysNeJOGSqJBqAS5pidzvpSEy-HtpyNZ0DadMxiTrL7FmS_uHcCimgbrCWQ0DOqcVH7qH4cIJW_ehn7M2zaCf5XD1psE65Myu1PUQcKpQrNoesK8dIvt2DkVdf9eeswPIZQHShDSGqvuDs-0WBb5eIGivaBt1bLAskrhw8yYM8ewyRMUpCBSWUNl2PdizcE-V1Gmai61pluCtQeN5-2qez8Q8zj4OUCpNlEPZFMQwrio602CxYuyErryLUfoXdzQXIkRVfOJeBzGPdzjEWuxWsgrZwsfkBlPYXfquhzb0o9Fd5BQ_kAhmmC4IIoG_Qi6fdr3xdnc1t6oCJRMGFj_LrdMKJv4wxmXVarzAE4IEj3BsTbK-Lci5rd22fVX2WBd3cKtzQx49PqpPdLwObAM95_aada2-4CVMguqEf7w4FC0h6GP7VBlmP5J8HHQNy6p9D2k4AIYAhGCQvc3t8SznIE5UtsTQsOLjI96Xke5kkmQj3thkjSxI8tVu6tVinCUsDbGjcO6eUzqygjC7jHrKdRZaAIB6eJR0Ga3P0Sl7WkJA4S9uDYvPjmVowUkVeXGRxL7knrmVCZpDPtTSz_ktN8zc1roe_QK211d31zNCJSfYcuDDhS8LQgx9bUqKS0ewOyqAM7nKBjwR31odCoeKliyeRM5vX41Am0_qFUKb5NhQEHo6YluTuJl2o81I4k83QtBCxpgsGI1q4_BUwtjY8NMi1PMmm_fCxmbapMLJIjARnjScSdRK43LP_Ruf26S2rC6H6B0Ua9rFKdNLiMkw6849VHGfp0nB9NCllDkuCPpQhHfpsLteKuq-SY-cdIk2HXZnTWougcjTMhV8lKU6-xuPLpg19tN3WaMGYLzkBuGZoFqzkNo59Swj-4Xq4OHl6NFmTTjQ6MFHrfRbzA6Rhzz_4aRsLS8i1cpoZWIPwuDDV657QGdRSGCQy-cp1CPa79ndIkFg4BpeuL2v3F0swj3kdgTCV7NBYLeEI1fogrV9cX3bJoTrwmlPQwYWnwUTcjG_hu7aXZaJhMpx1NWYQBnMT2nN3Rw1H1hQD_1bIPxuyZrJvuj_MVvYawRaLBW2jOvAOjbzJJ4BTPjNRwLgL4cPC1kIfqbtypmDhI-ifD-eg0thsDZ6mLKX-V8SsMNflozqCCp45Pdilhk2MQC2CtVydqxaY-X40liXa7qewu35A6oTuzvBZWZW3bvXWmPO8missoVbdu4QVbp7IZrfqmLNNAgZ87cF59JI4hgngnYOUwJ0Yx3w0K7d7nN0kMe_ZG1EOlWDmhvy72XcVrZzoEspQcx9Bz8wvNvib8GOWnOeeny2n5fVBGRXa8fb5Wwo0Xp9H8j8J6BmyleN7vcGTohAnbWXXzHv73dpZAm-wkwDWKTav6Opvy9nXDIn1iNl4nAHd9B9H5Ps_HSCDkZLwZuY9_gAh-R_ZRRijrppXWSunjE1kW7HcKGq8OJHwUx7o2M90rAdr5jg8uLkhqRg63GLZrbq2lp9E5G2F0D8HBIHxsNeIDc2sK39jD8HpNoRnw17AbCMS8QA9UwziumwZTi_yYqGDFmqmi6M8_CmqlsQZNQcOVNP6MdDq09U7PWgVM54HHKOP1cKtsbetJyJAvTt63gHE7y1F6XZWZn9uxU2_ajJaDSHBBZxF61uR-zV8VxMNbJ7nkfe63TCczYQFMrIe1rwWkQD6lr0Je7oWamZAm-x7bkRdDaYFuhrqEq1ddxXLsO3CmroF3xRmaOuhLgN6ZuH5Z2aKDnsqa9FcTqtSIH6F-76xYDvbGZn2rOex1i8Ge2QMmsAbBHggXMQ9n17io-4GZEIVNdqxv1T56cx-aXhDvu7WeTVEZHlUUnRyaC2Bp5JlkGSu-XaWuF4-1kW3OKMB_RyP0q6_xBSWs0bJgivZxOXkRXnYVPGNADu31-his9wb252xHLQ7lEKn8ORBOWL7X03pDFaPMxICaqNk9UuYnqfFe9svNxL1ALomZ1Heprxrh0eTDj90SXDUSw3LxG41rNehoAGChrowtO065nj4UoBQaNg3SigJP7Fhzm574ry4fxvOQs7X7NJMkBjxIAzY1hSg4z3BmYjHmpT3ALJQGug05Ru3PWiljnEgdwNhudr5peEMo-lCCIoDJc4D43ipl1qZAXtGw1K2bMgG9E1cB5E7FLcLHxvImQMT7gF5ZhumyHDLBpyU7uySpM-fCwhUsKrYtFSrHt9x7GAaiRzozTEaz4cmgXHrK7e7IZiB0C7VXHcOJIujckFr4v9IqxMzq5XGY1-ODjUCocy0Dj1B0oEs16pofZ1da9bOIHCxSCyPkbCQQ95avof6-8JwvA1wNiJro2LgjnMZUsKlXkP9G1dkQsKqsU6p4EyeuZ5H7gruTXsuAAel3qbg3k0R-uTOY6zdK0rrMoki_m8InUmj-fMoTmpvSjuooHuCXLvMUlQ1ERQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01c457d1ef2b57d9016abee1007dc887d1b5e1828af3e297b7",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 501,
+   "completion_tokens": 464,
+   "total_tokens": 965,
+   "cost": 0.005642,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005642,
+    "upstream_inference_prompt_cost": 0.001002,
+    "upstream_inference_completions_cost": 0.00464
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 435,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

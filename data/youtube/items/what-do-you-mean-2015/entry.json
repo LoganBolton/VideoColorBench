@@ -1,0 +1,21 @@
+{
+  "slug": "what-do-you-mean-2015",
+  "title": "What Do You Mean?",
+  "artist": "Justin Bieber",
+  "year": 2015,
+  "label": "Justin Bieber - What Do You Mean? (2015)",
+  "hex": "#241F1C",
+  "rgb": [
+    36,
+    31,
+    28
+  ],
+  "frames_sampled": 298,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "DK_0jXPuIr0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

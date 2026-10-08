@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894464-QYfPZDABVaWrd4wOVYAE",
+  "object": "chat.completion",
+  "created": 1790894464,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the color pattern, not a certain identification. The video is mostly very dark, with deep teal and blue tones and recurring thin red accents. That fits the look of The Weeknd's \"Starboy\": a dim, moody apartment setting, cool blue lighting and a glowing red neon cross that appears repeatedly. The other options are mostly brighter or more colorful videos, so they match this palette less well.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "Comparing the visual palettes across these videos, Starboy's dark apartment scenery with the glowing red neon cross stands out most, so I'd lean toward going with that one.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the visual palettes across these videos, Starboy's dark apartment scenery with the glowing red neon cross stands out most, so I'd lean toward going with that one.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStwcKEAgSGAI4AUIIdGhpbmtpbmcSDN0ro3xptXRmIcAnTxoMKLpw1mcQb3MlKZG/IjB50BuzVVockrkfqaE6B5Vq9yjzOLYiz4cDczMqlAXBZAGB+Q5KRM3p3QqIWuYeZl0q1AbUC0oDKFQDm7feV/msofjTLZF/9GW/Fm5ZUHg33jn1L0RYfAagUuUjgw6tNizxq9RpGPXA67qB0nfVxR3rI4xtBXybILEYKA+5UTCTdKOzz6kd1ncR672pQ4+BidA9E+xCt46bR2cfm7UgmQDSHYR7Q3sV08/jkMUDI+qDatYCBV+4EoJ756Ar9sdVZ8T7pnUibWaBIFrVoLJZOmXbc/o08wGFuAYhuAZ5Yhohst6SpdMkIV9Z1RsPBorsk6N8zVE8DNEiowYNKCGLalHR9+AFNIAEYV9fiMrf4eKgvYW88REjwhKAw1Ng35jULGfOQp7X6/7/o4LwLUfHTPS5WscFuSOyY91QN+oktRvYAnbpiUXkmHn1AqZSJQKiVB9yze6MDN2GHdc8UoFrdw6+uZ49ueWgmBoQfDqrvp5hFNLK9CmblIJGx6yvwflN/gySqPUdVr5dutDxChIShXQ+kJBkiWsrl90MP8FXBaqD3oOEbIRHm116COWf3LX0TGgjdEgDiJmOKy6Rg5oRp1ZlxGMmzMuwnKHqDsZD/mXjjUCjgYcLlk8ezA0T7L7H4+7MaJCe5RU0/E1hxhpTYfn7sdAHbXP7xEitPQSMFSfLAYbPyqPyhHtluCKeA9cKH8AUZS7xQsuJc4+5j35svUDbg1FCgA171KFhwOVHgP9sCqf48WimnOynvyahMfHcebaf//9XATVcfpdYylVWeRPQYU/oLg4WykVMbwtBvOhQFFSUWVfOk3gawOB6I+BCzOkelWBtaA/2ox1jss6JI505XExGxO7NNk3Yp8cfUbC6pn2LhffQdHgKwFOipXe1g8sTbfLAgysvEOzUMCPUzLsUnGiHirUC+NSvcvM0284SJO0n9XSMtSRvh9JK+HboeVZE7s6V248g+yk0CGPKiMsLMGrgsaybYD6O9ICaBxb2ETWiJ9BJL57/2gaqr/yck5BdEXwz0y2l/buwz1M7oUxANfGl0nhZ3epErs6Qd+vtmAo/ojzi60Dosy0ZXEYM6dzjBz40eJqKB6eQfj7srXxzpsgCC74eIH9TiBaXciuZQYhb2Ncj6KWWfp5SZqQTzBNsy5eDkmPUl2my5QvDGM2mybbLF8hl1SNcdnx+z2IV4Kqud5i1ey4YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 619,
+   "completion_tokens": 286,
+   "total_tokens": 905,
+   "cost": 0.008196,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008196,
+    "upstream_inference_prompt_cost": 0.002476,
+    "upstream_inference_completions_cost": 0.00572
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 144,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

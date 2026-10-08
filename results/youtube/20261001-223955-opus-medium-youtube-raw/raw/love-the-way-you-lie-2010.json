@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894406-0mQg4JK1pinkwlXzFyHS",
+  "object": "chat.completion",
+  "created": 1790894406,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colour palette. The barcode stays muted dark browns and warm greys from start to finish, with no bright or saturated sections. That fits the dim, sepia-toned interiors of \"Love the Way You Lie.\" Its night scenes in front of the burning house would also average out to dark warm browns rather than bright orange.\n\nThe other options fit less well. \"Not Afraid\" leans more grey-blue. \"Starboy\" has strong red neon. \"Se\u00f1orita,\" \"Mi Gente,\" and \"Crazy Frog\" are much brighter and more colourful. \"Criminal\" is also dark and warm, so it is the main alternative.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these music videos\u2014noting the dark browns and grays in most, versus the warm fire tones in \"Love the Way You Lie\" and the golden warmth of \"Se\u00f1orita.\" I'm checking whether the barcode's muted tones match any of these more closely than the brighter, fire-lit scenes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these music videos\u2014noting the dark browns and grays in most, versus the warm fire tones in \"Love the Way You Lie\" and the golden warmth of \"Se\u00f1orita.\" I'm checking whether the barcode's muted tones match any of these more closely than the brighter, fire-lit scenes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3gkKEAgSGAI4AUIIdGhpbmtpbmcSDEAofPXMo/ZyHg/X5hoMU8Dan+YHqKLPuD8qIjASVxwReXikrY7ME0yeVK4IMBHQ+IpA7pKP03ClHhrKEirJlAfDRU5F3OdHVgEDJagq+wh1557V2xnnxj32NSnkPdZq/oVDfFsaqS+WtPuTqSKqMulc5y6+wz9Tt/R59Fe/fHYk/xeTwUDLLHNOZ3jiD6u4rH3uQBhy7bYO6sN2RuQlS2uClF65vA61Y8OCUb8msUugINocl6zvJrrH6Y+vxvrzsx8CdbW8k7jQRHYR1sKGTg5g7Fq99Mczw+X57JDM7SQadPy9gogKr338tsVpjRrEXh6epnr0hpksk1hr54IlcGUJmdl6UHr25QA2OpiXK1wD8WULlzaVL1OhzshbVel3Zzk62nrsgU2eqS7w0V4+0w5NJkp0SdARKyvbQkBeTGCSYUgjW3SHKgyBzzltyHxpa8y8NjqKhijAG7CFitE8/sAFTXbdqD4YRSEgi4n9JXeLNQ4xrHVFFh2akjcgJdTMWxXuFvKlU2QJPsxLpzCh6A5FAvxognIMIhE6XxieaK1ESgCmSkv0hwuSCLQMPiQnRhjLNoK34uFfyaCxmLojtNyLR4ChlDsvE7dipkPCBU9Cq/8Tajse3riVLEpqSaPndCKt97bmXQwhtYWEZ4pcnSfRpHIuFe1K6+pLRJVy+xFA604H1qZEGmgN3wGmLCq/JmyEjCLCseHaxThrTgEO/A1iKGvtyKRo66UXCKWMjvxCKtM/x7GknyEUx1GxM3WRWbavjvCE12iobavnT2L8ihNnF0U7z/xj0iEBy3vATpAdTjcVtalHPyBBHd/7hYA/EKsDoKy7Mthkv9mwaJf8L6XFoBGj1s+UMvgqWfNYlZOyBTopaWSJBc4AMr4pJxM8dC7nfmmU2hk/dxf0f37Vm4P6nLr079gzxM0TGP2ZgurUNsMNVU06mg3rg+erkzqHC+0L4q+r5CH4lRjLJ0CZtWqTwXAU/J9gU2K2D7v0BCdLW/hzMhOCDcIma0TgD/sjIIjpLVbI4f5gWNBVBKax2oM0En0HLOyag/QDTgGGeh0yDOvkxsjVpDkE1TZ4hLqvwpGawWmvS8eejExk5ibd54Csjxol5HfOOdOwMZ9bMqGuaGIVlbnFISsInVhEnqd0tYrE27T/SgLd4mhFwTyeP8feYSD6zHCA6XiNmFs0OsbiD2kwFMZXgng6Uif+v7aOjKXxPaLyH0NrL0PdCHaSe8KfhaWjlmKkSStd4Oow0+Qr4gxwhZln/LtXAku0XopKwLD+L1NGhR/iHTU64ITiQ2B2Vu04nYmJzhGT49OxyyQISxKK79G313eT8+WFEnGaD0eLyTr8+XPfnNXY1kniL+yTmsMCFeGcerts3qD/smaurtaA+t3zusCFuFsv1XIcM2N8TxPkMjax1cxvT+ffEircp8jURrWBXziSy0tC6eApmXk2wsSlV6jTHDpU16WqFP6GHTZWE2TayTLpn3EMzrF8mGhibIzY5DPlmsVdwNSAmvvQH5NQHPyq8iwRbqe6auFwlxe9OTw26b9PfUXNj3dXB8ycCY1lH6OhRw644jWUAWUGelcCl60KZ/Mdo498EnVcuXzyIC+d7fer/jrinyeokIaTxk/KWCSXGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 635,
+   "completion_tokens": 477,
+   "total_tokens": 1112,
+   "cost": 0.01208,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01208,
+    "upstream_inference_prompt_cost": 0.00254,
+    "upstream_inference_completions_cost": 0.00954
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 265,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

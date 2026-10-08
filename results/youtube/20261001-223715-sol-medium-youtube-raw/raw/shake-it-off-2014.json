@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894281-ktGOtnWNeAUBiVICBpQC",
+  "object": "chat.completion",
+  "created": 1790894281,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is \u201cLove Me Like You Do\u201d by Ellie Goulding.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to identify the color palette for the video. It seems to involve a lot of grayscale and dark blue tones in the first 60%, transitioning into pale shades in the final bits. Some candidates from various music videos include \u201cBad Romance\u201d and \u201cLove Me Like You Do,\u201d which both have dark beginnings and lighter endings. The transition to mood lighting, like from gray to white at the end, is also notable.**Identifying visual themes**\n\nIt seems like \u201cBad Romance\u201d begins with dark elements and transitions to bright scenes, which is a contrast. In \u201cShake It Off\u201d and \u201cSorry,\u201d the backgrounds are bright throughout. \u201cUptown Funk\u201d is colorful but not quite fitting. Meanwhile, \u201cWhat Do You Mean\u201d has a darker club vibe that shifts to a bright skatepark towards the end. Overall, I notice purple and gray tones with narrow red lines. I\u2019m thinking \u201cLove Me Like You Do\u201d is the most likely candidate I need to focus on.**Examining video timelines**\n\nI\u2019m trying to analyze the visual timeline for \u201cAttention.\u201d The music video starts in a dark bar before shifting to a gray dawn apartment, and then it transitions to several bright scenes in a bedroom. The video runs for 3:52, ending with a brief black credit section. In \u201cLove Me Like You Do,\u201d it concludes in an outdoor park, contrasting pink and black tones. I think that the perfect ending to focus on here is the monochrome nighttime feel. I\u2019ll choose G for this!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to identify the color palette for the video. It seems to involve a lot of grayscale and dark blue tones in the first 60%, transitioning into pale shades in the final bits. Some candidates from various music videos include \u201cBad Romance\u201d and \u201cLove Me Like You Do,\u201d which both have dark beginnings and lighter endings. The transition to mood lighting, like from gray to white at the end, is also notable.**Identifying visual themes**\n\nIt seems like \u201cBad Romance\u201d begins with dark elements and transitions to bright scenes, which is a contrast. In \u201cShake It Off\u201d and \u201cSorry,\u201d the backgrounds are bright throughout. \u201cUptown Funk\u201d is colorful but not quite fitting. Meanwhile, \u201cWhat Do You Mean\u201d has a darker club vibe that shifts to a bright skatepark towards the end. Overall, I notice purple and gray tones with narrow red lines. I\u2019m thinking \u201cLove Me Like You Do\u201d is the most likely candidate I need to focus on.**Examining video timelines**\n\nI\u2019m trying to analyze the visual timeline for \u201cAttention.\u201d The music video starts in a dark bar before shifting to a gray dawn apartment, and then it transitions to several bright scenes in a bedroom. The video runs for 3:52, ending with a brief black credit section. In \u201cLove Me Like You Do,\u201d it concludes in an outdoor park, contrasting pink and black tones. I think that the perfect ending to focus on here is the monochrome nighttime feel. I\u2019ll choose G for this!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDcSu2QcfkSnNdbTpM8lVRIazchwqp6D9oL3xJLO7iBeqIofyLIsDR2uv8JlW5acPmGTJw-SHBViOhmXVIglb3nepRFPC7VPOQay532nj-om1yaepL0ZPCdCZqoL6Cp3SBBX9X1RZaqaUNVLCIlfN9538PDJNOLg7uriR_O8ucoe2RKzhruqbkIMkZxMLa6xTPEUWxzphVlcb7HNZk6Qk2yc3RzpSVROSojTtz9USsh3jyyhlfq3LP4gWDLQcxxUCKEfOcS8BbV2IyfcYWP5PAt-15ip-EgvvkHI2AVXyWE7e0omcMbcuocKn18vDjUxQfbFf4Q17UUH6MrZ4m1zki81xnILX-B1Hc0npCkJ5L2OnzlioCgQFoRrg8pJOFXGBT3kr8gdapmhMS4T211pZnN5JqVlRZl76WRFEO8BaI6iv-pXeCo25tA-Las5RjyEPYbdzdwCS03SfpSVKz6xaiGsNDwyKRSVJCB5XGud6MJBJwv8NkWJZizlUbwdCwGvVwhTJksXcoScrKfAdXB94fPyNTc2q8io1VtCZXntTJ02cWZOO_B391HRz6EFLMNSYmiaLfgBM_NyZHS_EF_T7guDGw6MXWJS_eB4_X5rIEYvSr15pZlW-lWNQEYecPItpxE45aOpNb5FguCM7xcH9EoQlIARj-cmKJ7Zn3Cphwp4FAcl10NtR777thLCCroFHDvidtpG7cpaLxci62kKUxJiiq2n24x-gVZHaN2SmacVMtONexRfVPDKOghOs4-yIxih0jWLejj7ZsMaZTVIcwx1aCt9NizstXFJOAKEhu7SYee59TafqgnUzXf70deTD9EnYTbAOeHsXx6oOk3jYkRxxEGXLU5_gal0qiCD1RWK4Nqr2LwsUDQi1DZnZ7_uO2CCxpELfk3azobGfX76BTx8ZGtqswdBCExiRQYK1lCHl34FatDY30TKRQCyxw7nvZ6I18a-s6eMjugAQMdvjXm44Tk59QgVnCP8hdwb726fLEs0jpw-ZfAoyaGPCXozwXjqqflwh3V0mJ2JSfTHymdnv-fQRUFUDxDUiUK4C8GAyiluSpMngd--fhlXhtXZPgi3AzmZNxbImBmvy7HYKVs36TwWCoO9poxvIaTjtOmjG4Ht_DbhktItZ0l2mleodEOwcFrn-XDwGwkP61DxzGv4YpHo9A1FWepF21_1MXQ5z9YukuYkHaalZYeceq13ox0_KwgvYjohZ4W5u237uqUBS7IxElWrQQ2snizCYyefP83Y5A6kmwUK04qRZBzXXUXieo4gXOphoJNYb-OqJXGB_wqq0AW_K62PNdW4QxiODfgo56NUYRwl6jScdurqrAarXaYIzdzvNAgRhPQJoMbYTATACgYJzW2yQ0YrvzSvexMUx8H86yvu-u7mIuIYFNH7PCnPsT4EL6PKKeg2w9fcHj_FyPz1jmBKL0V6wEoqCLYuzDnsw3NEZJ5fQqxu4zuUGdmxA0PxrG8cUpCfkyNmuYWoQm7klc58q_tk8lU3nAWA_ix1p2opbVCLN8VrGVSPhygdFUV6Q57RNDDDxb0WaPQGAWDlbbk4MNnTTkjPBVT1cFfXfGcvsXCTupyIDoD5zAFcQh4QNgU0WLSzlhSypbX3o27OAoQ1jdiI_qEy538Yk0trDOhAZxlQxmSJboojO-uz6UjS-OIDDnx0uCzGwg6tJmzDLcofmPwN8TLAdxpBcRlQfwC6MBUfJ9L9RSyxF2jZcpIv8HH_p1-N4s7oBlYVY9OEijThyapEaSVKHZ6pFHnnTj-LypTIoa7sdwIef2DXGflsSy7PF20xxc1QE_ILGVU6yN8I_gAbQ3QdxxtHKKcWkZtwh24l09jbgsvggYGlEWMBS8wjiffw7z_ysMSqvIP6x6Wi19Z8FfSs2F_ilRDnFJL8sArbaOgFZpmEyuCMyuu7kKFrwcfcE2z6Po79gilzA_5iJ5b_zU9PTxD2RJZghtViKgjKhZnQcgRmccmEwXHvDkuHWW6L6LVtvtT6IXJQlbEtvIh5pyniD9ZQKzMsTE0sy8mT42S_mU-qO0LLFERzgHwG41fRde7MOFJOw-xHRyXLNQeGJ4iHVnmHp91vaiRco8Q2Tc581tDB04BQ9PZ0-L-TpAst54RIQce4R_iH0kr1r0SphZwY11IjwcBATS1VRiqspkY_dacg3OmfMhGjpwJxhHr4m1AQ63EYr14m6Lras6FZriolGKbvcIKpdil2POL7GW4Y_nORyDbFmRCpfwCCSSDHlGc91K1KA4TenEalSBkXWPGShQRJ0ZnzN4GBUNOt_lqZssUDEr7NHPldDapfToQVIQM3x1yuK5U1rS9b-XP50ptKELkPYhh19rMOghDc6357zUDx75bgDYtUaKVNXGXMTDyHd--AjEjdUFYAS3jA6my96dSV4t58rNG96-gQGOXIrwr_MB_iFVkkA312-aSQxYu7zqHJBM-evVaRD24pk12uWlije4_1esR5Xc4_hie-dBmvgireqlRS3NPBeh8o1U54hmWUba_6IMZc4k40rh4idulH5GUPlTPCVxRTYarXvmCR3zOtPSQUxAbiCixF3a3Nj6bcvEqVsKxyTwCeLsLdKKfZQuOfJsRSHqEXn9PWygcaAMgUAC2UwHmJx13ZQ4UJnRMan4B40FZjFlO6XyhOF97rprajUaGylI2A3RggwOt8t4epyqGnxedy8ItuQr6bGMsVf-NXTDEKog0qccnfLNiYSgQ6P94eEu5dgRS9XSvsYWGUEApz2zUwWvRxmAMbBHgGLMM9LHxXmYVwVN0nz2p_bTNyYjJhQyOs966pj4O8bqyQZ76ntJ_1dydJM8vuoOagpJ2SqciTkbLo9Gc9nOT-CQOKbhqAEs5m8QjZdGIhkgi0zwo53mAkLF4lr2k7Q_uyp1PgWuv_aYDptzmTpsY62KF9hXW2xcmjzrYUs3rGPtIGG5LuLnYq3iaPOq_uYcNKfmn_uAltlXEdqkkCQKDotUDTSl8XUdxiU6MX2KbzBepyA5OBDeoW0COjuXUch1F9-D-m2ZRpcpX2Msgjmxt5sBHPXpXRIR78h0DRXZL3JAcho2ZluFH7D3tJmSzQIYOF1XVBITXAvcyPUXB7lz2Vg0rC4g31_0rU9KsbluQSuM_POEmbi630HUMSnAIldUJ5e7uYkCdR6LDHqkApEJF_COItorHKIWUhl5jRyvN37nM86f61CZLluHCXXRhk8hNbbqwYJQGEqFfTnCEFPxuxSsiHSKDYhurIWwn7aYi_dM3zjqBtYTQMjCD2b2iJfCteQ1bWR3v7kY4fS_0vXiOrIyDe1m3Sqvwzr6zjoNuoH8R5p8wCQeZOuNoKngb9WnwTz92MLaF7uGHTMDxR9MXuI3ZXgvmpFuP634xR62bNDc3-g8d8vw2nFqKRf35Y0hwo7bGZId-E_mXPONg--0wuy8GCMIDwe-bVItGM6MAZvKPwkynm0p7OIn3rX544RXOwWJUpNVAfIONPruAmOAbaBQJnMz0DkGvutbpJ-vN1f9Dv27jXxKmOJ9qimq5V3IakExlOhjfuCQF7e4xlKwsQzffPd0jqdgLD4fTXS9AQ74rEOHvO8_bwzdj0QhfqPQOhpyPCeBlD-xMhQnegPvwM1cfhZt2mplj9ZaVnrZaknvMIqKkulyh5UllccBYIWjKOELX44JSUTuuZNZ61iz-qNQjHfsYwQdtlRbyNINd9Hx79CwH4yls6xQZjt-ITXALcSCJnBuh8Ea4QVfr4Q3c_1Aq84YIuYVJQ9pg6vynrxKujtWLPhustj7p4VpdiIuNe6OGe9ZFzH1a-xiLVTPX53K2tsYR3YfIdVu43u-4xdPyNu1fl1Ms3oNStYawHxc8pOtIXyTQI7YGqUFfOJgWoEKr4zPTSvv9MJJpZl5xIciaPJgWA_cmlLmbIJOWxvfkk97fzn-2nDtFDeL9jaUZFyzqqwVcnBo1xs6U_MLJN-J3JK40Fp9VxpHzRfy9j9BvOFiS8cL0arM9CnrxfLUd4ACdd5IrFLYVyQAy4UL3eisoowXV4T1DEsp8-n1OF38Hce3N-fgB1Xu76_iebCC665kKytJoe3u0pHoZ3dE8wxoXb20bXihuI1L2y1qka5zUek3-mGS6QSI8LII_Bcj3NCCJQFnTs0Gaf75O6dMuZ6Pmz7CB0RPCuVCwxRtoeDKKgQgoGxsYmCTUVqpxdhM_xbqOx-7KQ79jHwUNpwwviJV_MmM7Csb7dPJmq5xTn-LFLrDbiYDT0Y_FszBHAaH54F5NL8BgeMDyIaF1gV7QB93G6_PDC3_Q4syK92JuCsNQDYsCwNp0AqDS2oPdI_-aA8c6b0CLDPLh4A5DtfQs.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_041d7768494012cb016abee0cb012487d190c83758706f2935",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 471,
+   "completion_tokens": 508,
+   "total_tokens": 979,
+   "cost": 0.006022,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006022,
+    "upstream_inference_prompt_cost": 0.000942,
+    "upstream_inference_completions_cost": 0.00508
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 483,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

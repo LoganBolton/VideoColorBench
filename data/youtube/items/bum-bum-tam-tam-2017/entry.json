@@ -1,0 +1,21 @@
+{
+  "slug": "bum-bum-tam-tam-2017",
+  "title": "Bum Bum Tam Tam",
+  "artist": "MC Fioti",
+  "year": 2017,
+  "label": "MC Fioti - Bum Bum Tam Tam (2017)",
+  "hex": "#4F3B4A",
+  "rgb": [
+    79,
+    59,
+    74
+  ],
+  "frames_sampled": 171,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "_P7S2lKif-A",
+    "youtube_title": "MC Fioti - Bum Bum Tam Tam (KondZilla) | Official Music Video",
+    "channel": "Canal KondZilla",
+    "via": "yt-dlp"
+  }
+}

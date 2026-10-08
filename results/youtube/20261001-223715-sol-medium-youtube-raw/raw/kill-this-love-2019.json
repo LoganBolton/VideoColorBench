@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894357-7pSVsVEmBUCrqwZDgyi7",
+  "object": "chat.completion",
+  "created": 1790894357,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Luis Fonsi & Demi Lovato \u2013 \u201c\u00c9chame la Culpa\u201d (2017).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Inferring color palettes**\n\nI need to analyze the color timeline for various videos. There\u2019s a sequence where grey-blue appears, followed by orange, pink, dark orange, and then transitions to different shades. In the music video for \"Echame la culpa,\" I notice a pattern with orange tones for scenes in the studio, then cooler colors at a loft party. Other videos show contrasting palettes, like \"Kill This Love\" using grey and pink. I want to summarize these observations clearly.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Inferring color palettes**\n\nI need to analyze the color timeline for various videos. There\u2019s a sequence where grey-blue appears, followed by orange, pink, dark orange, and then transitions to different shades. In the music video for \"Echame la culpa,\" I notice a pattern with orange tones for scenes in the studio, then cooler colors at a loft party. Other videos show contrasting palettes, like \"Kill This Love\" using grey and pink. I want to summarize these observations clearly.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEd2Vp3HgIZ1T85r_nGSg-77LPdS0N3tlXbFxqnk_YF_8OhjBp2w8rZm7wEiU6_XDZMEhS9Hyu1dczRjLqAqT3OkhFcQpiFHctI7GJPUyX5C3g_Gt-DYJTGqfV-VzH9lJ1wEXgGQ4g33tOOLp8qaV3VL_sxtUZSi2etcJrPVn0LsQkTVk8wIOqpebk_MiMG_j1oYp3h211wnE9qrY6RHO2si4cvKQT_821bLfLN1eLtUPLd9JzFJ3IKmGHdJ3qHcKwJnQCAZRaesI5uimICqxh62NIpZbnxwU9PuUuVKyxGFg8hnX_LvAI1xx7_VZQLlRiHD1HOvNjoBUvaMTGWsW-rO8te5SUYD-l78GeaLJltiLP-2pzoWBdpE0AyhpkD-_vDyyEsVXMecPQmRms5WUrZ9gFEi_rPHjN0pE3Fng0JAHWDKAxj2CDrtgp2HygPkBfy9zRCCpdM3pz_QiNxW2y7LK74IndQjapQ6fjxXEIzK1n_YPI2-6U7D5u1u6Hq1dPAg6nRrNCGdsVZmpyhQs_7DivUOp8JXVQ5uWzju2d3Ye-8l220K82f0VqXmyMbmjeNP17xONeVaEMbWQsMq_LIDaCzgSxvguFHk1qjebCnGhqTssiz8MhGtWhcGQQ3JKNiRA0fyiKenQ7zB--SYoo_y6VuohaOZiHYA06eE0Io0BvNTv2t34pftmA8EFf-lHct2SRrn_IdRcg10-5qz2DLtUXi1K0jQtINJlPKfuyAS2Ookktff8M2uAmntiwAUe8qr5DGPInQ1Jyw-8WfFsOt3qnDw7rWPYRJC3t1eCtxSEG41NJqrNdoPYNhPMRttv0TYAWJTG5UcvCiGja1ySiUDVBPTpiyPqvNeMinDtD4HRvbuxNR9hJaIM69Uc7ru6Uri3RDrEtImYcW88M8m4g8VOpIJAiBBYwg8fFvip_fGy6m0r7SAtSBO78zRivL7iQ8QKjbdlyZeRkbnXWN9GrHT759fk8pOWu3ALc656xNoY7BIkv3pnILqIqUO1kmdzpmBiPqZcpxgoOj82xxf47-xm-G5mfnzXLsKd2pb2ywBAy5hWpC1tqOFNRHHFSxLeNct_l0lLjwcVgf299ciY-E5zz1SXi-oHbK3hsUhobmzfocxE6Fz1Vjijf18CPDHTVQ4UXbVlN1p3xJkCpFNM2A--qgZORa7PI-T8WLxvkfqtROQBsZR14WTG4zfM3fM8CBjqBHhid2cOlUFK4eXr69NaSw-9W2z9sO6yqVIhcG9hYxbbdcEEajbIoDLpNTxw84KipJXIDFCWJyoERfZeDeA7H5dlrY1lAVlpIYbCAoi5WgWUM2sPO0LKZP7Cn5ZeWQO6V1eEWEFL_JnfrM41Ny6tKrODi4ryFSfoVxo59VNVx3ytS7OuYvJ2iJf94_e6OhM78-ag6lZYon7NwYWF4zTk26GCEPjHOkV6BtCs0l593IylQkniA04wf0KgAX-WAxEOpJVQfTRCGwMt1lrXn7-0jN9krcWAEI758cmmpOh1x2DMTDo__M-Itc9NIHi3IWxHxS-FMewYOeyR_ND70Bp2JuoRotx-8fwS7o3nuaUP5XazXlevhukJF7v2qEG4fOB7l1exT7H53uTxMQfBSUsgXFI-3HMHP65InouWUdDBOA-iDn30WBV0-wi6OiVxQN696T6E5ppjxkGhrix6okcpyp0Uedo45bBFTzW85LE0p2s51kAN0IrBFykpujO9LNRJ7a6uwQ1sSGA0Sh-e-cTDLguJ28sSVbt0-XBuz_4REQeLMfwX5mdZ8ODN8Z4eBJcREIy3ABrg1GcdoyCOoPhEo6r5lWzWJtobmVhZm6P7-z3OUaRa2lWJASaO0JdU1wtxNFvm98WubgwCvs8xuuH6LTPFm5wYItkM-Pmk-uWs5xv-h9FRD4u8Ymzdlz6IgINRhCklDbT1RbbHzmCFCqYyH8uSodo3o2tqgPUS6Cl2LhsR7gODRtuOLM3fASsUJJtwgqbzxVc1sGIDo4JjjEimeUMG0PJtDCgvu2SV5Uzoq0A0BzTFq-ddMA-xNmTZ2KPCQ33aYBu1KteoXPJvfONRn_TN4VaUtl57grCdW1-IFe-IS0MOjDwCCVIcBGc_cic2M7cOpRo2Sf6LJU3eFSYSNGOQvIfNEg96Qv0H_0LMSXSRHomeVjuoNnyiFBcQdGqEMdW4NLv5_l3S7AYn_wL3LFfewPWBQp01NxW9kYGKjShSInwVRpmztQbTTBJT2edHTVb4MsLp8QdTiGyazGiYH0Ee14Z9gAa4Pa6c-YpRiu5TBX-GdG2hquAPTHZ-gcq4wmG3Uz5rupYibpu3RZzrHm_-C00gT3FX1DUe2mrGo9GkuXZz4Sb4NT3cVVmN6KaCBhGnDJ5MT5_a5H-Pqww8r4J5WmTiYKTsrxSo0wG9usG0fres-tv9u2TbRo4oqX68KLcrpyiHjo4behD4wQmropwiAYteR_9hH4Jj-PT0UMqwRPKKH97cpJ4SYEvsPSbtwIy_Oub8axZRoVvaPkeXZog1057NJnClgJFpakhYw=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0361527301353c2c016abee11632c487d1a03b4d9253338a9f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 502,
+   "completion_tokens": 251,
+   "total_tokens": 753,
+   "cost": 0.003514,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003514,
+    "upstream_inference_prompt_cost": 0.001004,
+    "upstream_inference_completions_cost": 0.00251
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 217,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

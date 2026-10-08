@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907334-Cy1AuOP53GDZpzm6srxI",
+  "object": "chat.completion",
+  "created": 1790907334,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confident identification. I think it's **Apollo 18 (2011)**.\n\n- **Muted palette:** the barcode is dominated by desaturated greys, olives and murky teal-browns, with almost no saturated colour. That fits grainy 1970s-style \"found footage\" and the grey lunar surface and dim spacecraft interiors.\n- **Many thin, varied stripes:** this suggests frequent cuts between different camera feeds and film stocks, typical of found-footage editing.\n- **Pale grey bands:** these could match the moon-surface scenes.\n- **Long black stretch at the end:** this fits end credits on a relatively short film.\n\nDay of the Dead and Stonehearst Asylum also have dark, muted looks.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "Looking at the barcode's grayish, desaturated tones with olive and teal hints and the many thin varied stripes suggesting frequent cuts, this fits found-footage style editing with gray lunar surface scenes. I'm leaning toward Apollo 18.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Looking at the barcode's grayish, desaturated tones with olive and teal hints and the many thin varied stripes suggesting frequent cuts, this fits found-footage style editing with gray lunar surface scenes. I'm leaning toward Apollo 18.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxAgKEAgSGAI4AUIIdGhpbmtpbmcSDCZ+8a9cs+7z/NcQnBoMsAKc8F+s5npq+2pJIjDxym7lHhzEHWriO79g/g0LyOgDCjwzCpVpIoscMTJ9egFShGpurvfhv94IsUKHg5Yq4Qcj7kzmAIWqDEyJTxh1W2ZFz3rS2ZLQtcbqTkj/Cjue5zfOzR/s/ecUiv8Emx/7lRSdoE3zRECldNO7GY/EVC9bVIaLMTazeIdMfd52tOdKwsr4z7AQO+8onSApmj9dKNuVsac1gfhmbB9ktNWQO5xN00g11Xi6w0uSRSJY9U3r4JjtyqBw7+0JlKWw/+WIZN+F8dSZIPzt2r13n9jVZFsmviXex6rrKLP5aMsYTRYc/HpJN3C3qysA3VLWqrOBWwS6OlF2zakr08suKUMb7b+5/KqdBefy0PRestWV/mJcEIZJNXgnOmwSnnp0ubEwcZh7DwILKK0kL2jjBSP0Kc/wjl0nGJMPUkie2F4TOoMDnZdu5F1E575Zds8LzVC3Lc9iqj80+J0JSttm1FAFvTM5YWgGIp+KiNCzVf+TwqX6O8TmV1nQu+13Iveaorv9anxMKwSOS0z8t7BKXf7lGWePsN+mhQfxPQRQUJbCzupoTsFDaKu6W7T2hG4jrjE63pcQuaKdyrDaYg2JO/pqEX1nQtqrvYDDO7EbbxTlPl6FYuYCG6Egd1rj5Zn8WQY6NXZvv9eFuhSr3Onh6W7gXAfOCnt7fcXsYOcUyDXiVgdqzflUQwa+r0pGdq6WDKFOBnP9niHuYSHRGKasPIOa/gKOmI/X5taFYWC4dT2ADUW2a0Jz2YXCljwfARqwKfcbppomguDfuNo1x1o4n+YQ6WQhp8kdUCCeicJjOq4O1f1WOHS6I8FblaDJBJWdrfb/9FjKiAaWkjHUit6OFUKqeMS34brdqTWI/wPUPV9QNzx4KAOa20627iK/1UcuX6bxgJXyxHatp+8XPHp9H0AgwCkn0FqtXXiwUpCD5URqQ4ZD6SbnMCE7xaPZwfjcC1eoAbcArAc8nlREgFB13TegQuhySDMv5m4KoWMRWL+VcRUVKQyDofECBlouxk1mvCCus4Jdq3K9wGCy/aoLKil8uRNW9zXEIqp4f0A6qMqkLmfLg6kRs6WdEgdhtexMGussNxRiaFNjM0WDs1AKlqOHM4HOilu5yrl4Fd3rxJW+1KZX83e7vhO6PkttSAs32Qg5580Wiu9A2zPvkp8a9r0u+ZfDIe6z0GuVYc72p3wSCZtQBhtHbMlub7XF+5TKmdkqYzMP8qmB/SUY2aF7SrH4aANOf9Mra44wKKbmGRCa+BtLdOKqCM4sOtJT+noomVsW7+Dhg/NWYe3OJxsWQ7itnpjZbQCwLBKqJNBba2HcJUWsnXsxmvGZjLiVtuZchr8L4E4t6TDvl/feZjnZgkxEKSzjzIbGrhzorJY5m+9k1OzX66EYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 529,
+   "completion_tokens": 469,
+   "total_tokens": 998,
+   "cost": 0.011496,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011496,
+    "upstream_inference_prompt_cost": 0.002116,
+    "upstream_inference_completions_cost": 0.00938
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 207,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

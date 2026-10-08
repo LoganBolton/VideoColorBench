@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954434-FLscJ4IWq1Ja2sfRyEhe",
+  "object": "chat.completion",
+  "created": 1790954434,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Transsiberian* (2008).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating color palettes and barcodes**\n\nI need to guess a barcode based on color hints, focusing on dark, low-saturation greens, grays, and browns, avoiding big reds. I'm thinking about landscapes like the Transsiberian or a snowy Fitzcarraldo with greens and browns. There's a mixture of brightness and contrast, with various color temperatures from different scenes, particularly the absence of end credits indicated by light gray. However, there seem to be no accurate deductions for the movie barcodes based on all this data.**Analyzing color progression and film choices**\n\nI\u2019m considering the color palette of films like Fitzcarraldo and Transsiberian. Fitzcarraldo features a dominant usage of greens and blues, particularly in its final scenes, while the initial segments feel warmer and darker before shifting to pale blues and tans. In contrast, Transsiberian has a gritty appearance with dark grays and browns, especially inside the train. The initial snowy scenes contrast sharply with the jungle greens in Fitzcarraldo, showcasing a broader spectrum of saturation. I need to decide between focusing on either film.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating color palettes and barcodes**\n\nI need to guess a barcode based on color hints, focusing on dark, low-saturation greens, grays, and browns, avoiding big reds. I'm thinking about landscapes like the Transsiberian or a snowy Fitzcarraldo with greens and browns. There's a mixture of brightness and contrast, with various color temperatures from different scenes, particularly the absence of end credits indicated by light gray. However, there seem to be no accurate deductions for the movie barcodes based on all this data.**Analyzing color progression and film choices**\n\nI\u2019m considering the color palette of films like Fitzcarraldo and Transsiberian. Fitzcarraldo features a dominant usage of greens and blues, particularly in its final scenes, while the initial segments feel warmer and darker before shifting to pale blues and tans. In contrast, Transsiberian has a gritty appearance with dark grays and browns, especially inside the train. The initial snowy scenes contrast sharply with the jungle greens in Fitzcarraldo, showcasing a broader spectrum of saturation. I need to decide between focusing on either film.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vVeS1QBuGY3rknTheB5yXu7uFyzF6zInkFicS6dbM5h6IXkWnZr5XQSXPRA2HclXESrOVuJlRT0zSm1z9VUl_rQKqTv8MBWjmxrsPbVmc0171q9ewv7PO5D05UcLpGJ8pKrTLNtsahFHTuBJtfiFN9Dy6gQ_UEyEtp5XaqIkXfjBJAD5jQSBfkcQoY4ezYDsCl5CgTNvG2w9Gw2oyJoQvJu1H8Qdd8VcH0dVhIRz74XX1TcTkYI0LS1u8QZ5aXZOA4wFp2Fdrodvf1NStF44FsI4pgFIQ42C6ysqyZ2U3Ro7G8HXbqBleI8vqQzrDmDXG5XxEKISWhL0T363z_1x0xu7EdzTy-qR26rN1GqB51uoctkdhaD3fAfd-KHdFZiflc2ta3o6_j_S3_CEDS2iA1oe6KmhLQUIyHN_dOcAzT5dA_SS4UM3nnn-4uhlyiF54i0l-eAOXC6HJkwDoUuugfKcgHXFD2017WFJpKqIeUsQNIC-o3u6dN6nvxzJvoGHijTsWjM-x4CQ7InFtph-TJ1CAgFdkhnkt3nFYB_ANFQZkblFyec99w6sxiSh5BVMPJolu-WNqdawRclvFpSy2E9w1ykWZvvf4dqsHh77_iV3lBP-7lAlAnAe32IdpV-N4x42qy6TzjihnlssdBjiSkq002tjbSsq_4IU50CxAIMlALzrXghHADP0dHQ6n9fQ5v4udEuM2ntEOarD81wEMTvEZtM2pdb7ltORGq2MOogHV6-WHM6RagWiwy4IPWo7rWFhjQjccHxZmxb4LEMVAsRixZJ_yp3g6Nb3Aazz-BFgQfgCdvIEE-lvp1PRPYx0YGp01bMF_eXDLmsjdMtYzAQhUk2xIw80xUS6dwp6U2G-huIdXIrg5b4HD_4pfND0lYgtSqZW9IZyH5K9PfWR2muLZ8_Axi7hPYd9xgs0mOC2XU6x4zbMAIWf2b_9lerxF1q9EQ8LHukkIhmOiSCt8LKaCQNTHlmg711wWF8EO68ortcZ81THv8AvVlqw6Z5zHrZMzZKs0znYKHsIf8h1zV7BoEcN-aFPn2V6KTn_hR6ZiqpXOMXjcuhShPrDQb_7e01e8TWvNEeqX1v0agGsug2Rne7-AWiIGOuKC1EdB4HdrHFXsTDIVMhfdu4DvKhoeyjazzQEG-2zUkA2PPJJlaO2oe-PPQchqHkcJw40F9NPH7XpnUIALGk_0cDCDLkEvFPyiE6c2OA0LTJmDNZA_iqIlDRtEAfxlqZ4kzKcZGVqWqS2Pdcl1zJG1SnsPWCSGvsaqHdPIGZm_egwzqyTTNlYBLcVbotLKp3GbeujKqAsqA15eWhVFodosurJSYqpHQxzgFhjZJoKZgiBMsqK0HVo3KkRJNcN0C8kKC89GBtDs_OJTcB5Ffm6M88tMhZnY3QkgdNZrF7yEVX-1Em7cLp9GJ8XuTkVj7ncQl4JVBU0dKu5hLe5G4pFczTx_uXo7FwVLcQoU7lIP-FpkiXNvHQcx74ICRKPhCD_EIW8RMsN9ovj3xMXiJc5FgaR00D7Cnps1yNTMHZ1GLNF6N7LmAXsGWviSTJKAvBwnFiqQp-oKuye8OTD0AqW0riDQRvUAc9-XizFJz5059oHxZm4I0-MJvSSIlE8GJvjNRblDZ6AgmgAhd33C_dZfXnIR-_RYGCGfZ3yewJEeVZJaZX5nGTeldWpbE-hCesYFQIsH7gDLl5A0MXGemVNsHc59qoqp1siEwzx5G09lvWUj5LltdF9MKvmS898nDlig2Y-I1sXmKTgu8pcuF2V9SPekQzk9QlFCkcGGsZadkdl22WjThZT0vs9k1ym78D-5ov_CrERKPNYdkXxVDj1XKW3GoP3RqnimqIG-FYoOByWkM3QkH0aKP_VktTzhUcmBSqRwmFXUqw-Hgh0DSlapgJOoGOmXn6kM3H-O0sjX7n1E1LLBO3Sow97mHOREOrZhbYi7g6ztVtG_IkXZ7jxRRmNuqo4_I5jUAOZ0-ZJpq-NBnOJGFSi2diRheCyuhSu32ja38vJOlietVC-W485felX0j23v7vAMimPBhY8P7gDx5FQjxAgJ-7KnrtqK6B1QHGuRnfAHZYvFnJ-Dtuvl_AMAw6Hx1h-_qNCO2nb1phjmooDvDkQKVgWQmIb_EFvvmnoCV0Ac8HRKNA2tf9VRrDgAS9mXAkKmeWfSR9JzTP1fDDI2xLOgUm1aOZ0_hOr0Mm6HANG8Nu0Qe0n2spMLdthTGMhTuaV060C8wFBuvQ-gxLJQQf4wXtpp3TPmbZbGGXp1HTcTVONxUUlZgjpLGbe7leLi93JjjLOY8sBOOYHJt4AhiAOa-mh0tuVLMRPo1jENCVC5GOQv_GXrFpuKXsjGCZvkjI6fTcMz3EuBany3agLDvQf37u-viZKB4bEg1NWfXSzj88fcahcPrqxJvSjELNr2SxU3hi_CcCOIKvuCCNqrtrl5Xl2HPMp222lIm4IrnFbbu13uuuknF65GBrh2GRBkb4ApJSLIXvbd2o51ylq1DFnXc9l6OF152KkZIYLFzh9LlQ90FloY1l60uZmE7LS8BaXXIAaq0jPFx4cD1L5el06YcvISlBC4vHqqrLKknCklgKLgf4QCQ_Z86roQlx3uPVv3RamwI0MK-bpclxmgJCeTsgxzeOqQt-gcTt1EXv3o-zvmWwYa5-KsgTdmrkIP3G2OfU2VQKJgO-qzxyWlX-07sFvMB6hWwGyExURpFipjzC8opeA5K8K0-E-mOmqCc2l02p2r54hjlbCBQUOj_rdASGPjcWoQwE0Skt8whl9Z_FeGBft_y817DYb6ALXljD6PZ16aBeJJX7vrUtbZEBqiniVB0evZzz4JyEglfr8E0FttG_AH1t2ZEOnM6eCz5O6LwKLaR5R8E0yXo_IL67vDuguUsJLxRFr2JKNPfsNrEWlN586Dzm3xtd20NzzsHt3ImyW1yRzdi4DPQOhrSGQDXb5tlhnSIzUPkM_bJ8FjjbdOVspTT9hZCmNilCG8jTmhiuaFyMcp-oXcePbOKI-zxJzL1huus9BZsmMpXEIkj3pdSIKnoAuDTm98sNJSBY6LMr3rHNXQvVrxYjaCuluW--euCvByEphmZcxXN2taGv3BEJy_ekSa3YtsTHKN6Uj5s1mXamWc3YMRDv2u_3Jgtvrt1xhbFALl2B-6pI5wwzGgz9JbLPZptT7qVeafrS8lM0-O3zoms0Ddj48zrnT-3-2up6NZpcQAx-IrwW-QRiqQvWzKmFfiENmS066GXHW3fJGbCzfnllyn_DCgmH7PXH0mQd0YmlKsX6qgVyKA_YOdP3tptpE8DAOyRv-kXj0q0qxai_RkCsN5CTEl2PFQGbu9hxLgPyROzAuwGWROj5w6cGth4xXkNHIHkViLbr6wP0Q_0I-wKG9hmyn90CZNVaC1EfmnuRRUb3hVxLYMq5UBc73xSgs9yR7hB4IwBbtsg54-PCn32hlo1X99Zo50Ft41ItPR4Zq_cL138E_SXdDq1n5-SqfcwZUHEg6yufSLOtFWPsbIg3P8fQY80nomWUJWCEJ1CvBpQYkqu7-jD_CALW6ibAZZVnU5ZjIHY0ruysDVIWeEpzf33tdchG13wx8wDgXecXfN2FhS1wqKyFYTCIFNRe5AHJQsNF533.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fb9effc2abf6dd3016abfcbc3c2b487d1bc5a66ff31719e1a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 416,
+   "total_tokens": 858,
+   "cost": 0.02522,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02522,
+    "upstream_inference_prompt_cost": 0.00442,
+    "upstream_inference_completions_cost": 0.0208
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 393,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

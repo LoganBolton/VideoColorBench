@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907315-ZBwPvb1O5B1VcxMtykKy",
+  "object": "chat.completion",
+  "created": 1790907315,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette rather than a certain identification. The barcode is mostly muted, dark browns and grays with no bright or snowy sections. That rules out lighter-looking films like Transsiberian. It also argues against the cooler blue-gray look of Before I Go to Sleep. The warm, dim, neutral tones fit Trespass (2011), which takes place largely inside a dimly lit house.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The muted brown and gray tones with that slight purple-grey cast remind me of a dark interior setting rather than outdoor scenery, which points away from something like Transsiberian's snowy brightness. The warm brown, dark palette feels consistent with a house-interior thriller like Trespass with Nicolas Cage and Nicole Kidman, so I'll go with that guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted brown and gray tones with that slight purple-grey cast remind me of a dark interior setting rather than outdoor scenery, which points away from something like Transsiberian's snowy brightness. The warm brown, dark palette feels consistent with a house-interior thriller like Trespass with Nicolas Cage and Nicole Kidman, so I'll go with that guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSogkKEAgSGAI4AUIIdGhpbmtpbmcSDCqnVzqqniU2A0BsthoMaO/3tXCEQCxa4XpBIjDkESHLeTRO3SwdD+6pv+YovSVIp/xHOTGDdHq/jetAZbNvWRezhisHyeIK+SHOfGgqvwhcQgEfbToOMf/jTYeLyNcu5Oj9NLkZndyWHg/IZNu4CZdpevZn/ECHE6B6+3QDX3Llh38qK9HgCOkntq8RDSvEgxuOuPNLdn+s7IqbGk+AcGH872XXhuQkWDemxERN2MlieUD2W3KpdoGGDTSrvKksNPTB/bEkxpumvP6Bf0XmLXJXgAQX8QMllKxWX6IuDJcrWa8Bb27QYK7v5Eo+aQxZRRbaDoCbhD1b5ExAODxPx+/WlniZNCy4YwI4WBrH1YG2XsoqvZ7FLdG2h1ULuGuRHx9c1pFVDKmMOi7LOxXluYp8+c7kj4IKTCCANXw1ku7yX8ZFXREvqC4w1XZAcqkdIwUZXCB42k8j8eOSkRbUe9pwWZgEh8JbNaYAaSvtXXplQETiUq0brCkcXc69MDnjrD3kF6hQiOxLYOXwBbOa4rcnfkyPuOJRWw7JrcYI0QvHUOnWglzUkJQZBV6yAolgWxqLySWYDifEJwQ65zxLUbuAcPndIT4vVTHUAX9mVH/s7DTh3iJyn1jYtt5tc1YkCCNbWouhNFYcLdf+cuuow5848bGjbu8i+h4hIqszUrRdQ/u8n2c3PVafRoWkuVZ2N1THnArkX7KHq2RAYcuoQZ1HTeD0DdC+sevqwLKYPdBj3Js6tZbnRuepDCZprcFA3OtsPGIfOt6jHRCosHT/BdP1wU47Fw79cuB8uLCbaum8ZILcQ35xLjwzuzsaiy7iUVIPL0rChTnLX0JXtr4raUmofPe6enyuJJM9sNn6BO8MOLFVh0yryS+n71Pi7NYR0u2PxRbgRqoXpJ1p3dIT7p7niYfca7rwr2UGgLG1m4ih+5R5EKm5N35bSewEGTONgRobUwpQa4bm9fyvpBEdkwka4j3a81IDBwFn5LoP/QIedO0R8o16jhEOMB5K/pHruotR7VT9ESHMrmgQJUOtRSd8n/n3XuiWCHzlXHyQAjLiesbbdagEJU5PACN1JmiBKz8wbidGCor/BDNvsMbzBOPWDqCYt3R/ps25J8JcY+3YIak4khZTy8A1bGLgomKgX3Lf3XBhtYlZkcn278iyQLRrcNx/MD8Lmsd4vvAu+elPrj+wa7Bj6W/iBrbhvuqIiIfObUU97wezFlBzUjs6m6yMZtjbMMobapQcfOrA8F2o2kPikFkx703DQujJEGvIMhwsgbHDrUo9G69JqdVHGs/lo4AAa/IOrdjtO2REYpT2NFGnvzjWAjkAzg8tX5mN6o4PWTJfOaAbRygSLpL9yis90Rz1RJmxW+Uf8YYss2vUfNiGslyVSiYmSBAx3jw1qmJmfk7sfGSByZoPPs4GobFjbAgMzoXCrDsFNrPIW9ex6Z8tZ7NgoYmO/e70sctDWXQhflll6MwZxV/jWEnU7ZYinuYsXHO2UQnzQnlWml/rZKJp7qMoxZOZwazNX42l2bT3YSwPeU17dCMMNq3nGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 549,
+   "completion_tokens": 384,
+   "total_tokens": 933,
+   "cost": 0.009876,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009876,
+    "upstream_inference_prompt_cost": 0.002196,
+    "upstream_inference_completions_cost": 0.00768
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 243,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

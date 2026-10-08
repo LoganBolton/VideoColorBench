@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955178-e348ShGW6so15ZUJLYlx",
+  "object": "chat.completion",
+  "created": 1790955178,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: E",
+     "refusal": null,
+     "reasoning": "**Exploring color options**\n\nI'm thinking about inferring barcode colors, focusing on dark browns and grays. I\u2019m pondering options like using beige in a continuous studio setting to achieve subtle tones. Dark imagery comes to mind, along with brighter colors like reddish-blue for contrast. The challenge is deciding how to balance these colors for a smooth blend, particularly looking at how they transition from lighter to darker shades. I should finalize what works best!**Analyzing video color schemes**\n\nI'm examining \"Thinking Out Loud,\" which features a man against a brown backdrop and a woman in white that brightens the frames at about 40 seconds. The barcode starts in black and gray with bright tan shades, while the studio has a warm, pale floor, giving a tan effect. In \"Treat You Better,\" the story unfolds in low saturation dark blues and sepia tones, depicting a tense argument. The initial grayscale setup gives way to illuminated scenes, creating a smooth visual narrative. It's intriguing to note how lighting impacts mood!**Considering color themes**\n\nIn \"Heathens,\" the opening features a bright beige scene of someone walking in a prison, transitioning to a greenish dark prison concert. I think the barcode should lean towards green instead of a warm brown. The overall image seems mostly brown with muted grayscale tones and some patches of blue and teal, likely reminiscent of \"Thinking Out Loud.\" I need to make a guess here about the color choices and how they contribute to the overall mood!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring color options**\n\nI'm thinking about inferring barcode colors, focusing on dark browns and grays. I\u2019m pondering options like using beige in a continuous studio setting to achieve subtle tones. Dark imagery comes to mind, along with brighter colors like reddish-blue for contrast. The challenge is deciding how to balance these colors for a smooth blend, particularly looking at how they transition from lighter to darker shades. I should finalize what works best!**Analyzing video color schemes**\n\nI'm examining \"Thinking Out Loud,\" which features a man against a brown backdrop and a woman in white that brightens the frames at about 40 seconds. The barcode starts in black and gray with bright tan shades, while the studio has a warm, pale floor, giving a tan effect. In \"Treat You Better,\" the story unfolds in low saturation dark blues and sepia tones, depicting a tense argument. The initial grayscale setup gives way to illuminated scenes, creating a smooth visual narrative. It's intriguing to note how lighting impacts mood!**Considering color themes**\n\nIn \"Heathens,\" the opening features a bright beige scene of someone walking in a prison, transitioning to a greenish dark prison concert. I think the barcode should lean towards green instead of a warm brown. The overall image seems mostly brown with muted grayscale tones and some patches of blue and teal, likely reminiscent of \"Thinking Out Loud.\" I need to make a guess here about the color choices and how they contribute to the overall mood!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86-chJhggloE0k_knChEMa3fGe95TPNmSonqFaScYQB8kQTYusCUl9PzxMVU_hH9QMKgrRzxKQp0xvCUvCgxqOg5QTH6NkPvifWog5d6ppyATCQ69RbHhonN68cd4QfHjUglYFSNC9WsZdTuMSCBcpptr_WzdmFrKBzRbdPwg1GiolxUXZXOWiXlDdLnN3xKgC6BmUbjyS7cgnf0YvkLifTZXubCtt1PJy_FZZnm0X3jblQWmxHRsD0u9wLYlM1EQ91N-tG6Jmgdk767yYbcoezZVyRipeaH6W_I32q-tPHF8utUnin9PgF3QBVSZzLyRP-wYp13kLPP2eLFVQezaof5DpT6N34mO8lQaSg4cTBn-n8XfB5LSpQSK4zYB7EbsiDymcBvJROJ0kx41e-XIhYMa6JJRz528CifYASaVwIpsR94fSPFxdnNrepSVapUZ3YUJgo1RKLVaqu-GDxfO3_DMC-aaj1Lur4R2IW8nMtHZtsey60rsQzSD9FbM36OXpzSDywdr0y83zCFFoqjVKsM_zDriA5mBgAebFXbchMM7aP7ld5rtXFZFJP-j-_UebOceC72JNmKV0K5r0X_ulLTFIeWPnp1PhIhQ_uDc7BCIqfj97NWiBndcuJJWddgYgTuNn37HqUjUtWLDz7-hWu0jD2Ag-ZA5CC1oELIulG70QBTiYuILktLi2YG3bCntm9p3Mcs1Px3WqMI0LMgUwqFbLPKXeqIo99o-b-LFTahuEhTWZ6wbRl9Yo9RjMqjWmbjxYGHXWHTSxOOVoqjQSvfZzfYpYelf3amQxgL-LjD4K7VNA-bATjyWCnsz_RYGjJZedgxaIbhPOWpDfdPurHPj0cmwKj7z4H_rYAaTpKzO5yDbesvYH7Oya1pFiMJqlON5HUbcGxJEYWa6aOvdJy0Ai2-C0REPnDAwKzaBqNBozqKtHLM3RD38iVdKqXTWXRC-puZbZJAw6c_fd106XeK3pbNW0rGYnmiZy28iOb85-jYUfhCv0wNsbx-AyaFK5zTZtc8K90X-7iMq0EBtBbVpVU9Bixhh1cO9QDqykOR7-QoFX4WNtJb6yzSa3dx4IzfBlWPDmVp__Wi42NxzHQaZf5FYnszcgXfrXPtwHilM0YSrREz8AtMQCXWolvQgF8hG5EGfWsQMISreGUH4MwDvCxMQ5pkKJui_pi7M1PbW_KSy__3u7_xE2Jr11Rhnb9X_MW-nnQwGku5zoQq5UH8J8o0Y0YqsZd-XqUmdUoDjZOHH4r6sqyJnP_AfIr4nE7nUtXpAK0KTNv4NVEOkefWND8UHHuJlh6XZOiGAM0Vnp3pAc2_1R2gXW8N1OpF18wUDx4pWs2wDv9sW_yM9LWtvsCX-YhB9S2vZQeBsb37khipigM73Ec3PQebNMgl-fc4ZyHdCGtTF3XUmhW6-cee6QKW27GHUrt68_wyActLnLMHDuDZM46Kv0-mki1jJuibA8AAPhkmO34wiXIspqAY4U50m5guEE4uts7Ee3-PgV32mYymwRZ6i1KbJaSafyMRn216C-geaU7c2LMzoQw8iPHAoxMU3dyJDl_12p7VgS5VuUnnQpW_5og5qFnIVoJtpubs3MhvC7B6gz9jVJsddBqgpMxt2P10vNxoakWb1DHAGeO049MyD9-B3RdrZxikiz60DwgZxMRlgNI0W8MMPwTawQwVQToBlnJWTCLhvG9ML3-RyehVxNXevHEzKGJBpUH2Nwc_NupXmKZXsQcdFOQhnlog4Oc5nmCB1LIE8k0PMv6WpNl-8Q9AItVxcOI2V-xUnwHtE7Nf3T8EcNR5ZE960jGmew0FoitM1fCzFKfeqA9-nm6ue3KSIXKsXWEHNWSKFRxldSKCEVeiX_1PAIJwqa7yKt3AOO876IdhOPmcUBNV9low8vEFVhrY7OThTxWhvXx2Z5lqus5WMvPHEUHeFfbzgH3IHr9qblW9vORrWk57Jqwj8wx68JMHAMeCJCooWh5E5cN19t9gbWMhiBwNUibvmB6qErS7gzvYFJLqBU0_XkCfM6amXkDU4n2STSeXao_DrTW7Go_J5x99IYF0Fwv919demipi26DtHsJpgPnjKo0wE3JFIncZcZtrIskQIwtBau1eYUOScCUvs_NM0CDH3H9quPl6JW3QORtXB9UWaELS1nLHF1dRKTZAz2BcppnZQ7ZDCGrjOl-I-x10km-10DdWUj9shGxRzqhqKEvJj8elztfBoob-HcyrqghRPMpuChKzpHSTyCICrgx8g0W2W20mFWSEOdbGH9Mwk9Ao01cyRGIvGT3uGyH3PugpiCXSGEtinb7vk_5TQsN4rmz0nzdMFEJlwXfLvmwgZS1ed7sy0EeHUJgZ4paXDo8neQdNi9Cf3pW1USmMFvT1gxGndV7h4w6j6iR3Wo4SrfYlCBikaNn2NXHHfdT0BKKMPIN4-HVwbwiMiK92F0waCGHEAkvFkSCn6cmhPAWzXH5D4AYGpdt8VKr5l79hGeb1Ma6sZs2J8PZBvazn44p6BzquzcqzfLkdZBxcskAX0dCF1VuHgVk1WRocP0LRp6VzR-rsHGg3tT1_ColL7V5dDO7TgkVKcNZftD8p63VAc83gKf8h8QzlOcsnPAmyltY_RzemyurwZ05-rkt8vmNcl-TOFMhnEr5LVP6J3cD_dvdZXsDCvqN0hTAAqRAMhGNa0eq4jQQn-Ll3CylEX2ZsvOxqAXfUBVhMgCw9e-Lo0lVkyPkTw83sGSrNYv562tNHho2tAkUqGrfHrr1tBUPeM2znB06flxP3pobZz6JCv7Grm761x3ioaw4W40X3ZQIYgqobgr1LgK1U0TYB16DFM6pKK901MZUHF7GM4j3h6ShUcBjaiWkNsc1ktbya3xtx6Ips9rTtE06_Ki8PXb4OUdH41KrTirDIZq_V5JWJCuPOLvQBQ_yjTuqKb7cz42pvVlX6z9KbeWjg7-Akpx6u9N0IB1tMj_IzTgico2SOYbzc5m_QYZKodiZ12RshFlpYwkU6XxUOoI351ny5CKCu15hxScMIlgL1PS8AhFFcCuyR7ckh19xiWlyvNl10U0flufh1j-jeWiQw-bsC8iA1BiI9W50n3TFo-QoRBLDrKS8r9PVIS54e9Zk6X5WR6ZuE1p0lA7D1Be0_AtPHDCawjguOn2O9kXguCg-8Fem3Pe-Rd3ejEa2Ax0CGHm3r6Lav0HRohCpGRrwxe4ZTp1WUkuAYvND0BZRBqLupLXSDd8i2f4Qi5t1L8O10NgJA873dsXGW8CoILaZ_CERTlhGJ3j6XDJCcZEHt29XOnvHN0f4YLyVsya8m7zfXojoI_AxlUGxaHdW4IF76VwrULeqilOijr7H_bK8WhL0OhrYRrl-u511mbjFEOofTcYlxPBHTaZE0gWajmHlODObVYfc_Ixw3U2rnAC4TFngHCNo4zxO0kVs04xrB56hUVyCXYtt_RhLbBHAZypIgXZurBecZDlQdhPiMisdIGD3hAJKe3mEzM87GTOiqDDZubX2S6PSDXPhQf3yicil-CLG5BAV62U_nBEKyY1Unx71vTFGLQWUtK9ul1I4W5t2IzjYInwJE6JVSOiArXKNWVpu0Q81Bf_UUKM5vX50p9OQGd8ECvxpOLl0ml-zej5RYtalcwEL_k3Hwq_SHUTPJwbXftTFGY4pOymkQEhPqUtMxIahgPiHfmDDWKJLxCzs7k2-NmXrT7hTjhuwvyhFTe2I-fWWqBKYdnO8cS07X0eiht0TVSGPVTZvSWC2_44Oze0AimulSxNincBSSV13H2DWct-bmZgtP2puJgsPlwLKuRGU1ymLxcwF8E-x34KMAI7ASxEMWmYJEcHMM--S82dWRazny9k4BsG7DLmCvkpx0LjoW2WjOWjnbfDTeQ0rpquHL1LNPtZHlm-1hHPXN8DfLKFaC8BsqRRbf_nWREKNMlH2SX05mG-zq77CGa0koLRa8tZaOjaDlKpbHFdKG3cAIA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01dde554a9bcca6f016abfceac31c887d191e405e6b1f94bc7",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 424,
+   "total_tokens": 896,
+   "cost": 0.02592,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02592,
+    "upstream_inference_prompt_cost": 0.00472,
+    "upstream_inference_completions_cost": 0.0212
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 415,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

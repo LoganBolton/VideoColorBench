@@ -1,0 +1,21 @@
+{
+  "slug": "half-nelson-2006",
+  "title": "Half Nelson",
+  "artist": null,
+  "year": 2006,
+  "label": "Half Nelson (2006)",
+  "hex": "#433D31",
+  "rgb": [
+    67,
+    61,
+    49
+  ],
+  "frames_sampled": 6401,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "JuRFFLf_JPA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

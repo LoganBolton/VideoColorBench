@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790923169-wgCD60vkFlERS79z70MH",
+  "object": "chat.completion",
+  "created": 1790923169,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "StreamLake",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this color-signature image, the entire video is composed of grays, blacks, and dark tones \u2014 completely monochromatic with no color visible at any point from start to finish.\n\nThis strongly points to a black-and-white music video. Among the options, **Adele's \"Someone Like You\" (2011)** is famously shot entirely in black and white, featuring Adele walking and singing in Paris. The dark, moody grayscale palette throughout matches the video's somber tone.\n\nThe other candidates can be ruled out:\n- \"Hymn for the Weekend\" and \"Cheap Thrills\" are vividly colorful\n- \"Thunder\" and \"Stressed Out\" have bright, colorful scenes\n- \"Believer\" is dark but features prominent red accents\n- \"All of Me,\" \"Heathens,\" \"Sweet Child O' Mine,\" and \"Numb\" all contain color\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Let me analyze the image. It shows vertical stripes of various shades of gray - mostly dark grays, medium grays, with some black stripes. The overall palette is monochromatic - all grays, blacks, and dark tones.\n\nThis suggests a video that is entirely in black and white or very desaturated gray.\n\nLet me think about the music videos:\n- \"Someone Like You\" by Adele (2011) - The music video is famously in black and white! It shows Adele walking/singing in Paris in black and white.\n- \"All of Me\" by John Legend - mostly color, warm tones.\n- \"Heathens\" - color.\n- \"Sweet Child O' Mine\" - color.\n- \"Numb\" - Linkin Park's Numb video has some color, though it's fairly desaturated with red accents... Actually the Numb video is fairly gray/desaturated but has some color moments.\n- \"Hymn for the Weekend\" - very colorful (India, Holi festival).\n- \"Cheap Thrills\" - colorful.\n- \"Stressed Out\" - color.\n- \"Believer\" - Imagine Dragons Believer video is quite dark with red accents.\n- \"Thunder\" - colorful.\n\nThe all-gray appearance strongly suggests Adele's \"Someone Like You\" which is entirely black and white.\n\nWait, let me also consider Linkin Park's \"Numb\" - that video is very desaturated, almost gray with dark tones. Actually the Numb video is quite desaturated but has slight color tint. Hmm.\n\nThe image shows only pure grays though - no color tint visible. Adele's \"Someone Like You\" is the classic black-and-white video.\n\nAnswer: G",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Let me analyze the image. It shows vertical stripes of various shades of gray - mostly dark grays, medium grays, with some black stripes. The overall palette is monochromatic - all grays, blacks, and dark tones.\n\nThis suggests a video that is entirely in black and white or very desaturated gray.\n\nLet me think about the music videos:\n- \"Someone Like You\" by Adele (2011) - The music video is famously in black and white! It shows Adele walking/singing in Paris in black and white.\n- \"All of Me\" by John Legend - mostly color, warm tones.\n- \"Heathens\" - color.\n- \"Sweet Child O' Mine\" - color.\n- \"Numb\" - Linkin Park's Numb video has some color, though it's fairly desaturated with red accents... Actually the Numb video is fairly gray/desaturated but has some color moments.\n- \"Hymn for the Weekend\" - very colorful (India, Holi festival).\n- \"Cheap Thrills\" - colorful.\n- \"Stressed Out\" - color.\n- \"Believer\" - Imagine Dragons Believer video is quite dark with red accents.\n- \"Thunder\" - colorful.\n\nThe all-gray appearance strongly suggests Adele's \"Someone Like You\" which is entirely black and white.\n\nWait, let me also consider Linkin Park's \"Numb\" - that video is very desaturated, almost gray with dark tones. Actually the Numb video is quite desaturated but has slight color tint. Hmm.\n\nThe image shows only pure grays though - no color tint visible. Adele's \"Someone Like You\" is the classic black-and-white video.\n\nAnswer: G",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 498,
+   "completion_tokens": 543,
+   "total_tokens": 1041,
+   "cost": 0.000200796,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.000200796,
+    "upstream_inference_prompt_cost": 4.3326e-05,
+    "upstream_inference_completions_cost": 0.00015747
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 352,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894431-ikonDQxCOuxI2t7u4tCA",
+  "object": "chat.completion",
+  "created": 1790894431,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess based on the overall palette, not a confident identification.\n\n- **Overall look:** The barcode is dark and muted throughout. It is mostly olive, brown and dark teal, with no bright or saturated colours.\n- **Why Let Her Go fits:** That video is mostly a dim, warm-toned live performance, which matches this palette.\n- **Why the others fit less well:** Most of the other options are reggaeton or pop videos, which tend to have bright, colourful scenes. Shape of You also has more colourful sections than this barcode shows.\n- **Start and end:** The grey stripes at the start could be an intro, and the black at the end looks like a fade-out. Neither feature narrows the choice much on its own.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the color palettes of these specific music videos\u2014Let Her Go has warm sepia tones, Criminal leans desaturated with teal and red accents\u2014trying to match each one by its visual mood.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the color palettes of these specific music videos\u2014Let Her Go has warm sepia tones, Criminal leans desaturated with teal and red accents\u2014trying to match each one by its visual mood.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSvQoKEAgSGAI4AUIIdGhpbmtpbmcSDMfb9gKaqZqaJOOvVRoMWlA4qqkIzPLBTqq2IjA4wEzpvgaEYbY1cN0YkFP4lgvJbE+rYXn04m9khIzK562cWoCaHziHf9uE4QJ6JqYq2gkku/VBOqSp8JAb/TUJ8fKi82hKfgATu4K/c4/5zDSsiXduXDE68jX7UkVUArWjeuxhfQgNR/yD4iytXaJj0X0oJU8v8qsZ1b6Hkf2tozVOsP33N7LJNRpeKVjb/S6s1cvVKdnvbquJjjBzbQf30zdUcZ7lGXz9Ey0sCeFft6dyxsk0yM/P4myQH7jp9ii7GMts/hGtyrc2MneV0ncFmNDOhvlSS4fWa3bDmNsc7XG4b/nD5XksbPqSAFqNxfN4TvoWxk4HS+Q+KiGbXq1WUjXfnLU9MoBz6Z8eoyyDLZb9ES03+lt4KXr70dX7OEJn3mLKw5nUIwjWWhVbqXxbfHhb9qLnA15jQahqxfSLVd3cJAuT8PK2nnqsGhiCMLLuZEXKQG8BntpAm8oRVGsp/yQuCaM4zJzMXyIKj3fFzYG469acC5MJT2/2iAN40XajHJ7j/5OlS8qq4ygcxW439PXbCfZQTTH80mgbNO0wOCYYzJ7KDcI/bbfK6gXFSWjGK41yQIz3fdnxJLohy5mTz5XWgVBkeSLsT36pqwfRrUNVJg3yGgVc7CKoKrpi2u4aksLvKJWveRfbrIvmMuN2xGLDnTzma7WdDush2mLMIi1M4fHounDjBhO+u5zKDxAdLkmPF8+Z5bA7HyOHI39nJdMjEfe5ZkjJX1Xx+lh+VFWjiAp1XUV9hZC3kuApJtycpsbB4HtG5eO+V4ULWDJ3iq6X6kfq2ZodMBWCRzSVZpqcJ1jay60aLHuszrGADbSn7X1eI4uQYj+mh5/YBNKM4F/JsKluU5rSFYx2VHKCkDslxbeRC646AdquE52NHhLDuMSV6uqgFcSqsqAzqcUtRa6YaIdPJ9tpAShHZSinKLR1LHv0eWNEA93tMcGgTJrCaHIqNSujvlHkhxbpM9HuzlKHqGYNUKfMhq6kDlqjDeyyT5pkHZB3UPD8e1CHrrTMlxXw6QFhRpd7/zJT6nIKAiExdXAJmG14mh1V4HGnIPqvlUJPo0ktlvTRs7hvQuaa9GvEuInYJ4v1pVn8pBfDG3KmFWkBAGNOMs55DnT7MSBV3te2ktKV0hdurPTSL5a1dJFFc0dIovu2via/rlQj5OsuJtgM8slvUgW4FBkAxnONXtnL3OLPBVptu2JKUMxjBYZH+Oc9cI4ID7hCLf3a8Xxa/sq5pdARJYJBZOe9CGfTUXQu4JjEdK9UJ5pCveQi2mbO1CIfAChS/HoXP6IHxcC6/GBnZpMYAB0cjPz4U6DwJAAqIaInxsEAU1OCEFPtPYxiJcDj0Vc09eEqUItTdv8VAeFB+napuUSdHgYpsgcpKl/bB0NlykxIwTB/8Fna9tZoLVLnPlyhzMMW0HKvr/qDAJdQ1JxYrnHcZ0vBPnwhuZS98umJ/G7dhipo829LXdvvjpoibrpQpQZKZocD4ldg//6khgKKrYS0WhC5dvU1CR4GOaAYy1GvhJM5xCVI/VLU4VP7SmYWlj+rKSbMuq5jxCkDaTIwE9LFHMWk3Emc3uWn/peNfWUGBrSyzhTXSmm0PC0edpeAgb/IdrETpDBM/xw4tNSElNxR1PTNr9qH2x/bMC78kJ2FtGlEut9fa8Kpmq6m+bIFISmWwKqQ1HJBDlYTJk9GmRN6Wjm/Xx3mFyewbem4GvszM2gYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 625,
+   "completion_tokens": 552,
+   "total_tokens": 1177,
+   "cost": 0.01354,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01354,
+    "upstream_inference_prompt_cost": 0.0025,
+    "upstream_inference_completions_cost": 0.01104
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 310,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,9 @@
+name: opencode-glm-5.3-flash-youtube
+mode: harness
+harness: opencode
+dataset: youtube
+model: openrouter/z-ai/glm-5.3-flash
+concurrency: 10
+timeout: 1500
+questions_sha256: 396649572893e1deb521c72908aeeb4a72d3905e06b8cbdfbe1d002d2fdae0e5
+harness_version: 2.0.15

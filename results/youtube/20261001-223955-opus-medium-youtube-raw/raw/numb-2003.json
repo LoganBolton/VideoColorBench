@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894402-4dZ2SoO0p5gPgj8Pf87P",
+  "object": "chat.completion",
+  "created": 1790894402,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colors rather than a confident match. The stripes are mostly dark, muted browns, grays and olive tones, with a few cool gray-teal accents. That fits the dim warehouse setting and warm, sepia-like lighting of Adele's \"Rolling in the Deep.\" Linkin Park's \"Numb\" is the main alternative, since it is also dark and desaturated, but I'd expect it to lean more toward gray-blue than these warm tones.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these music videos - Numb has grey, desaturated school scenes with hints of blue, Rolling in the Deep features dark warehouse browns and olive tones, Heathens leans teal/green, and In the End has desert brown hues.\n\nRolling in the Deep's sepia-toned, gold-yellow lighting with dark brown and olive accents seems like the strongest match, so I'll go with that option.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these music videos - Numb has grey, desaturated school scenes with hints of blue, Rolling in the Deep features dark warehouse browns and olive tones, Heathens leans teal/green, and In the End has desert brown hues.\n\nRolling in the Deep's sepia-toned, gold-yellow lighting with dark brown and olive accents seems like the strongest match, so I'll go with that option.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSkgoKEAgSGAI4AUIIdGhpbmtpbmcSDOD08HbbH0f0yTETSRoMc/NLI17omfHIz/tNIjBxtpT2vocuFZT6degEKiZLzVwRczNrQNRgiSsrNrw3Ie7xA24zyHrhOHRyMvbDT6UqrwlVe0ooT28o4IcRYahLgt541CV7SyGKOE3E6dRJal5Kb28nBQ/tE8jzSi3Zmt19CI0Xec6ej4e94RngIttLkLow0ltz8HPJB7ZkyXwBg+H0L6mOL4CPO4bLyvVy1SuYww8FHg2pIvgf35IdcZzGMshplwig1S1TCeh7w7+76L+OxVSnwwrF2+0jAXgRZW4eWEoE0IACOQz0B8jFplKOm6ef0t73YF0uvaFVBFepYFCehYnagJ2nDP9c3J2Cvo/Zsx0go5ptCy05mkGrpvf1yiJkQewHc61LPLmXRSVcZ3AQXTARjU36nlwjVNKkw7dVVCWP1L5b0wKhMMDaGfPWlELnZBZMzN2N3GLoSQUuxdngPuhSZvtm5+hwE10a1cwQR9Fy0n3WVKuXlO+cXtsV0XlCJqBs4WqKQ2zkm0feg6rQjGD7pRG8UZ+fgdIxBniNPrUi6ORADNX5VzU678Xjt+AlRM2EcY5cLyvO5bSSx5BGgfRpwn3RviOqQVc2Qwy0nQ0/jLkF1a4Td6luoARS1CbOim4Cn9fWNsow2uTP/E80ZmTPIfjuTnm26WVXaX1zkZ1MbZr0OU6IepJwr2c5aE4Lq2Ys9NIH6OK/S63b4MnMWecm/AFUahZAvGtLaWBx93XkdnKuiA9RDYTW0v10FSigV2Of9EFtg79cNBynPUnGbKrn7BCQe67QFATocScpV9ycqPPNZZb0A6LppFfVdjGbE74umRvu4Lj3DEryujIASZLBGGylEm8uHO8IIp/5A8fRJIPiQt15FFfug3IN1AoeQ1kyl1xpLAMaMEGrh2D0WBjGT+9zpo4B/4z7WtwisREYOAPiIt+Qe+7Y85E8QGN5xqa6OLFLIFIUehlVzR536u9s9CuZa6UJ/sluj9Xs12YA8HNehOPAWC7032pWDQVBuRlNil8Hl5iJL5Dw8vHEfRMva4bXXYUlXYlrRVsMXr4VI4rNAK+3Xz5xnxvUIzfTt02xNIvUw0w1AyPuEXmlz2DRdxmRMmIAPAGpIUl8nBrYhAbDJBBiyMffbea68bJ4IeUk8NUXhFsKflMZm1XYRtCnr/hK5nfcucAwztoWbp6n0Dp8cL0yprOWrJisajDJ1hjQLii1SbgMG47OqD1GIjovJvHdJLrgl+DjrPJ5KUc3XooFNnLcWdn2990jvK96FsAA0rkRj1sinneuNYR+C0yxhpRGRRqMz/xI4QBFwExtRjjtN48olEHShsF6eJw/iYc1iEwE3cHXSi3on8OEYhg2Nvg5/lmzFmlo+aA0Awcp3Np2ssBA5cfY0eNaGrJX+5y8CJ0xpzK1efUlvA4USzm7x+tRot4lVYwUpw8POf2p4TscJiwdLFtBknB2dwajJ/6TAUqC7KyXgKFGKHuAKJdMWZsCTFVLbbcmrWQvkXNjCM7Y4z5acZ4dgkSitwvYZoKK/GAVIUGCv6hs3omVUuTdPOIUMqvvFIcNwbrB0qe0PU51sJqHSX1UAg5PZiPCxYafzlyGTjwlz/Z2+hjpGpfEgWYBSiApazACoOTzT5IYIEzh1JjmuPTuQ2IJN1uU87ujipUvT3gUngNb1PSY3QLAOBnwl0RNxKKvz3/ugBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 599,
+   "completion_tokens": 444,
+   "total_tokens": 1043,
+   "cost": 0.011276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011276,
+    "upstream_inference_prompt_cost": 0.002396,
+    "upstream_inference_completions_cost": 0.00888
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 285,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

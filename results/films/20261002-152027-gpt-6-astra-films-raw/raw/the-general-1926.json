@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954427-wQ9PuM92Q5hwfbiILGge",
+  "object": "chat.completion",
+  "created": 1790954427,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The General* (1926), with its sepia-toned scenes and blue-tinted nighttime sequence.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing film sequences**\n\nI need to think about the monochrome barcode colors, specifically a brown with a blue center, aiming for a range of 475-530, while keeping the rest in a sepia tone. It seems I\u2019m comparing \"The General\" and \"Kid.\" \"The General\" has some nighttime sequences tinted blue, contrasting with \"Kid,\" which is often in grayscale. I\u2019ll focus on the runtime and specific sequences to ensure the blue tint matches up well with the overall warm sepia. I think I\u2019ll choose what fits best.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film sequences**\n\nI need to think about the monochrome barcode colors, specifically a brown with a blue center, aiming for a range of 475-530, while keeping the rest in a sepia tone. It seems I\u2019m comparing \"The General\" and \"Kid.\" \"The General\" has some nighttime sequences tinted blue, contrasting with \"Kid,\" which is often in grayscale. I\u2019ll focus on the runtime and specific sequences to ensure the blue tint matches up well with the overall warm sepia. I think I\u2019ll choose what fits best.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vFkG3C0ySfnuVU2XoUhPmK3cwmp-ktMsBN66hImB4ZlbCS_R7Yl50HY8D0nhwF9hhwUNZBiZa4bJrj765KqdCFKfsZAz1ZcKrUdcDvZceiX-eU7lLPXxp_ld3p3uNHa8SZArCWC9vDENB5H6F8DS-Cg2lz5uZ0UxlVHUHF7n3hYCracQyJhUFd_UHLDHxBNS-dkEs99hjbDH2dWHMYIOeApGKp-5VeeJo1lRlBuvS0GLncn13cNCogZ-zF0A46jRAadp4vaUo-9AjQmy86zOA4lZg0zflbPO0UG_PibzKAKHkxaPN85QQuAuHn99tVCSWElYA9unwyIN9a7kWdTkNA4WB-MmRkvHyjsMf7fInuOg2nkkJoo01EjUOk_HgpS4h3r4kaL2xyYLHo0WMJnOQFLZiT2YERxLu40Z1PgioPaMuKwq9G8y8gaidd0sMlVJwYr5rPVqaEQCK_tknxoptiTmjgns1nNBv0JJOvSTbBc6JhJ204WoKo5i44HjM1lOEfyU0-SnO4fJxmgUf5dIpMSFLxtFmLQgKnFAHrds_iOWg9QHrqeZ7FfUlRESH4PWpM-kX4hlqmndU68VaPQq-bazlrKxFdh2N07_eKAY7tpjrZYFQC3AExqZgfzK3tllyWhakleFV7eHlBezOKiUdlqXFYR3TkCIalyTGzTHYVaDx6ipgWJJ78AG1aefz3CqZ2WdiEtk7anxCffq3hOzpHKPPu9gzIdvGmFqjkh0nTl4Uo8mIb4FlZmUmA_ZicAe7ikNu6sDl6DNk8BzepG-BxK8OWp3StIX6tik_KbrifvIpfGe75RG0IQgk5Qf_hAHfbaer0SOMFcCdO1z0skDSVGUV1RSaZ24vaPkJY3wdloY14qFLKy4YPz0tli2z5P9jMd_FtS4IeMsyUkAnjSiM4SDBZWeB_Z1XnwD3ukDdGcTAGKmIK67IJFTA69gSmhhrd6p-VPJivnHCaQJMjOhfo-dLdsjz05M6csEQ5v15CSt28ob5Cs1gJUJDTTQ4BkLstjNpq9UTH-T7-shv55TdDfiBjx6fu95lyCXgFcnJmQWPIDG_VPz0qs-OE_cbnVf-pYAPLW2Gk5cjX0O_PUjVeUxWnKHywhDLYnBBm1G5Fk35bxn1LE0sPTJ5KevRI1rZW2l3WQBV_ZIegmWdA5az4sLCwg-IXG5aJ3vu9YBoRebz0RKvSV7dsMGiuPWtcp8inh0SZrWH3JOzDcvogT3OuH4_Z3nA_0Qw4eNS98M1TjGwMqNL9KanrFeSnOMI0KAeHfO3R5UoJx6uDXo8UosthctN9b5Z1trKiURLrXGq4ABQK_yuDOmhdM0OjThEGQ5uDS-wGp_S81LGjIqZGN7gFtFzEt0AYdrsAfnNdWz_XJ5-rCUAjilHaWdCOT0hT9EdzoiKx5hMY1f1kRgyKdEW61LI5CpWF-PmScQFepwNRuRgqmq1T4fveXJh9LzIJ9vcVxei1pk88rqGIyHpdGeMENP_T29FhwiI0BzOd22CWsZriQ6I3xWtkxeimTiB60g4goW_q6YhGF8k24HM61O4BhpGrp9KmPP21DZu0rPgl95esU8ir9iONemGNERcmbQcjh2V7pRtLijURqwtSj2aKiPRCzWPoWprE2LswBdjHweGWWbSFOWhRkqJuEoY4_bo66W_R8TBWiaSxy355Vr_0gtYUTKJSf62cHO0Xhr7Zi1kuL0-abwRDtzwTg7GPj3s3HAQPeFr16XXeh-qKYxM37BNeU2FF_k015x5xh_b9e54FogDY5vXDv5EAn9fYysnUOYaqgr5WtkpBT9OXtUWK0f7NZnQRCHWcdujp6nvvmMOFjVdNwJU7dEarkfctrDkDHx4CGDH3g-gN1OxkEBbWUXqiaZ0QOpJ0CM0jyDzdtFrxbF9CuxGYTFBAAAQ4SFtyopG820u0pAMr_A3vazhZEeht1AFXQqbi71toxFhYE4171UqP17FaDKs_jRDWzFKgvGitTS5sOVJJ9vICPi2PoQp7KggRNouuhORsLqEh68Q=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0859d591a8d54d3b016abfcbbd5b6c87d18d0ae199ecc3ad98",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 151,
+   "total_tokens": 585,
+   "cost": 0.01189,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01189,
+    "upstream_inference_prompt_cost": 0.00434,
+    "upstream_inference_completions_cost": 0.00755
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 116,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

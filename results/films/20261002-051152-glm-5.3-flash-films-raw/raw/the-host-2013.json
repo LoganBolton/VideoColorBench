@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790918241-8eKe66ihowSF3upnNeVj",
+  "object": "chat.completion",
+  "created": 1790918241,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Parasail",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this movie barcode, I can see a heavily desaturated palette dominated by dark blacks, browns, tans, and muted earth tones \u2014 suggesting a dystopian film with dark night scenes mixed with dusty, desert-like wasteland sequences. There's no bright saturation, no lush greens, and no vivid colors that would point to comedies or brighter dramas.\n\n- **Prospect** (F) would show forest greens.\n- **Draft Day** (B) and **Take Me Home Tonight** (I) would be much brighter and more colorful.\n- **Existenz** (E) would have odd organic/reddish tones.\n- **Detachment** (J) and **99 Homes** (C) are dark but lean more toward grays and cooler tints.\n- **Automata** (2014) is set partly in dark, gritty nighttime cityscapes and partly in sun-bleached, dusty post-apocalyptic wastelands \u2014 which perfectly matches the alternating dark and tan/brown stripes seen here.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The image shows a movie barcode - each vertical stripe represents a few seconds of a movie averaged to its color. The colors are predominantly dark, brown, tan, gray, with some muted tones. Overall very dark and desaturated with earthy browns and tans.\n\nLet me think about each option:\n\nA. Dark Star (1974) - John Carpenter's sci-fi comedy, low budget, space setting - might have lots of dark space scenes with some bright interiors.\n\nB. Draft Day (2014) - sports drama, likely bright, lots of office/football stadium scenes, greens and bright colors.\n\nC. 99 Homes (2014) - drama about foreclosure in Florida, Michael Shannon. Could be dark with muted tones.\n\nD. Automata (2014) - sci-fi with Antonio Banderas, set in a dystopian desert wasteland - would have lots of dusty browns and tans, dark scenes.\n\nE. Existenz (1999) - Cronenberg sci-fi, would have more colorful/bizarre visuals, organic reds and fleshy tones.\n\nF. Prospect (2018) - sci-fi on a forest moon, would have lots of greens.\n\nG. Puncture (2011) - legal/medical drama with Chris Evans, could be dark and muted.\n\nH. The Host (2013) - Bong Joon-ho? No wait, The Host 2013 is the Stephenie Meyer adaptation with Saoirse Ronan - alien soul romance, likely brighter with some alien imagery.\n\nI. Take Me Home Tonight (2011) - 80s comedy, bright colors.\n\nJ. Detachment (2011) - Adrien Brody drama about a substitute teacher, very dark and desaturated, moody.\n\nThe barcode is very dark overall with browns, tans, grays, and muted earth tones. This looks like a movie with lots of dark interior scenes and earthy tones.\n\nAutomata (2014) is set in a dystopian wasteland with dusty brown desert and dark cityscapes - that would give lots of browns, tans, and dark stripes.\n\nDetachment (2011) is very dark, shot in subdued tones, mostly school interiors, yellowish/warm tones. It's quite desaturated and dark.\n\n99 Homes (2014) - Florida foreclosure drama, shot with greenish/tan tones, suburban houses, dark interiors.\n\nThe barcode shows: dark blacks, browns, tans, some gray-blue, olive/khaki tones. Very muted overall. \n\nAutomata has desert scenes with dusty browns - the image has lots of tan/beige stripes mixed with dark ones. The overall palette of browns and tans with darkness strongly suggests Automata's post-apocalyptic desert wasteland.\n\nProspect would be greener (forest). Draft Day would be brighter. Take Me Home Tonight would be colorful. Existenz would have odd colors. The Host (2013) - the alien world scenes have desert too actually, \"The Host\" 2013 has desert scenes (the souls' world?), actually there are scenes in a desert-ish area? The Host adaptation has some bright scenes and blue eyes glow.\n\nI think Automata (2014) is the best guess - it's a dystopian film with lots of brown/dusty wasteland scenes and dark night cityscapes.\n\nActually, let me reconsider 99 Homes - it's shot in Florida, with lots of muted greens, grays, tans. The film has a certain teal/green tint. Hmm.\n\nDetachment is very dark with yellowish school interiors - lots of dark stripes with muted yellow-brown. That could match too.\n\nThe image: starting from left, there's dark, then gray-blue, black, olive, tan, cream/tan, dark, brown, black, dark, black, tan/brown stripes, dark... The mix of tans and darks with browns.\n\nAutomata: The film features Blare (Banderas) in a city at night (dark) and desert wasteland (tan/brown). Many dark night scenes with brown/tan desert. That matches well.\n\nI'll go with D. Automata (2014).",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The image shows a movie barcode - each vertical stripe represents a few seconds of a movie averaged to its color. The colors are predominantly dark, brown, tan, gray, with some muted tones. Overall very dark and desaturated with earthy browns and tans.\n\nLet me think about each option:\n\nA. Dark Star (1974) - John Carpenter's sci-fi comedy, low budget, space setting - might have lots of dark space scenes with some bright interiors.\n\nB. Draft Day (2014) - sports drama, likely bright, lots of office/football stadium scenes, greens and bright colors.\n\nC. 99 Homes (2014) - drama about foreclosure in Florida, Michael Shannon. Could be dark with muted tones.\n\nD. Automata (2014) - sci-fi with Antonio Banderas, set in a dystopian desert wasteland - would have lots of dusty browns and tans, dark scenes.\n\nE. Existenz (1999) - Cronenberg sci-fi, would have more colorful/bizarre visuals, organic reds and fleshy tones.\n\nF. Prospect (2018) - sci-fi on a forest moon, would have lots of greens.\n\nG. Puncture (2011) - legal/medical drama with Chris Evans, could be dark and muted.\n\nH. The Host (2013) - Bong Joon-ho? No wait, The Host 2013 is the Stephenie Meyer adaptation with Saoirse Ronan - alien soul romance, likely brighter with some alien imagery.\n\nI. Take Me Home Tonight (2011) - 80s comedy, bright colors.\n\nJ. Detachment (2011) - Adrien Brody drama about a substitute teacher, very dark and desaturated, moody.\n\nThe barcode is very dark overall with browns, tans, grays, and muted earth tones. This looks like a movie with lots of dark interior scenes and earthy tones.\n\nAutomata (2014) is set in a dystopian wasteland with dusty brown desert and dark cityscapes - that would give lots of browns, tans, and dark stripes.\n\nDetachment (2011) is very dark, shot in subdued tones, mostly school interiors, yellowish/warm tones. It's quite desaturated and dark.\n\n99 Homes (2014) - Florida foreclosure drama, shot with greenish/tan tones, suburban houses, dark interiors.\n\nThe barcode shows: dark blacks, browns, tans, some gray-blue, olive/khaki tones. Very muted overall. \n\nAutomata has desert scenes with dusty browns - the image has lots of tan/beige stripes mixed with dark ones. The overall palette of browns and tans with darkness strongly suggests Automata's post-apocalyptic desert wasteland.\n\nProspect would be greener (forest). Draft Day would be brighter. Take Me Home Tonight would be colorful. Existenz would have odd colors. The Host (2013) - the alien world scenes have desert too actually, \"The Host\" 2013 has desert scenes (the souls' world?), actually there are scenes in a desert-ish area? The Host adaptation has some bright scenes and blue eyes glow.\n\nI think Automata (2014) is the best guess - it's a dystopian film with lots of brown/dusty wasteland scenes and dark night cityscapes.\n\nActually, let me reconsider 99 Homes - it's shot in Florida, with lots of muted greens, grays, tans. The film has a certain teal/green tint. Hmm.\n\nDetachment is very dark with yellowish school interiors - lots of dark stripes with muted yellow-brown. That could match too.\n\nThe image: starting from left, there's dark, then gray-blue, black, olive, tan, cream/tan, dark, brown, black, dark, black, tan/brown stripes, dark... The mix of tans and darks with browns.\n\nAutomata: The film features Blare (Banderas) in a city at night (dark) and desert wasteland (tan/brown). Many dark night scenes with brown/tan desert. That matches well.\n\nI'll go with D. Automata (2014).",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 449,
+   "completion_tokens": 1074,
+   "total_tokens": 1523,
+   "cost": 0.00060435,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00060435,
+    "upstream_inference_prompt_cost": 6.735e-05,
+    "upstream_inference_completions_cost": 0.000537
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 861,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

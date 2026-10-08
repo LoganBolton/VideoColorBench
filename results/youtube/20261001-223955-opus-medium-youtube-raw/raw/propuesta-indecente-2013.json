@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894424-AWmkQImQ2HOvbV1vaJqW",
+  "object": "chat.completion",
+  "created": 1790894424,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **C, Romeo Santos \u2013 \"Propuesta Indecente.\"** I'm not certain; this rests on a partial memory of the video.\n\n- **Colour pattern:** The first half of the strip is almost entirely neutral grays. That suggests a black-and-white or desaturated opening. The second half shifts to warm browns and ambers.\n- **Match to C:** As I recall, \"Propuesta Indecente\" opens in black and white and then moves into a dimly lit, vintage dance-hall setting with sepia-brown tones. That fits the strip.\n- **Why not the others:** Most of the alternatives, like \"Bailando,\" \"Chantaje,\" \"La Bicicleta\" and \"Chandelier,\" are brighter or more colourful throughout. \"Heathens\" leans toward greens and purples rather than browns. \"Diamonds\" has some black-and-white footage but more varied colour overall.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm trying to recall which music video matches that visual shift from grayscale to warm brown tones\u2014considering Bailando, Propuesta Indecente, Diamonds, and Heathens as possibilities.\n\nPropuesta Indecente seems right: I recall it opening in black-and-white before transitioning into color, which fits the pattern I'm looking for. I'll go with that answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall which music video matches that visual shift from grayscale to warm brown tones\u2014considering Bailando, Propuesta Indecente, Diamonds, and Heathens as possibilities.\n\nPropuesta Indecente seems right: I recall it opening in black-and-white before transitioning into color, which fits the pattern I'm looking for. I'll go with that answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSwQoKEAgSGAI4AUIIdGhpbmtpbmcSDO0n31ogeUlcCX7PVxoMwI9227kmwU4U9fgrIjBzLVPQ4l4NkaV5QUOjzDCPUkPb+vB9E27OUpA0TzyDPuyTZASwtqpDXOsw9d1pcfoq3gkLrxMfskNg+tCmr8IEUG7QxZfx/X4796/9qgXMU1XduvjJwbrdjwxbrCdpPUdJ4CW5S9b8PySQX+j3G7xhr42495OhdOBRrsJwx4UDXC5CYqQaE73tCVwEK5JOe4N+UxmQ98tkwz+cTfx8sM26+SWL3XLVx97mdWFBnyOKUjJhD319EhJhCeaJ3307repWDCSnOAp6mGROiQs+LwIbtwdWUUwro1/FMEv9QssjIsPCCa/WTqPM6/aoTILXa0OjGDOcO/KDw1yxpZilU64Pd7v/r3tnG3vSjyvBP7mGpKapcG62TgGVU+NuNegIia887S0wcmCttroejtbdIqMzMhcsl2hQkNnZCWQW9Djwsp1ouGiDqIk6/qQ/zCCf/GBP17JbJpkGisrnYyVEJLpKc1qqBE9AukTF/RMPLj/RbcSqEaXmdPgCNDU0ka28iLNE6V4thKLPnoKiBPo2ZQYdc3NGwGGhVii2/YEguFj4SMwaH6MaoEP6++24+w+tuklbHN2KC4In+w3iGfovbSqasMuphaNVEUXWDCrx52HOXmaqqwzLvYXRR2kwRXEgf8OWPsXMU4DY6C9x7SWTid7pOOkJreu0aMAA/njnBPOnG7r8nrIXMWv4CNrNEd6GiVRUcOlY0SGE3YcrGaX3Lxo9Cf3XG1EXjhAE67mc1Dc+qaqebYS++Xwud5khguSiS4VjGNlr1O9h4EDP5dXRL24V2BVFu7aaUR/ijE6zQvs5gpKDlh1HAhqUXN0EXNatFTfD186zLMEVakbN3OeIZX5zjQVIHKLjH4XPsAXVC6Z5eFjEc51Vb+YLe75GI6AYlo2BXfefDVlC8r98XYW2fQgy/g/d6GM8VlleUGTg7s2y1gJ6Uin5efTwnrVPU0sD1qLARgqRsceKv3QXQGDG3peHKwTsqWJ4RKAigWRDpTR4eikScBxGROA9wOsossRugEQfrm2z/+fmo5AjnI8ORlOrmT9V4BDd+fItjbozwg9DXOcX2rlfOP9hMQyg5sJbhCCpiudk6COLcW1V36H2NRJm5sx8VrXQW0nwkT5/95vmh6/CCeixJcIMv/TVlI9ru45wgo/B67avJR73Ismq/gUYrr0C2IvSPm9Vu5KPZCbC45fVoTPcGUlw5DeLs5LXpnDAljz9c7GtUu3Fps3GAXXF527IoH5Rf60/u1lot7yREk4S0hsUBuQ8CLCHj37aMg6FpMKO7ljIW/Dn1jSMJcgSR3+z1vpOlsshTOF93+8CyrFxfs69q6vTwk1Kyno3VTL1KmVwYYhVNwd+KbA3XrESc5qGlpSNqFQdu97ix+w4UC8P2pLWJPjbLdF4oGgJB0aisrUqruW1MDhxdksM48WmiheNnSm2+cu63XanzlycwbehtOlPx+1KI2E1fy/78KnOOxHmcL65xdHA9Kir2brLhRbIcIM5zWQoZ12+uRSLnSY6ZIBsoi0ORCajoVbLspR2Xomq52hfeEQPvgCf/QekJNke+PdZCJ3QLBiKn9YB+NckYcLfZXPvCh7jdUv3rvHBvHBOsDQhM0LWQTNj3ALQTokWcG9tSB0D1qM4E/HzfoIE9tI3dstanfnw4QgN8bxflgpmy+ipp1oLxONfgeZYbT8LbVkVPoYbH3pc5LdMrRTXSpmSu3REXQfvxmkmPw5lGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 618,
+   "completion_tokens": 585,
+   "total_tokens": 1203,
+   "cost": 0.014172,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014172,
+    "upstream_inference_prompt_cost": 0.002472,
+    "upstream_inference_completions_cost": 0.0117
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 286,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

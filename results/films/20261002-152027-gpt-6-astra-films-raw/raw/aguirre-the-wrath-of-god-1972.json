@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954574-6x7bKSdXqesU0dvnSgUa",
+  "object": "chat.completion",
+  "created": 1790954574,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **The Contract (2006)**, based on the predominantly muted green and gray palette.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing visual themes**\n\nI'm considering the visual themes in \"The Contract\" and \"Killing Season.\" For \"The Contract,\" it opens with a stormy sky in gray and blue hues, showcasing a shift from a bright urban office to the woods. On the other hand, \"Killing Season\" starts with a dark, warm cabin, transitions to a green forest, and ends with a bright church scene. The connection to dark green in \"The Contract\" stands out to me. It's interesting how these color choices imply deeper meanings!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual themes**\n\nI'm considering the visual themes in \"The Contract\" and \"Killing Season.\" For \"The Contract,\" it opens with a stormy sky in gray and blue hues, showcasing a shift from a bright urban office to the woods. On the other hand, \"Killing Season\" starts with a dark, warm cabin, transitions to a green forest, and ends with a bright church scene. The connection to dark green in \"The Contract\" stands out to me. It's interesting how these color choices imply deeper meanings!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xckTEQ4GTv73zz1z2H7zLTcR8CfplIWmmFIDk4pVNzT8QTXGco0FgbdliWCuVg91i0Z7Duq2TiSNeRxEK5LWbh9t-PCqn69DZ6iOV3NuCPwwqHeb_0t4ChdadX-HyNa0fha7FErhXiKbJKlLqn6UQM8XsLE6B0P63SsMOD6E7UPtMrsMQ5Gxo52yPM9dwVMTDtYwkdIhXgoCUZOzIeExXG7V8mzfmBXqyWOq35uIavC5ngGkboGdoZJsVZKsqE4rzIvZcXRiW4Rk31OdcSZRtnqJ7jnPNYH3eBDi-MwaUp1RKi6e8LUTXdhSnTl_4vkZF4iLXh7aCNSF1-NvM9SjXLeyd7M9e_3uSv8ec7P22na-YglO3LtDMGtFERrwSu4Q6bg9rn7E7FtdmN-k0kU2bEBTWJ7KmWa-8n9-3sTBtAqGaC3wxEP2Tbn2CieFPDQ554-hpZpc_5EEwXJ0x3rn1gosA3lKEmsXdWuOI0qYyJWPSk9HadXJyyGfW7NOh4DJohaaL_Vm7CZOhpu9ZJOm-R8XQ7IOxo44gRevEYfTWcoOXKx9U3dqFm_F1K0N9q_2KgB5dZFrqFsHXIzFxhutERPtTZdEAda3Amp_axuGcoeXuR0IkU0OTLApUpF7Xmf_-niWmBjXQEWJ0qwp9d20aDHrUq1e3XNinc4sI6fwRZbWD_ey0RO5BtHq2bvORtFJELUzlGmPPIDhxTxax4F4XAjuw9fIyIiVXTWnNj3Rc-yVTmgqKzRy7ZCQ-0MJlZVzXb5zbKG6N2t193CK8TNw31PzXHBcZNamrj1zYNLaQqM_qKXgGB_FI4LcTy9aNOGcd-Ox2Ju9kMWnqHEZuHsM2GT8rNIuJM8cKyto4-AWwvIdCcnjcEi9DgMlAxVOlNOzdrn1ipCJiSqO7O5MeU8qJ1zUzEMYaWgntMiiow1OaFdhrmjqYA4jTV_-Hb9tB3LIS9f_nH5advs6ZUAIg0kD-tU1yMKUy7B5J3oymLENw0vtj1nTpDQbwIz2sTK5MVFdEgosIUimU93nFKkyDlV4d7ISWjRXAd7-X-z6OAMe2qMWFbixR15Ej0rgKo9F1z47-xQWStv3GQa-PcwI_ALfe52YhGka8GFS9TVE2E44GOtqMgUmNHQOvbjzJr-eCjRCIs8t0drxUWIRua1JjIdN5jWSp0Oe0u0ue8iCANdlDRb_2Dz3Q1XXaNuM2DYmH5cV64kXlVVuc-PylmQ8rj8-IYE0ey7uw5LhpRnp4WrZRAtYPsAwNjXy1-vERxyanXLfsu_4A47cEcMmdncdnQWPza1phM1I1W96cgnid6OrGTkYm8_6PebrVdZBLtPkXmJ1Oq0NJbJ_0h0X_vtg9PpT7NYTXJ_QNfCkRuQPHDDhTDEmF7sfwEGr_sNkQOYweyCzmcrF_x40qswkFGlzjsdUcwxxCcDEbN_i3IbH4uQAB6X_uNAqx3C35RjJ1gOzm9XDL2qb66oed7pi18AqMvrr6mbnm2wij33v7BDhM9rqCQVKYpBk6qUlP4DQhXJ8pSxIGoUPf4jzaFVj79cgzGSJe4mKvriQGTBh8v5K5PoMZG61_G2fhAL4_o8k4JIcwgz21TKHnNiXqrrW8S4KIS1X3VDi1Sdx5SXbjUlLAwxifktWU-_9-dMLd2CvCCuLi3RP9t-MP040VDpkyD4SVtn_3TVSnBbh_Vp6--oTdJjC98Gf1t7RoTPe5Y5lohc9HNFf_bMhHfwro3YL_PXphomewEXftZVuDj77wi2UPDTgDblXdUaFUe3Ol5jE7SthY8XxZpkWMClLwEhp-YrjoEC-QE1GUwrFOjddcn0hydal2r4xzOGoxvDGXZe3HPtbmi6JJpG_lqHyWumNy30bVB58OfBiTm5KRmPfRWmn8jAUo-FtFB-apl5hbxXqEG3CKxbGUPGUoC1HVCjT9qND7kpIFBt2E1hR4VaGgQC0LF6GI8qEyz1n8EEs8nn6WALro4c_qBPjbLsSO97FBk74hnjLTrWd0kMGpchUC-VaC78nhQJ25eGQZhUPR2E362Cy6k69KMsM4C-ZRmvLOLfFfaXLArPqSwinwDFhVx1XtArLknQthvN9dgHRUeq_DudRB5J5JY5CSNLtPEy3ULTUpfxErecyIp-J5KODNVDBofr132oQUsH1qJfa0nuqvFhhhAsC_knDVV1l-49bVokV0jlgKJfpkNxff3ajnwNHPbZd69BK9UxMFHs2uCAE6FQAtiCqRGpJLPMuZReO97wcr06rZ5uZMMu0vig6COrW3Y572RmrkPzGG-NifzDySRRT8zF9ZybeLIOTOYPWsfz1H-kAilUk7MTvcAFSYUhGHZGDw3VrbB6hFHbaMwXvBoKKbZnmIrmYD2q_AQ9kdI7GsquXP3ZGLAtrgCUMnTzE-k_agaCiP9gZ1yW4EYCoueZMgQN6_lUTqP4MPDS2m0QZkxo6f4Le536vTMeczY1VVgQu_JUJxJa-2UhNb5f-NRK5bEnDVzgoQAIbnIS9oqUfs_Q0oFX4nlGDNXeP-hQSJKKdnNpqM9UcCdbXj0wbXG-Mc1Rm7be3asFfk3kloQ1wzLHbvizU_e2H7qQj33ViIPJXxJaef3r6UTT_y21W-Q1lpZ9Nke6gScUxSXoKKgxomkkT3lNkEpEiPaausPlNjkLovTE7zB63qrD_4TnFYXfmau8XKZK9L7_EOAL2a_nsCcvOf28F8hpUKJ2ua2ikqmmLefjKSLV_BudVU-vWzZ_qoH4V1O_qHGNlgtF5cH8CNCbErioB5LDsa6LaFi70Pd2--tBDdj_SZLPzZ8ntHHEfe1UYR1O6Baqx98irnZzHaQGND8Y5H_7Irw8_BnSOyosqYQE2XbaB24kdDhPSpsOv-PbQgDpil9IYnVRSkRtCyuJJBhqCyusduh6zXuhYG3aveJE_e3VjlGAhbaW0LzQcJbyW3_pxxv3WmB3uUtTXVDQCSL1gz5LkuQjedJm8QIU9Bj4yA=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0af4cd73dd1b7280016abfcc4fcbc487d197613983a63577c4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 267,
+   "total_tokens": 698,
+   "cost": 0.01766,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01766,
+    "upstream_inference_prompt_cost": 0.00431,
+    "upstream_inference_completions_cost": 0.01335
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 236,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

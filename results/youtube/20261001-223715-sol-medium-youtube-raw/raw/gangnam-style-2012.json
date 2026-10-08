@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894263-3OTKyylH8MWEvCEEc0DF",
+  "object": "chat.completion",
+  "created": 1790894263,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Major Lazer & DJ Snake ft. M\u00d8 \u2013 Lean On (2015).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC9yNU9z8R2zrcZUTMt6hcQWN3se76J_s6ytqHWBCaUsqBRkdEufZWuoqN7vpf7znhKO79dbwR2Q-_Jv7ov4_vlO36lVtlTm0Im7q-bDgHdqyQVzIVxIP2g0qScmGTR2tNLP5fIIrBr83sTAUsBIkTus1sMVWrmb1ZoE3hauKcEtsBWoZQ-jVJ4hTzz08eTODKX-2K4UbFptNa9XQARO0cbSWxe6xTGwvgjr2z2wSBKCozZgLDFOxEdiDgS5zWiIsxmqK5BjPKCKbrDFfaw-0ZTIyZc9Jskg2DIkLe_MI2FNL0AtpXuDkIO4T99H9FLzfz3IytdtXEyA03gZjVYfMD2fvWMWTzLBIEdoZbOZ6wdkZLAcLnyD_Mj-BMSsvLIciMD3AEK-cQk4mOlBbyKVS3dpAUbfcGv89gyLnpM3lQ3-aSowQq12SGvDUA_9Mkh3kYx96N9GjrF82XFnFpz_j4A5fTlRI3r8jBReK6WOZOa0M-N7A620qZkILG2oJma8fErdwBpf4_s_7mnp6tASP18pevjL7W48pSVPwlrvXgMshlKKuLvnckuw32Lw85ZGfwUva6736r40T3-SKr9mmjsgs2R3eSO-qmd45U3yepksJ3E9ZYJVsn9Oi6J34riLYuA0CZ6cclPtuNqWOOJamP9jLqLv08ZhCXtp-9pqdC4wxT7058Zo4RqZwN1M4L5gqOiMEr1-t7aVbjItoG0RGulwekN09QlxcMnBGXWV4nZ5d9hYoduhJPfv0DOWb-qDqHNxXe0thuzXWmxEu5O-8dvV9RUBYRp5bVltsr7rEd3OTlgV4fk8-FujpmkbE9n0SHZ7TZG6AQKGnmbLIGBqF3HzBD12YWjCHHgZ2uXLyZfpVO4iv1t3elXhg73cd0RP8B8X6BCHfrCNz9-pTuxEkYEKBWwXN9uiL_0ohmWBWYyvKh8Lmi11Tbt2L28AjPbx1K_De2I7O5gLwh7KsnTtmcHgGcoszVy-H04wkp-Q3LVaJJianTVSwa5vBqiYr_befntquOJnSN2DlVBm8ixFshf8g1gtpRyS2d0aB_xAbSL75ANIl3W7cdQ8ZDnvFM7vnRW54BS10xQIlkCZY_1KihKybzPGBB0HwgWobqllP2FQLqgSTuiB_j-8zU0nI64SN8Gs1tt9U4IqOL6UfqqZ07ixy1AQmsTjIJU-32mpysZWfH0jrjSL2ND0xTiH-FExdmj4e-LahnQHv3Vr_4vraAwqJVWa_y4n4QQttBxS7EYCwmY0NPoixLnz_MB5sBV_VjF7-BVmiUwNMWWUEtMwhiKIoLW91uZ1nGNnuWCGPNAbAsiGXky6BUy11sOp_c5TnnnTj6BScznoJeVKP8Cql8WHA-kivtr1NkR1h9gGpBWn14mkYQQg9dR7E6Fb79WU33O0P3PQd1MCjUik8To4ybESXHAoyfTfC_rPLHfKkK3sJwU_0gGTJihkepjymwktP228KE-G0kz7ivGrCMdqrSFhx8tdtmrLEr4_oW2ZKYrebnRfJqzCK6jm70iw-ahInYhp3_IB2oSnRv0XQdWGmsqm5nx1FFmaJ4ygm7bZ1v82AILqgqf0X_CLiah-rWX_dwJIL6K4R8o5bMktufVDV0Sn0dajqmC8xDkIfRZVQpqpaaOzlnDbFKg4uVawkmlwHt3cTYJ38LhWoeIOjpiOq1L50HxOD-YwAX6DMbR_IMzQtpEi5BFQ-qjTx1QNngYSuhvKQUrnfBPmIpPDAonvJHMvH-Qllr1IN3nTfrLbvmLUriV9rxjw4Uy-PwzqWxlr-mPHwawaohyzfNeS90SyTcf7xZLbA2FdDRc4W0X4ip-Fzn2doApfjP3pVAOwqyVPJywk3An_Yrd8Ili4tzs2m11RJfVrmVtw_RrGAIBDo6RhSlKMnW2vzL6s2PJd8Uo9q7tG_FWGUPe2AaJdmYM89NM9E9rPKLonDDaRf9z69RV3BHL8eov4CDDRQRZFKBBmwmNklfDb645ofo9uO1wEtZuLptNKG3mwqReoePH2vkvUkqS5UeuHm9CGe09r_jXDfxQ.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0301470795e5f1ba016abee0b966f487d194e522f4dbbf5368",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 485,
+   "completion_tokens": 136,
+   "total_tokens": 621,
+   "cost": 0.00233,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00233,
+    "upstream_inference_prompt_cost": 0.00097,
+    "upstream_inference_completions_cost": 0.00136
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 106,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

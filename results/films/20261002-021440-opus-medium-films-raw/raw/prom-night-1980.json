@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907306-SmGieF8HlhzSfecDHauK",
+  "object": "chat.completion",
+  "created": 1790907306,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The colors look most like **Stonehearst Asylum (2014)**, but I can't rule out *1408*.\n\n- **Opening:** The early stripes are muted browns, grays and slate-blues. That suits a Victorian setting with gray interiors and wintry exteriors. *1408* opens with bright, sunny California scenes, which should show up as more vivid stripes.\n- **Middle:** The pale gray band could be snowy outdoor scenes at the asylum.\n- **Later sections:** The warm orange-red stripes look like candle- or firelight. The deep navy and near-black stretches look like night-time scenes, which fits a gothic period thriller.\n\n*1408* stays the main alternative because its heat, freezing and fire scenes would also produce orange-red and cold-blue stripes.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm comparing color barcode patterns across candidate films\u2014Stonehearst Asylum's muted grays with candlelight orange, Nosferatu's subdued tones, and 1408's progression from beach daylight to brown hotel interiors into fiery red and then icy blue, checking which matches the gray light section in the middle of the target barcode.\n\nLeaning toward Stonehearst Asylum now, since its opening lecture hall grays and snowy carriage exteriors align with the brownish-gray beginning of the barcode, and the later orange-red to dark blue transition fits candlelit scenes giving way to night.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color barcode patterns across candidate films\u2014Stonehearst Asylum's muted grays with candlelight orange, Nosferatu's subdued tones, and 1408's progression from beach daylight to brown hotel interiors into fiery red and then icy blue, checking which matches the gray light section in the middle of the target barcode.\n\nLeaning toward Stonehearst Asylum now, since its opening lecture hall grays and snowy carriage exteriors align with the brownish-gray beginning of the barcode, and the later orange-red to dark blue transition fits candlelit scenes giving way to night.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 539,
+   "completion_tokens": 734,
+   "total_tokens": 1273,
+   "cost": 0.016836,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.016836,
+    "upstream_inference_prompt_cost": 0.002156,
+    "upstream_inference_completions_cost": 0.01468
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 462,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

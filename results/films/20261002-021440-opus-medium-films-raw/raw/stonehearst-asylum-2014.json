@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907356-dyLSuBLzlex75rdz8eq1",
+  "object": "chat.completion",
+  "created": 1790907356,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern. The barcode is mostly dark browns and near-blacks, broken up by cool gray and blue-teal stripes. That fits **Black Christmas (1974)**: its dim, warm-lit sorority-house interiors would give the brown and black bands, and its snowy, wintry exteriors would give the cooler gray and blue stripes. The overall dark, grainy 1970s look also fits better than the more saturated palettes of newer films like *Villains* or *Wish Upon*.\n\n*Stonehearst Asylum* is the main alternative, since its palette is also dark and brown-gray.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm trying to match the color palette to specific films\u2014Apollo 18's grayish found footage look, Black Christmas 1974's dark brown interiors with snowy blue-gray exteriors, Day of the Dead's underground teal, and Stonehearst Asylum's brown-gray tones with a possible fiery orange stripe near the end.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the color palette to specific films\u2014Apollo 18's grayish found footage look, Black Christmas 1974's dark brown interiors with snowy blue-gray exteriors, Day of the Dead's underground teal, and Stonehearst Asylum's brown-gray tones with a possible fiery orange stripe near the end.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2wgKEAgSGAI4AUIIdGhpbmtpbmcSDNekGuL9EUdZfVh9hBoMiRV4XGDNDdhS4LLVIjBtzkbzLoCoyLqo+xDCs46vnrbJ+LzbnT0hD6RyDP9fTcqtJs8Xdhul+DeifvHmo1gq+AdrwLCM5ucFb2x0Vg768TWLE/oEF7/s4fnn91dRkBQD6k+V4yHOE9o++iOMLe6PlajjrSfmyRXt84yrC9eTNZyyEuRgCYbWc15XnMPyn6HdYtTDJubMVWG2xr/WMjC31LOeit344MPZClz3nAzFtPyiK5taKv/D0NgOYtNnSmKaSdE0vKm4U//DyHwHQ/wpL0Mr/0f4Ul7EeTy8KM3ndaHKnmkuIWWTaHk9gIvtNQSCHKQv8v6y8+Xi6iRmH3b43fmX+FEZKIV2uiqWv2l6krd4j88jc6xVjYSs3Ue8166UfR/oE4Tfm4nP8rcJKUz25ZyXvddYWdX3QqHYY3vYLaXNH/hl2KdpZT6f2ILcpdB2vDjnBfNrOv+vmec0MNnPHwnPNOE1WyZ/flY59vMNvU4QqlZRwKMBZVpuoDf3sDZ4KRQlj6E0haECse4ZvGTet7X0Cv/2G1bYdrBrr7rhNsdzAKdZy/tVsIT/ZhNb9NQpBeSxvBzcROeVdN0Wlj6r7LVPJ9EgqtXECjY/91xfGwITwLudLXSoAihtFiuDW86X8KtpkMQuAuXoV5H59NdqefTY4aacBgs/0qBfCFDzXjwtNOanW4Sil1jRUz9JD7YBtWSHkM/mOwv3/XDbvz3ATRP4UtXKjQgpROPLwirZq2FVQoxM2CUXPGsG+kx3IbC7VrLPUTx9vFVqZFczqUM4PARMIDZjJi3yVWfaPN4p+p/ECstnx+hBAPuK+7/ga2FG2Q4T9X+dnw6mp9NsWhsh0n8gXTdaZt9EGL0gG85b2inHYcl1mk96T4ECwGZ5yqe1SChgDPc/PAdKTfwsFKgKQd3K/cAIL5lea2s2WjFuwdMKJuhRo2uXIOQxHppyZCEPqQJcdVVrryqkTO8FHSbyiNzKD1tETgGw6sbLm/BS4SayMfGFaWEqRXSjOwGhDa5UrOkfQaLVAOctnFdU/pIDNdIK0WWMcQlOVNOBTQLdszCx5F3VSsrby4Tzg83aOVSYJYCUR0aNJPqXPVDxwYJj4xaqmmbrRd/ENBPd+AzwXdI4tWQvhJrOx+CHwqRM6WAF+QMdqAVQrX3X2CIlC/Gyw1eRaEjaWZ7RGAqXx+Pp1jJMZLWIfTRgUXiTj1TGjAgAx5ZXvIFrrnVENFDCuqNtdq+1frvzhWSMDWEmHOSquqjXUV0RnlahyNbpwvazMl6l1JT6w8hI2tOiqD+0qHAjn9rxPE23qhvPfRQJ4guQIm5YAlxTGmST3jtF13X6VJuqpCYkPAq/kn/2hWVULLSuK/LpZTBidokSe+rVX7mc3F9JZd+wmnSPxrPH6k2fmVAE/3AOx7yUIPTXUbm9qveuTWWuTpjH9cArSxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 523,
+   "completion_tokens": 418,
+   "total_tokens": 941,
+   "cost": 0.010452,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010452,
+    "upstream_inference_prompt_cost": 0.002092,
+    "upstream_inference_completions_cost": 0.00836
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 207,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

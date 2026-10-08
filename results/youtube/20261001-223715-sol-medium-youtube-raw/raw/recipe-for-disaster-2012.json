@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894265-bkKWFmyfXtjijZYOWDGY",
+  "object": "chat.completion",
+  "created": 1790894265,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **A. Masha and the Bear - Recipe for Disaster (2012)**.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Assessing visuals and colors**\n\nI need to assess the color schemes in the visuals. For Masha's recipe, I noticed brown and green tones in the forest house and porridge. It could take about 6 minutes with stripes being a focus. The other kids have a bright, saturated look. The believer's visuals are predominantly brown with some muted greens and a few blue sequences. There's a conventional ending for Masha with a white backdrop and pink text, which pops against the earthy colors.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing visuals and colors**\n\nI need to assess the color schemes in the visuals. For Masha's recipe, I noticed brown and green tones in the forest house and porridge. It could take about 6 minutes with stripes being a focus. The other kids have a bright, saturated look. The believer's visuals are predominantly brown with some muted greens and a few blue sequences. There's a conventional ending for Masha with a white backdrop and pink text, which pops against the earthy colors.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDDOzEMe2trLS3ma0rFVX-jg3-P803qpf-pYoqhZ-9rLoSBLgXmr0DTMvK79MBrQ3YQrRmQiexg93EOJKVfZLSfwrvxA8rpc9gE70X2YwR4srDttA_euYIkF3CwkoMsnziL1ZBX42Q2YbiunKWCARMPdMHwCn0wl49xDaRTnU02RvP8N71_06a4bbxZQVCX6tMsGGrFWyOUblD6eq3lCG1E_eoKwmBp3uHwTb4qC_C2WGAXFK2VUqCRM3XKX6he3554FnwaQFqnlvhmjvRKypHI3NU4-wimNSrDV0i4xyr5bT_5K1-H7kifDjESRlaLQ725LiqEqvig3nTAH_EmD6SH6ZUmRQ5tqau08TBPnT4e-1OLDmmOexu18SmXukGnXEue91loQl43LjmkKQQXA881f-LcChp2iGbVmC8XKYzfF5E3KiDH6Z0jp5IsEFP8woK4J66ghMGKS9_a-1XBamH_w49dtHCDT6WSxeeAkg0N_QQE9WP0n3nRx_4Bhr7NzlxXCGURnv2DHdg7J2X-3O3AHT7iCVE2aApNm9K7gcLGiq1mkJ-SJy1E8qgulmbVejBKLc9h31uKRhS17TM1HQu0oOv2I3ZseercggvMpNbaL6ObruipEuNCgU3FbAWZkd8e1gHnKNccDkNKpmFmYlGDOHCtKx5BWEG9YQ1RMZ3LD19yOkvjv6_KDBMNgRPt1w34yXmqUTyAdbLh-8mGRGVB1S_IHvHXZF52c9TgSEa7JAXkfES2kGtJ6NgDoLoh9MXnAQvhk_LjnWsuEGjzIO-XGWtxVXGasbZtUYlbAkFDEG4aNkmbvG_fQy8DEyDkdb39wc0Fc6arnOTnHz6aTYNumha5IH3_fMv7BKqSWZJyL4IinKWyqz4YlECWozCzRpTO8Sk-z9ycjl3dpLV7uYBdUqml4gJ9FLCyOibXdLPrguubQHLZ4L2fnQBxj7ZKxHc0PSzZ9tfAzdN2DEEkrHkwCsuRFrAn65MuL_y_cetzArutF6ebYzualEgHSvavA_yv-D2pshDS4aWHOX2-t5u3XA3J6yskh_cKOKlAIP9mGkP2msLYDjJGJUp7N60ZgYX1ZWPM7wWXuxwCRNaW4ttxl2-hMIRVDSstGsiFSzXPXrp5Fxi5cTiNJw0ytGsBUsSzL30DDVAMin8InURswSrlSL4PQiM5G_NGqL7X8kiMKlaz1xACrl6rMtg9B1GaPyfbEAz4JI-lPbA3Ub9CUXwbzY1PF9SKviH4f4BpkpFqQa38hq6ZQd1oihDEo55fLi-YZl1nC-QgromHCBOE04R4fRLYA_3lyL-h1xC6c0YqOlTroMpgMsuzzsQ0oEzCF-LSS3-NMNbG3AJi0LcQ3dWjYdW6ke-asnaOXaxbs8Zxp2qPqED6mMOSYI9JCLzE12mK0zLCFXV6e6Mm4F1PWbOkO_Y2WFSuoA56_cblrUnupz8EK8J5-7lJk0AmGKhEPP5JwugHT0K25YaSDu9p508w4IbRIB_ncI5CTHaIvLWeBUzPasjz9poxgAA8ulfmFw8fa49j0g6JYDp-4aaMknT9VuMBjTK0ZixWGVqSqg7Wvf6h29pmib6lSsZUND7CI0t-DOvMhkU-zPZ-n6y1Et0f-7QM0uu7yJLCgXy9kvRqKKZaDcEpFStMfo2zU28TXoCJmgfY8weib3tl70_t2zOYVFmA9tZuQea8X3-DrMtQMi1DamWEsyfv-JD1NvvQYiLCdQk04RlcR76ozd7MI94brmVMHGImTfEY6TTrqHqi2C_-zgh8HeUVnYEYB608YPRwScPX85MiaRA1zyVIy72RWg_udYIDYWAXBE8louxHEjb7SfnWofGD156KNVJalzLlBqvpwz037jtMn8fej7eQ1YjN99c1AZIGwgIN_CRKYVgTCyihIM3wAjt1HgcWig2fo3GnWTbIhpbf514KTPi0H9nkfTngWha1DeWDRVhHYX2TzhjNLg5SUCwEt6yKalL8Sk1kFUKpkMCnA87shu9GvAnwryZpSqlOcyNAScp59JObUYMgOne6gpUkpF4bhWGza-BsI4o19nVFHN_PoS7NlzQTSa2mniT-0KLkC1HZTHNJrgLc03u8OXf9aA53BHy3MaNjhHsJkqGatzm3FYSmBSx8sy8f9QSSYYkLmF6TcKX-f6RSfzkErbDdvvZQ35fXmknECZJnM_17cK4eoPnI-W1baqUmQfJEwklH40Cbul2nN-yxJ1ePTqlVMIBEk_38DfIcFUsAxjgil9uUmXLNeIhBzzBqGXDK2ZzzFIHcaLfDZy6Q0GqrYd9ngKYaWrQwsrpo409RBRtv8aKpDFgmKhCblGODjC-caw6yDkLrceH4pghFCUWytKx3N9yTb2k_.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03ffe1edd62d8929016abee0bb007487d1be0ac45809142824",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 503,
+   "completion_tokens": 204,
+   "total_tokens": 707,
+   "cost": 0.003046,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003046,
+    "upstream_inference_prompt_cost": 0.001006,
+    "upstream_inference_completions_cost": 0.00204
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 174,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

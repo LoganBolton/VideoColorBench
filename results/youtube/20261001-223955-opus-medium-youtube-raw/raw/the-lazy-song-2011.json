@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894416-VDLjIyfqixDF0zHIzwic",
+  "object": "chat.completion",
+  "created": 1790894416,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is D, based on the colour palette. This is an inference, not a confident identification.\n\nThe stripes stay muted brown and beige from start to finish, with little variation. That fits a video with a single, consistent setting. \"The Lazy Song\" is essentially one continuous take in a bedroom with neutral, warm-toned walls.\n\nThe other likely candidates fit less well:\n- **\"Uptown Funk\"** has warm tones but also bright pink and gold segments, which would show up as more vivid stripes.\n- **\"Starboy\"** is mostly dark red and black rather than brown.\n- **\"Just the Way You Are\"** and **\"Roar\"** are more colourful overall.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the color palette of various Bruno Mars videos - Lazy Song's beige/white monkey-mask bedroom scene, Just the Way You Are's colorful cassette imagery, and Uptown Funk's warm brown/orange street tones - to see if there's a consistent muted brown thread among them.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the color palette of various Bruno Mars videos - Lazy Song's beige/white monkey-mask bedroom scene, Just the Way You Are's colorful cassette imagery, and Uptown Funk's warm brown/orange street tones - to see if there's a consistent muted brown thread among them.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS8QoKEAgSGAI4AUIIdGhpbmtpbmcSDA10J9a4C8hx6x+0TxoMOMzPBGbc9fHEN5TrIjCn4TjqjbRGt+U2oBdulZKJPLWlpO2EpXmpjK//fo/DOY7oLQvS+UOdqXqTXDkSg2Qqjgr1wz2eOMrFPQ5iUe7ZBnvDs7wO+gJlqNGFRsyuPitneL89Tg9NI0QOi/4H43rWU/ozYqoZd6w9EX3Yr30Mn80YJdCxLZFh+gaMnsbWJasm0uLZcvAguPYHrhuFDk/KPIYIiW4N9kPzCHMnY911e6ADXx391MfBnOtPBZizLa37MGpUaYq2uSi7ZRTIfmiEZo/l2ChnxPnEk1grJkXNN2g8ECUuNukEos4F0GKSVLRJQMBllB0IKawL5GWPkugkhfdlxDZM+OiGkxKVXsttFFhWnYuqboGlnXSApBBCFvgHENmsdDR2a9Z7vGL/u0yxLptOCPagWa6gVFk8xQ16vZf2euwCdj9VOTVhz+KPy66NyNtoIYP5eKnWEKpwF71wDI8FaeySfsthq5TImuBBSMVSDIvX5Qj0nZrtsplruiYPI759bF/JOcpr3jl4YQsVVqHj0AngYTLcHiyyb6FRXZ5TSgbgdaQFx17Gapu6cBw1xDsTVkT4gf79Ku4hTRgcgF7XgLJ8CTIkGaGyGDfPvq3ibNnmDeCPNU3f83j3uSpqHrDpO6V7yo/2H96hxQmz5u8xPcBQv0MoTN1NyGkyXcX2twMNQogxVk2RUfGsh1hxf6WcPNZQ9HuRloOsmoeqxNTZcxCHmQvkCARDAfeJ9KS4mkGDSzaYWzn84VmSm9/I1oBapLWgl1a8WGcs4ES+d9hnPX37NMKEy6qcUBLdu0inDwUDCdhVknbieH/WmPI8OJMKewFRsTSDLsDHlBOpfnYoHTL9QP+WaGmjJSibi8Woea38l+82Mq/t2r800Q9ugZwyOR2gRbGTX7zdvuUwaAKANF/UrEjHAzru4ZbrXq0NhnKfVnXRuuvTHdrJiy6K15O7+RGFDExZdG/S3yuW97NvlhBvhX6/SXrAkQZfMP2oz9KCWklLpGAcJ/NhGEvqeSyb9UPPSQld2sAS8NTuOEV7nfTpt55p+L/RclDckHT0ReUycx+Itu22xIMql6RU1EeXoancH+iSBSloyk0BSbkgKdOJJo13SrXozFM1NOwsiA8PGYFKAJ8p/hKtbNBvfS0dzXMJ+nUVJb7usdv5GiekKDkLuuWsUNoowNYwEjM8nCiNjwAvpG0WfcKxjdSizj3jpE/FzLsAKj4fV/q/GYskYpqQJzFPILNqVk/LoeRL75T35Ri/Hk57BfqPBjGPSdTSJO24tNHMe9NC5hP/3Xhxoq9uL/eYIUawnzr1f1Yazqi5TRTGwAUUhbAH5xPwdSHSyiqx/Mws/jL9rQJsD5dqsfZ5LVZs4phwyumj7PwC1W7L4PafNKuFWNaUV03mabZxT31oP+GIVY/nwF6zdLc7QTabL5APmivf51ziXAZMF0Ra2i5CHxiSTS+AHRn/JTqvo74GwVN4JozF2iTCVlNlFu9pXXQdmgvt7MBpMo7K2pogWIX9nI0bW4MCx/dbg50ITfxph9F174jwmOY8gPEPh7ZJpqIGFgGqp4PIL5j8wViyG5E3k+8y9uGJEZEDrx7LZtsi0UY9w2jmIml8Z4c1eblOJDgdqwmzBv44BNB+yc+7wtzaoASDwNMUYGNnPrQ7FYyJVN3A41mKs8jsKefd2u6Mid4Z+imTdX/UBo20nB2RIX6qS5heuteyuj5NiQ5HWYw65ZUfSishYRmLviw6G712oCAKskopDG3Y6K94UdF4ZtjDspjxQpVZLc1EQ5f5GJftgAFUE+uCctlyGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 617,
+   "completion_tokens": 538,
+   "total_tokens": 1155,
+   "cost": 0.013228,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013228,
+    "upstream_inference_prompt_cost": 0.002468,
+    "upstream_inference_completions_cost": 0.01076
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 314,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

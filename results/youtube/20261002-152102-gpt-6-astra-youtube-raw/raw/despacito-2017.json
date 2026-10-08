@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955253-gq38WZSYXyOoFTPUId35",
+  "object": "chat.completion",
+  "created": 1790955253,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing music video aesthetics**\n\nI\u2019m thinking about the use of colors in music videos. For example, I see muted greys and cyan in the first half of one video, with darker tones like brown and gold towards the end. I wonder about specific videos, like \"Sin Pijama\" that starts with bright blues and greys but shifts to gold in darker scenes. I remember \"Chantaje\" features interesting colors too, with grays in the beginning and transitioning to gold then later. It\u2019s intriguing how these choices impact the overall feel.**Comparing video color palettes**\n\nI\u2019m analyzing the color schemes in music videos. For instance, in \"Despacito,\" early scenes have a pastel blue vibe outdoors in La Perla, transitioning into a warm golden club scene around 2:15. The color shift at 55% is noticeable with the tone changing to amber. In contrast, \"Chantaje\" features a lot of dark grayscale with neon pops of purple and magenta, which makes it feel quite different. The brightness in \"Despacito\" dominates the first half, while dark tones take over later.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing music video aesthetics**\n\nI\u2019m thinking about the use of colors in music videos. For example, I see muted greys and cyan in the first half of one video, with darker tones like brown and gold towards the end. I wonder about specific videos, like \"Sin Pijama\" that starts with bright blues and greys but shifts to gold in darker scenes. I remember \"Chantaje\" features interesting colors too, with grays in the beginning and transitioning to gold then later. It\u2019s intriguing how these choices impact the overall feel.**Comparing video color palettes**\n\nI\u2019m analyzing the color schemes in music videos. For instance, in \"Despacito,\" early scenes have a pastel blue vibe outdoors in La Perla, transitioning into a warm golden club scene around 2:15. The color shift at 55% is noticeable with the tone changing to amber. In contrast, \"Chantaje\" features a lot of dark grayscale with neon pops of purple and magenta, which makes it feel quite different. The brightness in \"Despacito\" dominates the first half, while dark tones take over later.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88BAF_QunEYSEzhmu7AW5SsYIYzDmA4HekPh8ejS3ZaO1t80L0KCOGszjAMY4hNhoRSPVCy6x-ssWo6O7n_hicwVwxGzaw42GN3MIT1k11ol5poJ-JSTDMYXQfwwy_nADrpi7VapH7P2h-tfYL8Rw_H6WF25yv6c4uG6PRSRLkOJJnqdGeyN7lEiel-8QMyco0YqNcqf0Ko6raSxevTs4iUENfzL8UyylUIuXvu_Z6_w7PK5CjhBuPnWapOCAWnpUv9dipb5JugzCuM5x_iFRxNmlFeHVjFT8m5jVL8HK2lewEmytaw4bCZU4f5M3q7AtqlPggDxLjQyDqyLSqOqV3SFX32hAwM-iEd39Y8G3S_PD680SVP-TsbVAmT7q4qkUvtjqB8wB3XNLxUFK82X0i3_LB3STGBPWleyDmhfAr3BPOQU4CTrnOkCSuL3cQJgBY2aNNWyemJ1jvOMXFskS5PxE_6zXtf7WAK-t5f8gwdhNoZPoDVdIYPJDi0fBotMrcW5yBt33oxhFb5JAdGmUAD3GaoV0nV1-InZKmZlKxDhaKq7-8cQlmCBqaUAZmTWW1yFhhxsG2jnDpfCG-vetjFiei6YHalKwCQD-qSjkOWZLNawcTzFGCF2jtDu3eVE_vC1P-wVW24wTMeYR7r8Y2c1ykCWv2PmRaSQFReCF5Mo79ohcdsmOXnLVqrdgt9MytB21euHdkhlpJCr5Lu-NJXhvotw_EweKq43-PRsO6gyItaJpteg9C9Ct6excguIbA5BdwTb118o2PSegHrFHqbOYG0SHKhTZcvkLTFqtH3k0z-qt77n8DNP6xWz0OvNqBBIDZWV4T4ctSblcK-813xylxjTGmIlwoSliZzjg1f8DbV6kKnO-I2mcmUtwqdb-wm9Of7vfP2UOKuR6PpQCFXOrAMbDqKUrFXLE6lFJHtiaDHHtNJ7xpQormDqTMwOBfVWEi_LS3rR1qrymCavrDlmUaO7yeNz4ovIBiTgSggFBldtBTPT51f_EXSceQfwKsKkoYkgVOdvBWKMdaJcQuG4aGQgk2J0pwUMXKLKMk8gZU_qwSYdXt2gQfUiVoGQptomuRkHxQjU8oJNvimsLJkoIAWxebiV53awJl3yZnkNFyA03Cm3ilbWQj4KwJRC2MDTYqOZy3TTeSeMIfhdptK3dvxt9ORLctxOPCC8DFBjj9yfJs9OT5_dmmUHapbQrbeMr5IRCtgIZktvHBWIY9oD37keyT1sELNteWHEQ18DDetULoaLKU7S1XRZ6mbhB1izMn2jreGEfI5Q7YQOYTh__20hobilpSfAhqE5gOnkkX1LWQfHlCiCFYs2fN8p5Upx2T7ssmAvRzJce5HBlbZ2wyFVlANCLQwEq2ugIgAZBDeRAMTxSk7-AVokOfcnImn5U8jdIXdKQ42VHgcBP11XZdXu9Mkc9at831qYKqKI-0cVqUESzxjWCrccdQnME2z2LcoWHVy-oNOevygcgU3C7ZUMMJcWP5SnZUT21pVg8wG_dOyU8SOME1h696S7dT1MPxCAy81g6nvIQCwCGYQcLUUMinGHJYg6-8Wazmokyv7zYhYP3eZJ0F4F0SZHw4xebmePelxb77geqtboLEje99Dl4Nt_jnnLP4b44LPPRSMZBZ8OaxJ_QjhApsP62Ms_nRbPRGfKLNuB4L5oESHRlLX9GnfO71LreF4T_xAhZq4ig2yg9j9JbOIYags90ubKpPcd54M3Vc4yLcRRf4DeQMGJaVvkS0Y3Cz1U2I72ALt1eD_pEnmCSr2VTCGHKURvsnDPX3ryvxqQy2KNAvNgDZaZtXRFjS_3WW3WO9s_h0NrSAndcygHf58UcEodkMuhbquHprP-VzhxlJGoDW-Olc_6lfpKALbt4iFzu0POebz0sN9cDwnTk3osEg7gLQnYc2L4EDtmmnfR7caydTjgJFuAqzTJz9FFwYc2vFh5U4dTUCaWya2MpCeQO6APEjeh-rIjRNgn4fB1_hg7EM0olqwEG1CALoU1uMl0LURoLlju-nLGfU2UHu-G-8Dify_Hl_7C70JQVv_Tl3jKSccwL2kDE9VSqvbRX5CVTkDxBFFi7clxtOxO2s14_aVoy04W5UdYzCaBuMdeRELXJvj2x0eIDxU7JpPvr9qOPv130R-Qz4CMusSyghqtk5yQio0qm0a7S0ZtMioV72X7VKxNrcyxqMFwIpZsuh7ikCLx68uDy6bVEPKsg7LpVGWt3zHzQ7Ylh3hGnvYHneSmNv9sv2-Q_uhVkqBPsmgdwbvdmYR4XFa3ZNu-vLFPwg3ka0AWnLlBPV8BfVZB01kIPefVnvbm25pWoXorKbjANW4pTFIPyFcZBw4Cx-egGdSy-_8I93W1urUy99CRi0GdmXG4EUjc_Abh-yHo4mcSUKmXXuc-3PP3jWq6Uc_wmzO87OXEHDi3xAPyMIx5tbWRr6Mm5KnBEhwWVzbxzHsJ390TlbmuHy3JyKe3JqGuGxIBicJks3wPe_0zsqPulBnEmpFdWX31jEn5jLISS4DCKCVF1WIsy1EBqMsg2OAqAZdWzLcXtAHWDHevq4AGO4wvSxE2WE43tOHQ9pWO1dZk9k-P5-J-dIK5-7aV2kkdUw34g3zMqhTBXVWSsO6cHgLhumHiJx1wuEs1dMSe1LxieQRvGExDKeQWYxWe6Gn85lg6FZcW_B7huzPsC10EYFPUUbbjkscC3mE0n7mQfmVfKF4SFveTS55ZWrVbwbRn9fu0PHh-9-1-9hvGyzLz7SFHZW_FyiljBRjNW4Ds_6t7W0C8V8CcOGySWzmb5DUYHMkL-XVb_Jt8JT8rn3lSmABbMFvogDVr5bAcbqfrEBFx3Wqe3l5z__fu3HCBCFvnC09uW7vECFDbSZ5S6xOqN1BGEZmQMJrp9IB4AXlkuL749hvVTzGHrTDLjOGTMqb1n6dL7bTuxy5aXOWEaGK4G7GCSGVUA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02c6d8103b91302b016abfcef785cc87d188a8491b0b2f5f8a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 509,
+   "completion_tokens": 272,
+   "total_tokens": 781,
+   "cost": 0.01869,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01869,
+    "upstream_inference_prompt_cost": 0.00509,
+    "upstream_inference_completions_cost": 0.0136
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 263,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

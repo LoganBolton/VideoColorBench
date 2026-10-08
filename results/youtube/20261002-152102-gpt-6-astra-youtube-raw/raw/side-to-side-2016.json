@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954472-efhobe9pauelV4I4yhGH",
+  "object": "chat.completion",
+  "created": 1790954472,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Evaluating colors and themes**\n\nI need to assess the dark blue throughout, especially the black towards the end at 95%. It seems like Starboy brings in those dark blues and reds, especially at the ending with panther elements. There\u2019s something bright and cube-like bringing in frequent white and green. It sounds like Starboy starts with a blue house and then transitions to a blue car with the reds at the end. The conclusion definitely leans towards C.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating colors and themes**\n\nI need to assess the dark blue throughout, especially the black towards the end at 95%. It seems like Starboy brings in those dark blues and reds, especially at the ending with panther elements. There\u2019s something bright and cube-like bringing in frequent white and green. It sounds like Starboy starts with a blue house and then transitions to a blue car with the reds at the end. The conclusion definitely leans towards C.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vtDzWo__9kQMqfSMv18kY4RJf7Uyomyj3zCFiRIGz39erwfmesB-6MkDd_odbIa3DjoGHJ_u3o_M9KrGk47eaPIc5LeyO0iZd90ShVYLYCubTsio7RsfnEAzen8VgOWtoOuk6webkf197B547nkMtCebAg2zZ4kAxttkQf0HaSPiV96UAcQ1W1Fjfdixu5RRq_BU0Z4rK7tunxXeCXwvhEf_rPI7YxISiQWMbjkOTfnvSSMe3thXksb1VbasVWhewU-YkEYui14_skG8wd4puU7RxKK-0kaJrVKMbuusYyAYhPV0PWOaAMtxVA0RX5b9u94asuQtq6syrZFO_y6Lr-y4UIdT5lv2tJ-Nbo6HhaDHn0oClSnTlVBMBVhwvxkZfc4iFZyobXXyVqSP0Rxk0gAqMOOwDEYGsne0b7hsJYLcQ6DdsqlG_zrRBJoA5DVbIHn34WzukJYX_kbnKs3nAdkukdJ0ZSlUfd1cjdUQReH_YZm9T88Mlv8RLpmAkK3QggPdJMYhFOfJneAPS3In0LJSf7esLZEnx7Z6ZM7kFEJ5ArT_rzTP693NlyatC5Z8d322k6WSodBVHCFaDtpeIQmR4ajgl2fx_5xA2RE80OYrc4j0_fBTp0Vs14QR0f0VhEd9qHPTw9P28sNUlT6Vd4RBGqA1FNvQI_z1ECgkyY4W7XRR43IcUNO6uuFVvtZYJUaJ-bljxEKOvXDELmfNn8owaPtKX0U17hGAJvqgSd4gVZ9fPu4DYJM3GO0BV25whEpw5mg0yRlGCWazse0xQDZ9JOlKXm0ckP7TwBy8dZh9E7VFbs1AjVj4uhcJbNY_QUBZ0LqHXLiw1gS_VJz9YOlI0MhSGIP84NmSQhQPqIn74eB7vAWe4k8w16FOCNhISjYH8h7mKU6HlIC1XzKXvBVr9GjQ0euqS36oYadsj4b_YHHDWn4dlazy-PWWHUlW-CO1Z9bO0CAmx-pSIoDLw9a6KaSPvQPQEBrP9DJtPgYqdWPNVD3D1UVO9HNYNaE77NdwG3oYukjfJ4IH1gsyDxrW0thyfPr4vTeDtRbM79Cb_v_kU7jRXcrVN2NfMKHnU8oozMaaiK3hoQ7wH2vZsags6bin4KZ--0wcKpckN2CuDwfF7sjzf3caIHB_5EszAkLyFE-uc8vF4J4nh5wgiSokn0-04U2gIQ4OfPYV5zBrLf5uPTtaO5bPomirZiMskx-YeydvuVmolB21UHlE32XgftfhoOUs5KstKBhkq54nhIrxrtX_HyNKsDIdS-AY0zodf_FyX6QvgbRJ7RvUStiEZ9JMUZqq2Jgm1oB_my6J80zTRnQU-WP4nU7G4ywdJ1Qwf_VNnn6_ggiUkCce6e7SlsmnnZUsF_bLJW0Z-KPkQpAsexbMWzjtKlta4-r1ZLG1cP8QzHuRKWtClWWFygNZZccPGx94PY-Mt5_qbsbKoSiGx3IB9Uv2rFselDO2JjcNvqJmnY5qaFZ-Jpa09S0Q37E2wP6EMzmFFFhi9-ComSJOmWXVNPrl9yoVz3eQelCxVovLZ7Itv7rCHweTSHytpwLRbJ9VfjtTxYe6DHmrdn7aGTcNaZeSV5DaR1p2iLMrkOqzYWadB57p5fUwQa_A==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08cfad16cbd04ca1016abfcbe9f17887d1a3ebcde84945f9a9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 499,
+   "completion_tokens": 59,
+   "total_tokens": 558,
+   "cost": 0.00794,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00794,
+    "upstream_inference_prompt_cost": 0.00499,
+    "upstream_inference_completions_cost": 0.00295
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 50,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

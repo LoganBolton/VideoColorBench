@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907361-aiCnM6LlkZ92fWw46k8C",
+  "object": "chat.completion",
+  "created": 1790907361,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, since the barcode doesn't give strong, specific clues. The palette is mostly desaturated grays, greens and teals, with a few darker brown stretches. That washed-out, cool look fits *The Haunting in Connecticut*, which is known for a drained, greenish-gray grading. *I, Frankenstein* would likely look darker overall and more blue/orange. Some of the others, such as *Southpaw* or *Brain on Fire*, could plausibly produce a similar muted barcode.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The muted grayish-teal palette with a desaturated greenish tint feels closest to Haunting in Connecticut, so that's my guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted grayish-teal palette with a desaturated greenish tint feels closest to Haunting in Connecticut, so that's my guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3QcKEAgSGAI4AUIIdGhpbmtpbmcSDK2wC9xVzfnUis7nKxoMb62GJnNI8Rs7ROmpIjA40iEwhmYDKMErQPGILZLmR8uU1qRU4i8ocozd/Mb7+GHCDNFQ5SjY+mMVjlpJltYq+gasje3ZoOc+46013saSzMpW4nKzNHWjMSwjacwRq6xPLnzpinErtOd3LddrV2LJejNT6CTlnIoYo1XBMA5gr4Uy5CJ+DkZCIadbzYMW1ISegM5GfK0jVsqYq3YbBc+6GtljUiDKp6Ezcx/MsltaPz8KEpuY9npmD5XXDDUqJ68BD1odfedTBHZd7oHoCx0rzXqamE1ZJ6h2a74v4T8ySdjL2Wj0sifi0y8JxV1ue1EbJeS16Oul45ixtx5bidOHrUb1IYE/qlQ0Yzcy1jx5flPduTB1Zq1xAAqsgaHpm15Xi/UioTFRbnJP1tlcUTxhALIig2cAHpZnkd3huvUqc8REo+n3lb8vExFMcdKT0v8A83xkRQ+NYeUnXp1vVE4yH5j16IA8g0O/Ct0OjYSUe0DIL74ST+6O5cDc3qwUZ5syBpKDZVzaSVwvLyoGxjBduOSLMXMTFH69Bvqscm84iN0INNM2XKxGDeJuG6AOuCB6S99wG8Lv0jnDaxNJKTdVn/LVyLvJFJ1oH3p+grLRjFyiYa/x/i0w0Pq3J5/aacsnoArLejfbj0RXRHq8lo2rbRtnqztptuHVweaEIg1B56z4BZeUfKE8cpE7WGhaokzUjPSpYjAAj2YimeWmVgB9hnMC1xDErtvckEFbZWKuvvi50VC5AgCuixJR60VKWhgyTqPhs7dE+NmHmDVgkPXlJivtDircqSRF4/YUstzZB7Fq7Ws2MIUxnvAiNIiB7Gg6GBAp5xxUmHXx1D1CVZ0/j0P5ItAqI3fOA2BJfpfaQpj9I20yl+Dz4Ma05B8bT2TnPkkbR2ah0pikH6hzog4NBKz+svArHRfAPPhD9g5kWPXGmrIMJiSVS1G7q/nzpug+5wFtUEh3a/RvdxnTu9uf4TLgvVPekNQAxayQiz6BtAZNQAW+u26+aza5dhI+Tb7JjKgwjk2fMKef4RgjDHXY/Bq6xC3atFZ5VCvfoQJGrj0ly8gEcC+5Hb5Tl7wVCalIbJm0BzkfnhabQAxryIvXfLsrcTCdKYY752EyC2M98lb7/pYrB/E5m6/9C8rFxUs5MDpGDF9r1zBiz3BfpnfkDpJQny7DqycrPIx+2JalFYEdYRN9RQTusHo2q/vxC12NNYc3n1IIGFTkx43+3NaxE29jYRhj1y64VDFhJTNYsdtHgDbMFcS8JJcD6RgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 528,
+   "completion_tokens": 336,
+   "total_tokens": 864,
+   "cost": 0.008832,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008832,
+    "upstream_inference_prompt_cost": 0.002112,
+    "upstream_inference_completions_cost": 0.00672
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 162,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "new-rules-2017",
+  "title": "New Rules",
+  "artist": "Dua Lipa",
+  "year": 2017,
+  "label": "Dua Lipa - New Rules (2017)",
+  "hex": "#615B51",
+  "rgb": [
+    97,
+    91,
+    81
+  ],
+  "frames_sampled": 224,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "k2qgadSvNyU",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955291-eputjwDUYYVxkdUa9cKd",
+  "object": "chat.completion",
+  "created": 1790955291,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": "**Analyzing dark color choices**\n\nI'm thinking about choosing a dark striped teal and brown color scheme. The video for \"Let Her Go\" features an extremely dark stage, mostly filled with browns and blues, and I want to capture that vibe. I\u2019m noticing the average medium lighting on the ballroom floor with varied dark tones. The \u201cTreat You Better\u201d video has a dark green tint to the end, while the color analysis reveals transitions from brown to blue, leading to a constant teal in the \"Let Her Go\" stage.**Exploring color schemes in music videos**\n\nI'm analyzing the color choices in various music videos. For \"Let Her Go,\" the stage is gray and blue, with the audience in yellow\u2014interesting contrast! The \"Treat You Better\" video has high contrast with green and brown. I notice \"Shape of You\" features vibrant boxing scenes, while \"Hello\" uses sepia with no blue. Then there's \"Girls Like You\" with gray backgrounds and average lighting. It's fascinating how different color palettes affect the vibe of each video!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing dark color choices**\n\nI'm thinking about choosing a dark striped teal and brown color scheme. The video for \"Let Her Go\" features an extremely dark stage, mostly filled with browns and blues, and I want to capture that vibe. I\u2019m noticing the average medium lighting on the ballroom floor with varied dark tones. The \u201cTreat You Better\u201d video has a dark green tint to the end, while the color analysis reveals transitions from brown to blue, leading to a constant teal in the \"Let Her Go\" stage.**Exploring color schemes in music videos**\n\nI'm analyzing the color choices in various music videos. For \"Let Her Go,\" the stage is gray and blue, with the audience in yellow\u2014interesting contrast! The \"Treat You Better\" video has high contrast with green and brown. I notice \"Shape of You\" features vibrant boxing scenes, while \"Hello\" uses sepia with no blue. Then there's \"Girls Like You\" with gray backgrounds and average lighting. It's fascinating how different color palettes affect the vibe of each video!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88p60ejXHnh3fYfVnd3MtdAHrBL5CRNkIqW4VdR7XiMRjM2CGwViEEn5v0rK0BZR_at-PjLWXAJayCDt3XDlMlWDOaq7ugv75jjKAhfImgQ7rg_G3AGquJK2gJcHNqTqaoAkeBQIJ7Ojygf5_fYdPK_dc8SzoRr4LU5JXkfSevedoRwPTSt4zp9GoIO5M_iYK6gFLsTOejTZMaGtCr4vVzFPrzCO8ZMahSYDzMncwJxDECCh3SEluh_j9VJTuKQSEVoA5MnkSIxRdrnMDhlGXkJc7r9oI_Tdq9nK1ZxvBl5YNBjBvbX6a7mSE4x7ZUGRFot-l5JL3HeHGTd4ippHbAehIFUVXnoC2G73H7RyIK93iYx9oWfurNUSvlq7uWLopo1M1IohkgEo7xSCiAp4Z0xnrlrPUs7mwQIF0a5RJLbyq077ogpxqGIyrr4Xo17IkPNjw0d7JpZgRn5ehlRjXecWbXr0Mgy3KERKlSEQpRqdwQH4SKR-K4eDzdT-22XzRASDCeGguz1sn4UNHRamb-5rRbFO8WfbrC-JtyVaCfbc6qpJNtcezT6lMa9qnlRK4RhB_tj_CsHA5t87PQv70gt2kO5mKX6GApUWZs4BYvlIMzOeM1idG_01ALWCB_3wex6oSKEoEgFBOPMn_xiPdsL9qqSKCYKdzAUVf0ZFIDyUVPYCXw90dF5c6SHgak-JZ0nj7_wt-hlVe1TJo8dx2Tk3N9gCNykgeWNxEW0nq4_x5TfGMpHj-lJ7VXtYy6psfjPJXh3ZWiqDVsd4pJuDCmblY1IsdLFMesuy2fbtgzWFiDNbf2v6fsncCKsYxJwG6Qfo3W4M4lIlfASo7_tIPByInk2E9ld9zaKp-Qwi6dZ5P3KVGC3bzzqpRreojcYWs7zaxhiwR4dKwcN8Vw5N_-jWVXU8MKAzWil0CZ6iymTAoIDC0TYSTk5-gcJvPcUrl-GBK6IZCkbhi7NVRI8FdAvkb9iKuHL1ZEvSIdLyha4PEZM7zs5Q3QvIercGiRk41gBLFoFai5Oxyxe07s27b_rHLHDXjJ3lREHnkywKdrI4zb8FvIVZR1K9S-_-7hiOHuG2hq8yTnStrKLDytTlvDFawj7sK6xpiM6Z-tD2u5drzsZNBUg02MjGgtN_VprSzJEvDNJx460Et5eZlzgKnOho8ObewdSPYuxYFmNjbZaN8HMeHbGAOn_mWuIOy55Uo__TxVMbxlJte4N0gtS6YArJ2n63jI53tuIdzLOpeucSgyf2KE-zNRlCLrKegw2jZDNHNXSOgAJcnONohSri8FvA6H7CUqdum9YaNwTLD_M845nbWKkUai5bopV-fMU7-5YPGSpjBx_B1EQEL3CClkeKTZ1NZDDtcMyLAAXCCk0COSwmmuxWS24Nc_mWq_pQ-IIL9RrH5ZuhQP2u1q6ith_kaAIf1IaGaSmGYLYV2AxXjlee6xEREfmkMmlWTgyE1JnIVEO4gyGb64PEtHA69Hr94X2H1r64CLnC2ewxblp3HcSdf9vTYWHRvKrWln28xwcvCr1UvO32d3H35fveTFs52qTxQV4itsxq_CYGOUuJ3Kkodi5vK-EtJWxzv8he7UHKeug2RSEK9CRPQiZEAuEk5trixqRfod_AlfttLD0fMnKW-aqCY40_f4vSVhs0kMp4klBQNyaLzEGVWc-C4DvHH0QiKBnJDKBtrfjgF7X-qwyBp16IrGeV-zHK9NC4cX63RbncFjxcgPjTpTiPUoatZktivKK1huWs7Q6-b0HRVQObLu90eyzxV4t9N-CQnKW3Fe-mn6PPA2ZFkgiwyozaujvOsvvzBVocA5VycjGVb1Z4lQLdw3qJd6QlJkbSKRwyVmn4lWr687bgAGD56JiJ9LjobutWwityl7jgMD7H7lQUEehFyVmWRm5HjAKpbc2JquuhNoacTjHB4T_I07jIGyW0YpKrwjZzr2yi0T_wIDYUuRpLqanNIqnZaI1x0mMoAEvk201QiwGA1QTe1F8rxFjT4SGBc0qGPnL3Vyeb3aDPmP4LegW3xNm7Re71qrhE57WBh7sN9YRhyWem9JBtF1iK4SJTHd0oBgb0aaSdThtWRegBjcqDsaP4om8YYqtmZUZktGzpT4v2Pob_9ZrfaimTxsEP5cWR5X-sIfRsxSookWHIPOXnQbMpfxUD6NtBE4QkjFPFvnJ8avA-4kJ7FCpA89GVA05Oc3MX3CMkv8QcssK3SCOZjZnZb6KsvwDLCulbzHmiEfEmTsgSRDgWLMbS_l4KXWXNHPtvl35gNzaHCp-BXk9BwnViuub-08cN0PGm-EiqKqRUS0zj_169otFQVTfeJnxKp0puWIyVDj5mL8TVtrRzEubET2I3bzY5KFOISLJWlM03hMcNoyV9Mzg8pzSx5PqqoONTmkzpveXN5RCqMDx3iTBSKUHChWVx022AS-TPeMQuLyVEYjiyI1b7c8q05TWS_SNpWTjfE-9rIUWAFaujX_aPY2fVUoQNUCxRTpA-74WEo3OPERlvVU0OoYJkQgNqjdUR3T11jPqqZj8OZcy1lv4IrgVb4runTs3chqGotIQqrn_CfvKXGUuzLfb_tsw9i7pMLT9D55ITOIISYf1BnyP8BQcZcAdtq0U4I188QH-gZ5nKVPttoRFRM3zGeLTc-vwN0e4YjyKtqwXw_qlwOp_pxZM8ZZJEdq3mZJAlRmRLcNAx9b4htMgZsG0IiLX1NVBDpLWvUZhY_faAIjE6iKd1aO2qFD5WXOExSEJT5qtC3_caUZkFzbF8MXJvSFuhIMoh_NKcjRmOkuo7Tu4SlWw8pc2UcRZUwAvJMov3DMEAnK9vSPuWm5yxrWeMSgxxDKmCwAAbNzXlaAdPg5AWaiKBSkME1r_Uvd21L0HJv36fWRLc6GBSawxXRGmypq1ktImDAzcxTl0_S3uy4RPqkdLu4RCCRkvKqSW-sIjSVoovPftb9rjRIYsbLQ5KmsTFlLiFMropnXfbuBKwEiR0n2nyXg4zEJd1A166ACe_FhEuNQJzph08MRnrlCQQi_Ij28XOIq6fC9Rd6hqoWpIsHWCAsU0NKxbl1nqfT00vMaSLI7IUGTYwYDUE3B8mVonA6bGrclBSnn1nJT8ZDVnNg-wAeeJZUyjdykrr5xUXuJz6ZIMRFcY_VFwsHwmsArUmXvdctIqiMy3jk4bJRISdPuwx3k3I7M_29CbgVJD7Fk6sd8_JbFI3HR3DxmsjOMiSwWlUZbaltNn5po99Se4MGZRujM7DCzH.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07e6b32f2d71b909016abfcf1d1d5487d19f50e9c4ddc2b1dc",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 466,
+   "completion_tokens": 324,
+   "total_tokens": 790,
+   "cost": 0.02086,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02086,
+    "upstream_inference_prompt_cost": 0.00466,
+    "upstream_inference_completions_cost": 0.0162
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 315,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

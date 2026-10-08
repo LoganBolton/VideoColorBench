@@ -1,0 +1,21 @@
+{
+  "slug": "the-last-seduction-1994",
+  "title": "The Last Seduction",
+  "artist": null,
+  "year": 1994,
+  "label": "The Last Seduction (1994)",
+  "hex": "#37312E",
+  "rgb": [
+    55,
+    49,
+    46
+  ],
+  "frames_sampled": 6602,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "HLbq2SA_XHU",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

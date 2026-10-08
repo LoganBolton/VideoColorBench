@@ -1,0 +1,21 @@
+{
+  "slug": "let-her-go-2012",
+  "title": "Let Her Go",
+  "artist": "Passenger",
+  "year": 2012,
+  "label": "Passenger - Let Her Go (2012)",
+  "hex": "#211916",
+  "rgb": [
+    33,
+    25,
+    22
+  ],
+  "frames_sampled": 254,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "RBumgq5yVrA",
+    "youtube_title": "Passenger | Let Her Go (Official Video)",
+    "channel": "Passenger",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "zombie-1994",
+  "title": "Zombie",
+  "artist": "The Cranberries",
+  "year": 1994,
+  "label": "The Cranberries - Zombie (1994)",
+  "hex": "#433934",
+  "rgb": [
+    67,
+    57,
+    52
+  ],
+  "frames_sampled": 307,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "6Ejga4kJUts",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

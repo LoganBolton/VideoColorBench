@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907119-9FcU3oF3XN0s9t1MUvmq",
+  "object": "chat.completion",
+  "created": 1790907119,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Dark Star (1974)**.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing film aesthetics**\n\nI'm reflecting on the imagery in \"Dark Star.\" It features dark brown and warm tones, with gray helmets and some brief outdoor scenes, like a green alien beach. Its style is reminiscent of 70s films, with colorful interiors but moody low-light settings. \"Black Christmas\" contrasts with bright gray snowy college scenes and warm orange browns. There\u2019s a philosophical bomb scene that\u2019s lit in teal-blue, creating an engaging visual experience throughout the film. Overall, the aesthetics have a consistent dark theme.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film aesthetics**\n\nI'm reflecting on the imagery in \"Dark Star.\" It features dark brown and warm tones, with gray helmets and some brief outdoor scenes, like a green alien beach. Its style is reminiscent of 70s films, with colorful interiors but moody low-light settings. \"Black Christmas\" contrasts with bright gray snowy college scenes and warm orange browns. There\u2019s a philosophical bomb scene that\u2019s lit in teal-blue, creating an engaging visual experience throughout the film. Overall, the aesthetics have a consistent dark theme.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMCJ2Seka9oPi_6_cjGWWR0OqaPylXM115dEgYiZEqzo9EwxaSQi3BsWsIwyor-iSmAX6aNtcmhdnCbxh5YUAce7b_XoFI9vUAs7NaDTiCuF9PVI-HTJxDd9nJ4K_6ckj8lUBhJpyJW75-YxCJawFWIvDBD97va-68sLCd9lZhU5yJftASDEcHsxMeN4GzojG1JJOob6QA2uQVKeNL6qw5eBx42wOp8JOlQ5KizKyhV946c9_4DNnfLHkP7JA2dMOWmBmU3STA_HkAgh3hH7bT-3I41mce8ziRkRGyjgBpk7dlR7gRUMPWnsLtoPk6CzsHBWa4dC2SGegi4IVCC9UnEhw_UxvYB5ALodlAx_vu0QPk5T9XXPc8ZvrsUQZ0MnBWorr7maVNl8rdDpihq1VTsi1p8KdUeXoEvWw0Zyoib5evgaNhnI2mX3IJhWbYY4BJZpjlR7HUOOh_FSHk665YsfiMneJHGzDKR0v4netLOQ23BrWdxSx5a8ImjET98YZ7vqafabZg6_3tIlU3ps217OnDQeIgSoM8qc_aaf_Ebd6NBw2rlqSjbRUTzMBQwCO1M9mBI8g7WdlVTPceMVhKuZzO6VsQhPVa1yrn_Gxdmg17sPQG7VDFY_gSEehLspwrjgegIeuVK4PHSMqbbq9-Fe6S0Q4HZXkTJsK9G832quIgYoCotbTWjR8KxTYDNtPkRez8Le3TUD-z6tohs8ErFQDNC1VSScrdDQ47MWgO-fIgms6OPklsgDATBtfIUGPbJtavMS0gWM_fhyE_SfSllvvgvN35Ens79pxMToiOL9LBosY3_lNFsg2NVbZNu8UF6rvSEcfOq1-pZPdggzOMFk-7xlGw2Z1ZdUPD4VBBYZFWu5DB-Gu-0WwcItKjkO_WV0cAfXn8oedOdfDgFki9rp_kVpndP3Fanm1cr9gF3f7TAuUXCLJ0OfyFKJvFtCW7wCJ1SLqJy6J_bzGsTiMIC4uggowjA8Z_7qJ1iD03Zkxb4feBeTG0g2axgpT1bmEIB6nqJMwgdYL-56J_e7S8t2RYWtYNbwznYkPx2SNAMnjQ61ymZdoeicOi2n_nVpP8m7gAgRu7ByH4JAFc-frjLkgdCNAGaQwfrWs2D3Jfi7YPQYymgt4uCRyT-NfVwF7CSQSJA0VrYtGSpnOZXKt28rX_sAajLEf0XKEFdS0giZdxTykO1fxW4Qbypq7FH2AgtVqDnJNxiBWPAYYKxMaKL2aicp1P1l0VR5MyaGTMpFDtiAXZ_t-IVRZtM6KqqqglYIFxsR8TMnCHqZlQ7Mo5qID56I2Ilu0IP9hNcGv4ml1U1XuU2Eh0yW-urBnF1qFrUt8YumOpjF4Lx0gfQUDMzWRzYtSJvomnPyrQx03LZvAz-byrIUZtA5-CdvM296SrgzqKTvoS1wA3_zdqtjGJlF3uLS0ZYKgp32m09CKu8wQ8A8pga_ULJVDE9dh9-2qe62MTnIHyGg10v0DyyZveG02uS8fgzjqBjcNRrbcus7O30aVdN5fcQvWdn1yp78drV-ErjQRiizhpZetnJgFmvC54KWhY5nvJvirVe1d_gkq_A6iUVSNRku1pLmmKf2TXjSG_RVp_D3e_En498BcVLRUL2k5MoYXCeb5X2m48MM-UL3MnhbvVlVLRkjvo5TPICZnrENPltWMyQaG4OCQZPuBZru0-qh36PQwKwJi3EYL00b6_4ra85e3e0vkY-m5JKwzio8EDLkF7feaSPWdlS5lAXSqPtVf3mp1GiMxwXcXcRC0emIW6Rw_X5JHg39ii50XvI5G02UEaiB1BuaeLSPS10LxwF0aQI9lxVHg1NukGnXdoTXrgmmEva0kiHUL0LzMneH0FOdKxMUz6A2gTgs6jwOh43m6h5MaNqwV4sTwl0DjCYf13dw6Fmusp6ndgJOrPI1QwoGFHSmAtXlM8wwmfWnrQEs-d9IbYXJHcn3lp5W6aVHxD7D-gfszYlnzFn-VVAnfe6OlcsibqPjlWj1Jltr_Sv9qp0yu9I-RkgLcvNmHjB94bAdpQz1Cmp05lVekk78DB_i4bWphMr8jJfiDnGV8cpWIWvVwZi_PLTs3IzBb43tqIDZjbxykGGpldS5iii2A4Y92QT08VmVeWta-Qml-YyaDlOSKlSA9EDMi8s5-WlwuNSeOjyUGoI6ud2iUw-9mXMpQO8lFJgu-zQy9u0vaV6hX27N0bIeyxXyL61IWvAspV-qRjC7o5qBWR9rkOz6SfWXItgGsRiT6XTJ3K4jVT7RhLHppq0wTHxJ7LrkzomTXzr7q6_A-Ki76ImQFQZWc8R5WVmom3u994lZhgQlaZWPn38kQp-EhGPsnm575-JrODtK3toU8GjNmOFjKw1mfxa-L3Zk9ENTijr6anSEhf-2xJczmmc7G5S6_nrQgkXN7PomkEn5Dpzt_R3Gq8K156MwV_GHsPC9XWZ0Ys9U3TOF3zoIPR1ghmBP2O57tA6N1Yi-CVTX7uVEbaVvPdg0Pu1bFZpoaX8VITIxAx6wyxMHKE3TzVocdJWy2vhewj0kxjBmgQbppJGQ-LlScpbgxNwRJtn6dhOqAVrDm10kxLabevVD51pqOn2LIfq5KbT_Sn8BuX89PAt41XCFCHftBhV0tMMCk_BVSbvS7zip-KY1-K1WvU4ouUT4ar4OSPFnBErrFnxv7sAQQwYKxYLfdBHftI6Uw_A6eEjps0Fv1U9NZ6CBdI6ghuC5_WVsNLiHHDUMBdkR5_52RRdRQ2mzi3sAfEug4qTx3nbJ9Vb91TSMe8hhJ4qWTWqNALyofONvowafLp_96OOZclLhL7M6Qbb_DTmLC1Qg-rx0nAuc6-faI68fXTr2rpUs3aMB-YVvfThfZPiuSq8ekQVE0bdRmW6vqH3LX-VwJp8hODy7j1RGxx5p5pUx5S_F6v2Fp7KUIBkz1OwA3eELSLZfYrPB8tJZqopd69-jAGYHdjJSAzRVPfZEn4KLbF8I1mvoZxsNSpKRaa-9z3t5ZTGIeil15p6vyp_vhcpJNDOBAKaudwb_xMhxlLkhMFGlXFdxL3lMKAF7Wx96RPTldjIwp7T_QAD6AjC3VDJQF5SjYhJ6_VlW8V6YHjLp3aek_A_bAzcR0rNWnzDvCG9j-jDj6QO161_USAi5tgV-tzEGtq_XqKE26NaUxQOkNEJ9Vi6fdho7uIoW_fabMBLvrOLtZYo4-G1gDpswYdvYKe_JRvQQiLpygs21tJbniCY5xzrTDJdWp6M24fQlKsE0PjduYrRf6-cMeDqa1Sirvi3pdrZu8gdn4jjeUdlWYv3cQ_9SBVni_NlO8FnrPXkuZ1MgLc6sJ78saKI298i1rTBWL54dcLZPud6Bc_wkfKou4nbD4dfMjC9AlAh9d72Ay5UsET62kw-uYhH8OWRRJ2NRaZPyfkGPr56xAKlcWTMZnmhk0nPFo5rDHBnlVlKStgGC6aA0ud6iiOf1D7HhUcbwA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_057676b21de18e50016abf12f60fa887d19352eb647f08cd72",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 344,
+   "total_tokens": 773,
+   "cost": 0.004298,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004298,
+    "upstream_inference_prompt_cost": 0.000858,
+    "upstream_inference_completions_cost": 0.00344
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 323,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

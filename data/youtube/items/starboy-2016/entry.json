@@ -1,0 +1,21 @@
+{
+  "slug": "starboy-2016",
+  "title": "Starboy",
+  "artist": "The Weeknd ft. Daft Punk",
+  "year": 2016,
+  "label": "The Weeknd ft. Daft Punk - Starboy (2016)",
+  "hex": "#131C23",
+  "rgb": [
+    19,
+    28,
+    35
+  ],
+  "frames_sampled": 273,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "34Na4j8AVgA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

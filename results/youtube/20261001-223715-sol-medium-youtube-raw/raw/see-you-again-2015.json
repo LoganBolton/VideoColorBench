@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894292-ypEWOXbYcYDObHZMHBeb",
+  "object": "chat.completion",
+  "created": 1790894292,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele - Hello (2015), based on the consistently muted, sepia-toned colors.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing image tones**\n\nI need to guess that the image has a dark, muted brown monochromatic scheme. The \"Hello\" video features strong dark bars throughout. It's not quite perfect since the snow blue and white aren't fitting. I love the warm brown tones that remind me of a fire, with a hint of orange. The image starts with gray-brown and transitions to dark, finally having a pale uniform sepia look. It definitely brings Adele's \"Hello\" to mind!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing image tones**\n\nI need to guess that the image has a dark, muted brown monochromatic scheme. The \"Hello\" video features strong dark bars throughout. It's not quite perfect since the snow blue and white aren't fitting. I love the warm brown tones that remind me of a fire, with a hint of orange. The image starts with gray-brown and transitions to dark, finally having a pale uniform sepia look. It definitely brings Adele's \"Hello\" to mind!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDZdb3-wrmaM5hpmTk6Fmo2Wi8UMy7AfWOwaYGDQaQ_HWyY7B4E3o4J0NqA0F7NIyHawZlvdGlP1sUZLTAg7oqgpmZThWLlsGw-xUgJSVuTBwkkbPeo89kCnerVNkotLEQ3la6rlrZkmabi2TXuzzN7AazwGcGoy0TxKEdMmcwAAbvaxje18kIUhHqIoC8MoUKjm7Te4X-XwNpI883MRKj3HS1R4JudE4sQwuvKVZ5RyVzHRVLUcvMp-tC3PvtWuMSN4SVJmwIGZp9f2p9GZAPmRAMdWsk3GqUYvl481d9t-6r_zjD89JER3AkLQ_p3nlZGt5aQo_2cFe8Spx2GXfA8HODhRSNLNbGY5E9CkO0k-HnwrRK8zOLtwjYZ-ZVsKVUStqeGmaBLY-dLHrknza7VfXh15Q_-i02ZrDA1nB99y4TQANc-mKOpIjRSl_XN6hhfhlsg3sAVArQ90bpLTyqKGo_6IeGgdldZ3ELxeQZ9QvxqqmbMjpXkdJbNPsCapgzUMyrP1xqqRKvOiklUDyCgnCpDBtPT0D2qNJeWSFfOPimeY2d8eheRm4LVP0aO_6xdwOfsS6aIvllUD8Duis72EzuD2noEnXnPNVc-auo83kQkgzYYrDpyJuThg5q3BUfMZi4uYYlsNpB9GBS28q5wGT_tI5SpVG5idQix3VV5FxhwzKSzr3Dh0ewiapMtJ0MOJRW4AutrkGA53hNkfp8P7bXbg2kG-L3DW4jANiZSzBAlMkED_Qcuurbnz3fBsvwQxUEGXbuwSbpNeffbQM4uC3F54y44do7LDts_nVuEWOdYamfwwdNpUYM03g5A_mde4ngzRklopMQIWzF2mu1ywuDHI_XJg1mGECvbfqb_2yo8QyybRRqjFteXTXuHoAOym1Fj6dbqW7GqzIYmc9qT1FCxWkr_h-NBXXD4fEuQ0RwELkNQYKY5AIsaU4jmFCUUUJ6KsXDhZ35uPvti33qaCxvGYwhdL4TJ5wTB9edW3mHdxZ4vg1o0lfRokNuoRoMTNvWNZx4Bct4jtOfBHop9_dREQ_dLizODiPFD6GX-R0YH_rxfFtWr3jsVT4f7-6HYM3BGlS56mmY2ynE3SKv_RlxzvqgSErkKlOcnZmL60mOtvn4mMSEfc4PUfsqsgqeDOOG4E9EEgbh988OywmLRxkNSNJxsK0oTRRfJMG4Ywc5_eebsgDraMw4J2uekSeSxt6ENL_0IaX7DJZLSq49V7mnfimf_QYyH40S0jn-pyCjY_7RjPRl1ySKoC9M5EkSWIu1f5yHWOSSRjT-D9pHrtAPVdevTcuvjLTD_x2NAx0LT67VC_GQEu10yyZENFK1cpCciYs2pucu-G774lEBFDosCKxEDfNcVlCPtnDWAPqZjSUy1gih5ZU8oCSUsOoPEFq0m_kOGwxa1J0BxnnliE01gHXbg9Czu5cLHn3MbnOVNGRG-TLQuEWmvfB_S52F7avEsbeAjznIeey2L0AvYRqd-zBEh-0P1TIeGIN_fE_eburVvvwygGrTfXn4U9x_oqs025qOQwECqtjmjbnt8FQctR4uZyb0ql7E8K3Y_RD6LFG3DnaKhxjJcuk0ztXjFF2loj-S1mvZ4XphGdj-DzC9EZfKz2ThP-LDaCjad68qFwwjto_pLNcufEmBDFZBrcuJF8HMDYVSqC6wggjqTWlmAKhpoxHBvREF3hKmZzs-FO9KhnC2b8fXmpMDJp65-ZVdx-sUOmRtI8qn4Ui6Ze9NWh8S5oq-9yiz87fIGatM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f8b55157516994d016abee0d6a9fc87d1ad88ea5fcbf1368f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 480,
+   "completion_tokens": 101,
+   "total_tokens": 581,
+   "cost": 0.00197,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00197,
+    "upstream_inference_prompt_cost": 0.00096,
+    "upstream_inference_completions_cost": 0.00101
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 69,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

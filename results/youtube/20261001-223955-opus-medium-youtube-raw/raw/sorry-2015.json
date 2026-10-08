@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894445-dtwqCOgI5b5LwV52fo5H",
+  "object": "chat.completion",
+  "created": 1790894446,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess, based on the overall palette rather than a definite match. The stripes are almost entirely light pastel pinks and off-whites, with few dark or saturated sections. That suggests a bright, mostly white studio setting throughout. Justin Bieber's \"Sorry\" video fits that best: it is a dance video shot against a white backdrop, with dancers in colorful outfits that would average out to soft pastel tones like these.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "Comparing music videos for pastel pink tones - Bieber's \"Sorry\" has a white studio background with dancers in bright neon/pastel outfits, which seems like the closest match to an average pastel pink aesthetic. I'll go with \"Sorry.\"\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing music videos for pastel pink tones - Bieber's \"Sorry\" has a white studio background with dancers in bright neon/pastel outfits, which seems like the closest match to an average pastel pink aesthetic. I'll go with \"Sorry.\"\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4QgKEAgSGAI4AUIIdGhpbmtpbmcSDL08KQV8Q7KsHCdDhhoMrOmRb+TUQW9HFGRlIjA9g84fIdxzH94ncsGT4GswhsGNroSBnpLp04lzSJJ+g3NOZK+pX8wYun07gRy7VVcq/gdAHS7Np/p4AYh4ba8DToqFMbj5CgLZZYSqZOmoWtD87TKlUpomMbLBAnCN+pYpme7/vzfUGazJpPNO2MfjxTtoP7PEpv/IKtUeTwRSRMXR/rRqzcBvmnIEfIB+RRivoZmkKJvxaXLYu20DRrlI0jVb7WDj3KbNdaSp2PUikPNueCXWwFqQJw2sZhNGurgU2tMQU/flx80f9kikQ73uTuSLuOVx/fHLY88BuD9sFzL21VILER5ZGd3AbfDXo6qb0g3SUBRgd/UyMcFPqX6gDnTyGF7V0AJafvsG/4TD7JE0YNujMFgRtnCmKJxKGqsGnm8K4yn2UtzJW5nCsuDn+ylYuXsxIKlrJ04HaaQpZHzlI7u+y1HW9nfJfLdZ+XJvVwjcYkcBS5AZw0yhDiBagXxlj7Xb6tJ9DvFqyo0zRwYDQrCEIINucNQcL/g1EBK1tycV3EhyfKT0vidTK1kFOT/gnIN02tsHJ/HP3QJBOVPSlCNC2UAG9g2eWBaoyNOpyM/8CmKDoFX9YIc1GN2ZpMT5Z3piG3jOag36a3oh2hh1/HswY4dDVfNXOvjhSWz18P4UwWniB5xEtblPXweJIkhGC/Z3CtPNrnS0h5QFeLVxx+XfgKt7+Pecq4HXA0Jjq9ulLNidqfMCNgmW/0cyagEWe8ioLJzZ4V2NrzHcM0S6EttU1FnWepNJzstVj5rnBUHChIy2JxG9Nl0Pyu5jXCj62w+VWsbZD8YLEY1QN72gW4P28uP8Bbxxq0FhiVgHNJnCwPNNGGezXL9+8DNuWhmQFZ1L623Dwhs2QShLoTueJbmT29GkJ2NGE31V3pShnXuLmm4d3m6tU1PEq2aH/xdXtqebkOgsaLge5AbvlHlyVuIMan39M7L3rIDpFQ61t00uLOBaCMklA1mVymppdyYqH7e3UK6NtNC74EqDWLqatbW3GnJpAVjjI90Pea+M040yGubwM0WjxOdHyMSWxj4FbX4vFvvGHIJQG8PHZ6HTfNToaF8V91B75yiJ9x2iFAmQf8170focqGcLRiCNS+WGt66QjTi9LkO361EwE19XKOFurgMgHcOxfKaffX7v7kmUq0VFqPjvqHt0Y5AQgkkb+OK6ClgKy+erCrDKi+H8zDksjJZ5YRZqcwLDdylUnWsj80yjkXp2+WgE/NmY73Jcn6NJklsyRYceF9jWXvaoh3zOkWh7uAowHIXIhrO9uGE7fXIA2+988EeXSLTxQzuqsjwtZpOR6OTk7xF9dJ827sVMU2nAPtWlmsV/sOynRMUJBcvkGIMR9rv6Ptw9lrGTuW0FV/1nOHwYRToXpebS8Ps13jWQ/7hSQFpI8/1f5+c8rwgg6TMDyggdvQLpexgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 621,
+   "completion_tokens": 344,
+   "total_tokens": 965,
+   "cost": 0.009364,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009364,
+    "upstream_inference_prompt_cost": 0.002484,
+    "upstream_inference_completions_cost": 0.00688
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 198,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907289-5TdPmnK2cUSr6LBmEvEa",
+  "object": "chat.completion",
+  "created": 1790907289,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are mostly muted, desaturated grays, blues and greens, and the final stretch turns very dark with brown and orange tints, which looks like firelit scenes.\n\n- **Ruled out:** The two Technicolor films (*Black Narcissus*, *The Red Shoes*) would show much more vivid, saturated color, so they are unlikely.\n- **Best fit:** *The Haunting in Connecticut* has a drab, washed-out look for most of its runtime and a climax involving fire in the house, which fits the dark, warm-toned ending.\n\nThis is a best guess from the overall color pattern, not a definitive match. Other muted modern films on the list, such as *Brain on Fire* or *American Animals*, could produce a similar barcode.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm considering the muted gray-green-blue palette with a dark ending, which points away from vivid Technicolor films toward something desaturated like American Animals, Brain on Fire, or The Haunting in Connecticut\u2014weighing which best matches a darker final act like a basement fire scene.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering the muted gray-green-blue palette with a dark ending, which points away from vivid Technicolor films toward something desaturated like American Animals, Brain on Fire, or The Haunting in Connecticut\u2014weighing which best matches a darker final act like a basement fire scene.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSzAkKEAgSGAI4AUIIdGhpbmtpbmcSDBWwx9AcJjUG75Y51hoM/7WPGXIUmPOdmvPpIjD1ucoiBOrVldf+RrsmqyBmRKicRgxcKky6YXHPEhO28EjeTEA6EcauVCmm0uyI5eQq6Qicm7L6+YgVrkJrpXh8sPlidEcGFItPza7dir2vGR+D6jNTrcxeFtw34bhDH5FfHalXKHqFy2rlOXRJaUvH6HfqCXudKVKOchjyS87YD3A2ivWh9XBssWg+rco+BhfO95/PQ4ij0lR3/QKDtO4hAGFaaoMrzaArl4E82qxeYd4/Lf22DozYGLtCWxO4QYh0z/zQxPF7OeyygnHx45gOsl5CGeFHM5HvnRAwvsZRVK7HmYdvY7kImafk3ySOLnb2JQtvz0llyFkf3LJKwbHNDVoUdzNZukIMuFuPdhukZNVf9Fiprk0zB4jBvEzX2tyCLATWYB7AM2+2lQ3EIMrbB3pjesNvdwYY3BVivCqJQinrMn0psaFkcNapoGReqaZwbpinlWw5PPT7j3B1lx0N/KEXDiGkhA/c8+YWaAKVZq7pE1sEvxrLqhoZXE1Ut/jVk4r6lBx7mTclPl/J2TIXPJRTwVM8QmCoE+0nMSi/dtZETj4EQD83Dm6fyZLT06kM1dsTqKKgvlttOmzsmN8RqXoIH90Fw5YP8b05vtp8h3vS16AA5BEF81RWf79gtg1W+UPnYtdEIinNgSxwkqYJAZO9mrI0BgYdU0vlPwdTdaq/uaigDjvguD+bIl9XtVoEfEJOZ9ifQ2Q7hs5vVHr8ldLLwJKxyhLpR+zvQ6PQ8Monantm/8UcV7UHWV4siWzDDSgaGpzXCWLRjNMRLpLN5dfuVGvsKsG8wsVEqLiD/2IMl/cQr8xCOg2FNi17DzSr8Bqn0Z3dtIUOpWTF9OcxPEy1tFVWASLrazdkhaeVZ+1JYBf5d5JU9SmaatzWQJUmQobXjWDgEIy9lfVR9S/a7QK7EpOS3r8IigvsWZV8zLPrbuSNe8gjRSjs/JQbpUb33GJNGn0E52mW668U1pgg73+4mfCrxm7WcGbY8OP3U1inA5+3FxURruF7GI6/r+BlWQukBItZ9TIlawq2ZxCaQEKwFYXv7hCly2Kzz9RTPDkK7/P4ivj/snfOzOV+BOhqEAkQ4x+dKtc7kiTjsbJ56GJxzAOnPG2pb8tyXfKKwAqHXqMXBfRg7J84bNNCzSKBf9swg7U1+1CL49phCbDmZlIkkE42YtTMlQ8BIA8E2QoDge00UVqLevYO2nN2xQ3UPASf6F840c6ZUCW0cxhb91k0jFUoN4ewfLby4b1JxkLt4MQ3qwMwBplPO0YADFbisMBe7iYHxsdt/avde6ATBno1aXYqbEaGkvsCiFq61IczdJywYSGswsyBz8i/Iir2EV9EuGCc702ZKAGfux/J9agSB5RcofhYTZhKK2vhSO5wEeI/0dedQF1dGkg0EjgeMInDPHjMEci4/ufkUDucWnhX0yc0c27IQfbZFoy+pCycu+nmngTySU59lmwu4gUFBHzPeJVgfBT1qAfmNOeBGMj1B1qIeVAYhfDlaFP3X/Ze4JUqtT5fBd7i0B66WO7Z3p6Q2HSRgHMDJXtstrVx4pDoDmeyxpOeC0kkGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 531,
+   "completion_tokens": 496,
+   "total_tokens": 1027,
+   "cost": 0.012044,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012044,
+    "upstream_inference_prompt_cost": 0.002124,
+    "upstream_inference_completions_cost": 0.00992
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 244,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

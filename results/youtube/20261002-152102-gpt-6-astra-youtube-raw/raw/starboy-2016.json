@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955212-Wr3Oda1cAyt1sw7JTCPb",
+  "object": "chat.completion",
+  "created": 1790955212,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Weeknd ft. Daft Punk \u2014 \u201cStarboy\u201d (2016), given the predominantly dark blue, teal, and red palette.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Reflecting on color themes**\n\nI'm brainstorming about colors like dark teal, red, and black for a project inspired by \"Starboy.\" The video makes me think of a dark intro filled with blue, leading into reds and a black ending, which creates a sense of suffocation. The overall atmosphere is pretty dark, but I want to balance it with a brighter, warmer bar. It's an interesting challenge to figure out how to combine these colors effectively!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Reflecting on color themes**\n\nI'm brainstorming about colors like dark teal, red, and black for a project inspired by \"Starboy.\" The video makes me think of a dark intro filled with blue, leading into reds and a black ending, which creates a sense of suffocation. The overall atmosphere is pretty dark, but I want to balance it with a brighter, warmer bar. It's an interesting challenge to figure out how to combine these colors effectively!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87RWGnYul65F47wfoMMK83_Y4JqYJN8_RArKRkdkv2gDG-oRgXJhf68O0PF_P_nBZ-W1ZbPy0TQRUXww4982Xe7ihZgYapJzOr7OWvPcDKd136VMfUA-zL1JEilcQZxiv4rvzmUv0bFoyS17MajkK560N5ZItInGLAANiLVSnnlnIWcSgbDIkp9JIuw-yLrNXYHahUVDM875QaepbKHK4rQHWkpmzw-pZrAOTvYI1jkL0YE7v0EbpCqopKtv6hruWb_4OlSdhDqUHqXqwQ7Yta8U3JhfwLCuMzCOwlTJOaX6dxQjPIQBQD-Pky10_OfxJdk9cDuI5zczRqDEIaDcpZy7WXM9C7lOpBIP1A81UJRkN6MNyVjiSmfkepYj_qFkH2yc_PEflZcs9yCAxyWYggjzXQm8WaM9BMfVQovlrDVX0wA-sPtxKwGgjaAxz-qeGTLBKRIa8i-WQUk6wEGJN78t_TLfk6KQmOyQBZCfGOgabInHK7jdFb6bg0XR-FvOTkWPIk-N9YQwYVP1am1C29QCLy8aePz2_n8TV_j2PBtELebFsXTiLFjmM4Em8e4UDeGQI7iRBHZ-NNcZ9PF401AvRBVePWX7dgegUvBa99ibV3CxtmGVmhOq4aM4CR0lAL5DsIYlCcPedmeK88H_QkHr2c6c8mk9-oqFMXXWxDmz_yCVlvGb3vQoGadIE-jlp0fZoWyDLxrpu5mN0_bhUZSSIUCuAFUKTd0KR99YuJbRiq_DaW6yrPqMiGYDHvj5zCGqnnAQPLzrraWeD0G1caBa1UCmUzamKlq8QIDDIbcUS_UHFbPK0QmX5HTSNksRCFaLFXfLf3QTk8_A-prt5_YgBQ86zSfp99brA_pydJqh4AoZmn6tA-VO-nA2iWmheefG8SO-0tUF4I7k4WJUkqD5WhbfSmlgq393IOGJXWJJs0J9_dF4USWA_sP8Zwv9wj8A3F_iWeKPChKjUpWbSwP9gxOISdKoeQjyhQROSDPL6gYt52kEwhA230YPfyV3nWf55-TaCTDdcAPeH_hp6nF1v7fOoMUGTziA9M-nz_mGhvNb_MkacRtL--2zdtnUKgZ4o0u4L6v4-VHO5Pi_2E13A3iC71-teDeGvpB6p4FC6WHISzuAOGYXeeLJMt72x448K6fnmt7HuFslbPG2EFA-V9tCqr7QTFtAy9xlaleMy_FgD99GNIwk9ugSWODNuyMa8OV6a7yNweSLT-KpjxbQmvpo8TI5DT6AIAp5vLpGreQvEx7Ij-CCUeBfRkhyvka3amrHzUlIrO9INy42eiaVHKepqQAz8AOw7seb5nXn6MU957fmiJXSXOmI5HNlyiWKi9jLhh1EHGTIxFFRsAid3gNk7ACYLRlNEH-53MgCXfc7ngjnlgEkYERhNxy8w6J2u03i3khdMM_rMIgN0a2TZZgINA74_w7_oKwFwgsM-HwxZJ6-XcY_v0q4hhW9HJ74a0VYchjiBLBImPBKLmSATssAt52PmK0vylFmkjf3jbbqWf4X5HqA_3Jk_lsF3QmPdlBoAnRiZoEVPwJHc8ZxP9_LP26w7SPYjiBUK1t_7w=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05e8169de0447f83016abfceced87c87d1aa2f8f5535f98e89",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 477,
+   "completion_tokens": 83,
+   "total_tokens": 560,
+   "cost": 0.00892,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00892,
+    "upstream_inference_prompt_cost": 0.00477,
+    "upstream_inference_completions_cost": 0.00415
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 41,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

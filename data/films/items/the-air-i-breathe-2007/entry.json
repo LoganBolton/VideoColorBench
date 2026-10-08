@@ -1,0 +1,21 @@
+{
+  "slug": "the-air-i-breathe-2007",
+  "title": "The Air I Breathe",
+  "artist": null,
+  "year": 2007,
+  "label": "The Air I Breathe (2007)",
+  "hex": "#1E1D1B",
+  "rgb": [
+    30,
+    29,
+    27
+  ],
+  "frames_sampled": 5680,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "7bZaH5K4a3g",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

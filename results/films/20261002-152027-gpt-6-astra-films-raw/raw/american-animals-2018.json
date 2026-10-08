@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954888-pl8EVQPeYff0gaWbIXgY",
+  "object": "chat.completion",
+  "created": 1790954888,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **I, Frankenstein (2014)**, given the consistently dark blue-gray and brown palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Choosing colors and themes**\n\nI need to pick a dark barcode, mostly black, blue, and brown. It feels like I'm Frankenstein-ing something extremely dark with a muted cyan and brown, maybe adding a hint of gold. There\u2019s a haunting quality, think Connecticut vibes. Southpaw evokes darker tones but in a boxing ring, it feels brighter. I see varied bright exteriors too, like a colorful draft day green. I want to explore the night and warmth, contrasting light against the darkness.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing colors and themes**\n\nI need to pick a dark barcode, mostly black, blue, and brown. It feels like I'm Frankenstein-ing something extremely dark with a muted cyan and brown, maybe adding a hint of gold. There\u2019s a haunting quality, think Connecticut vibes. Southpaw evokes darker tones but in a boxing ring, it feels brighter. I see varied bright exteriors too, like a colorful draft day green. I want to explore the night and warmth, contrasting light against the darkness.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv82OGvFCEp0DrNYwgxv392qKKlCTptIyDvJYO5DgtUgrtHe5QQG312XE755UbVtuhoWHtM_cwBfWpYyLBrcYme8ezKLt5vGTJQ38DIRIlGyH-Dq9yWWl3HdDBgdU9RQfEjH3d33b6jd5-gEQXlJMahqous4im-y4OWM5BZ7TmsLzkh8HZ_sUabic6CJj7yxezU1BvwVQ_P_VjoJzaHGBGB-qCazkIOB612saEs9ax_UwW7qGY0q-upWfSOZDRRW-_V-_yv4EAfIJCLP-UcKwF5OaXtEQhqpY661ntfVgPCxajh9n93xDmbpk-2WHHR19MjderyG_98slDy3nUYqikAbi_m-dTJaJBYMVNefXtjL205ps8rI0LC0z0vwZ3QLucLqqGVyWU6i4K7C8NUKyYGipOb9zGm_Qg5sUzLNGcDVKvGTyi65oq-V5cZkFjNY-0tpG1tzPMqyK4yjGzJcw0w-9d7BzWgOjeJrJzoOSwoFjYTLf4TQ3zxe1jQ1hs6wwQljOOWEteX5k07Kn8PPIJpjRYAAdrBVaf8U9s0H0BaSNrVMHJWpT9W_Nb2I6lI-mQhTYpL_OysdW7adU-g68B8KBX-vSh5LPge3u-5Iiz_1hD2RJFkG-1cIQVYqCJ6HSDljOVpBDDT6H-9VOks44hIJccEaDoZ8f4X0Cj0xi5b5Q3FSBjGBPJcu8AfNkonmWewZ1itZ1leWDONVGIB0lLEbw5010RicXQapf_HtymrTHfrrr4YfwdNvSAyGww22_f56lO17m6g-RQJ5ftVDYSzsE30DWxknnBnQJ_uWPC1aKrfA-OfLwfLHNBEC2tuXStIBhIjwkk3ZVx9F-6alMNVx1v2dFUnMCbp7F9yXlxBUJVwe57PEytX28b_PIjhWRIi1IcuD6nPDJt4arQYG3nRtY06-Oii5ircZks0qxSG3ShLGT_mIIe7XGZ-whIHXUbPkSv4wh2HnfPTUUvfu85xFUoYWLG1eSHnaO_dV7IAlOcekGodE2jf506C-KNh9rTWcifK41iZkymwCCxWV5PjtiaOO1OYmHCU83w7p-k98EoS6U4-BGvvPe_eucS7b_lVmxqxjofDToCMzesUk1hp5jl_onB5YlCzE-mWhgRugEvNdw796mIYGZVfi7KMOt-E8PTiDhJzbp7xnrEfWOyqqgdnLeDxJx14jXApbCFWRyB2-UDaRvuwbmt0PcYXmocaid5OP3S7GyC7MvDz3mkQ_Hc0cfGnrH3S4NgJMfwbuBHRAregUFYdNoRmqHSfKowWROMfk6A6RqJJgp-0nBOkVWQ70pBmNXMb7U6poUyzFHLP4IK6xd5qrSKDgQoHiPL2HxKOP3ENIZjn2Q6xybY9PCZ4jmfJmO6_bTtaxYFAY8jNpexEBCWhsuzk4VCLPOfuAcUpmAbcBfc8yAVWcWP_Q4nKytjVfgadPHzcZN02lGiyYCzS9XJ5Z7mW8fhhsWdYzOzJfqXjKztm2tJGAE98Ewap5VNImO6vcsX1mCWJlzSNoKlKZofBYTh06gzfu9AZbWAOwk0YD8e7rqvuXah8PsA9E_9d5dmWfk-LYtJhK5LorgmFqDn5xPxm0Ojz7RVCZzm_ypD0e_fAstgRX1WviwVwB0NN6T4D1OzFgCKqBzAn4ASd0Wo81bDO2NvDqiRO8KltcRVSOyqVCfRLCYRIzInxyzLjDxw2X0ayvqXtoO2n6Avizlkaa_JFphVmCUMZAjtCpH49a5fQ3VTCUuwUIWHjsHVUikpsh-vI7ZDOO5QP89_C-pGAdW_N3b-WPesadw_qCWHzdtnlhD0dhLVgsgvQTAYM4Wvfy3MU7gr3z9xCedm7Vc-rnz6EoIbvWRpEFtZZkH2AOA-mHoottEg3aHz6fXuYffgHiLQA36GzSPqj1vq-_QvX8_o2406Dc7RJZ536LPd2attZYE3lDd27oBZJ7WxBWNGSsry7Yh1vHiuu3o9Xxk5KGIYr9iZCihBe24YXlfVNXk1Ig5qezeY9gNWXW67dAmlq9nU4uXDjfPkzQ_60V4X6ANAMixBURrjdx2Wq69XtCefTqdFNIBEiqzURSvkI1IlZqJBNszN56ywA5tvUjyFnbliQSu2E6P_9rm0IG4_Mzwp7oQhbNKbBkimS5H3dteU0BPO4X_OAR6W6NRbmnxbOYVHgANpxR5kj3W.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0543098dae18438e016abfcd892fe487d19a83b0dfc9ecf1ed",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 151,
+   "total_tokens": 578,
+   "cost": 0.01182,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01182,
+    "upstream_inference_prompt_cost": 0.00427,
+    "upstream_inference_completions_cost": 0.00755
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 119,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

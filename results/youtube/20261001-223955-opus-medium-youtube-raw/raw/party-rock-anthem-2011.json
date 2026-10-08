@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894413-BqGUi0jK5P19SNKaBDRI",
+  "object": "chat.completion",
+  "created": 1790894413,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The palette points to Alan Walker's \"Faded.\" The barcode is mostly desaturated blue-gray and muted green, which fits that video's cold, washed-out abandoned-city scenes. Toward the end the stripes shift to warmer brownish tones, which would match its later indoor scenes in the house. This is a best guess from the overall colours, not a confirmed match.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "The muted desaturated tones with that blue-gray-green palette and hooded figure in an abandoned city strongly match Alan Walker's \"Faded\" video aesthetic, with later warmer brownish scenes fitting too. I'm settling on answer G.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted desaturated tones with that blue-gray-green palette and hooded figure in an abandoned city strongly match Alan Walker's \"Faded\" video aesthetic, with later warmer brownish scenes fitting too. I'm settling on answer G.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0AYKEAgSGAI4AUIIdGhpbmtpbmcSDMsfhIjWzTTp77vJ/xoMR7VIRNn+d1E6zgElIjAOwrtmdkw+ZKsuSW+9vC6p1+ybBqIHpM3iG/eD7+MFjz/i/V/1Xj6pDInG2ZT0i1oq7QWCCQhSovb5Kt5YTNQDP5U6IodBVvn2CdYHOg6/2EhMchFhIekPRzjYw8F18OfOEST95iVZiW0ZZX0O18CyRHlmh1wAiKYk88RlLZtzhmOjV26qc+3PhIs3lpCwiupeBkwRfQcX00FY/ZiTL5nj4pNeFo2lBRxHrvTWbX6StF+KrwxejHgeDYE6lBoPg4vMUmbuWLXMOheQ3E3Ti6CSGZlgErmDY7Kw8TjIhlkKbR8lUtdg/KtnmnQGc+jfDzfG/TdXoKolLDV1KlHyf62JKrz49mV9fREr1xQWspcCCIkUnnT0rtJXoSTaKXdBzgaSupVIgyjTTKR3PIFZ4ksQWYDfRdc9X9P5VLtZq0QP68uGUtlq9LpuVl21R/Ixz5NrKYhuvpfWRJHkeWHC4sygc25nWyFTmvLlFVoU51MdoyzMEcBNRB1lXTN9pTmIoByihCH4QbW0B/d3xCQ1ZJJHjkBKy95+M0dmGr6JRcZbR5nj8/TjFtm+doHWzUYF8paZK9BpCMZGE4iNLfSbu7ggNI6tklFAtQJA5VgLIJtq5l1WS9/MMhQHpCLtQ+7IGWtlXTF/GqRUi5ywf7Lo73AHOautxz+LV7pDHFNuvm3xL5sbMIfUj/auVzpkTB/scVO9ePySQpfE7izm+aoYEuEAJ8qppa69FEzOcoLjlgnjxtU/vR3DXLwxsrJcek9B2HfbGGS/a2DobwOPLG8xwqSjVlPmiSp/2aP8UhagbFtB0tmNtxDes9J5jPvWFizlTp9nHtyiN4RQlnNKe1QtS5rBlXK+rZ+qp0zi/mdn8UBduWy7tj86L3vm/F6qy2/l6lkmp07D34KaWHJpRApTlwmi9gX+T2Cf6OD6PL0ljKMLRODCAxCBL9qVK7rPm9dj28wa1djEWrUVjfakM6tdFILHglIVB+echM8TPcgY9mNjFNPfcwE+YTWUOnAeoTb7EZyzQfW4cHoA5K/j5FTt4ltjJjZ2iBeXNpxe4E/HRrcGLRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 626,
+   "completion_tokens": 229,
+   "total_tokens": 855,
+   "cost": 0.007084,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007084,
+    "upstream_inference_prompt_cost": 0.002504,
+    "upstream_inference_completions_cost": 0.00458
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 102,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

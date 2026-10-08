@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907099-54zLibG0iFrNg9rRr4ig",
+  "object": "chat.completion",
+  "created": 1790907099,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Haunting in Connecticut* (2009).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color choices**\n\nI need to choose an image with a very dark, muted color palette featuring green, blue, and brown, particularly focusing on the segment from 73 to 94, with a lighter end. I'm considering movies like Haunting Connecticut, I Frankenstein, and Southpaw for inspiration. The colors should transition from grey to olive and then to lighter bluish tones. It seems the darker tones dominate in certain films, while others incorporate brighter elements that contrast nicely. I'll refine this to make my best guess!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color choices**\n\nI need to choose an image with a very dark, muted color palette featuring green, blue, and brown, particularly focusing on the segment from 73 to 94, with a lighter end. I'm considering movies like Haunting Connecticut, I Frankenstein, and Southpaw for inspiration. The colors should transition from grey to olive and then to lighter bluish tones. It seems the darker tones dominate in certain films, while others incorporate brighter elements that contrast nicely. I'll refine this to make my best guess!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLnfiswTngGYZxLwTsS0nlFuagSIJXiDGcCQ76pFV-Tk1oTNzSx9t2Camgu5HmoACcT43HixEfWS8VtrucCrUSJEwdNkOq3_6KZJ9RBsWJG6ThV2lUb660xqCZ_moOILw2gLbYxdGPh3Ve0kC3LtUC0upJkoL-TrEIpq4nY9fifTbf5aCL1R_OoqGaCWmijUnmwD1WoUU5mXOAyhjmTKHYbef5cra20JxPNrvx8yxxQPrkR_b_Z0wTyucO8XpN9S5TxTqDU9vNCEntMnvgAwH_8xMvDlWgV_r3JifUFOgwdkZ6ELN3WfXR7PeiVoJQ2l1smY17PHkGgC9EisjgHgeEbYID3dDCyPXUgBvVf2wt1TPo_wWXFVQgff9Vwk5QxOIG1m_5hWpKaCrUyPYC7AsMhbXWmatO1Kr6Xb7EdD6a5CfkHte4KWQs2sAc0cj6Gby6yYxj-h_dgHnZokusEAAUzrQk3MNiZ7h6DeFxC-zk9nLC-r91N9LLbljVfKVqveCLcQLoyUKu4JFaiM0SqyGXN1QjYlOuRKSVxo7xovvDC6AFUbmYF-bytH9Zaib7u778OOd5Nh6Wke8xXt3Jtqbe_H3byD0rYpgjJok9UwOBirUNA6dTKZQs0GKymcK1puaREM76BD2Qbi8dNQL8xgOPsjo563saZDz6m0zzsoIM5wC1pJhd1gSa0FqK8qAbmmGj0FYZCrNBXtb0rH_HdCH025mm58WnLKv1xgO87ud18FVNY9BKgevZ_qN72wSUdkyLfrxcKZq4T3jyEdF1z-I13RSPAOFINqMmRIFoYHplLtenaFmrtyyvVCfoyPxNN3M7g9_E89zgHdMR5OrdfdM1qmjJ8UaL41b377uCpw0YxP9L_NF6Sx-UNNODabf1J0CmXZfYl3aV_XZl2ZnEp0ac01ATi1yDrWzuc0RJ220EAy3wjxvg7L9GCtg7NqpkM01AfIhbKOcBathj88_C059zvuy8SURrXKaBliugjctBxTsvjnjNM-l7o5cic6RhKYh0CK58GjXk2Hn7YCjdr98BGsCcSrjt1G1p19wAlC634Qfv_IUZd5QZSodIpnjYYlkYhWMqjLEZY-NOOMuSmU3r7crzx3BrBzBO8ipFNKl7Zp9ryUO2MwR85dJMHunFPpqGAXyC4WWEVSb-vPnLPB3r5pq5xQGp82j-22gZKq4fX--IZw-WKZNUdlJwu0z36MAkDF4mW7suT7D731zcI3UCy7NNs2CmOqnCd0mj6zJJFFo9NxSsHCxuN4u2Lom4_esJPbgb6kNqh2KsbR5ixREqvAepwC52olJq9y5zUFUL9K1-c6E1sdd9DCs2wMYuDN4pd0NHBFwKzDhRKQDAYVD9tvZwtAdq_o-M6jXp7RBFoUK0GUxq3QumWG0g1kGLW2jzXzAwq0FAHsCwThkSXp0AG6Gs5llB9zFcwJDeW96S6A-tMl-XMlFzysMCfta8rcQNsv9_lexmu0k9C19lmEVqGIxY-qpCLIjvQ2WCV4smod5lp9LFYhAwY00x43mHJmUJxJoVHNh6VpX2bEc8dzX4pqSfIr0jHviwzC67Iewvgy-1FKEBXZg0o8tZBBVCDIQj5So8PS28bXptqVoqixfgalUaq-5krOAEjyhZTkm25mui_RmsNVRskc30m-GmTqwOHUHfqI9SLbqMr1QLdK3wGiCYP5qbPYRHx26CeXDx9pcnuRC4gdamaZNDX4KfMH4B6tH7nGVcAFrHLd3WIDpbezn2BQ21ROj6bRB2DpW4aZ2NnoJxRQpTdubeJCu5u_CsnbLEdO2C8exUQjvq3PBp6_kyUXQeZERNmRDGrAErwmCPepI0tFYcrODgGd8Y23pQMHBigjXnlPDkyWVb5jnIesTK29Z-7SoyfJ5yTr7MhP6KA8XM6-BXKwrKl52sexILu8mypZhjyFZZaN9yB_hXUGZdb4i5GU2DkZ1P-kDnzDG3zsQcGvZFFY2j5ZxYliQnZ9Vyrxsg9RC1mvQmb43vCyQEhhC_EeC3i_5bYC4mpHlf5BHVHITwGluCMtvHgUZFNovI24YB1n0ne6U4ihIn6YmeTxiiLxd_XglnWQTAPrPBBpvbkZjAAAmJy1vZBWBxx1LUxCpEl8QpnJLV73mmTspVCfvAN9S8oBmFyfvcXFfloMOghiYo2xam2d-A4hNO2dx4wptzIXMN_b30P9Koq5LdY41TjjhQZPOze1lT24x5-nAVx4p9mIYnlFpKSc30VVxSmgktv-uQ8cVZsjyJ-ltQeBvoYxGyS6vdAXn0gcI_Prb-bhmCzGCNXYVWb9fJXcfnRdT1KdLfigNNWvKX04_brIXTvW0StQZuvme4VBjHYMTjAbdPHF87wjBNp7JxoIlLFTvkchp5MhdHpTCl00yNrYDxff4ZO4bFr5K30QcSEylELEIZfiX4qFYKGPTMdOSvhpZQGG79aYjAAqWDnGw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ee22fd3b6ad689d016abf12e0e3b887d188e735d14f16ec93",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 190,
+   "total_tokens": 619,
+   "cost": 0.002758,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002758,
+    "upstream_inference_prompt_cost": 0.000858,
+    "upstream_inference_completions_cost": 0.0019
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 166,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894358-VrSavMjJreUgx3e6McL9",
+  "object": "chat.completion",
+  "created": 1790894358,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Weeknd ft. Daft Punk \u2013 \u201cStarboy,\u201d based on the predominantly dark palette and the red-toned section near the end.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Analyzing visuals in music videos**\n\nI need to guess the color scheme here: dark brown stripes intro, black in the middle, and then red at the end. Thinking about \"Starboy,\" it has these powerful visuals like a dark video with a red neon cross and a blue garage. There's that driving scene with a panther too. Then, contrasting with \"Senorita,\" which has bright outdoor segments. Overall, it seems to have this warm feel, while \"Love Me Like You Do\" leans heavily into dark tones. I need to keep it brief!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visuals in music videos**\n\nI need to guess the color scheme here: dark brown stripes intro, black in the middle, and then red at the end. Thinking about \"Starboy,\" it has these powerful visuals like a dark video with a red neon cross and a blue garage. There's that driving scene with a panther too. Then, contrasting with \"Senorita,\" which has bright outdoor segments. Overall, it seems to have this warm feel, while \"Love Me Like You Do\" leans heavily into dark tones. I need to keep it brief!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEbdWFwWB1HKhR6RGOjludQjBdujjhs-FYHLQnU06QjN39mh0nKPEQUu0ny189JzzNUWO1TpUZk73Gqxxe1AJZ7DfgAe8Mm7J0mkMHjS5WiSsz0i2eg4VMrTcev0YFb38cYC-mUIPbT49eXT59grlhnCN5muKVGnw1YU2I-VaU31MApCcNidkGouF_UBz_k9xrEVcbNusA0dztP-Km7m5Y91PUJgfYaZ9TR-8uHdHeUEuCCnwLlhcn3fXc5--ixlC74bA01fAO5OTsaaW0bUZin3XMThN5BDV5GAHhYv3Wv4Jb-9YYtW0szI1flS2RUOzuc4M7NAVBtriIxOHT3w3pBENFi3lbyMQIMm5mhXKFd_kOl1Bg-WT6lo1cNTwbcgm8ZctetQsTu7y7E_YcPMPnzTQyCgKmfLKUrKThgbQyElEn2ZFnK6bYDVzQ9jkVrFS2zr3q3g42sjOSrUiMjubD_GZ7_GTTnOZyBcwf7eClGEpNUXr9R52kmXITIe3ybrlyew96lRKoijCG4LL6trIMsYNyKPjYI1U0qa1EqD9HPl7Kh4QPMEasGV2v0NxU_rlmvaE-Fsk0PkYJo2FkvAXh7NB6ymB0jaWruuEn55gB2iXmhPRm3VUqc9qu16GzAvuwGX1gCQ7MQWliXxStYnXeWk8_JO1BQAM-4Fo0mDVUq0GDA5CoKr0z8Mm4CDCE7T96c_U8Vp83h73MtqBD0ngetkhKRUmHKLHvUQJL4hAtjySKi_L8DdY7aWl5jLexQBQM4inn3AvG45I_pd65peYLP-jJSkEcLPo3syVoOfBnjSnG5RTPWfbd4zm0FKeaf6S18v_6DtuayC1b9Q1WuDX5qOmKgPLAHZiUMHzmJU-4DOwMMjOe6JwMuGbF-qVzEStKobr13DD-8qbkxEotPaBrFs1DLfklrT4var7weSIIeV6KQMchG-rLxjbT5ya21Ez-WrV53WbvLC4X1EzfKFFUP3wS3L6j46TtwAUFACATbqkOSHdBHN7xEiTvFORZBYggKbOUiuo6d8T-RPDwBJXhIRn4mq-NctpHwxAQVBlR_G5Ip3lPqMgwQ9nqgWpxznBAa_4spZxYDKP9Dno3Ag0Ws4vN_NF4l933eaVAflm0t1m7CZeQ0OUKHONz1B8ILYLHcCvjbcaYBjH4I6t49GBjzEg4ObD3uc3xMzcGCXMCrR6EFuUUa5w669SZEHZe8A2pqb8mysLht9LB4EmKy_uCo7HPbsZ94K3X23SxDtP2ifpPl4dNlvJ5zcJ66r3mwPU9qmUssnKYDfO0X5OnLuOdZl2xlotqpaUiTJyN6-Wni_O2HublcOpR3N9iXBYFYDDdSupnOfg-qR7iOMT7xvfgcs_f8g-fExEl-NISlUnD2jWUjukDe2Nq2wGqBVzsZden-AsfFhRgSpOVugejRM9muCEjy2F-Lv7sYantAzD9A6cU7u4f-RMO3SFFAOQKWHdYiXmPog-UKYDCl351jGSfKe1ifzaQz_ib-RRxmb4Lk1x7E3f3VtswKs4Tv501w3zf_RCtgPPWRCDjYyiB-N7pnq3OMHukM1bTZoxIf9ecz0omDfrL5QalxnuZjT0SipUVLBfggjE0hzGanfL2TFMV7Z48Dfmrq84zJqKCYTvZS0eUXyAHzKKROtkszZKERNCfnOikR_K9-0rvNV36UcGVRWR2gn-QHal3dYM90yKkPJCHZZ2x_NHy275NlreR1fSHYzRCAgbp8HNvClKqZq_3GOlE40j0vKiCTcB6mlOeiOMLt3j0w0I0qpGwnTU6rH7dB85ICYHhmoNSSTm40FbW99HHxZp5b9Rvxkup2v5WCxRVhMItAAtiDTA0ve4d2krrItvGzoXAn2y-EZhtk-PgSMCS6OVLCH9bF5WEPoPCyR4lZanDKDKJtxc0ZydJlPfSIdSZiqwq3jdkvNnsLoAFicbrBiYz1RvY01XmzZvOsq1i4VborgBPp1wBJYMPYU15ZlhxTGTR7dADoMJ1Cqm_ONjzZ_ld6iRLr46XOeVklyug=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01d3e11cdb9132ba016abee11784d487d182bc9fb443eb45e3",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 483,
+   "completion_tokens": 148,
+   "total_tokens": 631,
+   "cost": 0.002446,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002446,
+    "upstream_inference_prompt_cost": 0.000966,
+    "upstream_inference_completions_cost": 0.00148
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 106,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

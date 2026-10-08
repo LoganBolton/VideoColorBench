@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894419-dS1oF2DZRt0dvcNYb1eS",
+  "object": "chat.completion",
+  "created": 1790894419,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The palette fits **Masha and the Bear \u2013 Recipe for Disaster** best, though this is a judgement from the colours rather than a certain match. The stripes are mostly warm browns and wood tones, broken up by muted forest greens. That suits an episode set largely in the Bear's wooden house and kitchen, with outdoor forest scenes in between. The light stripes at the very end could be an end card or credits. None of the other options fit as well: the CoComelon, LooLoo Kids and ChuChu TV videos would show much brighter, saturated colours. The music videos would likely be darker or more varied.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "The muted brown and green earthy tones point toward Masha and the Bear, with the bear's wooden house interior and forest greens outside fitting that palette well, so I'm leaning toward that being the answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted brown and green earthy tones point toward Masha and the Bear, with the bear's wooden house interior and forest greens outside fitting that palette well, so I'm leaning toward that being the answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSswcKEAgSGAI4AUIIdGhpbmtpbmcSDCaBjPMj+Kw+vDfx9RoMX8b56FxOVlELijEPIjBEhZ7v57tdNP3mbV1Lt/Y8kXK6KzJQ7gnbQBEw0VtuvnAsB7EkVWlkoBS2vKCcl70q0AanD4AaEUyym/eBKXlAUPUIWZpk8xBu7IPtDrLLye+jcVMlVcrBZgbcJ8ExUS2x6x8uBiL1mHWMXkV3HwnzbE+vaAICOF5LMabNQvdC4hjkKawDEM0LUpg5uiKmKdADFMTVJaqmQdwOdE7KDLzbiharIYAGSMDrgEek7+jrNkDT/E3EK7NDyInCRHOotzcAeHtXHKB8TlvofuN77id/wN1evT0hTVkri+YhaQdoQsXLoa8dXmTdJ3aOtxtB6upR8WklOogRCf8zupyD0IKShRDi2rhAeco0B7TNWm3BzKCKdU0rY2+ssyY8wbKAIfF0SBmJ3f34oN8qLkKld2846h88S83jEkrhRCPi1YxmgQB1PpEdYjZ6RJX3U6i8msA/sXZqjVudtnlQrr0x96i0EpCbbPUq2eE4sEQbJs4y+R0Jf6aSywz2+nEPn9bcKjlpmV28mm0hNtb5bwe+b6IYRJIOL0pOJ0lHwWVwsnrrsvbUKC4NMHzc5ewdsBnzyfE47pppPPPwB3idnfAuJAEj6y0jTQ98H71MmpZR+6I28kDg8aEM9nM7tiJmkYvuzyYqzb9DywhEowDRV1O0xRMx5n77esvNZnv9sPcfrTBfmP7xx6+lMx1ucNSJ99X4vl0XoQYpAJE7Zd4yUACCL82uqLrP8Bo/EI1EYlA4lzaDBnttIwGqM1sq1nKlpbRYhy5xzKYjMK4g/JakKBuG/XaPGQmeQi9Voo5aenwbma8GrtTL8+NmK7w3rK78Ypr3s4B7+RUUG5VsCEp6NNBJAFxFCjqJKXJ0HcAgeN1RPO73EHLgiKiCQmeklxvqXio6wm2DOvyJW7ri+5Cydre+2/TPjEVR+am7u/1mMQsAon4aUPc1rBH61swnOay3O9VlKR84CbTTMGhmzLEdDmkT9Zpda2okRR7UdGg582YMzvZesKRo7Ptpki82Mvf6IlxyOFf1gApo2lLZAS+uBhOOkPSnRBQPX0Ct+Gp6pQ5QARKeKwnK2+MU5oIvGQr5szZHvJyVi2ltCgJY+bIBiYPPXvm01gcCNkPpIFsvqEikNbKcZrhCFR9NaL6lpW/hl4WKWSjgXBTAeuDCkH2ByCCq6FvlY1mEEmlQfmajhGqjtRxmqxmXKRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 657,
+   "completion_tokens": 342,
+   "total_tokens": 999,
+   "cost": 0.009468,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009468,
+    "upstream_inference_prompt_cost": 0.002628,
+    "upstream_inference_completions_cost": 0.00684
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 140,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

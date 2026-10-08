@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907298-MKKaFFpjP98anSgXxBwS",
+  "object": "chat.completion",
+  "created": 1790907298,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a low-confidence guess. The image is entirely grayscale, so the film is almost certainly black-and-white. That leaves Carnival of Souls, Night of the Living Dead, House on Haunted Hill, The Last Man on Earth or The Little Shop of Horrors.\n\n- **Against Carnival of Souls and The Last Man on Earth:** both open with bright daytime scenes, but the barcode starts mid-gray.\n- **For Night of the Living Dead:**\n  - The barcode is mostly a steady mid-gray with darker stretches, which fits a film set largely inside a house at night.\n  - The brighter stripes near the very end fit its daylight morning finale.\n\nThe Little Shop of Horrors (mostly mid-gray shop interiors) and House on Haunted Hill (dark night interiors) can't be ruled out.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm thinking this must be a black-and-white film, narrowing it down among Carnival of Souls, Night of the Living Dead, House on Haunted Hill, Last Man on Earth, and Little Shop of Horrors, since Manos is in color. I'm weighing the lighting cues\u2014mid-gray tones with darker sections suggest something with heavy night scenes, so I'm comparing how each film opens to see which matches.\n\nChecking end-of-film brightness too: Night of the Living Dead wraps with a bright morning scene, while Last Man on Earth opens bright but this sequence starts mid-gray. I'm settling on Night of the Living Dead as the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking this must be a black-and-white film, narrowing it down among Carnival of Souls, Night of the Living Dead, House on Haunted Hill, Last Man on Earth, and Little Shop of Horrors, since Manos is in color. I'm weighing the lighting cues\u2014mid-gray tones with darker sections suggest something with heavy night scenes, so I'm comparing how each film opens to see which matches.\n\nChecking end-of-film brightness too: Night of the Living Dead wraps with a bright morning scene, while Last Man on Earth opens bright but this sequence starts mid-gray. I'm settling on Night of the Living Dead as the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 549,
+   "completion_tokens": 638,
+   "total_tokens": 1187,
+   "cost": 0.014956,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014956,
+    "upstream_inference_prompt_cost": 0.002196,
+    "upstream_inference_completions_cost": 0.01276
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 354,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907368-05V44jfRjaABkkhswAPj",
+  "object": "chat.completion",
+  "created": 1790907368,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess: the barcode alone doesn't clearly separate the candidates.\n\nThe palette is very dark and muted overall. There are long stretches of deep brown and amber, scattered gray sections, some lighter gray-white stretches near the end, and a black block at the close, likely the credits. That warm, sepia-brown darkness fits *The Haunting in Connecticut*, which is mostly dim house interiors. *Detachment* is the closest alternative because of its washed-out gray-brown look. I leaned toward the haunted-house film because brown tones dominate here.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of these movie barcodes - Detachment has a muted gray-brown desaturated look, while Haunting in Connecticut and I, Frankenstein lean toward darker brown and blue-gray tones respectively.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of these movie barcodes - Detachment has a muted gray-brown desaturated look, while Haunting in Connecticut and I, Frankenstein lean toward darker brown and blue-gray tones respectively.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 522,
+   "completion_tokens": 555,
+   "total_tokens": 1077,
+   "cost": 0.013188,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013188,
+    "upstream_inference_prompt_cost": 0.002088,
+    "upstream_inference_completions_cost": 0.0111
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 363,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907187-iYX94jMv3Wr0NnoFFbLT",
+  "object": "chat.completion",
+  "created": 1790907187,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Man of the Year* (2006).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing movie color themes**\n\nI'm noticing how the movie barcodes consistently showcase strong sepia tones, contrasting scenes like the opening village in yellow-grey and ending in a yellow desert. The movie \"Detachment\" introduces distinct bright white animated stripes, but many interview backgrounds feature grey tones. It seems that some movies, like \"Man of the Year,\" use vivid colors, especially blue for political debates, while others maintain a darker palette. There\u2019s a mix of brightness in outdoor and urban scenes, too.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing movie color themes**\n\nI'm noticing how the movie barcodes consistently showcase strong sepia tones, contrasting scenes like the opening village in yellow-grey and ending in a yellow desert. The movie \"Detachment\" introduces distinct bright white animated stripes, but many interview backgrounds feature grey tones. It seems that some movies, like \"Man of the Year,\" use vivid colors, especially blue for political debates, while others maintain a darker palette. There\u2019s a mix of brightness in outdoor and urban scenes, too.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNEm0R0baYtWhM73sCu8v15Fb67PbSilS0s2KB4jupWv3X64_s-JvTL7c4PRbmZVftz7L7_hrIFdVZsDBJ2q0CF0WrCXJkHdFyzfk5UUgz5mDyVHcIJ80nFh_3i2ngnrOwmv6Q1PNTvR67JjCHxFGYIqKOr-Hcj6jUaL9xK9rgGaIuRP4x-xvZvjyVRV6-PEWLliXGhnIdePYV5nmghkVrefQiQefJ4rJ2NMYBWIwTlGmOSySk8Q-vdrtnNPHRuT1pj40DmOr2JdFZ6Z61Y0dkO6kvT1XFd4NPsZSQaDX1f7g7Er19WrVfAPTqoqpNJ93zBoLSup8IZiVzjNYzgHbafvLANvskFGOg_oBgW6NmQt_iYFm0wGWtbXsHmDTZ7ek8PpSB06__nHM0Fox0Gt4bBpodQULURXvifp3Vpm2PlUGxwmnfybt-RVzsnAp6kPBDPG7nW5gXiDVJro0vkAQs_dwedQ5hKZupj5DC4UlbQP2hQwr3DcBSGsAkGlJgCmELdqh9b_GkvWDxyqiilZiAXQKm491rykVr6-Hpenjk8fwz2KN_iAFQLyYJZRIoFDnfD39RRnUpQckPeF-W4Gl2qaeBku2oFaq28VgjauStCjL0a2c38yWMU5r6DPiq6_MmjAiOzP4cU-tw4e8vzyivnDG-AIOINankVWJ6bU62DGRoKbEoLxHjsX_eGm7dy0V1uWtn2S_wC5xV4wI3-KPD1kkzCI3b2KOGJAOzAycIaFNaVZyjNfpXc_pVOrBncA9Z-P6OzzDG66GjwQYqdgK56Jg5KG8YWLZrEDfgsFmPlxDrXV2KsM9nEuaRmxo2o-li-OJi7Ub3A9FuETwbEjzVWCVpo8B6R-1utijF_FNKnyX2YWorDXleSKiEH4a6LXRdSTdwzRhzmjHO01pc-lJ1nfz8-xx8cMEfUpsWRc2ZAZH-WW-P_8j6-0rLzzr3Bfm03SwLMq9GyevC8j-Xqt33-9yyPR9992ShoROvv5bqO_ouw_9l8MOY1rGniR4aDiUhKJYJgDT8JetQf85aOZFQhWZFQcA6BtWNg4U9jHwv3khVOxzCqCqvQp44fhRxjyZiixXkHInDWDDzP3tSEp_yv8JCXs5KzNOK6rF1OxnBk5EHuKAJtNOvaPnfLyeGwquo7qZ6b3pdyo_vXePu2pWj5SzBph2FE_Ta_uGztRl4SHfGFEYFd468uIz_jeeQdmXuVrjTr1SXJWAywHFZJPEZIZ6vSXyYCI9QM9lKNNPwjYdI6dzsZB5WqBVn8dH46xUFnM0_HIURsSr8ZIL2TgAMSvKTKH4BFwcXArdBNjPxCiWCFPSONpSKBp4wFlYsGAQUFEEo4KPTi929dZXAZAuE9yr-mYURdivrzThsm_zPQv41QvJW9y5-4bcc8fKC4e1iovDC06FAcQwA-fYcMXPqFGC58Ik6X8iU9a9CyMf3m5vl-_yo8iqB1kwWhI8tSVTs6hfpboqI54tT-Cd8SYKSOcPM1wVlqahwzmr-2DQqG-Ryo8BHnZgGcdw0dlUROlbSggciSsqS-EuIlxflhK_sUyTc2e_cllpPlih4iXao95UNUPGqL7WgioxNncDwx4UHns3JjpQR9foRfpyrlGQ9qUp4hCoEBlrkIbgJNP0nRcCLaVZb41JcCiaBnQSeOejDlO9oj-49Kc34W-vXtIwSYI6Uh1K7OjYSIFbq5qpDKlOPzAGVyPmvpVTkk5bfQDiWRz1x5E4wghcnnJCA6MlFrMCib80tLLswoL75nW6nzLeX7PqXvLqOrWNcoTanQL3PFApkPRP03MkvmbQArmXhUPXHjBDFVKdKLolXEhAobenOSREW0fHcLJRwVgmSmTsumqypSDZhMIzpIRiG3O5gVZEYKud526KqPCjhZfa3LWBUA85vhMCQo2rZH27yD0ZijwwAK71sjmP-2hqSVS9won8GAP32vU7bTFQcaMmsRTiOP-8qW6Xz2KgDIB-b5yPStzpUdAzWo6dyDf-xLKKZbL7mzig0BhqPg4YHWw2n_c4psdNuhPiVWHZLFNn3VHQ8UbFvqqXFnw596UXD0mV9_IaREZFQcq9-D6aqtFlrVFDSnDEcYMinzmHToS2ABvYXyaK8M0ErOUiCvu_CNBfy0cgfPjCpNaH1v_2Gx5c16EVgUdYnMPyT_94IqJA3-FS9l8jFvK7cyYGMjlbJGu7o7K7LhVL4YERkZKTelQDpUoJlxWOwUwWhnSxX_Ei42iYz_RwxG4T-iTlbkEZrlUkxl7kZ_uE21hGJXnf3AiFr2zHgxgO5-XraLe6EO53XKUTqSX3G4eqCRO_9w7iharItJfnL-CXVur8yQJXJhKLJYPYvm3x0nNRL3Px0ts76RsnUKZlNt-8xWe8r7vxle1EWJXqS6_kR8uZQXdhsDkYNSlyLW7xL4UWlWKnyhHlF7nLYx4OnCkKKf4hLDM3giV943x5H9jW24luaUltJL5IkVPSh-1jabBkVFjxXrbZjBRmKLZfE-immiy0Yf0yNYl1NyEe_-uW78rHEDiddZRJDX_kby4S8NlDvuxNSf67ygt5qFT0FiTqWqk5Gfy5gPn1OZ_LfwmWt6phAXId_-YduQXl8V4POlSz9dFnoIST0vkxIr-_0juHX1zugx5qvIPN9yd3DvY4_DcXKh_k97V1chFXh64N1tQJSV-ZX_LPtihQQ9Sp1KJXO5mUGkH6uhZRShKFWbcvRdWJxvMDzfVZFFvW1JSaYl_YH-L5PTnZCH8wA2THAT0-T84fFmOycHl-xZysZjR5ZErobC7L1dkeL8MarESh5e_f5bjcpcTUdLQZEtxPmNeRpp25akREdecAR-2hnLvLaHnZAmxsopE_CLTZK_VNeZs8w6EdIsBL_GQ_A9SnnJk5rFQvTD9b9Lm4v7-K61SOI-V0DFeO4YUsIBK4WIIJtp9l_zY_TaVQKFyhtEhSjXG-bfxif_xxhuhWB0Lt8Ms3_QMg7HRngOSv4auEArUHknt9XFe1dO8NT9wZTix2IBLO_MMwp01VQxLqqLVWM-7v0jfPg9ZzSNftEEU77-bX2HnEg23NKbPzaQ-irs5YAn7_x8GC8qNumGFmR1nPA9da9ku7I1Htpgf1WpBNZ9bod51omrQXdTzivPRT89alLKHVt2JeeJcKkJrFnjF6vb7zjEDX8eiB4_kqk0iFs7P6W8EvG1L8syR5GlCquI25sjwL9HWxlS3vUKpShLvFeukM435_6IpuRCzRXgKMKYXqoRxMkvhumW1ZQ7LrP9UnWnzuF8jHkUduTtUQVaaSNwU26_YaAwsCGdgvUN8xNC62XtbQ8Z92W62q4wyfFFLJqBVECYPk3IMlXkYYSym4JfGWxV-tR4lDYH2y-hLEuqEI2i7TY1cJFt3hsmqr3XCENl6VMHMWSUdvYK0H0TxF0ePFJbRXgBtqK4W1D3_dRXQLNqVTh83fseNN6RiOYh7QesZSsGrIt0Ifd0bPGhUKII8yAHaegUs6luSxaEZATqeJIimh10rGbvA1mHOixuEGb1SAi489neDjQXxC4JdxTt5u4dIEgGsBK1Yx0vVdSPuLKyZV7upaXqLJSJki2K0GmGgIWGICBeDK5L2-LHmwB1bQZMxqYwyvHoYoE7i0PfXcXY9-MU3y4z3Mq-EfVWf_HkIru_zp3VhmWwj7egypqW5CFP7_erPW0VIXoN5Ztl8l4HIyJqo7X9ayD8E85dVgHaNSo_XIZGtagzg7xAMWJCZzxz99CUOOXiSmrUHmGWD8V1P0yUVqvheX_f0T60TqhNaJqUnb-lS7MqaZ7R6jVOHzW0vYT2ahnrAEfCdaHLP6FnIX89Ma-GQephSba_RofhluIZmtLS9HT7ebvzjC91GZ7VR3_JfDK_--AxkTiJjEIsNSFccevkQSkOWL1Vqyw6ebgbwApk0_x1SNKmwCTFM0p3lZ9lqGQYmfQfcUhv1MWz1bO_htqIF8K01ds6-cUvLuLKb_62yBeVHVGwxph1dk0x2uCtmQ_Ssqyu7jWAGew-6GdujR9htFmmQ2l5BESddxg_lCbnpoBFEM_1MJJ5O_B4BB0JJWU-UJ1sl-U=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0bc935101afbc7b9016abf1337eea887d1a2651e1839913fb0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 423,
+   "total_tokens": 857,
+   "cost": 0.005098,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005098,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00423
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 400,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

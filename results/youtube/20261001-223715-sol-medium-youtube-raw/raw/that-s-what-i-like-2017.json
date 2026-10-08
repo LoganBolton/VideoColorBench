@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894331-9mWvnFcFPUDj7B1ID0yO",
+  "object": "chat.completion",
+  "created": 1790894331,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - \u201cThat's What I Like\u201d (2017).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEBdLsN4vPfcHEEhUrGFQybiGt0RgflVNwCRsQ5AZzoCpdErijzSB6gdjIaexzVbd0D0sxZGGs6imof130MTrrPJpDVly_WPGNRC2bR2Qo__Veqq7i8xfC1Yy9NZdBJaDl4s0c4oVdBeVckKkJVhJN4C1NrmGmcX1d1_gDtEWQ81aZEW94L4ZPnPjAarS1chgUkE7RDQTMZkr1Xxi7hXMgUBPcgFFWVq_-XRdsYYTWsdjnFydmP1sFfr5YTjtXY3-nXHeruozKGXaNQfDHMZk7WBIwl0RRe3Ba4l9R7qKxDVIuNZgsKhzTq5X7IkGFTFzKFJjR_nYb_fuXxTtfzwUKKA_IcRBGysg7DpiBJohXLnsY2-kQOBdAoZWcJ80R-zCcpgNBrQJjjflXjyAZnHUDir2hviRQTFHGZlc-82DZV_1nuREdwV4hVtKJ5ngIqLvhng0-uj1AxTBhCdl8CQ69mg8gW537E_KafCf6WcGovViNVeojT8OmjgfKvCFrVP2K1dY5GboDm_cwRE6ydyobUJfQ3C2COT2ICDIcD3-wBlUNtDhCrHsKVDKqPqUHveMLgCA3WeYrS6NllM2ePg1stPbs9HgEp3Jw5BVfaFLTzrYiAhm9eKabP2dRjF-VH7kopYS2c3sPg4_IbhIVz4bJLBV6oKG3RT5RqYdMcCJFUDcL5I7USX-4iuyOvskS9yvPPtHMsY__gWnM0Ke8mxw714rhWI3gWb7QQHPjwNkxnqJ8_FcrTyMNkH2e7Ne1Utw0IuRqja6GMwjbBjWmY_h_jSX_XAQcXsO4Hkvfum0NDStYvJFe9btaun7x4WncJ02w9sy73Zjhl5wDkp-G-xnwnzxUSXArVHu7tgfVHx5O98g3iIQc1tMRGnxQq2kGtKzUw7lI2NnNSNHa2dCbYyIOYGeDpTPYoiRs4SfVauv9_-i9zleTFezi_ksf3aAGWF0aMUS2BaBxH0vY1N8vAD6Do3dCczbhath231ayl6d90buWtnasp8fqJbU55MEqRgVstBo10-tUlq2QLjP-7tKXqMLi6717Pf8ZxPtOQ_Aes7ULCNitymaHI-ykCNn3M3nuGB1cZKRyHk-Fku3_nz7GtHargTac2IWFSnl_9f1qDyRduwiFqK1RRPGH88RMSmVh06gE7AZnoCkGGdJbC3Lok1bxqCV21SW8t3BiJZbb--pbuNiSOTPlxgrd_jJfd44GjiafsCf1-k6FU-v7hQx6dwgQJd8La8W3Sqn9rX-3dGiEpL_5rrMi70o7ydluPdPHo90Gq8-Zf9F7_2cNGRgKHrsdNdfYHutoMPcRqRDzFon94_2_MPfZJuXnMxpUVHhej7hDN-PffCQRk-B0UF3PWudt_SA4lpkW4j8D8eA91083LBqu_9ybBpZ39f-3qtc0FhD2DTfVx2hqEAp59OXP6ZGbpNOsgUM3BX8iLU3lR2-HaBwHC8Xi4wQyWoZN_hY4EcoQ9brlGVcONtf78dDuqECo_grKHkiFfpm_VSu1MRx05ce3iR-SzHdZiWwpZBNrsAWLDelUXqtWC9H2GCrCwFgImPkVQLgTY0CHmCnFVCSSMcUUty1ONKPWwIyH0ElWMo2OjzF3jPg6Asc78V3Q7DNlut7OPcdk1Xmsf_P7ejnylUFFE60J9avLEMTfz14SkNji4igXQM1EFyQo0Vxvg6IUrbd7qyskUZdZmfjZlm-71PGahcMkoH39jHLtveWMCoGOb0nxx2yLqgNe7rzh5BiuhsrUa3xvaHXgNAMpdBHMpnqUd7ZIZA0hfH_0eIN_PXktR7wNNHPhPgCUM2tzshp-63o-vFRxGPAaIy_jr3Vr7wUCUSEmvgGrt1nF2NRGbJeDk7oLjs1DA3bq2Z5SZzitxDxhfDPRPas5FOP9tcfOkILvqaG7z-zGs-nyRC6u4ZtfJFXhCXYDQGW2pTkL2Fb0xRfVpLMdipvbQLsbnFOStIrKk_YJw0vMQGQEC8RSMij_u6FdbpKl0Fo2itNWMSRQSeDWz2MU-v_U19qrjQIvZjmUPds5o0ACV1UwkgnIUvPyiEPO6vru4JP4hqPd-7cDO5BiKDJPysH3yUvANz77MQud8XKtSfWjy3TswtPcbPFSproY2t3d0ZEhThhmFbRfbySy3OmIqnaVEEju-lDbnq1tcAPy_oeLLyx6rNE4BHuc2cxScgz4RHvRtPpg-4gINn0BfPKeYj51fjxt-em9R_-ej1NnKbB-4ce0iYi2NAddXQxYqB6VCG0e1SWYKacq38oTMjnCbANWhNCRasPIvfrvJUgLrm_TLtxGMvHpKJc-buZdSzcuvChJGAGgZAymx8MHEZfAbt2h8-zawauz-G8cJnCU-ksxYOrzOxxsY.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d0b7a451a20f600016abee0fca35c87d193c0a3bd8eaee776",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 475,
+   "completion_tokens": 171,
+   "total_tokens": 646,
+   "cost": 0.00266,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00266,
+    "upstream_inference_prompt_cost": 0.00095,
+    "upstream_inference_completions_cost": 0.00171
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 145,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

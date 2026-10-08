@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955198-c0a06Gpx7mDbm38D1ns4",
+  "object": "chat.completion",
+  "created": 1790955198,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Romeo Santos - Propuesta Indecente (2013), matching the consistently dark, sepia-toned palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv87FmMcc5OFQhplt11Sym63s4wm0qmER4ITKPcrxMmFoFLV6Zcu6_oTclmBPoCMd6kFiErVFfQnuZunH5P57ZlOjd1-gn_76wUvweEwQ9NG-q2edYitsIrsFQOsSe0iXFvLFyuoGzMLHBPtGSFx0wuPGWmdcTIVbFGX0dYKvOd0UBcrHl8qcKpylXZT6AF54Cm3yQDwrkDY5VYMSoxCqDFqqzL26ykoT8IogJ2JeO31xKJWesMqoHsyeOk6D6HsE9nssQIwr-b-9JJT7A1sD0FYcQnP3egcRo2ZfnL_GB8gf91PKcbxDgW_AEFykITl5InHd5rdrrB7qio5TieVdsWyyoCxi_gjP8UDMLV_L9_ZQusRDtO4nXVP10ByyOETCCWljkQRm9pP34xv9khUMv2FWZ5g-VwSpc1nVWMxBt68SUmBOZqERt1GdkfXz7Pkkkh6IN8cKNjfbJD3rphgjJ-sBItpHybDzjVduUxJCTN0wJZQFxPeaE3Vx5Eby7hjRL0Mp90wV3qwThhNE3wEc7jUTPrIcgcjXgugksjUHujdZx5i3xeyuhCCYaaRpmhSPW1v9jvihkltkbRv4a50icSNh1ZX2szwBIp_ZVdBuUH-mP5bJ6yf3U88ah7qPiNtoUO3M579N2BpykZlA-tcEvQ0hldw9HtIhUOi9tTXLh9QRVAFG6Ek4qS61_QHV-95f_cLIMewwgD7s_AWRV5hNP9kAcP3zMtp-APnpqYuR7hqVex6YCzXJdh3CZzR4Hzj2UgYsmO3-PSbnno8gCx0YHostJe5OiWceJQ1edXGDiEhN-EpFSGiSS6tTZUWmFJdYQEseEtNhXMjqwx5ei6abY6A3TrKDvf5SJS6MfO8KW3g62fqdoiqTMDuu9LDqNG3NIbbvQb2LQ0Xel5vmn8f04hhiI7qwDugMStHZz111Fgs7giwTOoiNKFZOq3OzJgB9Mdayj7Dv5w7sHNlMQ2_xLcxmdbWUlCxSZKCe5mgDuEIOTLmiRK_-rXss6_SqilUcEh9rRyxqFhDn6A9Y8vwirAsEP6Dl8qYXnV8lLXc-ntKzqf7mmysiwYVUxXhvWLH85rhuKYP2Tm8bpdCwT67O5X-0iLVWCP_B_LYIXKEHekpSV1eb6B7dQ4e6EoWRoJ-BP6E-V1CGO2VxMOckEEPleLT1WQ4M0j0rZpc_pHNKHeTqjETD8fGr8Y9CTJVvgklOdneSRd8NgMoQxncE8ouWL7r52cCepYH577ylz4hpyASYlxG9ukqifQrQxZAcY3JIA904Ixl90FSNmjnRBdabIIp7s3mVzch66feX9FacNch8y0W8g9yaUeqI4DTsH7wpd4m7SNwceWEqVSWae5RVboqTSS1xUTpKviZT-T4rIksImxAXBFksutwUMFtmddzK6qKwDbQD9UccrWXer5Yy3h8nVxjU4wOx_KpfHDmv9AX02_x2gK7uqYRzSMCAEBP9Ojvvt3DnnpW0upVNvirRugNc8fMAiXkR51J0ebRgWb952fSgE59iQsFHk0d3zKJlm_ZMF1CtbW50oSIAqzjQEPqjhomXFRHPEJX9SCtFhMj_9WBS2tIT8wfCXbde5cLIW3G_JX-bxZDSo9ZM9iNlg5Er9ZdQrYzVUZieDDLzLBZuwZXRK9kxtTYqFHK3JmKjioyNI1E5ziLNWhd2rhq7p30onO8gnZONtEPH_53TrRPNUDKyDeWnJwog_lq4VSlt4-YzXkVZ6hT01Ah9q96Nv8pLURWYdLF2TvHm20wESqiyCinYagKso-75WS3DnwczCnrNAYAbJia2q6R1fpRLzFI39MMpRBXzz2fzbe2SG_Pj9OHtIvkWeD9AGviUF_E978mU5BjMkLEXYb2ScgyxNrqCk0B4GELR2dZyyY4xV_z-DfLkC1iBH5r2pd8_8ld9Xic4U0mchreDd5Go6JjNt4NWssqiTudO2Rv9sK84eFbdCt9EIExv_mvDKazYHG9L3_ezmJ987jWCdtB_GBVbpK_RNmFh8KbaXCzomPuxjXzaHtKWIBvJJ_P7c5Ow6IN9mmCgeWd-DVfe_SdiKjMxSQACXAxbsa-L0UE5NEAGD2eS8oYQA9GOv5OHwnYX69__W5ir5_ROu_ZblOAJVUyyItjTuuvZwSX32LLhsph2WOrFOJqEfdrsS9f7kSFAr4HQ0qy1ZmeLdWAQklpIqas1Y4mwz9d4dVmzE0e1TLIdF3kmNjr4yqoxzTqJr04nxS8moPck4K03xxTBhiUFSueKPgeFcN_w9rEHDwQyZuWPVtwFlqjDk4zoX6BcWK8ojH3mFMUualoKUOBhDwDnZTkkOtkm9OpWdmX9LUPpHuBq2z-WJTKoDi-pmKPLVX8UCZRsA7sWXPcPaxEbI5LSG31sCd7AwUbXSxWdgzJ6kKX3nkuRZq4=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e079e96cc270e1b016abfcec04c6087d1a91060fa99c5c279",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 491,
+   "completion_tokens": 209,
+   "total_tokens": 700,
+   "cost": 0.01536,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01536,
+    "upstream_inference_prompt_cost": 0.00491,
+    "upstream_inference_completions_cost": 0.01045
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 173,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

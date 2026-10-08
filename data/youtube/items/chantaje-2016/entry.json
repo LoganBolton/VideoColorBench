@@ -1,0 +1,21 @@
+{
+  "slug": "chantaje-2016",
+  "title": "Chantaje",
+  "artist": "Shakira ft. Maluma",
+  "year": 2016,
+  "label": "Shakira ft. Maluma - Chantaje (2016)",
+  "hex": "#443022",
+  "rgb": [
+    68,
+    48,
+    34
+  ],
+  "frames_sampled": 199,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "6Mgqbai3fKo",
+    "youtube_title": "Shakira - Chantaje (Official Video) ft. Maluma",
+    "channel": "Shakira",
+    "via": "yt-dlp"
+  }
+}

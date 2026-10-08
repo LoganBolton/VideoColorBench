@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907158-jUtJ1cI8wzw8hfYN2i89",
+  "object": "chat.completion",
+  "created": 1790907158,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **H. Chopper (2000)**.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMio1gGhkfZoQM4jCpg29kiiYZBz0kUj8E7HeIzZLb8n84hlrNn89cRspzWjOhmiwbL4wtbPxghP4tc97r-XzAMo7csEky3VsJXG-SezVJX2YUqkJ9blqEd6Rpfi905x1_cK-ci1heNn9Ta90DIxNVUGcMdlwdG_pGDLgE4nLtXOc_GePDBhFLH5sStyHHKm_1CeX_43vkNzX4JoytLGXo0Z6B2jO93tcIem2adoO8_w0jQtmY9SdK187lvNP_ZqYO1SeRaACVPeJHb_uguJxmv4R04_jj_grqS72BgaWUTvV3D0bXtt_9nxP74VnbvYQX3NDCUDBDS0K0gXRVws2FlI9PKIPwNUxBykwOXc-C7BffqHrqN35vCoPiSoIZMRCm-5zs84zBBByX8AF3wSHtXP3tgBbnXTEYgWrSHgG0TGjJEFZ2BtCNKgAiEBzHli1LJliqiOXI-A4lSOPw0bfTVqKzQFVaW0x5WUb4Qco0byxkCh1FfeWIK5UYpufHDIGo79uTGs55D-6Ktqy0iAt7p2O5p50SYwIfE62RD0hpkg8Imwrpl_V8xrWum05x7ZNv3qjitOqIt-wKB9hir8QU39nXS5sncYnVFFiajIhu4zxPcP-8GH5UXWBbX3s0eRqklGejxOPyo09ASJmdqE739rJm9a_3BN4rIiffiSHJs1sSzsHf7FmqvgkBv-1Thg-s2Pya6PN30NamGqSpEPoiDQedos5huAUvpeon6q-vG1ghpwvjZgVi7yYy6gRNKSSdQWao27FwCcu6ErltoRDyiwLHUnCk3EhSiVZdKvKCsYe0DSDqFUH-kT-t9f1sJyk5kc3VvdiEKzGKwohfO43CPlaowce26GaJaIL00jTYIjMUZiKNDN3ZWZI_MaO8yVewivdp1aFxks4XitVbu14-bs-YqABW8m9D8QJw-MoSw7amEcEb8NZXmNS8VYbRbnEQlKZ7uRQirrrHR8iDgQnUbeSovJpXEgZQxv35ia5J_-3Hrl4itNSQGiAW6NuoIO3gK5cu5T0nXdutqAXhxyh0__eFXE9r7Rwyd-6JYjWQI-jqvYgcC-7x4AU93aT45WuC4wplJ_A-HJixXFtxGj9QKylZ8Yt5T5MhKbPl-9IKE7sxqhDy2utEkbcTjRz4jPo3C3rNJQiUyuNYC8ztbYuzyX0RdqVGoqfofKmAhjHGSXDAAH9ksaSZPZRtDTFTzjOrfnCnE_p-fF2jAQNbU4MX1Vby0CxVraIADJOzy7GXNMdF275i_qcImgJY3YDPoY6CMdQA3fSJI4PwVcF9OoIt729nAh57w-iG65WsCl5mmghEXZstcBQCPPk9xmHReDaIZ0-FUvZM3LPxElY0ccq_CeUZlDU-un7bkq6jTXx2HDDV7QI3nhqnLG4J0aJ56VCfyDaYftjIvXEtIVGC0wTbmrZZ1TWmaRc1YggGt2LdqUr0R-Uy7akct_mZ7KLGX3XA7ihRNl4K6IKkTEg845RyjArSllcNzInbK2_iXiWY8q6vParAGwu-C6U-3yu1lIHQ8ZXj1GJK5batqQJg3BuvHtFhFZDbUR6Nasclb15i4ZI4iT2RHVEMMHFRz7Val4xsSGKH7-ZnMyMHSHONR4mImxgUP6_tuIR2otXrhIikqfEO3bkH53UinWzlivgS3qLFBOxhgwQrsI8izIdfZhkxX4CuB3KSVTYkgVxG3XSU6OtbZY44tD7liaIoGvBw35rU185VwB-MNF2gM76TDzJmst5NROHglCjVVBSrWhVCE1ccGw31N10u2V5dFGBmmtZtFx2kaBheDFoNSTxTHNLNPnkJvcG71ZRI43-hqzadnvRh0VhAA36oUSs0KgWohzgABJlytT7ifx6nCL3Jr4bQTwWbS3zkn1W3NID-Tq1d8F9MJ4ubz25Hf-jm_HmJXTQE39a88jOHaGYNe85iWQMUs1OFbsEfu5MGp-vX2qqVk3OQa0mX2pnwHLkIYC14XIoIhyU5AaK8ZAr5YXkcmxP21W4rx73aEH2cVvcuajjdF7KxfRv2pK--C2l04oO_NEwlax-wqUveQnIOd2Wq8c1fSzEIcvFIqW75BmUHmziSIixVAbEpBCQWsILzRpT5TTWta3lDBoBXuasgnSQp2aEz8LNCOugsc-8EqMICm6p_5rnk111UY0crcV2pAI39gbjY0UkG219RhD9b8spAM8RmcyI7Um71RRYN4IprKwapHwL2Tx25SyFvIRcy2v2_ier-Mleh-WJsqhPFbRJnGJ2MV5H0U2PIMVvGZ7sg3r3Or0KL-rV_QP47FNoC44DF2MbKWAa3xQWcIdMdcSfPKuDZAD_ngn3h14ri3gLEXs0ugY9kbtjwWMTJFVGMOkAhGt4k7HrGpYywdcBLr8rnQ251mS15N_6PBKLKcTOlbviZhM0oNwyvo2UUCM9JZcFmx6atUkCZ4zWQL-Zry6ztlAJzZqVp8s8ELAXr1FNud6gifelhSE-3ti-N4YnnCGyfCLIAq01NUC-FGd9GclZW5Q9LtXuXT41lPVggaLEL31ZK-u8p45qY65_yfMe3V1YJZJzmQ9UghqsvL4qg---xE9GvL-ni2mO1cgvtm4K02uCNFTK0iRd3U5L2BVM03ulQy2xaE.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0238e67d1ee216d4016abf131b142087d1b7f21f24653066b2",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 433,
+   "completion_tokens": 239,
+   "total_tokens": 672,
+   "cost": 0.003256,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003256,
+    "upstream_inference_prompt_cost": 0.000866,
+    "upstream_inference_completions_cost": 0.00239
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 216,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

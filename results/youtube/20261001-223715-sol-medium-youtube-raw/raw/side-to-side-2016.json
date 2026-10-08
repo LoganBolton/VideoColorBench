@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894311-lUyjFKPYKHCKHtjLQ9iz",
+  "object": "chat.completion",
+  "created": 1790894311,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is The Weeknd ft. Daft Punk \u2014 \u201cStarboy\u201d (2016), based on the consistently dark blue palette.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI need to infer the visuals from \"Starboy.\" The dark blue strip feels strong, with the video featuring a mix of vivid neon greens and violets. There's also a shift to brighter colors like gold and emerald greens. I notice darker shades, transitioning from black to dark blue in the first half, then moving to brighter blues. The combination creates a unique flow that matches the mood of the song. It all fits together in an intriguing way!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI need to infer the visuals from \"Starboy.\" The dark blue strip feels strong, with the video featuring a mix of vivid neon greens and violets. There's also a shift to brighter colors like gold and emerald greens. I notice darker shades, transitioning from black to dark blue in the first half, then moving to brighter blues. The combination creates a unique flow that matches the mood of the song. It all fits together in an intriguing way!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDtMJhDa-Lh7eCkkFcFID_jEg-4J2B3ClvoL_wHT8lWfHrFSp5HE0MJQ04G-v61yw6uOANmQ5hHneHgcHdQo_bgjTzhLebf3gFqFUuj4NarTMNVXHi47dBJYDlAqg6oTa1m64atVUcMdbjVQtALvZsRLyygNp8YBsPTmYvdu0P7tn_cB7ksvJrbKEK2IlSnEhUWsb55iE6jZzUz055gco9ooV49ELLtLrg_sMNjgwMHDd0D2CAJJ4u2u0fXChEalnE4yBvLNgwzJeqlq__CUiIckai4_0D8fEbZELWFiZ1TXEjehr6Oaho8-UlxrdFXYWyMDQUZBVs379EP7yZeyXJRpgZhY-gUq_QuvaIf6t1PinanvaWtbtTnbw112Uw56hjhxLe1kw4RtWU8NTfb5kwyNEu3ancqkxosBx1pT-SJN436T2G0CAOX984Gd8u2KDxW7EBRNrbVHZ4yoJHqy1GLvJUH1e7KblHared6Os_1UkZ2wIIHy9g9mGsF64ba1Sps_u205wa58QJVNMpK_hSL7gsZlhO4KZBQ914jwBrNVUUns08Qgt7-zJKs20hFLFALUDV2vxM4q9GeLiSF6ExehSjq6Ai7VE7bFTuCWuozX3y-NSo0HVjixFa3HvQdghyMYn-4JpEvtKZC1iB_2WW2TAsqsVNrXMgpXV9MQVMDGDhOTYMPzNmcl5g0MFWEcF5x_IpzP8gRtW-yBP1fpR25ASNL3KLWtquDjQyZdtwPL8euTg5UJpGfm4YpEy0lNAhcvWKwd9t7SEShvdMSdYMJ-qY7tm-bMEXm0bwjZf_M2op1BXvSkJ2g8_ds2KBd-Atm4AjglfXkCrtmpNwxjeHhMYnjhkFhJD56hF4oixo6I1l_28ExCvIaohTE2BRqwNkAix5UFAnWixFX1zoKuqoZ2PW0_c2720ry6eoBJox9KIjgCBN0nbVOyuSMku9GJwclcahiP4H9UPCokz1Q9M4l2hSBK0_7__sbp4eWzHot4HrLa8U5RBEmkDIRINEnScPYuilODt78p-kTKxx6wLNWkg2lCxRWWz7dd9b-LuX2kIxzVdfV8CBTCSXcs3lLHtK07SAo0VWyjWrYasFBVuVDNXRcPDGIfbur2RkHeeCIsfzJMttSAUZ82L77kmgPdoj-DL1-iMCdLwQ0mAlWrs2IW3v6_4pQt9vG3mMnBogcGinzwR2l0mvPBqNKMFUSWRqblanBHIIS3ASQjb34yYf8lwBjw9gGWA_WxC90KMzevLdep6C5kbS3SEu9J3Xg4Xwy-kJLglHULat7CjwjspRrEluM7f4N0pJLoM4tRynaXyuX_zVfMHkKD-x4aoJoXqOo5TygKhZRlI7GKGVcYgStC36nEoFrd-KwtTNxFJ-aSiqioW3U-E0keuXxkKbFoq-DSUof-6Fe39Y5Ia879A0XFGOMYunQHYiXcQGx9o2Ns-D95nreS67F5AhLhShxkY0c3IG75ag5pn2vM8a7_UCzesE6vzgGFqH7nuPbxyKjBqKA4gZo0plvQGZRbQJwczkhoH6iybtX6pzWj_N_tFMu4OymAC-NZqb2vghtUEzktao3-NOwOm1E8Fo_l9eR5_DC6IMa9gFVAqDYNR5S3rPRH1ekgq3hwMuQlsqp-NdA942hPHoKNup6_wBwT-RBPTOS41W5_TtNyShGuzsef4oF_P_Un5i8XvraRib_qqIaDSkJ92GxLprDfWORvPaGAXPNwkc4N6mndoKyK_-z513JWSPZYGl0IjR4RVwIgl7tyyuYEPTK6Mey28ECD8idF60FcTJIPjglP83KGG20tdoWQ2ozHiJOauAHyFg1_GgxfxiB93ChIopCnfuMnf6vhww7khiO8jfJYub3xvD55X43FCZ1yfFMWL-PtVHW81MUwADfqvhvzZjq1znGKonrT5VKiugglm4JFSxFenG0zZ_CuQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05ce762efa5b8ccc016abee0e9435887d19b690f8b389a04d8",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 499,
+   "completion_tokens": 135,
+   "total_tokens": 634,
+   "cost": 0.002348,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002348,
+    "upstream_inference_prompt_cost": 0.000998,
+    "upstream_inference_completions_cost": 0.00135
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 97,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

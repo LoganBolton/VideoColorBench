@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954891-fxR6R42yBrpAb4Ey0Zun",
+  "object": "chat.completion",
+  "created": 1790954891,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing film color themes**\n\nI need to guess the barcode colors, aiming for dark shades like grungy brown, olive, and black, avoiding anything bright. Dark Star is likely a very dark film, with black space and brown interiors. Existenz shows muted greens and browns, while Prospect has some lighter tones. The barcode appears mostly black, maybe hinting at a nighttime warehouse setting. Exploring Dark Star\u2019s colors, it transitions through phases of blue-gray to black and back. The last part of both Existenz and Prospect seems to reflect darker elements.**Evaluating visual tones**\n\nI\u2019m noticing that Automata has bright gray daylight while its final desert scene is bright, definitely not dark. The host's last cavern is pretty dark but contrasts with the earlier bright desert. The concept of a midnight sun is confusing since it\u2019s not a night scene at all! I recall bright hospitals and dark domestic environments before sleep. Dark Star appears visually very dark overall, with muted colors reminiscent of the 70s. Choosing C seems like the way to go!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film color themes**\n\nI need to guess the barcode colors, aiming for dark shades like grungy brown, olive, and black, avoiding anything bright. Dark Star is likely a very dark film, with black space and brown interiors. Existenz shows muted greens and browns, while Prospect has some lighter tones. The barcode appears mostly black, maybe hinting at a nighttime warehouse setting. Exploring Dark Star\u2019s colors, it transitions through phases of blue-gray to black and back. The last part of both Existenz and Prospect seems to reflect darker elements.**Evaluating visual tones**\n\nI\u2019m noticing that Automata has bright gray daylight while its final desert scene is bright, definitely not dark. The host's last cavern is pretty dark but contrasts with the earlier bright desert. The concept of a midnight sun is confusing since it\u2019s not a night scene at all! I recall bright hospitals and dark domestic environments before sleep. Dark Star appears visually very dark overall, with muted colors reminiscent of the 70s. Choosing C seems like the way to go!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv82ZMIwPe_0UalyCPFmF36xTGQm9LUBAm5JWw4IAgXDkca7LhPKaObN6Bi4t-nyIqzqUhruSBsCNXJ2TOQCBnxENL0OxsyPdtuksHg1IwYFZiNWuCg9DKj5OG4R5L2Lb_1bc3kQqm0jWM7Q8Zo9ayVYvm_9Ct-0_mk0JdIhcGJkOT3x041N-943p4o-s1uKXz_dXVaplGPJ7QDMUSlMks3tCRxUgHecqs_dsObPk-dYqsdk6ExI5KNt-Xe9dJ8P7XqGwYCoMaMOFp6UvVX0omuElj70Fd2WZDW4frTb1iWJ649E44fBDrRKLqm8AuZpjtd31bfgL4yUbYAWA_DIgm41yaRa8iXPbmqGf9ruGA2NYV27g0BMT560rZ4vhoM29UvcEb3KAkZQKsa8CvKbCcY2ALGyKSjKh2VzAM3NcFrYGzUTWiwT6zi1sYorLEtzfbBhnRAN5ddcPzm5Zg4-h_kgVSmMvBlqhjk2FRZR3SwQqY3u2EQgUmZaukGAO-9BYtjQnxdlQRIIir0vTwMFk7x0zDrr-tFLHvgOTAlTdvpb_H9cXtuYbMJeQd0MN4kvb2GtW7g3JufOpcy2kJrX4zApN-WBMkCFUWAJR8XiHk_LdJBEIgzJmsbTiDdUOqMQI7x6sEM4Ed9_gPEylTBNr2PrJc69wgMdS1-XDYGEUOCunumsvPib2FPVq49BAvaGWnXrE2orIeuUhEPxNjApIxd8ZugpggkTSx6QpahpnL-UQa6qFZY4PAdqcmnlsngaqFiOOu3VUpxO_6iAneL2HR4LPxDmWIjg1wac-tIrYE4lme4hGoKf1DKH7yKlSw6c_sePxANGsWq-H3gMblIl4rFn7kcb3rOV9aXPAhaXo4tteBmL4i5UqgF9iaE1fDFxWMMdLZ9O3BTGuBvUxmvLlG1SRhZ3J69Xf-1XZ4QE5eUBqOcviChM0gwnIQTX5gul1dO5Yn0IrPz5Ip3r6f0B-hYsKtgaGxifCDukEkmbkcAwYacT2PoxF0H8m5dpk5yUtFGyogfNMIXYaR0K4oD9blizCKyLKoVNAAYaY1BE7ku7R01J2EdDfl2axnlIA6cvXiuVTjTayjunLAIp6qocGBvVJxRW941E_hJ1N0O45RxKtnw5VtSalA-zFeFkYimEbxIld109tNc0i2tQas-BHfPUj15d77C-3q4QqkuxNnkkIqWMCJ8z3hCkB01kC5131q0xsI2K5OMTopBVsNhOJ7o_tRE0hs4racA9b10RJ2NJFAxco2a8DARapYk9C0E_XlEN2JLZPhlZrZ1zZ0t49cGtfYU2UEFykzIXiHai2WfUXXJwFvxbP5ZsMFRE4TYS2dWzT-iV6t5KgWEyd1SNXSYYRQCdoESdi9XhxNzsvLkf1njfd3Ns3kSiPCaAHnfM62JSPyJcd7aUCmH-oYgKiOUhe9z1AGw7X1f0VySKVTmheUUjTLltOx-mVttXoXL_E4kNTBRPsgmICgpJICiM0ouLt6rW8vHzvLNQZAWoO4-rJeO3X3lxYqomgBX9-Rnubv2xTS69kgWd4KpEIHVLvkzByFdxzJVCob2YqcpejP_E3diGqG25wiWf78Cp8Vtlj0Nv_6R-U-CLF7e_ZQ0p1wVsxGRWfPVMrccyDEgzQLPCqLLHW-VCNGUPJ4HpfPgsMZUjU7jVnaTmeq-oBLg5yPQtw_XQXKwpGwRFueaavCFvQi_NmoYW2tXReUh0xPqD_f4k_j05uUOvhJjDyjl59ux_j1dEOi55EzdLBlrlVqPSJ8eJTQSHw_8N7cOSp0FpwahS6rnnbkc33JKFOPdcixBLYENzMr6gTkL0prdZ14US6U9rzhTAFv0VOsqZSF_KQ0_HNMzwF2r761kLOGdq_S9syAUOzvpQNVOUnPrrpV6ECRuyEg83l35uIXenWD8VLoKo6VP9rKngYwCC2jgCepufuETohPjcbpqUZW0JiTDemDqMFcxY7nptxHyK9ex6iY_-J1DFTJ4EecsVlC-0gvY1lHuMzGL4SGD_nFwfL6Qrb2_EILkH844KIZxEyIOTnnAxMyCc6BhmDl2nTGoLtUe0OymdcLudwp95Cna6JWdaYsbL4Ix0a1pMKqvdUB2Vk-SFwsHy677a2iDyYbG1amD6dJ8tiHjgYMblVn8xkU4EyGys_UHqLCwrdklgbd4IOTMCBrB1glFFnv403SQkHDwoXyyOk-JX4E_aSh9JmvS8iiiJELstcn4KnoJY2zy5QlsYXgphMqYNBLV16BOzytR_kSijVhGLomRp1iSEgUhEI6ZbxuE-mX4k97wui8Z7ZwTQt7StIvoGiwybeiuyQtDFVS88ZuqrNQFAcLYTIpC0QAbuyjJzCSKozrc3SSpSa8sD7CboWnOjhYxvCPF8VHRD6zZq4vcpu0NN9-7qdBAkc1kZ6bx0BTyqLRk-dFA_aqlKYOmCPIPQmz7cDgywdT7HRDD59iIb5MI1NvWbvnIUzt6tWCyw_063YPkcqrX72uUuyNVDBEVt2gSHoAulD0weoH3dSHHP4oxgiDM3KNEW0WalncB2wK0ZgQjAQs1cyyMP66fo6PYqWyijfZ7MRuDWyArU7XCzEvzEFKcHNtTP-LzyjqqYN-CfpqSznl-R_nkz_7WK-RNNx9jwh1HgL8MYkRigEGEy8M2dB0Rr5GWQWZ-6ho5CFjSMtqeqO0xFykv4UJDz19NVa8ND3cjPy2eX1bO6J6Yc2zzG92Ypek-LSKXVv4m5g0l0C9a0K-gaYyVQWNHl82QBLf9KAV8Zw7vAb0ZdELuawiygwCObbs2_v8Bzgx-n3-VE_-sen7qkkYv0z0GjXPTZObW9s-ABjMnL1r7PzI2PNr7PYlrd_A1mhv2XWfOixj_hDyFkWjIh3ZyQscCE21S0t4DtOHHfKEu1s7RMun66QP0mD7lidUsnB56RumS0T5GT5XbfzplLnNSZNnAwXbSjbPslhALV7i8UbBJHM0u2kAYWdMEt7bxpDa5w5o1ZXYSfopvn9XG44hDKn8UOafdQdD5dvbCMZBLNghMEJjOXGJoRZhoKorlvtemafOEteL9uHrblWiroxpKXAbUr3vFhdNizHPEEZdiG9wX36b30FYeNzckLkdKhRbzhTenNV6FcChoUSqqTc6Ci3D9DiTTJvALRXF5vGggvKmuiiG0dG5N0ut7hneLuLGwbxsGPFgbIMKmcMNOJHrx855_dza7_sufUIDsPRpKqHBD9xBOprwD3PqErWjGqbxcyH59-W1e_2amgDtDYYeg3O6VIlt7tgjfB1MkBM8xEpPD7kt44vTs0nfcgvMZNxpPM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c8d43778bcf384a016abfcd8e01f487d19eb837a82ca05e77",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 423,
+   "completion_tokens": 313,
+   "total_tokens": 736,
+   "cost": 0.01988,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01988,
+    "upstream_inference_prompt_cost": 0.00423,
+    "upstream_inference_completions_cost": 0.01565
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 304,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

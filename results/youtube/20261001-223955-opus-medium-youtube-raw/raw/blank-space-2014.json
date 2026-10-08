@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894432-iH1CjkxRJHzCBTnbLarY",
+  "object": "chat.completion",
+  "created": 1790894432,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colour palette. The barcode is almost entirely muted, desaturated grays, with faint olive, brown and sepia tints throughout, and it ends on light gray stripes before going to black.\n\n- **Ruled out:** Adele's \"Someone Like You\" and John Legend's \"All of Me\" are both pure black-and-white videos. They would give neutral gray stripes with no colour tint at all.\n- **Best fit:** \"Rolling in the Deep\" is a dim, dusty, desaturated video with warm, faintly sepia tones. That matches the subtle olive and brown hues here.\n- **Unlikely:** The other options are much more colourful videos and would show brighter, more varied stripes.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm noticing a color pattern across these music videos \u2014 mostly desaturated, black-and-white or grayish palettes with occasional warm sepia or brownish tints, like in Rolling in the Deep's dusty room scenes versus the stark monochrome of Someone Like You and All of Me.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noticing a color pattern across these music videos \u2014 mostly desaturated, black-and-white or grayish palettes with occasional warm sepia or brownish tints, like in Rolling in the Deep's dusty room scenes versus the stark monochrome of Someone Like You and All of Me.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS8gkKEAgSGAI4AUIIdGhpbmtpbmcSDIIh1oZGs9jHI9mffhoM+VCISJU9mmd4WQ18IjCdYKwZdRG2cE9qESJCssltgP9QDmdAjPCd7mryfi8eXlkM5D8xa9/WKAyGUKVW6AgqjwmFN3rFnbN6mJQn6a+QqlyATj/ieNkB//zeenJ4M7hkZy4oBU/5LKHmawyJ220c0w68UpXqqL6yrobEulgZlJeHcmUnRJsI7KY7PqaUIJ/AqyhCc1sBfzVTp03Lob5fp4Hkn6g/+SXIqfknxhQ1IHqu+zCGzCpzCJuZysMxiJCQKzMk7BuUtKEnHLSbGw6uvwraxlUZzy7sYIU3Mp+7LU/JDpdYWgnCghft8N2ARRIb80hBr8G2IHfO3gAnWKeBkQTjVW0h6dJdG0wRZUWKh8Goh1S9RgGd0kJNHhAFrl5y7EpTJ0xlxgh0fC4lF77wh+6UzvbqQYnW78nvAlxOJZuU4znQu+m0l4tEF7C61hMFAhA42To8GTPQBMMq4Vx0beB2yZYWU9a48lMzVv1VtPnC7eiVcDnqd+9Q4qVvnZs4960f13RrZZFWhABpU3dHNfiRSV2XxeLgoUe2q9pyjtesLHCSKlMvihu+D9i9jVCUPO1HbxrXk5Pq+/aQhSTea1ZZf+AwjNYpuNw5NdES3j6L6aItE/RxuGf2woGqKay8ryQTp3AP81O4jaqBEmxAycL54vPlA/oD4h0/g9FXm4BgPZ46okW8d16vH4ooI2CQsvqty5tVOLwrca0kZHmALSgkPkEnRxbp3u8tBU0JEF6TUYzCtlaWGYbGtPLYJgR9Lg2q0i4kUb6Vmcrg95I6oNiU5H5Q2rlN4f54J5hd5zcx+nAMKGDoqTwPxgHrtIWJO7Ey6iOf32K3f0fT2dF0pmIH8r6BMAdDdtps1jemzrQPUpmhJlTjfO6+u/xCIcXwTfVU7fCbIj3q9R7dq2Mzy4N6P7XbJI8RUDFZFmGF7EfTt6OfJ/2UY0j6yHRwLBFZyVvk68uTYUU2MLD8d7nobU/ssChWx2kJGlChRulwaRoVG2APPI4CcsIVtAuXFaixL4XQD1Q+ac2Lda6ziCLM2Zc2CmQ4kTKKY1kZRIp9is76/GuOwproOl8aBrpK0WUTRfwD5m0XmJT/Bxfx3cB4GaEc3+Gzi7SEjmLDKw7ZD+rJci2eeIE64NH1uMR4fT4c9vK2C+cdFqU8iis5T/9SdhJ9OTJ+LhNFY669PyEscNQipwuGK3g321aC8KseuSRjv5qMscNyqO7lfk7h6B/iCE7dDe+w3ewTKz5zz4JLnJIVBcUlFOl15w+e6XSiKH572tbCcmAcNuJNklUXxD+h1ShrlTZ2dJsIpg9nvTmk1bLfCa3rbWIjvQauLvHFhBdpFwXIrvcr9lNHHW9q2cbD2UP+tZkM5EwUS0l7HDEqS+w+IbLAeytnhF9i0X82h/IZIKVnby7FKvlZ52e6ElI1NtEf/CqluLZPS9k/YtQJm0FKImGaB8wYwvCB/dDd0iZRAOS4HomtQ+C+kPuLRh1QgfR/t+2lggzDVdJQEVoP8d3Z96Gvsdq4iThrePR+UUYzqVXLb/51n4l0ciGVPD2tTQlDucKrDF5EHb+BJamoFRIoyWtoUELqcZXdCUkfnn58S/jDn8SnXlsMFcgeiA8X0oFMiqAXiUmguGoj4coFnL0YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 589,
+   "completion_tokens": 486,
+   "total_tokens": 1075,
+   "cost": 0.012076,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012076,
+    "upstream_inference_prompt_cost": 0.002356,
+    "upstream_inference_completions_cost": 0.00972
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 247,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

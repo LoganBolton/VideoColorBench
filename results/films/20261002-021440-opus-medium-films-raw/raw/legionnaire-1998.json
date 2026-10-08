@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907319-mdI824mr73QBQbeP6lvs",
+  "object": "chat.completion",
+  "created": 1790907319,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The colour progression points to **Legionnaire (1998)**, though this is a best guess from the stripe colours alone.\n\n- **First half:** The stripes are dark, muted greenish-greys. That fits the opening section set in 1920s Marseille, with its boxing and gangster scenes.\n- **Second half:** The stripes shift to warm golden and tan tones. That fits the move to Foreign Legion training and then the North African desert.\n\n**Jane Got a Gun** is the main alternative, since a Western would also show earthy browns. However, it would likely look more uniformly brown throughout, not split into a cool urban half and a sunlit desert half.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm thinking the earthy browns and golds with a shift from dark greenish-gray to tan fits Legionnaire's arc\u2014starting in Marseille, then moving into Foreign Legion desert training\u2014better than Jane Got a Gun's more uniform brownish night tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking the earthy browns and golds with a shift from dark greenish-gray to tan fits Legionnaire's arc\u2014starting in Marseille, then moving into Foreign Legion desert training\u2014better than Jane Got a Gun's more uniform brownish night tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrggKEAgSGAI4AUIIdGhpbmtpbmcSDMhpNL3nNlGdzLcZfBoMP2BbM/IxzmaKuibeIjDGSEmhrfKWe9AG67gs9waTP1zYTin25690fOLdnWOni5JyksvZ4JN/inyGpfyQTBYqywdIguOSQ5Lw9qR26P6Gl16Kd2fxijZRFhAG3Nj79RngCYofRLBTbISEdX9XQBMbnGky004emZI6ex8V5sqg8T6ENRqwYOtBhFeyHi0oT/qlxSzNc4JyCqu1G1IDcn6JXHejV2c178D0fKlJMVvFqMSKhtVVU7d05+KmzrE711XrLlwBsYABDzwTJlu9+6mSRUv+n7ecolFRHP1+d0onbyX8aMcF1LjXvKJ13gcwOAFa2flVBSfi61rIco9gRoHbKQudTY1k9iF+23/ggvQjDYPM2NDhFTOGATX1OeG1RwFaCcQs19ENu3vUBrhD3QniM+G5S4S3aHzvwuRtgHVvnTqcgssC6eNEDSA7QvpuFB6cV+aMtYUP+4peegeBGfTwQDZ5Lp5+2Lp8Giyo+ifvc3cQQC//v1L2IdrnecJknzOxNdlq6ZZEWcE8VbW/9gz9KpTfc1eIihIZKLyvUY9F5Lmjput4oyjekEYIb+C28S5t8q4D+98uPv62l8WnvvJsqS2GazYJ/A8NHGCBjeTdseH7ruOPxsWZxcFyi0KlLEz/wHIBGmxPEii6iT0Z3XiWa7/RormKKO+gFXNDLEzf3/arnqNUIE1PWPJ6PIMm+8zr0z735bffixTm0YErerJaTLsoirVa7C0n08DGh6c5Y5SGDjKgFaMOQRAt2lqKoDD1fr2P7VP5DjcSZcLk66GlC2uuzkP0bpQrKaOkH3oU8cqQtJvIvQmVjgZliBF5gFXhPAaPecJ3PPSLfToFzgKxb1mHyotY5UkEBhdx6P2MMBQig6P/ru4EMl53q1CWbGzPKIjFTMpPRfggDumEpVNkRc3e7rB8wbWIftaTfLvzd/qeOA5mYSbyjZnuA0bLJ8nX38b2H4AHMJm3JkD7UNjw9i96FGguPSKgZMfxY6gyyJpaM+j4wT4YzbI4MHAHTcJcgALiDtZXLXRRsDnI6jXoEwMqVnMWg3pWIRu/sJy759Tr2Prm5MqRXF2e9ajKyRuhxlnIvZEp1L072hGa5omwvje+aKflwooJfd0u8wmsyrmXlUaodjylRj7zQK+4hY0uTJ46wLEU2g+tU1M/6mpDfh6ywPhNsWNSiTvZqLRogzZNaXvddfT7TxSL29Lkr0IUIHNim5XqmLjKyvZeRbEBM5YN3Buphmsl236SRdIJqGqdIuF7EotUyO9kKoLN0GQ59kii531R2kzoLBFTFkidROqjAsRTUcWuJ5hHf+MzxmELvRmfCYzzt+qASLz6nQ58CiEmyvK/6pzeKr9RRmrBd+Sfv8ufdobn7NlqWhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 520,
+   "completion_tokens": 404,
+   "total_tokens": 924,
+   "cost": 0.01016,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01016,
+    "upstream_inference_prompt_cost": 0.00208,
+    "upstream_inference_completions_cost": 0.00808
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 188,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

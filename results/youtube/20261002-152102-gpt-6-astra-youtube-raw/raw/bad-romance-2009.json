@@ -1,0 +1,79 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-pS3hVgzEzj5Uz2H2lozN",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Exploring visual palettes**\n\nI'm trying to guess a visual temporal palette, which is mainly gray, blue, taupe, and black, ending with pink and gray. I want to find a balance between warmer and darker tones, making sure the atmosphere isn't too pale. There\u2019s an interesting mix of colors I've noted, like rich golden tones contrasting with dark grays. I'm visualizing sequences \u2014 starting dark and earthy, transitioning through cool and light grays before hitting lighter shades. I'm also thinking about some transitions that feel a bit like \"Bad Romance.\"**Analyzing visual elements**\n\nI'm breaking down the visuals of \"Bad Romance.\" It starts with gray shots and white dancers at 0:30, while later introducing gold and red outfits. There\u2019s a possible dark color scheme and muted tones towards the end. The video begins with silhouettes and evolves to brighter moments, like dancing in white powder against a pale blue wall. I'm also considering segments, with themes of warm blacks transitioning to gray blues. The ending presents a spotlight in a dark room, encapsulating a feeling of grayness.**Examining visual sequences**\n\nI'm analyzing \"Love Me\" which starts in a dark studio and shifts to a gray forest, then blue city scenes, finishing in a dark ballroom. The attention shifts to a gray-blue club with warm lights, leading to pink-lit scenes. I can imagine a pink-saturated finale. I'm mapping \"Bad Romance\" too: the opening has sunglasses and white pods, but that transition is interesting since the white doesn\u2019t start until later on. Noting inconsistencies in color intensity during various sequences is key to understanding the visuals.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring visual palettes**\n\nI'm trying to guess a visual temporal palette, which is mainly gray, blue, taupe, and black, ending with pink and gray. I want to find a balance between warmer and darker tones, making sure the atmosphere isn't too pale. There\u2019s an interesting mix of colors I've noted, like rich golden tones contrasting with dark grays. I'm visualizing sequences \u2014 starting dark and earthy, transitioning through cool and light grays before hitting lighter shades. I'm also thinking about some transitions that feel a bit like \"Bad Romance.\"**Analyzing visual elements**\n\nI'm breaking down the visuals of \"Bad Romance.\" It starts with gray shots and white dancers at 0:30, while later introducing gold and red outfits. There\u2019s a possible dark color scheme and muted tones towards the end. The video begins with silhouettes and evolves to brighter moments, like dancing in white powder against a pale blue wall. I'm also considering segments, with themes of warm blacks transitioning to gray blues. The ending presents a spotlight in a dark room, encapsulating a feeling of grayness.**Examining visual sequences**\n\nI'm analyzing \"Love Me\" which starts in a dark studio and shifts to a gray forest, then blue city scenes, finishing in a dark ballroom. The attention shifts to a gray-blue club with warm lights, leading to pink-lit scenes. I can imagine a pink-saturated finale. I'm mapping \"Bad Romance\" too: the opening has sunglasses and white pods, but that transition is interesting since the white doesn\u2019t start until later on. Noting inconsistencies in color intensity during various sequences is key to understanding the visuals.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vz2_LrNrLShTbwsZyr6ywbkUOYAGH8gRu6_d7vJBOG0XMPNeDlKDbHUq7M_n7vaoNB1DGAHhAvJj787Qlif3xAndBBNgs54GoRJSy6yw35agNtSuwBq-Iv7LsgXustjZIr2cYEmZBMpHOUN1W7fqdpjBVJ2KHk5-cy_IAXYKuc_s0peeUYivM9L_xh0-4L5wcCtZfWrYcnIDdk0khKHjWUj_w0VMSgRAx5PLxZo32B7Au7q5azIboUpZn74JozF5xIzXA3O-UopQWbN2aedPQicSc_TAYzMirYj3iGhw0XA4n8CdiZURadjj0nx3cxXXf5oT16aCVTWwG1nC-jl2cqOFtVyTUBSBJe-FMQvpgVtni_9KndzCucWl00lrqN5doGDla0enaAbbeSHOwIoAqUAyfp7qBL2vf3d0yQmOxtgCCNgyepUVlK6Eir3yluQuLD4cjXVgIm10NPvZbAzkZArMWImvH56dSQt6aA6Qv0O3DuJoGik3F8m1HPp71RFAkU15WvLHAdkgZSYRVbQmclI_OOYM3muDlaT5c22UsID9q-rKntdUo5M1BjeO67i09RBj5sLB8EcvnsvyD4H3bSPMkip58Xso-HK9fhmccGGWi0gfN472h6HJ2UOqGf7ajDjw7iftkezABmsEcD1IzOvrtlBhr3JblOHfJCN7iOhEiWJl9XP7LJ8ut8fhazfc4OTv4jkZBco2QknjMV0hAQTp075Vt0Q_gxIELyq8b-CXmoj_cTMmOtAsH1zNjLMfR0aAlwQ4zdC_JAVJz_YkJ4Xu6etU__P7lDRjthI0q_3S1zXF467cvUDFR9LqjuDSd3EFXdTI4k0YZmnoJvsFIHIeRJMLRB9VXkImPG8_1avGitA-6RWz6hgiqv7-x9M8pORWQt_LrXLIrx01pluDISaIVB1tyd2UmqRVd-x-xhGY1FNJ-a-o8g4V3PXeyDOzR8dqQeiGZj_o9B6gOYxomPVmIEVwJarxAV1Iv1aUhay2acDZaHkh7WQ80KVkaP6AVnVIuK0MPdMBy8RjOzxJt1W1ri5-TXwFDvtfR2kwY9Y0W_fzXJQYBq6o3XSqAdakRfR2ccpbFt3eAdJC8Fm_QWgrHmQ7MBhoZ3WKeHpUINEmn_v6Mff5offvx9cPhR6v92Cy7MD_gMZn905RUZReEv52rIX0PUUET1IoWtN5BXx-su7wzun7omTF0lh86d99oXALqEo0z27YDn-hKQq4DetfTY8ExfU_Sbwchke35cOxqh7L3m4XWuguv8gn0Hj0m_CGN2uUGGCxr9gvRpg9nYDED9lpngV5Emwk4Pg9PE5bttX3s4k0wI_4IyAfH8dFH9Dbh7kO7lvX06AD_EpuxLaL__Pqi69-ztdV9c3jH06A6UATa0rdLP6cpnhddjxxkJxj60lgWrADce-nuoWEPGMP5orO7gdgL2ZsjvvjLcc4SGkgvbOxlxwkdQhpLHWFo8QNOLZUOckQSowXbXWuxwX4c34TNqSdk-Xdelngh0bKKRlCBASrlcsPSZuv2_-Sh294IIijeFbZSTd9-r6cczAl9Vbie9fWwOFEFBRwiIbtr2J0tE_VLv6q7k7yjwY8tOUGsFcACa0MEYLtxyioGCitL2zMAI4I7hY0aLbmwy3-ATniVQPZ5droyWLF63GdwpgvfDpp6z7di2NRwadvaiWv9QjPyT8T8Lf_bg_30hGxH-LiCiFukfX_DJDVYbr3Vg6zCJNxJGgldtlXUdWEn3IPNEWW0peVESwChf7CTF8kBnrk2KTEobDy8I5-p1rm04tflZVf2l5__gSugc2rfOZaP3JQp2899HMbNVa6OTYPEaykKpkvPceGWrP0etd4aampUQXQhm6WWZ2EA78v7qAfp7P4Apee3N-Odt0dJ8BRgoKW2NbFRMiKN42atHcTU_QKw3qB8Of9y8lY1lY1VzXcyVj9S7VEmesBKsndgd_J_6Q33WC0-UV67EF3rQItKvQ-KRASOIlSFCXzI_1TZrhLoANNVbmLuMsrucf1taKGM7a06ybk3OkAGnI_tWyzE2CVZO8QQzobjyQ3wVM9U_A-fhfRAOmvQjNVIdVly-FGhLRr1PNlpMiyoOseeGPj8xJrhX5zPsc2Rt9WbdTxu8ILiwn7zn14OZAkXADQ64hubbOG5-TP7RKneO899PfE1sd-4soBguUyH70q2e31O7mxtSsqeESgLGIda8-MKt1J4QW88m5fhzDRmynRSAN_JdptdYwk3XGFm1W2-zOHHEHMP_MrQTAJ9FcnYeC7WaEbkdaG-TWVCmScVu3n_svVYD6K3nt2uyBRvOZlD_TQ6rcmJ9e5SNXSFv_egnS3vymENe8oN_g-nKct--bfQuEPr0mxQiEfGxndejvF79wnDZkXbILXGK97kJozglRFswRYPbgF5Mxg9pEwW1NXWLw_TP5RL7FLR2oLw6cy-kphjc241jLJS6Ou41pg4eMBWkXCBarZqMxY10DJd45uoORWENAxPXo3RU1liueBbcAPEO1sV5Bt1KAXmOiQLuwW6jq0udixv4wCOdnhuzQMBEP--3lDgAadioASC712YNq1iPC9SgZnjjXvHuvg9c211zP0qQ-LTVeUpXnW3TroGPDz6o9KNpf1ooRnZqjPmQtx7391_0wFDNH_g2xFi-EDrQ8bo5kk9TE0GZrMrwpNfFkbwQiZQWOvciVTOZwGqXnSX95U1YHc5e9WcRU4m_zCrE-Pi_Q2alTEMvSru2cYMBDktZ_5-mjP7Lq3OxbyHCAO1sDWzIjtReONunCKfm9S0r2f6noylfp-suMF8m_1wPPv02YedTW67r0x-aMkdhT6hihjXjphKVLTSP13AyPfV-wWi9R2mXntXIOm3pcVFbKznwJ-Q0HPojfnqm7Qq34RdP8YmwXAZ5KtOl7xRF_dDsSGkBfXvUzmUNVX5ymgU8U7R2SoH8QPiBpd696vFM3FojEFTR5DcXmT29aUMu6PAd_4F8eHrZOGmncXl71IbfIsKPcsAjPFDQ1Z5JjXhBV1_bbBjzde6oLv2jr-rpY6TNDbbiFmdUqvwAhMJwr50W56evwmPVxTp0JKfewmhVFQyY4ZW2jhsQ24NAfTTjba45KvBVlWEoYD5W7e5b5kffcmz0m3145yEHhGxrlWT1H70UoM1Qra5vK195cgW5d2ydwseU6Yz5lL0yD8SIgUmZIGwMvg8WD4vmrv1RYFZcPr9rHzG64QsydaX8iz-KSwZIhcZ8ybVCguA4TNRSrExKbiopN9hk13L9RrNohCiLYzQrA7nLbJskEpvXft2dYu3ypIcBqoJe9MWBEj0O5M8uF7MISzL6WaanFKfWqZn6msgqnMHe6TVLj0XU0gi6oboS5Le6CmOU3W8bK4jRnbCATIBHzA8NedDdoSqtxEt-kx_f-rz3vO2q2f8t5p8UzRvImQTnNSGBZnSRM4sAZC0QiqlOZEnip8YS7bJ-8PU5RuReFm9Fpz2j2yHBcY-8rjbZTPlFAoMU_gK7I2IvSoTNdGsRRhQW36lLXBd9btpZR_kDSa68DAXMpsra_Yb4PUZIqQox3LZx3MxcMOvLE-gNlSds0Q_OLSQzKVAKkR6ILSltusrwRP1lJQZw1_NxkUX8zNB5qpgHqD7jnWrYaqegYFbjS7f4ZdVAbNC1SyNtTQZdvpSTqZcHBNUDdgwnfZ3S5b8rhKquKfkUPt_LYXWjCJwa30NtGrv99-pE6v0ute5qRVQrpU_K9Sbj7PwwW1oHYvRQC1qIWewTw5C1lBtilVHfswQHlVL1IW0Yp9oVyQ0-sr0wG__npJ0BOrgUEzs5Os_PNXglLT2vekBVW7w2I7A-bL1LPZ_wVgR6Y-kGcNNGxYhMUpKYl9XaDqfTJ4cPCqf0tHu6h2P-nDtOhnjISmH_C-wRT54Inn8FsFEaqtOC2dX8CJjm-Q_j0Mos60RLit7tn9qA7tL0U06yQ_pDkCYr2F2Y8pWe3946xtYnGs-lrzs8oy5sxM4-jpy3MJJIcWq0wKZeUjCrfUXLUBuYtCdlTnHJfnKwtUR8D2JdRdAFNL6IMWH0PRKyDwODjGrlsybh1bcREA2t27MO8pYGaQI4O_sN3WcN0Gjfz-asqOmPTGrwFMuA7XEJz4SXk1H1610iInza3xw-uqi0OqpMTin-MMkP0zx3SirplW9iDfARntlni6kWwTyGMuxKQO-cQ7sckr6-eydkdWl8T3poqs9c8bFHvJsKo-z8tdR3vfduNVsaxVgu5pEkBKqtv3Ng8Qnn9OUrGdZZ9G-XTllScjlPKSbqkdx-dh-KwoAiFwfHmiomEW3Eme2iK5kNl9O13MN0wDiIIKUzAPiixhtNHPxac1e_S20DiBOZaJ-69UtqN4e2IzXxBmVPbSgAU8SCoFWsY9l8pLRsDs2U6QwpKzEk753Vl_E7DgSb3P1fk1ZwxoAuriEW2qgx15JFlw7OmvtP_ajFaldp7tPts09MdjSMz-MPEKS4XeXk9tT4XzK4II42fHJFeboWueRX8qb97I9XnMz_pkGwmDX-q-r_MLeGU4BiC8yyU7Ds2kEwo0t7Bg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09b6fcb099a6d06c016abfcbdff1b887d19476161c5d6ac01a",
+       "index": 1
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8v2EJpB9Kjq0HVm5Yq-II6vcISHS95m5qhgjvnIFfdRDeD6mP1bPdpxoBTINkmhttmNdej2QCSMOoPdRywQl-sJvC1ivDr5r2P6XCr0W7Q8uVzQfLuERQxQSIxkvTkGlKM8VdyT6hcJTxsXjON64USsDGIlOqxJyaqDLgQQfst88EKh121iUQq1XEQhhct1TrydU6lrXeEgHLULqV5JiMXjWt97iVNFEWk3GegSOEyYCiufxE2cZW_qeCb5oXCw-Pj1gulQVTYA0WrApUymBSH2oRx32-Ai1Dn4p9LomFEHjGs6SSFt0eLMd1hjTTOXZGJckOufSphCwSKi1vNdEC_8nI2EeXg42KtmRf3HxLKQ86ReUZgJIZ-5KwYlG-fP66fe1vMw96X4FzAisGCz2AWaZAIAf7UFeUX4FMrRJ9R2YVXz39ml3kAEQVFEwSySL-g_a8-k_VdNyjOBzCbxx5z3JoShrOdFGoAnOYz7GuUpcZ8ANsMBDrj86h2URlOeIaQs7RfSStydsxVih5v3qAu4HjE84Yl3Ng0kTVgfsJ-cdeJEhDUrk70hredYmpGYUGbSaFnkq8J0AOXZQ7aXPN-CiBCgIjeUHgBn4mBKWCcfYLKLHB6E0UI0bxK6xI6BxvsVxX3NY8IfkspCjKDFQmb1P7O15_eJpCvci6OGeIYHNyW1JO85EAolL90iHIsbR0I2cMMtV1E4kkWMhV1k_28cLr9ZUF34uFOeP3f1tSavRKWEHTAFwcHamhedTDTPMcJRV3KVuBizR7Ti1f1I0rhfI0EePL9bF1p-CeYtyfAzVagsPz15DL1Mh6tghyEnIZoxJnb9xalsoFwd1VsySPqxfloHXvOmOYKcppVrhJREGiL2iWZ0uPbEMuQ_0zyEI8GG2Sai4s5ZQHh19h3FdJeiByu9IGkDfAVzj-Q73UUHNR7N3tfMAs4SSIpQBNFsaNBW6T1hp64co_6-WLwgXmG_-DLomIQ0iDVzF9juGaps3Ov7RD3pWljku2_0vTBT-l-HBS7Lo4RxRhqpgBYBFjNfKWy69YCXWxjeUjpVzVd7Oxy7IchvbXAyQkRJSG7nh7XDzxA9u98fLR8r4SHQKi_vJMb1gpS17TRSCcGUarGR_DEauhUBkpkDaCDQxfcb3LX2YeH23yDHMBj5HEKQsov-Jp9B4FckFRlkl2LCfrO9pzlrdBfS8Jj0HG8IOh3s4_25JUd3KgCmht2P60OwXzwNHGJHYwwXeRwengMa7OiGrpWcH5fACYGAVzv5q8M2MZ7zkaZjEswH5Dr4firisXwkTf0dvcXM0f0vc-X4U9c6nKqQl50X8hCX83eMHPm7GzSaWcPtnS2BLjNTGk06CtVsc3lldJcndm45SeXNYhdSssJa3LulXScFjfnmMv07Gv4dLB3mlMGBJFLnqgPa4zbJIcVVCIeBvjqPf7sE5zIzH2VTv2vYZcIcG75xDyjEyWFMPZVWT-m-7Z3qr7ftbGrui6m7tMeerbTiJgbzTrDzXj9sNdShOXrJZruHoYmlDbPxmljkJGxjVCBWMXYfIizc1THJAxbYsevpVQPQkTXPdPpCavT6EIiork--ZrHya0YXNFZf22HnGh_Ydg7DW3qv9oA29rutUD0fIEdejqssE6iQywFO_aR1F3cqBfIS4uTBXF2PNpwEh5OSBMFMmMFBBR8yKZAvqAuAa0itdQb5rfcmyJklM-Iuq8oa6FgI1YzMLg7HtbdZk2rfh8xn4xsw1NTfPzcv9gBcG6CTrUOK0Vbc33J6gqcgq8ffAuCdGEL6QScZ8IxlkVAasVm3CNtwfycSS40bvy4NsV9AXHtEHa8gFxdQRdP8mfl0HbUzCU6P5AIARdb4njahip1khf5IfqfdKz7enEuYdVwcort_48wGZZ9syMZMUpA9zG1zsbAtZihXp-Ip2o9kNsUg9tZAVFMbNgaZkT01MM-4USUb4E1f02llTA9IqEIlLEWu1heU.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09b6fcb099a6d06c016abfcbf3e35c87d1bfbe9702892df9d5",
+       "index": 2
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 468,
+   "completion_tokens": 681,
+   "total_tokens": 1149,
+   "cost": 0.03873,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03873,
+    "upstream_inference_prompt_cost": 0.00468,
+    "upstream_inference_completions_cost": 0.03405
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 672,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

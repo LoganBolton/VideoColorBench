@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907328-8fMP6UrrNN1pSWF9TwHV",
+  "object": "chat.completion",
+  "created": 1790907328,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette rather than a certain identification. The barcode is dominated by muted, desaturated greens, browns, teals and grays, with few bright or saturated stretches. That fits the gritty, naturalistic, handheld look of Half Nelson more than the brighter comedies or romances on the list.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "The muted, grainy desaturated palette with teal and brown tones points toward Half Nelson's visual style rather than Leaves of Grass's greener look or Candy's warmer-to-dark tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted, grainy desaturated palette with teal and brown tones points toward Half Nelson's visual style rather than Leaves of Grass's greener look or Candy's warmer-to-dark tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStQYKEAgSGAI4AUIIdGhpbmtpbmcSDOBe4OETpOta6oIguRoMJLdkN7xZp/41oDsCIjA9PidRw/vbapOgfrpgXpdRiW/ZexjluyjErvrEJOZainX6Fs34lJmaSfh767NIy7Eq0gXcn7R3BVUmiyafBBsniooHeySxrtwI7PTgDygY0BXQwxdcQNj75xgvXeIxGGHEk7GzlVd/bL64sq/ecoJTAMx52lABM8GZZ77Nruh8nrzpfrNzWnwgq7mvufnHU7YBaw5Klbvxb+Jvm6jS1yxXQg33NPYgzagMuWencg/G+iSY5HVPvc7pX3tpRH4Y/4G5BY4qTa7ZAGX9M143jpWMCvnTdw1HVhz/x8Y/VNF0IXTJs7rfK7ElG4QdSMTGHPl14kYafkoWpAT0OG6of85rWaDHQmBsWAP1BZbMCpYbjLl8NeeHtB+cOQWbIpdLljnMcCdvmgc4LCf26MOCyWlJ7GImF9vxLBQsrem0OXRAoAgxLK4nMgzE61lksSKsDQxw3O9y8nSXTtwXw+18Ns+GVs4/8CKDb9v2s3L0xVeX0FgBU/3tRg9raAt7QKgClKp8UPGN4nTmTOZvR/X0+FO/lhkTIpQ9Cs+wbS7V+DN8Jj3T6lVXUFUKrpzQB3C5KxYz/od+Q3+h3nYHY26Mq6SzxDseKMSj82jVMv8PqXK2tpcUCDP0lzrk1uLhj9r6GRfq02AGEbNMaCD2fvkzCt6FrZ2HcIvKYckJtoF4S0L2VG1ww4k+Wgf8k1ZPQkLlZhsA4Zkrx6K7DKs+wB+gIGyK4MVaOXACMvNqTE4wa4YmOBFAWjZXI6ZxQRXoXacwUvspJOlRdQFoKnahVFnbO4/8w8osp2Km7NvKi97xsNk0Pr9OQ3BxwbJlgcsrQYc3Tl1CoT72DQ25xPJU44JV4yUzmkT1mjLuUvjNa4hmygmc0bGrDL2KD+oiPxc83eZ6wHkRawJux7VG4U+Eg1LT0e1X9XMr+jeIjevMxdyeKffkP27DsXKKEcabC8Y+KFMXz7d7eSA+MHdvX09uJPlhA6R98PtvWFSYzS4LScrwqfwar5VyqzDUEStoSIH464Y03nhs9k/UnhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 531,
+   "completion_tokens": 202,
+   "total_tokens": 733,
+   "cost": 0.006164,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006164,
+    "upstream_inference_prompt_cost": 0.002124,
+    "upstream_inference_completions_cost": 0.00404
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 93,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

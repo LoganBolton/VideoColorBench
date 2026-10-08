@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955162-Jz5OwAKSwfcyAWdDz8bB",
+  "object": "chat.completion",
+  "created": 1790955162,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele \u2013 \u201cSomeone Like You\u201d (2011), based on the consistently grayscale palette and dark fade at the end.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86jDr9RVlp1-fQOJhuz8l4gE-hlpOeKrpL3fyaM-ZgRYpYFaiZVLSkl3STm7cucVP_qFq1bEcC5SHpr27Xni9FirbanAxaa0CacNDbvcHOeh6XysQwtxZEH2ieGfKdwxn9dkAZJPKWpFeZtgpppuzrQEsd9Cls-xWpQMyBiLXJqRvbGSiMkdmKdXfx81teicGT6Ql3eV3Df9o0V5OZExw_tp8MLqejY7kG16yxn4pYV2VOtwMmIpFqU_AmaIuS_g2ioYtzHhH0zf8d-HX_fbRIdXRm7GUV-wXzTvLAHR21K5KcqZ_x-GdxspNmvTrS2NkLlwkqeSdGOEFRos3-SkTtcto5rnkbk0Ac1BPCRE8Fue3hXSrioe6MhJpCafthkEz8mUCa4JY2hiyJAKlXu2UpVGXqPvt87sRtGCrciQCpQov_S5kmxNzuw0aevNLBce92aFwM2e1JsWXNwSMq_kuG_PFlWeIwXXAbkm7guOZz1FqJGHN9IQcpvSmbnTrQJd073CBML_bEbARRHjjGD6R0BT8JLKzNoTN1AGG2ofhLWdmx1Rsr4_17FlwCJFI5gYZTD8S5IRnwA1GLIsaRbnslKqu-oz9Unhei5Z1kjaHomU_PwdiwAYLdLtnzlKalj2ECvbv-FlyrkknWz4MXFDGoE1VjM-FMGGj9dxhwtJ8m5AtM4WZryX8tREHLxjN4rjvV20L0QX5wCwlQBITMzuYPCLEMgl4zfIQePHZhRaAkvql9UHIqThLmQVVYKGXSjoHIoiK5xFgOB-vCYIz0LVOVRZi3EG6PRfG6E2PXooFyG3XvI8o1l4cBSlabNINP4DxZ9m0eWjhQiHUc3cTeVwaty-e_o9ALzFXKenomVDddkg_YC0I0b9Ut37BKTmKA33rsGXuYItdM-CeVQkqd41NIzaJ6i3E7kzTXC70GBvOz6Fabh2IaynSEp3VhQCT3OK298mDwW_j1npouvt3fWWz-GZ-6_7Jd58KRh8Pb-fe5dbfbQpQbld8a0QqXANqsgIM-qaeVFVH7J6KTVW6dv8uEPF2N8dWSbDJfY_L6Av-6hGYxvaRu_wcMBcLlgg00nS13pQQvD1IeiTfrlu8SoARac0w3SjVY8wSYx8caC2RTxOXUbRhjjkHItLXXyjob0nXl87WEEGfjtohr4b_xTBo2myT_EQ1Uoz5rAamSdqxafeZS_dZzFMqk8WXPHy32zBvDKAIrYotrG9SXDm3-tvyjJcLV-nBhzRd-wK1Xz_wuqBnPsYbJXpjDdX0lMdQVWOn34rPamszaqyDnoibZXT247mNRbtUjb_IGwwUTJ1Ey7QP1DxV6QiwjNUvxkvwBuDRKGfIirvlb6gkC3zHZR03C_xuTYqCKM5Hh6J6DZMFogBNP2w-PtK6F_P5OnVzyi5NvRpOGDv26Dj2rymW2RHTsoXhtDE_AAyC0f1YFtcUbG-B3XjVYUimPj4jn7MqACXOy62V1XgC07yr1B2aLD3Ls5qlpjUqBcG1tZRrLqtwytCXpNEz_FK_vvfj0SAo0UH92UCSqUXW7hRuBVunDC7ZLJfoi_0VmLNqRi-IaxXQxervH-Kyl83J0ixlt-Cy0oy1wOHHAcBEIZgUIYreDf5pthuift5tY8nKLu1ZrM8dgUcMHLZwc7McaDAr7dH2KtAXcgWN0ylSYLBXeZjVhuJEcPeRq7X9qjQuzPvb3CFF_DawB-vmnQRmycwmywo0zv_aNJjNwvPOzUzXfcrUGjbmb0qSNP2GfTR1gE8wE7MhwOrg4xd0yK7oti4nzW6qXcTikn4OG4PHCPEMaEMRXONLbttW19qw3u6qNx6qjzR2fPBLGrPyW0942ZyzqT74YZpJ3HcjHr4L3voRQkeMXQ8lUpHq2SL50-cuj5lpKTdHgQ0ve-Wf3p3hXUQOCrBFnkNUHY3xlUVDmprxEpYjEpuR65IAva6oykmJcRccYqZ7RlwV6vBvFQ5abwrBpDNGhDxwdHXdmPvY_iKr68wZ7BorFMDAVQg_9658BxZs7K4IxEBK9u1vsDyZf9qdZtlFRcwhr7o7OAtvZ3RlyVKiGk_cGL3bj40OWApND7kXrEr27_ooE85dPF8rcrhzrp411APSQ3KHB1COXPQqqecfGVgzPS1SFZJSNbt91J86E-HameuywrF7SBAqNBdjEwj7quuD1AOqHW0KKDEbannwGoF8stQ8p9eqiuPrihhtwucmcISpYOS0gtiiShxfoYe9LPiYT-SBbEHpxFsJWTRDWDOqeGCaGuyyodv4KaWvHWfzNvAzNwG8jFIb4LjBV1_ryXQ_DbNAIUL9SC56hXv3UaEHynN4_U4eBg_THTz75FQW4Gp1uBEPXS4cH-bfBEr4PI-UYkq54SQWGuc0R5Ifb9Ww1NRRMTjpx7DWq5FEsCDOQHjZdh8xII9R3InETRFNRcMpgx-HvQIoJbMosJisbSmEpDiB1Bzz24cn6pi1X-UfzCkGYu5w9q4a4agLcLxL0kCjMskdUrT3F7km5wOLK1GGBvuveFaoWaPUbJVOpyd2r5HVVLxetUP3l5LfknEfSxMOrE14f4yhZPVvpSF9kt0el3ExCroj5qgr5XaIpa2MPWVs1xx_I5wH9ifPCHCBs4WMvNn4MgEACZ0Fnkzo166NNNpllT2dmYdBfUz4SPHZgX0rNwBOsgdPnwnoahTg22N4l2.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b5eadacfab846e6016abfce9c66b887d1ad56765578ad7cce",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 464,
+   "completion_tokens": 246,
+   "total_tokens": 710,
+   "cost": 0.01694,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01694,
+    "upstream_inference_prompt_cost": 0.00464,
+    "upstream_inference_completions_cost": 0.0123
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 209,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

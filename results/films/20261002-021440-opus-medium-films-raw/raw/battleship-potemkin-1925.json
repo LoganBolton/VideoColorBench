@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-yWD41PIxiHKMUsBBgobB",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the barcode's overall look, not a confident identification.\n\nThe barcode is a fairly dark gray throughout, with very fine, rapidly alternating stripes. That pattern points to a black-and-white film with fast editing, and likely to a silent film, since dark intertitle cards add frequent dark stripes. *Battleship Potemkin* is known for its rapid montage. The lighter stretch around 60\u201370% of the way through would fit the daylight Odessa Steps sequence. *The Passion of Joan of Arc* seems less likely because its bright white backgrounds would produce a lighter barcode. *Metropolis* is the main alternative I can't rule out.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm weighing candidates among black-and-white films, trying to match the dark, finely-striped pattern to editing style and visual tone \u2014 considering Joan of Arc's bright close-ups, Potemkin's rapid cuts, Metropolis's darker scenes, and His Girl Friday's more consistent mid-gray look, leaning toward something with frequent dark intertitles causing the striping.\n\nGiven the fine stripe pattern suggesting rapid cutting, and a lighter section partway through resembling a daylight sequence, I'm settling on Potemkin \u2014 likely matching its famous Odessa Steps sequence.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing candidates among black-and-white films, trying to match the dark, finely-striped pattern to editing style and visual tone \u2014 considering Joan of Arc's bright close-ups, Potemkin's rapid cuts, Metropolis's darker scenes, and His Girl Friday's more consistent mid-gray look, leaning toward something with frequent dark intertitles causing the striping.\n\nGiven the fine stripe pattern suggesting rapid cutting, and a lighter section partway through resembling a daylight sequence, I'm settling on Potemkin \u2014 likely matching its famous Odessa Steps sequence.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 545,
+   "completion_tokens": 595,
+   "total_tokens": 1140,
+   "cost": 0.01408,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01408,
+    "upstream_inference_prompt_cost": 0.00218,
+    "upstream_inference_completions_cost": 0.0119
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 367,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

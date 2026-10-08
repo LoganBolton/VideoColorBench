@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894451-NXRYyVQQJbmxvQWjsE2b",
+  "object": "chat.completion",
+  "created": 1790894451,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern; I can't confirm it from the stripes alone.\n\nThe barcode opens with long runs of dark purple, magenta and lavender. That fits the purple neon-lit gym and spin-class scenes at the start of \"Side to Side.\" The middle shifts to warmer pinks, oranges, browns and muted greens, which could match the later locker-room and sauna-type scenes. It ends back on pink and mauve.\n\n\"Boy With Luv\" also uses pinks and pastels, but its strong pink palette arrives early. Here the opening is dominated by dark purple instead. \"Dark Horse\" would show more gold and blue.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm tracing the color barcode against specific music videos\u2014Ariana Grande's \"Side to Side\" with its purple-lit spin class and pink locker room scenes, versus BTS's \"Boy With Luv\" opening with its pink and blue theater sequence, trying to match the sequence of hues to a particular video's scene progression.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm tracing the color barcode against specific music videos\u2014Ariana Grande's \"Side to Side\" with its purple-lit spin class and pink locker room scenes, versus BTS's \"Boy With Luv\" opening with its pink and blue theater sequence, trying to match the sequence of hues to a particular video's scene progression.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQShwwKEAgSGAI4AUIIdGhpbmtpbmcSDAmPtSyKtGGOb6xU5BoM0EbIZ11Lo5mMBIRmIjA0Re+NImsdvYvuxXUqeFGYRBKMsnnrfRpXqAGYSqnO/pcpI3RhsasfjB8pyHKI2eMqpAuPeqj4FWG3H4bHz/nnzChFgL3REzjC+RHJSpTft5LH3UcjO4U0YyMQ6UERe5iY7glgXm/eKs836LBLMmebxEXCNgmq8WCekGlioe9WphAuzlSIoJjyVx0sGcPhSKxZrMxojPoauwuZe4MNEIwc3FCl+U1pJinmMxr1k9/B4SilHLn38VuK+M2b+YJtwjmebD2AUnQg7xiTkJJcuiiz1TYMZVjzZWJFFydQ6KDSGCPUlGS4VfCbbyvtvetHQ7sFDAtSCgHN7lUZbLMOtA2xyqMwgIGQoJLhiGv7GjGZJI+BVFFRdCvai7HhgnBI1MzltmPQXz8lwLZtL1oM3zw/xi7/4Fb8vB4RD2a7yYptYhtg/o+m5JBuOTeSvb81dEupl3J9mO1l2c52/RVtSo00b/cR0+DAjl/wRYN+SjVff2Mf0QdcBshlwgRGZh6wQwl3IhIbAQ1nis9OsrxEsAe/8xi3VuLJSZkgTPdMoKcVN4RHgDnbp2HS+5U78qGwtIP6n1dmoBsngSCtr5UlOS1lSD6OYwCbtmGnLLRiTiSyujz+JKN6H8ffolYwQYMxsMRTw2ofHm6Dl+86g9lK9UN8j56NPgwm4qdmWxOIbJVHJZof536hiQKRgxBoxm8ylzfzVNyF/PAMH8xz9E3qu8eOFeLVeCXfSQWPYEU1QuzCt8rkNGB281ZHuUzGQzRN3ndqfHg9Va5CnpGCXiUJj5YmlP9TpGwztYsKfAcGYaylowdg59JUVpcdO8MPt8YdNeUDj/gn1s/PXH4vQIkmdqgAyfrw1j/eZmF7DITiQJQZsf4OCeDX43sbZX/PkBHrzL+NcjJLgk54mo1nwMwGNB9sUiiLqNOloj42vChcK+ddQYxIa8cTQygntW5zB3Slu9gzS+LYH9FMr/0Hu3HUx1LkKHwxI0UvlQ3JtGiqLbsGtqJxaKxewFTv1sopRdyghuqM2DDWQae2d74VfzCDOMQt9uSZhT57LmU24tNTDhUFtX4nHRUolwTmvBu7PXkBRxZBOzNoEj8nhd1fSG98iy/cZQXh05lbyGBR9K7JrRFsPo4OWgTI2wHJcAPLdePbbPhdAX+z2fbP/TS+8B1L8yN3s07hiCxkVsX/8/UJoE8+OPu3gXbqDLhAJaLKosrRJImPxmgHtd/AFH/mjF/RxN3dyWzqI+xXNaopXcPyaV0sqsaHWR5SPhxhnDg8bMCeoQLqIVMtN83tFs4L+GsH3BZ31ZaFKqFYlPxw7UXE8uIS6hf83vG3lzUiXg4t2wAUYhyX4MIKefSTTjB/K7xzxDJK3QUPegIuLFGrsllq1jkqo6HGiKaXifik2rF8FQrhOpW6wZLwAOSFd1uFj1ulpqfCBLIttNYU7XTnlENJKQUxuN3cD6Vb/EJpHopEro6k03HwY4Hg9cxNJmiF0UAKQ56Rz9Dkb1s//HGCgbuLykCz8q4OA52Kdg//ANCZFnIgRecMOctUtopN+mnGy1pl5lBfGvawgOzraGG97UOAHjcGknhisL8H0LOpGrPmEQOGGzkIhyXvDmTrj1vGO2I3ljHLi+GzDdvIZgxfoNGlTdgxoOPTIP0CfC77uiN/GKXTmFS1rZgFvboGXkcBUge33aWFS16B77kqvIOmdnf3UvpxVtjJB6kCxUpA5JxQfVmyi+zTi0ksTKblJwxpDKJbNOagZomSDTN/YLgpQsnBfV3O0EnGL76zCJmLZkJfBiD6t7aN1rGihfPq2/gAanCmUJyRixI6JcCSrLDhPls1MaTHX/b5hnV1X8ehoacq1XO+9lgiDgJE9WJuOrAUb2MvP5N6VRlA+FZoCBdkNre7tP8TOCgGf5817s8pA71vg8KwXA0VmrLFI5Y/kA5j+y/IZ+Dx0sTs0ZKNjDJ4L/h39xrOxLN91Nwyfq+yRGqzOlJKn5mgXarlM3WvGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 638,
+   "completion_tokens": 589,
+   "total_tokens": 1227,
+   "cost": 0.014332,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014332,
+    "upstream_inference_prompt_cost": 0.002552,
+    "upstream_inference_completions_cost": 0.01178
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 370,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

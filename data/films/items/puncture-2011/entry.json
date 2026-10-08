@@ -1,0 +1,21 @@
+{
+  "slug": "puncture-2011",
+  "title": "Puncture",
+  "artist": null,
+  "year": 2011,
+  "label": "Puncture (2011)",
+  "hex": "#302C26",
+  "rgb": [
+    48,
+    44,
+    38
+  ],
+  "frames_sampled": 5997,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "_YCLxSHVwLA",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

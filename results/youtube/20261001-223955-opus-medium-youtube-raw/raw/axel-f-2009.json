@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894403-efx2WVWdb9chdRJSo8rC",
+  "object": "chat.completion",
+  "created": 1790894403,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **J, The Chainsmokers ft. Halsey \u2013 Closer (2016)**, though I'm not certain.\n\nThe stripes are mostly muted, desaturated tones: dusty browns, mauves and pinks. There are also some dark green and blue-navy sections, and there are no bright, saturated colors. That fits the soft, faded, intimate look of the Closer video.\n\nMost of the alternatives look less likely:\n- **Lean On** (orange/yellow), **Wake Me Up** (golden), **Party Rock Anthem**, **Roar** and **Crazy Frog** are all much brighter and more vivid.\n- **Starboy** is dominated by red and black.\n- **Faded** is mostly cold gray-blue.\n- **Love the Way You Lie** is the closest competitor because of its warm brown tones, but its fiery ending would likely show strong orange stripes, which this image lacks.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across music videos to find a match\u2014Closer's desaturated pink/brown/blue tones, Love the Way You Lie's warm browns and fire imagery, versus the brighter oranges of Lean On or golds of Wake Me Up, trying to narrow down which fits the muted brown/mauve/dark green/blue scheme I'm looking for.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across music videos to find a match\u2014Closer's desaturated pink/brown/blue tones, Love the Way You Lie's warm browns and fire imagery, versus the brighter oranges of Lean On or golds of Wake Me Up, trying to narrow down which fits the muted brown/mauve/dark green/blue scheme I'm looking for.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSkQkKEAgSGAI4AUIIdGhpbmtpbmcSDJ1ovC2CQFMYHnRg5hoMaTJ6lzeDopOF3AalIjDrjP9T03suzfrjNYD0OyE0L66xMLXiAMcIlgmgnyZJr7A3q9Umqkk/XYqtV3/Tx+EqrghglXl1JDAVSlF/v5Tm9KjBvdmVm0reOQ1P+fqOrjL8XvVSIEdbeVhfTm+OdpH6/Dh+84E2OXklmTV1xHQ/OvHp6z0uzbCn5p8+Dhl+r9bvIwJF7c1HuQ8aYmeW2lM6XcfkndOBDOX4c1RBnOMg5g6qupa2QtJpVb81rTo6+Zcahj4ttC3ec/WEiFVGbtBsxiHaZ9/io3bBmlHKpcXKXXW5X8M1i173PrYh3D/IBKhmQkFZaXrGMfPS5ePpnsoiVf0HBmFnji5lXSzw5qWPn9WFPTvmzpasj3LaPmyzpA5lXxTGMfJqBMvcsPNcYXqZ2EPehgSV+gIuwZQoeLOCE63nxuav44iYLnfllT1kZzhNk8+7GJKDnaTSoem+6W1PyAN8RE3VxpSXzIg4ppolglMwtfTiUrZUWYdaTzrLT1KGuOtld1rZ405lando0fHjOxl0YunwiqOIdcvjdyMfQZVohMfvWloDxqraHM0nEFQRhJpHZ3tlzMLJuzLv3mxgGrMx5Qfyuju4D1FdE4YbL//wv3X3yNdReF5K6wW7NmAFED61+XQfEE1Xwxli5QaRpToqWYh7rZLfA0fuxDG6scToahHsgGBrFsdXAXkNg9DZ5UIHlyorkGEvbq1ikLlvxNYUzP90EGD0qwRpc8WvkHTpF4+xzw9Wrisnd29+Se5miv6fTeYregOLETHB1BKMTMe5K6Hvg+80meanvmM3/99Hs3Hj4crQaw5f7FNY6nkFfFEcaZiek0sB1l/MgjQlUSJF/BVm/u63nDc+b8JW1AQTzPK3JM0L6/cBWfkr+s7ObYJZexd4aQbcWYJXnehdieG++I36/yd1Dkn48tXJNjGFSMUffNMCP+CzxnMT6cwZmZOiAVDvl7sIp70fAffnC8dwTHkg7u3Zl6has7kF4tw/rPi7Yk14g+6on1IRJ1em96eae08/mIl7W5p4uCibrtBu8zuA14Cyj0cO5cSYamQLvEQZA6S9ApDhOrLAGdxNB3NZQspmzraiudLM1Leice1P7t60ypj1/NKEe3R7nOp6tWm3hVFFl1ee7pTr4Bmq9K+79s3+2oXo2el6Ur51Boy8bATWEJi/40UHTaUyj6REYMeV4mb3JEQHKEp4CM0zrnm/AnXAOHoLvyyJOuNE2d5Ds65VsKwK5+HZ/pU7jT7r4ZMggDUkaU0eUoyjC7JpIP71a8xMNhal3XeEwvUSvRbwe1u6hEUeiW07Z6pjV9ch0OqkBPJsCfkHTMClw3bBOjxw20QXMmchRA51uEpkPMSbqkT/LGW+FmEDY+y6SQ/UY8h6hD/2qJPRefY07JtBx8nMK7BisN/8/mIou2E+Kd7JT3NYj8atayk/Au0Vg5WhlzkukYL2AGFyYzMthfcOrNiVSiv5c6/fMDHoQU0WXb/lRekBmyXa9W7Lo+6S0RgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 634,
+   "completion_tokens": 545,
+   "total_tokens": 1179,
+   "cost": 0.013436,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013436,
+    "upstream_inference_prompt_cost": 0.002536,
+    "upstream_inference_completions_cost": 0.0109
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 239,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

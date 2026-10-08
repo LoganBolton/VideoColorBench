@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907331-o8Pz3cBKxzKbNbHAKiQG",
+  "object": "chat.completion",
+  "created": 1790907331,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette alone. The barcode is muted and desaturated throughout, mostly grey-brown with a few cool teal stripes and no bright or warm sections. That rules out a colourful 1960s film like *Charade* and fits a modern, subdued thriller. *Before I Go to Sleep* (2014) has this kind of cold, grey palette, though other options such as *Before the Devil Knows You're Dead* are also fairly desaturated.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "Looking at the muted grey-brown and teal tones in the barcode, I'm weighing options like Transsiberian, Before the Devil Knows You're Dead, and Charade, but the cold desaturated palette points more toward Before I Go to Sleep.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Looking at the muted grey-brown and teal tones in the barcode, I'm weighing options like Transsiberian, Before the Devil Knows You're Dead, and Charade, but the cold desaturated palette points more toward Before I Go to Sleep.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1wcKEAgSGAI4AUIIdGhpbmtpbmcSDNHGqcGQCsuqaRGFDxoMEfkHUweey0ArpDagIjBblip/LtxC7eMa/KIoJiTxN5jbDL6KK6Bto1y85lDR80RyuxRqYGmMuU7T6Dgzf9Eq9AYdbOMl+fdfqBcyDRd3P+LePYLcpyAxFzmDr5HaumRWwaINV2YRiJsPmgY/IWESTz0c/isJPhyQBlZd9TYwD2SlFGfouL4xSYR9pOMDV53zaraIbyTLiDjryLbNAykuqXHAQO+ADGZhEpDyV5P9wznHk54FhtvClJjfLhodlG57K9/hMV9bf0H7OOkU3xmlniMuZbyKE2/ee79Qu+MnONDtNCtLSfbKBQx5MaIO4dBmApfHd/r2reDqJdkeIXssKoYHUkpcY+Fm+UNM5mgNGjtYIqIrsoDIDPFcNI4QG7ZEr+AwunMTD9T9sEJyqhhf6/jTzdBeG/MxpquyoSw8o5cvr0srdxl+mNlQxFq8wY3gmUN3ZWmn87YEpxnVe/aNul6/LiHm9CiO0uskGm42+IFfE/a3HN8tFkgUFhtARxGFnq3qK3sg/HcFwmBsafQIJiKD1Z2qUG992ZQrMy5DST/bB49Gq0W4piTpl5SarMzDjOTUOAfSFjdqqGmsBuC5orpjZsYxg8V1BM3vnfiMatZaLrreV9ckLLtYj/5ZHAEGr4WVfzU9n+bLYoRjQakfOtd6Mp07Xjao+mH/ygptnaJgZpmCdnh8dQmnvOOzjz3RF+XXnd41LM8H6CaLn9ZBFKQ0VJgaMZx4IKAWmBNPEjVvIpfiPpzlqrNsAja7MWl/akPKds+kBkQshfBJus1qYOVLcBMGMSb1zmAnGesowtpzEEqpalzPhJ/osQlJCwxuNMcfQoAUr+UvrZiowQLTxMBR4JCGi3iEngIMieFIFkc9yJH6s656BRHgcQzmp5e7CyKbzh4NVQjkVyKkl2FHkGNMEJdH5TuqyeuXqiQHM28gCnxTGWmBJ+p7y9tajXvKWXRqldgiKSiMXiy5vDuQFEbTVV5LK+F7pPWuPUTm/uwBWtF0/Lcf1ntieaE1cIpY6WmLHykL8TmVf6zXU7EcI/smQPXwh29orGf9ZUx+RF33u95x1i3okGngiFOjFY0/Xd5+e3ajcz0fIVDbs7EfT6o3qrJ+nkBCKdrLuYeRHxwzBa77gisXAevR+qi1OhttKJaqhDEQPaVsn57vltylat7vSbgMPOwtJUZwtN1bJhriOv0oO17tXdj62S/r6hrXxx9qm85JytpQdw/cgAVfb5IpsFRypfCudi4X/PsxQMDlIqFLQxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 544,
+   "completion_tokens": 321,
+   "total_tokens": 865,
+   "cost": 0.008596,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008596,
+    "upstream_inference_prompt_cost": 0.002176,
+    "upstream_inference_completions_cost": 0.00642
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 161,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

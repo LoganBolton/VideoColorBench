@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955265-Yh1s1cplyMlKIuwxBUE1",
+  "object": "chat.completion",
+  "created": 1790955265,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: B",
+     "refusal": null,
+     "reasoning": "**Choosing between options**\n\nIt looks like I\u2019m weighing some options. I think Taki has a bright opening with fog and reds. Meanwhile, the Mayores seem to be extremely dark overall. So, after considering both, I\u2019m leaning towards choosing B. It seems like it could be the more appealing choice based on that bright aspect! I wonder how the overall atmosphere will feel. It\u2019s interesting to think about the impact of these visual elements.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing between options**\n\nIt looks like I\u2019m weighing some options. I think Taki has a bright opening with fog and reds. Meanwhile, the Mayores seem to be extremely dark overall. So, after considering both, I\u2019m leaning towards choosing B. It seems like it could be the more appealing choice based on that bright aspect! I wonder how the overall atmosphere will feel. It\u2019s interesting to think about the impact of these visual elements.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88M2-XdM6fHS_WNo7eO2_4_AxL0zjGWNumRX2obxlVOYlKPJtjV19RAQq-1vOwl7AbYOW8eFZayQj7h86L0ztEr3rlRYfjGiXP2Wn7Cx6PlW6z1c1qAP3FbBxaey4b92Lp3EheLwXDtZ8VEm___Bq6JH7ZUv8Fa6qiQb8D3SK2tv_2HYNZh146hIg4YdONkeUzaF1-5hDkvsh7JbmHu7JcLd4lNzq_WRAOqdudim_2Rt4ov2V98cb1-rRHqkVjLtVCU8hYxdyhbQekfy2vYKOFIqiZH5PnSSHYc3hwUJpOpo3joki96FkMhD5Sl1qf52rCon-LNEbKBz3UCWmB3l6_WHWjGhe4s1vEf4-CdGxHdf4nFC2y1GrwncMI_YLLKk9yMqLTAY5HOoNafOtUWIFaCIjArNpVGowe8k8-ZWGfW9dbjH0hDAoB-Gwze0_ZFoDx2Xarj_drNA8FI19i41YtPX-MNhfMInCNNtiwKRSmIjxfyLdLMeGQlero2Vshz4pU_-cnmgeyp-kBf2gnk1CD0nqg7XUltL4aALyTlpjYOT6wJNWUd22AfFH91pZipY5YS5V32PJzKOedVoGkwakWb_TVwXq7gzivNwbnhzs9RsT_b3ys5EPZZiMvPnYOp6vw6VNVAPNdRjAiIspiFGSY9hJ2oA3G9dO9tS_62jLK4V6PA4nbdwju70Oque555IA9KKOF7GpL8LS49pwjMrWlazaovUEgQxhQBGc1yXPdZemRW64-qn6ce0KtYIwxSB-kkAPIcdzwiK0Bi2MIKN6DGOnmMY_4AioNP8xI6kVdm04sG18T1079dDuKsiNMgu8B7RtjPs2bXEm3CF0P-ItZ9BFcIOvSRjsyx-1pEJCbH0e2efHzEZog04k96mDtbcGjyaTTcI3UemRXoTOU7il7sA9C1jG3my-4wMhUtP21n7E9h4SOf_R1BGjCdXuq05aG6IK76SZNpHkVASR-Nh1pglabMf2mY7Tisq6y3YJIjcx8ZOmZjm28zcI3PvS22PVQOx3qw0GK_ePP1H_MBFyFxCfzAb0r-30A03BHjaSen0N10A4GH6CdDqLUppfIA9zigRatYbSQF2jyQk9ei4U-O8Wkw6U4sLGs6f-igoMuzdd4BlBMr7dJeHfeuieS5b1wyn1_qbvN8t_gLCagoBk2z9dVfoTKRY1Vn9xxxp4hIMFByWHyM6DJfjjOXtNkYKvBCgaOKoUO4-A-HiLCmHGtnbNZyNQRQMOdtuT54irTUHT0EBmIJgwEEyqEL6O6qpHTNIMwxkHj5Y5DZ_7hQpOCQMAShyRfjhHGimwMZwQ71UeSc7JFwKW1JnilvF4Gz3Kic_ggA8tbsPrF-ZEJT0ceuaDRRuVS52LKj0VMWLr10RSkcI_hRo4CXx5aXxsseQDAxD3duTnP4vVMqhTQDOP4eNJBfM8CdftgwoQTEzuttzUHU_0ftMnMRkKE-obUDqTe4B025XQq_SPJG7SNIb6iDFWn9_YALOBeN_D0KLkALO_wxrs2qnCvqW9DVMHzZO530GqFbrYzyGVKdBt-jPB99RV5lS5lSKriihhQig1FHt3cZeEHPPjhq6aJsvfimDAUPSkTbkjG_vauyw66A5yZB_n3BgLunVWuv-Ftei3gTSEXmJHXWA25XJ-xPHPS6JTJYBM4yXcD8wyBv8j2SJwatk6r5RWxKChQyBZ-qg_PYbI2oLZhe3y7uytrOkI3jSO21hz3B04KWKJHWU0bdMMGi5KLU42ncb3MxrIMaqXQX8reX0fjZwjrwWMSjs8crPTJI9C3uDgxXYzF-AayZBb7gUz0iH9cPfy89tlPplH_kheSlVki5QPl1wMS5drjqJYPVWoRL7LTcxqioac08ZjwXqc1ikYhZzr6w_dPsvps1dk5V-5FCiNJHgLyBz2g1xWv4GDOml5gPuzuuAfiB1XNV7aRboq3XMBDRHG8vj_LIRQ72aMuf4I47sHRFn2npqDCBUQfMMAWpoiYfhRKzqjw_naW1nKHRDMdHEihIB41oPiXPFYYrk9m6rXCMeQmx7S9jJH93fyOhj1jXGe0TI8aqi0NhyfpfTSKcQHRwVR_Ms0dPf898l7qsjM8wKfUOyxFMubuC68FZ2X9WmDkmV5VNhSiD5lEHTqFHlB1SIHbhN_jH4gA5pZEeLV35HjTajyFJaw582PFmw0R5WDaANvByMZ0cwni-oEMx4Jdvgtw_WfFLpbn0zd86vJVEtU_LYrEVFMmcHSHI1CGZM17ZQcSGn1EffkwtY-vfW-li-IXt_MvHB_7-XZ7ZAEqyF3SPUdLTfZHXkqB5nP0WFQnxjnB4s2mi2mmJAKvB-JsO-BBc3sjQ69oxq9J-kNyj8zADCOyPZmzdCTqyyuiA17d6jRtzhngh9Maj6rd3ZXWk4GoNYhvCJl9Mslii9Y2UuQsTRb-H2yjdJkGbwFGoHLmDZsHPEUZ-3tEhmQgjysaRxDkjRCjKgfBx5ZO6kq0ghR4EzgKt_lb4Y4hKnAUzcgyI_EeIRARtt0MlVBgTvoAmj149QerufsPlJmZ9ZUVYcSqWMW_A4RJcuQw5mFv3hd6qigZ2iBPtRtdPcjJc-pcGvuSu1S0hxmLyc0zLgWC-snhKqX7Scum5zzhMtyAJC_HWSQ8sBYgu7_-aeV2s_nPxe_2hgP5-W8q4FcmUq0J1tUfxJxSnXBa-PKsv2fW41iu7S1511skKWlRNJZjcKBW_z2tzXvo=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06408c17ba69a96c016abfcf039b4887d183324e6863d1e3fb",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 506,
+   "completion_tokens": 237,
+   "total_tokens": 743,
+   "cost": 0.01691,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01691,
+    "upstream_inference_prompt_cost": 0.00506,
+    "upstream_inference_completions_cost": 0.01185
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 228,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

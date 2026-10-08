@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894442-TPpPG0i6wEIXvDzUdj2p",
+  "object": "chat.completion",
+  "created": 1790894442,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colour pattern, not a confident identification. The stripes are muted reddish-brown, warm and somewhat dark the whole way through, with purple and blue tones near the end. That fits the grainy, vintage-film look of The Chainsmokers' \"Closer,\" which is mostly warm, dim apartment scenes. Of the other plausible options, \"Rockabye\" was the main alternative because it has bluish-purple club scenes. \"The Lazy Song\" is also warm in tone but would likely look brighter.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these music videos\u2014Closer leans warm brown apartment tones, Rockabye has gritty bluish-purple club scenes, and Lazy Song stays fairly bright despite muted elements, trying to see if any consistently end on purple or blue.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these music videos\u2014Closer leans warm brown apartment tones, Rockabye has gritty bluish-purple club scenes, and Lazy Song stays fairly bright despite muted elements, trying to see if any consistently end on purple or blue.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSvwoKEAgSGAI4AUIIdGhpbmtpbmcSDLLIwM1abrJf9XanuhoMkEe+fJzT0npSa1lFIjBwNLf+F9+Px60E8di61gK38PNaURD7sNZw33sBJbgDZwpqc0/Kz/ROUwwyMJACHZsq3AkbGPMZW0IrhkjUO8nk9NQy7ZTLCcUAgK25A3SrlUlQcaNb64tQuUnNA+lmooFX3kICQ0FaDrx+Yo8yqTq1Q6GhcwbqEVXkeviVMRnmHjf1CeZkIGq8g+2ti+h327ue0bRWAOrVGJha+YIngmGNx8OsqVWDTTpqw7uaebZ9i/uFdnRCTjUJin8z+ihy0uTAxKNTE+P+d+CTjmwto67c+D672jd0oNIMTD5I++wVm8SF0yGt4mqsndvxnp0nQ98/ivX3WbZtdizkcKESjV3ZrQHy0dD5PHTp4TN5jhAbf4dMjJvL3Lw/mVRKuskuq67sYPu8CBBSFMeThFM77g6ZnwP8B8juxgIMKWHewrhJgfR3w70OZGTaC2RnYWwHqoupJktbYws6TXaQ82slCF8LySPulTKcHW1dKxakQksKDn8ro4xKHo4y/ggKnunoC5S3UYcVUpY2ITLiO04iKFhEbNEZdThRDUVItwqx7pcgYrLyNV9ogZznZxU5UbsQkm99L7uDsp4CwEETMC6umFvOD+tRw1f64aIZN7O4GnYM0rUALX3qb4BOl52NWVOtqMuDpM70Ugw+0BQ9RDuhZYABjmcv3GtUXJWDt9PZixC3EbXsFEZYvsjfU35d3jHbfMr+QeqB74cuyhuDwCtSBhFmsd0WqOeT/kK31KP/lGIEDvp4/2pu8aI4yGJ1P1ZFwJ5XgHHyRtd7Acz3Ngp4kjuUaqz8u8Ezyb1JAJxzUXI9UrmbV54klRl/IdJmC8ARTdq544XgV2DnA9ashLw2nSy2vQRNmVKCimdM5XLotumPo2KQ+gdGes7/h5gr5PtLHUSyvk4CZntvDSP7pT8qe+0yMhyE69mT8XQpBYtht0euzrfo69GlAUHpP6fi7FOWHaT0W8MmrmCieK49h2qttNu7RTjU98U6S42ZMyuC7lU0nfn71pQrn5ePWKqHrG50YyerBziNVuObW/sF7QFNKHZzgdfocV3cudjdaTa0AI9h+PceL8o2CfuglDrYelZFcb6VWiQD/ldGq8wJJKUe0bHSO/SWGye3zOMFGzmGreTzW6oStOLq7rsVCXjAWGpCkJ9v/fjpURjd64+KSEVH6cs7w/MtuDk7rS4xe4Z1IPom2F6LevbvLq8eO15aYIsRcFI7ri4MsX0mcgzj+GZMOYQKy4FoDs1d+wLmJPNEYeOd+aNIu+fVcilyZJw/jwLJjemTObhylkobeQBV5mA1bqGIDmJ0OZk5Wbyhb4Pg4AvpxfAtosPhfJCiSgsIUmZtq/5KVXgbFdUqZN3w4XrK/i8PBqDI6YDv/EBzFe3iH7am++D/vVdhY7t56asM8u+Va3EDxEW8E8QnZwO10+QRQkubXSTyBWFCnqqSnTMr2mHhxVbCMqR8DZ+CC/A4w+bjn6GnwAubbN+OWuNhJHS650+v4Ljcia07y3CBvvN/ZXBz15AW3WLSvFs05GPN1b6dxR0TLhGbbTH2/Isnce4JaDm9FqxFX4XT13uvyFfXAE5Hhq4wbGP0qnIDXGxKmlocb8lExdpQYl8zFyzkYOsPTM3ShheiTE34+oNdduNCP7YIGf31GCLMwpKmsWs0qk95A22CNi0niS2d3G9ymSeZGUvuTNq31SiNeHmlq82IiC7cjjzuvfeyitGqr2h034MO1hgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 639,
+   "completion_tokens": 474,
+   "total_tokens": 1113,
+   "cost": 0.012036,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012036,
+    "upstream_inference_prompt_cost": 0.002556,
+    "upstream_inference_completions_cost": 0.00948
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 297,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

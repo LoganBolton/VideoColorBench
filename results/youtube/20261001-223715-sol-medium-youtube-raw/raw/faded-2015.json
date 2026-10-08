@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894282-tiLkvxHS8R2ucdZhqRXc",
+  "object": "chat.completion",
+  "created": 1790894282,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Alan Walker - Faded (2015), based on the consistently dark, muted gray-blue palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Considering visual elements**\n\nI\u2019m thinking about how the imagery in \"Faded\" portrays a hooded man wandering through grey ruins. The beginning has a gray tone reflecting the water with daylight, which sets a somber mood. Then, it transitions to him removing his mask in a close-up shot that brings attention to the emotions behind his actions. The ending shifts to black, which might symbolize the loss or emptiness he's experiencing. This visual sequence really resonates with me.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering visual elements**\n\nI\u2019m thinking about how the imagery in \"Faded\" portrays a hooded man wandering through grey ruins. The beginning has a gray tone reflecting the water with daylight, which sets a somber mood. Then, it transitions to him removing his mask in a close-up shot that brings attention to the emotions behind his actions. The ending shifts to black, which might symbolize the loss or emptiness he's experiencing. This visual sequence really resonates with me.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDTNlI62-FPv0Sp4Vm2_zis9JSi8zV2tbFtBsTk9Yh_IX49f0EE2LzaPVJasF7Yv4w8CCVxoD6fAx6p-rf_91G7xWqMnNNiHl_4Q-dx-2THmsjt3vMXSfLkO2tndep-pcejfSw8Lggqrao3chRBDhEqpKpPg-JpDP9ve1yMLQm71xQUS8W76AgE4QlYzRpbb4axHFegVoafcDUkV9Ia0BQUDLSrX0FFp-vK6DwT6tN5I-ZC7wwZkWJfMh7cEpwKgvQHUgllAOe323usDrg4y29UjXOV1W2jTtkXmWxD-vsBZEJGAO1Ogu_b8efXjN66sMzYVBTUQMDd2EMOEWwOJjp5SaLjsFEFgQkbgpG9pQcfijy1jrgj5vgAjbP00dsg_nKBcPGjlYhYzk2qks-ewERwZPPECg8m136W_RMwagGhOwWRP36iVBrtEdqk2x3H-IWtd-as0DSkCv1fncLMQQto_I-1vFzVyzlPSYSjYe5RhhXeAEP7SXAR2z4ZCsyfMck9Vqi35z4z3JUbyyjDwAFNB_lf2Axim3zsGHEbh7xaDOsxkZUKdQaWM745jsLYJZImT2YhTSkVg2eB3Zq5MG2mok0pLWQ8uaYsFrc4nPO5AL4fI3FgnzG5uaIDWNDS4NecEEy3ZIHPg54Qc11PIpLINaDWLYfbCmcv1Ean-xBxlEBidXvSpSwXrqgCU8c8o-N7ziYfMhdIOeZKLGq59ADm7oYTLrZJ-nNI96NnfFwTwPBtnJUbcB9IBtrUZRdII72Ja3nM7Y7O8lDzi8k9ptPjmTOg19kaidFrfGa8PLIZw917feROS-DSWB2WjsnEEhdcfpB-jkq-sM1Z34pmevUh5olPiOtBiF6vpUg-8_RUj9iNoA03cRMPQn1x7FzZPfHjgK5-GdZv11u8zFv7PweJXdcmDN74Ct9ydqhlZwsXdg_GUF7rhLr1r6vChAs1Akhen_7Wia2VtORNeqg8lYYyqo8Jgj4-6E7952BQ99PcyFfwwZWCppd_MwWI0exsD_tsysArhIwdA3uwUylekgtXQV9i7LRs_CeKIGpYb_jLnYmUPPTBbuIvUKheDDOlSLZ0vyuuzu7LMQ0WfFnDLoEegE4I7ViHH_qCt4HK5pwiU2RUZannieeYgrU-rj8W_6naFE5qA3bx3TnQhXyELMf7py_CcvhUQlqHEnVZpowfZhztADCtDhdFI9i2DxoKKOkjWonl5aHb_qRtHoseomIiNL8_d8c_Rh0PeevUuPV8r4NMaTwtiCYOlozpBCdu8PoYz33ItbDJXVizeZg7-evey4VaC_P96cnvvieEBocbyHa28dxbRd6HoN4jZzdItI3T2LTBKsoX1U9PRGIkmKAUdw34FshP9ZPcbdnSgH32txOp76-FKQ5-y8xnnrOSlXtIzNozxHTjQQUCbn8OsnkXQGxAk-_TvUyHjL25_RLLIMNWIol7i6-gFCm2xDhm16NiE6x2uLs1DitoUspf5uWk5Y8q79ML2c4IW7W-l8jFvBu7kAdu_1l5KldsteHWRedUVHk7Z-brJ0h4YZi2-cSjtc16t5wVn4fXCD5N_nLJhoD4_GgeXyVr0wGOYV719A48YofShAcCdb-xOc1ipV37P_HRuAKKTE3-R2URaezZgdgtYI3lMJvRk3sI4iOxdxUowJYy5ShbzNpGXrJiTto4Lei-zjaW0r28qdLQknPoed0J_u3nVOQ5X22nANRTF9PBE_7c49QLS1aWB26a82BjkgxUyq8r-TYCph2Y34nScUvmfBepfvybopEvU2KUd-us3B6Du2tzfNafYpM9-7AVbWe8tdlpMdv3UeN8b8tSDCbAsD6EsG0090BGOZhgJ6UiONRqy9f3fVVlUT7bPC29khvYbNuaR_TsHyW9tEtMcJiAMsmvC8nLSGPKvjvLIQEH8PZN5XzyTpt6B9nA2pCtbp6zmFXis0mRWLLQccUSLWGYrLLvRIpwWG6A83UpZ9PtVjq5PhmC0BDcpSoMlUnx29EJtUaXt2GhFJo6CcP6HIrmxyj5wKziAwF3PuBOHbO6plh6R8ihKlkiNQX7rs_d-trzQ9CE8F7lukvPKVHWrokYGfVNpsbMWo7cCASFXEUQ-MI8Pa9oYawbp9UEdNKmDYdI-spuXFxfYXTjF8KPjiyjhI7xHVfAHQqZmN5ILjp335lt-cj7xHGqXtmwLzmRL6jyYoaMKt0o81O8TdGRT6enoV1loVYf7qztF6B5U4eBDRYKYtKVX57N6dpUzRl9LT6otZObXmpH_mH3vr47UCLZAt1YgluwT3psrbZPnA3szufualqUceYdbcHiSas-2VCfa_OX-oX4lG--kcGarLLiXa1-TNY4nTQn0wIwpKyegZVFSgsJ0iZehcsSTLcJUSOLAh-WFLwiFqK-IBMVanlfPy8O29q8VAQd7Oyq8HZdfDxQKD6_E7J_dfqhEuEm3reom6JMyF9tANffz2b5RGRWsDUoqwgfIN1U9vF-liQFV0CzAI-kWq4o_iYUwtsmgEPE6DQUeeA4TJsElTS7fH3xsqWx3Lx-FMcAamfdgIXyxKvw0ZZ5O-2y4I5cHrbXI2xXquhEsKTuj6_FdxtwLU0x0xZEg30PMGnRfyJOe8bdhI5EJlHraDKyBTrrbAxSyR8LdEUA9OuLswH4IpCHve0opk8RocVXZZfYmCopyPLrc58qR5uD5u4edWxcR0qMufwzwMa0tb1U3uIJZRniGMfDiqHxy_oH3l_IAYBJay7iVDIBP4nFR7NODg_ZuQfxtQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_09079ac413d88212016abee0cc6a1887d199567a788e5e22c4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 481,
+   "completion_tokens": 263,
+   "total_tokens": 744,
+   "cost": 0.003592,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003592,
+    "upstream_inference_prompt_cost": 0.000962,
+    "upstream_inference_completions_cost": 0.00263
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 230,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

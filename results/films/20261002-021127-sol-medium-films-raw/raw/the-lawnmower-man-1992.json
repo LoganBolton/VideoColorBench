@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907145-9UuoAo3Ug9jCsh1SEQw4",
+  "object": "chat.completion",
+  "created": 1790907145,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Lawnmower Man* (1992), especially given the blue-purple stretch near the end.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Imagining color palettes**\n\nI need to infer a color palette based on the descriptions I've got. For one film, there are deep black, blue, and brown stripes, with a striking saturated violet in the final part. In another, the virtual scenes feature strong blue-violet tones. There's mention of earthy greens and yellows, and perhaps a brown-green organic theme as well. I have to keep clarifying these details to form my best guess on the overall color schemes!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Imagining color palettes**\n\nI need to infer a color palette based on the descriptions I've got. For one film, there are deep black, blue, and brown stripes, with a striking saturated violet in the final part. In another, the virtual scenes feature strong blue-violet tones. There's mention of earthy greens and yellows, and perhaps a brown-green organic theme as well. I have to keep clarifying these details to form my best guess on the overall color schemes!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMTm-ZKzb9lfrMhkRL4jZZgmFSbar936rpJTFb-b79Y8OeCAP-jUVZqiQHfizKLpgQMajF7M2YFZAqwZus8UAn01pwWYlWD1tFlWIsbUP-NN43EFdcVkM5XDidHa4bHoJm2taTsTTEy0dH-pUBvZNsfYUaHbx81-PuNIS_zTYKuUgtVCQ4o_pZ1Y5yrj0D51HexAvCpwB9lY-ZURsMCrWL5Uz1HzjDsnd-3euGk2aaPc6Qyj6yeK8zr3YfK542M_bNMBumZKF0cogG4SoPYkpMWIL-t04FWHAL2tc8lij5UllLwjgMP8BM6-cPNLLbxtiKykFTyB6Hi-_i6sb99NyESVOluZGFwblgfvjGbQCzuHuwFs2W-S2b0R6oslOSO6rkEYoAAS8PBHTjttVnX8X4IHWWQENpuu1iDiv9f8FOtKNd0cWTWPisNsHZ6nOewYRkFHw97E2A1Ip0KTkwlaYy5PWQjwlMPmQ9a28CMGFImipjUzfJOZdGoLhGtmvAn0wIp8LljEC2nU_YVg0r94gUt4-M8hjYs6We_DhX4Qb8GkT6xAInszl2Fe38ZBWD2djXKzx_z7DFa4XX3gL4C7QyR3hMXf-oic13-b81yRZ9RaXIwMmOgI8hIxP86boJ_4cd6FTTncX2N5wW0gZktIVlH_SST7nRxDkE6I1Lu1CyQuw-0y-H6Exgc91gLWrdaIju7XFQ-I82skIbN1l5DjbV_4cSOSdFNuL8ZuAbXg04glAyUTFL1Yg06ixhRc4Lk8nLO1D6wx1v7-_f0xSu9g3XHCt-LKKmOoMqJ6HRxBhr5bgiVBPIxx1v3KGxfHhmLqT9MxSjMPE1FRiBW0-P1qKd9e4_sZlQ9_7lWkU7mOq5khLQUF7FqO6Lg2TZwv4JdsC5_vEdWFoXejS-g1PULlY3axOyGLSXZqvNjPyZ3xQe04sTV8iqTTKd6seT4sTraRuyOVzwcvZlAhXv5kR3NcLeryCHEYA1hKKQB7fd9uHN0n0-2DRX8sbBXhNmcEuzX2cWufe1FQSy0iZXJTfPKLdZQHezw_wz8HOvB-hhVLl0xp7MhYecNF_lG0nboa0QSpsE-vhTLmuwmqfo2-RR85hZKLczQgMkjxKVEqBEeqJ8QW97BJu7_9NWmStZHWmdk9JxvCeygUoIjK1Cy9otClk1J9PEJwsmymYjAzk55BK7arv9HxZRSrOlhAZBUnuKI8q8NrTqoAvxrry8bDy2mNVifeEDA1cfRiRk9C5jLG2fiVgkLhgrysckdoFi_zFkogSEMcTsq-kogkUUM7e_safORMqBCWQc265KjAXi8178F2ElfBMg9bzbnMmd_XyiH5xCyI_3mxupgpEGwj0Nf2WEbqlkC9SeuzO-Nwyek3ws8Sz4O1ZxEUBQ9kmtVT58PYnsrEbVJl1fvha1NHjyDOYODAk9MKAlbF_BtXDnh6MEeLCaqnlHV2P-2PQYoFUlOu0ogigV0ZRGoSewBTVCj0jr6or1fSbqZIicyw5XzvS56kpY4DplCwm2Suic1cdNHX0WrmiHlK-O6yYH-iHN4UwLQJH_lmmZXaCGr36zmfGXG24T9DrH1N-l2StlQNd1uBiA3ZxgG2KRpu0ILlzFhD2wJedHuh3TwnUBg67ZSFY7wRHIDbgS2xFnYiAXCKKqcb8j3hof-Cc8Z-DXqPZKvd8O_XVn4ALokm_Wsl2PPTBNcdCpXq2ib514L9tanoBIqPA7ZdtPl8C6xO9rOzHd6-j2_0qyahlWdsnoO1AORVyJIZ30NUOtPk57aNKovCYkLgaoEzogBzx0au3gdg99fuMv1Eoyfz9-85-AoH2R856l54VMQndH7Xh5UId1JjuN184Jw1xZRn6lPf9FLETVF5JQpZqjPRSKF-yb4NpQWnnejJQnaxhcNgqqCKAns2C8IZ9rX0AK9pDdIglQou0329TLV4FM0oeA0Np9bN1FghnaldqOoU-qeXxKzvMIJGaBS37-o-k6k76qDhw7Bt3lhuvEtTRqPMEorZS6KsXGFUxdlQWZgwut2OuexY4HVBFyPfRF35iuJJgk0MtOw84QX1AehQ6e63FDu3vzWvtAMHjcq06qtNF_xXnhQMri4UhcJS_5cmp3JKwC44KmU3uYOGis5wY7ngunFgymDOATN1n7lvW-qU8CN2Mkw5PVDNflNdoXbomot6r3Mva7wXm7fDImOLXdJ_o5drkue5zCPZMi5dSoa4DOXQl7OZXD9I_frGxm60RXxxTX4PnQQgN4QCdgEY1kBs0RDxKGMktvm1Pn4oU-FqlM4v6gTtNWi0mAqWaI3WbeNu2qdR7Fn3KeWTMv1nALH1w2qIXKtATlEGPElsBuFuM7hrUT1emfNfCgtVOkC.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d0a5dd47e40b543016abf130e65d887d182f1d96d8c1579d6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 426,
+   "completion_tokens": 187,
+   "total_tokens": 613,
+   "cost": 0.002722,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002722,
+    "upstream_inference_prompt_cost": 0.000852,
+    "upstream_inference_completions_cost": 0.00187
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 153,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

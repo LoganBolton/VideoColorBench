@@ -1,0 +1,21 @@
+{
+  "slug": "dame-tu-cosita-2018",
+  "title": "Dame Tu Cosita",
+  "artist": "El Chombo",
+  "year": 2018,
+  "label": "El Chombo - Dame Tu Cosita (2018)",
+  "hex": "#BD9A8C",
+  "rgb": [
+    189,
+    154,
+    140
+  ],
+  "frames_sampled": 152,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "FzG4uDgje3M",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

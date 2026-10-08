@@ -1,0 +1,21 @@
+{
+  "slug": "johny-johny-yes-papa-2016",
+  "title": "Johny Johny Yes Papa",
+  "artist": "LooLoo Kids",
+  "year": 2016,
+  "label": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+  "hex": "#B1977B",
+  "rgb": [
+    177,
+    151,
+    123
+  ],
+  "frames_sampled": 100,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "F4tHL8reNCs",
+    "youtube_title": "Johny Johny Yes Papa \ud83d\udc76 THE BEST Song for Children | Baby Kids Songs | LooLoo Kids",
+    "channel": "LooLoo Kids - Nursery Rhymes and Children's Songs",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,7 @@
+name: qwen3.8-27b-youtube-raw
+mode: raw
+dataset: youtube
+model: qwen/qwen3.8-27b
+reasoning_effort: medium
+concurrency: 16
+questions_sha256: 396649572893e1deb521c72908aeeb4a72d3905e06b8cbdfbe1d002d2fdae0e5

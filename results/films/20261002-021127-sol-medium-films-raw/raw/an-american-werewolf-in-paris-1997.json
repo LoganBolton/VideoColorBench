@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907152-2S2StRXgJ4RbG0cE6fQB",
+  "object": "chat.completion",
+  "created": 1790907152,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Black Christmas (1974)**, given the predominantly dark, muted palette and occasional pale daytime sequences.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Analyzing cinematic palette**\n\nI'm trying to guess a cinematic barcode by identifying the color palette. It starts with black to brown blue, shifting to bright gray and pale cyan between 12-16%. From 16-24%, it's beige, moving to dark bluish brown, tan gray, and then black blue. The sections vary significantly, like Exorcist III with dark beige interiors and prolonged darkness, while others have distinct color qualities. There's a complex interplay of light and dark elements in the films I'm considering.**Examining movie palettes**\n\nI'm analyzing color palettes from various films. For instance, one villain movie has beige basements and bright yellow, with a gray exterior for the first 10%. Another, like Exorcist III, features lots of blue and tan in Georgetown. Stonehearst starts with dull beige for lectures, then transitions into blue daylight and ends with a warm golden dance. Prom Night has a mixed color scheme too, starting with abandoned buildings and moving into various scenes from blue to brown. Overall, these palettes reflect a vintage feel.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing cinematic palette**\n\nI'm trying to guess a cinematic barcode by identifying the color palette. It starts with black to brown blue, shifting to bright gray and pale cyan between 12-16%. From 16-24%, it's beige, moving to dark bluish brown, tan gray, and then black blue. The sections vary significantly, like Exorcist III with dark beige interiors and prolonged darkness, while others have distinct color qualities. There's a complex interplay of light and dark elements in the films I'm considering.**Examining movie palettes**\n\nI'm analyzing color palettes from various films. For instance, one villain movie has beige basements and bright yellow, with a gray exterior for the first 10%. Another, like Exorcist III, features lots of blue and tan in Georgetown. Stonehearst starts with dull beige for lectures, then transitions into blue daylight and ends with a warm golden dance. Prom Night has a mixed color scheme too, starting with abandoned buildings and moving into various scenes from blue to brown. Overall, these palettes reflect a vintage feel.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMjYEKkl0iEjtisGB-bTDkmASnOe3cUeG_JCYag2nlPsDqgx3S69B2SexnYB2XdN8caZ3IFaTTXonr5QXOZ58MV3Mj_pJECLA3I3HJnNLdPVPFL1wPYUqUJ-X6f80GT9XCGD953EsNlgso0j3NR-kE1NaVsSvBEAN7_KSKS6bi3pc6eE3qBAtW6gu_bqd_YVBGQNT8xhHvySasHsoRgMI1n_6o7AU2uTmBz9mSGibonQ00OghV_cS6bS5q_KgABbC4alyylKydaa2a2wMJG7VxgIwOvv4j0LWXvCMQFl_bi7Pj-yHMutMXEFM_qizh-EITt__4PjrW1HibgPrHY_RNbiI6QMUiW_EqQnrx8xoFKFILq60pFAlqCA4_kpm7W8LVnQWiloKa9NZWm1Y73RlWF3PhWCINLAffY8bb_CXJsvpwTFhrKaMGssjVQhxBqGViJGW30U3xckrXkBfsbkDtpC_ntvqqtwNfi1XLtpEnJngArKbKUgEctWfdCSez5BJTE6aP7spI_Oz48baHNhc6X4CCILyvh4jnJPRXDUDOsxff05nc6mgJeG_KBaxeEahzjp2wzn11cjrCnZpm1QgEf6IHZ-moZsd0MrfBRyOIHwEZdDq6lajPmh772XnOTDoMSpprR10DE-W418xMouCLZfL39PqWKuqv-hZJUb1O2F9zcentv-mtfhfY-w26COkj79wUtI9szfcX9Nm7MkOkP3HEoKUfn15NaFt8b4bfyqA4Oxrau42fbhrHRzv4LxbikD2k_T_wsfsinGpoZh090tGo7y5GARivzQhKeU2JTxqm0HKf3d0CkwRxiN2tqsUwGhuAsPnGFimEx8bLLsBltApQep8wYiABz5hgwZ0fMQ0UJVA2VjlNwKrE2JZZRgo4VPKEo1hwazkyUANR-tofO-l2RK41tgwjFf9fo8tdO1nWVh6tluSQoVlJHds9foJV9-OedY8cgRRd42G6iEl9yo-fsbW-K_8clK1FPqp5QwhuyAIeSuHaBoaBDwE1KMwKRcaBgZZfVpBhKsH1UnRPy7IYeXPrx2LG8dRQNZyHXeIe8hFJM0spkIAei9gJt7AIndSZ8MtmVItutZHa2FUJC6Lo18sPuMIncLUoQQfi2-nD6jaUvK481Dxi4eayQYJUhOCEXKjrvr9NdPPsFRkghWbFSxrAYdjXwt-4V2raYwlZY4sKdKottlZDUyvFnTEU_-FLKT5EPqbEO9dZqZAlBeI4fzn1z7VbZlTdbjSd5KI5JeTwhTH55knUm-_fq9RjlRp5GYtmqLmivF1y_hoEvQ9OAI7gvsebQeCM68y92Y8h9fQae5xwA2OKB532bngBqk-qHIIztQrxQpXHC-7tnMN0pyVB4Pag547Hbp3ab8l4DbKYUjHL_B2kIyHN9R1ls8GE6CAusNjSa6NL1rdcgHjfrpY3IuFShCpRDVEUG8k8mV9gPqzbUe248XqpWrC27Pm0rtuyvLFS1lgJPxa0hvi0xq-STOZZ7LhVNEO1wB5qzXWmdj8IfeM8a0X9rWHEfznVP8-_4AoxOkSwtBF3LeAo08bkyKHou6pSVv1pxvzNC9Kkd8tXnJl9VWq7xYqCe1Q-pgB6hnllzTGm0cJKucs8D6JWvVvEB1BLX0GVXACeFUvi1Y3Gqqv0yV0jAvmNjcFVB-QqUF1684XuzovCDF_7W3bHSzSqF8npo5LVy_Vxl8Yg9X9L1ptaL0HMbTv_wR8m38Mvg_x3zhHesvxDpAs4jHtyDeTeiGy7S0SRK2h-0_7cOS9uwUNz-2Q10tT7D9ORkFVcWAC4IMgkg2cpQDN9ou7SNEf8IaftXjy0vD2JgI5Hum3vvobWNn5vPFRPpXPk4affvVxYJM1GPwpJ5JtlZl2NdvDYFI6RS4jvKNE4Y2Hhqs8XLtQtYRYvrCpvHR2-VcQOtJ0-oPuLdYw83WUVroNEZrHk_5aln3U-NiPWf6CXpb3J0kCiNxk6r6RYgTZ-lCxpAY-Uy9gzNCRP_BzaqAURMgRBe6yQD1SL1N5ZwfJDyhRG51dtIybj8huOPdRTcksExRH9ue55rDdBn66xi5Kmo6bryjoOygKY3qYTRHVZzTogTnWhrXxRoecczEJ6ZIQ1A2p2VzG81KDaLydD63jasI6MGXg3b5IztpX9cyMSvEHtvJJeT8hM7ENdgKUIVg3MJWWTzOju1Oo-Kvy2kzR50FV_K0zPdoE_TSX3K5jP5c1Ps5POeKqmdAy66Aj59Qcci138eWeqDdYjTgyGh6JbSEpSLZ324uxA2jMP3fIMYtJz54yMAG5lnZCPkv2IfCzk3zojQrGpe56xxjTayooLHMhQT0I7t7UKW2nWbN-CGxoc22c6ZjJm3cWcEVTI8nFTOTiL1y_CQQ0vGz14cH3YUFVdF38s2DH59xK5K1s2EnniZP5dLtt1C8NGsWzCQdh_Sit90Rm-PsDr1wF8-EvLlq7F82b7MKosC90yZuyEvhwZsD7lkVJW0RwDgNa6WnrZ9NX4c6xnPBVmGE3pNLAJClwu_Cj4EH-48MiO2PtZRNs0oJGJL7pr1RkYMaTs-5sxZ_cBWRpbqReFyPwKhPOpfKpI22XGJe22Ns_2s9C2-NW0BOUR64RvmxYOwYm3UilWlMXtd5odX53JsKvizIIPZrk2f8XrnogEFHYoIy-nr319eBnIUYj2zQPM7B5VYsVdMAOZ98aMe14M8ltiUXjBNd31Z_yxZv-mfyKN-5r8T1YySsFLG5PKvEM3hlj2mWqCdUY5bCaiVeNjDy4DZKrvyuM65N_knezyFvqJjbonxv6zmd0RBdRLno0dBfppnVQBELyg90--VfMsMv8JmNTKKODEL2F1fAslkVXoTb1r90ArOqPjftMSzH8_GdzPsDUCYof_HZejfH2zUeyAbvWuACCESXw5tTTRtL9XiUtlHZZWKE9-_lhh4hlS6utGY-7YevrJ_MOqFc8kBB65r8MedODydg30ClZaG7JdHiTIXVClzISIfV00DF8reYPvpLOKToCSw2J303qru7uKdXSK6jH0pNMRnC42i_ZlcX5409FIW3svr6YvmUo9c2HQ8Z9y6dF171VT9Tgv6EnPFw1sJDOiNyqBJlQkKloIjHPlEzal_qTJvRLuNWL79r7yhT3tgckjtQi8TQLNB9vAvioColvtHhL44sHIZYdVS07WUNxFYfTRd-XJoq0iuFpo3vy4pC9mT_R_Exsosh-7d-eN9Gu2iqcUudM4ylNRRJPhbtpfT7DtH76I7WXYSz4fPtRRHxJ2Pqgd20O7YzOXURaCXEeKE7wdMk6NgcZVvPG3oaWuM8h4mx8v_brvrXuv9rGN_VC8bhqY3AToLRKmKi9EEFMrnxDA_DNRKwukoI8EJk-X4hsu3I9qOW-gIwq8AiuiO1zPdaEXSXKjL1ZYNlJIghD2XmRZSGbkZg5VVGoNlsCR5OozX1MOSteREgtzf64YOi0knY3mnkok1-qP5CFnoDBnv91dRA8VGgFlXshJXyVdN0_eisHshSuWBvAldIP3JTpD_X1cdG6PtIN3fAwqfO-7ds-BKNrMYWnHLdB8BL0H3y6_FdW2ko3xLCj2TNpVTtN4LrK_M1CR_wrLoo6hT3eHsEKRli-LEd2T3aKQlTqUw84LotBOzuqZzT1RlZ6fmkpSxGqheUCkAq-Hp4vffAbsa-CSWbAcXAs5ZU07YGQk9GAh9RDaAEkHGa1fGP1xjnj5m98sArsWet4sqscr0rVEJSMxt0PX3D9hmGnxWWsw_9bR3khf03NPOsMmY5RUzdXbc4BsLsH00-ALXyeCbv_PRm3KoheItl5dxQ1E-xNY30AopgC6zPpqWsI7WTKovky6zvSmyf0aFDzbzb4EtD8mvosxbrgSvA3Xzq5QAx6oKJKyR-_DmSLFYNQQ3-hxSiDSqQl90W6IdDI2joGYNXX9Sv7oRaQyv7dR0MeoBAYnjvyVnhvnEmW7s5qtmLB5KKTL78c_BMiON5X6iyt3dwrjQgg1pTmdHG4Q=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c131aee71ab8f16016abf131547f887d1897c290655fefc53",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 492,
+   "total_tokens": 928,
+   "cost": 0.005792,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005792,
+    "upstream_inference_prompt_cost": 0.000872,
+    "upstream_inference_completions_cost": 0.00492
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 458,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

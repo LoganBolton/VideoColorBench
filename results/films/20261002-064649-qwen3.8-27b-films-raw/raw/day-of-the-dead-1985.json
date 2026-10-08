@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790923666-FOJioY34dB2VyKjHNekq",
+  "object": "chat.completion",
+  "created": 1790923666,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Darkbloom",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the stripe pattern, the whole sequence is extremely dark and desaturated, dominated by near\u2011black with only muted brownish\u2011gray mid\u2011tones and a few faint cool/warm tinted edges. That low\u2011contrast, near\u2011monochrome, brown\u2011gray palette is characteristic of the cramped, low\u2011light interior of *Silent House*, which is famously shot in almost total darkness with a muted warm/cool gray grade. The other candidates would show more daylight, color, or brighter contrast (e.g., Sleepaway Camp, Day of the Dead, Black Christmas).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a movie from a sequence of vertical stripes, each representing a few seconds of the film compressed to its average color. The stripes go from beginning to end.\n\nLet me look at the color pattern. The image is mostly dark, with vertical stripes of varying darkness\u2014some nearly black, some dark gray/brown, a few with subtle blue or pinkish tints on the edges. The overall palette is very dark, low-key, with brownish/grayish mid-tones and lots of black.\n\nLet me think about the candidates and their visual character:\n\n- Black Christmas (1974): horror, indoor house, dark but with some colorful 70s interiors.\n- The Exorcist III (1990): dark thriller.\n- Silent House (2011): very dark, confined house, almost monochrome dark gray/brown with flashlight beams. Known for being extremely dark, low-light, grayish-brown palette.\n- Stonehearst Asylum (2014): period, somewhat muted.\n- Day of the Dead (1985): zombie, some daylight/color.\n- Wish Upon (2017): dark horror.\n- The Messengers (2007): dark forest/night.\n- Nosferatu the Vampyre (1979): very dark, B&W-ish but color film, lots of blacks and grays.\n- Apollo 18 (2011): space, dark with white/blue.\n- Sleepaway Camp (1983): summer camp, daylight, green/blue.\n\nThe stripes show a lot of brownish-gray and deep blacks, with some bluish and pinkish tints near the ends. The middle has some lighter brown/gray patches. This is consistent with a very dark, low-key horror film with a confined interior\u2014Silent House fits well: it's famously dark, shot in a dark house, with a grayish-brown muted palette.\n\nBut Nosferatu the Vampyre is also extremely dark with grays and blacks. However, Nosferatu is a color film but desaturated; the average colors would be grays and dark browns.\n\nLet me look more carefully at the stripe pattern. The leftmost stripes have a slight blue tint, then dark, then a brownish-gray region in the middle-left, then dark again, with a faint pink/magenta stripe near the right, and a gray stripe at the far right.\n\nHmm. The presence of a faint pink/magenta and blue tints suggests some colored lighting. Silent House has warm/cool lighting shifts.\n\nI need to make a best guess. The overall extremely dark, desaturated, brownish-gray look with mostly black strongly suggests Silent House (2011), which is notorious for its near-total darkness and low-contrast grayish palette.\n\nLet me consider the duration: each stripe is a few seconds. The image width is 1000px with maybe ~100-200 stripes? Hard to say. The movie is ~80-100 min. Not crucial.\n\nI'll go with C, Silent House.\n\nLet me double check against other options: Sleepaway Camp would have brighter green/blue daylight stripes\u2014no. Day of the Dead would have some color (zombie blood red, daylight)\u2014the pattern is too uniformly dark. Black Christmas 70s interiors would have more color variety. The Exorcist III would have some brighter interiors. The Messengers forest night dark but with some green. Nosferatu dark grays. Apollo 18 would have white/gray space and blue.\n\nBetween Silent House and Nosferatu: Silent House's color grade is brownish-gray (warm desaturated) which matches the brownish mid-tones I see. Nosferatu is cooler gray-blue. The image shows warm brownish grays in the middle. So Silent House.\n\nThus Answer: C.\n\nI'll provide reasoning then final.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a movie from a sequence of vertical stripes, each representing a few seconds of the film compressed to its average color. The stripes go from beginning to end.\n\nLet me look at the color pattern. The image is mostly dark, with vertical stripes of varying darkness\u2014some nearly black, some dark gray/brown, a few with subtle blue or pinkish tints on the edges. The overall palette is very dark, low-key, with brownish/grayish mid-tones and lots of black.\n\nLet me think about the candidates and their visual character:\n\n- Black Christmas (1974): horror, indoor house, dark but with some colorful 70s interiors.\n- The Exorcist III (1990): dark thriller.\n- Silent House (2011): very dark, confined house, almost monochrome dark gray/brown with flashlight beams. Known for being extremely dark, low-light, grayish-brown palette.\n- Stonehearst Asylum (2014): period, somewhat muted.\n- Day of the Dead (1985): zombie, some daylight/color.\n- Wish Upon (2017): dark horror.\n- The Messengers (2007): dark forest/night.\n- Nosferatu the Vampyre (1979): very dark, B&W-ish but color film, lots of blacks and grays.\n- Apollo 18 (2011): space, dark with white/blue.\n- Sleepaway Camp (1983): summer camp, daylight, green/blue.\n\nThe stripes show a lot of brownish-gray and deep blacks, with some bluish and pinkish tints near the ends. The middle has some lighter brown/gray patches. This is consistent with a very dark, low-key horror film with a confined interior\u2014Silent House fits well: it's famously dark, shot in a dark house, with a grayish-brown muted palette.\n\nBut Nosferatu the Vampyre is also extremely dark with grays and blacks. However, Nosferatu is a color film but desaturated; the average colors would be grays and dark browns.\n\nLet me look more carefully at the stripe pattern. The leftmost stripes have a slight blue tint, then dark, then a brownish-gray region in the middle-left, then dark again, with a faint pink/magenta stripe near the right, and a gray stripe at the far right.\n\nHmm. The presence of a faint pink/magenta and blue tints suggests some colored lighting. Silent House has warm/cool lighting shifts.\n\nI need to make a best guess. The overall extremely dark, desaturated, brownish-gray look with mostly black strongly suggests Silent House (2011), which is notorious for its near-total darkness and low-contrast grayish palette.\n\nLet me consider the duration: each stripe is a few seconds. The image width is 1000px with maybe ~100-200 stripes? Hard to say. The movie is ~80-100 min. Not crucial.\n\nI'll go with C, Silent House.\n\nLet me double check against other options: Sleepaway Camp would have brighter green/blue daylight stripes\u2014no. Day of the Dead would have some color (zombie blood red, daylight)\u2014the pattern is too uniformly dark. Black Christmas 70s interiors would have more color variety. The Exorcist III would have some brighter interiors. The Messengers forest night dark but with some green. Nosferatu dark grays. Apollo 18 would have white/gray space and blue.\n\nBetween Silent House and Nosferatu: Silent House's color grade is brownish-gray (warm desaturated) which matches the brownish mid-tones I see. Nosferatu is cooler gray-blue. The image shows warm brownish grays in the middle. So Silent House.\n\nThus Answer: C.\n\nI'll provide reasoning then final.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 391,
+   "completion_tokens": 963,
+   "total_tokens": 1354,
+   "cost": 0.00213815,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00213815,
+    "upstream_inference_prompt_cost": 1.955e-05,
+    "upstream_inference_completions_cost": 0.0021186
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 838,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

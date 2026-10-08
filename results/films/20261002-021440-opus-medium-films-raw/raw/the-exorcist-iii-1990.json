@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907312-6bmobVL26F5qugyMV4ZG",
+  "object": "chat.completion",
+  "created": 1790907312,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the color pattern, not a confident identification. The barcode is mostly flat, desaturated grays and near-blacks, with very little warm or saturated color. There is a cool blue band near the end. That fits Apollo 18's found-footage look, with its gray lunar surfaces, dim spacecraft interiors and grainy low-light camera footage. The blue could be the space or Earth-related shots in the final act.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "The grey, desaturated stripes with lunar surface tones and a blue hint near the end point me toward Apollo 18, with its found-footage moon imagery and that bit of Earth/space blue at the close.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The grey, desaturated stripes with lunar surface tones and a blue hint near the end point me toward Apollo 18, with its found-footage moon imagery and that bit of Earth/space blue at the close.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSyQYKEAgSGAI4AUIIdGhpbmtpbmcSDH8jo4EraPCszGFjFRoM+y2Du9+HqeM+/mSoIjAe/e/MuFHlfNWC2RWSaefSQ5PxYV+PN25ZZ6UIn4B785flAuNo1SbumjTcS9nr3T4q5gW5ih3CWZEW4Po4MihuCg6leLbesqmVc2VSVEgtAiRCfs2PRKaVTj3tUfadgflUl7q7fmbQHWnryRcC22V3VX9rUsZ+s5dhBljvkIuYrSed+6zaKwHMkMEOf9IMGWu1mQTVp49xut7Gs5+26RlW6DDqrExD+PWNP0E3I5h/dkImBnA/jDvtzZ12wuLifvGAreB9SG2uhzJiakJBVlKVWHYEIynZJHKxzv7R4+ZHYhNhy7IZqjHhZ5zHfzCswotSTlMap+5xzm1OhW/iy4mqvvNrDAkmbixtOGHkt3BPhg5v/ex13n/5TXNeOcjL6nk1npeAr+tlOxXD/28fF0473Q5C3gRTssY6TFsH/HbRzmrVCMZIaTjJH1nNmb/g6eIKDZEkqbUC9gU1k6Bst7b3JEdwYZr+1LFAeVOJz8z+CFTTFkb8gUscumu0F5IKRp7Pv05ub6bCDu36fc+1eolNUA1QsiHffhWdKFCGDkBBoivVUlMJdvKnGJbwa8DT7A4O4haqyqlIj71aaWaB/e1QcyHEo8SxJRjx9xQJZo76/qb4boSclR6IlPl8DsV4X/rtEfltwV4m+E8qpUCZWHTvqil8fHYJ6vq+bW5E8qb/PBvoqyVP6dsKmtxV7zzOQFwVQ/+bm45S3AfWoWtbLd2iV73cd8vIsiKealrwXZRzqvlk04Q8aCaRgvQV33gQw9IXiB3nxps6VDG35r7M3w1RjWEjL9FMdr2tl6CO65Dzg6qsRlhnOqH9+iSCnqHki+yE8trScI15mMbnpl8nrxxVHkJgHmxA8eVxI5YoCWQDVGrEzS2O27YU/82j32sYUfNPpdUeK0yCcML2oyzMxGjmGbRPrWfXxQaM7qCFeQuk8XQFk55wmAC1bUHUDKJil9LSlSgYzr6oFA0d++PVf7CdddUFDcDgaqikt6zFkpDydpaZ9fiiqhC4LpEgamONBURJO1XHqGNp0m2Qc1WL6n8vFso4YXWMuE9UGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 531,
+   "completion_tokens": 248,
+   "total_tokens": 779,
+   "cost": 0.007084,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007084,
+    "upstream_inference_prompt_cost": 0.002124,
+    "upstream_inference_completions_cost": 0.00496
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 103,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

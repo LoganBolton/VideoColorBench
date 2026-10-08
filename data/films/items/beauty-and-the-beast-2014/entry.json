@@ -1,0 +1,21 @@
+{
+  "slug": "beauty-and-the-beast-2014",
+  "title": "Beauty and the Beast",
+  "artist": null,
+  "year": 2014,
+  "label": "Beauty and the Beast (2014)",
+  "hex": "#22211E",
+  "rgb": [
+    34,
+    33,
+    30
+  ],
+  "frames_sampled": 6794,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ZLA-dVW52EI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

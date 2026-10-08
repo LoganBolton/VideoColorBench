@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907311-bjGPYO0shY3HJvDNLzSZ",
+  "object": "chat.completion",
+  "created": 1790907311,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, not a confident match. The barcode is mostly desaturated grays and browns, which fits Apollo 18's grainy, washed-out found-footage look. The blue-gray stretch at the start could be its NASA-style pre-launch footage. Several other options, especially The Exorcist III and Stonehearst Asylum, also use muted gray-brown palettes, so they can't be ruled out from color alone.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm comparing muted, desaturated color palettes across candidate films \u2014 Apollo 18's grayish found-footage look, Stonehearst Asylum's gray-brown Oxford opening, Exorcist III's grays, and Nosferatu's browns \u2014 trying to match the barcode's gray-blue start, brown middle, and red stripe near the end.\n\nThe blue-gray opening fits Apollo 18's NASA prelaunch footage, and the overall desaturated gray palette with hints of green and brown matches its found-footage aesthetic well, so I'm settling on Apollo 18 as the likely answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing muted, desaturated color palettes across candidate films \u2014 Apollo 18's grayish found-footage look, Stonehearst Asylum's gray-brown Oxford opening, Exorcist III's grays, and Nosferatu's browns \u2014 trying to match the barcode's gray-blue start, brown middle, and red stripe near the end.\n\nThe blue-gray opening fits Apollo 18's NASA prelaunch footage, and the overall desaturated gray palette with hints of green and brown matches its found-footage aesthetic well, so I'm settling on Apollo 18 as the likely answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 532,
+   "completion_tokens": 568,
+   "total_tokens": 1100,
+   "cost": 0.013488,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013488,
+    "upstream_inference_prompt_cost": 0.002128,
+    "upstream_inference_completions_cost": 0.01136
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 424,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

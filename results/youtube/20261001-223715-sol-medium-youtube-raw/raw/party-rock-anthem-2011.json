@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894257-TMQrSgOQIbCmq7Qg6Va1",
+  "object": "chat.completion",
+  "created": 1790894257,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Alan Walker - Faded (2015).\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing color tones**\n\nI\u2019m thinking about how to incorporate dark muted blue, grey, and greens into a soft, warm transition that starts with black for 6% and ends with it for another 4%. I want that faded, abandoned industrial look to play out over a 3:32 duration, with grey and blue scenes that eventually shift to a warm indoor industrial feel. I\u2019ll make sure the palette remains extremely muted, aiming for consistency throughout. I need to keep this concise!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color tones**\n\nI\u2019m thinking about how to incorporate dark muted blue, grey, and greens into a soft, warm transition that starts with black for 6% and ends with it for another 4%. I want that faded, abandoned industrial look to play out over a 3:32 duration, with grey and blue scenes that eventually shift to a warm indoor industrial feel. I\u2019ll make sure the palette remains extremely muted, aiming for consistency throughout. I need to keep this concise!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC4CnKkwzyzaNkbbxPSF9xtGiQ8j6-vSMwZec67pueJzo1OUKNbJFe5SAvQSsoJLXzzxm-nLbCHEWIljCf-dEhqiqQZZmW-zgThiP7XxqFNEtx04Of-mA6m-4txMckHclWQarjUxBbf_4qzwS5KvtrCSuKpq50yTuC5RQ2f9WxGCc0JREOSJ9DifuDpaKwKeEMLxdRwQTon26RJuQWFn7YUAC-5_qhjP-C-za4owGRay7Aaz-HLB7nmDgjnSq5p03hs69ml-MlBD57CIKtshhKp43Ya9pr3O63t1QkzWhVh8BbRol35T_RpwWnnwhBTNHQCt4-U-9xo-2aPrb_pSf9G_o7A1VDWel6vTl1Ag01Nz6gPVznY22OUogwz0sRDOTnPbRE1111vrPSXAmw8Cc7nmpbIaedeQP1rK7dzioCr4CBmF6QOUFkv7vLaEFYUw7bZNwvVylbG1JoPtsto_SlEQpin-MmNx5017z6cFDbkwv3BvXUpOe1U1IQjxSsPio3nyR_q7H_YpB1hzqSWPNkc4odJhCefvyEmvFz3iRrZzpD_pSK1Z6oSTPR3HSVLrRai8xduUJhIIgXV7ofgiE1_Nld7fOq4gZJK7SjPJdHJro8EcrHuJju3HPOl_PsnpNxVc5ag32uw0be9Xvs6EB0JukmnLX0LrRUsZONJ8v_AaQ2TFLCpbMVBxNYhL3-pRzefIe6gOTRw61_aeaRclM0p4NbXQW8FbbxZ3h3q91BH2fC1dwlQS6aFTZRCUhlfP3FZFR6OrD_PFcrC7slX9n5HQkD89A320QNnQPYXqSn_EmdaLv91gKQRZUZy3x41OyH1vqh85uHmHeKHlCxB-gZKB5FjTSMZ3-Huf_UIwCYmv47kMW5Yp4HBxHno1AG7Zr6jKyxH6f47XI11qknGQBdcqN1WwiQrvf7ymyynLjmiIFHh4HuXhGSNEf1zLhowRSO4_5i9Gld_A0AMISNqMim3WVyBvS8y62cSe8mCQyhf9b6L60oOEv8r4GmtvhFudlrtndaQsgeA1yF0N0vh7ljwDpnNWQGnmQMbDzfOsYazcoxLzOqvnxkL-gYbvBuu1VnK2Wk2jlVkz4mIOlFMcOpRSf2g2KUe__AbMgUWCQCXXJ8khwm10pVMS_seqny570lEmf5xk5ABbWMfllN4_7NGQLpBi7FQzfI0QBUduT6A7Y_8b4DLoQi6b07-sMOL82u5-RoeCxQ2mpz3ja9h800a6mbrhChsRUySGAtK7X3pVo03BnFrApAxtkrzPuXtlMlqcNgquuhxS1enJrSBkJ5TOSDXmVvWedHHqYmLTSd7FNjma9X8I0_9gMvgh_2NBkPR-cc8rMKQFxnL7pKHJ7WvgLZL5DGGFLbPe3acIC56y-wJudO97-lwQRa2VNF9_6sdMcOWhjtzK3bCjX_N6vKCRNGr-_jhxen3ffnk6UWxCqz4Ui0Dv41DPqNDyxuCMrnH8_tArMgFiuXW8GUR1-9bdF5IQdOrIh1PnliM_wFF1zckdTgxjM8ndg-rLq89-XcgMOu10KaBdT1XQzFBevsJ6r7CbfRwTsuIG962Vz1BWbUMfjr9p7z8VofPb6W5XuJFx_dS11CRvZptT3SEJRgZNjbfA1WWJ9bNvp5SOMntg7VPtpHRz6hwCeZ64XD6YQA8f-JY4zbblAvQ-9PCVuP2ksSmSLSAynALJtlabxsZla00_nTsAz7z1XCNpv14yRsYwBVabBOV2-pHLQb3dx9HeczpX6dBIPlOZBj_nBQVFuWwBx8L5aTD4_a7hXKN4gG2bVZGA8PejvJatJFamFA7ZLk6jWX0O9JgSBzqCQltL8s=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0051a2b57434fab0016abee0b66e7487d18740a4608578b8ed",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 481,
+   "completion_tokens": 101,
+   "total_tokens": 582,
+   "cost": 0.001972,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001972,
+    "upstream_inference_prompt_cost": 0.000962,
+    "upstream_inference_completions_cost": 0.00101
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 79,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

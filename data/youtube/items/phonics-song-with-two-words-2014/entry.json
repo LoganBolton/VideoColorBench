@@ -1,0 +1,21 @@
+{
+  "slug": "phonics-song-with-two-words-2014",
+  "title": "Phonics Song with Two Words",
+  "artist": "ChuChu TV",
+  "year": 2014,
+  "label": "ChuChu TV - Phonics Song with Two Words (2014)",
+  "hex": "#6E8380",
+  "rgb": [
+    110,
+    131,
+    128
+  ],
+  "frames_sampled": 245,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "hq3yfQnllfQ",
+    "youtube_title": "Phonics Song with TWO Words - A For Apple - ABC Alphabet Songs with Sounds for Children",
+    "channel": "ChuChu TV Nursery Rhymes & Kids Songs",
+    "via": "yt-dlp"
+  }
+}

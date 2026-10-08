@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955395-ARBY7ZKpwjSXNyu5ViPM",
+  "object": "chat.completion",
+  "created": 1790955395,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI'm trying to guess colors from a vibrant video. It seems like \"Echame la Culpa\" features strong blues and oranges, with walls alternating between beige and bright colors. The background is colorful, and I'm wondering if there\u2019s a turquoise hue instead of strong blue. The \"Criminal\" video has a mix of grays, oranges, and blues. In contrast, the \"Dura\" video shows bright pinks and yellows. I noticed a lot of variety in these vibrant color themes!**Describing color combinations**\n\nI'm noticing a lot of yellow scenes in the color palette, but I'm not sure if that's the main focus. There are shades of blue, orange, and magenta mixed with some pale whites. In \u201cCon Calma,\u201d blue seems dominant, but I also see brown and beige in the alley along with an orange-red jacket. The combination of colors feels strong and vibrant, creating a unique visual appeal. There's definitely an interesting mix happening here!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI'm trying to guess colors from a vibrant video. It seems like \"Echame la Culpa\" features strong blues and oranges, with walls alternating between beige and bright colors. The background is colorful, and I'm wondering if there\u2019s a turquoise hue instead of strong blue. The \"Criminal\" video has a mix of grays, oranges, and blues. In contrast, the \"Dura\" video shows bright pinks and yellows. I noticed a lot of variety in these vibrant color themes!**Describing color combinations**\n\nI'm noticing a lot of yellow scenes in the color palette, but I'm not sure if that's the main focus. There are shades of blue, orange, and magenta mixed with some pale whites. In \u201cCon Calma,\u201d blue seems dominant, but I also see brown and beige in the alley along with an orange-red jacket. The combination of colors feels strong and vibrant, creating a unique visual appeal. There's definitely an interesting mix happening here!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8-Q9oWADEW6trWp7MuoLVx8sToklLUz0A6DWGA0F_nHEzuVCrqn5_zKwuSfNO_sz0PDli9Vt2ewp1kFeySgPa4nH-KRtWU-DGoc63OLLrgqrDksj25wD4aOq5US9NY19AzYvJrvj7IMmg3vZn8G9RP0bjPGvpGvzhfu3epSO2croLw3Tw4jStJUBHEnJ6-hxmGeQhyk_ESvk_viZXODfIwd7jns9k517_g6JOuTaukhVLMCbrU3J9fBfix8M85d0o9QV9-WgqoJ8lfGIRLGhJuC949bfMWHhLjGc5MfxbQ2qjcvyRzPuAIagO1I8Kv3rGq74eZM_RSezyEmpyroBof4H4_pqt9BfMahzd_M_5i8ZTqa9Z4LjK4H7V2mQzPUb_ly01LAWHnjJy-lMqkRsOs8Z4gsto8KuSbjgTiBhc1hS8QlmF7T_2Ow-Vv74-37i4uUUtSqr1vKpVHMESJr543XuikXmB-cw-tHOEx_8JTnmGdo_MH1g6hLlPlqQDri6xZaScLHigcvkbT2cPJbQc0eoEXZr9uXUzz4Y86KfR-yNTMP7wkdzdXrdgQ9rBhC2NpGAySe02o2_6n00KCtyOG2rHR6swRdRZsCYyIC3R1bV5GE0PlNPI0W3GZUjsjAShKGJ5AZjoedXZZzwb3L8LB2lnefCKminTLue83c8rKivPfOahBOGuioAmGHy4xSUZBPndOOGGi-TRSc2eQNGFspF2dUV37BROcQkqIx6FmlYCcl6tDtwTrMrLzknNR-S3k2mhrylp6WdMq07sKTNRgjaT8C-Fp76ClsLSuM-WfCjUhVdxlhDRKNEnjFjHdOnU0XWl4ESC75P75GqixGINRQMASIRU_CKl6z28bycADitCTOQBX9YVAMdiysI26TxPx7u_euyu3I2s8_0P1GD2vKtKNX4UDYvN7XSXbpopA-Xf6R6F2UQNndHqgsfTU3ejfWAmZNnzcagg46K9j5obuhSvXn2qGA8JUPwd8cfu543AiNCJWUZcXPD8eptarCPg1gtogqT-hKLpeUGMRVf3wnIciQgxZPm3xVSV1QeckYtL-n-eJjyF0utI_4KMPKTtVlb3_F_ojctaHmLcFj0whCSWKOV3OPmwEAWk__lWwnmChvDosrvD0w3NoI877EdrP7VIBrzy4rETW_Z67lzXA_TyopEwYBgDz3t_qzuXzgaOJdLFOQlIOFcGyEqaYLwTV46sKK6ClBbu9tV2ZF8l1UsLetLd_wM8OidpaG0pC-y_3FnVQRpscVGqPnrHWU3D2OUj_DUmv0H9VwgPzBZ9X9K3TTV2VC7rpb7T6byrR75OiE23gHqsKYUneKgkF8O2YF0Bt6Kp99LOiWuCilbhowz0mZGnK2ZHS4-SNoZ9AKadov9t0xJb2bOdlZuNv7-d30YdnqEz5z09KjfyQe3ToE77mR4OLeyXkzg6HlwSd0auZtft5kkNWYTBhEqzxbijqCdjg5WVsHqBODI2HtalcFd7WtOnQjePEX5OQcdMLW6G6v2p2lvQSMpjknfdVA2OW0JW4pjRSI7ObElZUTaWh3D2gMCYvZnKJpHnxJIS88-qe_bSTCNJdwG9sn47bgH5UBlPe2u-iszDMHc-Jwj2pYizOMaJdY8Vwv1t69fffUQxwTWxn4toT-VmAPfFyjE9ADmWEr_LAILxlP0beIxVOYevif7tes48Iiih_lHjIf0FtSVhPnlnLKIzP2OMaGZPYJHXV1BZKxI-pfSp4qf1ryWDgVcd-Rs6SQDiBFvwdjqdltaANSxiRuyecmLj-THYc18NdQ0yN43VVAY8fWS8Wg7IKRzzzTEyJdLgHLqH-QOFshHE4LN9_3f5YzImfhugsgZpYIK8X5noPjQLkWcWZnRfZBp07m91noXohHBjjwaXe6i1BFNYfRdYk4BBr42OixHsgDaA2Og14bwMCbgzSJ8x1R9D2bOqGPzyYTn2tUxQSu4CcquD38hfW6G9gslU_adkyuTFufrHBzk80RoTwYMDB7RHJQ1jgP4aWGnCppdwb6FwTLGzMgZhCHJWlC68o0LXIpzFZKt81idDV6r475wuurj79xRroh2Yo0O0KcrNUaWDaujxBnmZowsqEQ-vKUraSYzFD2yGydOiYoqBCoquPSxqIz07JyKBCX9DgjQa9Ag2VLEhWIyElewloO5hWfC9RlLwEj7-5CjHTVQv03sWFGdsrqEZ-DdT8nSWE8kZrbUeN5E9uAbIHHVD1w3VDCfdttp6jLoRbPe_WPcB_ipbgVEJfZqHmmJtpKkGy6c6o5Obu74zXUHZid7xwLJgLnSt9-A5jrXo_UtObQB_poZ_Ia0aysbinNUDs7m6h3s_ayO36iT9ubQ2FLBUAmS3mZXhrX_KLImKga9zAwUduvZeFtnzA6G6zLWevKaizoxx6i1t2wIHa0xz0y4UuR-IwojSlYUgAEIUCIqjHm6AoT7AeL3WR-45jxy5BK4r-5o_ca5YdVvxjgX7whx8dhhvu0Cq5u0AQvuQfnh3qQ5BY5dSNxg2mQnZoxYvoBgCW7-2qrEnmYv0C3zooKow-AmbBiGP3le2vxCD127oYRuN7luw5X4NfkuYZ41llHy7QPwbedjWHR7NAE0bs1EoIDJgJ5wOHUM2P0Js2CDKv0AmZXiVDwH1Q9Qn2hJMy_1H2eeTIfOeEYbJXkJ-e9WTX9IkgyD83co-usDSUAjlcQHPkaGlDiaYn-9yODXCD_YTBwyO-VysP3_tXxhqOoeUywA5Fr3faDerdXn1KG4D1dIK6fcuh3vzMw3PG7_1ktpjI82tGzKl8ZiaxEVHv28jqEhRPVdZaX2HMWeCSkA_BkjKS9Rw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_057e52b50f6f52b8016abfcf853a1487d1a038def7de649cb6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 499,
+   "completion_tokens": 237,
+   "total_tokens": 736,
+   "cost": 0.01684,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01684,
+    "upstream_inference_prompt_cost": 0.00499,
+    "upstream_inference_completions_cost": 0.01185
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 228,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

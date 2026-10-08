@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954462-c2HfHmSDGzjvNRPBx86X",
+  "object": "chat.completion",
+  "created": 1790954462,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Linkin Park \u2013 \u201cIn the End\u201d (2001).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vlGnzRgCmPXr-bCBHrUcwDUwxWBzOJHKZBOTR6aMNZj_mpNdwo8pA_ZPtjpqVuWmd_pILeEnm9AHGNecWD_aE5yzFkj_vyTYtgJE8w0bJ4jacp3wzQNha4Y7JhhvL2nLmSO11hBW4jGSJBEcdlOKYiNhq1mhMjTxwMZmyMEHmd5yKLR7sNEChuFdTlgiLzlrJPl3HMz8r4pfShB_z2StW5EPzBVQ7t8FOCW32duZCsb9LnLQH7Zjhox6NvvjhKGXnB1Zu4zBbrEzoqwyObUA_l8FTlhK_JgHrc5LGwU2JOeK7ATu8KUMY8tv1SFSXCZ_cIiqlVnVkxdFrzHBxYB7MACkAYlUsY-NrmIPa1Sotuom-4w_kPNGxxFdWopyJrQ5lQ0Fo_9av-WN9YSJhHjYxMW_KnlG9XXKOFk9Mczpa7BXQoYwLAtnYvMJNw9cjUPwPfAHvV51sTkjhWWmKy24ywqMP8KOKQdp3QNUeYg7nbgIJthk2XSbxWSmL-AgPwStH7ANvzGwvo0WzXN-iWRfEInL-EpoObZGJNsYrbKJCgU9U7js65xPZ_DyXb4GjWJSU7LH11Dzm9oR7Xhaq97H-uRZXlUWqOvtg0ZI7OirTIL75rMMPNNJ8my3NqZFNgLLzMZ2vG1-_JxVNWGnPvHSYpe8MyqLpR2gKgNdYIiOYTT_4RwRbt6Rfiv2XvBK7XeTe6P-cOfgoMsX21ynji-pyBTem-KNkkLkVwHlaKblxZEB4pA_9nxrlTEBpoBUwpeq79RypbK-oK8m8kbqCy0pu0Akvq-U8biVqfprBLnPM-n3JIKsvEzPUYbohdm2M8RzBUyJHvNKjQDLeasCoP2w7vTOo_tRPFakplM6KiGwqhU7Pe95polaewssIj06ZZqNFC6-OQmRcqezMTQapEhOotGUwrD22V9QH9V0I7BOuA8vQFp2cCvG2n4Hxxo0tjv9akfacLPp3On61zotw0tFY12M8Yxg0npm-gqF9IVfoRBAE5j479BYbgnjuBmIG7AjBmp92z5S6p3FcHGXos8_67Wo6jGyyQ8f96NCXfSpBM4bPMES15754UL6K8_xTqg4VCXgR6zqSlIsujWyGsqVPBaIgVrlTweYKCRdO0V__mgcY16HeNxKtC5tlFJrl7DbC6nMP7YsoEC7vljion-AbnK8MnD68Eip_dxgjD1xoqSZnxb-JCM5aUIWudDMDA2zg0r-nxlWtbkEfqM4j4ZvArA-mJACtBSrCMxbYAxLnsOBSJr71gDczoPHpy_xcsFmo0AZRpRXHW3fnxAxY-SVOnCQ6rva6JxQcEdGzUgavIx1-4tDRVEM_Y7I-G26zDUFeU1Em5t7SwaZLRShekDeiRRnaw8tHXzcUS9FoeJNq8DB8_GKRRnPIGdwApIX7lELBj3eZB1HtPfSBhvS0HEkj41BPoswTHKIHQkuvRwLvFngouHi3jpoozePfxhSF5PXhFFXjc5HbMKeg5ouGSlsvu67qWcWYltwCokKqy17UcLen7Gyl5mXGJ1rMds59FLyaX7hsL6uB8zDVExrrYFNCZDK03Z53BM4rm-BWkECmu-O8vX-jYDAouGgjZYzdh7HgoiZfQfa9qaKMsAmlmYFiuhi9sWjMyRUxfE1FsrjaBy0DZMubu7LslfD3B15Bo_Epf2m0qZ8RnF_J4XGX__LfFYlVnPj8mOojujMnsMpIUqV2QNY_W9qWlaN-U9pXFnrVs1acPaRU-QyGgsk1VjpyNEKXVueo7wjfrHS-Xfg3P6ZA1Fr3P8ym-GieXhzqCflSLIBA_a9zdWe7n6I5u9Xz6rrWgO-lgJVYm8bC7ZN3qarIsh48zNe28RLX9PZ5aQliycgyWLKrzc8f5XPE8GqYtkc6LvjZWKS8KbnzDoHyJOxwxiLlcHusSkby7gLdZ83AY61JHfQo9R7dW1YRu5XFqb2qjcCcZVKrpVTcPbiYnP2uJhZGr6MLlqE6U0fF2Yvta28XR2A9Y7bTb9CNz-kBP_inT9Y1t5SkAmuMMv4UZjCVodhWdGdf7FuEfqdmWX_vEn4PAmHsYig0Er5Ulgrg8nMxSoyJNHLaOWAFTGVURjjP_CZ7x9VS_LsuKX19hA-zU3WZjqzeuJ3Ip7koSEGmUsQqrg8Bc-jRkG7qAfSSqvmiqqBrcC_2BO2pL83qLTkygkObvKH0YjRKbMJHFTmOyE0M4GBej3hDcW_Hf_f0UGFCCkuHepmBKkR0owgKiUbgA.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02a8d31abfc545fb016abfcbdfa62487d1ab28c2732bce6270",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 178,
+   "total_tokens": 651,
+   "cost": 0.01363,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01363,
+    "upstream_inference_prompt_cost": 0.00473,
+    "upstream_inference_completions_cost": 0.0089
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 152,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

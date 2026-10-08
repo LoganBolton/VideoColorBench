@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894291-8skwbTkPvu0NYdN68V3v",
+  "object": "chat.completion",
+  "created": 1790894291,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - The Lazy Song (2011), given the consistently warm brown tones throughout.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Analyzing color consistency in videos**\n\nI'm figuring out the color themes in \"The Lazy Song,\" which features a beige and brown backdrop with a plaid couch. The brown stripes are consistent, except for a darker intro and ending in purple. The video showcases warm browns, particularly when switching to lighter tones. The background is mostly average browns, with some gray, and the overall color palette leans towards muted tones. Finally, I noticed transitions to bright colors in other videos, like \"Wake Me Up.\"**Exploring video themes**\n\nI\u2019m looking at the introduction of a video featuring two characters in pajamas, set in a purple living room with a brown couch. The dream mansion contrasts white and blue with pink, suggesting a greater variation in colors. However, there's a clear sense of uniformity in \"The Lazy Song,\" which is quite noticeable. I wonder how these color choices reflect the mood or theme of the video overall!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color consistency in videos**\n\nI'm figuring out the color themes in \"The Lazy Song,\" which features a beige and brown backdrop with a plaid couch. The brown stripes are consistent, except for a darker intro and ending in purple. The video showcases warm browns, particularly when switching to lighter tones. The background is mostly average browns, with some gray, and the overall color palette leans towards muted tones. Finally, I noticed transitions to bright colors in other videos, like \"Wake Me Up.\"**Exploring video themes**\n\nI\u2019m looking at the introduction of a video featuring two characters in pajamas, set in a purple living room with a brown couch. The dream mansion contrasts white and blue with pink, suggesting a greater variation in colors. However, there's a clear sense of uniformity in \"The Lazy Song,\" which is quite noticeable. I wonder how these color choices reflect the mood or theme of the video overall!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDd8BLb_09HkKd2qgGgeD21IOrypedaPm1wmuCpvM107eOZ1YYymrDrsdm9Jh8V8nWmQLguNIXo_OknLniqKN7R-r58Tr-Wct4_PE5RTQD6huh6p2sIN6kQK8aOM8zLlK8boqUyyMkftQDT4K5kpTGJRmXaS72gWyBLWMnGyyleULATKJt9K5oFeHvoTlz-d7UPy0k8v25xp46X1nJ9PfrP15r6yqqn_3a4vnQWpnkbez3pKWM2izJVoBB3oBRTkJdhfruX5HcJX1A0cLoO7IB97rgscQg4702k4aH63Y6qv7qxbNcNpt2MpPRXc7zpRMaOVRjcZL7-uTLyLai9Wh_doCLbNV-SHepRYnjDD5k2NEk4cdfj0eQbR90oT_nIXzD-uLWeLlJfxzXEuW4wRe19YpKEXpOop722vJUmLGw3Rv1p6rd0q_Db68ok6CjDtcZgTlGAALz5WmPXzc-TcyB3L2hDz5xqt6-Ph71t8yda_XihkHf05JRSJRIWenOxwKJEb9W24Fka6fwwQFRidqJTbcR6VSL13OYBxkQbOYYNhGcuyvB5QCrn_3OWk4AHok-pJUAMgT9v_stKL4bP7-Yx84rt3eA969MyShs32jGs5aTPitIwOebMJgF69TABeBS7c44h_g_ShEl2jyDFHGph5Q1cSC92tsGxI-AAuD7CpY6kiAgHMzVcaU16FCnfPZUsw2CJRv_DsCkrr1Lb57yTBSmA3ziD3wgV4pvXBNvy3kq68wGJC59BTn9fsQxrc5UGMYlErWQ05AcgZlQFVLkp9OsfrEhQj0ULXKKqekil_4l8PW4IFtbprrhzZD4iTTAts1_6nHVzRPHghxL-5Mr_yT-5b1Pq875H7Cn7yfpY51MvACtTrROA9rCjRHXVaKYjUB9AwUODWJFbsKkVmua24urCYl0HY1EaGif1JG-IKC4eRjEBWKTn2-z00cFZMi3zEzjHTEvbKl291prnTfUlmPKf0ra8O9wWlFfQhkIw62oQdl-LKtonNQ0h-dWayUNSnrtFIp0Ii3bk-BbRmplYwbzcFM-1FOHH63fKSxpYiC8dKgaY-mxK4GDDALFbBkfXeitn8kyc5NyxoxkNkfd2z_POx8kT73MpJpK8wT7XnuD0M3X1KKjV4rXRdzFpZT4tm6es1708nC414GxImqNWc6X7GL9AjoTcNkuqEvQoawFLk_DZBYBQptsiFrkVPshTYCKTPaAOWi3pVTye6oZbCgY6pSWGhEUmZ__9kHw6l44LBXUrwb_ugFFEcJpXbdpgkOcIWnfN88_sYguzWARf5hmjPnJEwBpxbvxeWSp49bzBfrbcNqsqgn_ZfwcG28cz4quho9358-zC_6PHxsLCZ_cpSzRYh9Xeni-Su-cm24d8bmXepOtUVTazAvA2PEmbsMTMRnY5XqHIAGJTXPTzfWKwU2Eb63UYIuDJYvX7qlPLsqfHGJ2rUSPDJyIYsVgDNAUCvEMBe1fKxeaIbic2EYgmrGl7UOiYBz8Kvv52zxL0Tl9GamsVeTmnGO9WqmAlVpYpuqBK9YrNzraTH2TiOAvB1ykolnqLNlGVfrD5qGjYUQEiW3Jx4ZXivO8umnD4zfoVF8k5aMxcA5tfnbP2fo2xCGD2j8Cxk7O4Vq8TYS3w0AciRAjZBkAWbKbDy1WD6jVfmWwyzF6RPPx1d8StmKEbs9fhgcPM_fqlFEtYoR0_YHzznE07m3yFTUhZ_iCljwPwA4HM360_bbdva5VQLxsm0SI8Qe9OWRMJWdmepbP8slty_G5Hfxo9yE2jin2pgcIqnpGdEbw-xkazXUu39usld4JcmjbK2Xr3CB0oyLeYfA3sQimunebcSfGHGeXqBVSzJvFlNcjyWJQb55pCJG8fbP4OKl0NXh95h8EbayY853npZu3X2jK9XOBYmxmKLyV9wbI_TZy2eKBfPo67E36K5p_Ne09CsO8aFEhk00lSLuXA822tyoR9quFd-8DYVL3HmFiaqw9BRZ7Kx0Ynj5Xmh17j5Vj-Zln6gwKXNNj3SWqDi04HX4TmnShrpzPwGLjSuR-hzmg2e3DFVdCArb8se1_vUnb9in4WIML0_jGC2O1y6T4aKSzy8S_JRpRKQrkUvObzNbeN0zUhVZwo_iH0bTreiaIxPcF0XsNTiqCw_DKFp8E935sD6_WROUs3Prv9MR4Fi1Bztnn8ZXabJ36HprVuK4I5-1qSGNtB2kzEjqNTeq8KCikLRCDcaodRq1xb1OONPRQPVOc7VqWcidCH7ztxaA7vKsrKj_fCvyLny7KlHD8EvBUBLGrrAinyBq1sZGPj1fj5KEU-2nyE4D4t3s1SHhDz1PngX6z32pJ8Z_PUUxf2RlpjGKDKoKP-HDGjHIX0VSj_P3zbJTrYnh8EZgCCGJmYz6yyxfrzGfbTUQRi_rAp-zZ_yVFiJArSKF3eV9HYwfkDUJevrsBoTY9s55oAq3Uv9UHvSP_botCwAsO581sl7gCg5-MoiEUjmH5O3E5e-JV6fmGft6Yn7mmvq-sT8n_UjooAyvXuFgxvUtHA6vxcomvg6Vm1CIr4sJ4mB3JjOR0dN7Q8mwsr1MyfuZoUf_0nmASbQjikw8jy-W0DiAhr80jpVExYgAAC4e0SIt9GXABee01YeAQNSuy7sWB-6IEBYrOBmkCSZyTEYOx7uymlH_Kcispg8mAi6fA3fBJ_NKiN7RScYWr8jXAiLlGX7HFuJwyHKlrQ3KjcdtJs5TjlnrbmRp0bBPNJ.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01edb8642243c85b016abee0d5105087d1b68ab59f66d85b7f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 235,
+   "total_tokens": 727,
+   "cost": 0.003334,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003334,
+    "upstream_inference_prompt_cost": 0.000984,
+    "upstream_inference_completions_cost": 0.00235
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 204,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

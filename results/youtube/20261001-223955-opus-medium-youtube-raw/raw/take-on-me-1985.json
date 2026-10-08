@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-pmIZez4XuAtVOMSIzSya",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the colour pattern; I can't confirm it from the image alone. The stripes alternate between cool blue-grey stretches and warm brown, orange and gold stretches. That matches the video for **The Cranberries \u2013 Zombie**. It intercuts blue-tinted, desaturated footage of children in Belfast with golden-orange scenes of Dolores O'Riordan and the gold-painted boys at the cross.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "Looking at the barcode's color progression\u2014blue tones shifting to brown/orange then grayish blue\u2014I'm matching that to Zombie's gold-painted boys and Dolores in front of the cross, interleaved with the blue-tinted black-and-white Belfast footage. That fits better than Linkin Park's desert browns or a-ha's gray sketches.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Looking at the barcode's color progression\u2014blue tones shifting to brown/orange then grayish blue\u2014I'm matching that to Zombie's gold-painted boys and Dolores in front of the cross, interleaved with the blue-tinted black-and-white Belfast footage. That fits better than Linkin Park's desert browns or a-ha's gray sketches.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/AcKEAgSGAI4AUIIdGhpbmtpbmcSDENPRzJxZqTJUrHO+hoMhYPgA+J/3whrTJyqIjBjFsvSaQVZk1Oot/v6VMi12WbGvhKMubtuuOgVUo9TpPz0kTbjE7tEeB8Neqx0ubkqmQdtjAobv/o+mXRpdMrG/Lfncx5rTgVoOXM8G1wVW217TWAjULG2aIIlfmcibPI3CDv22QpMieWQlbl+x93sAZFB7BTQwa91p9mDH+B2NERQKBIJ3HCYmbz9uUJyqRJMgmGy55fK7wzf/mS6nmWz3gB3MgBWmZRpQxYoIgjg7hkeMkznXfuu836wSZ24Km4ZDaeii1QKandnukgnLkVz/VPKr98VVawJHJ4HSXZ4Q68ko9ESikZV4HrwwFw7YaiwP+l0Qvb6oRrD7Nk1gADkIMHR0eRIqHCs72ro+IAKwbBM/XTC68gr93KGa6l2ohOK7/nuphrfFtoeekODb+tBCaDwgb1TXA9pfZXjwOzkCJAIPl0Tjma9sEwC9wAyGE11CSxUkz+Ak5AmqxzeCkqLz/Kh0sEpvzVbViNqZN1IheDzaB0giU9qF9S7B8LnOmHlLQS419HM4SkUkUPTNMaz6vqY2JnbvlCW++YDtvt7jWv8KoGWdHxhMJaJ9OSVyuiyguwPz8rw8/MGubG4S7s6K+3IYCF84cGB5Cit/22yT1KnB/8xjcM99yTRgpqUY3ZWfInlzsCBTATeYn07Bl5vYGH0tW4Oz36yWDLuU17cwAYtIbZDXZG8SWvxilC1fFdB0TTZ96XoLwRN3kduqgCMqZ5C8agUy7qeRrARQSbvvzPu74+pFCAMarnyMA/Zu1NEdkr5LPJyCrFP6U8D+YnJRVfXd99qJ0A3K9YzmvJnaj/YgFxkTltuNI2R+5BkE4KVdS/7bIeACnGF26ijZiwZKn9ewnghgFXIfAfVSeGOYPl6cedOMqnNAz5QrV97KTm/Lp5pKCLDgDXW3kIoydYmlveXfMGhgB4WUG8Wl5PhJLe/5AJdUYficRx3N/X59WmyJtRNMQvp1TuhZCDciYRGyYOJ18dHBnCsrC60axNB+9BCGHWHFGr0L4wolz/PYDvmgxx4qnzlfsQAd0tDdgx1AqPbVbYfw3iam03SLNapJGE8vJiMUJYkOtOurmMGqUZ8i7LlHVZ91bbO+nZwPVnId/sfSxad+LgXsLiVASimfLg3mCpNZ7Y63hz3yZGnI2kHrO43V8cp6Mrly21EWQxqUViEWExt/EBV6DPDg0Pi/eVUG5Vaw7Zv8wUXirW4BxZ913a1MUUTViBtj7o8jqhrNQg6pLtRh1gRNKnxJmuNLi68DFt9qwLApoYZe93poqdgyJ/YgZwe+zudSBkYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 612,
+   "completion_tokens": 316,
+   "total_tokens": 928,
+   "cost": 0.008768,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008768,
+    "upstream_inference_prompt_cost": 0.002448,
+    "upstream_inference_completions_cost": 0.00632
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 169,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

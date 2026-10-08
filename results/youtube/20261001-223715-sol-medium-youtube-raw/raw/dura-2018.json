@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894343-6HVxQMPTxBgr6HjZhNOV",
+  "object": "chat.completion",
+  "created": 1790894343,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)**.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEO5h5Qqbqi9rAAF8Ooaba1kz4NLMXTboSRg4OMt0ibzaF8laQ3_IA_Oew4wq26rvk1PoVmlw6CZrngKn8qSpZlFm7u-X9ctQT-KImPC9wTDn8B-p2_gR9DEOTAOhtSej5h9t5P2Xy9r-4EckqfYuwRY7ywuEzeKaimuA4YoR_qZ9ooi0quV8uXqHaSq3cNhIryAiWz5qeCKQ6uJ5uy8Y-0mAFXZpuCo8ruRvH4BEL2IjvOQ83t40VbfdZct6PdYyaVvYzLhChQlgwv00euqPS1NDdo0BbMTAkt9yFclztwCaFwT9alpU9QxLI8MehMt6dUz5GVfxiaYgDX4WAvtcqWohZ0NpAV0aV5waklWguXbrgqv4Wtre3zBvbc_5wyiAZstlenmy3sFBUJSRPOrHmwE9O5cVnTerJERnoKVF-PfeQfFH7s4MYEh4zbljXkSUbfjQcD-MK73rUigLk5zuntp9rs26L8X2nZ672P9nHw-SXnISNWroQUuhEHFJhlIcnm7nu-uiTF_NUPUX_rluIEwHPbeq0HAp757GNfqfu7KylPa9A-7FYcq8DcyzWRGEWkJfkcJsWCJi9I9qB5T6H2whXcSYoIhgNmwso-iXKqAJOLtQijjz1wLrHR5v2lzJJupo9XSgT2uNDwJDiC7OJiVsOAv73S1tUATDddH0hrDJLYsS--jMbIIx-pwky86miuxEGvCLbOxS5dQRuBsNwbveB1HXRTDwj1bBl45pgGxPP1tvGx5izzLemoOZqJrl0srF6FxZ7Bb3AqlIW_zWK9VQkG0ff86i-ooSS24cdnfKj2ltMrPcS2rui0mTYZXNm2pmhulMijAa4iCc9p7izMEpGA43HseCEFZ7BiOPiMzJhYS_2QwVvmxNFyi9ex2y6xc1QuTxyteddDRreIuzCG7Gyp4DNjcSTOa6Y4c-hBWfc0wy6rsGAlBIVkF4I51B1uS80ZC-ufivKe96Flo-hKXhGUa_C3HtLE2LO7ZJbRjX_I0CQDU9xK7IbgZPWvWUFgJkxHY1ZExsCzFY-cvHhe4Pfk8zVAnoO29_izjQ0kAWTl6zUUS55SVlUWCaj9a-AbzmGq7SVhG6tnPpQmTyOxrP79zIuBHLCEaAyQbDrxsDkQVS5gO1_yH581g-doLpaNqK6gOVlNsYzuY6jBdIgLpp3bPfnW3IKEntT-2R4NrsFL6uyTlLiJHo3qJpKwQsfB6evsIt7qK_l03WLykiD_u1APEya7CmkUiMQD59Rpzz5RzGTh4-bBHWxqHP-Jc_MeHuN-V5DJOnXr9gXFpQO9PRA3Six2CPi5REUIXjeUFdNXbovWT5PP7gE5H2p0wKE1nHn32mZUT9w1MY4TrmESEgUuOwxEpRE3g7jEGiBTyMWJgHwotv1GBUNQpbwZS80CU13v7ansySR5yrcucVKsoKKLWVpmmj8DCZ-kWKdwT541XXGNZHtyklzuw4OzAkLllRIPQ7pZq1inunYA9VqD6GgqkSfDvBYTAj3rTGXTQKk-44OTIkO9t04iTq3XJ1OqCudUNwZ3GQeV_Dv8Op-zUs7C-LmEeSUzzFpmyeZTmDBFF8QgY7ni9MltTmDcFYrzphPtx4CuMg42krUU5kWahQ9kUI4vvd2VOAGHciFGBHtW_yWRRtgnIC7dGM9Rf8Hb7VgyJc7lNIpv09VP6arhVPdlyN293t6QEhgxXYpbzEVtyjmwtJyvKKXnJLWDe2fqeDTiDSJw7a66Xy18E15a7kCTr_iTprtBnQTPdMhy8LLq1IcWQkAMQpTU82oMpOIz5u-UzaEr9Zr7cFJsuR4_KVsyn7FAAPhbzNGpq-akd5XDHfU64uR4sFi0KLui-1tpVTx4RfXfrj86QumAMw6Z3tdt6HGcj2JXEcn2cvkT-LfhMSATFFDGIcZ1vb12EAzfROddEqXHq2R4OhCnSD5l18BVCneFM0N6izpOZcBIt8Q4sdKJHM2omkhkjz6w_w4u0SmSFfg3mDpKYclp9MML2VfEdIlXHV_KmlNysetpN1qNBpUv5Hav8J04Nrc9A6EcfUk5qM1ku163cftVz1kMjFp1ixcZkIPGeP4J7RG5QelISxu66iQq3UO4-5TnfQVBLjJ47BW2QH7suCdTDEssPaGi4Fe9AL7BJqfFEzSzypsmag2lCBULTh9QiVLSxDXH8Y3g2W2Cc7Zp4fYaEy2hVCsSmmtySgG5h5fx9U3PS6W2ue7hMdrDZpY6gd6LxkCz_busoiOrscOMwSWKsWl06fh-_rTwb3RQ8wDVUXNHib6HKRXpSZOw2Rnnh47gjoGyGnmGqT-fL2a3PeS1Z2ej3-4KNjk7aXDbjqJ5c3oMU2nkxIm-j18pFUDAs0KCXNFL_70J3WDTWS4_4wq9znnb401fHw3CYKdvdB2E6UfX7Pz2bygeA7ySIfKmZgWwXT6J.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_066d1326c428ae8b016abee10876f087d19f0ae2da282af50f",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 501,
+   "completion_tokens": 202,
+   "total_tokens": 703,
+   "cost": 0.003022,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003022,
+    "upstream_inference_prompt_cost": 0.001002,
+    "upstream_inference_completions_cost": 0.00202
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 168,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

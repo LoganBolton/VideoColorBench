@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907116-cAjGcPeGeD6xeuyascJV",
+  "object": "chat.completion",
+  "created": 1790907116,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **The Contract (2006)**, given the sustained dark forest greens and cool gray-blue tones.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Choosing plot structure**\n\nI\u2019m thinking about how to structure a plot. Starting with a blue-gray desaturated tone, transitioning to the forest from 15-62, and then shifting back to blue from 65 onwards sounds interesting. I want to contrast city scenes with hiking in the forest and then return to the city. There's a darker, WWII killing season theme, leading to a hunter's cabin and forest, ending in a bright hospital scene. I think I\u2019ll choose the \"Contract\" plot.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing plot structure**\n\nI\u2019m thinking about how to structure a plot. Starting with a blue-gray desaturated tone, transitioning to the forest from 15-62, and then shifting back to blue from 65 onwards sounds interesting. I want to contrast city scenes with hiking in the forest and then return to the city. There's a darker, WWII killing season theme, leading to a hunter's cabin and forest, ending in a bright hospital scene. I think I\u2019ll choose the \"Contract\" plot.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxL6fkzUovAxYbYe_IqGFjI-qtUCUM8yiBxf51IQC7Cmz5r6rQ_FMVKqL_5wUlp-_dNRRq05IMHm2lanuQ1UCzOzRuS3Gm8ZOX9egl8FNt5lKaQjMykyBfvIFZhUBMjBzQ1F5FzVueehW7nfkpsvbSCf-89jsW2uDBKzLJatLVQHbgojxDkQVf6l7pngDTdo1s8tD0W2VgKI7MpHY-NeWCIstHBVtBewtwEb-Nw6_knmQFPXgQJhS1u5yr0O0PsF8YUFD0YZB9bZ-9t12WkLDNkOSc37I41mKneiS883YE_9JUu4p37OVHtgLYLllTlOgr4UPvOMnjcwhW4jFKG7MDgYzGU0XX0alQ0uTRzK8Y5_981s83fMYI2Nc0MJlAzsuUIdWLR_aU2T9ouWRr5vlxzqT2ydLbDyNbZisyJ7hKc9uPldq5V0HEbOqW4To_Bs9ykRfuoD_tPotUlWWzWpUsvKH3XkKZjrbFvSgyoIGbf0ypyaR-NnvGLtdxDCFVJQnK3EmFmCuq4N3G2eF_QmUfBHjjg-Hy1Zblb641tn6KXpjvf5xHzVDR6kDgU2KLYPMjhYaC_4Z1RJYM-Ca02UdX60QPoUqSebyirt2p0I0s1EeDl34j4s_9qC28OBGsGaQZiouLPxOzcPFzv9V1lFoezbd9xZVZrSOSs25Y0EqLavlheKmkkuwVTigEAL8TBxzn4W4sbBHZKyOpNaFiYr8GsqUXgDxJERlg8XF5c2WC_MiFvp8FyvRDIAE-pJuM2HREyboPJApBcJE550YL1bR6WmbQ_Z9rEEAw1F160N4TGPDPAArOEjedMUMC-63zfzmmKtUgwZr5LSaQLYSTmikeiNjfFk5ccnCv1wuCE1tpvAPAN7hOEVPHVycjyEY0rVrT-lu0E1cpE1bA8thiLFoX-DQ4max2LAEC1dYVu5mROIhiXKma7r3F8vK7M5IbIk3C1TBG5JHAFyfysimO-hmCCUOuWRnafy6FF04_GNcDEBTr8kZAp_X6zkhTRakG6vWFbKO5Gqz0OcabOI6WOU5y48Pm4z-ZBGPS7CtmGn9RT8dFtwJl8YN7vuFwBlzxC3eAXqwT4QgAt-xcsiegl8kh_S5IikH5zR6FjGzm9Xaont1H1GfXsQbUJdSW17OeJJTlxfOI5QEuS4y0EQLTtjo1X654sdT2Zzn29TqghuuPop2seuDl8skS1Gvi725KhBAUs76TdK9_mKgfcVQIAa8b5rvLPwzTmke6EyOmF0iiKi73L76W8zYOHawhe37UHbOJyWwOt3Fb4-p5NTI4zCY_0QWKtSXhA5YEeLNHA-TPS2RPLmmzPnTwtGlDsskLqZDdl9a4NzaPkOjE_yPKemcQUXakxyd1cF5c7LajUV7njvx9ymkHnmKV5rz_ivuyujIFX5DCXnlCJLlf-2Fsc6KkzosNFKLLyg3coZzxxhTF01-MroRYrBUARswz5jI08an54Md7dM1RhE3BLsJqO2Ke28YMBttLEOPTo-6v02JbJpO_JU8tK9dYZyl1M8x1nURqH5qpG1OnMcVHTNFOtOe61-cvMYF8LMx6ifVYkV5KHKtaagJcTdp1YbEwPc1Zi2yxwW90Fy84gyvgpUhd1LqMyAraMaaSKt2pyDJBVHh0cpuPQAlWtSriP5_dimRZ_QCKvUZQLxyR5QKS-vFOIQcxngPcjL_biCWZlNrbUQ1p-aiVKRd8Kotffm5mMVKDABEFyFHq9_XcvKEyI15i7MdRSBRs6IB8ZqPhMTewP9wGIxYEbnEsy9KSOzackIiph91qNWtZJUV-A3BUmpwfSNB5OCfTqsynue7fhwD2dcM2bAa7cGcLoOSWFTPpPxmfQ0SFhzPuvR8Zs8wUneMUjZ28iJYla5-KK5oNoyFDlR4nWf0R7AU7ucA9WVpNfpfxxMNyGza2VDtWCqtUPFcE_7acxVxOnSxTUL48fHWhhNDUkhUDZjz5yIqeGxvYgYSvav235SiAsLOc1GfW2y7gWkOvAUXO99bTyluVkdEMXuNTUxK9QmbiWWf2SBjoYyAPC5Vo43W7EJOEkiFKUUzf9E8yrYb3fDwPeAAEZ4zDZba5AYn9e8zdubxAtD9PMwtFyhr5E5gczT7KsVeWv6pboSDFXCjb8UT7w_iFpPzI5ALvLyht-x7X5-q9tGBssNSOJiuww7fI02KZ7Wdaxi9dPDNawJhJpLOyiKrI3ShrrEevadxVufEAVsVPw3R7XmBXNgiQaexr8DTt7-MJgGKoHhRwGodBDyjkw0vNSkSWIcFCOk3h_zqw-cSK7c9TAU_LxrbYB5exw3lPLFckILyER1TP5aznaZMGzs3omc-QAdsliBA4II-HP7f_GvcrKahEG45LK76-35ZF5MVJZqEZ8DfCyu_VKtwo5xkc9nfkjkDoEK_36B9dYjez76QPIL2ja1kXCUUgn2wxp6_qc6LiASZsDAa3TIJsI6x1HAT1-hIYWisfdl47jnK5IYfoiMn0QGUNfEq_SemiZ_snXfrq6wFehLaA3QffdfHRWc8Vwa4ky7sMFqVCUriyTV6LhFlu5rWjlVsYP5_XPe2FTMefwcrqK2euqGppSigEfMsers-32bKyM-g0SkfLJC8NkGaHIFAEIANQkq99TXl0FvvfncAlIoYdYMkD7P_OVgORIl5MSFllhkNdO88mJZ3dA06mbxNQkJDOm0dHTlFzFhl7xwdUzLvioPYOuJj62uUzwytKnwLtr4vCXH8wekKzS0NygA_raWF5vi6WG3lAA2ElKfLr2CpBvmzz-ocDhihpeJeQTqoHfXvbMRxpa1htGbxSXrUNb29u5dj9k4LqwMjWSpqsGbe18mIioxs81wESVbAI2RjApOHAEdwYbw3WOqZTP83202YXww7BJ0CPIevKHf9xccp2SyZuSA4yw4hbvde7zcpTZ5fqqDAOR1PHDOL50gYMxMSTiJ0Y2jbPzG_5JgQZlIQQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0445794829fc3798016abf12f0532487d1b1b3988be6a89ee0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 275,
+   "total_tokens": 706,
+   "cost": 0.003612,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003612,
+    "upstream_inference_prompt_cost": 0.000862,
+    "upstream_inference_completions_cost": 0.00275
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 242,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

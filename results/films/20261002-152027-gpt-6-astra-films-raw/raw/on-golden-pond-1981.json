@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954626-vK2Tvq3GDVVYNlBEbjNe",
+  "object": "chat.completion",
+  "created": 1790954626,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI'm trying to guess a dark color palette with browns and blues, particularly for something like \u201cBeauty and the Beast.\u201d I think about the film's dark, saturated browns and blues, especially in the castle scenes. I notice it has a lot of dim lighting and dark colors, contrasting with brighter moments in films like \u201cKnight\u201d and \u201cDraft Day.\u201d It\u2019s interesting to consider the specific shades, like dark red brown and muted olive gray, but I want to keep it simple for now.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI'm trying to guess a dark color palette with browns and blues, particularly for something like \u201cBeauty and the Beast.\u201d I think about the film's dark, saturated browns and blues, especially in the castle scenes. I notice it has a lot of dim lighting and dark colors, contrasting with brighter moments in films like \u201cKnight\u201d and \u201cDraft Day.\u201d It\u2019s interesting to consider the specific shades, like dark red brown and muted olive gray, but I want to keep it simple for now.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8yMMXdg2ZDDzOMiixgtLHcQu1zv_P-7HrML73hULdR6HZOPW9ErqxyVrj-vTBmAqZLAKi94biJ0oMtxtGBNgZSmA8ACFQBZUPuLcl89BgCI28QxBk1km5pRfr13zmYvTbm-qmpZJ6jVBBMT9RvW7RzwaT0tdEX61FkPyu34GKOuGvKzi1rpZH8JXmuVqLdmZ_d7jjhsowc82IJeZJjrsn67P9XqpiZRGzImH3jrUlM9Jj8iLcCipHiF1S6A1T7jLHCGm483agSdEOpJ1P9Q-lFaMNOWE9_Mm3i8u6aYSjAsxFaMsI1t0MWaAs_mZSp7_xhMT3bPCnU3_IcRrlQBPG9BwnyuR0oXPGeDNiAh14Z8UqWVQkyxVlAiRoHAxTN4-yJjoBC6TLSkBfgAUMwcAvS_isAAJcjsWovXnlHL65hVXBlUziYKjpizOwWvS_O1howVt3KeLfSthv55diDn_UK9CL6MlTnsTwNPrqyM8gV5VbgO9YmeGeyPU4MOdmXEvzFYHVopcJuoF6R9pyGHjd4YQOD9NPNPflDZFpdmRZXfyX7H3-EtQdfWDLagLELkWRPaeJs_f4i6fdqO-PyYmkIqUn9Lb2y_WSgq0snYfCW1_2GfcrFxoXpe1UAc_lmqkPZGWevtNGJfcJbQS-71QZ5JbEVSfuh6g9eNfZCkgLst_VNszYj4iaiR9e9qxxZa94N8uN8vWDrNBVpBls_uKqULHerv5xSyr1l4EfEuXXB9VKxvnYj49ZxBeM3l4hYE53OnLOiCUVd6rolQ0Qh0b44xIrEloAtMDTwqpU6y_QG1dn-KGiyR7v9iYC2RDBxVO88r85uQquvwRw6yzaw92_mCaMSG2BCFroaDQzomR6w5f8gi5omeYPd64xi9a3SuiRqOGwiqBm6OtmoYvnF37QjwCwLgkelxeBNYSISLsw4WAfwyY3LXYUZ-CC1N_Ian6ktbYn2ilgVT3bhCqzgMw5VUlJI9FFk9guIUwByvngiQBVB9iF5nl--nB10J2_CG_9nlYdt9_5jqcuHM4HBWkBfDImDTPq5cK43Ni9ZL0RiOisXgbOuxVSpE4N0IdkVoB4bRwoLmiSVo3BEZguQV0T4jsGyzeSdIcTAgDDKq4TMq95R2vrh_zvYsh8jM_vwklclU7fxy8D7V7VIaOdyJqOyqd8_pl4J5i_dDRr0fT_PEUPj9i_mK-HB5u6a2Rlj_MkjAhnm8Iq4hP5dgX6YGIuq_Livd5S3z4BHGoeEkQt8big9mEnjgWf1uIYi0JqoQzuDvajOnTFBXuEE4B8BsOiuzItnC8Z9WdZ-A14Fo4HyAT5Qf0iI8uBOqpw4xttiEGgP7Yw-ej-mEnwzkf4ttk7OGZOvab6sW3gbEUTpIvrf1Epcq0s15x4mfN2sfbrVabWVOLLFF_Njy_8J5tDbpaC50WgGg-f8N4ZQlqO5BNdRFBmZjUhYhvprdJxGuLxlWMm9MZh98ideHLAsmXgAG1cDGpmXcWM6RJMtK8H6q87omwGpniSK1wxTp9cwkmqNyH5oLIcSEa0plfnSfWb_HefsaXzkNXyxgjGzs7DlsS96GOEylr2j9mtwJromggVFbK9QAMOQVRqZLPNWBNL6OrXl0wIMTtx8hJwQfwsc9OLaL5Q66AnqH6QmmDSNlpuIivLb-t29h8rMgxVcZFEIPVQW6XSbKZR-EyhiB0t0p-dI-ZlxO-GYFioyOskToB2zftlDKj7kvtGf9e3PGexlgjEtWNVpjfRQ5GJRwPgMa9xjZw1-YS0csm6l8JkiBQvecr2T-wUrj7BQoel5eRnax1Jn_p3JNNGZRikvKp7AJheVSMGy992SGo2OhIEBTDxAOBkFI7d94gphG6N6-h1EL75VqlkC6fNFvi4ByLYqkkcDPK_4x1mlobTYSevHOatEp2TYUjhBTu0bVfrBmb25GOq53f9pbvTkVGlkyo5C7YROCyeoEijfM5Wv_SbQfuly2wmp6Dgl4AtOp5iljyzAT4OU62Ve1Op1krdasZ_HUThpIyu1CzkCRrnu6CL9NTqLtZYgMs9FkfnNu4lBZ0QnLgI5OQ2ns-EYky_Blye6JFpeIogIjLkZdCrL9zLpa4x-6eXhMQkq7qDTFIpvPR1BG5yQBuJrJdB7IfXjwg6BnaNXIPNKCgmKW_D6qlTWlynwUSzNMfwhpDkIyoXl-0BMMmjWIj6zaiNDKYLvm6P2qs7aNZErEwrcZnFzyBj-QuKLX3NUNC01SuPDW4aHd4c6mqlVpHqc4A8G_40-pKLc6Q1BidbLeozBF21Uq-uVt4UdRUt82nUtaChehYQJwFTwIYgWWKlkpvrYi1nV1QtpAAswpWk95YRYpfi1PQC__eleBRG_LEz8yRJvtlsYVpPQ-l4e6hM9HQvf3qRgUUnN4rmPYA_JEZCtu-iUJrQ5L_-AGLjtNT_kd6g9y-Uv0Yx8e0TLL3IBhuOmPMUkXCnjSmBqCqO-I9Yyox7eeEZl42KEUG-6SkmeG9iGOJuamBD3Q1MdicNDSWwPTV59feNcmKgOo6W2SxooSMGGRISozvOgoUsSV.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04578a6d74544e1b016abfcc8370cc87d1a5eb4b28f548dd39",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 217,
+   "total_tokens": 644,
+   "cost": 0.01512,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01512,
+    "upstream_inference_prompt_cost": 0.00427,
+    "upstream_inference_completions_cost": 0.01085
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 208,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

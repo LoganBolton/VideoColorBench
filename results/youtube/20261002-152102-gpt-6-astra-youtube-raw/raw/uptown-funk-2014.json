@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955095-J2bkSJLYJ5cu4D4S4Mmj",
+  "object": "chat.completion",
+  "created": 1790955095,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: J",
+     "refusal": null,
+     "reasoning": "**Exploring visual palettes**\n\nI'm focusing on visual palettes for a piece. The beginning is a dull gray-brown, transitioning toward dark blue and teal. There\u2019s an idea of starting with sepia tones, leading to a darker, perhaps more moody atmosphere, and then finishing with bright, vibrant blues, reminiscent of a club setting. I want to create a clear contrast in colors, with a muted earlier section shifting to something lively and energetic towards the end, capturing various moods throughout.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring visual palettes**\n\nI'm focusing on visual palettes for a piece. The beginning is a dull gray-brown, transitioning toward dark blue and teal. There\u2019s an idea of starting with sepia tones, leading to a darker, perhaps more moody atmosphere, and then finishing with bright, vibrant blues, reminiscent of a club setting. I want to create a clear contrast in colors, with a muted earlier section shifting to something lively and energetic towards the end, capturing various moods throughout.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv85hfSIRrSmZP01MJjWqJSXApk95YXzipJek_Wn4HuWOkIrcblUSAylTTdnKRW55J9TQzvDHPYVj2WDsIetrRjCKScyVlIVj7bHoYeCPdX7O97DnJhTPWS54OY-USmDa1V0nTFmBZ9kYJ_aBxDFh5MO3G5Y0i32rtcVnHs6cQV15XbhVTFm2W5GVGxvAwJgiT7r_5hNB2hi5t74cDarEfcJYy4KiyR-kl0FT6uIPat8yLCOySstab-n_BpUFNkG2fha9m342jIPPTT0TxjmfA2G2_2mOvOewCWjlLOjof_Rpau1DLrvMFFpMC3n_LqrEiYNp0I69MH5eo24MGjjv9m0ob_gzOnTvgMH4OwEqfCnBwbo8SEJuQP_7Hxtn7rQSe08_eDH0Vf5YN3QqTilOEj0QwOZnoktQNFxSh-Xfzc4DGwHLcwTp47A1hQW3jWkKIgCIENX4a2ECUHfnA2pKpMvnIfoWOosodgfkltRY51bEV1tGFkz4v-JcrenchvkSvWr17CD3_NihS5upVLNKOo3EJkfjJEiF8Cmg_ytLFS9_3KUFJX2_0M2MRBRenIjc-TvX99LXrJWsJ96hVkuvQSvTXrmm3mjYxHqxEEInE6ZxJj691qu9F-x1kC9FwEv_a0R1mfWYpVbjaDxNI4O9YOX-N1oUbVMzAjuPtGzTYlQNjbTZ1dy5n9PZ7N7CBfVwIokNGSiA6txFhe4vSL3s8HJbfIHcBnY-hWG6ZwbgIfmyNmE4LVh_bwndbeSunPquEbT6AWBz6M3W8DMZ6_nh1Rdeluu-nEzfvNKWmD4UQnRXjDHbtNUE7Q7IXhDpECgDA7csBALRTfGcDRLMXZ2Q8g9kvZrj9Hv9Ty7XIt1MYLLOI5Xo3aeXUTg4ckwZcMObD5QOYvzDK-uhDlq3E-qBXIk1pMD1Ef0dIhz26KRxkoh5XNByheGmUNwd94h0tUwbRnzqN1PGbi9VHrHmWT5t9MiiNXBri9tlwn12yVj5smpTN04Hgm9UvATqJOmOPnrMr3TbJXsm5w60sh9VPGCfPo9zG6ddsjxTWLftLAOCjXb4N1wYI3NiG25-MMMeUiMRlfKp9WZ5XwaB3uLHz4xnesfRm7GoYZgKvCgu1AG2TD_mIp9f60jbAmLiecBLdVgXFaInEKbugW4MRu_b3WizHhPUAyqf7g0diM9OIdo9YZepSWi3thF7v15aKrs1BFx38zwCT_tLLnmlC2swOgD5AgEowoQ3ppNJ1Fr69sw8GNB8t3Z8qOcCOUGok0i7mp-pRQhBTM-KrmVt9RxWdSMMPEAOh6AAff0RkBh_PhMr8S18beGLgXiy3IPg3jf5qacb5vhpUdreaIC3E9OGQAdGuW_9NT_Nf-GlOwWOYrDig7BlQa8TpG0fRFjL7oHvu1NaSV-03k2R-wJxSoFUwddUhxGRWGITSMsUl0v6M1KXt_PbhaE4K-D_UPZn-1TrqTC5fzLAIh3S6WsFUGfq28XPPi6QxdONIvRXjtFZQARjPhjrDFPLHWwK1pjGCgOfB2s3uToRJ-8rE_VO5h4j58XfbcHyXH9w6OmfF73o8ZhuNXyJQLB-3z7ZBWZI1gfLUTdgukxW2ZspFWdJn1IqUza9NPJ07q9evgg2oXu7gZp39Q1enpJcXHNF7BYFggb57ED04YGlzVWb9ebKxCDotERnajo2QCy5srmTaY2tF28WCoSLkeXi7woVrh1UvSF2ARibKi3EQhwYHi752D0g1tnM9rbOe39Gi52Ttuh4pBeB_fqt2cg86s7FwbZVq2ekWoz3R2kDkMQ_LfDkJEET5djGVp__NwH61_EgKeVK9PC3vYcpvFs397hHW_TTXDN_GJgLLk8Y1x6m3qxaWNrhizU3Ci2MisXHuBZLPWbz5N1JyqVUgxQ6ykTmkCnd_9LFBlvl3L0BqpYWeGaF6Ex-zWPcBphy7nrqsKBMT3ZlWtGqawcVcw-UzwAFV8cOUU1bNKQ-v4jzdKmYvsB0W3j3zGaE6VxlxN7LLks-DHPV1ZGcrj7HW0tfwiOmqd1qi-5MlYrb6dl5w933VvdBj2kXyTSNTolJGK_xGqsqwDPMQuXKl2d5DA-IelL6Nc6628HmnI87UVQ_S8SbXrMBVx90ICAxnM-8awwor3paS5ti5n_cYeqDVfOgucaYk7_6OKmwtiMSz_-krK2E3EokGkY19UHOvzM0h_yWCvSIDk1tFHCVScqNxSHl1VCszEm3q3n1HaGZIjVVYTbqoozEhPKKmT8C0Xb7jF31PmCVcxqQB35sr_Kp2nilktHRfrYcH85p60Z6ZTN98lHhGniQvsYfIQV6ALrYj0LMa5aSdmn-ZxooFpgcH0kipoYyxXoN_n7tBcgy2BQNovM2rwtZLUZtvVjQEiPC6Tb7FoXjjxKLMzsj5QbhK5IQxK0eZAXxgjqCZ1-j_ROp.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08e1311854a00d5f016abfce58a82487d19dbb891747489e03",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 190,
+   "total_tokens": 662,
+   "cost": 0.01422,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01422,
+    "upstream_inference_prompt_cost": 0.00472,
+    "upstream_inference_completions_cost": 0.0095
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 181,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "chandelier-2014",
+  "title": "Chandelier",
+  "artist": "Sia",
+  "year": 2014,
+  "label": "Sia - Chandelier (2014)",
+  "hex": "#383936",
+  "rgb": [
+    56,
+    57,
+    54
+  ],
+  "frames_sampled": 231,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "2vjPBrBU-TM",
+    "youtube_title": "Sia - Chandelier (Official Video)",
+    "channel": "Sia",
+    "via": "yt-dlp"
+  }
+}

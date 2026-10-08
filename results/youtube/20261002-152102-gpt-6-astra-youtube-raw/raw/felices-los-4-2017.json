@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955260-CCOVKwdBxYJxwpX1AzJu",
+  "object": "chat.completion",
+  "created": 1790955260,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Reflecting on visuals in videos**\n\nI'm considering the video created with dark and teal hues, combined with reds, creating an intriguing contrast. The opening scene with a brown tone is interesting too. It reminds me of a video with Charlie, wearing a white t-shirt and singing on a brown couch backdrop, with some green light effects. There's definitely a subtle brown theme throughout. I'll choose A for this concept!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Reflecting on visuals in videos**\n\nI'm considering the video created with dark and teal hues, combined with reds, creating an intriguing contrast. The opening scene with a brown tone is interesting too. It reminds me of a video with Charlie, wearing a white t-shirt and singing on a brown couch backdrop, with some green light effects. There's definitely a subtle brown theme throughout. I'll choose A for this concept!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv88KMyV4AB0NsAr67rM2YWZSRp2H-a4jikh-z8VpeITS-vIpCg0X-XnzHpFQ883CTAl4HaTTdOnSY9sZCBH40mruRq-nrrsUaNlPd1P_X36h-q52rsSQRLFVGIbiHCI20F5jOZqadDIL5kmrY2Yz-TcOSlQ8fxuk9LwAYPYfdoK_53ySNRkT210xu-q4XpL-6QnSX5Pruc6gwHtDOlWzfcjm4lRP6tFl_ryspPkK2CzgAQ82AJE-EEXCy6HJs80YVwGUrhBgeqCQ3MEYT8FLVzqeYwnE874VsP2f5zarxOObJDcmPGZELZW9b9Xk67Ad--PDQ5JMC_VzBqMrdxyXnyoKHqsqjSS2C9o--DVOWqS7WATGYzg9W0uEsfdebqgnHhoOlQg1eImkqLLDUdHwlCJK3xIG4U_drN8J-R5iM6ZsMftLyQJxJYxtusjfoNnCBMk0glLEXvxyx9kSm9XsPlATYwiiShxREhcnVkArSHqLnzaPzcrSr9w3NVTRvKarYQrKW6yYP7oGEK46u-2XFQGzP_ePgq-17a4plHbfgbx6dCoJ271POcODE2CPS_tKkY_8JO7XD6JcP3MwByMG48o70vSqLsaS_NUy8f0FCer6XvY1LrWci7JnsAVD4zmzKHbJFYCezsd1lAT_K7Urimm-DB26QB5rq7Kl0Pfe0IHvFz6EKsYI0Tpg9TvdIkkvQAI4EG1XH-GFQ_P8dnON2BMZ6bQ1oGRyEnbWSDLRSooa1wKTW0fKXJUAIHGbxDR5PvofRqOApqrKgB6yEhfFJhmS1-U2e0fhmTL6swX6y9cDKh3M1hGRacPn5n6qvVHsgspMERRqvOMt46Kd-YC7BXhi_pLswhj65OYxZnn5AYOoKVHwFqvbLgkO6f0PSQ088djmO1a2LUdvedzB88qL-rAPN2jHbpgD56hfXryEeX78bOL-OvFs9p2lqvwQ-GbQNQNuv4WBDDZG1NU_hxv0rW6W6Cl7dlON6aS1jCDccHnqVWHsWYZnV-ElkmsG5ANy6nEt3YwiCg2WvvMMPeKOswuqvWID6hhYKEA2T69m6t2OaEP9vP8b_CJ6U1Q6xIq0EOqAfyDDmbp8tEMpUaM-ksqIPKLIVk-t1u4wyer7-81R70WYxWppoHGC19Sapm-0827Q7fz6BH-ixHO1g8CWFUPNO6a9Yy6AyTLiK1YqPE87hl9v6bsTxr9sQ9NVjww6UKD6rBAbmU73JEAFUp7QbA4WpTi9aA73qwJMlhCZ490uQ8O7Eak7PW1mZpFZWpa7mpD5nSZLALnZ143ZeWueHTZQ0n_yn2uLuHUDMywbP7HSbW79ReSFTCKURrZ22MTu7I78xkTFqrjx2xluhxmDirb3hEXm6aJ1n10Uqtt68O13682NdwGsg_8JZCiuVDrEmI8DHcIpTFzoKS5OjW-uPSWR33r5qe5NoqeKgEepSURoT20GOB7VLJRmKvHbtrqilf1aAxwQUvMFT4wI4xIIUgInpOLU9bQzRSibO7WgVQzYLjI9WJjnD42u3EO9T835QMzzXmJ3vyEYW4Es5KsJJjqNhAKGlILJ_-FaTs4MbnP6pN-CGeRchhwje-i666K66SE3RUDV_mLh7RKQEuHmcY43RY5855FWPuCY_Hp2a2U5m-h1F4ZDEpjW5dyxvvFhFn-mjwIoD3tAabtI0a2mO3A_RIjL65BV-yfCN5lMCcjXitcdkree85vXfSK-IzyGfkxSZBuxW2TJSOaEzLRmUq3NCUTzxJR-t7VLRgAyu082cfiaRxYrtdKJgceTEuKwHvb4cyj8AOd8ySRGQRZcoVrI4KKQ1AhDFfRuy5fGY8aNv66fQymIu5CeSUehmCUdb6c2CRq9FtvMUnh1qgibyfw2cnVuFC4uwxhhNHaDkHawJ5EGi7RecOiiinyzlLKWwZhUAvRM827Gz3JcGG-LOb_IrBjkgwOfLT-sybHS4Qw48Eix7v-_cpBjHRNyI6oyIU9OruT5QkpVZbg-rkAiSZEzfkAQ1x0751ByEaKnys-AALMA-p_R4cCKY_qroLX0VF2NpwkQ0xo7EJSBdqcUBdneFECo0Et_S3V_mcdaM0p27JGdwrG0NCX7DLK71Sis-ZFqfwD1c1iTLUlWgHpdOBGQJDgN_P0UuFEsu5IZyX8d7EJQ6_PL9Q1Hv1VwfhAT49gcMLJNWw-aF6ovvoC-yDIdfSyAWSlIHU49DFlim9TciPjTVPqvfC3SXDJqXGoyVzkU4FlGoMKUymOAUPjBomCmJWJqB7MTQoGwdQdh_8YSJ_oR6yQfg8jzwCdJ4gQnvBOIvxKSr_3Znilk7iCHwWR1kDTLQVx9DsSYFLvMXdpNgRK7onlxttoEneiooT5VIv0FIZ0YIm9Y5y71Y4pijrIG4JlTPYbVc8Bl_QioKtDAgz7QmtB_7XmkO79MQL77cvlfEFV9WebVlc95aYOMWrPRWkh8L7VzYWhIyR3m1psragjhQwFZluoS660-ohXBlMUdROb8_s7L0lkJeWt5UGqEAXZg5A8BVT3aNL9RuEvgIYn1-YjtRAweJmKPMOU8JXX5H0Eb4MILfkcaJCoc2uJfyueqtecb-BLjbXz-q9VYkLU04Co8r6T8p0E3A3EiGDJh2Sl_QILizn4ehH0dR2-5sx9OhnJ2sR7jkFfjLeiF7Fyu0ZazcT3RqAfMqC1KfzNaM031Wi733iwTy50_aoZQFLhYhHT6n0H13sicd-wC84mEcfIFvFLzm8Hmia6zYQ4NwZwhDZYFf7fhSlrwcHLZ0Zv1yNouW6mYCJkeT0EOqdN1ivOBB3CE1kGDfVrT8O2iU05vS8xBHXdTHsSQZs3U1zZ-1s-jbPVKEtTd-8gqeIr3weLVjz_3Nf-Y3ItLHO3matbdUzmRsHYvyOMXWP4cFil8PJqKfGgQ_VDNxtN_loJXLLvU09p7dcgcl3yW8BmeudzR8Lo8MrdhbqRk8eOWVLLmBMO2qVIGYrUpEDqc9eyIQakg86P8Hr6uWOjq8dVM.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c2d369f00b17503016abfceff49a087d1b21cb6fcafeaa187",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 486,
+   "completion_tokens": 259,
+   "total_tokens": 745,
+   "cost": 0.01781,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01781,
+    "upstream_inference_prompt_cost": 0.00486,
+    "upstream_inference_completions_cost": 0.01295
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 250,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "pacific-heights-1990",
+  "title": "Pacific Heights",
+  "artist": null,
+  "year": 1990,
+  "label": "Pacific Heights (1990)",
+  "hex": "#373432",
+  "rgb": [
+    55,
+    52,
+    50
+  ],
+  "frames_sampled": 6135,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "pl7lKw3bP70",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

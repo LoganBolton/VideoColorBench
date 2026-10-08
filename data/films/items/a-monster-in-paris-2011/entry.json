@@ -1,0 +1,21 @@
+{
+  "slug": "a-monster-in-paris-2011",
+  "title": "A Monster in Paris",
+  "artist": null,
+  "year": 2011,
+  "label": "A Monster in Paris (2011)",
+  "hex": "#4D3E3C",
+  "rgb": [
+    77,
+    62,
+    60
+  ],
+  "frames_sampled": 5392,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "MdMhe5BEw_w",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894412-MGUsCaVwgUpqBdJrhfVJ",
+  "object": "chat.completion",
+  "created": 1790894412,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost entirely muted grays, dark olives and sepia tones. There are no bright or saturated colors, and some lighter gray flashes appear throughout. That desaturated, dim look best matches the Rolling in the Deep video, which is set in a dark, grayish room with a sepia feel. Most of the other options are much more colorful.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Thinking about Rolling in the Deep's video, it's distinctly desaturated with grays and olive tones, sepia-like with water glasses in a dark room\u2014similarly muted to Let Her Go but matching this description best. I'll go with E.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about Rolling in the Deep's video, it's distinctly desaturated with grays and olive tones, sepia-like with water glasses in a dark room\u2014similarly muted to Let Her Go but matching this description best. I'll go with E.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSiQcKEAgSGAI4AUIIdGhpbmtpbmcSDEEu4fRz2CWOG0QrEBoMfHrrpsB0e9EsjqgQIjC2qmB8Bwz6oNpks1heJJZKY/TFgOVxT+4tuPmZyE/5xnj0ki5dS69R0GCmC+YmH2UqpgY6msaarq38lfM2iFwC3qphrqtDbxNZyiXZG9QHBBFt6t8R+xTEcMafyWfcoDC9CrUT5YREDBKL1pyqY2WwF+BGniAbIo9DFCDgg1lyjQ4UdFLpGXATThgmQE0CFdUKY0lF3KQIIzIsXoi6t0CjRJQXeP/zedhYmGFA45jkS+5Zlm8tM5cYs31y/hU/JzulDm43tamPMo84vEPhGgVtQ9VbHvnhIttHLBG7EMZhh2cFv023wcWrThIHsmTsfPOcx+xTkqV/09G8M5Y2Pmng5Ws7ch+uckClQH7AGWNjBpp8vAA/IKwiqa7pmfCjIsEbiYSHUJcW9VXEwWUYQK3r8HebppXJs0zOsdaXnujfOFcjMrNSeC/0vlDk5e4qqmCc17vdOPSCtC6/jR7b1ZNU+1PrXqBCw8pYHF1Vy+h0oGbeboorMQg49F3Ey4rMpLJ1Hklk28ElM1pAyiXbNewknP0RtBbmJGP0LxbZH/KSKaXrT2kD+QL6Joghycctbt1mVhi9Hi+opaYfqffdMt6bxgMCW6inwIpohLoEGyzpcsuCHKidUZNULel7YO7hny9F0hrw5cVasFyx3Gc4CmB29TIbtbVQCNloGI1CyvMRAkXnD27z2USA1iw1Gs7wWCqI/rAO4sqU2kUMoF2Sl9kpOB0O02KS66g/Ayydq3cKqv5D867I9OAhjEOWtvRokX+bB0AFE0EuL+m78TMXGC2LHfqG0CTma9nzZvzs4by6v2lAFI0FHrjADe1StHe6Pin49Kk/dlWsMSTOglFLb05gHnOERb+8v9sITuQfK+zlSzqknnZ9egg5hxoZZtjfZnZr9Jh8LkZAU7mgmQ5VM0wvNyrak6wb3YzGWAMmYsaHHlZVwV5ODHjXvqwf2fxkalvYiBsF9Ulu747MmFSOQ66bHLXsGTCIP6g081IDmQ3pBPGHPgIJ0e4cJknvOsuZ0g35uTFqASsX3aW3K8Bjy/B+jOqOepkne1BMUcuyL1nqwB6+hhgYWnVeR4HUxntjMP2aPwK84a/WVYqgmvxcEwWQX5MowBHg135iq1sD0w5y0IMbxHgmHhjLKRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 618,
+   "completion_tokens": 245,
+   "total_tokens": 863,
+   "cost": 0.007372,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007372,
+    "upstream_inference_prompt_cost": 0.002472,
+    "upstream_inference_completions_cost": 0.0049
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 126,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

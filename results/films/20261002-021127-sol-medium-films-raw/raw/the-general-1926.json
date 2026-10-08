@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-D7GJcbJNLocIFWwjzG20",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The General* (1926), with sepia-toned daytime scenes and a blue-tinted nighttime sequence near the middle.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing images and colors**\n\nI'm trying to guess an image that's mostly brown with muted stripes and a strong blue center, around 47-53%. I think grayscale silents are excluded here because of the brown tint. The General is often tinted sepia, but I see uniform taupe and blue in this one. It has a blue nighttime center, and there's a consistent brown with narrow stripes. It looks like I might have a strong candidate here!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing images and colors**\n\nI'm trying to guess an image that's mostly brown with muted stripes and a strong blue center, around 47-53%. I think grayscale silents are excluded here because of the brown tint. The General is often tinted sepia, but I see uniform taupe and blue in this one. It has a blue nighttime center, and there's a consistent brown with narrow stripes. It looks like I might have a strong candidate here!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLa1KyDYJUcNGBAxRCAnESg8LQDcGto2RIT-qk0vQVWR9PSnRUM1cgCXnZoUY0vu65mzMEL3tPfZHyh0zdvZXymX8l-XerPw6M6Tv9W82SmIDhiEylhs-oEREFGLGgQtvgdWoImgA93c4Ql7iABf1QP1e1gST-Tc-3jWt6W0vfthHRcR4sR1lGMkJ7OiMgQD3daOkAa1CwlLHrath-CAZX_AaqHfgxWzpf3zHbdJN3NL4N_MPvmlA-ldNI5sv6uwe3Qfhg_0slKXfFV5NcOY7DnOovXDpYhqCWCJPZ3gdkm29iqkyFl9AXCWgRFdU0_yJL3IjSxMpubCS2HotFUnttd28Uqmg-hdCxi7dv67Dg__tjYIf_fwesxmTwsQdhMclzsyZDlFEV5kwQCQ8Wixnp9p0zAlZLVAgeUK4qaqZIQSWJz2tzDVgGUtRC0gyWkjgkdXAXJ1IxvQCnrESXDr3646FCnJBdwWYKd-pWQMEufruA6sOSHo5EOJsvR1ZJudzvIHwFkU0gMef5SqwTWEgz7WliSyeBF1DWsFvH4gbKjl_gifGOAvdKtLQzbbeXW-LSf2a-l5x87iQaf3TLlFl3y0oYbQR-XyWzsdPeTYNH42gIt1YOO7C9D75PmlhiLlJRWqfxHcQXb9tzEcoa--hNezo7qaJR-jbmlls_OgFyWNVdjlfl1bAiH4XNLN_3x6kN0XDqHCsQcc2W3yZzpQxzNJn4SjDoZWisVKFPeFevOCn3MQlrMs0qw5phoITfK8YPI7vZDl3O08Y1-c4BAbs5JBdyPWvNeJrCmxMdtGUCeB8TbjTErqJPBrqbkSWP9aV33d_XZHMsd9hw2m-7CwbXkCf8KpCbZoFCBbzXZmC9b0jYevsW1SmEs0SnZVLwSr7ORL4W3MRYV0PuorxlSe5m5f25ob6WrwhUWG-5Grh_ZFYfocfgXbHa2zz9rcpHLCQ7avtKfZKflhnKqSgD270yjYGPcBlTuNdqLV0Y8Br4bzNSa6XoF9XKJ2IM36E13XKVqkfLftKj_fIMJRDsJUah83g5dOZBuecRXI3gDQBPc1yFFfk5fBf5HszAXeX5ERHx-Vpi_eqIyE1kM-2FR7e3vZc8hcz1grZQffeP861mrVZpzqz5VPw2Bpr1E0s36637fHjsMnkSzP7GMvz6C-pZpxr4pNj7Vdo-FtGQE8w6o09ntsnJw3ZIGPLdLRnYIZ4404oVLpYAAIMxU5itDasxaRNsLbjUrqSCywEKqx-lCv7bSgdyF3PSRdEfOVO-APYEh-PryxPXxCIxKJYzp758OiqhJnXpmoAiV09BvsM6KVTIz9KOFzsEAPUZ9CFUqizhLEWql9a8MlQky0ZylWvfyzcExH903MXZyUxFATvkZ8-EOmNfxGi2LWfKL9I32WrrcSZtliGjv4nSlIoibIhK9bISOLSjFUREc3S3_CZbggX9jfqMQ71b-49MRIxzFQ0qJXUK9onXUxO8g6t1pTIJfotd_6CpzXJnG4dmpwh38WhYlj9rglcrhTV3cIDkBYWM-tCKvg3m4EepXkbkN-ydO2UZmCh-Ab9UZd_VC6siKF1VZ6Pwxnof1WfXHYx-Dv2NKj5mmaJP9oShRuwrrK_pWGCPcZMeSYQivvroVBp1hKHTxyV5eP9c75Ny6ZDG9U1EKTUqGGQc0tTx1d636TQHE5d3b9Pn8OxvL1aI7eqUWfQuqXGe9UD5ot8Wc_bx0BSRbjVhyvlitcmFZGVWmsOkt6GaDi4GpPFjLMZYRzXwHF8XsgwVaDv8YwlABcScf5J-dv34oJmEPCRqyV11ap50P5SVI7UorYnZqWlm44f3u98pgTW_7XIJeyxeAPmuR3osD9HS8Q2p05im0S-w0Xx1HqAWwGHGo753uWSgzQBwRlUGnunU6JB8thvz6oeQ0pV0O5PDgoIUJCcTXlTGNTKGCaBVXRjyJSONGaawFBeDZGLYTPNSqiK7dnfeClD-vnqPzQdmvBwLZhR6ILbgpQ75rE0AJcUC3H7h9vWbq9opehM7nVQXeDnlJJIOqmgAiswwJE63qKuJbPS7cmFM0JZQItJqAhojKY_3p2ciTN9KHxfO7Kwm54mIxju7Sbkbp-pyS8cr2eqOGpWSE8ko4XR1SsoPkobtcOjnchDB41wU3L6L6QtWCA1ug1Ohw148xmHx253Psw-EObOfTWeul3KHU_QOc6Nxa3bp3EfVJgEmwljevEuZv3lrkVcIuL7IDz9eDpScgD_kn9OcDRKiyFuw4LGsx1YfwEwng9GzKJGt2KCAWGPqB3LtF4yjpYqlnby6R4yzNm1pbv5dmstQh4rhqxMb7dc3uwFV1sJ8yqiaDkJrEYidRonmSC4cVlSLzxuJFBctyKNnREwb2JCHAF6YPCh62lu-1mu8uuBxQJ7mkYVBRXJonHGLPxTxBMc60DOwZoCeDrT-kIBxOSkUWyQuHoA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0342bce78d46027c016abf12d5190087d19b6bd82a72f98abb",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 208,
+   "total_tokens": 642,
+   "cost": 0.002948,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002948,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00208
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 169,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

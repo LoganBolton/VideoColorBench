@@ -1,0 +1,21 @@
+{
+  "slug": "the-host-2013",
+  "title": "The Host",
+  "artist": null,
+  "year": 2013,
+  "label": "The Host (2013)",
+  "hex": "#2C241F",
+  "rgb": [
+    44,
+    36,
+    31
+  ],
+  "frames_sampled": 7519,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "Rw0tUfwcOts",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

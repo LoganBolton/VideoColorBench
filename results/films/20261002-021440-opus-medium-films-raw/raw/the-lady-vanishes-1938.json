@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907287-SC2c2WohmZHNQ2sdcMP3",
+  "object": "chat.completion",
+  "created": 1790907287,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode is entirely gray with no hint of colour, which rules out the two colour films, *Arlington Road* and *The Air I Breathe*.\n\nAmong the black-and-white options, the stripes are mostly dark gray and fairly uniform. That argues against brighter-looking films like *The Passion of Joan of Arc* (stark white backgrounds) and *His Girl Friday* (evenly lit interiors). The many fine, flickering stripes suggest a long silent film with frequent cuts and intertitles. *Metropolis* fits that and is known for its dark tones, though *Battleship Potemkin* is also possible.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "This looks like a purely grayscale barcode with no color tint, ruling out films like Arlington Road and Air I Breathe. I'm weighing black-and-white classics\u2014Joan of Arc, Metropolis, Lady Vanishes, Potemkin, His Girl Friday, Carnival of Souls, 39 Steps, All Quiet\u2014against the uniform darkness of the image, noting Joan of Arc's bright whites and His Girl Friday's brightness would make them too light, while Metropolis and Carnival of Souls fit the dark tone better.\n\nThe fine, uniform stripes at roughly 50-70 intensity suggest intertitles and a long runtime, pointing toward Metropolis given its length and darker visual palette throughout.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "This looks like a purely grayscale barcode with no color tint, ruling out films like Arlington Road and Air I Breathe. I'm weighing black-and-white classics\u2014Joan of Arc, Metropolis, Lady Vanishes, Potemkin, His Girl Friday, Carnival of Souls, 39 Steps, All Quiet\u2014against the uniform darkness of the image, noting Joan of Arc's bright whites and His Girl Friday's brightness would make them too light, while Metropolis and Carnival of Souls fit the dark tone better.\n\nThe fine, uniform stripes at roughly 50-70 intensity suggest intertitles and a long runtime, pointing toward Metropolis given its length and darker visual palette throughout.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 541,
+   "completion_tokens": 582,
+   "total_tokens": 1123,
+   "cost": 0.013804,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013804,
+    "upstream_inference_prompt_cost": 0.002164,
+    "upstream_inference_completions_cost": 0.01164
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 363,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

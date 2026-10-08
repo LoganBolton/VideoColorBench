@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955089-zdeeuWZU0Rtx2IAYPj3d",
+  "object": "chat.completion",
+  "created": 1790955089,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Passenger - Let Her Go (2012).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Evaluating visual elements in music videos**\n\nI'm thinking about how dark colors like uniform brown and green play with red and black in music videos. Could the red opening logo be improved for better impact? For instance, \u201cLet Her Go\u201d has a red screen with the Nettwerk logo at the start, while \u201cCounting Stars\u201d begins with a black screen transitioning to red. Also, I remember that Adele\u2019s \u201cHello\u201d interestingly opts for a bright opening, which seems different from the darker tones in others.**Analyzing music video visuals**\n\nI'm contemplating the visuals in various music videos, like how \u201cLet Her Go\u201d opens with a red rectangle logo on black, while \u201cThinking Out Loud\u201d starts with a black screen and then a view of a red curtain. There\u2019s a progression from black to deep red, which I find impactful. I notice that Ed Sheeran often uses vibrant logos in the intro, like \"Atlantic Records\" or \"Asylum,\" which adds character to his videos.**Examining music video elements**\n\nI\u2019m considering the visuals of the \u201cLet Her Go\u201d video, which opens with the Black Crow Records logo. It\u2019s directed by Dave Jansen and features a consistent green lighting throughout the concert. In contrast, \u201cThinking Out Loud\u201d uses alternating brown shades and bright spotlights, with a mostly dark green and brown look. The shots in \u201cLet Her Go\u201d are individually focused, like on the mic and guitar. I think I might lean toward E in terms of common video elements.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating visual elements in music videos**\n\nI'm thinking about how dark colors like uniform brown and green play with red and black in music videos. Could the red opening logo be improved for better impact? For instance, \u201cLet Her Go\u201d has a red screen with the Nettwerk logo at the start, while \u201cCounting Stars\u201d begins with a black screen transitioning to red. Also, I remember that Adele\u2019s \u201cHello\u201d interestingly opts for a bright opening, which seems different from the darker tones in others.**Analyzing music video visuals**\n\nI'm contemplating the visuals in various music videos, like how \u201cLet Her Go\u201d opens with a red rectangle logo on black, while \u201cThinking Out Loud\u201d starts with a black screen and then a view of a red curtain. There\u2019s a progression from black to deep red, which I find impactful. I notice that Ed Sheeran often uses vibrant logos in the intro, like \"Atlantic Records\" or \"Asylum,\" which adds character to his videos.**Examining music video elements**\n\nI\u2019m considering the visuals of the \u201cLet Her Go\u201d video, which opens with the Black Crow Records logo. It\u2019s directed by Dave Jansen and features a consistent green lighting throughout the concert. In contrast, \u201cThinking Out Loud\u201d uses alternating brown shades and bright spotlights, with a mostly dark green and brown look. The shots in \u201cLet Her Go\u201d are individually focused, like on the mic and guitar. I think I might lean toward E in terms of common video elements.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv85ogkTtIf6JgYXiMFVKBFYmJMtV176BdP9ETizGs05oDwGYMHsN083AvQhhQmwqdK38Y48pg1fVHTK7zS3jkjqIbrgYJt7f2O89n8vAtyQ_52BjsRJ0yuq0kykOhXaK0BiZbbVwhA16A1RSbW6Qu6owt5_DmFH0KjpktSkcfgTBvxC80HBWYfwM-vE7L9wbLiqUdU61cinclcSBK2h9dRKTCBerYwxVCUU308MxbqIy8ffWRcAFq3adbUOwgNAx7XM-mSeV8XEnzQHWjKjnr8ovUrtt-KljKMkD4t7ue-hdRXUZmOBCOqMPEzZIoSNqOjEgdQecb0i30F-Tonh4NC3K54klr6MdVi-Uc1iVi26JMw4VHHOJ6i1XnADZzxH8cOSofnmKIkvPwwuzOsM8mJwGlKntfurkDijXYwM5hm6MKFifk5a6N9Vyn1jLXX9z4Mh3q573p1pr253LvqzMD6zppJ6C8u_euMfJTCzQ8HEe-Sb8BJFiLo4D6bPTDZmYLMVFFeEipsC41linS9MGrcWY5TF7CKklIsyqy-LqjPJdvv8oQy8L6mBEtZ8bGOTaAXWyN-h9D6uBJUthc1TdxCFzGbJJcFkp48-zV0KYk0gGYkWzpUHiahaTI7TVqorXVcJI2hQsSzB3iF_f7izEmaMxFlP3Z6jlmW8cgtof-PU5EFAWzrY9xK3VwU5Ezn8V3yvS5oFPRpodyG2-_hCmAoWkL_-1s0E47PvnmVW9w5D7p5s54hTXQHwkPm5zNnYwTwT7-Wf79M1UnXeQhCksPe2E5pQx9HQY7okQiHMdmX9Ogg5g5fyy45SH4WRLYqzfTuK4yWp3VqqzcKQO81taEjkpOJT9_eav6QBt8Fs6vJub2dZzxoobqwswEZaxtvMjW5QT9TaI6f1k9OiTWdgu7FrnAfSTDqCS8Ms49ZlmL3Gdmwz3LaGjVG1an9efcptD338iFmYDIldDe9bsku_bpz7Ub77JiAPHqBSRw8orMlVK45S_17lM37vzDXHjKqz0f-PE63OX0YdF1vnqLCS4gqgLB9jWwDuQtbixzkcxZZv6RkWUzAH4iN0UeSUH-l-wtP99U1_5su0oQ1cWGVem5Sh5uXWfVI1agz8HajpegQnbR6C0l5_O7k0AuUr8Y6p0fBkwyeiuGRRVzx9BEmWcf8IB14vybWNF_T2k4EBgRETI9LThdCpklabpW3gFRiay8jLIJn7Eaik69TsTvefpxZcGeUyeJ4mQBDT5pIiG70zrssChqmrbw4hYFk9rQ2_hDHXU2_7-PX9nWf-JYL1OnP6gt2oB0oJ9hEaR62ClmOd2GcgDkfXsULvdptrhHsLUUXqV-ZZhRAzWmDk4g7jDs2H4wq04CFnONNHWjdmeKjfh_VrQ1Amw7ybd1Ei35dyJnAcej9jizE0bHLsblab7JpjKwLt2l6flMs1YrI_G4rxgb4fGnETu6ZtH-3Dv4BiX47rWkGh2nbZKhoklvmbloEtxqY6yh4H_xe6L5SZMqTV-0wibl78jlF_CC9-RrtNcSU-zAkvwL4uSBnsQ2oTG-ByHiEXeRigU3LRBMkzbpZhgAx_D63gaFvE5gKY2VpT-zuymRB7uWjxNCv43EcBs715ES6xqx_PZxzPfl8KLTsRpvmqV-XnmIWewzoxK1g4ClQ8GtH2LIAc1D7Mz3wqnMYj9aV2Sfop3zzLECKzluuxMI5KVkkgdacGkACAx2ELvGZNguoX0Dwhs30HSP05zaFMUrd7eDJPBkik3c4XHjiwlN2sq3yZsOg3-90qLLth4GP7GBmYZOdcjhY1gpzvLsv8zqizSHlH9cZCdeYRl92HrVomCodIseb63AkjOmCYxEjifX_Hc8ZLZ3XCCe6DOBW8notnpFIRqRB7bg-BrEvRa8QVJ5Bm51Q2QSQfsfxU8kKZxNjaxhWZlq6RgeinELVOyn9DflWpHr8ULscXhOMcn28VBvRl_80tO6svmL9aZQBmjuln-_HmxigfIaeAEW1f__lZr2gnJwSZHnyUNH_K2hqKfBBXxgtFnldbCGKol8IIrBfvU1deimugqooDeOz0UMgeYRaxhSyBzEp5bSqxaV8Sjdcy_mt_XdipNEvZE5q4MKYvCbrjQxY_Ebn5pVYbI7P2XMSnQUx7st2PQRzBErAH_ENZjjz4l4gUiY5zFvksQw7WMJeDRyw9BnFR2Xeh_3ZUymuCLh3omEgHMhtuOlo-p_dNkqre5SjGWr1ML3KoVDdQSGRZaZ-2LScOshpxdcpWJAu8rRq1t20tCBJqQihj5gBut1xTLMtAEzQ8LGHUbjXST1aehSZkhG1KMw-RI9naReW1UFUEQJvoGT_2IGQShczAENzKaM8Vo2u8iJMPMIBOcX4mPeKSWD2pYWzHTb2oiJbi2eT5WLMmAwp1-PbsSBRu2jONc98knxEXzy0flYOZi02h4nqNHnKwlbfgxs_VZsIhgkX-_1Fu47nrw7VXV1AAGmI3F_7h-_lztrqEESsMcNaHz39PQiK_DvIMwYIHRdujPyqSKqTvxBADYqqXwKv25TdaJPcXAz1d467k7kWEBh07B5rESSwtnx5SxFu7k5UqRbeaurUID4Y-y7iw7-RKUNR8tBRtB255S5RT49uMel1ubOKIFyFU4wlPbqByOdiL6Qv6Ygx-EPFb4735cn52GtiWnWQhKX-z3eYS7XDCOil6FwgAn8Jt8vJEx469NP98dK7MNRDIq3kumB6VcnZShah_kwwZfn3qggBPjSK4mVzZIltddcz70a84Tl95ReKP1JjiXjcpb_Zk-V52uX3f7SSdmnWc1Mld2o42ZD6VQunRZgkcAhtjj8IW7Ai1sKjsYR-RHtsPB_F6UoMz73r4lRL2xbH--vJ7_BU9wn0n8ce6PSq-RjMuMl6vu7HRYL3vgnRVxiFu03I4XgPnXrbPa5sFfBV2irvDlioCZMvZJO7mRQp1C6Qu0unmJfzf2blPEbEKF1s7T_w5i3Wp-BnPW-1i38bch977xqeQmXKg4_izl_Pzu-dlrGH8gpv9ABYCTMbgoK6KlfceUV1WVZ68nWyZ-N6aBcVKJQRWM3SjSrZ2s6fc8o1Fy14t65HFEdmm2Wk59zP48PzZd7UisimhYD5sAVFUauAGiX8prwATUHZ6bRCcu_buL5ptMtqWXnt6Hb9h6fs7NtgQ00EsjXEAheUvuu5xCVcOqiG-Q9W79DS-khl9i_kcWfuRqmZtYb-BWCwRD4lVVGaltvazTYhgl08I3F9gfTDPa3_pAAIM7xcw9D9VV_cE3WBChFJPgempo8TVLdQ5jikoN2hDfLFDESwp2hqjjsSFM8gknoMdSoOX7wAdh2Y-wcoJODfXUKvBDkHdNRZoUhftcuzW-Fh6piFdtuJNJLM0KT8nVqp8yLP0CO2YTKL5E-J0iJFgQI9zCC5hokZ-3gMlfjhej6iYylMPq-mjKVDKI0ZcQMF262j5tZUM-QURQHD5N5K0r1X6FgMYQVsrpBwjp0CJE6WcJCfXNzNwIq1gIRE50ZM-z3ZjbMIiBx9MagJ9D7iL5Q5t0pYDKNs4aH-x95AuQECWDyS_zhCvd6qQn__NGaK8ugGjbT68eAmk078EDqZvtYnJSmQoLerhGYRvXrx7XO3s82zqUFRPw8imxDuqqssIhSttx74TkLCuFRMIukclWAoFXwFVgMaCGZMn1hTHLXIjFjrcSx1yYVeCe0rCg52MGsC3hRO1XqQb-2cssTlUcLjUjE1ee2eHgAEnNAozFqXDFhLPLT3jz7iN8SBf2KCAmSYdmTbxNC6kN0ZrVd_Bg6oK4tni7X2bg3EGSCeC5Xf8Ke0IOJle1Wr6ZGwFhzMPCO7vlRDrTx2AWHvQjZM_tCATZtNVLPbwlVl7CbumHFTpHyPQm-1MYti-Hu-SILyphawNourV8KeCD-WPj7dOAoxPm-Szq6hRU9jLTaC24om4TVg5HPcmmi-LLUoWC2Ep1q87YxzfIaW4v7HMXx0QP56rQYxWwXPRQP0Ku1wOTYdRKZzg6_nYUJfI5SYm1QW2cD2SK1XC3h8_kShhcEfwEPykyaXlD1k_l7Ys855ETZeHMNdcES8TgFxDFWi7h0k98gbulC268YfW7eq2HgU3XqRv1rxpS4gk7WXRWhmzQL-aqeH8IEGgbbiGzpmfbKFKHU8GGiqlAwDk76jUKby6BkDkGswDQO4KTaP1c5XIOj86_jJ7gaeg722hBoGx7ior1yZsMpn4CgF2vjWZ5u-jFy51s8hpRrfHZ8o2SnyTuYF7VVFLBwce-NwWgAQyyn1yfW-hfgJdODD9z_3A6F2_tZPdDu2PZJGePNVXkVLJs-ksVLMFuJh6SZ4Yz-lUTgHA0WgVY7TpjnXryOr9PQDrUOxo8FdBHjnilK7KB4HDkphVVxAMUqkxVvi24Hwh-Qb8zniTReZo0HfjkNQLMpQd1jCdUyiXdOz3nV9kgi40JyC-8ttiw2JzxXcazXr2C_TZJk6QO9VAfy47UXN1jMMEx3u8zFk8cc8p3oymTQyqIVpVFGkXD5ZIzZyQsbSDPbKn_8G7u_lVLIzmePjOKuY0h3lVW4JVuh027eezyw7Cst2qmhE-ll7dPAt7PGcle.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06b335445b3a607d016abfce5453d487d1845329408a8aca7d",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 510,
+   "total_tokens": 982,
+   "cost": 0.03022,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03022,
+    "upstream_inference_prompt_cost": 0.00472,
+    "upstream_inference_completions_cost": 0.0255
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 488,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

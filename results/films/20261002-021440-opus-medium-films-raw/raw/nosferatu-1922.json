@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-SQJ72hAMstyhx6s1Dbus",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The best guess is **Stonehearst Asylum (2014)**, though this is an inference from the colors rather than a definite match.\n\n- **Ruled out:** *House on Haunted Hill* and *The Little Shop of Horrors* are black-and-white. *Nosferatu* survives mainly in single-color tints. Neither fits a strip this full of colors.\n- **Points to a modern film:** The palette alternates warm gold and amber stretches with deep blue and teal ones. That kind of deliberate color grading is typical of 2000s\u20132010s films, which narrows it to *Boogeyman*, *Wish Upon* or *Stonehearst Asylum*.\n- **Best fit:** *Stonehearst Asylum* is a Victorian period piece with many candlelit, golden interiors and cold blue night and exterior scenes, which matches the strip well. *Wish Upon* would likely show brighter, more varied everyday colors. *Boogeyman* would likely be darker and more uniformly blue-gray.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "Excluding black-and-white films, I'm focusing on the teal-and-orange grading typical of 2010s horror, which points toward something like Stonehearst Asylum with its candlelit Victorian golds against blue night scenes, versus brighter alternatives like Wish Upon or Boogeyman.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Excluding black-and-white films, I'm focusing on the teal-and-orange grading typical of 2010s horror, which points toward something like Stonehearst Asylum with its candlelit Victorian golds against blue night scenes, versus brighter alternatives like Wish Upon or Boogeyman.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSkwgKEAgSGAI4AUIIdGhpbmtpbmcSDLbpgwE1WHz9R2TGABoM8iEsEqzG62azdNq9IjCZKw4DaD0KXNeA6+mekTXEG0zsGdIRCahMt6V7W5HDLLGGlYX/WrVs9lOfksMyC78qsAfYiz8FmpUBe4u1JpiRBPt8Xb9yUtIQXk9f2GU9Kd4VqXyaZT4xCC/wW43VdEGL5osYLLxfR3UlkfkYFqTr1LTf34YcpBh92MIYLkepKiiit3cU5Pc/Ci8YbOivji/l2OOitTfcdb55A/VLVNhM2BscXxwyzFHz7MwZ1QC58EwakPuVKOhHnJ5ADJENfXXR7Z0klDCDFPROBB9gN1gkslhm2b2HkK96dltUsfoW5Is3PJVHz7vxYCzGWf3JWkLUAiZ42zAY8iwLPWQK6LU91H/89z0862gAtAHq3rzDSIfFpqHi/j/wEn5K15lrh8kBtkKNSHlK7jzToCAGh8+TysN9EDaPVl8gtmqL+TZPhgWV4p9spSceyDCeR4KgjXsYecXeu31P6xWSrHpHY4CLwormxFjbXrRWi8IBRFpFD8lhxqLAeb4tjWHYImz44KoT7qk6uHOIcMmo9tIVpN4lwEvD6Ir6/P1mzDzxs5RONG6fOl/huMLJIjDE/QpDfsfoPZbbDjw4K4zLO5V/oSxnxoMYubt7zCFTWcO7yScnAPGDaqQya/3f2IYK2riPfPR3Dk5vJyK8X3of0Q8/qp++g2PIlQDtEaD9oTyjFjroycRd2MKWdzgNvQ2+hrfSV77S+wAtS8iRxaGFt9KzZHbOMEF7aZPlmdefCdnIDuUaRPUYdB862x3h+WgWPxMFzYALgyevTGzPikvuEeAn2s3eMATRLfwyMekkPVyO2Gu2alYTI1bWjfv/ybu9ogqsJLXkHxyd5xVlqwGI3YZ+JSX5xSO2+FXbJNUwc6xT5fs907yQX5a2hywZmwUvTum7y5bgSAjUi6lUBaPpmTUwcyoJnZEbIp2FSwMdr3AjjzC9nnbZRnIqA/p1OiRSZIY117Bu0o0TteacU7igSlaoSQp5b9ygCUOYRJxlr/UJPRJ3XlSnLxpZqGzVX2OmMOz+A8BKHEL3SWGAm2MdAmU/zVpx/Jj3j8sj1QNVcE81RvwzjG0O8ooG0Hyz+sNYa4+AiVDqiTG2AlZjFEJYsMTF+MnZb6kJdHAm3Jo7wBNH0DzCQlawzUj/FBB9I5ULK4NEEk5gLTO3Cy57dl/ysd33nOd8Z0WmqNYzljEw8KtGXDg//my/Vyut6ievhHZmJHk9pifxBibGxLFr1EPSC9e/wmMFRLOOsTX8keCwtvnaJoejM+oo9/b7XAQ0pZQ/I/d6rV+TWGCs6h5lYmfsCieASgkBEhhdPvwq7IIrcqZeLd3zY3ZZMxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 537,
+   "completion_tokens": 530,
+   "total_tokens": 1067,
+   "cost": 0.012748,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012748,
+    "upstream_inference_prompt_cost": 0.002148,
+    "upstream_inference_completions_cost": 0.0106
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 190,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

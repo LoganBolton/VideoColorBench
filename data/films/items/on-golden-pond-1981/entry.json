@@ -1,0 +1,21 @@
+{
+  "slug": "on-golden-pond-1981",
+  "title": "On Golden Pond",
+  "artist": null,
+  "year": 1981,
+  "label": "On Golden Pond (1981)",
+  "hex": "#373230",
+  "rgb": [
+    55,
+    50,
+    48
+  ],
+  "frames_sampled": 6562,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "CiZdY8Tk3zI",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

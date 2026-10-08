@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894500-FUiXge09WjAxQ7HxzbDh",
+  "object": "chat.completion",
+  "created": 1790894500,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the color pattern; I can't confirm it.\n\nThe barcode moves through cool blues, warm oranges and browns, a long muted gray stretch, and then saturated reds near the end. That fits BLACKPINK's \"Kill This Love,\" which cuts between distinct color-themed sets: blue-toned scenes, an orange/brown lit room, a grayish dance section, and red-heavy scenes toward the finale.\n\n\"DDU-DU DDU-DU\" also has gray and red scenes, so it is the main alternative. The colors are too dark and moody for the CoComelon or Miroshka kids' videos, which tend to be bright and saturated.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm mapping out the dominant color palettes across different music videos\u2014noting how Kill This Love shifts through blue, orange/brown, and red toned scenes tied to different members, while DDU-DU DDU-DU leans into gray war-like and pink tones, and \u00c9chame la Culpa carries warmer hues overall.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm mapping out the dominant color palettes across different music videos\u2014noting how Kill This Love shifts through blue, orange/brown, and red toned scenes tied to different members, while DDU-DU DDU-DU leans into gray war-like and pink tones, and \u00c9chame la Culpa carries warmer hues overall.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5QoKEAgSGAI4AUIIdGhpbmtpbmcSDAIVlt24O7N1juOrYBoMmdZy/RJDKtZmr/K4IjAz5D6g7TziGl2I6SD2b38l7I5MVhzLk2oKyXWIRso3hzfzHQn0+fgGxb4vnRXCMigqggrPfmWTQISoKoNNZ10u/NzeBhMYVJ/+RJmf2XXgyMIKmMPdI1T9Iu1oK7f/1dIUCq7nh3zzZgYtGExi0fRfZPXF3R+Vh7I+J6k1698lJeT+z9Lr6MBguxzSOTeS9bf772UD152m58yZonKW4v8ZIPBDkVK/2viSXomaOgOMjeUwWKmw4OlLIvQdxzNHV1e11ep8DqCwZYw6EdYHGcW+vHtgcyQPheWe5GxQHHcUnmWuWGaEs+zRJhfHkbuhVc96DXQLVFwXg2rkyr54myS3rfI0S1HiPxhTpwot1UOsH32++BKqXcCEWVmIfW3bHSmoHH2M1z1oExLU0BDMv7wpXe4iqYpsYPbno2t4tf1HdoQ50TIOlTOwzz0EpgZsEyKYXC/438ZqbxfjhvQGXc33Jk5/Aly1mrxsJZJrO42ZNwi+9kJSW0Y/DYZWgYaTYUDISeJZCoZL/fBo8oykXvLVTFGul6Z2VWfh/2EbEIxt+gtI03R33J7yZfTmJDCkXq5npc3+nE4CKZrzrPT7pMY+wvMkRfD+AWdkVfBymAK2gKD5pxcjWPWz4VJQHDD1z5JS1Ym2HhhgNg408ZCfFLn81P2Rp2k/29l2O08rQ0Pcvw9FlfpiUbOCfpJ/SfAlj9hrWQQ//qGQk0XRgodbOyYPxaPN8MHE0BcdSmRrpDQa/KalQb0a0od6SHurrYNi3Tqj6SQueCYYGlucD5lwmBFtMa+UgMFoduAW0Gob6M3qoC3nZSuZNWK94HjHkZzSWbCJtktzUoWc0lbZn/zpSxkUMhyVPTHeF4jcdJ+itvDmBfZsz0LryouTjLv+grbAlqOJWVA9NEYfxWwvZdu1PLpogQkiTdVZ95aukLfnbcyS+Y+yTCvdUgerxmKo/Pe/8jnQE1a8WtruEcT5G2JFhD2MZ1Qda3qWSAVJ7oxzcqsU0qEO7lBp8uf7hVWc/u58dVnk6wsyserweRtdnvArodeafdy+51PgR4nAyZKk7pHJGvkKHA93C119YP3/56fykdxC6ItqF4F1q73Pjxl4yBaEIKqY7eRAWhpuYdU7laKTDBOF3KU3GiFTW26MT6BOV/bfIvSfjG67MgXUVqnfWGbLjA2lsBvZ6pnM6GjmWb63eCq7MFG7FIcP4r/fMJzZ18mM/uOEjzoW2yhW59c3X+a6Zm8xK+CDVY3dN35kbcs2MXEatNk28/uegluEEujKTAOUe2C2j816GR+rhg+Qe3MpW3vDtSj7CzylItHyDQ/7b60YJRajm9VoafqXrT2+EhcweDiFeaGQN3ePrS5t9H2Q0I6VTM/1vtTo8TJdofwo/X4jUBP/p5ztEdSqirze39HLNpYFT7i7ZVhN3faRN9AhqnZStUb615RJO/mpIxpSJ0zHSF2dtAnJ99ahrwb1kJ88ci1i+SS+hSgDxIs51Krw9xqxwb/CbBxpsaEkhF1mQphYX5+XtijGi8SiR/1tQ9cSS5r4ltG48Rq4s9ApJmcjKayDIVb0PJfEHCRsk5OqCI5OQtJox4MJ4J//zONcJHi1hDruB1knCoVjkJo6IYKBJpopKO65IBmdVyufqyuvL8AZxvSyHa7rw3auSWN9uG8R82YsiYiFvxjOauWV2SxG7RqKH3cyKg6jJFMPkle9NbMqWd1nbBdJbQvo+ihpFmOOG6hXDywYRqGzMIsEbrzm16hN/N88W/7Y92X7vgwEJq2aKAfHGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 647,
+   "completion_tokens": 560,
+   "total_tokens": 1207,
+   "cost": 0.013788,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013788,
+    "upstream_inference_prompt_cost": 0.002588,
+    "upstream_inference_completions_cost": 0.0112
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 337,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

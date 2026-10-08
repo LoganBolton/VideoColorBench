@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907187-199VV85Ac6FBr2wAupiX",
+  "object": "chat.completion",
+  "created": 1790907187,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **The Haunting in Connecticut (2009)**.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxM8AZUxUL7EFfz9OvVXrTRWR_Wsm69nyVnnATiwonHNJ6d_Kr-Dv4D6aPvXFyfv9qkG2szSveBMakyqe8nVxUh9Ok9q5GLlD6DgIRwp8QM_TN0Po6_ZKkesmU9WspE4lOMsibqcIAR_R_nueXbC9Y7lCJt_Gd8LPtTTR22po5kKC9qW3Hhr84WQVRVPd0SiM4o3-oinx0Q3uOy-cqZN38ajoUsL9OdpH66d4uWYpgQ8cKovjpqJJ9HUfuNNmFQQ8xd8cdFknxG7qZj_ky_j33e1SwU5RKEt6LyZK_AKqHi20S6nPg6Z_Kc1Q8_EExikgwPFMmrz57Enxt9rcmVryotuPC6RW285UNVtN4P3rL2__gM2Vm90z87L2hj3QxNsWdoHoLsq8w3SizXtK2y89iMF4uPzH9C9Kru3a0TdreXNCpIs01uDNwMAmSvn5V8tWZhhcBZyegCa4DjwLbGXGYH2j2OfAm3A-bJdWRB7LmkqpqDVAxv4roIRCs1gb0N0fEnEavnwuo7OnilE8TjSCpDa5QTPxsEdsGMtNNInnFKertlTrNGGVjQttebPHH5EVkgzaqNcvNxzwBUH4Cbz5svoxdvwIR_x2Tovwehg359zaYqGBTHbm3kY2OGKZfUq_NJes8ADqVwpioZx5I9ff07wEbqJg-JE8HT_UsGr5-n7DS6d3KdG_vIpdzUN_T35fen7rFFRyYrAdcd9eaBGC_DbkWSq1jKNvMEoivkqWQYY1sPzpMi-ONmo9fl86tSsroCHT53gKF4Lyk37XZcV3PpiJ1HPGbOz7N1nfExWJWDWDcTb2Uv2QmBDW2jDvnxu4zGHdY1q4qGEU5Fkt47Ktwbn22Sy2q0hGric2cNKh6-kwuzmlpTNn0niLdMjSyPQYkZi7zc6x0gAWVta8RqD5WHnLlFki48w1RAkrAulssRxzIdOKpG_doqZi-EiQ_cLV7GJOgsZNCaWo0aoxjy-INOaofef-RkOKmLkhBguA0b-Fq4_kcKCoFfcIyq7JiNPzZ0kc9kWG8CoyNRmQIgHWy4TA8V-rLRHHQR-WA_Q8AJWEejD8n4HmgHJGXq5e6GvjxvOZXM37WmsEk046-H8W3T3BHaZEGZzMlkcw-wzvJmbyFXENyYGpJNBRZB_0Uikl-IWitczEVw9STTsHJMZW2REdlQ8JFwNim-xf33OyOrqRphQD-b-NsYNWmxj632MUyvxs39YYNrpDIDKnw5IA5C9KDIy30BOotB76cFjh_1tPoJAi4MbiwQ2HJ9XmNk9fgvPhmHaQjCk8R1Cdz1bRslyeZoCOUFMsPTFLQwJNmWGv2gdaW19KZ68bbZY5PFcZnL_ZNLYm8axZImFJR2-hYZIpbx0gyFI76o-cdoDtvB-cZ6RGCtbpMqi8fW7L2WEj3wEShXESJ-JqZe6QB2icaDH-eKCnLISPIbKYdrkXFi17KC-EsI9pohP4D2gGBITwvaZsGaBbhxCRXwlMvQ_k0FGjnkcxKukeqEa3YZ9-En5JkerNyLDo2NXK-XvFTJFNym9CsUgRQEpfQhMBXuuvGenj41bjEMzVu9h814JY0sro8Omeb58WzoMR2r6ECRv_68X5MEdqbhAk9XjkgME3flBCBGeJG1O1xfuKm-bk2MCA-cE7F0Ul69EFppNzx9SALdmkaiO7MCShV5zCm8QnQ_sepHyvAIsqitZ-6ctx7VtkvcvXHB1ve4P83LAG7b2Ja8bK5kZFXRVd2vsocHlw3gO9ERgZCIO4VtDJfG0zxr-_P0AjGfD1Eyfx38AejD93g97g7CfXAtxiXaARqrRgSKaThpww8Y49XL7817w2BV1_-lIHZ48XxtyczBw-RNUEO3HoFtGhMYcfTaTpKqOiF20McgshqlbC0FfsvaCESzCQHVb8brj6f5HYLwCWPwPQkBDS1_vwPiMITqQJB4aVcjKdJWeLO5qDWhISHrYL-9cr3AQtHXG_JxQSinDoojJBHzmcKSJBfIRsn4YtqC9CJUhdv2QRnFG17qS25u1AHWYgTxtWuUReGWn96xxyURp_WktZRxSPsL1lhzQZKOdQNVKofyt1MEapnrU2EJrNh0kK7XJrlAqkYjguc_n0SoF1vc4gcfTwMHBe_Due5B7MtN1r5k9wQnem2ulIMkMOGF2OkH9tSCVLUOoWk1xY1PSZkUP9_CLJdR1rKYQtWR6y2dOrwsTYDIwyKVSgR8PaZ24mw_lIbDiXHzMi2MJp7y2DNo1NT4N2NG4Ga0jK8jig66fZ2kV-giUuM7BTV4C1G8pAF6prp5XsOLbe1EBMCWWAMS-4Via_2OtnSNfQwsu_SHa-VhZMGK2ol0hLvvjTzVR58t_QfgWm_swIxkwqKirv9rSm2n_2SXw8ptgDEreb6tCY5_TkOgZOXjAUEr62RRYg7nbaRT7ebhRY49IaNgAjLnv1kaOgPG9zNgdbIx9v85ElScV5iA6kpvpO6hixOmuj-0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f97bdbf5d1d9a48016abf13372c9c87d18b7a847d65ada315",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 216,
+   "total_tokens": 643,
+   "cost": 0.003014,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003014,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00216
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 192,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

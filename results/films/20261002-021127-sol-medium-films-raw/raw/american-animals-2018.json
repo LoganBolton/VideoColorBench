@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907241-4VYA2uElTAKVmIr4W4Gn",
+  "object": "chat.completion",
+  "created": 1790907241,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *I, Frankenstein* (2014), given the consistently dark blue-green and brown palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing image color tones**\n\nI need to consider that the image has dark teal and brown colors, which suggests a haunting or Frankenstein-like theme. It\u2019s all very dark, with a low light setting, much like the muted teal goth CGI style I associate with nighttime. Haunting Connecticut also has dark colors but is set during family scenes in daylight. I feel that I Frankenstein is the stronger reference here, especially with its dark blues and consistent darker hues.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing image color tones**\n\nI need to consider that the image has dark teal and brown colors, which suggests a haunting or Frankenstein-like theme. It\u2019s all very dark, with a low light setting, much like the muted teal goth CGI style I associate with nighttime. Haunting Connecticut also has dark colors but is set during family scenes in daylight. I feel that I Frankenstein is the stronger reference here, especially with its dark blues and consistent darker hues.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNxWv68HmMVn7ih0W1RQ8KxRFYPSP_CzXpDSX77RRmjdULKEvogui1IM87zPoJ-jvZZ14QsUEJU1AdOB8xl7Uy_w-KfLZXsYYbbQWuvmtIOiaDrukJsOVIPWSfY0T3OEbZRYVzXd_YHQD24z6doGdUCy14BgeSH8dF6a__Mb-Fjj4dAG4ptx1__9mm0GXJWGibK104qePkl8xTW4QiISb2B_6usSbONOaSwNEYDwFVxmAl8fagPTlkAj0j4ef9iWn5Nu_scX18wLuF2jMQde60uwDF1Vt9CXMSsrEa6X40JvnbNTiyXdQPdtcW4R2TE4RZRaEkC2lOTV19555IijXXxp34sjbU6LX845DnDBvB3tHd_z-p3KuGA-QnaxPN75KQA7Kp_1NOqkdDiO6_K3lynvIs5WzmO2eMAjbbTc6MhuENJ7muMLUwEEkJJNEA8bKCpW6BMl64P-sI6NrsJKVFnaSgSqUt9W4Y15QwvitR1_LBqkfhxsDSuLCl8yXfZlaw8nc73kVHQxdEhOwfs8BHjSKsV2BlwT3skLqU-dRZxW5lmzkUApjwE0PCAzIzUTCesQXa4tFONKU38dIyIP0AOv7o2sLFGgSBJTxclnUSePJm894APZZO-ThbvxjHwWTdrCremtFB9m9ngeKM7WTFdHaiveb_V9ZadMiLjCQ--GXpxIjMAL34_YPahoT6NZwpGA4aZf0eVse-A9rNGSF6rPye76fPCIl-YsG7t1ozf4wphQvYffHeEkB2w2MxbsDP6Sx34Zj-2YsowSQh0We9_ba2Zl7F2P8Kw9P9evGEuJNcK1u_qErj2BBnUeOjA3c59ZvDm69oJqPbWlmVpiksrsvnmTrAyo_K7X_etCpnrEC35BACvKPfx6v3OhIykJPmpEzettuIqWlsMO3LzK-4e4XXPClNt-N3Q60LI6v3StyN1bq79egffgHW6Ui2-Wqw2CTWcZ9ZHcndgqrce7InTIARcMDcdXPEMkV1b1LU2kwRF_lGWuKVuPrDAylWGPFZRscseS-sVFrIV0egUchXs5TEUUiaId9ebEtkeWWaJTysXJXKAnXOvEIk9hp-GHEhFCl3SsnCub_tCqMI774Pa-DQyWbMsOHXF2FATRbhtKpbGx_tiRXYbWAV2vJWanDsV9_aZKnEdUgo5gBjaEQ0PA2rN5HmHP4_cbFFxvGzPwxjTlO8PZfk6ldKf-YSyl8_5OOri6txTg3JwpIIhpU16AbCae0g64YnQv8wyZlfUxHhOS84eJwbFrbKBjle5mEUja-n0aFSS-1U2y02JiL63kJmm9MQzRoXrONOQF5MuAL3sESAKz9Mb1E8RWnUvcoNScvBFcJWzOk3dQhunA7KFA6urNLojQ3E4fcnWU4PlCynBNDXStQUWr_tPxun7JoENZTiDUkshyuduUzKbQMlRCmvUnKiiEgfi_uRQwlsNRqL7BgbTckfzSn_F4A0Yu2X4e2DTbTbATtYmCqcPceOHEr7lizAZmHwOAKOFZDiFLhBNaB4KXvv9U15av2OrR1GFA3zFW605oQbiiWhMErn1_OATNnZySKswYi0dNJi2-vtAS6y9VYS-TG7vH6EfnxCJhEUAYfa8WVVnDxTROtuIXqfPRBFa6UQeLi0ecCrwj5YdGZC1FxaT4BQBr5ar4wJVZruYaDo6nXVfo-YA8Y4kqNKGKJTXcCOQweP0Y2yMaRHrskrlgV5A-0x05vBj0bfZCwuSFdNraoNFkg-DUFyjWp5rP8cYSVLdzRxK0ikBrCBuJr0zMXrP3-XNhUckeJT2BLIU2rcvGGL9XOWf9HMbL4YC4HlpTXoZWTCHnUlffuAgsFAgnnA_CqAuqkuhAZYaB-QuPKcccH8NFat7aAMRuSNA8OWWHqfJoeB41pi_f50=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0f7e79f26543bc4c016abf136e3a8487d1bc22072c90f406c4",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 112,
+   "total_tokens": 539,
+   "cost": 0.001974,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001974,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00112
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 80,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

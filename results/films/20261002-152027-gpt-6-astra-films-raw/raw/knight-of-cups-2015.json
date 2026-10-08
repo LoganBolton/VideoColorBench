@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954851-lsjqgGPT0Y2F8AOG3Xy9",
+  "object": "chat.completion",
+  "created": 1790954851,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **I, Frankenstein (2014)**, given the consistently dark palette and flashes of deep blue.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing color schemes in films**\n\nI\u2019m looking at color palettes for movies like \"I Frankenstein\" and \"Southpaw.\" With \"I Frankenstein,\" I see it has a dark grayscale with hints of teal and electric blue, while \"Southpaw\" seems to focus on darker blues during fight scenes. There\u2019s also a variety in other films, like \"Knight of Cups,\" which has lighter tones. I\u2019m curious about how these color choices affect the overall mood and visual storytelling in each movie.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color schemes in films**\n\nI\u2019m looking at color palettes for movies like \"I Frankenstein\" and \"Southpaw.\" With \"I Frankenstein,\" I see it has a dark grayscale with hints of teal and electric blue, while \"Southpaw\" seems to focus on darker blues during fight scenes. There\u2019s also a variety in other films, like \"Knight of Cups,\" which has lighter tones. I\u2019m curious about how these color choices affect the overall mood and visual storytelling in each movie.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv81szUysiO7hoPeOLH6Tx_SN9zL_iPzdukU6OeZWNXSsoJZk_zVDr-nomwSPnMhrduWH9RzmRkOlIJH7-W1TLVxwmVBeeKmkR52z8OHA-ILX20VLyLFD0Khqgo4XgKXTHac_1IhaC7zy80LqYDos0RFDtElik6ZavA5D379c-ghCBMIvVkAccIVUfyT0QsoKWliaQsScpo26Zpzl1HDgVLgKHuuHhlVz8YOk4bsXlRCrFBHZYtQCcUbYv6cDOG7k2riprG3FwX9BAz_lYz1mmFer9HSg6gdjiaT08fSXOuQQyWhF0GhsBoSmtUr1QRn2PLAO4UfNAXkla0aH9hfC-t-iNANT5BywgJX7PNYrSUVEEZ7XtdPD-CejcIKiXXo_CLakgttzw1DSMzkFVqO0L_T-NhHINSf4XWVQ6UvoNo2LUkatOnaxDBpti59mpiKw6y848JRyokLXLU7FUBDcDANqDKov8n6VzYcHbPLTX7wueHfkpbwmPLje5GsAq6a6ntHP6F-Jf2Jj4_BzMEXFdZEnuolYm8WcvDiFoRmf0e_NEauPq4eVk7ZAHvlds6W7Ic1i_pSMWQvUnmJC75nvprlowQPk5vcHgTP8C8KrYpIUiMAE2IqOurUfsIb9qkvfK06h79Q7WEtcPjEW4oqnbONAYud2VGpvSwO-TvH6W_N19xhlIFRd7DWcBJffwJZMyBvK8xrhQPQbbgOrr56xfxifHxjXkuSaStDuFS-eOuatK6O83Pvj-XfZC0OBIdCdxt7Etz5idVqbNS8j9AQ2fMFu4YAYxk_5nAHFSH6Zrgvt3jctQxeA_6p_vitu_uXF1rMlX1IczHP0EAYZSyAzC7BrSnixUq1vRoZTOvE54F7eyyDkICeKajBy1hlW7Rg11r0TtfsNx2bHtwn98KWyiwbHnD0NkHDlT-e78CWdvwiAH9Kzm093yBheYWaa0jgzBnDZ9Iiw5NFlrEr7DKoh6c3MpIcbcgWFCHRuqkB03G0hfeZ7LE-9MwMUWBAwsKVU0rOsGelLG820Vx9KD5eOhhQSYp-OLBxgWfjfflCzgo6aO3_RB-JASeLR5viGYVLvijUByrsRA-L3_VJ0GHDymq99Ze1Cvthewk07e4FDaEaTrnkoOJPzT8zHaeksj5_JfmQfWT_XPgsp1OiCEUQ7ktEMZKlESTJR2X1lwUFUaU83B551q6tGf8rD0_NEonW1kF91S5RoIF021ftmeiOARRkRJXjDEq3c_E0IabA7h7XCUoqEdDW43WSL2KjBrXET0osxfNSp7p8S3_rJg4XCQb-l84JZJ9pl-MFz2kKoiZP8RDRbw5Qr1hpClbm5w1yywVnxHevqk2WVldTEhxYH8PeBlm-CylAyK5OoHtMWnZ5H7r21nPkBAlqIFEqqsdYWzSaVqAORiLNFz5_u0uwLhuPKtux8ZBl4Ui4_g2biYR4r49Kx6pbbp0y4mKpFHoop5at7ABrLYrFsthxwZXhOwwLKKOe90kl4x0yY3tPEH1A8e4MdnOj7VIj3gWWpahkbFxBTPML4zChLylkJM8dLERL-4cAOwSfAtRhg4BzjQ2XXJF3VgqAe148S2QjrbTLRICggSP1HdFicBMk4h3cRROHjdjaQgFAk7SbDtrt-M-Q92zTnTDnnrRyVrXNBUIEkDG8WRGR343i6haFf_4tFJp3YKuxEnlqKFp-HOhsOkarFgvwxuSTK1SRwvu_sfVSuHPHdGAYUULykllYaE4DmrKiWrf_yMQ-YE1DHn8w3N5t9FtN8PHbPI2bY1BkuoZDXfoWk_1cDeNj94akKAo7EQfrBL_yAUlWHRKO_bWFDQGo4TSYHg0GjamiWqzzVGIz_7vc-h_Zkzmg6QkW91gG7H4CB97n6ijzzbQjW9jkqrxCauHcw_UsHDzcr1UzmFexRjSRHbIG28dxs56jGFkV3wefjeQfYKjH23u89tTpRGJBs2c2oNMplkhJ3eipsKBJhWKbpiym7Wj1Jkx_WuxnkVjluMZ8TSiQvKiB7BKsJ-3qiCeCOy3_kH5ZRxnNq4MUm0YVkuPhaZfYcTEVQk5ntKhFsPRWdcCtUzSz0Mo-Dct8R6cd-xMLLXbkSlXqWEQqCwFWg4oibnDE9JP-y0xtuOkLlJqlJU6uxgpZzIUOrFlPa7vv3VQfabRgag7IiFOxqs3rhNChLxt4i46-uVtesH3FpUVEj4UB_0fBoiZ_D3jh2s10KubMGCECEKJK7jTitR_7R2Uvt8m6Ilz2siSrTiICp3xRX0oPwQijkky5_6shMVkDlaOAVA5-0JA4hdsuTyeGiW7A_cR3n0Av9W__OPQNYJFjRieHSAJre1mlutSdBchM=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e6bce7ce5542975016abfcd651c4c87d19b80074d8d39d5d2",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 426,
+   "completion_tokens": 194,
+   "total_tokens": 620,
+   "cost": 0.01396,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01396,
+    "upstream_inference_prompt_cost": 0.00426,
+    "upstream_inference_completions_cost": 0.0097
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 161,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

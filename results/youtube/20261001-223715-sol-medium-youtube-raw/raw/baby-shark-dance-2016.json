@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894301-vOVsokMsn7mWZuO8GCPF",
+  "object": "chat.completion",
+  "created": 1790894301,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Miroshka TV \u2013 Learning Colors \u2013 Colorful Eggs on a Farm (2018).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Identifying color sequences**\n\nI need to identify a sequence of colors inspired by the Miroshka eggs. The colors include teal, brown, blue, yellow, pink, purple, red, and green, arranged in a long sequence. The background has alternating strong colors with a duration of 2 minutes. There are segments of colors lasting 5 minutes, with gray appearing later. The idea is to clearly differentiate the color blocks of eggs one by one. I think I\u2019ll choose option B.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying color sequences**\n\nI need to identify a sequence of colors inspired by the Miroshka eggs. The colors include teal, brown, blue, yellow, pink, purple, red, and green, arranged in a long sequence. The background has alternating strong colors with a duration of 2 minutes. There are segments of colors lasting 5 minutes, with gray appearing later. The idea is to clearly differentiate the color blocks of eggs one by one. I think I\u2019ll choose option B.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDhxsjjw49sw3V2uGG_-cOnFEHLd_NP78pPIXoDvsQaQaNCisI5VQHZWtHNees4z0lMonwaWoJWjXgEX3krPmIm_ANhvB2YaQ8UNaUpFKGxilLlEhQ3V33dOfWSICDBamEpX9olye5FOnp9KAWzF7j6BQ7-5JDOmIe3lxDRxzwcR9D1dyQexkjUAe8OTKMF2wiJDKAHeGOwhaUoiGQwE_wVgiKWXaJpBKJXeG3G6dHtvllcRdiB1rn0tQLpcNg1dempnvX1tPne9Y2CKVdPUC06BTVUQ1GZwocIkSch_jopkECbaRSjPjgePWLVXVsr-I-uwSW0r6VNk8mQ2OtvnwqFeoMc3zdIRXlK-6KiLAy830n9Bran3p8evv_RFZ2DconxjM8_Er9FE9jqZco0LdLqtFe_9uaw8yoOsEHeTC1LxBW85crpr71vkAh3P7kdQDE_wwYAKSH_m-7UTT_bStNqKHoXj150gJrokPOtLKfZv7DLvtpMHA_ay5THwpyIH0GPBGPAJ8Hcfp8Tbb9rtATRaJ8tbhOOkBeZRBwkoRTeLEl89x_2o7D6038YQj_E0UQKiAsZP7wV33RA8-Ecf-4LiAXvvGrTdmPbj8QWa1gABRD1_lNk9eo4as6F-Zqc_KI5B_OIi4fJWQMk8le3EiUeeB3DcVElrc7U_ysHzetTZ-gFOOY87ZCn-5OTo0aoqZpi9QYrt7GEcHA2i1E_zm8vQuIIosDTjDQ597bCCCfXs-QKaj5daQiTBtYwoWEgYWkf67zkUqGZI5BGpWpi9TszFrTAJ_UXMMiuUvS3FmSlwzGT2pgNwvmgVD4CvC-z-Z1VLJDJv7UUO8swssgtP88BLxb-vElyOgdRjeMMZkhZcA-MTdLtuORApVmHdd5Pcc1Sa9ma1WT-JCeGG1QJXGwtqhNoqJEOfxoZxAADGi1noi-EuKMrrw3-7SiRt12wl4JtcF11Gplrt1sgFJkIv1_21IbdxKwRZRd7Iq39tVJLkgYVcEN0I1A4PunBjuTz9GCcIkfgYer9XWsA7IRDbg3D49yxucKoDBiRVEAwVot0xf5jAskaItC83aMiSbqLaJ3MrRe-XHVrR6wuDPm7sDX1yI1HJI6FhM8HDNPiJtp1y2ZxF-aYFjn7UNoqbXTWEuevxq1VnEgUVEc22h_45Ajy8S0mMEyqXtGMZbq29HEBkCRsOr6r7cAfOV6ECRwJhppxBfy3neeFfOofNALUDHubxjsJeLN96iv6rUuEokP_quvPr2kAJ6nQSSOLzY7JNGT_q0jCeZ7nuxwQwloyUYOeeDyey4blXTxXBe12xIYZ3PVNOsKcu6A3eSPmlrX7_4fkZnEtbhVYwm09K6iOwwQEEceGoDN3XB2t5Wa71GWpkh81ngLQqlXXOyoeOMa_LCgCmiaK7_6qX3QCepgS4wEqRwHJXSFElvKyhGNZXLOONmcmLTIFh72ocf-hgqrEfVobLf33Sw23-J1y0AcA1MH6kAPUvqE4VM6M1KOv3Lm0UO_QeuoWTN0OFWIbhlJwnlLAki4ZI2zaK9YoQh2z9kL6kFbdBNOV_Avvn7Wubmxk9r-1idsKPltMusOHA165T_GSfPiipt0SWxH92BxLdKaDoHz9XANEgntzfxNEjl-RbVeRMfc-Pzw0-RIrdxkiWkslXNRAb8pK08gHRUgacTfBRcWg0q_6R59Y1PFkuMR5Rt0cr5tR5pn9fDGWyc3oeYlVmpzlFSUoPLXbc9c68Mv_rzC2iPoo91a5qwetYlN3x65b5Lmij5M0xTIkCgBVwT4g8g2Ip-8zMA9Cao0mvnqzQ5iHJaG-gPQQ3s4pSc2kkPP9PVfiQb93reY88dDZtWvu.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b07deec3a8eb60b016abee0de8a0c87d18a4a90ec1fdb24a1",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 503,
+   "completion_tokens": 109,
+   "total_tokens": 612,
+   "cost": 0.002096,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002096,
+    "upstream_inference_prompt_cost": 0.001006,
+    "upstream_inference_completions_cost": 0.00109
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 77,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

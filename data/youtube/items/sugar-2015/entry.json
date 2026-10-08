@@ -1,0 +1,21 @@
+{
+  "slug": "sugar-2015",
+  "title": "Sugar",
+  "artist": "Maroon 5",
+  "year": 2015,
+  "label": "Maroon 5 - Sugar (2015)",
+  "hex": "#5F514E",
+  "rgb": [
+    95,
+    81,
+    78
+  ],
+  "frames_sampled": 301,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "09R8_2nJtjg",
+    "youtube_title": "Maroon 5 - Sugar (Official Music Video)",
+    "channel": "Maroon 5",
+    "via": "yt-dlp"
+  }
+}

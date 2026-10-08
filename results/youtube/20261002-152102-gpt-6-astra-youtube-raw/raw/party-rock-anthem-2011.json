@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954979-pNs7iX8aO6IT0IoaYzBd",
+  "object": "chat.completion",
+  "created": 1790954979,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Alan Walker - Faded (2015), based on the consistently muted blue-gray and brown tones.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83pHk0csapOnR7FpMT_2DQAsf-Ra1AK2JmlDAM4SFC11xdQ1a_cUHjszZLHlPSKUKbs8G58gaITtlDFyg4ZCrM72RFT8miVdSV6xWtC4skuQ_ZoOHzXpk8dJgo4vqw-n3WQc5n1hlIYbsGbT4ljWiI9rvsuYC3KBTeD1Vkr8-sCnO-H83AgUER2xBX4GKZS-7iDL1CfMI7WOvH5pNSEN5SDcZZmPm1RpUASmlBRdMONgOs2TYJJPfsm3ljmdQtKtvgb0co-5pOhH7dJ0SBE2alMGwP_LuBvT-zV2pMqO2FnTMDghff9UA--GqxOxn8s9SvC631ZuyOrejorR6PkfjacUXlXJWlYtO9i6WCuX-ATAeVNUZcZofPZX7pU4Fk1j_e_WWl04vZkyYD_0ed7A6LPx31rlNYcZTE5DTUSTllqUFQxPmi1qizb7dr5_-D6JB_JMDcjCvNLsQIuZC_hFEAY1Hgdz5rX2neSJ1QABWhWJsyMqPj3kyskCfzQDF5KW8BnKm_6cZyBnMOz8F2JvakulKk63IE5GQUl4lcYjOKz7DJul1hnuUpd9yCwN5YitjfYu0N-96GPSSlGn2nIZmFDecN5Ch_ndta8_uqt_ZOnZ3ljtTP4NNEZFRRMpGInMLAfUzgbKw_qyTN7j8wis-Xz6MHdpPVCTRppokaOwi_8y39jPkwR9wWHTqVvQ7-ZiItTrXFuupbDbPWw3TRnpd9XRw11iOHgRRPIPTjM1nb3ori0G10JGLVMLuP26m5V1ukpvrHFOdsR8RoUEptlSJcXNP-7h9VkF8LxnVAXof0KrTvyYjqsjy8xOLGWSAEeUrC_th30RkT4sEHdvDhcoUiVQiIn1VoMuBsRn_Azk480PnnWYY7MS2EVsqyEmzIfQrI6F3b9ZsC0sCTgNIt1rqk8Iw5j0XXwgEyGsnz_Gs3clSIzaQhP3DytdJI02uW2P3YfgnEifNAGenRo9f6Xzjj2zwGge_rADb4XaE4QTyjb5u6t9N1F9OHwCh_LiPWKzEUmHUMp1q50NdBxOCCKOXQhBHO5gZPX1EBphDVhICzENUBVWjBOvBrN2xFZoKxYE_bS0087Ft4Tkb06kqYsoVqEbK8Nmj3SmY6Kmjlv9v6Nqd95KVOkhGp2WyGiZirhgn8VxxX4--xcUIzGBBqMn58WwiwqW4V2ml616Zgs57f-BiqduPb1vVGErwsQ4OgjMXd-BBaBXEYgbZToncZcq75S6sh58XpT8VWOy3F5kdXUgJPmo_5y17yFXl_MDR0sxMOUAO4vbItr1q5iN2SZEoQ0BqZ5huGq7_cCAAlCPrIw5TwA2csfjEVnM3xDd_0ISz_yfmR-wgBVcFD3gFhrNUahkVAo9lRtFAXx8TnZXMO2vIklp7FkfWq3J7yPIdZvmOISDXh76xQC8QMihdlsIcefzcQHKexAnEyVxWjdhMbvPftgh8j52-jVsrpZwlCAMus8RTDy3flPVCqbPfGINtcYFc1QMqyvHC1uGYBbtXNcvfeRCDYFUg_sKPvUkRJlVDWdaMo1AuFs9D8YUraAVxeC-Ck0T2fhwJ6c3daS4exYHkRhZ6D_VoeecNt8a0y3jrFjTFmtueXLTKXQ-_3lh1ebjRfzuf8TtMdKxJL1uHBrPSNOjRDZUm1rv33DBXzjK2sVOlhfOtSLv9Po2j2a8OLM8N-y1UUKy4eLsKdDtlzwhHr4xiiA0KzgexwKZZGr-XPEAJsCb6mD9i2x0hsHAfCJG42kUaxoHS9pdWChhmhmo14WsWxhtm1sAlllP1HpxZI6Y1g699AlaOyb1ucViy40B9f9Wn1pwK559atzItEa_a_qlCCt4UaJg6cDpgAatF5CPwHWAIuQzkdvvcCfU4nNKwSWk9dXExeR0xYGqCRbx6PdUqJSWUHqOq1FIHUBi1pZTmgPDIlNwhLFwc_TjgdxBnxmFbVluPiSlVhLkbjsNP0p4ALTFPz18tgeCDrakYkkcMkT_bFF2Z8lcSBnSr_uZ9SolO4yK0Ir8F9H6plw_wsCd0gbtCtCsHNX7JNs9awM.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_04265673aea0e222016abfcde4fb1887d19cb0a481e5311e03",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 481,
+   "completion_tokens": 158,
+   "total_tokens": 639,
+   "cost": 0.01271,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01271,
+    "upstream_inference_prompt_cost": 0.00481,
+    "upstream_inference_completions_cost": 0.0079
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 125,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

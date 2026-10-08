@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907302-sChT6U5O3dZwOxKIgT7R",
+  "object": "chat.completion",
+  "created": 1790907302,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the overall palette. The barcode is almost entirely muted grays, slate blues and olive-browns, with no strong warm or saturated sections. That fits the overcast English-countryside look of The Eagle Has Landed. Most of the other options would likely show more distinctive colors: desert oranges in Capricorn One, jungle greens and browns in Aguirre and Zulu, or warmer tones in Nosferatu. The Haunting in Connecticut is a plausible alternative because of its dark, desaturated look, which matches the black stripes near the end.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm weighing the muted gray-blue palette against other film possibilities\u2014The Eagle Has Landed's desaturated English countryside fits better than the warmer tones of Nosferatu or the bright greens of Zulu, and it's more muted than Aguirre or Capricorn One's desert orange.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing the muted gray-blue palette against other film possibilities\u2014The Eagle Has Landed's desaturated English countryside fits better than the warmer tones of Nosferatu or the bright greens of Zulu, and it's more muted than Aguirre or Capricorn One's desert orange.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0AgKEAgSGAI4AUIIdGhpbmtpbmcSDOj2+EMTEgcTcAhb0BoM6ATCvMvhKaKLP1fPIjCrs4vNzeeqYftYp/w/UkNKdQmb1U0l/H8dtSBDo6pN3hLIeuqbrxnFjhaC1qisRnIq7QcOFatXJ/Skbpsc+ShO3pXHHdMWQrn87TEdQ8kEUaJiN+qT++vsR+f6LBlFbe79UgPVFyJa4tQlTK5E6oy2rmUsJEj0EEtUsc7XAK6xvY6SBGa/cvUrbTz3d2FsuHBiCHytXBbZZQNtPT76ZM3/o5tCK/voUMwGkL+LET6eA6u9U1lRdj9v2aExk38dLdm6f4Gn1+I1gSuUL6u4YtmHgNY5O01rPoYQsZ6uLNollwdoqMBf2/XcycJjfWw1XVBzUNJvXZlU739LZhgbYL3uAkvFBihK05m7dOzENZUB6avewOxwKFssayD41WZMak8TSOLUVIAoCpGWAOf3asoVa06jZ6noODzq9DiBcC5coCeS/QYQb9gleLVCyQt68k14ppmuvbZQE7Mn30BPL2/qfl/5en6i3uc6AT7j62HVB1ZY0SHtJn/NLzoWndbJLUjX6dQU+xh+NwNjpZZHmv/a27BTPI/UFSsQmHBIEls5QAUnudx3OskaSYDq3Cj4VvMW+uh6rL+J5ebyGkpg43p+vqxQ5gcQsl456sU9Fxx30Htrxnq2bvmY3ou3s/wO8NSFqdLeWhjsKQ4M/aQ6/ADzlG/a+GRLwISldrxUdnpv0yhwpadTbe2c8N8zCGgad3CnxpZQcHXQ2uYoklUewZKCf3anVOaG6UlWR4EeQMle0QVoEgMB0gY1GAJbyQNJsBzI3erV0JYqvykXHGQkau8o/aRMfQqPUekB1wBcFpqIOuGVngn67x+eFL+Gef3CSoY/JuLh3C4HscIAL9yXHdaHePNXCGwK1QyEpGGTIxhntVySyiVToJkCPS1cDV4i3o6bK1ucaYUBp9PkEFhhV7xKfuGPho+MEDDSvQoRRbVVCmXDiQL1dtxee2w+cQw2Wk+54OqOdWTihx8d9rKnBpx32P+7n1OrqQgr6J/QLGxecyAkBQoERr2B+fF1ySXgKDjQ+GeTLYJMUilgWs3cryTUut2BzMeY3jboHHNBLXNoNEFVxwJMrr0gtLRyNRe0OXhT0VQIRyaHjk8SaYm2U+i/6dH/XGZEclBzM/mZ4Ge8O2msb0i2SY7I8QSaG8T4iIixIaGuMBFTydokAfRPk2tl2fsBE+ZDHuDUNzMl9gMYy1gOibGwVsBVWZD+Pvfwo27uppsVLNmzTCRG4qmwl5JIiufOfUYq1veR+kKF4T99ne4BzQjIXoD53G9CgNGqumwhI3+K2etzND3/JS81H0cSTqDYHJEMIAN9b9rpEmGiugrVdAz4dzikUMD3aXac36FnFqFLdYQbPshWB6wUEr1TXAesPs4b5KH2GrnlHOMyxx+SA4u5W0GNCWNx8M7FsMkYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 549,
+   "completion_tokens": 403,
+   "total_tokens": 952,
+   "cost": 0.010256,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010256,
+    "upstream_inference_prompt_cost": 0.002196,
+    "upstream_inference_completions_cost": 0.00806
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 210,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

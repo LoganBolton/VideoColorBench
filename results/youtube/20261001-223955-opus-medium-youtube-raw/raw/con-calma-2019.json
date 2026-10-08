@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894499-QqwQiPQ7d79GHyFHNK85",
+  "object": "chat.completion",
+  "created": 1790894499,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess, based on the overall colour pattern rather than a firm identification.\n\nThe barcode starts with a long stretch of dark blue and blue-grey tones. It then shifts to warm brown, red and pink tones in the second half, briefly returns to blue, and ends in black. That moody, dim look fits the Taki Taki video, which (as I recall it) moves from cool blue-lit scenes to red, fiery-toned scenes.\n\nMost of the other options don't fit because their videos are bright and saturated:\n- **Dame Tu Cosita:** green alien.\n- **CoComelon:** cartoon colours.\n- **Waka Waka, Despacito, Con Calma, Sin Pijama, Mayores, Bum Bum Tam Tam:** all bright and colourful.\n\nChantaje is the closest alternative, since it also has dark, blue-ish night scenes and warm bar scenes. I lean towards Taki Taki because of the strong blue-then-red structure.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm trying to match the barcode's color pattern\u2014dark blue then brownish/pink then blue again\u2014against music videos I know, considering Taki Taki's fiery red scenes, Chantaje's dark bar setting with pink tones, and ruling out brighter videos like Dame Tu Cosita, CoComelon, Waka Waka, and Despacito.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the barcode's color pattern\u2014dark blue then brownish/pink then blue again\u2014against music videos I know, considering Taki Taki's fiery red scenes, Chantaje's dark bar setting with pink tones, and ruling out brighter videos like Dame Tu Cosita, CoComelon, Waka Waka, and Despacito.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 671,
+   "completion_tokens": 736,
+   "total_tokens": 1407,
+   "cost": 0.017404,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.017404,
+    "upstream_inference_prompt_cost": 0.002684,
+    "upstream_inference_completions_cost": 0.01472
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 407,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

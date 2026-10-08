@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907296-cTskKBybz5QpmgYTnKaf",
+  "object": "chat.completion",
+  "created": 1790907296,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode is muted and desaturated from start to finish, made of grays, browns and dull reds with no bright or saturated sections. That matches the drab, washed-out look of *Detachment* (2011).\n\nThe other options fit less well:\n- **Zulu** would show bright outdoor landscape colors.\n- **Charade** would be noticeably colorful.\n- **Dark Star** would likely be dominated by very dark spaceship interiors.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The muted brown/gray desaturated tones throughout the barcode point toward Detachment (2011), which is known for its washed-out gray-brown palette, unlike the dark spaceship of Dark Star, the bright landscapes of Zulu, or the colorful look of Charade.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted brown/gray desaturated tones throughout the barcode point toward Detachment (2011), which is known for its washed-out gray-brown palette, unlike the dark spaceship of Dark Star, the bright landscapes of Zulu, or the colorful look of Charade.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6gYKEAgSGAI4AUIIdGhpbmtpbmcSDHO/YXndDIbv3nMeohoMj/Wynm2MInAYVP4lIjCLT4yHiaz/beDs+Tsw/bmqAefQSaN/AlKComacT+B/fHF/wypks6cYgYgUI1vZGRAqhwbl0LwwGtoRQwbywZIJmxpWGV/NXrknQ3KI813+MA8XOi1qHZ9q/hmLXp6o8uji0cpgbMEfuTXwEVLY4fG/PqR2hWSHlgnfq3gc+KtuGxTAGyiQzoxGeAlZx18UezLbOW/AZN1+vSIPF7vZ0TkRlHdBJ5Cc7GccyjBTUFZrq2pw8Wx8WZWfGdoz9GX58jPAvDxxbiPPLu09vU8OihbYa7Bzc2JjbvOmmUH+BSTgkPFN4+LwDJfryp96jIP6wmDs6CO5h2T/iyDwSaPI1yPvgsB7b7lLHGI0lu1C3ULIvf20ZB6Dc9eNgzjghlXKKFIVVglJNhtSsIr0Xw+fsAf+d/KWgRXhICXutPDmuDGPtno8LSg5noL2e8dqWw8lZNiLcL1yFBwslxe98JLETHNDy0cqUg8c2rsI1BDExB610D7pnbMDjwYcjYzY2BKUSV/v2q63BdNWI0zitrIn0I/cF7v7cw4qVImdZSHST1qca4FvTjfuyaOHXMuLZ/glTAHRo6rnb6Xa1VGHbf4+6BXcKou2kEqEGI5xo928WBVkkHHYJ8u0UPEoCL6r68X1n3OrRCq8qNKOCXmewPwyM81nS0jXVFsQHeHZLCMDu5+EtnJXRyRByhM7fsgVjX2OKTb5T86vnbmjlZWijkAgC6Y1x0itat95Vissi9yCM9UXCNBDtno/T3nWoPW+GHFooBPixxbJh8RRR+wZTRgLW2J0pJiBx+6wDYezvqI9UX/uic1NzKhFkJS0VleK8HP+eSJxt14do4olzDJGklMK5Uhdjc/ZPEHbVl0o2vpAmlli1Ovjmi9S+Bf7PysvTwaBCYaTOE7YYfJsIzTJveQw797I3PqhOG1d5Fh4iHOegfYqI2M8HFgQSQM+Ce2P4Vv/Jio1AlBi5yTWgaF5Ib7CxONyOrA0wp2QWW8CyzKMga+TC6Los/AkaqTcYAx5N0nIHHqPYgxaWVCDOQNrgEQZp9Nw9VkmpBYAp39VpaH8yQhI4hjlI8gipaYSD1D+Ft+QiLMEdUNq5KPWV17gGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 260,
+   "total_tokens": 779,
+   "cost": 0.007276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007276,
+    "upstream_inference_prompt_cost": 0.002076,
+    "upstream_inference_completions_cost": 0.0052
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 105,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

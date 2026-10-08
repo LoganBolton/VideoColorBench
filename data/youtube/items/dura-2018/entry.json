@@ -1,0 +1,21 @@
+{
+  "slug": "dura-2018",
+  "title": "Dura",
+  "artist": "Daddy Yankee",
+  "year": 2018,
+  "label": "Daddy Yankee - Dura (2018)",
+  "hex": "#715144",
+  "rgb": [
+    113,
+    81,
+    68
+  ],
+  "frames_sampled": 218,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "sGIm0-dQd8M",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

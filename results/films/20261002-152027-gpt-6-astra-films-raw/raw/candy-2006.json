@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954692-nVzBplwU10hsK7Eh0YNj",
+  "object": "chat.completion",
+  "created": 1790954692,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist (2006)*, given the predominantly dark, sepia-brown palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Assessing color schemes**\n\nI\u2019m thinking about guessing a barcode, with colors mostly being a dark, muted brown and narrow cyan. The illusionist theme features sepia tones and a mix of black for 5% of the design. My best guess is that it\u2019s the illusionist. I also want to consider elements from Beauty and the Beast with vibrant colors like amber and teal, alongside lighter greens. The illusionist is noted for its consistent sepia and dark brown, with the ending in black for 5.5%. The credits for the illusionist run about 6 minutes.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing color schemes**\n\nI\u2019m thinking about guessing a barcode, with colors mostly being a dark, muted brown and narrow cyan. The illusionist theme features sepia tones and a mix of black for 5% of the design. My best guess is that it\u2019s the illusionist. I also want to consider elements from Beauty and the Beast with vibrant colors like amber and teal, alongside lighter greens. The illusionist is noted for its consistent sepia and dark brown, with the ending in black for 5.5%. The credits for the illusionist run about 6 minutes.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8zL4lz8WAQjWZoDui66EW7Xwv6918PAzojFRfCknNC_0GLw0y6aorOPKjt53fJPBWIJ4Jw0gLbTExlW_6OatmmMYLirra0WfoqvvRFkcPp8hfgv6b5Wj4bzSiO5qg2-kZ1Gtw5gbQQZHb9F-ugB9JWq7w1EjNxy8LYr39Bz7atrLqgS06Xh3jkAiPczbT-tcn8tH257hlPoyvz5r6SFyyS1lHydD-Tb7LbbVZzPQ4NhuBiE7YQod5ZY2srQXL0wxoLNyjq0dn13gYhLa8kxXifVhCT6wvJcFtlP5d8eOzMCVyN0XCnSr5mzXbWPX79Ffi-Y0HszMCa9ds17dSWvmBVYPJMpogfV1IRs39VCYSwA6182locbfypVo3euJWLADmYY0sbzpJ5mpFas4EyaT2KcmxDxt_rk1d4k0_yUesEqgmyqOkGdqL5u7ISjeSn4XQ0fgEwnilMHtDIA8Y3Vl7_hCIVPv5D2diVJp4C18TLWyl1p_JN-y2oxakBVAhRR_bcXkx2xed7YrMCL1SuZ0qOoq3mbpNdROJXlveiEDQSrH0OhvbpG0UqYzuBWd13vV5jIH4CG-tDri6UpPIlrmU1KFc8ahnYUyaMQ7bqO91e8lQpGlG4-hC6oipvYnewA7_khgs1zfpy98mQLrL_NktzmyQT4cwQDqZBAPg21DiRqiZue0d2F_Xq13GftphRIX5dq_XSAdb1LrdbW0NJlqMDs8Q7OcZIbLAiKBTfvXuFBxi0MFHcyR20zY88c_cSp_117iKAxxMG2SdZC_S1OFCOrsfbuUSyX-Yr6kLoSPij1ud23F8lSFYNmrnTy4eNyfKA9xgchOHXK4NFEUuynZXKMdeHjtcmHRkrpoQzUEtlCnybp5F8G7ywCy-8CyFmMP_2mFJjyavZ5Jh4Kq4DF33d4QTeAplQ2i5Qx32uGCiR3_yImvvJY8omyz5-DV9s7V_3nKDfyisz8Heg-HWZqQTNGIzu30E1s9M6HbAX_w4DeVWGGp0ODla_7gH8zhrRL_PJdQVIzerCUuO6R4TOB88nSu_JKouLQ9E2OCs1PzFtnS56pXnw7-MMfUuL6aw25AXBEvFvN-QoS8x-yMVdBLxqE8CU2yGDM9Hpxq-Tqf0nZtuye5wl4Rvq9vXPQ7TR5UP7mb2RTWwP6YKx_UhvlnOLXmAkF_zJJVJDeUrHRXyh9mRhVy83D31CND4uQCWttYFl-ZkP5vrjEimqWNVs0qwu9oO8ts_aKjRXLhQEPsCN7__65lrOVgOfw9tcbo3oCBRjn1p1bqxIigZIT2yxjXzD9c7EHslkLseLPTa3xRuy_Mlp75eA1IthwEfHs1Rc4pxyUPXn1arwgW0oV6lDRzDkgdF7o5uPjaXa0iDKRHwP_LSY84kp9JBBH7FqXcNFbEpGNQZDeSj4kPrO77a0CcRjChI_4sODRI8rHVznzD9GPE8F3-72UxqEhxSZaY-3XeUCIBGYmFiWKeTdlx0dpS2m78JSmZ5Kt9v-c-PQkxrQd74r0jdFE28huUFPrswTbLHeZPGkukuon9VeKXDj3yzWMWyFLe1DDhyBaWm0rtHFmCMNiOZKhb9TyXHnDcrByZ2QmakjjoZjfeQQC1FUZcphml85Q5hef2wnGcCfqQnjI6KVtbLfIFKwsLT1CTAJeW5a999yVXLh5VMNZsJzFk2loYtVwXVtW8b32AInvmSeH6gIT-V6eV10hb7vy9AHsOxSqnALV4spt5_AJPIuNPeDdDPRR7g4BAIHw_Njp_QRgIyTZ3tRoBxFNxnTvY4iw88JyRHUdNYf05BDcxAV_CgSM1VDrDuFpBj8zAysbFaFh26swF3OZOJgrlOWm5XS0Kkzh.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c191bd9a9d124a3016abfccc5e14487d18a1d99d3deb8da21",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 430,
+   "completion_tokens": 117,
+   "total_tokens": 547,
+   "cost": 0.01015,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01015,
+    "upstream_inference_prompt_cost": 0.0043,
+    "upstream_inference_completions_cost": 0.00585
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 83,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

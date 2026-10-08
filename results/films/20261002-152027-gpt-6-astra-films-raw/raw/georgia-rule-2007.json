@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954712-neBshkghRj3Qk1jIMfIA",
+  "object": "chat.completion",
+  "created": 1790954712,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Little Hours* (2017).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Choosing colors thoughtfully**\n\nI'm trying to guess some colors, focusing on extremely dark browns and olives for a barcode that\u2019s nearly black with just 5% of the lightest parts. I want to balance earnest shades of browns and greens, like those seen outdoors in brighter greens. The image I'm considering has muted sepia tones, with some gray and brown stripes. I see the importance of bright daylight greens against darker backgrounds, and I need to pick something earthy and monochrome.**Analyzing color descriptions**\n\nI can mentally visualize the pixel descriptions, starting with a mix of brown, gray, and green. The breakdown looks like this: first third is brown-gray-green, with black at 12%, dark brown at 20%, and a spread of various colors leading up to 95% black. Notably, there's a strong green at 82% and a unique blue at 70%. There are no reds, and overall saturation is low. I see a bright, earnest feel, reminiscent of gowns and green gardens.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing colors thoughtfully**\n\nI'm trying to guess some colors, focusing on extremely dark browns and olives for a barcode that\u2019s nearly black with just 5% of the lightest parts. I want to balance earnest shades of browns and greens, like those seen outdoors in brighter greens. The image I'm considering has muted sepia tones, with some gray and brown stripes. I see the importance of bright daylight greens against darker backgrounds, and I need to pick something earthy and monochrome.**Analyzing color descriptions**\n\nI can mentally visualize the pixel descriptions, starting with a mix of brown, gray, and green. The breakdown looks like this: first third is brown-gray-green, with black at 12%, dark brown at 20%, and a spread of various colors leading up to 95% black. Notably, there's a strong green at 82% and a unique blue at 70%. There are no reds, and overall saturation is low. I see a bright, earnest feel, reminiscent of gowns and green gardens.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8znwzkh-0Nl3juL1bpfbKJgmbr3jvUENdTdfU9eiN-XKPHTgysRUSiqloi_MQyRJ_TjFLtYFR1k6AHGnmBaPAkJ9Kwe_NV0et1Im1xIEUMOmZCX2K7T_uNZC-9SBp7kIS0kd0uqvoQZcwOedo0ZQH4GYp_NxzGeHvbHe6zwa9FqgLYE_MYaL-9K0OpBKvNbMtVI4qTh7vgpwg21x1eA8WuHFAJPxDAvNnNRD6opN5RrhXoDuBVsrPS9BsVCnFByZjLiKEb8QtvWA-LM6JaJyJ6jz3UdJPX7WwSQbvKxQpB4naYNBaxdI_3u5IZfzJ3eKAgtAptAZSnZB2PDOnGPZ-GYXaguQu8DlXMVbUk3b-HnzM42lQvJUCy2B5zH-p_idq73NHRbUefqXvyRhYKh6UxIkgVZDHFuiXLZAAY4uEfAiyC5i52L9_rUELUd96t58fJHX9aMa0uRogGwMmEzou7F2MX6YBVK5cqJMk6oweeaLGdK_MVRJ6smDKYH8nMnn-6MfiqZ7GlRTPbq5Ozs-IL-K3e7rsK6m6F30PsU5fH0VKAN8yQqzAjezyXzlqZYyjkMXcvvXAVWt58E5yebE1J9nFJ0IypRo6OD1-g5fCXa8ognQTgXy01VcTRhZSIHL05IYTyxCG_Fg0le5xHFwMjqLyJ4e3fmtpgRYW1PCazxFWiyqE6CAfYWBKPNXhGMcpne2CXYJ5ziWuBs0VrORkSk8MvfnxOWjVPT1HhsW1CnTTMlWzE30PsLAnEj1-MRqcisBjje1fJEeUNRY24ZiJFDSa-51YwPpmDjXA3A-Vc_wFzqP5sgpDHLuvHA-6juMZgRtiBB7ftJ_aw6qbpQvzdVi6JDB19tYHCBmmyHBWoWkWKLTHWUV-q7r7YVxoBPbuHc5sg8s1Wb8XEbRx0YdgEhxL-c-mim1RzaqauRJ3vMr6nTfQX3Pba_nNndNB2JO6vl-dsVns1UQ16F3hGvY7MAi5H_tUWR9-nT7Ks3oKghqrNnh0gOL-Tzc9Z-k-iBanS5jYJtidpDw418l3wK150AMYSgG1XcaEjJJA1AH5n_VT8wBY5Exzg5r-bG71yMEgirJeuIyZmnwO2dgJfiIly6LJgLngwpv9VoyTHau3p9addNKqyrHqXxI14wL_cXB7YEP5LdMvW9UfNflLy20qn9OH7qdt4YbreJSnsZjbkR-V2dQuAQTS_UEDkD9YgkSQDWxNDFWVKii4ygRhwWlOEMqNKzy2DBz0tOpAYEZRHosbzm5rAVVw3GN4CEgDDpKdmbuHCdxfMELpP6W6EaPAzggkAYAkKLRSpBu7SjhxDRT4ZCdf6AqcALuJmq9IAPG_nD6ELXxUU5F686YWju2S5m1uFoOEvY1siJnC8gLyEkwDXyek5o-Wg5NSKqpun1TMjjEME8DGMw3MilWLAohAp_ekgiACZS2ipaHICNjheAwOZqZgzDYiR6iVVujAzUwUHGeogw6drKY_6MDVccjaUZcvlcynZY0EV3kOHPZ0Bs_e0Zm_wfBvO48vXPHgQpQJNidxt_ov_SnPrMDluOZEYB7fa6EKDXKTEJtyuwAEmrNEcKmHH8t5EyaiekAYT4l-JhSMGJZjf7W_oKDQsQ0Ur-bTokeTCl48KIV1wDlNJPeSX2T0-g_lfgIvi9TSJWn_HnAUqcJe9i3EfEQXvZ9TwyMzKMppNA3hlWSMYA2gtOk7kbeapMBOu148VhvXo7yWE0FwO3UPPg18H5U-mDSPeGwFXMG0PnLQakaWLKt1haOfKSs2iP8U8rcaCwSE77lGF0JrS0oKOTj7gdprWZlMwBhBd8QN-hoaju1-ID_bQ8HH7A3a8UPlJ-qhiCT1RjEXOkHHlBEqTMcwolvx5YfKeidHHK5NaV_pVp_JShvVNVdo6GeBUb0snnpg_DdBHG4l8xAHw8Iu4bajMeMpshweWuxVSByXQXBKHKD0RQvdzW2kay-hEqrzG76nycdPsRJYn4r9WP19d1quk-ntbfL2V20ganqqVVqmO4BrfONc5xAQB18tLr2iqxu2FV3HfARFBP9Ag369auuOofG9x3S_lG8Lh7jool9EfO2MP_WvIBmF4omW4Xnv3CShTMRnbZ1vW917fdjLn8vfZQwV8TB8EkYHNaXsgNDM4GlUSw3YYT5u8E-CWEwVA4QIrMVINiETBfKW6LwfwZnG1Z6qfQHSgAr_t1UpQeTkkiw18ISfHtQgvx8a06U1Iifev7Yvm07laa6Cg67YmK64v1NkgSpugQ85SHNeLoO9u4uWQrq2fuUh7OE0Cv3g_yGwmfENcfNAt9c--0RGeg59jH0jTuCZ66Umyi8bdOm-PWmMLa7uwjRaI-FOf0ksiaOX1IgkA83vDQQ4lHxFWJbRVEzwatjWSOJYNURXlJl7dby4ARVeLpwsWG7SAFysO5C9en3vnfNz-Vj_0Yk_3GbJmUaKaAfg0QQCcHwE7KeUDjhcunzP58kJLs33NKqJwC-DTyOLyRBg4UlwI9zhOkoKc5nzjQkAUHaxG88xbPzMdJnvhfsBAMXVlFfxIA5OiIs9C_SXwe94ss8ZpboG6LOyMTUPhkH4-TLVlS6cYG0m0jwsk2G6whRivZ49Bq9dwRo2_GOm4kwPGSs-ZHnc-7D9vSym_t8xeyZ-hH8AJG1gvTbd1riF2XJuQcjcamsUhg06NEVTRnIRp1RaaoalvlFDXFLWETPvck_3nN6k4HzeSQeF9cu2m8jH4Mcau2Na6paeKrA3fA56ql2XqY3czUU9dXYuMPhjITt5AjE4U9TYTVn_oue4GxiDc0KN8RFwq6JUk-Aqnfr8FD-aVgu3j1BuM5Wr2e4AT7Y9hLupqfCGa4_eKatG3eM16lAuX5yuz-OhuTAA8cPqtk.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b9216a81e410764016abfccda3a2887d1885948204084ae26",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 286,
+   "total_tokens": 717,
+   "cost": 0.01861,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01861,
+    "upstream_inference_prompt_cost": 0.00431,
+    "upstream_inference_completions_cost": 0.0143
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 264,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

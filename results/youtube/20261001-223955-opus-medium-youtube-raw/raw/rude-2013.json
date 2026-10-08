@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894425-JJ0VI46FI7xfnYJJg0IO",
+  "object": "chat.completion",
+  "created": 1790894425,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The palette is muted and desaturated throughout: grays, browns and sepia tones, with no bright or saturated colors. That matches the sepia, film-like look of Adele's \"Hello\" video. The dark sections and black at the start and end also fit its moody, cinematic style. This is a best guess from the colors alone.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The sepia, brownish tones with black bookending fits Adele's \"Hello\" video, which points me toward answer D.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The sepia, brownish tones with black bookending fits Adele's \"Hello\" video, which points me toward answer D.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS2gUKEAgSGAI4AUIIdGhpbmtpbmcSDOr2IcSSaQDnkKSWlRoM7SfPrI8VM8Fq1xJjIjBkfdHthOfgYsSbUevryP0S6gT0W5GJPQbxPHb8FcOOnKeYnUGNJ0ufKjFHV0tUImgq9wR8aGlOexSgh9hKETz5FiETOdU0lZoPY0bi+Ua8ByN9hIBKu+WmD5k5r9/mVN5J8T9Vrgs+FNWSVIH2LJDmDliilwfp1isZVJ0DAezm2qnAJBy+mDdL6heKpHeV/NM2qfNodcpA9GNz+7FCOGwcZ8B40IY+ZjxGkR583U9igMfkzxeB7CvmffNd9AwIbAQzUoxqMwNRitT8Fw4ytr/b9F2OzBsG4iXZWIdUI+6jiorCie+IlbsLxGT0KO01ic6Vd4juWo1MpiA5AFww8WVnj1R/dPzJ6UkfeySmyIodBBtBfSex3xt2FZ0oR6dHcnKAH43uEOvlM4Cwej6KLedlqMxtvvLJiSupuvykjz7oE/g6GIpQDzFmPPy1gBcCO1mBIvnoJHeqpw7qOyQ78GpLwo92EO1slgpPjaYrquywIFVnEHrwzq1f3lmYVki0GIUyFy0rx/CLhtTo6E62itw3hBuFlJ26eA23UgNrwaF3o+JMVYgnemoC5mf7p7v4FCaVwvg9ZnEXa5IY5epk/3mb43Mp+R6D/jzi0GGBwDoUVNFXVwVou3kEGCBmSRhjPCf5JM2YADBue17GamZFPrAzlLMxFuNbfkSCK/1nkV4oyzigBENi9F95tUby449IK9y2ta6AQFVX05NwkUrOS+ZuovxzwjfZI9PXXfsrjq3Zch954n6SkBEvBZCjEyo1yJgHzCp8BAcHc3ftOzIyByspq+vj0c1oEXEGUOdltL/nKiJ4782B53DahZn3agKc+w+E50slYhHeOiDuuV5NtJYtAUDKrmXmzroX7ntHgOsODFvmu/ePNnhKx5Y48L/fPt/y5/0K5OvNOGovGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 601,
+   "completion_tokens": 167,
+   "total_tokens": 768,
+   "cost": 0.005744,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005744,
+    "upstream_inference_prompt_cost": 0.002404,
+    "upstream_inference_completions_cost": 0.00334
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 59,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

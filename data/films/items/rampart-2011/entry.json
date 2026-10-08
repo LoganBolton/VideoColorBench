@@ -1,0 +1,21 @@
+{
+  "slug": "rampart-2011",
+  "title": "Rampart",
+  "artist": null,
+  "year": 2011,
+  "label": "Rampart (2011)",
+  "hex": "#362D26",
+  "rgb": [
+    54,
+    45,
+    38
+  ],
+  "frames_sampled": 6487,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ZJ7IzvlKNy8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

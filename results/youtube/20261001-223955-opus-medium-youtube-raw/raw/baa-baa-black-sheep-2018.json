@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894484-LY8qvZ7skKrMlSWTIeIv",
+  "object": "chat.completion",
+  "created": 1790894484,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color pattern; I can't confirm which video it is. The stripes are mostly greens with some sky-blue, which suggests an outdoor farm or field setting. That fits CoComelon's Baa Baa Black Sheep, which is set in green pastures under a blue sky. The warmer brown tones near the end could be an indoor scene, plausibly where the wool is delivered. Miroshka TV's Colorful Eggs on a Farm would also fit the green farm look, so it is the main alternative.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm checking the dominant colors across each episode's setting \u2014 mostly greens for the farm and forest scenes, browns for interiors, and noting which show might open with that pinkish red and white stripe pattern.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm checking the dominant colors across each episode's setting \u2014 mostly greens for the farm and forest scenes, browns for interiors, and noting which show might open with that pinkish red and white stripe pattern.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5wkKEAgSGAI4AUIIdGhpbmtpbmcSDAvy9hxj3U5Rn/gzkRoMe2B+ypNtI9pqaoGmIjAkXzau33zrETxIo/atR9F9y+SsbgG3m/F/pmQbTIbrqG+DBOCLT3FF0F3IEhANfgwqhAmGR0lcOXI64VkIPc1QVnuz0EsFFkLaHCDrB5dSqvvlK6h63caQxBc3pjQlt8jM5Ej/UwXXdBuXvNGC4w5Z6yXUZlmNcFYmlrbeOc/uYm1hUzoP/NqvTXzuIrlud3T60Sv8uTG5X7l4uVcuimo3JeaqNnSNuOSV0+jRGubYk0ZZGjZ/qMHKrQ29v6/gJi2Ey83KR6nAhdXZxdjf5kxrZQIp2j2BWsEJnizEiM2qSxxGFe4NnfBeyHtpV/BeVbhDxZ28VZvIo5IUiLiErHTQ7e0fa2R33sry1UlUVy77r2b9DTfck20d88F/lBSeMgLn7Bpf8P0e46ZhsNv2jGkHphwxl1/2rEqv6rb0OgNMM0Z9Qn0A23/IaRrdZVWpocnQpYXzamt5l0B6941QEw73Nik+Y53K9y50L/Evrvypn1dyQlsO1AbivOTcHBUS0zZY9V3ybJ/Sdyf0kjTojFOeuSma3OMX88gGWLdTuIXU094rSxxT43/+7ycPPmhiyvVL0BtPUG8ZtDAdGptgRChDBIJsuXasquU8GXcQP29LpqMsZHtSEBGEN0RjoNp4wjZ+e4nWWkvfYPgJSSPoxj9VlNtKfrOp8fqj68RcZvh84IIRw5hbsFGXNMnfja7DdXfzPX9jphPpxrSEMebYeESse0SRKxAn/uwd5n+phbXYui/+vMZrxUa9ByMEGotK3VIyceSHK+DuwFgrkV/Ch2Gdg7zx+HlJrRLx7h3SuOvjxgMQI3+P8tgHd1kcYtBmJVWN2H1lf+VHOedpZtWI+kdg+8EfS8bIiYOIx/a+x0894Xep9ZGjwwHo8JFeshH0k4njK8Au/bormRFW96vOfztWm7kaSgeSzducjgGnnI3WeG3jonrI4TWpvYxSk+3npn+ahOBeb02a7MH4qe7bo8314Bj5Sjuzi6VEWcI9pWsxx7oYNcAxad+5CvwXI825+y1ihrU6+kNAy8cIlZYYMhgpoMt0w2wUSPivOWVag+mSWI3oP83M1OqOrg9M+GxecTTZ1GKwjdZ3qNPXPyQ5GAIMHp9BeWcuBTYHM1of00GdzQ4Xwxkybf30QxQ+VPl83iML6lpFqeBkfxQ0uMej5g9Arf5/qWidukUi2fJ0m9e0ztB+/bJulnDMYd1senEPkALMc8+TLNH39fSzEmcoENfo+5QOkSdylQFGtWHzlQxhxZCvhuVY7r28NOtgS4K7PZhi6SfsnFOz0gpCupjK0uQz1s5y5tUWLCXG9B6p8iBXiSc2eoYj7Sc51LfA+ytlKXpQCGrrWO4dcUtb+5yIcWfH6NFRZDJ9MArZbbRsU72al+wNdVezp+gATwpg4HEweuUBHwSxdnZ7b0nBpkhMplD4iFUS+zbgUdBFZxSlbTsiQbuxEqc4h8+yfkh8rYhVCrAMCkhaYzGxEWdRk/uFh5PcHnXtKTH4LSFKTdAEe/zGYbFAzlEikmysa9BejN2hQj05wL7oHEXf8ahtGLFpXjDT+pDDT1vUUtVLXrLqktpTMzxYWJ5fZ9/aVAYUfw78zGIB3kFJcir7GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 649,
+   "completion_tokens": 445,
+   "total_tokens": 1094,
+   "cost": 0.011496,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011496,
+    "upstream_inference_prompt_cost": 0.002596,
+    "upstream_inference_completions_cost": 0.0089
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 269,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

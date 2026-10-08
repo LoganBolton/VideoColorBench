@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954437-tjTAWuXWIsT021CtoNlX",
+  "object": "chat.completion",
+  "created": 1790954437,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Exploring dark and light contrasts**\n\nI'm thinking about the interiors in Pacific Heights that have dark blue tones yet feel bright with daylight. Arlington Road shows a mix of dark and bright elements that alternate beautifully. There's something intriguing about the darker, colored stories that include blue. Plus, I remember the 2011 film \"Trespass,\" which presents a dark atmosphere throughout. I feel like I simply need to provide answers based on this!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring dark and light contrasts**\n\nI'm thinking about the interiors in Pacific Heights that have dark blue tones yet feel bright with daylight. Arlington Road shows a mix of dark and bright elements that alternate beautifully. There's something intriguing about the darker, colored stories that include blue. Plus, I remember the 2011 film \"Trespass,\" which presents a dark atmosphere throughout. I feel like I simply need to provide answers based on this!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vSQHSBLDPFyLWw_HXoZ8x6HvxDVb-XhQ51XdQmfS0xsO3LahvkPBnnwc-EkyjYEg3UcMzO8vDqdGnptG12tzjY_0VDI4E1uNc8mHmtwaFdoxR7cGK20foc6qWZMF1JgNZV2Uozy0jr3Em-acgtiDeRCKgg3rC3n4h9BP5fjP5uN2jy1JHe-U7wU8y6ePooZlfbZp6CII43KRd72cdw85oJkXrZBGcX-C7mo5UDdowHLiq4oRyUQBbugHe1sdhynoM_-J7J_jhWIq-XQ-VMUMPHe0JQE4e-WejqBPYbQybmsVH86PRpbvNJtXRQMbujOFRPLBhMc7L8tLRUOc76lgr0ZGdVL7Wo9gZnWCZ4crBsmHM7lcXtMyIZ1qIsytbNJFVl5zHiTFC5WZq6fRyNxoC1RJpMtCFEekjLPHAD7n8g5JhmplQ4vMYjFL5_ySUS8ngvcUTUrDH4zSo-WZPJQVue-9crKxIcpC9xlCyidBWBkpg1OnuVD9ry0fnm34SfPBzrL_kTlzGFUGzcJtX3PfhMf5_8SSjTyldBeFSu3oicc8uPEpOJ9aXfX0ekBjX7RmxEyeipwlaW84fq4uO95FtTiLM_AFSk84hl-rDIk7T9dAAzZ0LdT7c1yp3mqVz5XVKfZycko7YIXEYj-DA_cR3HuftNd9uWsrn8Gj13Bv9cTo0kNmoY8GJvqC0bnxATy2dCxQHXGHRaMlHSvABOTLV9lOxeYVnBM18NSljXOLHz72lq_OnR0MGWSMJKUx_3s_jkUrsySdsG7ZNqz3CDvMW1w-5JF3u7cgd-Z7Z5KjhqbkFheqQq0SGhOZRLt0j0Hpgih_iecOTwqdTABYPBAeqT7gzi8dTtVX372PUiLTX84RO70d_34bcGBkudPSa28HQd2Sy-5_dBcbU4ThvZaFyxCGc510fqpRInZaVNYZjdlLpfaXlQAs-XzhZmjc7_4wwX8WhMum903gKahjylpDrtf-LZ28XwiyIx35C41WTna5e6tM5dSQHcsnOBnt9YY6IzRFCdrZVbDao40ZcjEWvioxHZuISbRpVIEG988P5GXp4MdGrRcyQ2Yc7RFq-YdBZOIM0FdfqY01Wb_c9bDte1Buwcccpiy74rjL3UiWMc7xiDJHRrl5vkiXOzulvGRJ6XVMOmGG7PSy4GGVxP-NrWKGrIyBtRR-2wVK1tKuo8goynqvW2A0bii71NCynBZ5mvXgVzczNa8Z4bdBOEk9rY2PB1Ve5c9fBUHHFv6Lg46wLN1bHFq0qwt7euOxpxygU57FW6JRbro9jqJjikqUDX6myld9tLosH4Wye1PUBHZI1fqcQ1U2JhFawD6YBuEQaWK9GOJWGinCsLgPhp7dXNJrMnuf9VUPvB6BbwR_dAD8ikjeAiFphRp2FgN84m2QYj0VWXgwfwXv0NDMgDIBs-EEd3Fw8a6VP8aC_cnpfKLDSDV5-wVX0TJtHP6k1K2BE7CovMJrwOH8zxwz4FXAUYqpMjUzSj-QRGqNgj5VZ1FpJf6WOzIhoVuUtALWmkUM3Gl8Z0W41MPfYcHSCcju_egOu7CvBJ2DfdiSmPzwJwK3orfKo5PPJV-5_AOT0bWvJTJ-_DYZjOksuWHgGdIjNOZ2jQUpeyWScndcQKxsmVpwp6VP1iSWYR5jt40tJzJt2qceXTAlf2WnZD950-qn-GZyJXNH9mD4eYtGckfYi3H2kMlP5oJFkBPEL-H_jgIBUMMLvnB_nXqm1D9Aocc947SNKqfR5n3U8d6maR7wQ_mbKjOBZ72_L16c4ILJbevxav8fFeVDymaLW5y8cX1RJVE19E5SVONY1zohmIBsuKGwj7TfNF3Lfbieuzrga--QHdwXRWEP4C9NrEOwFs_W-pGujYGT4KoHtU8ztho7Ihx2-Z3pscWeFc-gFB5Yx5w18sRREI9a5lqBlrg4l4h2JhtXJmozqhSzQaoYsXYr1QYWndGnd_xukXO33rqaLZt7EF2q60zu85njy3N4MapIRJqkmi6KNDftAG91XALTj23D5L5NlE5MjvEdmSEzqexNPDqENz6urjz96MYz2uNwTtAbjtgjpMzGRmQm-WSiu08elqC6Ke80y27WGc9heGT5_ZFTH5eE7A5Gr649PEfi-WFXn9nCqaGZA5xC97nNWpfJf56p83ThmLIYM4pWECWONjToYLlRpaD4GuRYXz_0wBmSGZIRhYbApJMavEioJLzSArE5wOESqY8opd080vhS8QKiIAQQCXLlNvgoE-A0Xq0KY3Iu-kkgDhR2EUP_IbiO-rCNUc4CR_9xneD450MrccIScEUonNgcMicwNQrOw6D7RPoiLbaEM5ZTCZcdIp2_cVMn1M2-EsWB8AAGd3vtBWSS8whL2wYHcw3E2TZljd3mLqKsxzjKWgFR3gozwTFXz6KrxuLrPu0gw3P5GEsTp7Y6Md_ciB6yje5ubJwdvD66LqCD5tT4jeSZoLuP3J13GzcF8yy82DyyoHser2a9KDR40hTjGyRD-A521eik3CJGWdE4D_HeTByJXOol9R_sN1H96P0Gv325CmSXu-XH1DH41x7aVtLUq8rhSKOYZCWDOT1T4BQB9kXpGXuedCAXLA-HyMKCZkeSryxlvToY1FolWCwHpUn3tvNRtritzU_dsd5qnBmGEZNnysO6EN6271WpDP5LbFo2VdGHs6IAyEMN-eiR3B1elXgjPXNIBMxvtO4EKVVdy2Mtmwtk1AOq-pI8sVoNBZHDDQ8JG7RcKqjuI8N-D7z-KdvDu5ugcKOFS7aqUakBb5LeLlTwrf23YzqRhRl79qG3ZDvigi_qZWoIg8EypOyge7ko9yeAiCoESbQlMgvsutvRDQHMlspmC5SzGYjBQQL1bp9froSHl-9Z3IP1zhWlNqx5wlm-L6rA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02277f98e6efc6c8016abfcbc6b35087d1b6be7b396c74c66b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 279,
+   "total_tokens": 715,
+   "cost": 0.01831,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01831,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.01395
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 270,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954858-rSaVsIwuM1ttMYQj1uIr",
+  "object": "chat.completion",
+  "created": 1790954858,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Evaluating movie color palettes**\n\nI'm noticing some distinct color palettes in various movies. For instance, \"Beauty and the Beast\" features moody taupe tones and ornate browns, while \"Infiltrator\" has earthy colors. Then there's \"Jane Got a Gun,\" which leans towards old western aesthetics with pale tans and a lot of daylight landscapes. \"The Eagle Has Landed\" shows more greens, particularly from grass fields. I think \"Jane Got a Gun\" stands out the most for its colors.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating movie color palettes**\n\nI'm noticing some distinct color palettes in various movies. For instance, \"Beauty and the Beast\" features moody taupe tones and ornate browns, while \"Infiltrator\" has earthy colors. Then there's \"Jane Got a Gun,\" which leans towards old western aesthetics with pale tans and a lot of daylight landscapes. \"The Eagle Has Landed\" shows more greens, particularly from grass fields. I think \"Jane Got a Gun\" stands out the most for its colors.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv817fGN1ltEnTBmhEVxdAHSn6MuaGFbSofN3X2lL99gejNPga-cmrEclTPvS-ZFEC7arFB_xCpCykFwYye8LGQ-YOUXBGUkWM8QLNqdEu2aWRVDUwCg1oWZSm8pUaTQa5666YT1DiBMe0aYphQRVsYukKoNoIp4LQ_WsU8uTN_To6oL3opl_Cz40VlDe7bAhrzslY2KEYIS9g528OUAAj2qIhrh_3RKTSZkd_t4gIW3MR2lb_e8RGNTOB1d8t2iegLghhTThIITAMgLas1caOHxsw5sjHU_23gteuFZrSwTTAEu4Df2WFXyGKHwHJIhcp9lIFG4LHkXmivA5-zhowHeIs6vhP6aIzBmgW3VxY8jb3q-04uyY5zXlGIcd5GpDHCL7fGWbIelWbGd29K4GOpjFz0dcEzfx3tLz6GTj86C5sAHyrY_cH0TD8WqA01Jzk4h_m1hQVNZb3pDHS5uyFZNm-8RhObiJNAFxAKgtmSkCSgvspqFtP78ZVT8BttjnVt2A8rTK6Coc3L1gA4qYr-DBQoSWP88YM4BMhRFM61AQEtrB9LDXHFi9PohHfCIokjtW11IMnXeWirLX78Ys9BbD-TtL8HKwMnNTWVx46MltgVjXF4erXEuavRPS-7c0zy7fc59Hs4JLbXVQFpuI7M4C5NnjikYdVPNT0ar1X-NHGtNYA-dRb8mHGtfdpr7gblteuRwTEu67icPxhS6jeLP6XZcP6OiQH1crT-9Z8hCwhSLJKKisF7iD16ZZVOcjOqZpKL-1X9ErQuKT-emka1uH74L3bQ3xsqBfbCY8zdlWXoTbORitZBdEGcIo9VlI6MsYiDvyFFyfMnuVtDTe-le06nIjTtCKAInE9ej2xsqQHlWtN3dHtcSoQvXgelTFuzaRjMEyrv1F12pxqkJ8gbKzmIDnWLkPtJ3x_EwjYhHJTzt9yl329i842To8jM76q8OHboqhfsMn6Pd7j2elWDUjZlWUuLlZRQmEhvHxMmLfypnPnJPg_AkLbn5B3BpUdBQTg7A-3eVJH69KvMAmpbnk1DKYK7zaabPBzc_MQs7mFyaNQXgH4DnIHJhTPvT4lm6j-2Zqbm4DVt663kL8blHF39VW0IS7mtxVI7OnYH2p23vjtYWjy25WqtyvrKN-65ZCqf5JW5S6KNqYmN_OOTPMm7w0y_nSEztGQkYpGNnB8H2ClAqU6a5ZX4FaoBHvdXc-H7ZPhrKxw0xeEWq8tYhXmPm6qkpYszmDoz5P__k7QbZp5ACbXrL8mg1xOIwToRRBd-F0YFb5HwTHkf5uylFLvkwJZdGT-0NVtX5Ne0rMWAUPYYlCzHozAgkIDIJs9F1ZlCYV2uvpsNq6t826zIMvxkdozg-naUrB1U4h7xKdUht4A8hfvnizsQP5uDigcz0Sagh0sPN8xXboM_-_0u3wC3e08evM5eyWCwAJR6Impr11qLpk1VHrQTPm-784FcQlog2jSuGcCl-1kqYU5IO6DydQuq9Q4ZW9Rtcka8EnplhpIJN2reNIjkg6owwtPSrFX_XRlCf0ZVTaVsyPfFqEuNJgPmPYbE4ywbo3ndN8LGeQqIn2MNtV7ayQPDI2J2puHGuQHkmusXtw7A8mHdQV1lrhBOGqTjmghv53UkfNufBkp54BPGcXRPBToJKvRlPNVObKOR_umj1vHKA05_xkpxW3QAimRS6NXURFKmYKly-hqeEHk5tJvMQ8XGbOFnCcuRwfOTupgrbmBM9oHPOd0ug3Q6p0it3Qe1wpnWBxOR9_B7uDFGUQaWCvjl5Gc_Ff6-XXl6NqDdnWHrkolgl-pi1XFvojHlYHlGbRZN7oxVUO7Ed6CAL0rgujHKYC0Fg0DTHIMYjBgvY_MrboI2_GLJRsnO-euqQORzMOryQuVuuNe0_CE8usAQTzWbjLMBr4ETuYt_JhkLolYfjnajf18_JNE7d3uYGwFaf7NA2Ne-G89M1BKqWpCw4S9BolUed6AzoSQLcpa31r4F73KfLuP0J_nUc7owBGG9YxlfOYIPu7T9lKWy8XvgAO_VeWBNd1IGy0O7yhy-mOhRckNv7ddMifAobQWC_8BuqP3eMAZcqVVrcPvmhQjT_FpzEpnGxdJ_o8Jp7na4J4_e8jUw7-mtLZa6UVEhdZjSh02vRpWNbG0QE54TkcZvWlqYYJs7Kd0i-CWSrw9pcAyEkQnfSSaE8ZsiwaZGFFnvxSJwwNFzpsTXBMpzfFUa1iObuXUCWCP8f5vM_HirQLPus_FYIKjHMRCkVdMydNBUl1T9HbkxZ8A0ZPXX9w9LP--gblAPX4FiKEA8qrokjlrBij5ByStw7XBUIsLfrz_iut3ayvfqLFtUJu_DY1WZLtijfmRUH4uHCyxi8m1oAuo7x7D_S01W9IAfVINBR3QdB6YewMBP-TioiwBBgTTbgm8ZOxBH9WSFzlLNn0OpqufJ53LhgxnWL7JBDgZ0imL5QH0lYjQUyE6XkgJyXt9sbhjqG7XCKfhs0TKlxAHPbk94LxwhWPUZxiCMY5y7LR7KF4zFYdN4haNQf36CmXnahFLh5qtr-1KCcDt1qcMRu-O0LqCgfOZlcBtLSo6fhgAnCDXdgDUEcYQVTZU9WysxiLmUt3gsYqfnCVeHCJOerV_NmTATW3gTc6ezfhGYCyzmdxBM0CIbsSDvWWlF8Wx6RmgzfE0hMPZn354VXPAwwol6oFcPC-LYEofuejDr_3A_dkC9b1SN8cNrq5zQBPMtjxes2Y1IqeyYKLiclKoyPk73ili9hNshvL0ey2kvczDrco3UhCpCYR7TqoxpMAzpdzZOH-UBKaBHCL1e6HiuBMqAQw3T_SC4fHagoSAguDhkZbOOa1hDV_zbWbNCNb8_SVij5hxf9btEVenA7qcZ7L2i4ozWqU4uyqamr6i41VdoOVhrSKoiWEjwdv0Jm5TlZNTBm_yzYqwvhmY1W_XErzurxV_bMoRfCPEJVzcIaOi9S1fGAKnxuExEl-ihcTUxYZSvypMfRCaHR8_3Oju02EMPW0KIHhNad3MKkfRFZLdAr6cx3rGV_RK-iJ09zQYovTfW-hTMEnmGXkGORcScRUuoS05H3QCEAUh88xcVnKmEEvMskiFL3Graf4RTt6y7trb6t-5pMedf1iGHm-E1EAi-yE-8nN3dG3wQovqjVzHbVpLtfEAoTzggivnTK02xotsGKt-95X8OZtYN3thIZU1QQxwGk0ePswhSKl5sD28ybPVJio0ybaUVt1Xo3DguhsXjc8jYO-iFp5uja-nMgiRGkV-DLW0bZs7DH_viTDuIr45DnlaY7gZy6f_6R57W6xNYqcDyMNDh7NSshomEgF5qhFc8kTGyHWnBrhD0LHB2CifeRzTvO3X-De0Wpn7oXT5YJ0IVqruBRKepW_ZSmSQf6Upm4f4Q==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b6c2db33ba56175016abfcd6c812c87d1906e8778769f6277",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 353,
+   "total_tokens": 785,
+   "cost": 0.02197,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02197,
+    "upstream_inference_prompt_cost": 0.00432,
+    "upstream_inference_completions_cost": 0.01765
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 344,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907370-s5vZIWnYgEOFDpyxaz7E",
+  "object": "chat.completion",
+  "created": 1790907370,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette, not a confident identification. The barcode is dominated by muted browns, sepias and dark teal-tinged shadows, with a short burst of vivid color near the end that is likely the credits. That desaturated brown-and-teal look fits the Victorian setting of *Stonehearst Asylum*. *Black Christmas* (1974) has a similarly dark, warm palette and is the main alternative.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm weighing whether the brown Victorian tones point more to Stonehearst Asylum or the dark sepia look of Black Christmas 1974, trying to recall which one closes with those colorful red/yellow/purple credit stripes versus a more muted ending.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing whether the brown Victorian tones point more to Stonehearst Asylum or the dark sepia look of Black Christmas 1974, trying to recall which one closes with those colorful red/yellow/purple credit stripes versus a more muted ending.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpQkKEAgSGAI4AUIIdGhpbmtpbmcSDPK/N/DRVMdBZh9OjhoMhTkFyXYJRIK58VYLIjCsGVLCULWW9QwRWk5K0EB+BAqxuD4PE+CIMvaJDltIwXjpKtrkw6CIRk8w5N32WXwqwggqENty3z0DFLbBpCMeKK27WWN4hgVSZ7f5IAWWyKid+crFncNrv6cacXIHUgdAkxvE8Q/yCRqJ9FqZdKrvUcBnhIfH5nN/tPaYV8qn099ORZbK0ejzfoAxZeVzL7388ZI62vXvE+kW/KxdCgQ3XXXLK4+CHX3+4riMG7ATIZSqb/hC6cLD+8XRx8fSt6Yu5ZsQF7rHwF/NbgkgTFxyL/3HRJYFybyT47FX9jmZwiXn9hhFrhaXOCquNxaGCwuQOKN48NmLbiP0OEbXG0BlkTFrg2AHX6ViDyOBllmxX+PE4XJILh7Ny8vj2iEHUpO9g5eP1vpAv6+pY9wCpxClszArHY3EC25uyFhtsTjKhSEeSJ9Az72nDPuORiTp9v3LwikwzV0Z2zWvb+b276BMIdOOHC/3uqpGu4O5Nk7+JE3CBb0mzKGXY+sWge3/78V3IjNYJlDxJ9aaMwJLQnWf/Su/rWqrWiG20YyvEeVtE1LMCjl0TGIs1fH/iQiVBnHQrRbMJ6+vbXO2UYPMv7BbP8nmrpW5qG2m2j/kXPkfL+7SqLcq87lHZOSS/WqHMzpzWr6swfe+OOLGBbYNnblXcNk/HdQPxykZ491Z+Iq0NvTChSV1xUqHoQqNu6o7hEQrGFpZJ9MMpvGjByItnsSs6EV9Ulloc3HHXPvrv3vB9kjJ2RZ65sqm0FQUCeKhZkXHqdT6T0V4eCth5ow5xokNLMaYW0+8ACcxbyq0jldJcDUnEOkJS2SDqtz95mu8aRLbI4PAyshXofAn4YqPVnpMicgH14+0vPeyVSmkVOi71jjHiD+Mgkz9YSHjZvlaBT0qGo0m0E8usLBfJz2tT83VVM7pKO1LisgYPCLw52Ime7mlur8s3Mk7UOCsYB2AKGzsapPfljgJYHuIohygzciV0wSjXPdKkIyHBPyqSnuM018RyEv9MsJzmC+BDgwS8CEgoGoh1ucJYxa+kUFvpfTyqwKofEoFwemTwuwXefsLWJm7nMwCWqW1O/Zs1EVqkqD7bsd1uCa+11WGhC4yF31IvJkT19Ksocttevz2MPtCGQAQxva8jkSL+L8l5KfkbS7AU3Rb+d3pHnGTLfhiquKtAH+kC6xQ35WH5LIIpfRX+d+twmTDdpDyylQjPiUoSEwbzm4MWWYcp9CoTsIIIfOADEFg6hsSExIxf3gDlO5ra2ydSDlVm5H0HvKx1q8dkszLSHVVFDoqt23I3/zqm6xV3811IRDJ7G2qklCFOB7wFlpZahtPaNKgSWKF4+TiKQc0Q3eMyk+7AHIAaAg/ZXw7LA496sG4O8FBveHSTiCOrc3HtC5OEJpFDX3f9JgXXGSVjd2/HrbbYZ4qFH18OTot+Sj948V/8cRax+qj1a0OO16XxlS5M42HGtG6XarX8s3etdqM5zOL4UEbMyeRPf+EFzhi1MsbxMvJPH+ST4D4HHctIKBWGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 534,
+   "completion_tokens": 380,
+   "total_tokens": 914,
+   "cost": 0.009736,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009736,
+    "upstream_inference_prompt_cost": 0.002136,
+    "upstream_inference_completions_cost": 0.0076
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 234,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

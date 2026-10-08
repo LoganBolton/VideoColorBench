@@ -1,0 +1,21 @@
+{
+  "slug": "rolling-in-the-deep-2010",
+  "title": "Rolling in the Deep",
+  "artist": "Adele",
+  "year": 2010,
+  "label": "Adele - Rolling in the Deep (2010)",
+  "hex": "#4A4941",
+  "rgb": [
+    74,
+    73,
+    65
+  ],
+  "frames_sampled": 234,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "rYEDA3JcQqw",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

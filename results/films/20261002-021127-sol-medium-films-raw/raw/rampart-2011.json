@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907197-2F1Tsp8QbdEz68V7uHbc",
+  "object": "chat.completion",
+  "created": 1790907197,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Trespass (2011)**, given the consistently dark, muted interior tones.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Considering color palettes**\n\nI'm trying to guess a barcode from a dark earthy palette that includes lots of blacks, reds, and perhaps some vibrant blues. I think there's a possibility of a Trespass dark house theme and other striking colors like muted yellows. The overall feel seems to be captured in a context of mixed day and night environments. I need to make sure to answer clearly and succinctly to this inquiry regarding the color scheme.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color palettes**\n\nI'm trying to guess a barcode from a dark earthy palette that includes lots of blacks, reds, and perhaps some vibrant blues. I think there's a possibility of a Trespass dark house theme and other striking colors like muted yellows. The overall feel seems to be captured in a context of mixed day and night environments. I need to make sure to answer clearly and succinctly to this inquiry regarding the color scheme.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNHPHNtpSESxnfUPd-AFv--ic8r-hteA3IbMbGqMbLxXhT5RtNl5I1vkscFVaMwHJL345KTtyCy_h2UtOBJts2XleHhctY-ndpMLPEfFnmGjuJt4aQLD-hITqz6mJflFnHW0ewYODQUC5dB0bqAg3ZWGb2od0kaCdWSuBC5_wToeKskfwr0BajR3hTXsYC8IJcj5pQITDfI0g8pFyiaVCfiT2LP5bJEhTfdYpDErNU54n8EjejznYWWdphwD9Z62oet2Rxb9DsKzlXUZZ5unqxrcj0qkDg9I3dX_4xIEithl2ljQxv0ltOS8lWmV6FyJV2DLgqvSAZzYSdFbhu76x0pMRu6DubBsl_WObctVxfKebdIrcg77WnqrpW853_MCE4x-gQbrIAn8-zkfXVFbKOukPJRb5jZinJBVzriLVwSpi4zoomwDZWFKMwxPdPAyghij_htf30QdyXvEvLftPijt1zp5zkzRKqvNprRtHU6ulWHwOenzPjMX0kODwEy1QLDoTUHJnWfIBiRa8dm-JlP23TfpXBW_PaouOelmd6YldvQGcOgKt99dC6T6UhGB3LCfhDogtsevNfSGWbslQ0JFBFSkvW8-RrY3TQzsNCRrOF4gPnWwhjoVoyv6yAJOLhkaVMS567j-D_HGDE0wfHljMRRkU82TojjQHIw5H_jGE9ABcOp7modpp-DKNOLovAXi2UaIajxHf0_l-_t4p_lH1TH1K4wPrcOeDLrmT148yOOTzAG_SvJnzFknCw4wBafETfzi8a8SJLTk-K3TlKB-S9BTCY8UvtmSqWqKmNI3RhDPHi6LqKtG5u0xlo60MA9uIvIa3eVO0xKL38MqgCJqjqnIi6rtXloQudkSgB2QyjMwByhg42G7rF9YKvzDVvzGs93YLMp5WsSOgCRW0trtA9JBLhGF7SspWDyengoBNH7yQN9-Ps3PaPFVYE3U_IUQdowsSbNDBGmdHxDkaKaumE9SOsekkAz5e0HAMhEn5XYbAMi5RXqeah15BBhZaNGBxNekwMO9jSsuER2SF9xhDOv2NcQB3Xm6JLxU6OCbbDWwleZ1V3diEvQDxznvI9Ry5EBiiG5F_vhsWBxW75d52YpbR4uLLb6nCfdmvqujE_gZm1jo-Th2KALtrLjIHrUhEEkHzvS0CiGIT8AEltJJPkXce-9ptQDY9oHZ9aj2ZhapAd36WMwVVIGWsMtFL2uAIEdZB0hVM81Cp0VzYkVPaWmoGe4RvyhFssLQQwP2G4pGfi8LnVgZv1dXXZJA84jdRiQpQ7dy-NCse42ZFdPg_Z9qZq2VJa6XB4yCZsoCxEvpk9JHtfFWwBLu6edzOZuWsOpZge7Kpn3388vZvSMF8ZQNNvb2F9oY0Eq0O5Ez2d9PaM6tIbDqBlrZbbg8vCNmcEAMeajryOhFdg34BG4Iz3-jOBdzqZSknJD17iC8iAmq3Co6c8tqKXoa3OvP1nohGmD41ZUa_uAEuZNKJL6-20JNYrRB_TAPSN6iAYBxngYe1DMqTtHgF-T-LGjq3UhrNyIuIiCnAq062uaDqCopQ2arYFl5x77LK5X4f2qgYfwNtdGfcNIwuII5J-5nVbzS6-jKdZDFr1QLAoGFoNRLVIxwos0fXXLB4YdNvJdrmCdf9omfLOI1e7NSmcrrkttNQz-365JSUjMMLSgLHYc2oe2QMi2pwlrov6n9Mo7Yd64XYhTl-La1ffTUlgEUxhjI_Sfz68GcCWkuXAcCIugEfoQiyBRo-DmpVlmeJ3keYJ28sw_w2_py4AWYXCfCpeY1aaIow8EhLX4vkgkr3iXi5zDaTSgmnipe8Dwg6FxTxqo4kpfK8rYsZuM1q3RNDYSSCoNfYCJ-fCsA8ZhMp0yfA0_aDm9plc6Ivdhjim-IeHCsQ8tKqPtiphacBM0BpH4p9Z0yzHS1HF50iBmT7S0NJ9y55LDK9sY0QVvxl3RUjhv_wru-MOJppEsAtitSARcySLxOIcyNiilC0m4W7h0fiB_Pb-fyndRAiXduU6NgVFlpbJ-MASifRlyBBLqOnxZiqB9nlqGM-qZp7Jmkn1VnUH_f0L8sWaKIbemToyoBrkd35ZhKA853tuZiB8AaPX6.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e684385e4d77ff2016abf13437c8c87d1a3d7260320dcbfb9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 146,
+   "total_tokens": 585,
+   "cost": 0.002338,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002338,
+    "upstream_inference_prompt_cost": 0.000878,
+    "upstream_inference_completions_cost": 0.00146
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 116,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

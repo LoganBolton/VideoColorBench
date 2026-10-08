@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907310-yi5W5tDYEbcSBN6Ec6Uu",
+  "object": "chat.completion",
+  "created": 1790907310,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; the colors don't clearly identify a single film.\n\nThe barcode is very muted throughout: mostly greys and browns with some dull greens and a few blue-grey stretches. Nothing is bright or saturated. That fits a late-1970s thriller look shot across varied locations, which matches *The Boys from Brazil*.\n\nThe other options seem less likely on color alone:\n- **Sleepaway Camp and On Golden Pond** would probably show brighter summer greens and blues.\n- **Fitzcarraldo** would likely be dominated by jungle greens and river browns.\n- **Transsiberian** would likely lean more toward snowy whites and blues.\n- **The Pledge** is the closest alternative, since it also has muted, wintry stretches.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm weighing the muted, desaturated color palette against candidate films \u2014 thinking Transsiberian's snowy blues, The Pledge's grey Nevada landscapes, Boys from Brazil's 70s browns and greens, Fitzcarraldo's jungle tones, and On Golden Pond's brighter greens and blues \u2014 trying to match the grey-brown-green cast of the barcode.\n\nLeaning toward The Boys from Brazil given its muted 70s film grain look across its varied locations.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm weighing the muted, desaturated color palette against candidate films \u2014 thinking Transsiberian's snowy blues, The Pledge's grey Nevada landscapes, Boys from Brazil's 70s browns and greens, Fitzcarraldo's jungle tones, and On Golden Pond's brighter greens and blues \u2014 trying to match the grey-brown-green cast of the barcode.\n\nLeaning toward The Boys from Brazil given its muted 70s film grain look across its varied locations.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSxQoKEAgSGAI4AUIIdGhpbmtpbmcSDE0k5i4omjJd/H6CeBoMc8OF5Vjq5OXTUJrKIjBgI9X5xBlqkYAB/16yC80WvUyPE+HSAOUdB9Zy+kfawbPay2/UUv1fSgVYd7tDV3Yq4gnx205QiaX1OJcTr2OR8PKibomCmX4neWTVyV49LmkYR/iALFMTisSjDI50vuYl3n/1CV5uOYy/LCGRoY2NoNUKKlx3Q7DgitYS8GnTceTAsrFBnboZMOi/3s46cWyCsxLmIIBW+jXdpdZzOyxchP/rFkH6KmcDr/gHMps2qohJGoEtKC3kT6mf99QyjpqfsdNX0oyQZly18Lwf6pGQR8WvOJx7NfAl+MdKTFjUiIW+ycKQBL6fQUIB7pfXO4w2Xk9x75zAjPIwczv+DPafbX8FbegEBn0nEKt4V1xMsY9P2MGE7TTxPIFcfblsDRj9jyONbOnGNfkaPG9Grlzy/ESZOnZfXkbU9yb6f9k133O3i0SBRp8D+FwNAkTcgaoxwZOJqJXpueYV0vV3XGuCvzCBsWEIkHiFvg9fkJYNIqt4U62rpMlazyeMF9cVOUK6c0fk8Apt9Qf1YQlzHRPUl/jZrAoy3Y4ozJ9exFf/AVcGWXqn+/jKqItQ05SqeYuQmDoYLHcC+hFfXH52jtIDYsSxqTilvbRQ3Z3NTIM29Lnk0lE11/DjSWwBCL7FmhGqoBJQ3tLwORe/GKNgyAYJ9WP5aDu8kvkM3B754LRB8oL4lwTQHEvg9dwYnejYEm7uhFOC1lbNSkB1hN4YCmwC+lcIglTjAAR5kpY3HNgIQAv2yjhVZ3S1AsOwgbnNMj9G2og/joY2k6jLoa7CZ+Tx8v3fhGZzMs54V16jA4hym/nCTah832aeRd6/VwQPuqTSSrfCb5zMRb15eI/CLMOl0+OOW7bfnRxGfqZLKI87AIEUvQSF993/icw/QWM3pZ+1kcpeCT1vusuI+h7xDpU0wYGJEIO5dJHgZIadVjNPy8HSrSnVAZHoLn2nElxqcgtXXIuBSirlyBcvpj4PKX342MmEsOb0F1oYoFn0zjAwuNoUykayMIyFVVDXkE14JvhSvuDma4UK3jKdaZGH2hM49BbbNH+NK+EXKoYJlUvACCYvxqFfLI9aRqgmsCc+qk3bzeDjZH8/DzHd5NTxHUs7tvxrr5PINCmEZ6HLCgbZlTM9B4RrS6JCOMKkjz1SMKwhGjLpsYLCPznAJkZSwO3s4If+dt5kNDmimr+mOzxJqi+is+C+xYDNOPVWYJJnGexNNI7Pr7x5b3tS86JTbHDUsD6p8UZyFZLhO4gkxB2pWqApWPSEJ1DQUygoOGO3RawESvCRtY2p6TRZy9/wMnLhCO21hfS03RwKs74CPRrXc00wjNBJMIbZnxZq8AhDFZh6O9ZDHdXfKbOYFhxJZvsUwMAZVZRde7CD8zEjlxWTGhyvFVqyq/3nV6vXhVCDzF3xocg3sFGcsYo9eeMXDRw2dxNbRXOckfMBHiSKuuv/YhQzv9GsGyyT9QbuWE4AbMNlnrAh88DbJ6PrWzovdR8clvcwOkWpDEKM6BhQGWpzTeKGpxQI7k+03jfSWCBjOILGi7/S9sXPOnaZ1+DlKvgmIzdv4PAKGuJaLo754wJzrMCiqsgZEpdk9RJQUAnEqKz4JEnnEcdckFGhCsqLVcG93Z5b6EO8DEv7Rv+0ty5WNUmF0Gm92B+RC+l690hpyTeL3MN9ADl/IJZVc1TQzOI/0hItoJ0yIsg8rgkWpC+PF8KuI/GBO++bppEPqYn9MoCh1S9HZhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 553,
+   "completion_tokens": 568,
+   "total_tokens": 1121,
+   "cost": 0.013572,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013572,
+    "upstream_inference_prompt_cost": 0.002212,
+    "upstream_inference_completions_cost": 0.01136
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 313,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

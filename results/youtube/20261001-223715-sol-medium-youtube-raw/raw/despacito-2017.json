@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894317-phG5mCqET4h63W8W14s1",
+  "object": "chat.completion",
+  "created": 1790894317,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Luis Fonsi ft. Daddy Yankee - Despacito (2017).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuD1Hg9Rs059bxWT97N4agvOO9Q52iZmM6UoNBD54r4fnhnbIqH0a2ZsEnOWHi9QyR1hjwYQXmVSJSMnMxG6kLqwkvJWVk83tydhxponQI9cyJABrq5ENc-EJ0Ie4eY7aGLNIDHda0B1GGq6_uI4TqTw6t8RLvZ-CfzBZf760pDqHSCWAKiB-7sOZGH-ke2wClFLyl13u8-RUmcU4neXjrYcWs4WRsUapqDWHi_8gvU1K5i3tzFzOGiA1TXZ-snXOvdCLnVcaTSibrIW_yzFaLGCvMwSCwT3xXokDt5j4zvF30Lsh7DhSS7P7vfaQslWsgjZp7cpx6EU9W8aYffVJYNTKR0fhQxNc6rhhww-WTfP1qPmcE0F7ETi9Eda5Xn62FAqY35dBryysYFYima_Dlpekx3tfyjDynFpaPazDlTvBgsPIzB9pos2aMUWluLEtLsBLYd6ZmKpNjpni0f9xuTCdk5GbWbMDW5-SUAFcfwGBc5osLkpTlbCxjW0muRAG1et5bSerkm5P_UJ3WZf98mwLl_bnjEGHM8K8O8QnV1bC5VMkL6OA-dk1lvphvDXL9y8fA6uFIZCbtnD-TWbWuZp1O3pcIH-oLHw3YXagK48n7Q1gKNfteWAbDVg74ubu_bBmlh5CJc_6q1Ouh5Sh9vO14OHH-rKzGWvMNoRvPRBMQ1KLRAXtmyhkfUADgYgzpAGUuGxYKhhM3s7bw19-dZQsTj4xW-FxKzDoqfNAA7OXCrwTasvYp9qZxnWm6FGVCDNklqxeYCf3SkQ9YwiNhTQ1FQ9hNPNkvgEuIjkxV2JOQ8koxjTNo340AHyYNdl7sJ9AUBePaEAgfxnna9Owj4AutJeM-flVJHR1qZoqUTLGJhOzQa1remwVe1jUKJ2LhVi5iosJ_djc3kHpOdjUTx2DfkB2cW6fT2P0jmrqA3JKGaI6LysW441MCI0em0v26xSJd6bAQGbU3eAMYS9ptsz_fEqbaiCx1wUIa6FdMkpWct8Nrnyw-IOPCXLMEKiqEunsjvWqsnPE4Hi_tgEB39MjrEjVi-z-CdOfT1MYFawrogAcJntkGBRmySox-G5qJXjCbkU1TBtRR5Blv88YPeiOLYaXToDiaHb85YB66vDP4RTYGEL-9vHWq5hklzJ7S6RO6iDTjiUQlYEuzmTyj-bQjIvxQYFx_oPsxJaQf7pZY4bS3JuY3BoOaJWQmSe0U4QEtXDT_M78XUyOhfHKO1EwZznI2FwE08nWKwV777v1jKMFxaRHWc0-EpPzA3iTne-15ZUdTk7-vaOgzzsOgrjuEs5ekLImdjWbDzG7EIyeAL6EP37tDU8c1fPfiKr6juJ3JYRXSIhx5oJ024ryalEowlBuZupMAbuyYhO4DkaPmQX2dwwICWY0INpwVAHTzvsqZwabWJP-lIRR2gzr8H5pmqdeUtJVKClPWLqiflUaIzDD4DRySfcXioagy4DCmI4QZVhNVEdIcyvCOQiE0X6tCpAF71wUzp_eKVEu3sDRamMqxHtwtUPXoTFT7I1DlrxqivBJ1aVFwtc-nDiselRcX8bE1KGqdOBYelx9NZeK5mPVdY-WkFBODWVKNrk5p8yMHZjjyBQf_LgQaQIIe46xCXk9RL2QE7q-LwmmD9Sa7hEuWy3YJE5sady4jtgwSlyD0NRXdiD-PrUTNFZk3fp7DcK_jpzBgC6O0G8DMIfi8_Qsz97AWvF6tILCo5OxcDyXX_4qbfb_uEmCIocPVMxZgO_0Z9bKknGOsimWAwfoT2LzW2g_qM2xOGfhVSyFXdffS0YUk4-K1zz9xs8jLIcy2IXRpJJXowMVmCEpws8gJPn2z85zX6yG59tThkgi0gvinFnyw4aqBLsCbDe4055a9esVyJX_xBGeSgz5fto40anO8TOHBayG6GjYzdsJZCo33Hf7WmpYm8xsa3fI9ddmrKow1qONPH8M97cpJA0qT-jNPYM8EcJ6372CU5Ezdig1qTi6dSpgdN8ovZ5giPbpKk43ztEUh_HKbqQrP4DPRwnxeaLB27h4Dd-8Z9Zc60-ykvTp81CR-aLBvMnfkCohYqkeftADNAOxzLiGDBfHzldhbdmyhUV55OovlWFymeII5cnDF4nT8xWY62fRCXAL9myw2jWgGwlc_WLg4w8CtEGR6XK6grSEuRIrQR3ZdW9PKxCzRXLlzbu1BL_gdzsiP7plB0_O_A0L85XNS5tZiiXW6KrxWjLyKrW3IOh9gBd7D7STgs1PD6y_D-sXa6PK9y8HUR0cdEiO16G0GHev2xMQGWPmaBi0phOjrX0JgqKFBURQpgZOZBU5sgM8bU7wpqkerpkvJ8ukrEy0L8fM8cwyWXFXuZ8U7ba5KYg_HyHhoDj4n586Av46W0kSeyrRo6p-oV5ikRjaJX-6RmOl2BUUn3PDJbaroNs2RUm4ZJCAwz4pR_pQU4WBBpq-LQ7fEWnlVfixAQourKcNxGdROdpx8hnSDuZSYE_Kwg2KWcHUwVqMySwvOV1gluIU5BKf5slBjT1z-3So3IHztrzC4U=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d774c27dfc5ca21016abee0efdcec87d19585ffdf5f447fcf",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 509,
+   "completion_tokens": 218,
+   "total_tokens": 727,
+   "cost": 0.003198,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003198,
+    "upstream_inference_prompt_cost": 0.001018,
+    "upstream_inference_completions_cost": 0.00218
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 189,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

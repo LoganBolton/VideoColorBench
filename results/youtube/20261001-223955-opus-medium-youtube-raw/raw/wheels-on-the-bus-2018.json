@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894495-Ptn2Y1Hm5WPkTuSGRZb2",
+  "object": "chat.completion",
+  "created": 1790894495,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confident identification.\n\nThe stripes are mostly muted, earthy tones: olive, mustard yellow, mauve and dusty gray-blue, with no long runs of bright colour. That rules out some options:\n\n- **Children's animations** (CoComelon, LooLoo Kids, Miroshka TV, Masha and the Bear) would show brighter, more saturated primary colours and greens.\n- **Despacito** would show more vivid turquoise and sky-blue from its beach and colourful-house scenes.\n- **Con Calma** and **All About That Bass** would show bolder, poppier colours.\n\nShakira's \"Waka Waka\" video has a warm, desaturated look built around football footage. That matches these washed-out yellows and olives best.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted olive, mauve, and gray-blue tones to specific music videos\u2014weighing Waka Waka's yellowish soccer-field sepia against Despacito's turquoise and warm palette, and checking which one might open with a particular logo or stripe pattern.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted olive, mauve, and gray-blue tones to specific music videos\u2014weighing Waka Waka's yellowish soccer-field sepia against Despacito's turquoise and warm palette, and checking which one might open with a particular logo or stripe pattern.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpwkKEAgSGAI4AUIIdGhpbmtpbmcSDIi8AeIv2mieNNmDhxoMfUPMrX7dGwCjBanaIjC6IQkcEnwEUiwcly9M5snW0pY1Q0yFOhk09OidioT7hY1iF1qfCILEz/V+/fYaIHwqxAi/vNHY/XIHWXBdxRfKn6KoiYdiHKVJaMNkKnUpWNGknoiWPpE9lbXA+WWz47AxyLvMhd+ZN9UOf0H4kUwg5AApfKg2jL6e07HNNgMd26Efz9kYwaVMAWGV7EqZpJk0JxMLCVlk47kSifM9R2a4dVYTq2cYBK0B7faLT3ei6EfpQ/74gHRlZW3emFoTnusoEOgGIj8fQ/KMtD1zQevebxME3XUFS7q+BLctUQL5rlfoo3FNPCA6+XIECg+eCrldFWshHbWq00N5mIjndYO1nnlkcnaJAwNSa+9cZSvQB1JwsrZujaOMCsiKzwD+OC8UaH3xYKmO8bGm+z8Zr6hLDgqLW8m86W8GpXi0DWB4ZSErUX/QQ5nCwxiyiWpr1VqGsaJq+9RDHZWjfHAPmWM/+gm9mjCcz406GEKog1x/12YfP5yuoSU73oQJ7qGblanmJus3fJkMf+INa2j0HoY4GUAeB9bn7IdzF+Jy0pW/NvZeUFJBhmrR5KVheurXHpfxSXTs6iUbjf/JQczfv3UcmGInBRPFPtKPhgmEyTG6oDZ7NC9FlCwSP6i3W+GuLJj/cRiSwxroWY1T4bLkxQn7gWzrCn+meUlDIl1VVBDZWidC3B4foj59hlLztxyX1JWPxP23OGeLdHMHEAsGWrOmlx0H6zKMOhCGYG1Ph/fNxZVYKLXVNGLYf6Lg61CSxwknCCCelzZLOIrt7BZFi+ct7fwE2umSuQGjrQgow/bAQkeOGBDTFe623lgSSS7WFlTKvghzHdiInESgwa5Ih7qknJq4VN7PhIg0R2vAdFag7SOZubnsGfssIfzH6VFQVyHLBvND8tuAOLmhsYelax0nqz6tGX3jsQxyTzTa0qT/NJKteUCLCnIkue8fqbXhsfyrd3HNxc40NqNUnbJAOvmczzl8m6SgCugyUHglu+gZY4D6SIoA9/E353ZM2MeqERov4v4yqS1ezxD40JuD5dH1U81nuTYbbLPNccAyCCppeIvRnIDvWexonsV9sXRXLZISoby8O8Arok9SAcOx1wn1yFKh9wsscCQCOK0CXzq/eMpsrau5SlwNZrR4CQjhBbVEF8NrntyhrEhm9/0iu1egLWkdp1kjC2nolN2h0zfJppyrP+t+74DDAHSEYiphuqJsJvVfqUGNgKb2FhMwAXaS3RNnlaqjyla50RT9p7NNgKWxQ4Pz1RmURsXMSSPj6hNKdEJvkh8bnRA0DXdZ+enqskKaifYam+kDt83li2fVHwVM4UXhSFtggBPxs0NqNClSF9SZwox45C6Ds8bduTvC/Vnj+r/fuYXH1z8v5ZRk+y09U7zXcwSUxRm/rX6VGLiQl4zeghpwgtnOk6+k9tsmy4WDZIri1Q+nxiSA/XAC+YESiuTMJYuSQTNW/2x+qauhxSIf75bntKz6FA1aM3Wj41a8KzzRkel6vvvELp5SvW8UsQDYvVEYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 664,
+   "completion_tokens": 516,
+   "total_tokens": 1180,
+   "cost": 0.012976,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012976,
+    "upstream_inference_prompt_cost": 0.002656,
+    "upstream_inference_completions_cost": 0.01032
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 253,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894412-qgKWfVdDEh5WmXJQ6j3k",
+  "object": "chat.completion",
+  "created": 1790894412,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette, not a confident identification. The strip is dominated by dark, muted browns, golds and greys, with occasional purple accents. That moody, desaturated warm look best matches the Fifty Shades\u2013style footage in Ellie Goulding's \"Love Me Like You Do.\" Charlie Puth's \"Attention\" was a close alternative, since its dark club scenes also have purple lighting and warm tones.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm trying to match color palettes to specific music videos \u2014 comparing the dark brownish tones of Love Me Like You Do against the warmer Se\u00f1orita and the purple club lighting of Attention, looking for which one fits the described mood and fades to black around the right runtime.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match color palettes to specific music videos \u2014 comparing the dark brownish tones of Love Me Like You Do against the warmer Se\u00f1orita and the purple club lighting of Attention, looking for which one fits the described mood and fades to black around the right runtime.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6ggKEAgSGAI4AUIIdGhpbmtpbmcSDFfO9ehfEReDCzmRtxoM6XMMBMk1c6I63vMsIjAMTfPa6K7kmFrMuMP1pq0D+luL0jN60LdBrR8cKQtRIOGNPC6L4E2fdWUu7QPJ+J8qhwhs1dhhbEvATmPAcazy/vbR+/0sbrzKvZq7BI0gLFVc4ZhE5CJT3DoowbW1oyeG7bF3yjLClHFTX+Hst3fGAbT+yJ2ONqET4/6OOD6+oBbQOZLJMsFNLDCrD9zvASK7E5697ckizLuZkaXKKs3ihvVcYLid+Gyiv9FQPTP7aHkuTcn8Erc7Cfl5ex6qPZe4rKnyfDXzmupukYikAmzb1u8WOOsIikaM8XFSgVUsdAuE4JXFVq/1n7a2kjL1vIjq8tpgML2Hy40KCMJvz8bt1U4r9z45iFhXSjw2Vq9ki8IWtbWaX4WculEFT04ui/pwCGNqJwrwCgqfpn/FqHxbNogP9YE/Oi7Df2kZY3/ApAUtzFBsMh0TypLHeXvDbYL5lWfWVJIyqhcvMn2fCnA0o5kujmj21Cg3JM8N9zoEllLTusXALFWlk/pfsrAxuO9/Frd8/z5BWjCfpscGDxw9fm9X1GcwwHo/JXjNjHJFp0IWNdQI/xwQjlltKmDv6gyuIPUKy2sGZcMKlH+oV91FSVEHRWK3vuVoUiOmvjiZ3NyinU8tBxtoEAVFdf2KHVjQ+x30Qhh/pmGQPNEW1BNszkPoP0TVsar3lye0glg/Kke0qumtFsf7sBtecZqk7irVv3PKoyMVy647wuiYCAEQY64LMfP+QmrgBaS5APA+KVCBuMDLORHCG6DkW9E3jJ7MNNpSWEENfMkvb9VIa+gvXP38vV4t6cGGCGxSSHQoOg25wy6VCRahEw69EQsTeiPMe6W3BPARuip55FSMoB+SAMhnDFn9IMT+xHV40CC300DZrOdzTu4vyNKfIUU12gtMOgQ9Rg1189YSZWF+G5SNm7mFnxwNV3IdbMcqiap++9qOSc5aK3fJYcuSyyiDQ041jmeF4EbJxlfiIpn9oPlI4QzvxZNeIaW9024fzOfSOdWCpfvdJd8K6Iq99XJ4oqkh5/6/VkMlApW9lmAX25n9IwUPfhUs5TJr0T6+NZmdesZu9n81rQNUp7qQ46oa1cKCkhxAacvMF/3dxtFwHURtbP2emM+4WBGd1/gKYgMa4RB4ZfmvyLoUdaMf7fDHKrvKXtaC3AohApmRmcGlqZa0l9ggVmYfwEw5IbsSFzgwrbIi9EOD8hvizrd0sXMlcjOnOeG67wbpVY1ZbKLhxm1Fh8NyisuCxdSGZleBPIfoMTaIe1KuB8EQhCp3Cino6ZmF5abz0vrlv/DJQJHypGhqEPUqBzJ7/1HJRnozBJQVM0X4NeUEHUkPFbNTnDhd0sZbtzlWOZpjeFZ2YcyrtXn8SP9HnJ2r8SLgkbNiTrqqCIo7QhC491xQRV9/AJcqKbOa4qEuAO0WNYuz/nFTqmDnqrDiWHAukZxvbhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 626,
+   "completion_tokens": 374,
+   "total_tokens": 1000,
+   "cost": 0.009984,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009984,
+    "upstream_inference_prompt_cost": 0.002504,
+    "upstream_inference_completions_cost": 0.00748
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 227,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

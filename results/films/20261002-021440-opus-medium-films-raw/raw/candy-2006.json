@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907326-XjNlWPa18yM0gyRgPcq3",
+  "object": "chat.completion",
+  "created": 1790907326,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette alone; the barcode doesn't pin down the film with certainty.\n\nThe stripes are mostly muted browns and greys with occasional cool teal flashes, and they end in a dark block that looks like the closing credits. That subdued, slightly grainy, desaturated look fits **Half Nelson (2006)**, an indie drama set in Brooklyn.\n\nSeveral options can be ruled out on colour:\n- **The Illusionist** would likely run warmer, with golden or sepia tones.\n- **On Golden Pond** should show far more bright greens and blues from its outdoor lake setting.\n- **Knight of Cups** should show far more bright greens and blues from its outdoor setting and open skies.\n- **Beauty and the Beast (2014)** would be much more colourful.\n- **Draft Day** would be brighter.\n\n**The Infiltrator** and **The Boys from Brazil** could also produce brown-heavy barcodes, so they remain plausible alternatives.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm picturing the color palette of the barcode itself\u2014muted browns, grays, some teal, with dark end credits. Thinking through candidates: Half Nelson fits with its grainy Brooklyn browns and grays, while others like The Infiltrator, The Illusionist, Knight of Cups, or On Golden Pond don't match the muted tone with blue flashes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing the color palette of the barcode itself\u2014muted browns, grays, some teal, with dark end credits. Thinking through candidates: Half Nelson fits with its grainy Brooklyn browns and grays, while others like The Infiltrator, The Illusionist, Knight of Cups, or On Golden Pond don't match the muted tone with blue flashes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSzggKEAgSGAI4AUIIdGhpbmtpbmcSDENgPBF4FgD2ZUbG4RoM5KQ/9YNJtq73JS9rIjDueM6OP2NiN5IXeah84F2+6WHRm5mL9mJsO+eL+LO/hfcfBEPsaqVXdeOgsh0ALPwq6we2FEoAAjPBCIAQVQDCxr+zkmiQveLH/hyY/bAdm/rwKYC9VkGz/ZxOW3sa18lgEQEsyFTZ3w+ADqbKl+xDj6KfOBtUjSMaNVQg7ohmrNh5E+Ph+cYEx785S6d1QJSg5oxtcpBSgk/Xtcx/2nRMOb0d2BSUfKiG1QOLrcqsmOEVeMecnRR2neInhjeI0SyxLQMqvpwCRuYYUQYtev1UCuWRC6iq3pCJ1ZHVumrm8YHKQT8hR/JOiNU/Ap4iM/SZ/7E7+R6fwdPqDhs+g3q2lzIlw239L3VIUIHuOXA5DQbKGKiv91ReSVV8xbxfoWsf+OHuQZUe8l6bt2jnWUnCsNQTR5w/KryTbvyl3+0/P/WZgjIMjnfgzbaHmQNLb91j7/xNo4Avs4eQDA7odGZrmlbWlmXTHzB4+xjf4P29OAmVqVpDpHS5AmJ2QbPpGAmy1JPsDjG31LoA3r3pnTG3AWHVbKLSuPeXTOJKWuB0WhyzesGffxJmgy9mmBVsVnuba0a4PaCXL11wLBxPNeEntGhpBxrFUOCKy/0PpLja+RWR9gJYPW6PxDqDcLx2gc2FgqtIi8x0xngAhbwgIY6HnZZhKH1Bx+R2xOnfSgkjK5uDE7Zw0w71tviVHVmcSCnXi+TDEZeES+x0gphn/ZrjtS9oXHJMMu3yMZGOkEqYS7CbZueQ6/E9TSIc3l4j7SNkA76Jf3X1ZwVTw4j6jHZvivhh3qs3NUjPjxPo7Iq0Kah8OtkgsqkQBK/KEI35l3doxQ6Qgel86jvVYe5uTCMUFrJ6NiWS0cGIckAKl6/k9D6xMxiGA+ltFv0Jr7VuABOEW/hN+ab3OyItl2RNu8TVZpc1NIl5MIulhkSiwpBcgszuJezvL6DsCH5GQZHxWPk+q8efeB7Gx381MJxRLAe8UPok5mkhVi2a6TrkU0dfKkwWXcmbgCoo2uTvViUP9xtY87Yx0dF1p7J4KtS75eJVe7RbbXATlTgdruifFDZJ2HYmFvqCn3APMnyYFnitvIvg0UAn6oMBEmBPxL9dTujGK7GnhnImcwt7rXpToqSxQ5T5UHZdy+y68bWv8me6hnPQiaXjE4H2WEpIvllJAN/x1mX4sl2JYA9T5YHYvZAaVreoVLIR8N3f5wLyxStI/7rxM9+dqK94+cKVbool6lcWyVa92en+tJBUy1YMAJVoVyKx0MLRA2ACPrDIntD5pScCmht2dYhrubRZg7KvFHNiIjGz/wVRUJfnuSG6rYMOgVX1xC7ziDa0F3XXwtG1rJu5rQ7iUOqdyLOBGIw1R+HhphfOZVQ3JQ1EjOfxWnStbiMuqx6sn2VFMIXqA4ntGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 522,
+   "completion_tokens": 546,
+   "total_tokens": 1068,
+   "cost": 0.013008,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013008,
+    "upstream_inference_prompt_cost": 0.002088,
+    "upstream_inference_completions_cost": 0.01092
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 214,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

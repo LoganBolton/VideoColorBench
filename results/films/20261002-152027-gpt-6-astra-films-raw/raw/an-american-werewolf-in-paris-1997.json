@@ -1,0 +1,85 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954436-q9vdJJ9GYX1TEKNVHEk2",
+  "object": "chat.completion",
+  "created": 1790954436,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**, based on the muted browns, cold grays, and long dark stretches.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "**Examining color distribution**\n\nI need to analyze the color distribution in various barcodes. For instance, I see black from 0-14, then shades of gray, green-brown, and so forth, covering various ranges. The palette seems subdued, suggestive of themes like \"Black Christmas\" with dark, warm tones or a muted ambiance like \"Exorcist III.\" I\u2019m considering contrasts too, like how \"Sleepaway Camp\" has a brighter summer vibe. It's interesting to think about how these color choices relate and appear in different films!**Analyzing color themes**\n\nI'm considering the color palette for \"Exorcist III,\" which has a majority of dark gray and warm hospital tones. I think about the H, J, and B options to select. There are long tan sections and gray, leading into dark browns before prominent black credits. Meanwhile, \"Stonehearst\" features darker tones in the asylum climax but ends with a bright outdoor scene. I\u2019m contemplating how colors shift in other films like \"Prom Night\" and \"Manos.\" It\u2019s intriguing how each choice reflects the mood and themes!**Evaluating film color grading**\n\nI'm looking at the films where the end credits are brief, only about 70 minutes total. I think I can discard some unnecessary details. For H films, the grading is all about teal and brown, especially in the opening war flashback and subsequent journey into a light asylum scene. The overall plot unfolds in muted tones until a brighter Italian countryside appears toward the end. Compared to \"Black Christmas\" from 1974, which features vibrant oranges and reds, this one has much less saturation \u2014 which is quite typical for modern films.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Examining color distribution**\n\nI need to analyze the color distribution in various barcodes. For instance, I see black from 0-14, then shades of gray, green-brown, and so forth, covering various ranges. The palette seems subdued, suggestive of themes like \"Black Christmas\" with dark, warm tones or a muted ambiance like \"Exorcist III.\" I\u2019m considering contrasts too, like how \"Sleepaway Camp\" has a brighter summer vibe. It's interesting to think about how these color choices relate and appear in different films!**Analyzing color themes**\n\nI'm considering the color palette for \"Exorcist III,\" which has a majority of dark gray and warm hospital tones. I think about the H, J, and B options to select. There are long tan sections and gray, leading into dark browns before prominent black credits. Meanwhile, \"Stonehearst\" features darker tones in the asylum climax but ends with a bright outdoor scene. I\u2019m contemplating how colors shift in other films like \"Prom Night\" and \"Manos.\" It\u2019s intriguing how each choice reflects the mood and themes!**Evaluating film color grading**\n\nI'm looking at the films where the end credits are brief, only about 70 minutes total. I think I can discard some unnecessary details. For H films, the grading is all about teal and brown, especially in the opening war flashback and subsequent journey into a light asylum scene. The overall plot unfolds in muted tones until a brighter Italian countryside appears toward the end. Compared to \"Black Christmas\" from 1974, which features vibrant oranges and reds, this one has much less saturation \u2014 which is quite typical for modern films.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vbOnNpbIeiIfFhmz92AtF3c131uTmzYVaNCgIPgBGBTfqbiN138lRtTfieMBOHoGFMf_kQFyqJarFzW1CEKjBgg8_4CAGW4lhtSJ5MI8ftVer23Pqa3qKKTtPVcq0Wq59XRmuI7CghEize2i6L-ex0OH7mczeG9TBmGzZL2AsnuDgFTF0MGp1HsBCynzjFHnSu-jHjMKxCKUP4frBcqL6LLFMZrBHOcTrypmDtqtCqxj3zdbRaJczh1fGXnmXom-Akb_XPcGhP69x93BaLEjEmOugLGOXiJ6uPdAye2DYbPpk1F2Fw80USaNnV8L7mzM0huwOmTKEaf8vc5AWfVuN11Uti3B7loGsG7jTz6coZ9yNyq-WUzMZY0lxtGwxbMKk3t70D59XE7Ny1isLCGyJI1dBavAhcLTZzqsUrOboXR1ZnGEoCfq84G0PHRazRpH71y4J2VDS7Ub5LlQLQv9gm6uzBWWTMrTX5D3ZYs-CnQ4Y9uJTMJS4JpoYAXjodkkU6evAwZ7CIa5zuLSiCACfuFOmqnI4re4N5sLkF5iAy_41rUdz5YXZkxiYy-unRBJfjwDzAgeq4O4WsyM_z82S7Zy1DC0pZlZKRhzIRMtj6DArpSVNgJFo2n7UhooVdJ-Fn2fz1KyMkwHwFlR6GBQ0FRxSzHHivwoHyla7NQ7rIv06qhRrPBKNaHAXX09Hvrc8AIHial6rgsvOeG_xcc7go3wGAoV8rF2Cf90udqohxX2a8_YhkQJTDDG8Jrxg4PvA86clF4L4xrzRmsG81NARegrbPCla8YCOG1J7gZcZNm11aww5V0MJMbfcZqsW6e1Hy2YWRZl76457-akSbgYzTXyY_vuhleomRGcb0tAUU0Ly1qFjo7SlP9qgYa2PXb0NRA1D67Lg5T6VAnpDcWCJ0A0fH3qTqYm_w-rXfUH6J6NiynDjDlHFrf9ktjpGDAGbNSpLk1Wu0XQzHh9WRblxCCp91FIhVyGgdHUpf6NkNIQnE3bRGsfBNMsH_RL_lJUD7iH0DKOZJ0kO_T8dYQfQ0y6d2RMa8dxbMzY31xBoB5ml93r_-o71l3FESdrx5qxcIzQXfcXHhZFNUZYz6j7gnz3B9RXrs3FbmAuOP1wbXmOfZ6p4Y9PW17L0PPq8hn0-z-gZ6W17el9ABfARtoFkIzUQrQd6yYtxGp78-aiFUaF1JeqE-VbUNTt7QcyFljoewaTev7kWaU6824LZk5SnIhwHmk56C-0ZOWB6C2FRnZ0qZffx8nWmyY_BmG2l4eBm0JeiH_ramiRM2BNFDVTTZJESE7Dy4E-EcNQRjJTGWL2U8SgMmk8sdttsqf1Yaa0et5zNT9UDbbYyF-ja_hl4DSexb5RFx-xXImYNP1j2VxtzNfp7C06dlQBiHJZJ715FW_AtSR6jC1Cy6Ip3PQ6QmN3MzNVMFdeJNLST-8UOUCpdn7vGB4bTFGHRdjpXuh-CgxTr8HOjMU4aHjzc3jlqd_OwX7NAxhbq_nqPagSNesHBgRdYDLjDl3WOS3oyq5R8CbbQF-HH_sQ_ismkbO25UFVefbRZtF93_HohvhNrag7y8c7gbMJxjogczElveffpaJYkBhAnVwPQ67rAK_XkBysC6MM-8wdPvoUzZ655lw5fKa4hmvuOLg9zrCbYroTXdE-bX3swkECgMyfaTvRIEg0Wqow4aguvqqhkoULCPkAtaNsNIrM9qZ2FfN7CbUCICk53SCF9TnykFUoloJD3WbF5k5oOHIcRMHBPc96tw2ku1YGLiAWw9_-6HEai0SnozPi3EUTEOgtNryv1ZVi_sCl4SAqUI1w33WOisLmkDmNvvodJv3kjuQOiad-jXe5GXmQkvRfHKg59_ennpKaFYCjau1MLslsbicWnP7Q8168cvfOk-A7OEaDZHEvPSFzZs9hzu2UqNrFQvDlq-n8zHiMrkLI5HWgdHUhyA4A9B8orR_NndR5R8tIjKsP3rER09TldZCs5Xz3c1_Bj8dTJxg4iBPGhIJ0Kpe9LQ2sUTW2XhkZuu_gqciIYbxXJduIXx8JzhMpArer200BG61W8KT395evbhY_-N504pKfSxutD_6GT4dv0zIogwKNbCmIh0kkOCyBcWmM8bD689BEqi_d293WyqbysUMMMYvLNiQ-nbDiVdiHM0NtkL8rTCrgGNcijnSJ8sZkwWlreBkXbA9DoLCq2d5T_xlMYuZowP3663h5uA7oHgrrmu8CoIvN7hH1fOIGeWhXN7XR8IBawGU4nv3Gko5YrJCYV_tk8YNctHlSHHB0jZI1i_mIlb0z_QGVahVDmCTClJ3t-3AXGXqqzuuTXSUTienRZk2sT1W1RVuajpUbxpMzNplqdahB_pIhc9hUTtQQf2AJoKI9Ukip0TfD7PhYF0vbhNtSKTMlhg6QrSFltVNOEszmGhf2NSFC-DANga5HqgbpKw6EAdvy1DgVlq2UCFnNnX0Yyj9GyByCHu-pYnLU0Xo6dGS5YUQY1018IsQ9sjtsS2abvhYkyEH-3IkPFxMLBDhMo8bB2DT7oaf2t1issj-FO6hYteVTOBctVd4EpD8LVaSa0K6p63d22wzVchZns4T_WvS3-OtZIsxxvn8K2pOtVnCiQd-lICPkTYEFCfmH_oR5cZTkPeiGbDBFu5ZtR0Qeh8iPpnC8_IaahS1CQLaWKHLd9xJMV-16kSzS-_UpuZlUCL3xDkskpj8U4wn8ArzrGCGsunA7dkRfiB9s4zpZ0jYKyihnmOFA6tv72l8YS1EVzJkRKa7yEChkjkNJVIMdxHFR4KheY2pRFUtCgQnhrVuitEtK7S28LZyZTXWAebyGOaTbgmMGDnr_1zpiRM8kwe0_tHMt5aCZRiiMluyWJInStJk-4-GaZ3HkXPi3VYerYB18dZOIQRXhR7ZhCEJlto-Rk0jgOGx8rLALvY54kFFcMWg-4RBU0xlbxRCi07LsSUBvW4K9Htt6WlE4RU9Gh7gTOwjZtjjT1hXLxfUEqLIlPVDxSslh92Xt6WYMmf_sPdeSIJsdYrxcUJBfq1_SQetD-SxU8ZDVTkD6Te4GXC16UT8Rn9bb0ukCKO0Njd31ZRF6X-tw5Vnm9f6iVkzR6YYf6MDm6_sxhLgxs_rsB7S5YXrlYDVHF52fFokU0WzwSk6si-PxRatMaEy4g9aiSOJ8I0bw3VW32056lzWsVFlY0YkoQ0-jbkStznG9gXT4GdloVH0XKlJQNzg68_ghkq5L0hVG15VPLDuHEPmo76_nltj7VrHJvFSPkbZ0OKcHV-Mw8db-DhrtEyNb9UQDO_4JYzEGNJ1mAlb1KtAs5O7N_gYHvgmu88fyGFX9R-lbwrgEMhp9YroFUJJw6wzB42lnBX1g3d6Lm3ALNwaAfJYDQEH5Lcnl-e5m23--NiqBZr4IehUMxwlWBUXiWYDv-fWobDCrou6pbq2WI4hlS-n5xKJv5oow6U8sGyVjmuSb9jSaG5JIOrnBb_Mq7tXVTEAc2dLuBO-52aLxGYwYUTK3rfcgCw8XRUa-3YD_gvMk3_PyMlDnw2KqatqhfAs4D7Mt1FVW8QFkVqnlkcI40VfYd47xtFoGXzkhrS3Azu9SfCWqBTtUVIGkwHmQIXpOwHR_kU2MZFs-m14HvfF8x16IrmdpPvrV7I8k4Tpe52HVLqYWG9RcQd5403GLYgh8qvlTeXlcnlfp3gwR-UYjeJBHILYvcQJio85hOxH_KA0jZXE60ht3oIIagjsw5z7SwBakopBl3N9TS-gKm-NqOMs9AeczsEc-PL47UggP8084J2DZOwmo3KoYznNnnirckL7scqlPwycpj0cm7HTd-y3wfIvtxBrsWKDS-wIPSYRqvprJ7bGHIAviOqCqpsnd2i7ZN_rEZEqarTcaJgUgRF3qkQom0tocyOFnVU82I9Wn2WKxH8_h7zID0KYPjcbKmwUytTDEoF2klY_UYelYsTfLhw01q1STMl8752UlvoXNTloXETSX0HMV9ZMc7zJwUlzKSe4_8yhf6HcJ5ZRCMnkxsr5-9OkYqssjCRhcXkA40PHDLPCtshfhmE6xfPzrh42UrcPpx_bhlf5kO_tMbwVRXcqkLEdcJtKzTlagacdY4TRlbC7VmSfCYVs0Jpv7H1noTyjqwmKLR89J0oeCPUdXY2hTEzsOUiRPFVV0AiEhGZYNVtODi54sT5eDPdO-uZhln1qAWngl1Cfd02YMjbEQOU32NqsokxK_JbYHxO56t34OazQlU0JeMyL1ygdPOaDeYL1ft9dKpTw7jHF2jnPclQYa5NSjb2owxlTjx6NOnPeYpdi78KK6U2Elz0S4eCpz3EVQHWu_p6jpquPdjEVutEeoqGaKGOHYIoVss5tMc1Ub8i_d7QlqqlRt51K_kPuefl-5_CZ-38oNUxQg6KILSr99vOz1eg1I8pFL77UJA2IQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0285736483f3f92a016abfcbc62c8c87d1b3ccbd460c4a178e",
+       "index": 1
+      },
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating visual choices**\n\nI'm considering a strong, muted palette for a movie barcode that incorporates tan and brown tones, resembling a prairie on a long night. For instance, \"The Messengers\" has a gray prologue with cold tones making up about 5%. Then, I'd factor in the light and yellow elements applied from 5-15% to avoid a dark navy. I'd also think about the gray interior for an asylum scene, blending this with darker mountain hues. The overall concept seems promising!",
+       "format": "openai-responses-v1",
+       "index": 2
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vd5wJLIn0zXlHcyFSC7XRGWCYPUvs1DRhKdkeGmAcNMcr7PNLjrnzhD2L07x9SOePDEjUYAl-BvttUGs7rI-37zg4dTONjLhzhbHr_5gAGsbpojywPhjv0mn3dKX9V9zADhhGiiKMGOYDGF9nd-V1yJ_FYLzlZiwPTO-lV1P4-MuBi_8luPITuuSSPTLJvDZgsnOOGXT9SHFA1mjAliBKEO4YP90Bi8ZVAsjAODjOyZEkNkO-vUCITJ1pZsSF5qJ5KHWxdVxBTCNZA3Yv3COdNFpW80qiuvIzXZwg02tEnPw4FtohmJI-_6fWZ-jLPkNX1uExAs6FCmBskJ66QfwEBtfmxRZ4QA6TC1x5Acsu-6SA_pyPY4rfHhKsAWlmuQJ9chFxl38DizN-R7w5EnR4e67E-KFTqP9Q3RFBoBRPokAH2Z11PSP021R6ZSvJU88M7H01mgRROe7O5cdoVPkUBb8XUHXgpXuGkVhdLp3O3Sfqd3C5I4wK3oHwWU8MpTvTzwo09fSLjir67tk_IuOFh-CIsfbHdaWwpHoZxF6gTnFWok_8ZeNiwKDXNEe5hHNZZWqhAdGmMZxHArmlFJB6xZrSQZjsYxfcTHHuX0nl_VDMYkOAlCbZPjQ2J-u8F5k-vhw4AMVqUuATzUExZw0ijcaZIUWv29prE73EL3wr2eOlXNhVLiktezEZiebFMZ1KphlrUNqad306dQMhznnUxEGyaYiyahz0ssnk9AyXPFEPUrisJdhMMr9NXiy7IyTnIJXk3-UJFtwDazwSp6XVHFUseGW9ixQ81DynW41eGQaKW1onrKeapc8Tonq0TAbg5NDALCmJ8rawPqb9e1ZeXkRKAABJqy7a_sFeu_dMsrNtg_I1j7yQnKsU6jqqLypQysHT8azz2mveo3e5rNYCbfFNH-6UzLQfqsMDsNJxH3fv107V1eW1t1wsAQXHi9v4JjuK0lXUULEJKenUOiJLc03XPgki1-Uqo20aGbiQvQKlr2jjUYeWGwCO3IXnPFIsfdFMCfx5VwUxVAQIZnlbRs_JZvgd-RVBreg73LuYreo-j0ODpERQxTW7g5r6ctCgiBPmT30IX7vZJLUrE_q3fapEN1Ld0onbmHkuJ0RczKB-iolgVAqWg4mYXeTcjcjx-EIaYixfMQTsEz1BWR7PG6J2fFgF9j_g-EMkEb86ICdOB3TkONIgBNyTwNTVxrmhbL0KTBHN-AsUO3GimJYMe-4g37XksHaaYrpuuBdvQpXjp3um0etswck4E8b0xXtv_Ap2YYRZF719k9qwzTNTi9UsFuOkRoKUhGTdOwdgXzrVTST0VXc6iIFOVC7DyGtFA5e4EPda_VmGxiXFAF7M8auaQc88Qtd5q0we6Un9lvxrL1WYsoDcjSRSGjFdjPXZBFEzYUmB9VMgLJneOB_U4n1lQ8Yk8gay3AZKqvJJzz8RdwZCESHn6YnBA-sA10fWkDnhgM5QDwtDQ_TIRY_BAZNKKpk7Q0d5g-x-j_zNGXyiKHWuqDnJajQuM7zW_ENh_3yhC4S1Lwz7AaeYp7weRq-kWrooculw-4IwJja0O_2NzPHwEfLntL9sNBglpKc9nXV55UsIWZA39gCOEWf793Srj02ZiFOXkCJo8DT9hbZjsOsE3N9-srWGCVQU595mtXOW8RRXA63P4MU6WZmm40IzZfcHSx2aeSLuIsv6d-HnEqbcUM1GOke3r9L90IwVvkoWO_9Lapp5LANTUGkse0UEyk7bYzA4ddP6AJ_ZfSTbwjvNBYfnsBH7AtYGWFtUV.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0285736483f3f92a016abfcbdb280487d18bc70ddb58503298",
+       "index": 3
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 630,
+   "total_tokens": 1066,
+   "cost": 0.03586,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03586,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.0315
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 590,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907290-gkNuvvIJYyfx2FqCeSOB",
+  "object": "chat.completion",
+  "created": 1790907290,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are all pure gray with no color tint, which points to a black-and-white film. That narrows it to House on Haunted Hill, Night of the Living Dead, The Last Man on Earth, The Little Shop of Horrors or Carnival of Souls.\n\nThe brightness pattern fits **Night of the Living Dead** best:\n- **Opening:** medium-light stripes match the daytime cemetery scene.\n- **Middle to late:** a long stretch of mostly darker stripes matches the night siege in the farmhouse.\n- **Ending:** the stripes lighten again, matching the morning arrival of the posse.\n\nThe other black-and-white options fit less well. Carnival of Souls opens with a bright daytime race, and The Last Man on Earth has many daylight scenes throughout. This is a best guess from the overall light-dark pattern rather than a certain match.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "Since the barcode is entirely grayscale with no color tint, I'm narrowing candidates to black-and-white films like Night of the Living Dead, House on Haunted Hill, or Carnival of Souls. I'm testing Night of the Living Dead's structure\u2014daytime cemetery opening, darker house scenes, then a lighter morning ending\u2014against the barcode's brightness pattern to see if it matches.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Since the barcode is entirely grayscale with no color tint, I'm narrowing candidates to black-and-white films like Night of the Living Dead, House on Haunted Hill, or Carnival of Souls. I'm testing Night of the Living Dead's structure\u2014daytime cemetery opening, darker house scenes, then a lighter morning ending\u2014against the barcode's brightness pattern to see if it matches.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQShwsKEAgSGAI4AUIIdGhpbmtpbmcSDJi8IGMvUbg0lBvGkBoM/Xwz3J9q8pTMyXINIjA2oxuaa8K4u8z3j4nD91Gd5DpVaF8SuuvZEDbbWCIRifGL9eAoOO0Wu9Xs+/m/kJcqpAoOJYYjkTPXnLR8nQHxLCV7RdVIsxDHhU9kuYT0g2WsbuQHdeh38RxIvZ0vwgDMFkKIcuKIklucHwXsVBvigqYU4Y/hVxzrTpU4bwAJCmNjlg8wNB0XHeviQYPEKwafjgQV664tbj4cznitnTUDf9MOsT83cW25UgcRZeElIP6lJvuOnYeyPW+J8buMSalFsuEKFrs5b5GupjaNt8XqKu3PWbH4IiIAKqaGsf37fPGeM4q8LHjHfecVkowxP+5KqgCA6Glu9EoyrGGu9n9JGQ6EatVmSg196hOLCHwNKSigRlRLuJh6rzXkJLv5r4k4ugaW802vQVsgCbadBlcWlJIDHknLyciAU7xQpt6a5qhDk3kgGCUJ2dZEUkA5iV3Tu4W4ypChj/lUC23g+TEExbsyekzp6QUM4eAu8mPcBEbOTR0E2epf3qjs4cr+MB7i5qbarQu74iRrLH0XfmUepcnt3L8DzoPn72Rl3dZRO4TOjgdWqIAy1zLQml3yv0+Rhbh7r7zspX3nDMpRk9iQ3mNUfSTAHRmQ7EGfU9gu+1s+I9o/ioB1k1PW/Gm7NjOsXSGkCc67uBBEIuGxv6j9pzwR4MFV/fx2aA87X38p3esZDA0paJAjwMhABDwK6wvwlHS4NQWKhi19h5r6GyJW0pkqqVMVoKUYZY3RRQ6R+MgAgyQnK3EdsvA8r6UMME1xbFQPIjnjsuBHjbZ2aOa9CLBCpaCJPBL7dixH20fOCD1uO3KYOFLPtl4dZciw1ZbYUfgZ/Qy2XaKRxOIjKyJ/Tdmg5L+HDCz5goDW9wJZCfFr8ZdMiPrjuRKI342inYVD4k3MvRJQrIa2k/9dGHbG1YLO1uZCEBgBJEajcK0AaemfnA7+YK2pf/3CTbRffAb7y+DBrR3OrfeHxLC1oiTwkJvM4iYMj9w8ICNlgPyXXUksnSn5ODqKFARikp23GNa9gDYe+tRZEP4wiC2JYQqXnyvBaWQ2aF+C6LTT8weUGE9oMcNoJgt4qx5fYZ5vux6aSeCYJXqMqkA4eXUIv4xTqbWn1rvkkNYaK5bzklghX/jjPPJEKQp7j8YNQioNbQ3leznQu7pFlC5PMlTjFqSlXgq5lTGjZgKzwRwPgOnSeEnMC8sU0HAf4+IiCix+X7XXAY9wRpDETrnf6WTfxAZvQKpkSMPUNENA1BU6NswDbHwMpctqIsRo4k8L7BmBulpAzSViY4ZXAojm31pixhIv/+bCI4+yWpkn8IiEsp38TcnWA77sok+phSaWVC22E4mzAaa98/6MPO1/HGWImKKYGtTz8tqSYJyXa1TdiKU5nXMtocT8iY4sQDsbfvILGqJP/ygnDK/V4/OXRRLgnqpihFbE4wj6n8omvepf24WGADdSdS8Xx0RNMfK9D4jXtFI3bZ6yrp/+9xs8sFDo0qoDtIF6UpiZDSWAatv+88URvcO7/1HhFDGUrZJiphiYwy55VzDrKZFlYywB0EqnHV0TnkXJ/5yk6cOTMsh9MLdNIeZ33iPzt1Y9v/OUF25q2QlAkOIziwvYhijopAwjBxyguxbGvCDDg9Pe2g9I1dDMdEkxvpHU2er8Bs7VYUgmGILmARhkDH/YUE+/zbfoTmpUMWiF+AltZ3sd1X4J6t5B5+wqBd/hpr/DUiSxayrNP0eP8lbkEZokjqY8N0aecZ01b9hvs6W53rB2+38v5DjJQHKgFhdMMPNpTEH1j1n37mF1Hmr60+jIhjDMCOcJYITBFpJDn42q5xgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 541,
+   "completion_tokens": 596,
+   "total_tokens": 1137,
+   "cost": 0.014084,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014084,
+    "upstream_inference_prompt_cost": 0.002164,
+    "upstream_inference_completions_cost": 0.01192
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 306,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

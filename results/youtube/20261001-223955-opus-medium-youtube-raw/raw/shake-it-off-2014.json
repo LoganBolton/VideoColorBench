@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894435-LyjGPEBBXOuL1Ryx3qEr",
+  "object": "chat.completion",
+  "created": 1790894435,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The palette is mostly muted blue-grays with dark stretches. It then shifts into bright, pale whites and light blues, which looks like snowy outdoor footage. That fits Ed Sheeran's \"Perfect\", which is set in a snowy mountain landscape with cool, wintry tones. The other options are a poorer match: \"Hello\" has a warmer sepia look, and videos like \"Shake It Off\" or \"Uptown Funk\" would show much more saturated color.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes - Adele's Hello leans sepia and brown, while Sheeran's Perfect has snowy white-blue tones ending in black, which feels like the better match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes - Adele's Hello leans sepia and brown, while Sheeran's Perfect has snowy white-blue tones ending in black, which feels like the better match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqAYKEAgSGAI4AUIIdGhpbmtpbmcSDFLArsZ80lS1xZAP2RoMj0cCbCl3Uudr/SVJIjACypzYNL0YdsxRYbkIH/E20UVZ7u9hcw5K7udwk4QyRp+0mXe7uWLzM/DJJHqf+ZEqxQVXhdh9Q82itTOw2yGGtlt77f9QPAuEkQvbYSuHEN9dMOwGXTp4W2ck3Uyg7RypAg8V2dSATsVRUPOhn0IRgqFBGGPXLlECFs5tFAqetoodMffAn/E8T++8haNLndMynGG/B5sqR9dlNZXfUuE80sQjJxBlKKbLf9XZqwR0rugqaer2E5NNuQb6/Q2UYwVJcM6XLLIVMH8Iu9xfRLj9EGVsViPOY0COu752xANwYOTvE8yaJBRRZ+WKiPykylA0TyJ+Rhh/+p0QUbvCwx1v6EymSSrQkoo67i6h1EkK9tPBH0DWiszxPleREQN3Lr7iANw2DCfJrKTyXE0tE+peOdZeppe9ZTedkOxMobAc/4osEEsv5a0M5H7p6Rd/nl2VyNYA7lbvwv+QL6z17yVfdU9UKKvdwGMFK1urx6w16RI+cLbF1734UPkAWXpvef8WGuzHokqkEsB3zFUIDqBAhZnkgkcM9uDMUgkWXdZ1HKNrWL6hZcQO4/QXQvgChH8AzCptHP/wsjpRhNmkTxQrcSVhCxJIfv4dT88hYqCVNv/Bx1Y2CNZ9/RKlkRucGVcDc59ws9Nk/hzWOoCeshuLkS+7fU0iWvnG1soBdZ19WyweX/o5HZJV6eFtxI0O2YO/jzHf3iUlqgOrxCTNd92zKiotiscDSKf8Mz8fqMNB1+s2AbMiFs2rs91WGSI1W/XQ+wWcGL1PCRvFkRzYN/HtQ1agR4UWTSmuaiDWFM4WH9Bza/rgZUNaWTkMwTSh23y9nzWIr71kS/7jr3xkqkrI9rNjzKfE6WdNaT2id/pqvTubzBznyu0btW4sWdf75z0MMgOOLPWP5NlQAwCtOgu1kxxWMG3jzhGnByJBcq3/6yQNIcVjHGH8K9ogFPuipq9x2ktrQjS7DaseqccD0nmVJY/fYIVrZLrsAO/4K92+YMuJUt1SmIxLGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 621,
+   "completion_tokens": 253,
+   "total_tokens": 874,
+   "cost": 0.007544,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007544,
+    "upstream_inference_prompt_cost": 0.002484,
+    "upstream_inference_completions_cost": 0.00506
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 94,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

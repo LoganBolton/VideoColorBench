@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894429-XQlbiOjKltmNWBclAf0A",
+  "object": "chat.completion",
+  "created": 1790894429,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **B, J Balvin \u2013 \"Ay Vamos.\"** I'm not certain, because I'm matching the colours against my memory of each video.\n\nThe strip is almost entirely cool, muted blue-grey and dark tones, with only a few brief warm stripes and a black ending. That points away from most of the other options:\n- **Bright, sunny or colourful videos are unlikely:** \"Calma,\" \"Waka Waka,\" \"Mi Gente,\" \"Mayores\" and \"Bum Bum Tam Tam\" would show far more saturated colour.\n- **Warm-toned videos are unlikely:** \"Taki Taki,\" \"Criminal,\" \"Felices los 4\" and \"Chantaje\" lean toward red, gold or purple.\n- **\"Ay Vamos\" fits best:** I remember it as a moody video with a desaturated, cool look, which matches this palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm thinking through the color palettes of each video \u2014 Chantaje's dark bluish rain scenes, Calma's bright beach tones, Taki Taki's fiery reds, Criminal's dark red hues, versus the colorful brightness of Waka Waka, Mi Gente, and Mayores, while Ay Vamos leans toward grayish-blue romantic tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the color palettes of each video \u2014 Chantaje's dark bluish rain scenes, Calma's bright beach tones, Taki Taki's fiery reds, Criminal's dark red hues, versus the colorful brightness of Waka Waka, Mi Gente, and Mayores, while Ay Vamos leans toward grayish-blue romantic tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSiQkKEAgSGAI4AUIIdGhpbmtpbmcSDKVxzf8E3eNTXiLNZxoM4iOMy6+9awXqvIJtIjA1jmQaL15PvqXIBLlokoFlCU3yOSJtry5z7uuDHOdou2kqC+A2IgUWp+sGpf98MEcqpgiqavcE4W4MgHj7iaYj6O2G1liNrIAklCrH/W9jcbU45Mr5pABz73AFxyl5UX+uZwa5GD3bVVFWnduyw8SzCUH9XEZc37nEHFYUXSSMzs8bk4MN2T/lc5CDLJZHCdA01U2xu3bwM28jJI5s24ttqEhyPQ/DF/ZEjcXsJiXuKGy86bf33hkI7sL9iMzMKHxPTB8ocGAYG3hKhXwmIHs2eC/apNbb8v9WMtHXrrshaHWVYkgnhrR67yvOy+BJ9qncmCspSBmaJsItqoUpcoWHDZvb+mYrcXVJ1De89CC/qEDrmvLCspTAooeNqAWegm/H5cbM3zSxRez4nUMJK08zO/uAYoyaLH/aPGjhmgLcG7EurJFCeY7mQJMxbTbjjxJdANS5EJdloxklhim0OkfsIh5bTuHjmVaSABdZ4lSQRnfkm6P3ZPaRZy9557ULwW4tCYs8LyIlXpigFPUDcEeLnVZhbLMqA/e8Iia6UX0EqUgF2FA1is8sjsGW7nfSw5O0UAbg2eRyAguZl3hDKjfIPrZJDjsFPaYdCthK7rbq+iy+zm0IykvZ7U3qYmVA1AMujY3gKtEuAqx+xxpzMhGRkVze1ISefuSunwxbWb2PxaSWP9s+clEkf4EOSAwOdAgz5blUEscQyoNkvdpJI77dBhOpIdedTJTaWafbsEgMztpfwCDRmzSKtVwmPcuae2Bm5NjAyKDByaSylgPp/uCB72v/2VIzgcgNfSFiDxT13EW8HRbZYYSsXh/1CQOHDmxVlVFEoTqRZgt6UicjPa6Rgo7k49l+A9/ATfcRZ86rc8219lyKHJdoF29TZEhk5TK8eak6yXO+YyH9wzxS9eNhe75OXqNzAaWwSRZG1R32oL4ohGeNtBVJV89rlyrSpysSpstc4vggZJosR1kAlh7g7wHIpaDO4GMZdfRmXw6AAVXVdYQYJO9ydet0pQf8813BYV5KFgHPoRo+LL/YxvzwrTnAQHCSSynRHnnFWzDJkTgbJNxe9frsAdOaUS6NqtywRDrGjMtOhXjYM4ngR+mfhjJE0QoSRRQq0K+egZVjX4+Y/XfqGPBZlP7pu+Ex0GzXeGLd75iDPtHpXrJ54RMMmp0AQw1w07+fg04cinjGOvEogfReC3JIoz7PvZuj07CGt0Ctv4lFqKWNy9Ye2jUPJVYRLWZd3LHA3Gb4K0fUn4y49hqQ6gdbmwbFfy7gqXc+iwUlDjPfywKscaV8h/8IFi05vQo2vgF8OkwXl2cGEwbHahtbIUdX8tbB4/JeVjqeu7G3c7MvJRW0jCozeDRvwULniXsvAi78ur6Ugbs/B/KLi7R0w027z3iF/OfJWKaEUz+S/96np9G+nEwZKoTgB+92M8mPQrCQ3hymX5eFPTNG2OWrpZGteujeFD/2Z7VIqHwDowciohoYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 659,
+   "completion_tokens": 542,
+   "total_tokens": 1201,
+   "cost": 0.013476,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013476,
+    "upstream_inference_prompt_cost": 0.002636,
+    "upstream_inference_completions_cost": 0.01084
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 254,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

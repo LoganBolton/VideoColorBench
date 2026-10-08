@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907139-OOY6rp6RNXgyRG6qUXqt",
+  "object": "chat.completion",
+  "created": 1790907139,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Manos: The Hands of Fate* (1966), based on the muted earth tones early on and the long, dark stretch toward the end.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMX5pA2Ag2s0uavpwIJNGSXiXUS5KcagD516CWwZY5KrPa6jsxunt5lHso1cC_5uWRAnR9CMeSAzuEWUHEwQ3LLRLlmJtxJCXrh2VHBE7Q3WVnOGKC5mlepg83SSpnlQyveBfgk1CgffBJdEWZWIxjmTNlm2XgVP9K-rVg9XxRSa-daunoCMP5lvVC33y8qsiTjCcbdU2_GFo2ykvekPSWxA5AdnU5EuGFDwNkDN5tba4SCcj95F8hwDiI33N3rH_NiHInY9Ppzc3zegnuwgkj5duOrMPkEH0dxvFmHFaUQz48hXUofGYUODlDTSZA7Ldq8DjrifZvRvnIAqQlBAzC--_CA6c3UUnKnm3UQNkU10hhxANAM3y7dRtcqPylEz2sVtDxKTPHIgSNjMKN4eU3Upb-_mhKuIa2dpO6NxuABzFZXSXp32dJ3XjaIc1qs-KvU2DiShVkMYDjau7dD29K7AlbvBof6wBGuKOWbv_giKYM0o1ExkB_c041qc7QR62dnWpfMMgsho5QqZQKHuES5aAXPCefVXE2dhih6AoEDfDcyBRWmHRvLcOfSNJsTtvzvI1QCN9VdP8iuEJZBgLSgyDSnHHCfZSaqwYUklG2WQLuXrH6bkIsmKTF0vm1urEucnxJsImMAIq2TGPkwWVzG4wziCNz-u-i9qUZT-MsDN3P1H_e_FMycDUCqL0kVwmJR-CVZaiKJlcTh9tqpE-iqYYm1jOB8kQGb3-EohmHaJwGFHMNajp27eJfAc17tTHgnpvbK9c91-06aPzGvoVeFsg-BvJE2M-Lpm0zLLUm4B_iNrq4_dfQpD-9cbS90y3S-1f5C_b5Krcmgw1SYd8yevZBvVSbJpzLwbfQ7bH--0pT1Er20KB8DjZQySIX_EUHnHG9fCsH839OIEoRUgLonmWZ1sn0w3ySxmBXolAx4pd-vd1ij1VoYHc7CwHn8KMcyKuZpb_ZCR9S6BXduyU26kQ5A6jLTZWDP_Cv7WqOF7qZQvUuIs6tmFeQB8Q_EZdgzEj2j2O122DwYyrJtT5FHtstI4Qs_MCti2VoGu0M_tUzp2dKixGWN3y-RMMXErDhvquTugSA0oV--gzTAnyqO-bmUymHBwcUsiiaAYoSzD3nsNPjhkUq-OT89KOjgZhGOwUzHGiASkQp6D3XLqeZRTmcgFUpYHsYyf79HCNzwiHrkAV1XiX1pdJ2HUL8Ty4hLjSmc5RD-6_xQlaqhUCsld69aiUqPQK0vnGYJEynmxHTL-VHFTg0nn2dXxmrFAO0PtbYtYAkYTobjmN9YKDnA9EZVrzEXzjrKCHEy15nhu1fI0phZSpvYHv7PkCySktoOhXyESoUMJC94QJ7VPEAITRoG0rlWjC_SrJMo-9-N74Ghr8lVimbW5-iABWwE-HjpBu4azT7oCrsM2GTuUN-79MYy4Zc48iGu6n2Aruudm94ZGOUMqqPGpxZ1RY1IQU_ZoXikHj5tjFKada6S2fAbmi82yuIeZIw1Xg00rFyIejGCDSMPpnZlwzXr7EoLBfn98lp29xu1ZLt8LjXiV9rQcqe4jXFDNt3j8Wwb6r7AfLnyOQnMvb58CF_8deDNfq680kwKgC-jwhgweHmNSDwye-STVgThE8gmsXbqTXVxEpYG3NYTi7H0nlx3vOs-c3PjxxnPefeh_hMHJCy3ZoV4Kq61uJCA75fluHP9dW1iyGfQEsh354_J3HF41T00T-j4Ly8V5orxGdQs2B4fRpWCjFHKC72xm3pq0fsqb4jkLRVR8f_jqi8Z6MPDn6cSYaz--FZZGhm-5_JBNrLISDGnx44Jd00ewinIwsHuuuIJ21TEbq5UMVTLfVRrAkt36yQ2GtkpYgpQs9vIpPvsZDGOK7qCN1vzEru8sThDnflOjStR0cbnXta6diU_FneoWiAn4G8DGiLtrZJYR7pcWKkXr0B3wKpavWyMkCESCIhALOrzj6Hs4e-6MDAS8i2DTHK-Mo647kxFyaPdq_dLuzuiBZ4jPXuT0jwB078L8yxXkL2UyjWhVpbvyZtsu1BkBUNfC2c_idhwUM5OKXyQP6kvWSoAWHK8zLWr80hobYcMCOI7Yh91agL6EZyrWhivCCJOMSFRbWaHjDTZ_KQxIlvwwir2sRN-aZvv_SLuz4g4A2S1wsZijjBCDW2SFOSeJXmQP3n1Q9NJ7lYz3htm9InhGBmkdWXbAzzpRuQsYCyuVZedxPLFkMl0VnvfyITq9aGYkW9jFfyrUKKFgO-X3J53n37yrCIXsWj9CEd2Vtm1nihSGbWSthePNuxc92GGsPgMjvGSDt6neOwgbm9S12ccGT_8jjQdzbF5D5HZNWVDH5VS6p6DrCIw5h-7XsMhUM94C9n4m02-VwMzCtTMOqASeJF1XxjVvyvPP_YvjlNMeF3oNJoa1UfXIK2GHxP_31BJgHFNIrV8pn-QTfEoS-_VTNhw9qNE8izfgpQ7qjvgZp4rygmGtnW5MDkHBhoaVmekcd0LUJxe7WIqdGGY30_NT3t1zzF8F6QuTp1qbYARYwinREASPy42VieWLT6JM0XTl7NvF_9OMzRMVKSREWCmDKQEpCWE0I129AXjZ7geVROj6fRoTbbTtDCGpzD1dTR2Nt7CZQeZjitOPPSQigmHayHuflyPxy9duwFUQfydmvZ-zkbaVrQKatMgrFNIIm3fsN7TEI2orU7-JpguS4I8R5qgXHVYIb0SuVTWoHiDiWkO-wiydp66RUqqCukKzYTrUXxeIDBrxILlj5JqNxWF3_Wf8oAnWE9g7kKi8HlSsKhEFLZkmrpHLAKksrNsD7pyqz-qrSsLXqTqbDx8vN7hxmv8MPuestPFs5BR1TuRKhbzRcbvzgB6qMjayqbruMiRb56wjxuHKCgSlBneoJ0NFaaCmJx_0wc3b70Ciza73y4qhlYXep15QCoFksH06dE6wTKIAZeMsjn_BBawv525L-3JIArY2ZSPXt7jIQ0SRDCdzjicmy4AUC6XzmCl5HZiS204byt3pC3dylmzXm0eQB6aiUh6LK0ErxX6XboEBClX9kXs-HVskJyJTLlE6Q_yehueetXi01rEyZUJj-_rqFu9fUGU1sKRKu36PadgbDrUeaD8-kZbTi1heHxLaO2jH1hJ8H_-ZV7gW6KWxmYfvMy-DVqRzLfjcc5SalRT1cqnjgEoRGcLPtS2HSa-EdYugqvazs6mlu8R-KmxNmkckwoUbZx1CVJPcx2YAVU7MtVkmjJsXtNKftPW02nhhazr_iWMnaWEeVpUtGG7cjPnZdvYmf5ux9USMcyyw-WvvsyJgqtAR0B5wamy3q1Mt20ADtBjbJiuKODiqjaFmm7iQEd0NiZTNAgk-j48YzThO9tpLAPHFgAyO1oJ8yyGcHIihsnW1wb1eKOcSu4CJHautiWCsKhBA-t3mFt-mXmvv-6o5bLH9PXjKC_HVGd6hkoPL45qKjLdubkb3L-aAv-VItWLwjQ39hkhPkVjINLJ1nNwjX1PRE2v3fD8cq5xzbSw0ysmSrYd9IeTTgRmQF4chjt9KWBuZdeowp67V2TXfq9GkAF8Ooe-OkEd-x217E9UKGyI-oAIljLNZl_txTYoDTNZsHWOY1frAlSuw6Saq9UH8jrpK3UMn5B20j4WgOwUUJLE090JrsovLvD_pCLgncpOd4TEuIPYCQeC4ps6_AM9Q_dF9RiICVhB0xjB1C8wZFRkcC9G4qQJlS_Usq6Kl-Int5VK6UENiBpI2tVYgShUMsi-qiyDIzkdb61KC2vZ-IYe2jiwOEPnalwrMQniqWzbTFRmEd6iRV_ROVsErT7VeVVMeAnNQJKF0Vf6xL3VseqREX1fT7zSoJ2xShSdfLZwO-QLOUQXS_EFcqDespT2u7w5ABIclnZRBDMYwq9K0T-LcIwzganBTIu8J7tzT3xVbganNGXrLdrdSMQZKxvEArcis6fQP69AJKij-xDCObCepnf2cPavu5MVzoCWPMAxsbLGYuepW6YDpSGOruW7ruLs1IdfShuXiiXqN8ddCO1ij18ujoFOCglCMXh480-4GuLryvNKkaNDcnx2mMbLELXWwTyWbrP2_TnmqK-WJ4cWO-djFfjMA8v7nWHP1AdIBEU3esFDxUwVN-rRuh1Us8PZ4CpIYntc_RUgf1W_PWhYjctRJKxRQvihK6R_Lu0xCLBapepy-kmMvEmC6QVNB5M4kL_o9p9KLwIRPsnDi5waZuN5UmFM-F6bPIyiYt5sG-DxwnDnhRtqccQDSRRoASrOGW0kMNHSlepQaQoMq_K-K8B5Y6BOqYw50jXGSZ-vyixRtEbByncoDKKOfZCnzyEz3oh4dzDqs3mI0lCZEBa5vpwbY1PhMJBZIBDfu_BwVnkPDaS_7E_t6tEmL8nUIBbQk-xT20CLKS9hHkE2x-Gp-DOsFjVy5g9ceVOhDy9JRaa0Crs9-mKHf4nuVHReumyy0b22u3Q_n6fmeJ75gsxJ1f0V0_jjLK6VmmWG5DFjiZR311p5f_ZNMdKAOl9KYSbGkfY6jeysldEM78tUsqKgKR87UHsoNm-AE0lgP235jZexCUS2j6i2YExpoZS1O7xX-v41qSv1_YaqvyMK.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_02dbd245c5a2f667016abf1309161c87d1bc5b35dca05276ae",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 526,
+   "total_tokens": 962,
+   "cost": 0.006132,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006132,
+    "upstream_inference_prompt_cost": 0.000872,
+    "upstream_inference_completions_cost": 0.00526
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 482,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

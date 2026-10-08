@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-AAs48YAX3JT6UHT5SgOk",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is most likely **The General (1926)**. The barcode is almost entirely sepia and brown, which fits a silent-era film shown with tinted prints. The one block of dark blue near the middle matches the tinting convention of that era: amber or sepia for daytime scenes, blue for night. The General has an extended night sequence partway through, when Johnnie is stuck in the forest in the rain, which fits where the blue section falls. The Kid (1921) is also a silent film, but it wouldn't be expected to show a blue block like this.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The sepia/blue tinting pattern matches old silent film restoration conventions\u2014amber for daytime, blue for night scenes. This points toward The General (1926), which has a notable night forest sequence in the middle tinted blue, consistent with mid-film placement.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The sepia/blue tinting pattern matches old silent film restoration conventions\u2014amber for daytime, blue for night scenes. This points toward The General (1926), which has a notable night forest sequence in the middle tinted blue, consistent with mid-film placement.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQStwgKEAgSGAI4AUIIdGhpbmtpbmcSDITuprD6raMvRFB4QRoM+iMOvD/qGEzh2CzrIjA8VQk1yc+c21OUkDWsyEsm6ObQaIZILqXUD5Schp54v2ppaKp2mvO5Y5ykA25f2kYq1AcvtaP713G014qYYr4sv38u2CdhkQ87phOIhdDujbS1Kz0T6tlx7LOy6wE3HUncdgPAc0VvObV0eQA7FA/kK9bYVQFd/Px8ObUBPfK7ecVQ+CnbGbFS3piovgcskz9hql/zbz5GpKUsxlT9vgBIE56bRz+OXfakCEtF4anKpnfu/j0cnpSYaEQam2QiP3HHGcJfFKeJ19R+7HedNodXCp3cHGulltUnLZ3DvJWO4Ne5Zr5yrlEg7G71Gzkmo5nq9J1z1Bxd3Yf22bWng31ZRo4HGAwkmarqSq/RN8KslZ2PSY1SKq5TbC6hRXhid6CX91mti+oLAm8lMH+YPFMNWS4/lVcK/hvzC3mXAwNNTARm5cSdU8WLMy8wLZ0TAht2yzp/uLTDkgpg3E4DGOfuJSIfOHNgficVKy8pPKmH8PRyqPEy3gXraekdyYxMwe1N/Iw9VCbMyYkaFkp8mhH8L4+VPTvSEkxK+WnH9NHY5ZrvPzkjMkoZ1jZ+tdPp0s0k5/kvMAXU5GrsheieebO4UUYyRpOA3ws4PSOWGkWyLsx/774+iJ45krtUK83sSWvdxd0y2nV4jSa1m152YfQAix4dNt1Hn9qQ3ircujt0mVC7UikvznHZh2s3opfHRYCuz85E2Eo0/5DuOnS/Z3nFgmrOAk+h4gSttgG97TcD9rBhG1YuPPttH4ZsHkWraA3juxPB6FJFTDQV/xyfqFkWW++2l+ZulVeYsgktqlK4yyJhunm2EuwiSYhZqXxtAuHzv4Z95loFd2bmoCl4e9EYjZIYIjq2m4qv2SBOwQqQq1f5tUUNyjC2TcTgOJFpw+eA31hVBp0I0BxIEB/b37WUSA9iCqazrL2ZmxSUmKq60SH+/lFTQVLHVvbh0niKCSKT1pJnddEhKVgD7Ckpgx23/nK9tdTpdSNePHooY2rhZ0o+cbMh+vQS7mEczmq3+mCkmAaFjw41xWdrhwVCC2o3VaDUc5nXcatIjn1kicYT8AIYlCtYOxBFXPb0l0Y7LVFKNwnB+Nm5vA46+geOlfprES2QAqCQSMo3ltz5lrTNEi+xzRcAfAhZI8jdZjRLKgfxQQ2g6sfGNPOzjGsSZ+1/5veeLmscuvHIZ9gct/56LFTi/2dO8kHdU861NrG3GD+ADekjKSKP7idSz37duE+TRm2nZInCFCTsLbvwnrbQkcAz+wewSAwiIUREr+VPurH4DEHReXhisvtrUaJ6+4moExj3tziZrOL2SM1FyAwfssvoGdGosaK1AVqlha37h8Aq9x0PklxXiywPTGAS/Nh47xk3ooOLDBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 531,
+   "completion_tokens": 341,
+   "total_tokens": 872,
+   "cost": 0.008944,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008944,
+    "upstream_inference_prompt_cost": 0.002124,
+    "upstream_inference_completions_cost": 0.00682
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 163,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

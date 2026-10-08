@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907230-KOA2TZLZYHzc76kbZgcc",
+  "object": "chat.completion",
+  "created": 1790907230,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **B. Killing Season (2013)**.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNtNWS_KEzCSFUp-c1l0pWiMlTQeuGDLXbfeVl1qNN6YFHZshRNPDVG8qK3woJO_eydfcPoaXRsDHqJJt5qw7Mw0KdrArJDVae1K3ay6Wh94urrF83ph4l0xc1MdjGpd_3-VvAhN3b77TouDNnd9d-0Dx8BgcaNOVIaNzPAtpFWTdUcIJCKFDomDigKD0TxD3_kK1hJcoBQAqxfoXxyeAmHtKJjMvfHU3TqcSqVq-9TEU_jPR-7jN9_JuFsG5Ip9V0_js-nduPvUKrlR6XV7eaPYY8AkSRh03-mBdI9Uk2I3tvtOMFxObF7XYA34F2KbIPHFd4WFl4RcQ8IgYDKMas14NV0FRY_gZoUr704qX01_5Uz0EF9UV_K7qju6Unb4BYpbohWDF_EQiPhtL7l3CyH82my6wG86GwP3bUV_r2aL_-J5stB-V8uB0HrxYfQV1B9ztez52UNCQPrnWHV-yDrkOqebvJQvMZdDe7bK94UEJxjJbmvTxfrqLVwnemxZyYh3qNogG7BPk537kEZwSmt2CNtx1YGrZbIBpkQnPlLSmKdo-k-t7kRwoh0MqL1OyeZBj8jFuiRJo9uFgNvbhbVRqDPX7JJyquFd0PWOZbm1AGnXrUn1bgVovIU4-Fe2jmc_jROzsa3M7O8LBbt5ypXHE6XWLi653z6v436KCZQ4LnEzDYGXuoFf4Bz7ZnuyAB3pQnHu3tjGx6yieizDotFmk-PBClBcIs4nNOVeb52yGWgciimUSaYmTomaGNEi5YoHznfY7oKD82Kg0XNdbnYAekmORTDZyzk8rys76_FpL35g_4ibGnARHN4vlUdR6uO7Id8mRBs59mjaX6WsmRxS4lIVArgoxcMER3ClQJVUl-zCukGwqVTPyAja-hY613MU_NzeIYYPjc0FBi4-aPkhFa1_s1V-6ArX6x2780InrbANlrwWIhq41_i2CG-92-8BTXj5idefX_FstNYs4JkCFkRAPkKUwuR8F39wGu3gLJsimPyhJplt8MkJEfF03SaoYptZFMS7sA-GEHRWKjYjQiv9-0YRtBELFPClk6fqukZKBbpqmjAcMzknIDYpwLmgJeQ_fr3fq-TzK8Tavxdko9LQuSBwU7upBJ8GYT3Yto1PbhglAveLp2-alopAX8Hz3y2UOupBKYTmzyPxRXbRi2HPMmflg1UDSl_pjNANA8v8BKlIu0SczHqWdjVArJxB-KICn3f3nlGI04U4WXU2g6yiUM5qHtFZxUIQAgzJSaSSaUEbkl5ZaaI3RxPFYEvzgis8xmg85MpVA2ZbQNeTgD7QURAYi_p_1ki0OpcTzSEqAVb8nLA9asmjEn7dDdPOiNgUrGjj2pDA4pM9DvZAaOPcrj-BNQ7t4PIA4lVoRvQ35ckVfeZD1C9H-TO2tcoGfQg-zXTsONSTkg9-IWjgMSrWKU_WJ0m_kJBdMpKXzm4uZo_GHPBW5Gz88upzk1LQgRQy2Npx4a3RUNfl3wrBIJ2BWBb47fPJT1rpGU1zwo5DX5OaEZ9bYFvmiCvcz5dA84FgaeblTK8mJ9ssFHbdxqjOhKhbY8TGka8KdrvqgL9cWXuT-hgREVvSCMQk4v-d0W35YlNmmAqi6VE21WOGck8diOOa_r0HU1-J_T2mjcYWF_nDSzTYfUIhsX7KY7EkDXraAjtJmAoaRSmmIbvZcYygekwGz6ytEz4RD6he6vQ_4tPldz4q-FAgsSJBwgZkLPetJ1lmAh8QpzpOOMWEiM2uNlBURA21YHFiO0xgZ2Yh1HUVwNLEA1RGecY21xbtg8orShxHw10dri9EQwWGm0m2jOMMBwVW2RzF85hu2auuH_huqCkrMANJRqOZGU7yMdB9bigvNv3coxwESjkFF9WrmYoVG_XMlqqbZZIkwOuiNxbdjIt3MLcV_w8BSy4xAJThkBpUpZoAZ9XhWANcXymQzQQP2vz1u6isU0uP_zhPeQ7EUNWg69OrnitWFWXyLGOnfnw_Kc3lXtC2mcFg1U0Xn98eakq8Uu-rfUs0-nORfyXFSFXMbnH4uY2ogmPJEOsmEaRSbALyP4g-TQznXxED2nDcoVchtuwF_zMiMTIZgNUMlQoYKjPO8dm1nbJRzp1DOKnVqyOxxnbC14lNZN-zWoh6y6dxCJq7K_bD-1XbCh4akIb0YFpbLrgrCnbsDvcK5oEyaiaKPHEPsn2UafqXwEh9brUD_T3c5N09OB436OX6wwNWwlyK3YvbwCToeVRkotXcoBydopMm2pRPhn4YADogmg_JnYF-tdb2lnIRulPIzvPwb7MzEZv1PR3FhJwqtUmzoOwK0gXCafQ6a4RRVXAi-AZDq2hUUUI-4wQfj_QZaJuk_mGW6JgBrjlAlNNthtT2rgjMUQESh9pyshzV-LscPJ1C7DJvScvkREsWhy0aVTsGhrezcQChk-z2fvYOAAI8B9wzKC8ZarutjLfZEhUD0Ce8KW8EK2vva2uFoIsGEdpB7n31B5hnYzSWbpg2cjJkgDAS_Bpiw-Kd1EpF47_2bseKX91BQo1G4P3LadCEGzxAnBrK_-5cxcOE42XCoT-xgwIdlnpUUL8h9LI9JqrspwsX6uhW_hdC4wJ-uRfegRlwf7v5WwD4zxLaZqOKSy8DOEbGrS1TPbUED7Q5I8aEKQJNZTA4EDA2qSoSbOFxl7uWgNmt0dl-A7PX8H0cyQTRPoBAbYMtOO0nkrJQTpy2U1MI65x8J_HL8e-wwQRSAEAsAB04iVQwaGOEkcwXdaAbx1CkQgHYWFR5diq1bE90yRXsqQqY8RJaOncVn3IvTFSMgsxe3MPaaBwpxuSQcwhU3pXhy3cZp_-0AdkIyvSHT_gqKq-kYCdNrc9giz-ItRfXL2C9mV82hb5OXrL9NkUSuUjTYVBnG9QLJBTvcxOvw3vQiiUnoMF1MPh_cOK072adq3i513qxz8XQNkSPT4lg5jKbt1R6Ov3X__OQgZDLwspE2dBis2DDyHbqrtfB61d1T4DQcMP3Gu-aG4ye7uvV8jr5Nu22WC-k71LI4fS0bgGuDQn8Gp8oGv37sGPh-cl_Of55Vx2fD3EzTRu_k9A2VN_VjbuZMFndrxPSx3s5gjn1PWueOyhx5NDJM0dpVhZurQlYscxyMlwI2Y_zxeVHzULONJoh5VCwu-k62KXpj_JwYrMkhddaCo_oRlSkVZltZJnCTcccqgWRh38LRH2seRy9cgtpKxA6Kdq0MdMxHQcaNnLhdvSTSJCE7r9fVZPrrkRYvnmkr7kYXfxlwSnamjkzYZn9Y-gvZZgvVIDpXKdmTcLgchENXnHXCgLDB5ExiZIyOFBkNpj7OtHTY1OHU-7A8ovHkUYXhLFh1vAP2kY4tVIZ3aQi8kUGOEtxqw16jMT6mBnScSDopoEY_iHj4ZVXfX_ZoRIN3PjjTD7FCCepUBLECmLHyGbeeQ2XsphvN5ZNL-F45HKQfKPiH0R2GnALMbTglYbl-C0ZKcVtqtSoDgBOBHM1m0=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_029f6d2c954fb8db016abf1363431487d194f8854381cee458",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 430,
+   "completion_tokens": 393,
+   "total_tokens": 823,
+   "cost": 0.00479,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00479,
+    "upstream_inference_prompt_cost": 0.00086,
+    "upstream_inference_completions_cost": 0.00393
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 370,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

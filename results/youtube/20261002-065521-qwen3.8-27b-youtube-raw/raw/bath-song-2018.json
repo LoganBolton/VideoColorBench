@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924389-B9jMuUymZIeaklw07jbe",
+  "object": "chat.completion",
+  "created": 1790924389,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "Darkbloom",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the stripe palette, the video is dominated by soft, desaturated, warm tones \u2014 a long run of muted beige/mauve/tan in the middle, with a few cool gray\u2011blue and pinkish segments and a fade to white at the end. This low\u2011saturation, hazy warm color grade is characteristic of the street\u2011walking/urban footage in *See You Again*, rather than the bright, saturated primaries of the kids' channels or the dark, moody grades of the Adele/Chainsmokers clips.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video from a series of vertical color stripes representing the average color of each few-second segment of the video.\n\nLet me look at the colors in the image. The stripes are mostly pastel, muted colors. Let me trace them left to right: light green, light blue, gray-blue, light blue, then a lot of muted beige/tan/brown/mauve tones in the middle, some gray, a bit of yellow/tan, then more gray-blue, and toward the right some pink/salmon tones, then gray-blue at the end, then white.\n\nSo the overall palette is very soft, pastel, low saturation. This suggests something like a kids' animation or a calm video. The options include kids videos (CoComelon, Miroshka TV, LooLoo Kids) and music videos (Bieber, Swift, Adele, Wiz Khalifa, OneRepublic, Chainsmokers).\n\nMusic videos tend to have more saturated, dramatic color shifts. Kids' videos like CoComelon have bright colors. Miroshka TV \"Learning Colors - Colorful Eggs on a Farm\" would have pastel colors of eggs.\n\nHmm, the palette here is quite muted and pastel. Let's think about each option's typical visual content.\n\n- Justin Bieber Sorry: dark club scenes, blue lights, some bright.\n- Taylor Swift Shake It Off: bright, colorful, outdoor, greenery, bright clothing.\n- Adele Hello: mostly dark, moody, greenish/teal night scenes, dark.\n- CoComelon Wheels on the Bus: bright primary colors, red bus, blue sky.\n- Wiz Khalifa See You Again: mostly street scenes, a person walking, muted urban colors, some pink/purple tones? Actually the video is fairly desaturated with a sidewalk, trees.\n- OneRepublic Counting Stars: bright daytime outdoor, some dark.\n- Chainsmokers Something Just Like This: dark, moody, with fire, blue/teal.\n- CoComelon Bath Song: pastel bathroom, soft colors, maybe pink/blue.\n- Miroshka TV Learning Colors Colorful Eggs on a Farm: pastel egg colors on a farm background.\n- LooLoo Kids Johny Johny Yes Papa: bright cartoon.\n\nThe image is very soft pastel with a long stretch of beige/mauve/tan in the middle and pink toward the right. This muted, desaturated look with beige and pink tones... Hmm.\n\nLet's think about \"See You Again\" - the video features Wiz Khalifa walking down a street, lots of muted browns, grays, with the famous \"one time for my mom, one time for my mom\" walking, and the cemetery scene at the end (grayish). The color grading is fairly desaturated, warm beige/mauve. That matches the long middle stretch of beige/mauve tones. The end has the grave scene which is grayish. The right side pink could be the sunset or the final scene.\n\nActually the stripes: leftmost light green and light blue (maybe intro), then a long sequence of muted warm/cool grays and beiges, with a notable golden/tan stripe in the middle-left, then grays, then pink/salmon, then blue-gray, then white (end). This desaturated warm palette fits \"See You Again\" quite well, which has a hazy, warm color grade.\n\nCoComelon videos are vivid and saturated, not muted pastels like this. The image is low saturation.\n\nMiroshka TV eggs on a farm: eggs would be pastel but the farm background green/brown; could be muted. But the pink toward the right?\n\nHmm, let's consider the overall low contrast and pastel nature. The video \"See You Again\" is known for its somewhat desaturated, hazy look. I'll go with E.\n\nBut wait, the leftmost colors are bright-ish green and blue. Intro of See You Again? The video starts with a title card and Wiz in a studio? Not sure.\n\nLet's think about CoComelon Bath Song: bath, water, pastel pink/blue, soft. The middle beige stretch doesn't fit a bath.\n\nMiroshka eggs: the eggs are colorful (red, blue, green, yellow) which would create varied stripes, not a uniform muted beige middle.\n\nThe middle being a long uniform muted beige/mauve suggests a static scene or slow-changing scene with warm tones, like a street walk in See You Again or an indoor scene.\n\nI'll commit to E, Wiz Khalifa ft. Charlie Puth - See You Again.\n\nLet's double check the pink toward the right: In See You Again, near the end there's the cemetery and a sunset-ish warm tone? The final scene is him walking to the grave, fairly gray. The pink could be a part with warm lighting.\n\nGiven the choices, the most \"muted, desaturated, warm-beige\" palette matches See You Again. I'll answer E.\n\nI need to provide reasoning and end with \"Answer: E\".\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video from a series of vertical color stripes representing the average color of each few-second segment of the video.\n\nLet me look at the colors in the image. The stripes are mostly pastel, muted colors. Let me trace them left to right: light green, light blue, gray-blue, light blue, then a lot of muted beige/tan/brown/mauve tones in the middle, some gray, a bit of yellow/tan, then more gray-blue, and toward the right some pink/salmon tones, then gray-blue at the end, then white.\n\nSo the overall palette is very soft, pastel, low saturation. This suggests something like a kids' animation or a calm video. The options include kids videos (CoComelon, Miroshka TV, LooLoo Kids) and music videos (Bieber, Swift, Adele, Wiz Khalifa, OneRepublic, Chainsmokers).\n\nMusic videos tend to have more saturated, dramatic color shifts. Kids' videos like CoComelon have bright colors. Miroshka TV \"Learning Colors - Colorful Eggs on a Farm\" would have pastel colors of eggs.\n\nHmm, the palette here is quite muted and pastel. Let's think about each option's typical visual content.\n\n- Justin Bieber Sorry: dark club scenes, blue lights, some bright.\n- Taylor Swift Shake It Off: bright, colorful, outdoor, greenery, bright clothing.\n- Adele Hello: mostly dark, moody, greenish/teal night scenes, dark.\n- CoComelon Wheels on the Bus: bright primary colors, red bus, blue sky.\n- Wiz Khalifa See You Again: mostly street scenes, a person walking, muted urban colors, some pink/purple tones? Actually the video is fairly desaturated with a sidewalk, trees.\n- OneRepublic Counting Stars: bright daytime outdoor, some dark.\n- Chainsmokers Something Just Like This: dark, moody, with fire, blue/teal.\n- CoComelon Bath Song: pastel bathroom, soft colors, maybe pink/blue.\n- Miroshka TV Learning Colors Colorful Eggs on a Farm: pastel egg colors on a farm background.\n- LooLoo Kids Johny Johny Yes Papa: bright cartoon.\n\nThe image is very soft pastel with a long stretch of beige/mauve/tan in the middle and pink toward the right. This muted, desaturated look with beige and pink tones... Hmm.\n\nLet's think about \"See You Again\" - the video features Wiz Khalifa walking down a street, lots of muted browns, grays, with the famous \"one time for my mom, one time for my mom\" walking, and the cemetery scene at the end (grayish). The color grading is fairly desaturated, warm beige/mauve. That matches the long middle stretch of beige/mauve tones. The end has the grave scene which is grayish. The right side pink could be the sunset or the final scene.\n\nActually the stripes: leftmost light green and light blue (maybe intro), then a long sequence of muted warm/cool grays and beiges, with a notable golden/tan stripe in the middle-left, then grays, then pink/salmon, then blue-gray, then white (end). This desaturated warm palette fits \"See You Again\" quite well, which has a hazy, warm color grade.\n\nCoComelon videos are vivid and saturated, not muted pastels like this. The image is low saturation.\n\nMiroshka TV eggs on a farm: eggs would be pastel but the farm background green/brown; could be muted. But the pink toward the right?\n\nHmm, let's consider the overall low contrast and pastel nature. The video \"See You Again\" is known for its somewhat desaturated, hazy look. I'll go with E.\n\nBut wait, the leftmost colors are bright-ish green and blue. Intro of See You Again? The video starts with a title card and Wiz in a studio? Not sure.\n\nLet's think about CoComelon Bath Song: bath, water, pastel pink/blue, soft. The middle beige stretch doesn't fit a bath.\n\nMiroshka eggs: the eggs are colorful (red, blue, green, yellow) which would create varied stripes, not a uniform muted beige middle.\n\nThe middle being a long uniform muted beige/mauve suggests a static scene or slow-changing scene with warm tones, like a street walk in See You Again or an indoor scene.\n\nI'll commit to E, Wiz Khalifa ft. Charlie Puth - See You Again.\n\nLet's double check the pink toward the right: In See You Again, near the end there's the cemetery and a sunset-ish warm tone? The final scene is him walking to the grave, fairly gray. The pink could be a part with warm lighting.\n\nGiven the choices, the most \"muted, desaturated, warm-beige\" palette matches See You Again. I'll answer E.\n\nI need to provide reasoning and end with \"Answer: E\".\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 1187,
+   "total_tokens": 1629,
+   "cost": 0.0026335,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0026335,
+    "upstream_inference_prompt_cost": 2.21e-05,
+    "upstream_inference_completions_cost": 0.0026114
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1069,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907296-BJAAcXXhJK1tqhbJO4lm",
+  "object": "chat.completion",
+  "created": 1790907296,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the palette. The barcode is mostly dark, desaturated purples and grays with muted tones and very little bright color. That looks like a modern digitally graded gothic film rather than the warmer, grainier look of 1970s\u201380s horror. Stonehearst Asylum (2014) has that cold, somber gray-violet look, with only occasional warm accents.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "Thinking through the color palette options, the muted purple-gray tones with cold blue-gray and warm candlelight accents point toward Stonehearst Asylum rather than the more colorful or desaturated alternatives I considered.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking through the color palette options, the muted purple-gray tones with cold blue-gray and warm candlelight accents point toward Stonehearst Asylum rather than the more colorful or desaturated alternatives I considered.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3AcKEAgSGAI4AUIIdGhpbmtpbmcSDCZ+x0lMicJLmK1TfhoMYwI/o04sD6YCTruqIjCMJhSB/TSkfSy1VBe0M+4mb47uqATPnHXNJaNtkZdbKUBpfSdi/8aLLVAvQPW6vzUq+Qa90cuw76GuFL52WdgnlEHB3SYlJgl/EJiMstIWO58IGdtZ4abWbu0d3J+kRvSOYtzdacpvwUGv+Pf51yf740NFwt/xho4pob3g1lYAUQ8nG6sEIEaugQU3BqeMMPI5um7u9k+hI3SXoZgRNa8ficajh7lELRcpIT6DHVLWV5um5Ug6C3yo/Qbf1EvayObPvSJMt2iL1qidzxwR5ylo+eyRmNBA9cHJiL3lqmn3A+bvsjPmxHaFgEKTGWl304mpgQA51pDgUpbqiwdcx9ggGzQR3FHrnPvXTsEVJf+/O0DLXX9l+SAH5WheszAzkUDzxN6kWZyPZtaeLvj+F8CHO4oAG7iSzji6BipFDC+/uItehB2QXIBVqj7EqbJeEfD2zLm6FatJQ/L21jgJOMUAjRqyHRQzRgRrBqy4xorgsMMXl8q1XZdIqDprAyiE/V6jgxcW9OMim0g0BE/mkPxQu8+qPMZRd3TtLvSwRzcTJfZA3no/+No+80YR39EqMNnn6AtOEL+3TA4O2+MsxNddvVg8YiwkjfQLUb775iZ33s/02kaAoFghg46zNqd7bNuWsHVAEiBW3jTB6MIQqK0S86k3neDUEqkYwdr5GSoPbYPUuzY1dPliGASRSRA/+OFrY8xoxA35y3MytPtg7ljdIbHhWt/x6qAOaRMVT1vKT6j/3WaiX/IZbbXKbXYlOpmC/fTdwm1ejvARK/sNuY6IqSMFKCwo9uIZrHd2q8TUE/YnyolCsmYyAwI5ZovZ0Ca/+09fnFR1UkGLpN/W/RMxRpOL/HjgWppRpYmlI5w4pgehwzl3L5lqPHaw7YZUiYeRGSFVnrWOMY0UcuMZe3gJoQLbcuwuE3yaNhDwjFwHp/rMAxBG0dWS4Q6b1A8eing8+CA+vna1v0DCLbFXZoxkSU6HdjEZW+FpA5KraT2/bNGzcB18cXPlE2UaG4IUSYGqxnD9AQrfe3ZTchtpDjikxBS5YHPVRWkKPwBkuT1LpTvz8qgbvga8ZRIUbz9uam5cIL6L+yFsNHpTkDTFf3rfTFcu5pvmHzTcxwuHuuagqTIqqsfNRZ5IMuluueQLSPEaoEFp6xwZpotCZnY9EkoIT1tD4WVRQzb/Q9KyplJqQb6nyzIS3dm4MBVb2wZkALGjhuOjoKr02fio+ktD7OExtxg4wQ5QJe/w7TyyGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 531,
+   "completion_tokens": 293,
+   "total_tokens": 824,
+   "cost": 0.007984,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007984,
+    "upstream_inference_prompt_cost": 0.002124,
+    "upstream_inference_completions_cost": 0.00586
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 165,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

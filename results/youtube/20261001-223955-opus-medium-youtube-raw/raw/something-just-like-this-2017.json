@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894477-XHgieLqxEgs2v9OaBZg1",
+  "object": "chat.completion",
+  "created": 1790894477,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are almost uniformly dark, desaturated teal and blue-grey from start to finish, with only faint lighter flickers. That matches the moody, muted palette of Alan Walker's \"Faded,\" which follows a masked figure through bleak, abandoned landscapes. The other options have brighter, more varied colours, such as the colourful party scenes in \"Party Rock Anthem\" or the warm tones of \"Uptown Funk.\" This is a best guess based on palette alone.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "Faded has that consistent dark teal aesthetic\u2014abandoned city, masked figure, uniformly desaturated tones\u2014which matches better than Something Just Like This's more colorful lyric video style.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Faded has that consistent dark teal aesthetic\u2014abandoned city, masked figure, uniformly desaturated tones\u2014which matches better than Something Just Like This's more colorful lyric video style.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSrwYKEAgSGAI4AUIIdGhpbmtpbmcSDMRwfqPZKtm02lBSQxoMbltZLcbaHW62dTYoIjCb0VFXT5N8dMih2dz3oQsGIrYuuCZvNY1JW65aFxzZulW0SwYqCkfZuAsNzHJ6j7MqzAUuFBROFEqqlQ8E2XBhWnL4TnXGcn04oFCeIZ/NhKqbK+RWhIS7Augt8DOY5txKe6PjUuq67ILb6uTkqZ0hf2Bv8r0PAtB9ieL5rUT891RYWjgQLZks3pStV6ZBHnBHtOjlQLTX1eS4hOj0H8bhPT9hnWQO3/6DTfqzMuVtMFdDSvEjifAT61zVf1U1h+XhIx08gVZRQGBnJzLGwHvBv4oPOkl6TTpMcGjSr2zVJnie07Oy9aUsfy1xnidcGZWMlcHvuKgqVfEDNLyAE7jMjMChsMCWIwr8N+gCxkxDn2g+oM8eAlCVw8Qx6Fs98MOy+N9ze8FULSe33wdXLVXFE31N0tLEjvBHU+Bd1ZqTw4JI54cD9nxozyOh1TqpI/8jJd39i4cx5L+7LGtUlMN8VW7mDGs+V6mRZDM8vjz4kqfY5SXSANoqbHoFoAqm6dsA/uvPbJyaWTlG60n6aIyTIbo8Uwwj1a1tBUPwFNw5Vatv9mBp7pxvT0HDIP9cedPTZ3h8zMe6+dopKzTzBNGZ/E9SzYERN3XPH8brdDW4dDxPa5s08EM7GkGwZLUAehwcabnHKgIK48QvK42HTrqiljDFyXwcBIRlUNlx6bVUiGej3EdAQLzkmuVBdmO/2QD8uf9BvOAKAr9HCPdSP1V1/y+792aZdYDE083vqX/pU6eUEW/LERDaIrnOPiWu0Y6clxhQj+GDTqrd2DlcKl8BL874zf7KnCWuPOwgwSFsjWPGs/mf1clabnU2JlGQNFbaF4WVJgMMLLta2E/0D/FJvznhuD6hGm9MREQZTpmn4PO75RMH3vOpIJosaz6D1FvJUo/XF4EV13mM7EEWYbgwBs7Vws3XQdsRvYBPeftXEcjoDp0Se5ooIb9i0s4DSXrw3LufpmO2dN92h7qb5CAlHgXEM+kHzsUzc/ubJRGJ60BgTXMSd21d/wHMu1xEFRgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 644,
+   "completion_tokens": 248,
+   "total_tokens": 892,
+   "cost": 0.007536,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007536,
+    "upstream_inference_prompt_cost": 0.002576,
+    "upstream_inference_completions_cost": 0.00496
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 86,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

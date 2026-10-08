@@ -1,0 +1,21 @@
+{
+  "slug": "love-the-way-you-lie-2010",
+  "title": "Love the Way You Lie",
+  "artist": "Eminem ft. Rihanna",
+  "year": 2010,
+  "label": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+  "hex": "#3F3328",
+  "rgb": [
+    63,
+    51,
+    40
+  ],
+  "frames_sampled": 267,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "uelHwf8o7_U",
+    "youtube_title": "Eminem - Love The Way You Lie ft. Rihanna",
+    "channel": "EminemMusic",
+    "via": "yt-dlp"
+  }
+}

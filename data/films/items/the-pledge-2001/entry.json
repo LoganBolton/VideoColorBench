@@ -1,0 +1,21 @@
+{
+  "slug": "the-pledge-2001",
+  "title": "The Pledge",
+  "artist": null,
+  "year": 2001,
+  "label": "The Pledge (2001)",
+  "hex": "#34312D",
+  "rgb": [
+    52,
+    49,
+    45
+  ],
+  "frames_sampled": 7431,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "tAvgeN3-vIE",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894445-reJgxV4U9dVqtSXeJNvl",
+  "object": "chat.completion",
+  "created": 1790894445,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the overall color pattern, not a confident identification.\n\nThe strip is dark throughout. It is dominated by muted blues, near-blacks and warm browns, and has no bright or saturated stretches. That rules out the colorful, well-lit videos like \"Sorry,\" \"Uptown Funk,\" \"New Rules\" and \"Sugar.\"\n\nOf the moody, dimly lit options, \"Counting Stars\" fits best. It opens on a long, dark bluish scene of the singer lying in bed, which matches the extended dark teal section at the start. Most of the video then takes place in a dim, wood-toned basement, which fits the many brown stripes. \"Love Me Like You Do\" is the main alternative, since it is also dark with blue tones.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm noticing a pattern across these music videos \u2014 Counting Stars, What Do You Mean?, and Love Me Like You Do all open with dark, moody palettes mixing cool blues with warm brown tones, often shifting between night exteriors and dim interior scenes.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noticing a pattern across these music videos \u2014 Counting Stars, What Do You Mean?, and Love Me Like You Do all open with dark, moody palettes mixing cool blues with warm brown tones, often shifting between night exteriors and dim interior scenes.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 629,
+   "completion_tokens": 604,
+   "total_tokens": 1233,
+   "cost": 0.014596,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.014596,
+    "upstream_inference_prompt_cost": 0.002516,
+    "upstream_inference_completions_cost": 0.01208
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 356,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

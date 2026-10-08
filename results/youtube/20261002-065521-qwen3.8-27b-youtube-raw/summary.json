@@ -1,0 +1,13 @@
+[
+  {
+    "model": "qwen/qwen3.8-27b",
+    "n": 100,
+    "correct": 18,
+    "accuracy": 0.18,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 0,
+    "downloads": 0,
+    "cost_usd": 0.6913
+  }
+]

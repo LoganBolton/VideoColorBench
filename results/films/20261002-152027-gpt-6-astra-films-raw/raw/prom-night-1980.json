@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954624-SGEKvgAZrn7EcYMntsxx",
+  "object": "chat.completion",
+  "created": 1790954624,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Prom Night (1980)**.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Considering prom night visuals**\n\nI\u2019m thinking about the prom night setting, which seems mostly dark and could evoke a twilight lodge feel. Manos has low visual contrast with desaturated colors, and I'm noticing a lot of darkness, particularly black and deep blue backgrounds. The colors for prom night appear to be dark blue with hints of red and brown. I\u2019ll choose Option A for this. Sounds like an interesting visual theme!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering prom night visuals**\n\nI\u2019m thinking about the prom night setting, which seems mostly dark and could evoke a twilight lodge feel. Manos has low visual contrast with desaturated colors, and I'm noticing a lot of darkness, particularly black and deep blue backgrounds. The colors for prom night appear to be dark blue with hints of red and brown. I\u2019ll choose Option A for this. Sounds like an interesting visual theme!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8yK81c1XHBp3WxgoGRIgyV37g4PrQgo5NEyil3e48f1QKLhW5dN_JOgIXhDCSwb1c3HkkqYsI7IBqC3ONs-Pn5BwP7xvTe27z9Z_v6PNJ8ZRsW7uctNNusff-E-VKU_b_3aFhSReaOXArw7dPUrj8ZXLWyuFrY7VC5XbYem_XDUpyxsvGty5VV2beSAkPOrNtKGGFS_964__A8tFjvsSseCgHwgT3CcIY3o7VA7oBUP5gBWHdq22e8b8OjOWEYM8SXzC684gZZNbAZRJPFze557AeZZZpatuPx6T7uWMuAXljzg0Rd3CazirvFe7RixHzhEcPE_mL1KWYCJQ0xRhyD5EDMjy90Eo1lZeSGTNXVP3McMfYHf8py00HpLfHlCCjsaXvdFzpdSYe7v9ccZemeIajiNhiBYl5uCWuME8VK6yylc-6R3qGMmhjBdorLHPpqila6IhIuAlNLQBxpsgvJTEstIsqC2WkeuPCCjkEPYcW-Id4sqnaLBSRIla3gWlLxjvKcwutQyIe8No90oI8nnfeVqotHwpCSCzc0_dAujPprpxd1Ta6hCRi0W1dcksYQYt9VGHXdk3MkkHz-gym5P7TXPw2ouY-Q1uTG_sOicUDuMCOIRK0RzxzOs_NAAtRpe9i-EQXiyh5ckncSleOYV13A9TtHXxeHNF45HnpRme-SJ_RN--o3WZCUEWr5v8cbqfgxd0BT39t0vznflxzORXNcZRBMxCe4uhuwPrI-eYCx_0_AkaxAk4zxc2MelhSxr5EnW-AWMEirOhf3aWMKscxnoXylYlVC93ZPHkxwKiVyDH_hNH0gpDxMqtgVWxYfP4ngOB0kf40SMb51AD811fA917E1ZKoc8Eg3IoxIgDGjGu2nmNCmGVfINDYvaGKsuiUhbagTrfR4niw6ZvdRWUv9sZCMZ_MQ9rquk9m8LWVLLTBzuyT7H7kpNNqZbqOO1XH0-WLoRGJdMeMGw4OmBOmdDOPuRmrss4MDJ4C9RFtBmfOfFd7pPXdfVRP7-tZ1yV5r1qqz6uH5W1rL8s1PAZQb8ifdBR9Axj3bQkT6GypOyAXjxN_g50YqLNBFnUbuIl0kZjNxKUNjWS61p1r2lq3ihJxY09v2lCNhcAU6Xl0fhP_bE_9WbhaS_leVGdKcs-zvmHNdvQc-a7r09N5-t091QiUr7AfyAgPlek3eImyvDUBMVPfbqfT3TyXCwyg-nqTHFP08PiL6RuAa1rLj2H_Vkg44EOUQ5LTQN2ITB4BsLSnRFDQcCVpmsExJK78wr4zRpZEl11i0NE-T-tux1aCKTnwVskl4cU9Ao4tjyMZ9-lC6YZ9sgaLxNTgayk-BOqP0FhNAkVw64iQKR7JhcxeFnXEu5FOO7KL7sKtmt2Mg3ttNAbmvnBzNq4h4znQqcgCjwShcytlH1bOmEFyw6zPV8BkJtg_RMrIMOgVO0KImHARrjRVQx5CJB6PBYLi4TQOQn6a85dp6mSjkOYOqB7qOspUOFzSTjhFdo8gUqvvtP6GjZWvTeJGSPSsqshAf3H7NdQlQc2H6cm-kqmSuZMWHZwJ7Enpla2WRQidj9XFlC3TjoX6D8efcJ4gJ-LZD6OQ48UffA0s6YJM8RUKrWTsJxcSjc8ozVB0SoAbdKg8Ir8jychtLQ2DtYiPFRjLx0gkeNSEe5lm_4kT6XOd8Asp_QOk901Mi6ASuAm4NZq9OP162PYmzf3V-fiL6jM4duBF-iS8HLu8I8_Z6TJxqHKHxqyNGmczgqNjduzmcGSWi4LcGuor9Wo8We_fEFXsP28yHCshXPG_j-ATZWPPI8b6-kWGENOWhVUJ0B5lYGuLkwItqdi-R3coMcOBsMHHkTGceK81MEVxNpfrCnTux8vHm1BlmqPg5NPQBLLTIn05a179amJOCiQMHXeqGG91wRMlHD1iVuW7emc64udXQqn_OLivu4YtOnrMal8-o11eszLLR9dFKfsbV_A3Le8RhBsS-KezzpU5ogmjRcGpBo-IsvoT9CCHOmsYpiLE-zmrsbP2AoRO4HBJRFpjS5Q1hH-xdKeMJAcXVdBCb8u0nF9VDcHdK-_hMT41T-yMySbvaQEC5O17-UNDE1--3DoQSZMeOpcR-2wRNgA-MboozrOF5qHUyP7W5mO91f-OkO715roc4eDkhOXS-ANSqqNw_XJpk7N4s9YJlH8Br8dvCQMm0MoxAIM3fp-z32mzvdfVohImgdrUHAfigkzdwTXm6l_zF7qTtAIMKEBljEvoWdEodCfeNuBqgNZMOyf_K-mj2n35U30him4H0Snn75_L0ITKfWYR4Bia6bq6U3K2ivJoQtN1rqZx5zZ-JFtIAt3mpC1p2ZknXvjKbvybAhkJV_Aby-G1ryNjgCihRBllLkqLWyRqdBqXnzm4-UWrxLGStFv0PEqSpZN6jRR1QEEy4K73FaGfuJ8z3EwNjWhXo-BLZSIQdGXSWQzoDuYsucoqHlt4-03Ys3Q3LJ79mU2UQCG06LbYhkeTuiE9YmPhpMMOWxhJ70FIcECEl7iZpetqo9ZCwmMY-kvsFqHspZCHyuD-GNb5Nm8CeDIyzuv9BveWU1glMkwawIziqVbzj1WyUEGvrrBtcJugOPUbHFJp5HFbhG_e4mqq164rDcaRosb91Pb8hYgUPP-pi7jwCW6NkynREBgwTUc4EBB9jo_mNjWf7fy0OB89pf8xKR3k06ZJkhIBegfxhUDEEC1jIUDlXtjPGDRgXkKqjR7VGXP4ogHAqyNHgmABpnrp8VEbo7PyAlVBTE4vJn790pgRrzlZOuEE_lWEowR1xBn0ulCydNwv4iBo93V6DkhOo44JnFpEMTx9b4n3lQMbnPFWMOUsMLfNumFnPhcJ9OefA75P8eTrJXos6xugh9I2jTYeTrXq65R_FXESEbhz7VmULzNXoMqkIE2fDjnU32YBQ2sQbh3qz8WjjOnnD1mKCZPcgGDg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c9586a5b6d13ff5016abfcc81ba1c87d1ae94fc48d78ed3c5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 438,
+   "completion_tokens": 270,
+   "total_tokens": 708,
+   "cost": 0.01788,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01788,
+    "upstream_inference_prompt_cost": 0.00438,
+    "upstream_inference_completions_cost": 0.0135
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 249,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

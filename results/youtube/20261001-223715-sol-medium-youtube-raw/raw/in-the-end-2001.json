@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-W0sQHZxROmkeEYBJ8tu6",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Linkin Park \u2013 \u201cIn the End\u201d (2001), with its earthy tones shifting to dark blue during the storm and greenish tones at the end.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCiEuN6DyDg2feYPXKQyYGCCllWR0ooKce8Dl76h7plrmEc39Xx9MKxG4sbDp4fbDFGnLXG2b73N2at3LoaI9wKBlkcnLnYKSeOD7DFUSe-VVd3wXT6IfnYyl7FVqntM626Zg9Mf7bjM84CHQA4GHJX6NMYr2ZuKscrSss6OQQvRgJ20zwwI0wrXnu8AnB6SCnnGhSo_GGW4Je-GiQ95jzvRgjbIdsJrmUpb2s6lSEiVgilv2ALU7_ssTQhyXW28fbkdeDyeps09fT5qGzsA96UC6Y0PAjYNprERaXfw9RAUvsGKagWbfsZSIqx0qlgRlUgz_qvZSv8IjdlGPBiYyk3C1fx_UF3s7GNwHpBNpradHQqUztLKm47x3zMtXxPuvWkwLXk4vGtuR-L9zWRfgczlrWhGXtgFnVS6_-gdprl6YlAlzAHlfds-sV0iz7BhatPFTw3-Ykg4nkniq-a4OY-qZHo9XbOPlXGIL815LIcXOt-alg7cC3mco-leHWu-XGT2gdl2CvFCVNqCcW5KCukoiQkxFwHO05gOdLb0aVtgc87RvZFi-4vTJyu1T0J8ypNOge-3wCOPFsG_AeppzPabLzt1ATx2fiTg2LyORSbF-42cWxb-Oj6azbrkzUjtnJcwjqa1M72oL6e4FSpHo14VB87MgCazmDQrp5kN47aE2YTSGKWIezU5n0IBFcTAeoKKn1vYum9mzlN1zF-6lvmtOYV84V7B5IvErrXhDmxaieKGC1UjT3SgaZxABYfw_65t1vC_WTiKZdcCGEeUAehvjrexidqnCYEJWvaN95GUlxCM1nwgyx1oTbOGKOh3uW4RAYBv-IP4GRSPQTcQ0c6O9P_-8nSYUrFdJKLrgdzwXVzT6HjkqGsTnlFIboPhFQ7oGLnqrAg0ChI55yVTvE1Na404mw9QP_eT1fQ0JH5vgcskocYyroJqPbq7BOHV-G6OdY0gPyWCzC6hBUCyab3WiyPcG5J2j4up0XuNPp9-QjNkBDzdR1-Pt3O7Alt083_-lAj7fQ1GsiL8hT8Up6rwOpY_HPHc-3cf3hYRhkkdbKAVwZURWFEGyvLFEi0nckYf2BQ0lhgUZUT7wTl5k6Xcy-yBvLszla_18IOVZ1gB5VxNv6XpkyUqYacwU6uLZ0LdclERGUF6Jckiwe4f8XxfZVqUI8avgDYGmH57PAKTQ0l38FOt0aRDQjUtOpeDq8B_smqW2EoDCZ36h5FILQNJJewQmWorkeN18KDyehdvRfM-wktXL6FAnlMwQ1Ccb0vUXBclCIC8hrwpgS6u4yclDm5hxt84yH4PckcU-vDwx8pnIjCsYMJUPZ8S1KIG3jWVd4H7VIyl0EPbEGfzJfcBxfUHD6zSKNqHDKx0AazUZtqEJIf7yjS0cvzKy-lzr2EFp02ha-gNGfsX-eqxaoQDT0RL2XFZcRtlhwk7bBhKOdsklSkP6eRIbxjJksUjBC5S_DeEBw1d8JcRpUKg6-eLlYpQeMhYEO3_jxDd6KBcrRRAvsAY8-Awt7l87Fcdb6bZmV4zSxrAvPA_EfeeJFm41pz_K3kKDvWWMu-thGbHEXercXROHFWKWf7lROHfiP3lwj22lALxrGnGLOkG_fX0Gks6O4_xSJsZ9ViWxOYk8exZmQGrppwH27JcqVwc-B-EajWW2MDX1GK762RVIGUJH44G2lKVRTHDrxCPGe0DVDGGtapfW87J9ZfDInPeFqs5OH3MwhvZYuGCuy6aB4u8QASa91pjRvkrmPCixby3qNPiuLQDf_BFc4NTGTT7fQrrsNLcmoGglMbypQwGc6CubTIuqZ0rOTA5WAGfcPYxxraBLeJAzxmmrXU7MSvu0mNiCnzbWdscWFG_vmaJzJobOZVxOyo9QIB8VISub_gt137yYEbc3yEQ0oSyNEYqio6xLt-x07GGAHOXjlVWcA8NvuU3cvJlMB3Oo5I6DlQu8vB5TX7X3xRAJalv7HyCuhCCPS42YKalLNknJ4o0qtV1DKaRMiWxGGgUlFZwwHCb4V8HzNA55ZtFNVyQuza3hZMcwBiOIpKidgkqRIdOIFgCBsKHFodVvmPL-Clw91gMpXh4x3KD3VbqZy7zisp79GoRBloJP2vTIWaD3-bZqElemPVq99P6JpKuEYd4OnTZiKekRN9wja2fLuKbgn58F6hJ7fAYhYowTSqYUF5pShFybZxhUWFtZ05odXJWzQ50tB4b1jNNX5RdCcuWs16jRKB.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ec0c110e5acf872016abee09de01487d1adda7546c17417ed",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 473,
+   "completion_tokens": 185,
+   "total_tokens": 658,
+   "cost": 0.002796,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002796,
+    "upstream_inference_prompt_cost": 0.000946,
+    "upstream_inference_completions_cost": 0.00185
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 140,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894453-Z6G6xV04AR1TVGNrfAJ3",
+  "object": "chat.completion",
+  "created": 1790894453,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is entirely grey, with no colour in any stripe, so the video must be black and white throughout. It also stays mostly mid-to-dark grey and fades to black at the end. That fits Adele's \"Someone Like You,\" a fully black-and-white video of her walking through Paris. \"Hello\" is the main alternative, but it has a warmer, sepia-like tint rather than pure grey.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "The video is entirely grayscale, which matches \"Someone Like You\" rather than \"Hello\" since that one has sepia tints. The black and white Paris street scenes fading to black at the end confirm it's \"Someone Like You\" \u2014 answer J.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The video is entirely grayscale, which matches \"Someone Like You\" rather than \"Hello\" since that one has sepia tints. The black and white Paris street scenes fading to black at the end confirm it's \"Someone Like You\" \u2014 answer J.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSvQYKEAgSGAI4AUIIdGhpbmtpbmcSDLdDCdzHXhWTd659yRoMIbek2Tc7HfdOF1kkIjD7YsWHhHmM9DlBIDvnuBkAyz6mUj7zRpYUgJVZ6P5/nmk1deZ8rLPLQwqUS4aesxMq2gWwicKcfyqR0kAf6AVQe3OAuqDSVrJNRrf2TQUy+cjn/uYzpq/S20UigTXS7/aNo9jSgRBvSJj/HaGiwr1XqOdEnAIFCEjPyGzldxUtZ3JTqGRN5KRfstSXZDRKlSBc1hRdAi5us+AM8+qHf9Umj1swavDy/Zv+zjpTEv4U3DiTTeI6+ZNWsaDmGRlGMCfiiTeCvpsYWiut1cp7oH8EkPREKYDl1egvd1MDUbHJoCK4mrQNfYWaufafd9MSWH9Aw59oBznqLQcmx1nr4RioSgVWk4zGZ3AFM1nsJjCjXim/bWuCnFQDIBkyGyAt4oeH7hEN9W9RTuONx2OhflaXDxTI9J+DvKDsuNOaZfRpL29T1HMogiKxY5Y3T+sftQTIKMaWzQNkj4ujE+mVs6ttfIZOCgjYD8KBtjilU64z2ij1VvMlh+IjrIzNpc/DDzLQwaiDqOlOoXvLbQzelFWrVWnKsbuCcYibqZuNC03gO9plkmoJbik+ucz3XWAG4r5t39yPZVbdlujEpdEaHPu82YDtyILHOwWMslDQnSDgWCUemFeaiqwQOTErfN+x1I+h5iLC+cxO2u/2JHZYfwEpQ+5v9fqQdK+unvLkMl14MMCZXpWxAJvKG8WUTlq7pS+9EHRIf1I9mqYxruavJDGbhbGDgnfXZD7ZqgBYDPL2sFEXyYUH1Ibf/FOzJAAHsOP++huyfJCIq2gwXzLyewSkeHbwNqHy+LBiS163ENkqvVLZyN7BapGQ8EuDygsSHazZ6bu721M7hHa7+P/sedyDAn/aBj5Za1uI7EwFzOtlIj7FpMdtdy5g8WInPdihyY8VVEiOpcKb++NK3RE36gGuxIjtlOfUuUbAWMO6cXAur1xo6AJul/0cnm11PMTt/pHOPURXz62irTeR4MHyWPjdb+lBxpMQ2yG7IyaDcldL8QJYj4Glk5kHLJD6S0+gYXws9OyMIcATtuAlBRyTGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 601,
+   "completion_tokens": 223,
+   "total_tokens": 824,
+   "cost": 0.006864,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006864,
+    "upstream_inference_prompt_cost": 0.002404,
+    "upstream_inference_completions_cost": 0.00446
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 89,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

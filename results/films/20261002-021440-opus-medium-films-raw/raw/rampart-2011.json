@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907345-lXhCk9tHgPMAS7qXfZau",
+  "object": "chat.completion",
+  "created": 1790907345,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the overall palette, not a confident identification. The barcode is mostly dark browns and muted grays with scattered deep red accents, ending in a long black stretch that is likely the credits. That fits a film set largely at night in warm-toned interiors, like the home-invasion thriller *Trespass* (2011). The other options seem less likely: snowy whites would point to *The Pledge* or *Transsiberian*, a yellowish-green cast to *Side Effects* or *Bad Lieutenant*, and brighter or more colorful palettes to *Rampart* or *Beauty and the Beast*.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm picturing the dominant color palettes of each film to match against the barcode\u2014Trespass's warm night tones, Before the Devil Knows You're Dead's muted hues, Bad Lieutenant's greenish-yellow, Rampart's bright LA look, and the snowy whites of The Pledge and Transsiberian, trying to find which one fits the dark brown/gray/red pattern with the long black ending.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm picturing the dominant color palettes of each film to match against the barcode\u2014Trespass's warm night tones, Before the Devil Knows You're Dead's muted hues, Bad Lieutenant's greenish-yellow, Rampart's bright LA look, and the snowy whites of The Pledge and Transsiberian, trying to find which one fits the dark brown/gray/red pattern with the long black ending.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSgQkKEAgSGAI4AUIIdGhpbmtpbmcSDMKX8AokviVPXFuidhoM09zBe23ueXRVyB/iIjD6687psxs3DTvD4DVo6z0HjvV3oDMO8mFqpHP6JOsq68gKt3/xyxAlOroJLK3jFPkqnghZNiIfY+6wjK5t9tZ2/jXk3IZd7asAj6iW5H0rc/Dlgahfp7pvJVYQgmLZ/3A5O71FtoRJO8gOlgPcZuJ4H0H/bRKDS4OFIMzdtESQC1rAR2N2s81PrOlYKP21Lf1ka4LMxq5eUrN1iDCXGT9/IpeMBsjQAKfJz/cQvNI1UcqqmrPK0memEK6/m1HN+fxZ9JXpviP040dXyQzZG1dVq+pt40N6QCVTQ6iFWjRQA07Fl4ZGIYuU1SVnf4OfnHt6wFWW34AUPYR8NDTt3BIoiabvvZXsPooupxODs4kEYJ2jLOUq8YhOXhnpA/8P+X5CwMZxDACT7GxuqhIHEwdcFCNSXeqjk5wmVVCpSm8HXA9gqT35w0UAQpSIpsPrKsN6wdtIWbSCNIZtqmHsEuxEVUX392rS7zKPahImlyahkS3tEjIy2TAryTQ7mWWn5YUc4BkZ94SqXZTUInpnmxT8Vl3XPrgK/WR5/4u8eDymRSf5ppf5bAHbmhrg7t5RwhAD/5qU2lIqCL5xKdGmL6ryps07ERxgnNjJPKz5bImiZBFK0K+8ZqoklQKezH2yyfSO5JIP/Kh+fwXZPNF8noCt8mW2C45n018NO9UTnDcL2alstISTZgYZiPEvGVmHB/5j5OZiE8/IXFX9ZHHbGBqxrQ4oIbQat0bLg3n3QNFnOeHcia4VJPpQVsV4/dgfawRfbf8/7B3HZp9eKnXvfkz+PyUK9yqmpjFLeTn1tpXPvtRvLjMtttvxpYIRSogSZupvHTxJV0sylPeAi0osXci9ghUrLdRutBII1Xuk6R1lV727xSS8TkfNdTmB5chA+wwHuL9gBBnrFnahTo4VrUP0rLsz8cYSg+Yw6980yCruUvpTVpFrVZcAw+hm95wmeRfhZo6/cqXd9XvjRbXdPuqlr/ksjUf6u6VA06FH0KMEDYpwVHciVf34gD3Sw+x9q/+pk7Ta/ZTphqp4TZDPzV9w6UtA4EP9IyfLPRmCyuX8Abv73J40napb1uEEksvEvafY5IcAsgsS1Sol1uuNd9TrD8ioqCBmLAmAsayeeX8R0qEuRDZD81UKEcJNTUKQM9eSOJaVq32kVhrynUoOe8Kb6ngiEES4G9nvE2KvPLHJqhHCvgSG86j65hpbDaev/wasIcQTP47W0zor859smVGlU+g2xU7mN0tZgG9WnsmjpyJb/cm2DlQq49dqAnCnhv27rX+QyGyGMstpJ4RQukw89EIUtDRKWMx0MmbtTZwsh9DhcrvjFBJdq2rn5voTyqTO6/r9HvqsS4KKFg/Xjfj/eym+sJojhP13kZ5QAnFhO2eNVUFLvTmIbsRtJLMy8doTF7jjNlpxVLjVCnrP+j8T81Omt2W/NDc+zkvvdVkHc1mvtgTsNL7NMUWDNZjmEdYUGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 438,
+   "total_tokens": 978,
+   "cost": 0.01092,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01092,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.00876
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 230,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

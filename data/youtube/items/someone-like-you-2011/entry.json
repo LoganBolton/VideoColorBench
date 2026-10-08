@@ -1,0 +1,21 @@
+{
+  "slug": "someone-like-you-2011",
+  "title": "Someone Like You",
+  "artist": "Adele",
+  "year": 2011,
+  "label": "Adele - Someone Like You (2011)",
+  "hex": "#171717",
+  "rgb": [
+    23,
+    23,
+    23
+  ],
+  "frames_sampled": 285,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "hLQl3WQQoQ0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894343-NZRVczkdj3bp0E9AF9vY",
+  "object": "chat.completion",
+  "created": 1790894343,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Passenger\u2019s \u201cLet Her Go,\u201d given the consistently dark concert-like palette with occasional warm lighting.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating concert visuals**\n\nI need to think about the visual elements of the concert, particularly the dark themes and colors like navy blue and brown. It seems like the Passenger song \"Let Her Go\" features dark lighting with repeated tones. The imagery has a lot of tan lines but remains mostly dark. There are flashes of red and bright white that could catch attention. Based on this, I\u2019ll choose option B, which also leans heavily on darker themes.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating concert visuals**\n\nI need to think about the visual elements of the concert, particularly the dark themes and colors like navy blue and brown. It seems like the Passenger song \"Let Her Go\" features dark lighting with repeated tones. The imagery has a lot of tan lines but remains mostly dark. There are flashes of red and bright white that could catch attention. Based on this, I\u2019ll choose option B, which also leans heavily on darker themes.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEN6wsKcW-kbg2HSjLj3b0j143eVCNwyU0pBohJbNI85VO0XSVWvdf0m4M2hXwr2Puq74bAUhIvq3qEK2A2UjNMGRFNh7YwFM-7jr4X0Dlj_DVh2sC2EaR_HKXj6aAuZG7N_1XbP1xSu8mneVU3hA2lIKadVQ1B5N0-2JELbjtaWX5M_SMg-Hw95RodZJsUnG1arTSEGBd_IlvWeEVS3ZD94ZflN3f3n4D1Y1X_cVLKZ0LtIccpuriSJqSIFlXu7I7JOln5MHXr9pEn_ua0zqa-FzhfqQrFCmfLpUVjNGE_eLTT2Q7ryyBz_JaA0pX1WMJ77GkJbt0pWEToWTPle95qfw9B5ov0uKLGz_w6MjSUC3zbyi1pZRWwRrXK7g-nwSgA2W_3Z3BKPAbNYcJ_uwnZUknMduWmiBX0btreseCjCR8ouB_EebVlHKNFEszanpEgUO03YHQWkyb_TcvsqHsfZuSHV855dRfWsB2BnzaKSGkCeUh1Lg5T6czBnczeCi2xApaPvNscFjc-eLOGADyw9De1wM8amjpgjn3pnWf3V_CSPXfPhkbyBIz-bTXDZwx7X720TILyxvKOqKqSNov5Bp5RmuGd_AjrCuGI9kIIvJzoxlvL4UPiM-oZkfAaQVZT9qt032CrlpbONDzO2qmBycs6uUWD-ssgRhM4-CSALBb6SJkOWL7pdaD-khiyejo1j-psaAEc7z6HyEj9jtG_Zwuaem9EnInzCYVrdE-OMZieXpKtAPbXq3zPC6NqRYD6tQCnC-rz3ggH2aKVLkUi4dxe-B0o-m9yDV1ycSfZdfYVwJNWfT_CVVm10CnTLOPy2a3HfWfL-SJjXybNp40USYGtUS2ZdsD2v1GWbwlnUFmReSnlJ6T8-v2Cqmq1fsheLz98KoSGAYsVxI5g1tO0JbOC7slBz5jTptoOh0DGf8nAvkouyu-jrCt1eFwP8vh3NI5SV84GCFM5_dpiatXRd3tWqngc1RDSzda2l0P8bRBKVbrhfuqpIesgiKrDedGWjNLHyiq1e2N6lw0BBjVJQrY5lwudLSyl0XqobrC_aNGXbXnbkQv-UMEcbZWnm_EiuQVmj8U03xDsEhBSxVeA790zQ2CDObjG-TFQMtICgNE1Lo77mgNu6UBCrRLnmbJtM_ZB5WrzDSejhMil0uOnYxjHtpQDbZi2BrDPp7e2F5_SJzwyEqQPxGLVLeJl52MUMbR_f0dXdMy66dWaSQPmcjgfYwZTojkE4s64dCZMdAV36BBLKYNBTojhTfKfiAPthgQU2l8iJ1Xkjeka3n6EK5NstLI1aEe2WB7bJ0uMua_e9BVr3QfPsjCizAGKQ5xl60lnA1H_OqS6DZvCw3me1vu_1LVndsu5HPfGThFvF_UlCAO2u1xxOGWEcQEFcKe2kAJUyRMqBt4_j_-xcZHODgrdX2cK-8dUnmi8XrtIYU3BU8_MFh8TsxmFfymL54boX7Ggn86bkxdJtF-PgSikwW3tnwEY1ij7gg5tSYU6ww0Jvp6TQaNWzWlls_g5tr6HXva2RV4vOTRT2EzlJXEEGzRjxQ23tcpqHnKwY4oLmQLX7qsc5GEgRglcZd9kc6oz26v_RpacUZigwzfGIL-9mkFHa9ltARbkfhb4jx5SLjsZdA__CbIM7V4R5-JcSwx5Y3SoxeUgZJEvvWZp0M87u9X1u7ztj9_Y7WT5v-_qLVBAgWYQLZpzE_7ZCHW0sfcJfkO23AarUltqK8dqe8R4UnbGOoc1d0lmCNYJ-XyxXDyY0femQfiMB7-fY-8OqTZfsnfhPzfgOm1m5hPRgBuBV0ibpMBtWTN3-r0uUNBV5IePLar6ilXplCT76d4HIVlF9rQQ2Y9YL9ULNQuiuwEacwFEXrTWIL3r2IFpDgLwUI6Cx7QYj4hwTK10lIyG40gRLYKdSPZs4GLP1pP0ysXyfOH_zXslSLIyYRYknBEibmDz5LXJkgiBRHyOGm6VydVp7DXNH7fghleuOwFNv_e5loCrMWClGou3dVoDuV8rBFEto4Cif7Cw7iUruJhRJsRNociBEKqHumn3I7YbD0cu5CtDBk8DM9zofxzlQBUI40Tcc3tVuWPofB-nOyfq58ltX61inciYZ5bzag5OynpuVos0egoECCJcahciPyHLqG4=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0fbf9dbb1d4911db016abee108ff0c87d19f8b1b6b50d487fb",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 469,
+   "completion_tokens": 144,
+   "total_tokens": 613,
+   "cost": 0.002378,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002378,
+    "upstream_inference_prompt_cost": 0.000938,
+    "upstream_inference_completions_cost": 0.00144
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 112,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

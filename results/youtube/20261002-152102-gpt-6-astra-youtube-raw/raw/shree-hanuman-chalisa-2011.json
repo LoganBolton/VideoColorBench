@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954982-lQl2CL07ms93f85v1cEa",
+  "object": "chat.completion",
+  "created": 1790954982,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "The consistently warm brown and golden tones best match the devotional visuals of *Shree Hanuman Chalisa*.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Considering visual themes**\n\nI should think about the best guess for a color palette featuring shades of brown and gold, aiming for a uniform look that reflects the Hanuman Chalisa and evokes warm, static scenes typical of temples. Maybe I could explore incorporating other elements like colorful animations and strong visual shifts to create an engaging experience. It seems like there's a clear intention here, and I want to get it right for what I'm creating!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering visual themes**\n\nI should think about the best guess for a color palette featuring shades of brown and gold, aiming for a uniform look that reflects the Hanuman Chalisa and evokes warm, static scenes typical of temples. Maybe I could explore incorporating other elements like colorful animations and strong visual shifts to create an engaging experience. It seems like there's a clear intention here, and I want to get it right for what I'm creating!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv83qEc-SBFF7cVHawS57-j9-SU5iHmrqymIbwQ2URDsVr47i4Nsvlmt4213eXIuOKn0GITSJVAfloYdmkcaksDVhxmHKxZ0RO1zHrG3roq0xjnTbuy2YTg2rghU8rAmnmMUTXuTyxSW9Lc6On14dnTYkDEqpzqE5PK91pP5jlw9i7WqkXtMqZjAsqP1uEOOwFUV7yYUwoUUJV2o2ToZGQtruX7VwW2XzgQ1Cv3jyTXrkQY-gD719anq8SD8IKOslkWVOTuTGM1XutcCGLN50fYHd32_Q4fMfMjqClKoWjbtztMd1TcrXN-_hqSz8aGsuSQw2kUIH-L6KSaRHj_Dz_21dYU2sf2cgO9IDqriq3C4AUMDb6HDGd8tV7XrdD490RR9sTQRCU08A8QNO7HY5JLJxIbdn1hdG10Pey3fLDaBmi28EEUr8nnwh4k6m_HjoTSLPR1s2p7eVXny22sYaks-7zxIKPAct5SKxMr4SVaGDfgbAo4_LFshrzaCJg4ueyDoNpwE4pc8SZ2qYyUfP2qmbfOljx2b1RoPsOjLlNRRMmgyhuSCuifoEek5TMW1lWVW_Advc7NyeTDeKidFRaoBTYFWwa5bqGJCLXeYrQ4j2lJ1yNzEbZhfc7lgfJnjvbmT9VFxSEdIuwPYi1iN2wzeYZPySKM1NM3bz8XZ_8Fg7RxdssgI3XwkUeJwIBETWTD32xwpa6WUB0XHv4VXhxTZOLPoaa7AIIX6pfJpEk55MBMe9CAg0uGUlnKQZzzwA53KDQJyd-bDZEMUOkP6FI2y-FRudk98gOP3Rq0TyLhh_b4N09P7Hj1M-wLbZEa1lHlDzm541nNL0-uh6iArJdWWLMJmfUflM5LX5lhyHcvzisbqKcEycZ3w-pGTQh6L4UKPBxY4ZQEViOuvPYlLaZoiJp4dfeyaB-WrShwAyxUHToe92-2qSsnAvdDW4DFPzRi-x11czCH81F1N8IOIxRaQA6LO_Izk8XJ2ZWI1QZ0Qpkeebi7D2JVZKz6Hrkl1suoS9ctCy-wFW-6fgmlRz2E9wS2__wgsg8WoQQJ6NYl_swogT1dQdTngmx_8m3pO-cev_oQJNNC3enEspPf_ycSLIgFZB2Y4UvfXz8bl7R3EcfwfE__5fuMmTiRwf-bOTPcZ7LyDpqz8jVReFrJMjOMCi7v8pSAkKnvr0dYFQczgNTGSfzC-hV3TtTxnS-dY0_7wteK2kbrDsEGl21_vjZGwx3diE3oxNaS--3KXVO-wSygIMm3ExxNaN4w6hEOONtc146pjl8dKN_w70RinETuaDtuu_BN5hYrulQollzk_surUQdocSdowIsQm50JxSAATwV2ZRq9Izq86XIfkVXgNs3ZQXrq-egVaAgCnxOKoJMEfUSmvzG1pvh7Xz3yuh32u_KtZqnijXsP2FyC_GEOprjB6AkJKG6PVEc3EGpwkjjxKAj2HdPy6XLzwmJvUJzUAlKfQKkxahcITOVufBbJHzI9qUGnznEN3kUTL-MLWU9jlD4AZRlQeUp5hh3ozNOyDLjnVlELDRM3pEYlOjnXxb4Q==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03354b05c1e7aee3016abfcde8217487d1bc0cb1119b2e8f81",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 516,
+   "completion_tokens": 63,
+   "total_tokens": 579,
+   "cost": 0.00831,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00831,
+    "upstream_inference_prompt_cost": 0.00516,
+    "upstream_inference_completions_cost": 0.00315
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 32,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

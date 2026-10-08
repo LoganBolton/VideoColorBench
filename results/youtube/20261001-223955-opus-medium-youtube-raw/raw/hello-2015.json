@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894442-uw9UyvO8ou38M2uYIKyt",
+  "object": "chat.completion",
+  "created": 1790894442,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele's \"Hello.\" This is a judgement from the overall colour palette, not a confident identification.\n\nThe stripes are almost entirely muted olive, grey-green and dark sepia tones, with no bright or saturated colours anywhere. That fits \"Hello,\" which is graded in a desaturated, olive-sepia look with many dark scenes.\n\nThe closest alternative is OneRepublic's \"Counting Stars.\" Its basement scenes are also dim and greenish-brown, but I'd expect more warm amber from its lighting. Most of the other options would show brighter or more varied colours, and \"Perfect\" would look snowy white and blue.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes of these music videos\u2014Hello's sepia-brown warmth, Counting Stars' olive-greenish basement tones, and Perfect's cold snowy blue-white, trying to characterize each video's dominant visual mood.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes of these music videos\u2014Hello's sepia-brown warmth, Counting Stars' olive-greenish basement tones, and Perfect's cold snowy blue-white, trying to characterize each video's dominant visual mood.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS3wkKEAgSGAI4AUIIdGhpbmtpbmcSDOdjGQASE6CzEUow4hoMzTpFgfQ0xlJ4ELf2IjD3eMr+qF1bRORKX1u3i7m976WR5wEAf/NAD6q6JbtUa7uF2R/vXvAcfQ50dnCc5V0q/Ai//zIN5etxvQIXAR65Qfuh9weODdW1ENCgWX9wHiSgiWAUkcVy0swL+/wn0Rd79j2ooFBid3qCrQtGjavsd6yyKAWeOlr+NPIlCVz7Yx+nFP+jamvO+1ZEowv0usgk2OjbbjSbjq+GYwRWtlD/6pzQw23/o72PyI6MrOlVD+ujaqoBIenmny51FuStjVFfGiS4N46RdUGWT7BNzuZBKl8m/nJY9KowlNM8rRmR8I8Ph63ME1zER2BbzykFe9Zdr2cgRiIJM2zCh1RExwSKVmKg0XSnttY0ecTX9rSdP4YVypQjluBLS5UrOeX3pk4ktET+f0p2VEaN2gdB4tosL8iV5r5NKY87KeMV6AcSOqScOeiN2g3RiL5N34sNZ4Nu94YSeeJc8knaB8HXXZzTV0rFObn3PXINjh0ufU7JvyTyvgmqVCy4qChUF2lS5zA2pgQslz5oa0cOCRImLVyU+pIPTklYW1+YJnRcgkxv3fHlrE1NNmxY63oiqH9hVzC7smoTTG5AwW95wF7+1WM1tw3eYSFu159vdZz4a62OjznEYxVvqfslTNydPyvibWiNuoh3we7IakFe19suiXGycRoeWqwl5X2u/sf/b2+BapdVCUs5THhZFZp7zgxVl7+wLk4ZoD5MVwiRYLUxiJiJ81GhKMczYDn7xOCguUkK2LqlxfQ18ZIOc2SC1WsI35vP94lqdUExc4piS8PtTINpdU1UHflxyl2hG4WRaMA9Cbf8lRg8IN2eGE2fHrMVBfgRTObVWtcfHeqAJTby2AwwkGOGUoHU2PkN9Tj/Qkc7wcT3B5qBX0xd8xKVXOZhw9OzGR3JyN46RQ4aQuquidXQMBTR60rOdeAEO5OKlIGAVyPzo5pz8061sic++0GQNsj5/Ud0ikHmy8olx9YtBZAgQMKxTETFHVvMn1n8xzuDW8DQBDGCDRLkQD86i8LWA/AT2uRCy5COUxrHEmzv8AZ4903xp4MUjPp0t3eGIVVn1Dlu8OInxn9KbDOSd/pHNw+6ce5YDw24UF7mUbqilBTlwWvFzm6LLnw5KXViF5e8vphDjCSlb8ItQbz5DGOWwECl5efYAfvEdgSCfGHG6613qPomxFigG7t+WTpAZ0Xvxvf70gMmz9IrF70WLiPpDxLOYeBbvKgE0rn5RFNJLOYtcuxG8jl4wFB4i1pVGtwEwiOAyFIcQcYkhHbcNHYucZDL1CpsvH8XHm4yiYQEwFovXKNo1U2qZKeW4e7SpMFZu9j/fVPe2WzjrccZVxkqIlHCw0GitPVeYAMG0oEClXsTa1YU/l6j64DixsocPeV6f4JEQsEy4cLqzFWlhd4FBykcmra5kSwxmZeMAeik1nYasVxji4N+v1b443ntpk3rMuFIrdN5N1ycJ2f9yzAUPq+qQY2gMk+ZVC8BmQqT/XKUiDlB7bVH3F4ZLN0zIHtAycrE8yLkI+tdsxwA1jbfeFkvJx4uHax8OipRUNTKR1c0kaKkS8ZiIntW4geqMCk4JJGjQs5DeiHz4+QfxbBSZBgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 607,
+   "completion_tokens": 474,
+   "total_tokens": 1081,
+   "cost": 0.011908,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011908,
+    "upstream_inference_prompt_cost": 0.002428,
+    "upstream_inference_completions_cost": 0.00948
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 258,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

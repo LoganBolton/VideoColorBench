@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894282-Z7nlfb8ytEvSl3JeEAZX",
+  "object": "chat.completion",
+  "created": 1790894282,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Justin Bieber - What Do You Mean? (2015).\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDTZcJlZReunA9idDQKXv0SZzxSWkC0vmBGj1duXn-sslNME4a5WxZDVeAfJ88IZgzeETBTGqt_BrQTsur4Ig_lYcAHMWyeuuhHwGDIoPyNlTUupVoUmF2aymAw50mHDjajVxrHYjEGoBHrqUAtnK_NgpnfcFDqDLPHXVlSDcQP4bS3kxfcKdTiMH-3pYy8CJ-76Gs4W3cyC8eDvqmJzSydIquUfB7dFcgMGdFsoxzRjSiwT2ru56WsVIZiPP1JTl5lkNjiDsWCCpWjyP5NOFuArXGtm5eEYIk0yT1ipduGOoQTLMpLymrwluzHG0wyCUn3USpEzRVUA7-dU7ReM3dIrviA-JaperBPS47lXFvfbNaat0FTJcFlboze6dlY21yC_yaKfBPTE8vty6-tTwG4WE0GyRCssQPFPJJHuHxhhD_m2MZ_0r0EV7hcRqw8FcazPdcAU_piXm9w6TIuYcRlKpu2ywy_NIVsMdmheAVTKAUvbAZzPvy_v_PsC8mUKP7cS3fBc7fHJIUEAdBjqCF04bQmQ3rsKUmiUWAkCNkDYa2NxDjMkb2oARhGIj9d1xo2x0J2RhaH4KhJT9w2wUspz_TuikkJQZSgsSBz5CpoVrax0YJ4fiSwhiCtJ1s7aUHBH7Le-4DV_u7HMKxL-2fXve521rnydqlVHI_TIn7qYGBnhAon4fCH0pSw5wR-oHTGAoVH9Z9V49_ed7m0BqbSiOSycPVXopAQpnLO41LVsIW7OgRWpyFpTjiw1Cnow4neLwMUubCMLEaDz0P-BQKQTe_RCAPwt_DAOzJJ4QcL_uFxZnsHFmuchAnSydGd-HYqJxOjHcdrZErIH7t2hKu0sJw95Gw2mEJVyipJByEIP1VR0MuX1xk5SeyJy1V9fiSytbIJA3dxNayZMSiSf4SszeR8T6d1C_T50xrP-JTVVoEzG1aNewSril8DXSO3NEr8eBj1WCdTk0I65Vejei6ZlEEfFTOFfVib3dD4NL5-F0N-QFw03dnU1yUgOgDcCoRX-XjRGv5Fivr_powF00qlUn_XDl0vDy0ct94JibPKl8Z9Ibf4jMf2xypY_BMCtf-UmDa5pTu9Z51aptf0hRzizTD-FIGF1eGouRtTORXpf5373240v1kcXwqYjtlX-n_iZY0GLMA9z-nzeR8j9LjzRbFVB_XQFxxORfZo3bsl_LdJ-dY1OzZYGPnTkgXsoTAlybMU--Q4hs4L0npTtkt7FzWfErGjGdD0zrlXnlWdxW1z5Q5aaGlVJ6KhLBYy_NPgZrBZaAL0_OwTF0RLmk3JXk2d5njtBIBW1sfG25SVXpdVQEtD5c89lbxHLsn_J33fhwEMPaHdOi8g8Gw_A0k0LaD-Tc66-0AS7E02aCnzqrZ24dknhqyMO2JWxYkTLzXNLXnsdvpcBhPuYDkgJmRG17O__X2rxWdhAL-Kzk-ohJVF6Cgm1lnuZkwmLwnoD9bzr0q4HbFEnbeyeJcw__lL04NXokF8H9_nEuJTz1VRrsouGWA6NT5nLc3S6fdXOUzF6WSOKBT_4YSjEqO6xq4y5tJRrBRxxY-W3kcELDjTDhptbaQXp-fbLwX_ISaQwlXi0Z2EcHzoqFvm5Fgzg9kKGGqIDlYEK33JdvpXbIfsBPLK-SUNyvQRa5GIYVTa-fFwuH3o2f0Tnss-Fh9veg5uxIT9E2yqHY-rpl3aL9umAHagFE21irqJo-aNyIxw5bKuXfqEiu060aW4Xnh_ZkuQKtWmHqKpedKbd1mo1PkkCVKPdRITyYy7pon-O8d8UYExQ-ezcB5Zin0NDpa2nbjqOZBWl57FGlu22xlf2LnCeIFxmfh6Z_I6bLdDZjix3q9-4otnyN02n-FEgvQUoy23Uq5iiwn1PVFFMx0oB0DOFQiKIz-Uo6uwYvgg7dEKSyKT7LKFMZUUUk7oCgJ_P6_NGtrwHjU8Zy3Czpca-q1bVAnIgZP3K1NoQhEu8etbwfS0hPxy7qRErTCwcw4_B1AjWjR1grQ7cfATEdfVoVb8YKMY2J61SzABpd2j8x55pjWDCk84Rr2J98QSrX6H1GA3t8VwYdu8GmuD5oHSvXY7pQ2fCWeF5q4-BJ0oMsNsXKpFbQPj6N1q4J-7zoioqbdFzSOTvRC4cI7_cX3WlhjYaDzJeVQfqZvJVdXj7__6D6yzX5hXPReA-xAcOvW4e30SLmgSvhW2coVXjijo7YQ6oSVskyWBuNx--490T8-n9Z-tCJATz3zYhprbfm0CIiqbSJvmdmOlSzuU2xTd4m52eT7mjGXNQtwymh_7Cn18eTe-i5QTkq7aXywra1jo2qTCs1ZtWJRE1e_nk52QrBdY2Tp3asgjMBG_cxb6ztvXXRfTCpjTPsofhGTeXZklgh6Vn9FjB37F9ZpEdoPyRtAJg54oKov4_D-fxOWtKWdgKCTmy8oLhWoOaFYd4l3rv1L9wmzveXxNBizXV8nFFD-jGB9bP4VyLbQYY80RI6gasRZxIg3-G0SVpWq9DFOKLhr55hymb5MA-M1yY-xNZN_LjK1B3j-exWbaJIPT5EwVMNvTrUhw_uAbVgoTNe7_1ZUMt-YDs1zoIpOh3Y9Hh8CLcNyo4vE0_41hWC8poVSs8Zzp5exVqLinNbgOhTFdH23D9x4FHm2a8PjcE2ZfrsR_ays=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0924459bb3fbba85016abee0cca37887d1a073afcc5d2f7db6",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 224,
+   "total_tokens": 696,
+   "cost": 0.003184,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003184,
+    "upstream_inference_prompt_cost": 0.000944,
+    "upstream_inference_completions_cost": 0.00224
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 199,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

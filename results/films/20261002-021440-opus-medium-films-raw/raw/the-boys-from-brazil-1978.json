@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907303-VrNxAbbNoH5Dv5C6fbwE",
+  "object": "chat.completion",
+  "created": 1790907303,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, judged only from the overall color palette.\n\nThe barcode is dominated by muted, earthy browns, olive greens and grays, with a pale blue-gray stretch in the middle and almost no saturated color. That desaturated, warm-earthy look is typical of late-1970s film stock and production design. It fits *The Boys from Brazil* (1978), which moves between Paraguay, Vienna and rural settings. *Detachment* (2011) is also desaturated, but I would expect it to look cooler and more gray-teal. *Sophie's Choice* would likely skew warmer and more amber.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "The muted browns and greens with that gritty, desaturated look suggest a 70s film palette, pointing toward something like Boys from Brazil rather than Detachment's grayer tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The muted browns and greens with that gritty, desaturated look suggest a 70s film palette, pointing toward something like Boys from Brazil rather than Detachment's grayer tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSyQgKEAgSGAI4AUIIdGhpbmtpbmcSDM7roT1JCyEYSiN+9BoMMWSTMJgpddyA921pIjDbGi/ntnLrJhQdHYPqPls2jhNHWtrnNke1Al11Tp7bOX54zkk/jfVpa1Z8a0mwO0Aq5gcUwZdM3rNpI7xWjzDotrWsQuXAYDgIcKu76sNU1AhjzdKMyWxY46GLimmFzZFtMKQD9+A7S+zvOFcB7HnWSGPNsXQCAwLurtvZa2mPhJtBDZbogcMwCTlU6y8yXL6ze5uGjvDQtV7JtMB6ca8Qs1J+m8wK7LTxZ5M5qgOElQUuswyiTtfuj9fcFAN0DakwwvEwLNACBGviANee97Z6FucpUVPgZoEnwAWXuydDEf0dwR/xdYGzYfkE0FMOkbU7TrCf+rg/6Au+FE7g0V2slvVO63T1AS/+JZdONcL8HavpKwoIukWBJm46ftxh2oXb2BdN8A03O5b69HNL5UZaajwhVuU5rkyK3QfyLcd8Yv0ed0yML7GLmVKjuej7NVULWb5PjtgX1fA2m6WFnOf1l6S40Ta6+ewkd3b9Wkr7D4K5ylYqCzQhNWvD+7n598US77huaY5yNPA/6UFxNS6uIdjzSyCVSg9HrX7ZoUsS0pCnqTqfCxNq3PsaCAUshWv5wT5ChkbySTz7raLiYSSrY0J5qgBHKmxoc/YjIEKiELLZdMdyxX8rvBxvPoC2X5tQBU8eFlLw5/jDcTLqhoeybQ929H9Kg+obE2VCSM0VMQaCGNo90pIYRrDWelEuXX2yiz3n4vprddkN+kBb6yt3U5BhXKYSUwp0zQIv7UvbphG1nAwpwNnqX89YuPHU5HFZasjmoEQzKwrvcj5i7mYYz8jyF6zczYzwFXpff3o9R8Mz6kKa4mU6uOIu/qEXtDyux6Th5KQo78+pK6UskAAvVJpw9xKCNpvJAwneCy4RqyahltaRIelKfiYlbggI5vlhEBYgJv/ll+0aBgSd8yP57q3eyxsbVIAkwl4lDfx8nu+oPPVxu8+Iyh8+KAKgLIst1d7SoLCWuHIDqMUe/X35xMZ4kTqeqC8WLcX7P1c4Ow21VXaUQ3dpA3a3z0Y+J9kfFdokQgr9Cn9RDN5ADyQpZJxcAyU7cnnNDXDMehPDQukgn7Qu8VXSpX9U5pB1XnVZ8VvCpbjtFiZb9cgxMFO6igI0xdflEsH4xXSRWXUdhiKUXkPn8xkV21PFCuho5geJloheHpEa5jW7nhoYui3kD7uTGJ7YXC/+E4Jga1duRLmLghHS+esB79GDxQb85pCHd1LHy0+ezscsQCiyOqt0XfmEPGe9jnznv9ZTEL/Deffhw3RbQuWiSR8XeCgwteyRmSEluUQQok4RWtviKzogU8T48XF1CrWNrscQpXIiREBKdDnY4t7ZcrkK1rR6vFMeChkn+Kx44O6deR3VZM0e3rKTiOF9AJNTYrF/PGt6b1iRIHjtRt18RxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 522,
+   "completion_tokens": 412,
+   "total_tokens": 934,
+   "cost": 0.010328,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010328,
+    "upstream_inference_prompt_cost": 0.002088,
+    "upstream_inference_completions_cost": 0.00824
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 208,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

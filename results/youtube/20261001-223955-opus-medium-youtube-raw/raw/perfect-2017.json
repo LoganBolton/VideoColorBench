@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894475-PBzFcR7icj4IeFP5bEsu",
+  "object": "chat.completion",
+  "created": 1790894475,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Ed Sheeran \u2013 Perfect**, based on how the color sequence lines up with that video's scenes:\n\n- **Opening section (muted grays, pale blues, whites):** This fits the daytime snowy mountain and ski-resort scenes at the start of the video.\n- **Middle section (dark reds and warm browns):** This matches the indoor evening scenes, such as the cozy bar or lodge with warm lighting.\n- **Closing section (very dark navy and black):** This suits the final nighttime scene of the couple dancing outdoors in the snow.\n\nOf the alternatives, Adele's \"Hello\" was the closest contender, but its sepia, desaturated look would likely give a more uniform barcode than this one.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "Thinking about the color patterns across these barcodes \u2014 Perfect seems to move from snowy white/blue-gray tones into darker red-brown bar and party scenes at night, while Hello leans into a desaturated sepia grayscale with warm undertones throughout.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking about the color patterns across these barcodes \u2014 Perfect seems to move from snowy white/blue-gray tones into darker red-brown bar and party scenes at night, while Hello leans into a desaturated sepia grayscale with warm undertones throughout.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSpAkKEAgSGAI4AUIIdGhpbmtpbmcSDM05prWR40tN3yEMUBoMpFOh/NJTb5x9FCaZIjDZihAsYI9pRRTsmUNt2og1hVEOUMtyUYcFtQ88kUZLNqcpzWrDnlZHlYnLI955S4QqwQjriJjX1vnGW14ZYe1tU9ZCqP6ELsVc/FLU2VyqkJZKpvsz6XCT5QbQLwIc/ktD9eSpdYg0I5UjxlKFhfvnasT+MATpn6jFNFjUEhRaSb/2T2QS1FkckNylzchrN78rLs/LVHTCsJO45GtTP2Qu1KBEo79+g17gFR0/OTafvPKDYQWu80UqbMAPoqGCjKo6SzfS36dQ1AXiDGrEF2TkaCmuGdLwzeOkQviKHxS1/RnYuNlH6ffHSXpRuiNY1iKyh3Ol+cplFKJWiKCUny80xI1kO32xTdPEcU2495g8x/oVmKc3vTonARFjlgGxJvZLf7Pp1f/cwfcC/lwND8L3qVwxkzStYzbfLC4jtq2r9toC7LIMhhmFthtlEUwC8stpXwAn5MTsyRAUuGHdaD+rDp1hcRKPzmKcfd3+b8pCQXeQgy1TsY75TZK/Yjx0eWQ3GCfu9UE2vcnFe/lY71mg+xZpf5UH9NquQWSeJ7bk9Qx0Ts2Ogmr4okQmtxKadZwDycNU1JLcKQE2QGaAFkgbSgAEn22o6kiUv4kwbI2fFQfG0DPxHAtqURquDIKDCllKSeQBim+TIUqPOXwSSAhUDybH8mLg7zJmyvKsqvMKeyiC+WBL8aBEHTAG9GGyzdieNwG8peWsoyEBH4Lc4THc/aDKzZsEGgJc9CLapZnEYINfJcym37SxPsj1KqEMXmvfvBerrILoNTX4ISH2Jw0q6arOJwehUpe2fg0lyEQLm3Nd1d2MC6l1ndyFg6buCpmkvZjpNlW48wCsLMtZD3R4mFeuhWoU3tL+RWmIK+G6WFPud8SFTNmonWbZb4cP6GhiKz9mkgNbYoet3q5kIQ+92UdB6dbaohQRxx6wgv3++hZg1NY5ew078f+ySSHOM7nVLTkfbj6YVwOHo/TIj8yXXBIJvHkjrjw774SIIFGLbOMjhI1DML+LgEpU9dtonsfevzV0/phaVHPlUk3ILUSByFmEQu49zGAJKbXUY1Fm5qwrZDkD4CVY8H3P0yK56oFLvNaCc9tyhTBG7+yeAR6FdQORT+fP/y4uAdPWsr6ml1vLWQRyWEqxcJTgtXoQzCGLz0POSi7y+Gbz5zWE5AnGv5zmN6J2GFZ3AoY3TYdDH1m1mjhiuxl7SlaaEMj71FosVGZ/o0bNcvXW1dPAsmD0BggzGzU/WcEO/+1n8OM3G+ecCQG9XWwKiSgRm04hVYE2gkL1cASSNPNOuC4gi45lo5Gx7zJLaRrfZl9o8g+mS7XmOJJUQdbcLLEUsG2DGVs+8QusZXJpNM63FkXIBfAMPKKQBLv61JW3eJvW/H2V4mffU8QBkke0vZ2HhRVQQ8PmXj2FGde0B3s8Rb0ma4JZe/LozY+k9oHl62bbNmEFP00dBNyrMrWKxcrOO8VfWQIHn+45R4VFKg7FvC40idAk34vCDcxEmrNMjiNTVqXUWrqKllEYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 618,
+   "completion_tokens": 489,
+   "total_tokens": 1107,
+   "cost": 0.012252,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012252,
+    "upstream_inference_prompt_cost": 0.002472,
+    "upstream_inference_completions_cost": 0.00978
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 243,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

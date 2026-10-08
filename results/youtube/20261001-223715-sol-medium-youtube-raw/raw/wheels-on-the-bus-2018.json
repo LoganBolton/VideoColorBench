@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894350-me0sxeThZLQqR8ecmItW",
+  "object": "chat.completion",
+  "created": 1790894350,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is A, based on the earthy forest colors and the white section at the end.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEUunZL8JG5lAshdp4D3ODLV5h35eLKxtVn4sYgCKOiaryS27f0MT4IT776ILBNwq6TXI3pcav5mIqoJpiJsM40HErkArFIg1IcRdl-GyjhmgdT5L_6MpM6CrjnAGnMiNqSfjIkqVXTxjCbVGhErkqzJwZ1UtrhOrS7Wy_0MDsFp4Wg2lofxmuwUXW-KjLLF-HmKf0DvhN2WXgY2W_FLMfSN_0xtvmIS4NX-Kbh7zw1PV8ThnqUY919HgHExwioUOWHzcq8ylBJkoV-DcHNsyF7yIQco2bcuyUBbtuFNMIa_bkFmv9hZfXX8TbcjXgcLrDrax6mJLHL4LZb6xLguj33s8-XrBc5Th5pJiH7tc46qEk4T3wiR5DTVU8dhEBAo_VU4V_vQKKwyaFN-llahtULBMUdaA5ls2aU-xpv_MdaNk20CifwN8xVOQf1Ri4UDaCRibesStWTZtvFePmmDg6yUwCMCgmGg4SGWnQTzg_nmWyQlwU_-sqrW86I1PQ16aMDU8YvoPsBHrBJLYmK0bmyZlOO7X0T8wojkQeWmXefj86PyNXrrECj5Tdd-9qKpMftRjUuWcL8QA5--iyQNtYMWjtoE6Bkgdz2kCFviUjhYGft9vFjKN6hZs9I-dmbaBM-iKcDUkIlLms1NoDM399g8qZMD_fnT3HgoJDjLYmKL_xjelTjWL4jkqJywoym8gJcpiaNfk6DasgyJQ_AGBINP0AkdZP0lAJq5K0ehVc_HWkJTP3SopSSfDKAgi-bNOwJg-JJbWhsVfVp7cSkAoZ9Fz7r6iMEQ0Kl4Okw07RMmhusMpjovzedpbzHT9tOL9XVd0GMbVdewpGW9lKKNmpRBMfuQAIW7AKcpFhI2gXs5nkdn6DZ0ueHJifvSX3qPWOYvJ3Tq2GnP8TCO-l9uuZL2GgJpqlJ4ozx9gMVVqJYxhBqsNnfc7ZUkDRNaB26jsJsaxcO6awu2wmaF4cTQJ5q9DtTyvPv1g3R5Vx9kM_Tef_t3Thw49M-24IhfUeEgbe7zwSGw1hn08U2tRyrJ8xEKCyTw57fvMxzuqd3lzwSPH8WsPZb-Xt3qUBqlZrcrIRluQwSVGtm2YTEL5b1z5RbTF0hcQ0QZT-Iq81GmixI5ZspsLtCHsU6Ktx4eJyd0AyF0JYgYkXK-rUQKJqYObnxSM59Zl7_-CAJc3kwxSTfcl08_AgA8F00bRa9aN4i4ZUGfwrgJHPpPX7UVPAvafCqSc6lfDkqu1MZesMJFZFWDzAQHl1p_TmjEkMhlwl-3uyPgXWcM3Ta1ClyylVMuP2aU3RsjHSZpAMZ3czSkLrp-9oAXLRC9xg6TMR419VwWxK_sh-GLVVXm47_4X5dIpTc1xBW5NRCZarWLGipOVd03mG0Sl2zOJudKT9mcu0Z4-zX6HVdZhl9uPjzQ2gmdVNwVyLLwL2pX2EPIf0FmqZDp7SMRspGSHh49WZ2Y8kd-h2M3MAmnYhtc01DtVzbP3ZIRVMACmSYs_4XqeBVDohwWJOn0kjx4LmXEEPZry5pi7M_LYU30SjBhA3ICWTcDlhB0iCurflOBZ6_35L9QQcomH5VPOhSjJwsfEl3aUbeJxkorkWnIPkOtqP8eqESoWAaKaxY1N2M3OhjWArlDkXzCnu30D3mpTghxa4JQj3PGW3ViU_XnVFglF0Q1BW50O2AnOep0DDeTA-UIXOXJL78t7VflzocyIffBDSKZ5c9g_3izD_sDXysedxnP0TzlwItiMopAWoQSDCIQ1GuIuvGkfcRpLXi9ffI_x4Ie-8wK5bep0oE4zNPAWo1s7LduQytBMANxc6yWEJ7Rl7FcbjQIzZrd3zBwmdgqpwsL-_BdbfRBiLLgufNEacqde_Y0O8sOgSMVi6gzx8zB-Mtvfd5CC7RG-kPfIeqFDudkZ7HuD7Rk3H4Z_VR3q9sbzbsGKvShjLguopIj9_c4tD0YvZNNkCV1626IHBQCo_VKn81lOtvTmZnhDnjUEWIOYbQWE9WDzegkkj2kil8cxHn0DLv7OY89Icsx9xpL1A3YxyRFP5stDNkOSYsQ0uQiWMWcLzZAtjseBCyZtzxLMrnBFRNKkMM-nsefNYU6D_F15TuHqVx5XJkV_TEsNvdVz914bubWGyKBgQcqx0RJ8XlWy_l5SMsSDokFE2F1Uj_ujIaBBKs_vYF4wfOKVa2f7bfjFAqBg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_00410b9433989c04016abee1107ca487d188bc425910668a05",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 509,
+   "completion_tokens": 160,
+   "total_tokens": 669,
+   "cost": 0.002618,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002618,
+    "upstream_inference_prompt_cost": 0.001018,
+    "upstream_inference_completions_cost": 0.0016
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 131,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

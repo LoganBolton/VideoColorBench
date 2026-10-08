@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-XwUz4uQNP3xC8ew7FUWD",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. The barcode is entirely grayscale, which points to one of the black-and-white films. That leaves All Quiet on the Western Front, Metropolis, His Girl Friday, The Lady Vanishes, The 39 Steps or The Passion of Joan of Arc.\n\n- **Ruled out:** *The Passion of Joan of Arc* is known for its stark white backgrounds, so its barcode would look much lighter than this.\n- **Pattern in the image:** The stripes are mostly mid-gray, with a lighter stretch around the middle and a noticeably darker run in the second half.\n- **Why Metropolis:** That darker run would fit its later sequences, such as the flooding of the underground workers' city.\n\nSeveral of the other films could produce a similar pattern, so I can't rule them out with confidence.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm considering which black-and-white film this grayscale image could represent\u2014weighing options like Metropolis, Passion of Joan of Arc, and His Girl Friday based on brightness and tonal patterns in the barcode, though it's difficult to pin down definitively.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering which black-and-white film this grayscale image could represent\u2014weighing options like Metropolis, Passion of Joan of Arc, and His Girl Friday based on brightness and tonal patterns in the barcode, though it's difficult to pin down definitively.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 546,
+   "completion_tokens": 686,
+   "total_tokens": 1232,
+   "cost": 0.015904,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015904,
+    "upstream_inference_prompt_cost": 0.002184,
+    "upstream_inference_completions_cost": 0.01372
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 411,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

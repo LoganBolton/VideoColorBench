@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907368-D3Kq7L41dDmgx121rzQu",
+  "object": "chat.completion",
+  "created": 1790907368,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The barcode is dominated by muted olive, brown and gray tones, with darker sections and a warm brown band near the end. That earthy, desaturated palette best matches eXistenZ (1999), with its trout farm, gas station and restaurant settings. Prospect would likely show more forest green and haze, and Automata leans more sepia-orange. This is a best guess from the colour palette, not a confident identification.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Comparing the color palette against candidate films\u2014the muted browns and greens suggest eXistenZ with its earthy trout farm and gas station scenes, versus Automata's sepia tones or Prospect's forested green haze. The warm brown stripe near the end tips me toward eXistenZ as my guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Comparing the color palette against candidate films\u2014the muted browns and greens suggest eXistenZ with its earthy trout farm and gas station scenes, versus Automata's sepia tones or Prospect's forested green haze. The warm brown stripe near the end tips me toward eXistenZ as my guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6QcKEAgSGAI4AUIIdGhpbmtpbmcSDH4vIfq8iEc6YZWnDRoMUs1Bu9PCTPgr2MmtIjB7qofwHsuv5Ab89/5Mjtl++Zgz/fU2YhdZB4Y9WPnCB71hOQkseVe2dKWRwEMmaiEqhgeZ0q4Dw3jfI/CUF73OQBCIgn8ETEoBOTF2WFIKvwF6gOt70XfrDCkB5lGDldexpuYzMGimcW+OmHwGIXMFrRSu//D74Nz3aAr3AOo+iSWV8jwmtu6kQOQvvOSjMRsIN79Nsryt8aIJV2Z3fZjFRnwHwlUsjBZ3/yNtaFAHC45UtPTDenrmGMHJleVmUC4uC4XLjiKt7zxdXgLOCx2D1Btkgv9/CNqOGIPG5DZTlJ6EI/BkUVBMPV3fuP7lTtt7yxK8C5r4bDMGhRVZ/uOwvrXY0K4qj7uHDKDH6/K1xA1cclBIRn2x3EuVbZpw2djfOtTlPKzTtbOQ2sQqh+vfD6bCKRX5fpGF37Fwz/ZY3Xz0mgdA4uqZpvH/mJRk/HQvwtru77gEOBcBOHzl8FtKqjREdliYiUrbMN1WwJvJRUCs/zdPVshWJtqBaWjfVi1XrImeOTu5PN4dUPb2UUMrPI0yp4UITEmRRZtvK+d1zQCmOMjayIFt0uKT0UuQVvsyjy0F+U0pKfiCxYfJPyCAZpS3y0RpXWPU1sH3OCpqx1vqnyKmwsJ3VZgEWouvzpGM/VZxEh/qU581SPTCdrEdDfN+gEgLTfnk39rxZEjbNFbKCBznmtwZcrEDgo1W6aBA2VDSA/IdU3jwbTNV2eTJUrlZQu8Wo+1FnpbgwF3xXMeXYfj2e/qVNnZpcYz+hm31uNKJ0jFOUk0XbvbNV7dZ8w39HiiYmR5QzsGqqy0yaFa2y0hEpgLIUzyZgXcHtn2Z3DAcowhw1/0kQI8YwpgGO7N25wvFOtI3uvIpb3bFKARjnstEGbgRxZ6kV+WuHOAKBQ+u6u7UH/ecGqaoZg1EvvSXh3/J8wvxTdPvD2mGrzRWnpeyUf5LR4cvLlz+0nehJuaq/T9G9dGrFkBitLKBrP4UWF8b07/P6MDI2Mka92oVFFBEKgLvDywpHPCgq93PlvUxXgQ/j+ECvd7wDxu716kEkKYxu7C0xhPWXuSyB4IODfJG2PjwHrHhCfxcyK7HYfYoep1+uenlNbRuNL1pB0GfZa2FDcIu7HIb6Xdv/fXxq0UtWHRJcsWJcVG6bZrq3HQJbrHXvfrBAx1l74sMlm+le36kIPZ2VhbqTMF8mEMnsKMzGqi2JHjTUco6quf7dKwg2RW/FvsV1dpVCSngZCaJz6HyvymaivdLOm7vOFJcIZJWuW+x3xgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 514,
+   "completion_tokens": 297,
+   "total_tokens": 811,
+   "cost": 0.007996,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007996,
+    "upstream_inference_prompt_cost": 0.002056,
+    "upstream_inference_completions_cost": 0.00594
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 159,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

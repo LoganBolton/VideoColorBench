@@ -1,0 +1,21 @@
+{
+  "slug": "x-equis-2018",
+  "title": "X (Equis)",
+  "artist": "Nicky Jam x J Balvin",
+  "year": 2018,
+  "label": "Nicky Jam x J Balvin - X (Equis) (2018)",
+  "hex": "#565282",
+  "rgb": [
+    86,
+    82,
+    130
+  ],
+  "frames_sampled": 192,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "_I_D_8Z4sJE",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

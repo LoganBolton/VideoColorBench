@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907300-c7tVAzXPlgMzizDFiWez",
+  "object": "chat.completion",
+  "created": 1790907300,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Black Christmas (1974)**, though this is an inference from the color palette, not a certain identification.\n\n- **Dark, muted overall:** The barcode is mostly dark interiors and night scenes. That fits a horror film set largely inside a sorority house at night.\n- **Warm accents:** Scattered pinks, mauves and reds fit the festive Christmas d\u00e9cor and lamp-lit rooms.\n- **No sustained greenery:** The jungle, forest and lakeside films (*Fitzcarraldo*, *Prospect*, *On Golden Pond*) would show long green or bright outdoor stretches. So would the summer-camp *Sleepaway Camp*. None of those appear here.\n- **Teal band near the end:** This could be a blue-lit nighttime or police sequence late in the film. It doesn't strongly confirm any option.\n\nThe main alternatives are *Dark Star* and *eXistenZ*, which also have dark, muted palettes. *eXistenZ* tends more toward browns and greens, and *Dark Star*'s spaceship interiors would likely look different. I can't rule either out.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm trying to match the color palette described\u2014dark, muted mauve and red tones with a teal section near the end\u2014against films I know, weighing options like Black Christmas, eXistenZ, Dark Star, Sleepaway Camp, Fitzcarraldo, On Golden Pond, Prospect, and Manos based on their likely visual tones.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the color palette described\u2014dark, muted mauve and red tones with a teal section near the end\u2014against films I know, weighing options like Black Christmas, eXistenZ, Dark Star, Sleepaway Camp, Fitzcarraldo, On Golden Pond, Prospect, and Manos based on their likely visual tones.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSswsKEAgSGAI4AUIIdGhpbmtpbmcSDFTT9AbatWHvwAsJqxoMZQT5USSPkep5WkaDIjA1HCJA8inzjhrQZwebPm4ISdlmlOdSU3q0r9DeIC1M06rEAMIOtD7k6CYayTXmW4sq0Aq6fkRzAFsJPPXPN6i4+oqMVgvhiqBpcHgQPfGUruExk6SLbDi/d5wHpZGql9pO0C246bYDeUHV0VJ1xb+lMoFIOFwhlHHno3WLGCBzAGeHYo26Nw53iS/s81zLkpkWBHYZZBin0gTDAbJaMpTa/5JjlQg/1f2l1jqo/zs52FbZgUOh+j4zqm+mB9ERr0qwymKzam7z3jscs77suhmLLo8+RToJC6huORwFBbJqBPtUrbQBjfY+Hlx9hL3ThRcac2AFvLK/GQ5/L/ZQxYq7NFqZC+oQUQsTgKbtlL3ihLKhCvfYo4L9mj3yXon92idHWpDnDzevbdmw5KBQ2n1eEK9r3BR1D1XahHoxReqbnbQDmWsK28UBs3SiRkYHmMOqZ3Ry/LJTpbufF3ImaZ6ZE3b5/TJqZcmiVGilznlwMRF0W9LRm2Xhl7PCpf24bvwaPbxfZJUQnSsjnn/RhWS9F/iL9R3jLD/t34gZVswB07LF2BwIRBbxbOIUA5HY6JAVab6+CpU87lMy9X3HL5zzTsnd1jiMCpFSTgBBFAzZrJo6eYnkgKyI6ivQ4/M395ZDSVX9C/mJmbaFQGYbS+Km33WkeqrsFBwB3xRF3SG6cPhQOhQnzy9d6JRDtKbgUTKZYPCrWOQT/rMBzfXFb7l0po/p2hN2sxwMBZr0sscGUp/D3mWZBe2jdP7kAX20n7pE2XPEPAQARaRqM0s0+oDWG292fDs82PpNPzW1xOUfn6u9PmqIeKWCsiBZ9ZdbSOW5N523Fvs2pgAr+97O0ahnB1msunCQP11GjQiLgZYAyEx5SfAZxT1JzDnFrpuvtGUtvvN6y7GByf4FLIxBQ9V5ApnIAH1X2F9IWJXRxBRluGMhv8atTqay39DQJ61vVP7ODcIGnpkMOFMRhvwOxWIGneVqT8NsthqbgC833T2WhIuVgJteTK8Q6qgJ+PwYBawSZtXTBcuqw4hac6+1mCLWeOLuHH5X3QaPcuYBojZaQ6OW15VNwjzNgEn1sfuT0HGvOoFirBxYpGcmi7c9s3D5JI6G/Oq9NNiE58nGPNlYbdLT/Xj7J85ScMjGYtHplc+PnvM1NM6cRl/LTdi46YDA/yvhv895xwQZHkfYUxn3zZeKvl2H5UYW+CxVH0z/8I0HxEFF+DiNDYMwFVDFgvoEjrQENWpLPcw9AmDEPISiag9aGmrSPS8YIRGL8Ql2gEHF7BBteZX7fHApEkHCZDY5ME9ECJLmT3OgZ7h40/zuOOAbv7w2K5cODqzcDXQtOAq2Nao7+sy6YB8SfiGgiHm/R1YVD2fW6OxTi1oGQYXN8IUnMJuz4QS3eA00pl9j2+rZHCzryKceBiOJKcePgAlY2VkKS/CxW1Y3fLGaqJHmTJugTjydKDuZfYnLCum7yQTBugWJSrzg+FHYcgIfOUI6lhtx0LmLFDZgXSQ5PMQNc147TUWGmK0yHWZixS462KlxAeDngGPvlsv3GJ82sl2Hd9ZC26cYVsb8DeRQEH3r6SGX9U//89JEDGrQKo1WJk+7y9yP5Iy1M7XsWZxwYmUvTMuWfY8V7v2aIA3QiOFkLArYDqQ1yvwf39G1UCw1639usqFWZjDgMXjv6v4uuGbA/P4nPlOiQRrzZUuvwGZKog/yp++yZn71tpPNWJNzDvef3yIM7QVw0XdRP/Yw/ZKW2Xdd8rUwDPcyq0kJGEHZzD6s+PmAXHf4YkH1mr/iNdrOT6o/TkxLfZl3XsWFw6y2HuhYsXEhJI74BVJQoXyOJQAtFk0Ak12qMYNXloLGSNBkUINLfT4NPPIX6G5Q91EJTkhtGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 710,
+   "total_tokens": 1237,
+   "cost": 0.016308,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.016308,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.0142
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 334,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894428-FHdr1Il5U2gJbHuJmqj4",
+  "object": "chat.completion",
+  "created": 1790894428,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripes are mostly soft pink and mauve, with some muted gray-blue and teal ones mixed in. That pastel palette best matches the candy-colored set of Meghan Trainor's \"All About That Bass.\" This is a judgment from the overall colours rather than a certain identification.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The pink/mauve and gray-blue tones remind me of Meghan Trainor's \"All About That Bass\" with its pastel pink, mint, and blue backgrounds \u2014 that matches pastel pink best, so I'll go with answer B.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The pink/mauve and gray-blue tones remind me of Meghan Trainor's \"All About That Bass\" with its pastel pink, mint, and blue backgrounds \u2014 that matches pastel pink best, so I'll go with answer B.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS8QUKEAgSGAI4AUIIdGhpbmtpbmcSDPUTcIaj+a2hZ1K5BRoMbQVExPq/9tXI7cfgIjCdei5iaW2W1bwhaeU/rZygM7LseMzJq25ymNoWHzlbbsnyK0iyLFcx6OcbKLy/4hkqjgV5HK1LwPOhxCygXs6iWIRpterA4J6sUaA4BDszYmSsOnD3cYAu+CMJ1Url4iIUHnIWrvr0egV/YSuyz0wTKxQaqU3X7epAf22NRGNRdJ5HBVMF5X8vUwKIy6QlH/RoJuklzH2+iZ2ImZQPeqpK3l6VsCJa/KigYGqIiQLTor8kQxG+tD+fdY8E22IpHWHYF8jlLBZzzWsvettE60rdlN/SPzryaYLChfGon0qFnzTyyDMHQDbY+X4By3XslcC8Vi13/EmT7sMk8zZcJDFwbq2WMm0gKDrePZMhhvwe9Q4Pc1V4LNrxjPvEez/PLDULGiWsByO9/4ko5VzkAzStLsAvu8MDNOM897riS4QArXYHGP9kHxMR7CZXbBHBlt8CExGNJ5CIAnn6xi/rv329pvyVDuOKWum2OPIk/lvRwYHLRaTu7xjzLULj3e9NLrj72oImmBGKv/80bf4A6jL1pKDzA8h5x37obz4iymGFYPEIdUhez8OVfv02Ev4w42Z8Ast9F6RgxzSDbuespt8cEtIepmJU0+/UIcO6SqNgcNxfBGj8pKrE4HuxddAhmee/5eIMNBw4OkAPsZEYGnuAvmxtgc/UEo+QUv+hS+nC3t0DwLlbGIUvMqQqVKtzwNwk2IqaoH08so5nR1ctNP00LVuHhpjzH5zsdRWOXFS5guL/s/zaqk4rJ9Z8WU+vlPniCWswQio6PiJC8fujhsaWfjb5BzuGA7wxYjJr1NWXeY32QXytNz6pQNVbn35q1W17Hkvhil30VXFhtGQm9A3jHud0PwnnO26/M/Qn1AAnoxWIDijlWKMdlyOvwGFAK4L0zPz7nopZ46zeur77FxPEEjXoYxvTvRbtCeQfYQZUZ9EYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 650,
+   "completion_tokens": 167,
+   "total_tokens": 817,
+   "cost": 0.00594,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00594,
+    "upstream_inference_prompt_cost": 0.0026,
+    "upstream_inference_completions_cost": 0.00334
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 68,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "villains-2019",
+  "title": "Villains",
+  "artist": null,
+  "year": 2019,
+  "label": "Villains (2019)",
+  "hex": "#2C271F",
+  "rgb": [
+    44,
+    39,
+    31
+  ],
+  "frames_sampled": 5386,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "dfFh_e_miEY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

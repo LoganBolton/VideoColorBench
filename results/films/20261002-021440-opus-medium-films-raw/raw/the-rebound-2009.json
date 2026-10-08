@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907338-IY33Sjy8kgYvLvcykupV",
+  "object": "chat.completion",
+  "created": 1790907338,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; the barcode doesn't clearly identify one film. I'm leaning toward **Take Me Home Tonight (2011)**:\n\n- **Mostly dark, warm palette:** Nearly the whole barcode is dark brown with some reddish tones. That fits a movie set almost entirely at night, around parties and interiors.\n- **Lighter bands near the end:** The lighter tan and teal stripes before the black credits could be a shift toward dawn or daylight late in the story.\n- **Ruling out others:** *Transsiberian* would likely show snowy whites and pale blues. *Leaves of Grass* would probably have more outdoor greens.\n- **Main alternative:** *Paris, Je T'aime* is possible because the barcode has distinct blocks of color. Its separate short films would likely produce more pronounced contrasts, including brighter daylight segments.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "I'm comparing the barcode's dark brown and reddish tones against films like Transsiberian, Paris Je T'aime, and Take Me Home Tonight, trying to match the color pattern to something with distinct segmented scenes rather than a uniform palette.\n\nGiven the teal and blue patches late in the barcode that could suggest dawn lighting against mostly warm night-party tones, I'm leaning toward Take Me Home Tonight over Paris Je T'aime's more varied anthology structure.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the barcode's dark brown and reddish tones against films like Transsiberian, Paris Je T'aime, and Take Me Home Tonight, trying to match the color pattern to something with distinct segmented scenes rather than a uniform palette.\n\nGiven the teal and blue patches late in the barcode that could suggest dawn lighting against mostly warm night-party tones, I'm leaning toward Take Me Home Tonight over Paris Je T'aime's more varied anthology structure.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 536,
+   "completion_tokens": 861,
+   "total_tokens": 1397,
+   "cost": 0.019364,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.019364,
+    "upstream_inference_prompt_cost": 0.002144,
+    "upstream_inference_completions_cost": 0.01722
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 566,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

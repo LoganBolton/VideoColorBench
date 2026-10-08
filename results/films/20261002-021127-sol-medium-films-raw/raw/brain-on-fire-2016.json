@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907230-fUmgGOEFcomqVmqT1Byk",
+  "object": "chat.completion",
+  "created": 1790907230,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *I, Frankenstein (2014)*, given the consistently dark, cool blue-gray palette.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing scene brightness**\n\nI'm noticing that the duration of the scenes doesn't seem to matter much. They all appear to have a muted gray luminance of 50-100, with very little brightness over 130. The supernatural night action in \"I Frankenstein\" really stands out as the strongest element. It's interesting how \"Haunting Ct\" uses sepia flashbacks at 25% and 77%, providing a warm tone in the middle bright home scene. The ending fire should definitely show some warm brown too! I think I prefer \"I Frankenstein\" for this.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing scene brightness**\n\nI'm noticing that the duration of the scenes doesn't seem to matter much. They all appear to have a muted gray luminance of 50-100, with very little brightness over 130. The supernatural night action in \"I Frankenstein\" really stands out as the strongest element. It's interesting how \"Haunting Ct\" uses sepia flashbacks at 25% and 77%, providing a warm tone in the middle bright home scene. The ending fire should definitely show some warm brown too! I think I prefer \"I Frankenstein\" for this.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNyhE9l7IoKq9mFjorlYGJ4vLvwj07ABqBvhph0ssTEq_PAxHbgcZJat6PGNgycbnXH2QEoc5k_OnpTzHWxOytBrJvdbrtzykMKx5EAmLR3dwc6S0o-OkJkErEpVOfVf2_MXv_9LbxokXxryU-HlYx1wo7eR3TomKVV0HpVIr0f6G_QssgCC_ObR_zyQbLEFWhnsPrVi9DHiPNmjLW3hEASBkMKZfwrxkq8oIVZVc0pppIyt8d5TFGhBqd6ksCspPvOmOzOXDRL4gkSqWIJOHFjppYoVdK3x982x_-A8W6yFIi0eqjQFWk27GzhMxoXZZEwhWFNsY1s0GB0OiyZBdpBelgcHZVN9pRhSUW8OWgaOJosGghE_SuNBlL3WEP9NArpetN4ulpK1A2ihIZfxmZlpXk2YEX3IFl6buft-Q9pmpENf80mDa7w1xR4EVFI3cycDrNBd0I1N0Z_kbXIJ_Yv7j8ib-pd23KJnuJPf2SjySICwd6BLSlcuWeswSPPlf7JFhJ1_KA4Lyy8U30hriiabSMRkVWuOu2_8eabHbJlU6Y_JMUXG_qf8sf9WQBLTFBoGQgRfMiB3H9MDW8gabFiQYYOq3jlp7aad3kWzWwrM1bjgprYSxomkXrb5ZdtigwRdwjvJca3_qcAB6QUfzPosDsylPDsQRguv8koLwXtS663vl07HXaCBMeZfJzJ5V0Fuu3Z86VNcUtu1OS0VE_5dqBo-GtL_i98pxBo-3SJahMH3AsO1aC6X4tjeIULGdOh6ZTqPnvRL7kV7WFR7z2wYwjQcRpbuTkqy5MSPY_wioSwbi9FPLFpKpk2fegMfd0zjWdRAThUWKE5-GoUFf8KBwGAFQi_cKvh1IQQxNNIfIfoc9KNy3-zqJWPYxdQzyE1gIOWbRZpFLJHyW6ZQo1C9LyZOjEUx5QOoPvOTZhdbE7fCEGqowVWHV611KCYtwTyJzFwF2LIVr2PVV68033basm4-0tZyerjiWAcS5On4-cYgM3OpNkIG_vgWZ2ZfIXAJ875IxZtDd_GQZl1mjRi4xWiUvHpf59FFOL33WHkDajjjmWUrM0nAKGPMwaGdwmsSUGTEwwoCvF-4v77jB3FOUrEF-_OHeTYgBqF8gL28B0pjUObIJBzvAo7jh-Yc1HMKxy28-y2FEAGTrZwv-ftjDAYA0055wzN0vn_Ojgqty-2JZPCLwud-OP7-pQm-poP5nxUkJCEWINt2IIB6MQL0uaArYWKGgxwCCBfVxHla4UJ9uT23TZXK2lz2jtRXV6db4cgezjE7OLipnTLcZFBsrzR4va6Z7NVsTOFuMAGbq1s5qaABHJMGA4NUabNiGgHzu-jz2YHfDPKxY5_X1np2ikAANl1txmMDFCog0blXQRBo2RS8_DoJ86QVm2ADC9e_VFrmSMQW21eJvhTFkNkUPjyZoMByNtX9qLNe5gk3YEBWIeuow-tQGMYvy94UW7FXIdk-xuwGXOaMOo4OpQwjJtxIECqafrruqQdUhvUmWfjm9Lw71Mfvv02Fzz3wOY5UPZtAEDbYIJg6YZ5NtMLs_1UeQqNRzWZ4VpQV6jlGd7UmHYzlw4dOOe7TTmY-SnRKMN7fd71dY2_wFyGvxue-qNGj3fXjxwkEYqaghB1YZZqBfCEQjzCCHvVT2UCIuEvGxUSYmy7acijvxGyM77fhd6ygg-VGLSL337dGj5tK_kJLnCIJ7Unwuqw1kkRuXRN1OCZyHo6B9upfaoCJOnNUujcJsGfC1eN01YMWKz66CkfvlWSE6gmSgaEdgp-CRhd6couW552dO_MQ02D96f3zt41C4Rjm81E_ytZysS3ID8N0DcC4zq-AmtexduInNXnPn6Szt_Wsfre6UaXaefgqhpgEy1bZPlGy5_xuHd8V-em-U1dgNEY7RVsvDXYHMylT7ieCsCqpv83G815wIY4FbzSPFAbRF56bjn4X53ppyOHLe4iFzLKwhVdu3EpmwB_3BusDXVGTqKXRUX5D75rmbDT1LFjh9G3ipQVQqu1SJShGWP9RXpMJojYEZlIRq5rLpC7hox-6ta1NEPrHUtIpCw6JsqhfiGtNoaw99n05q5iJ5pKPZMfn3KHvWuh3YZLZtvLN3aBCm1fqOoRXUSerw-hbtO7JskquP_z4LBCEkQhyeRPOpcaxmcfdHtBwMZZguJYF3xLi9LhSmpamlVWkJ8S29epE26sF24hRLsU2urCUcouA0OrTcjUrV6OFX-OHCLMpmq5wXGQpTdofRzF-OiqBVFfnxhZ-r2Ek2bAmydNY0EKybCf4YobrIZiDAU-7PDTHIOHq5BuL4gXfCOVbP7QjHcBuAHv947wg3RGE9KNCAvPKLfxg1kTXDl11kQ_rE3rGDfpe_jt7ArArC-kptxTxunNSUy6AdlCs2h8TwK9E__s76rWhalMnXpncoa8v50OHXfWk5HLAQriWraBZjoPKSg6GNsqOI28J5iTryNYJAmJ__typQu_-9FKy4HWb5cE5-sBcNCgAgFYM9kBsXrVH8BEDJ0BRgrPZkA1QbYZZIsqDBCLHWnXW4kZF4Mh0OSZLf7ycACYxZ9M-OPQ_5k9TWC1yNHztpL4ZmdIhCUw5uhOd1HY1fqvA4geExH0HPBmudDRT3kKad08hpBjx8BpOjmGwjm39hVSe1cXceSL7UZe8bCshp_lC9-eBcpz8PPCntnpjhf0IlqdqYPc47NYU9zBZTLGQL7BMaUYovBhDXMmjLkuQwOYIkqRruH7NpAhx2J6iMAS8M8wVjCJOXdWUmco5KMCG1SkfTJI0gpMdrzGspqs6Uw98cn6qdvRKLcg2BEMOm85E8M6VGE19j_pZfyPJKUVFZWmDE7Aq7MuRdOqDpmix8oS56qr51nnMg3zh8fxszLNOHuNH_3XOKvKEIs7ouvVF8ks-k8odMOV76ED4tbxTo0E2gC74bFSSht_fIIGSJ7UnD-Bjvwx5eW8RAl6CO-4S0FEK5lAJ6mcq3nRFEUG_SBdx--Gs9lWzN69sRSHi2C0gF9vZDHzt3xTXManpgmAhCPHB6GXmH8X8UIniCxQ5epuwPx7j_152aH0MG20Zy0ePItNiuQT5zzpucrRkeJQIR916-0gYWZ7r-AbHI8euR4_J7YRu-F15oVgyfNHtl4qE0fGdIEEaxoZkD_UnUGRqz1FjB5Yz9b8BS3YswKqYxRpOOaqlELQZ9g-OHcIcVQDh4F3sLC-_68zAtgVZZRWCMOz30dld3PTChwM_WIg8YEzGIwOwRZOj2tZDIwFPL1mgPJrixCzKmESTc5ttpy1NBeZ8WpbpqYKe7Kg6RANU6ERDcIgu-fspGMOtEOaJkd7z6QgzhjdcAbYUk4EF93pgB07_x0nbjKpXsCWUKvf-I0JAnHPxfCOSbG-rgcsGSTjcvBrqQ3sbpZI1F8-WhjbTNW8im1oW7zOqYqLa6uIAWr4Ni2yGn9KSSfls9ho5c7fJTqRXTbWYe_Ahihjt2vzhxJH20KiWmrnXmHKevso-L5VEEDQhu26zgitVtbHbX5-83Bzpc3z9-RRqNbTZXpBwAwuALbRCNJBbiIjpARrFcayhMeGocLRG-igNX9AL7drnwtEyHsDexI3Zcf-lLTEKH_UiMDCIeYTK2dOigvXAV77PewtIAmkO9jgCQnMl6YdwVT3XZDL5czYvWzAAYHRWlSgZDVuJGx-YofiQqp008HHTZJa1hF7-vd8pGyM_Hw6PDalvlHsQTLUP60u56sLk6-MEHM2mM2zQOpxLNhRPz4JO1tb4N14jO_mI4Rg7-nvM74j9wCUmIuebrSOLlnOUUNxMJHNDRlHLnKTWIzzf_LyXlbtW_bwS9UdKIWr35wgg5ipK98_A4qxTf5kdIIF7RmQwuMqASFNSfZVuKRn8Ds8lXopy0hmJDnwcLDNGj3wpscyBRSwsVuqaxsnUdxemiUTu3RAQJzCehdG5YqklrUjAOCSndycXyuy43Pl9hGXsp--qIB2WnJOOYLGOhGXeCaEGZHdFr2PAx8T5oAkPhjjmuzU1YJrvL6pvjDGjAXMsMACtQ9CI5HRoJFc-rQSE5Hzwrvy6t95mdodD2g6-W9Iu8ig0wlOkmFxdWPGRrP0x3TjzMQJoKVYt4LSAv7bDkSuJhHV7ec=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ec3e144b0c7f85c016abf1363af5887d1bdd55fd70fc52103",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 431,
+   "completion_tokens": 523,
+   "total_tokens": 954,
+   "cost": 0.006092,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.006092,
+    "upstream_inference_prompt_cost": 0.000862,
+    "upstream_inference_completions_cost": 0.00523
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 491,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

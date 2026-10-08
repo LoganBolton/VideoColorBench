@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894477-a9QFzys9Yt3Q2NtsaR0H",
+  "object": "chat.completion",
+  "created": 1790894477,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, not a confident identification. The barcode is mostly dark, muted grays, browns and blue-grays, with a run of dark greens near the end. That subdued, grayish-sepia palette fits the dim, abandoned-room look of Adele's \"Rolling in the Deep\" video better than the brighter or more colorful videos on the list. I can't tie the green section at the end to a specific scene. \"Treat You Better\" and \"Let Her Go\" are also dark videos and remain plausible alternatives.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "I'm recalling the color palettes of several music videos \u2014 Adele's warm sepia tones, Rolling in the Deep's dark grayish abandoned house with powder and water glasses, Passenger's dark theater setting, Rihanna's varied darkness, and Shawn Mendes' rainy, dark mood.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm recalling the color palettes of several music videos \u2014 Adele's warm sepia tones, Rolling in the Deep's dark grayish abandoned house with powder and water glasses, Passenger's dark theater setting, Rihanna's varied darkness, and Shawn Mendes' rainy, dark mood.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS5gkKEAgSGAI4AUIIdGhpbmtpbmcSDO64dMmMtFyKArKYlBoMrzNclgghiDCcnvSsIjDkKyNdZ9H3OeFYVehvVUgFe8Hd436Ov/Z7FjWzbP3SZvaWTxbfE8aFjfMi9G7vv3sqgwnNE1+IhH76pss96qCG7tdGj0Kf3z+CquUHa/mh/lyEhTpSnM+eHKKDvNZBzCXcVARYzelhyMB2PkOqwO7LrCx4xPmRKmYh8rsHR8LlF8gT9ereWnECvxKp0HMe7Uc6DremFdVk6fG6cE9B5D2u+qxf/4m6+b9I9eZZ9BVsqg3ahKXwEA3+wLKT8MR6Nns+tqOLuHuSS6sEi/mYehO0S3HyQigMgTvh0Tf6FUi63WKAZQXB11NUIOueYL3mrshxI7+d9txsa3y6uHRFJpZHjboeqeEh2D3H1nCHUsXRdufkFF4rdVfLtJarnD1nwq5523qU0Uf7DsgEW9mIijNPLStXq7SfgJbtNwx1EIKbensLHUH/ZX/CDBGnRAzVANnyWluhJxAlt9W5DKrxlKoGeUNsg20tOjA+sgrWEv7twzs0+DYpkVT0p5FYcx35Z0XFDpRbc+HbaBCI0Xt7EcgGZYuUCcW6Frb8wM2jjqRFQxTQVLQb5KGYUxN2Lxz/v78TVK+bHrHSsmpJgSLxiQCl50CDJlKB61k/fcjSwiVoLdqD0Yt+iKF7ABUr53lDma9tmLeL11bMOKCIvoiE+sZ8c7oKzooyLRYjXAp2AtcEzzYBxDjq8ri9SLynC1lr4GAViBpzLczLmSWmmJqkYmGK3+m5SIQQGSmh/NHY0IRbUOjjjKK2LnlMAISuJurWrvX8q3fFqXd9yDcbl/pNXL7gDLanQm/bpkAUUVEjmkrssSMm23uYNgUzZfFM3r3kXzZZMucYTqBF/pUI4BgfeEo6FBBAPvUTsSQvA8lXPZNhSOMf6jQB2ODwdyf4dWapsvfj0z4wJlnAjr69Isxr1/RcT0mg40fDrpXmqswDiJA8HddT96pMdMmj7sK1hdV2xg49KmKrL3lUz+X6rQFDS7EEY9F+Oj/ymsB2Z7PQRk1S1z9e4HmYnHfZUiV7zdERthwGanEU6v0XyJ1PbtzdDFnIHLd1LG6HMERzn7RdJc2JX5q5Vix5LWOmdLaGYO5A2VRUsCDj4bCo2Z3Ykb7bApyYKq3Y53Gs8hAuz/Q8u75IF6s7VoI1D50Cxy6deYAPyyk6YMjHq+w7S7GyleqLUAY2IazloongXtHlX+njzkvb7js3vcK9BykrGFTvgFFD+nhhaO2BNWH/u5+S+95t8IprDLDjEu/dV6sPVaWQYdJ4wJPTohk8x2FzCZtCcFy4P1JbThCp8/rMcMy2V7766p811U7SWvGb3UBQitGX7bVvL/vzoopxWM6OhjqVTPGj+jOtRPqA7NWWWx6isB5GZ+hII+olH+ECdvgKN4XSYNAs3vnRgz9rmBR1Qgl65j1XWGxObC9dfA9RG5waMXQBm9dfq47To8Vdb5xLARXffiMv8fW/o3bq7kgryC4cOmH3FtR/eqc0jwYhdTMwNPKdiWbi1smOipdJv1qThQ3qhfOVz6qlQvgTi/GaHkJMU82jmzKLgXAG5l83pihUOXYsOgm66R5270iHnJkSlcaL7VrRIwrbNWOIUSpDqY5FVpL1pz1s3jagLeoYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 606,
+   "completion_tokens": 439,
+   "total_tokens": 1045,
+   "cost": 0.011204,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011204,
+    "upstream_inference_prompt_cost": 0.002424,
+    "upstream_inference_completions_cost": 0.00878
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 267,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

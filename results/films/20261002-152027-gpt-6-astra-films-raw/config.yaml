@@ -1,0 +1,6 @@
+name: gpt-6-astra-films-raw
+mode: raw
+dataset: films
+model: openai/gpt-6-astra
+reasoning_effort: medium
+concurrency: 2

@@ -1,0 +1,65 @@
+{
+ "request": {
+  "model": "qwen/qwen3.8-27b",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790924121-762zpFH3c8GXLVfYDEhZ",
+  "object": "chat.completion",
+  "created": 1790924121,
+  "model": "qwen/qwen3.8-27b",
+  "provider": "AkashML",
+  "system_fingerprint": null,
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "\n\nLooking at the color sequence, the entire timeline is dominated by muted, warm, sepia\u2011toned browns, tans, and beiges, with occasional darker brown bands and no cool (blue/teal/green) or highly saturated (bright orange/pink/white) frames. That consistent vintage, golden\u2011brown color grading is the signature look of Bruno Mars' *Just the Way You Are* video (the warm\u2011toned house, car, and beach scenes), rather than the bright/pastel looks of *Baby* or *The Lazy Song*, the fiery orange/green of *Roar*, the red/dark moody tones of *Starboy*, or the sunset\u2011white palette of *Se\u00f1orita*.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The user wants me to identify a YouTube video based on a sequence of vertical stripes, each representing a few seconds of the video's average color. The image shows a series of vertical stripes in warm, earthy tones - lots of browns, tans, beiges, and some darker brown/maroon tones. There are also some black edges on the far left and far right.\n\nLet me think about the color palette. The dominant colors are warm browns, tans, and beige tones, with some darker brown strips scattered throughout. This suggests a video with warm, earthy, maybe desert or vintage-toned visuals.\n\nLet me consider the options:\n\nA. Katy Perry - Dark Horse (2014) - This video has a lot of dark, dramatic scenes, gold, and some brown/earthy tones (the \"Egyptian\" theme, the horse, etc.). Actually Dark Horse has a lot of golden/desert tones and some dark scenes.\n\nB. Bruno Mars - The Lazy Song (2011) - This is a bright, colorful video with the beach, the house, lots of saturated colors. Not matching the muted browns.\n\nC. The Weeknd - Starboy (2016) - This video has dark, moody tones, reds, oranges (fire), and the iconic red jacket. Some warm tones but also a lot of dark/red.\n\nD. MAGIC! - Rude (2013) - Bright, colorful, lots of white/bright backgrounds, people dancing. Not matching.\n\nE. Charlie Puth - Attention (2017) - This has a more modern, urban look, some warm tones but also cooler.\n\nF. Justin Bieber - Baby (2010) - Bright, beach, pastel colors. Not matching.\n\nG. Meghan Trainor - All About That Bass (2014) - Colorful, varied.\n\nH. Shawn Mendes & Camila Cabello - Se\u00f1orita (2019) - This video has a lot of warm, golden, sunset tones, white suits, beach, but also some cooler tones. Hmm.\n\nI. Bruno Mars - Just the Way You Are (2010) - This video is famous for its warm, vintage, sepia-toned look with the house, the beach, the retro aesthetic. Lots of warm browns, tans, beiges! This matches very well. The video has a consistent warm, golden-brown, vintage color grading.\n\nJ. Katy Perry - Roar (2013) - This video has lots of orange/amber tones (the campfire, the \"roaring\" theme), some dark forest.\n\nLet me look more carefully at the stripe pattern. The image is dominated by tan/beige with vertical darker brown stripes. There's a notable dark brown strip in the middle-left area. The overall impression is warm, muted, earthy.\n\n\"Just the Way You Are\" by Bruno Mars has a very distinctive warm, sepia, golden color palette throughout. The video features a house, a beach, a retro diner, all with warm golden light. That matches the tan/beige/brown palette extremely well.\n\nLet me consider \"Se\u00f1orita\" - it has sunset golden tones and white, but also some pinkish and cooler tones.\n\nLet me consider \"Dark Horse\" - it has gold and dark tones, the horse, the desert. Could be.\n\nHmm, the stripes look quite uniform in warm tan with occasional darker brown. The \"Just the Way You Are\" video is known for its consistent warm golden/sepia grading. I'll lean toward I.\n\nBut let me look at the structure: there are black bars on far left and far right - that's just the video's aspect ratio or letterboxing maybe, or the start/end.\n\nLet me think about the number of stripes and the rhythm. Hard to count precisely.\n\nLet me think about \"Just the Way You Are\" duration ~4 minutes. The stripes each a few seconds. The video has scenes: house interior (warm wood), car, beach, etc. The colors would be warm browns and tans. Yes.\n\nAlternatively \"Se\u00f1orita\" also warm. But Se\u00f1orita has a lot of bright white (white suits, white background scenes) and bright sunset oranges/pinks. The stripes here don't show bright white or bright pink; they're all muted tan/brown.\n\n\"Just the Way You Are\" color grading is quite muted warm sepia. I think I is the best.\n\nLet me double check \"The Lazy Song\" - it's bright and colorful with greens, blues, reds. Not matching.\n\n\"Rude\" - bright. Not.\n\n\"Baby\" - bright beach. Not.\n\n\"Roar\" - has orange fire and dark green forest; would show more orange and green. The stripes here have no green.\n\n\"Starboy\" - has red and dark; would show reds. Not.\n\n\"Attention\" - has some warm but also cool urban.\n\nSo between Dark Horse, Se\u00f1orita, and Just the Way You Are.\n\nDark Horse: the video has a lot of gold and dark, plus some teal? The \"Egyptian\" theme has gold and dark blue/teal. The stripes here have no teal/blue. So probably not.\n\nSe\u00f1orita: sunset oranges and pinks and whites. The stripes are more brown/tan than orange/pink.\n\nJust the Way You Are: warm sepia brown/tan. This matches best.\n\nThus I'll answer I.\n\nI'm fairly confident. The muted warm brown/tan palette with vertical darker brown accents strongly suggests the vintage sepia look of Just the Way You Are.\n\nFinal answer: I.\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to identify a YouTube video based on a sequence of vertical stripes, each representing a few seconds of the video's average color. The image shows a series of vertical stripes in warm, earthy tones - lots of browns, tans, beiges, and some darker brown/maroon tones. There are also some black edges on the far left and far right.\n\nLet me think about the color palette. The dominant colors are warm browns, tans, and beige tones, with some darker brown strips scattered throughout. This suggests a video with warm, earthy, maybe desert or vintage-toned visuals.\n\nLet me consider the options:\n\nA. Katy Perry - Dark Horse (2014) - This video has a lot of dark, dramatic scenes, gold, and some brown/earthy tones (the \"Egyptian\" theme, the horse, etc.). Actually Dark Horse has a lot of golden/desert tones and some dark scenes.\n\nB. Bruno Mars - The Lazy Song (2011) - This is a bright, colorful video with the beach, the house, lots of saturated colors. Not matching the muted browns.\n\nC. The Weeknd - Starboy (2016) - This video has dark, moody tones, reds, oranges (fire), and the iconic red jacket. Some warm tones but also a lot of dark/red.\n\nD. MAGIC! - Rude (2013) - Bright, colorful, lots of white/bright backgrounds, people dancing. Not matching.\n\nE. Charlie Puth - Attention (2017) - This has a more modern, urban look, some warm tones but also cooler.\n\nF. Justin Bieber - Baby (2010) - Bright, beach, pastel colors. Not matching.\n\nG. Meghan Trainor - All About That Bass (2014) - Colorful, varied.\n\nH. Shawn Mendes & Camila Cabello - Se\u00f1orita (2019) - This video has a lot of warm, golden, sunset tones, white suits, beach, but also some cooler tones. Hmm.\n\nI. Bruno Mars - Just the Way You Are (2010) - This video is famous for its warm, vintage, sepia-toned look with the house, the beach, the retro aesthetic. Lots of warm browns, tans, beiges! This matches very well. The video has a consistent warm, golden-brown, vintage color grading.\n\nJ. Katy Perry - Roar (2013) - This video has lots of orange/amber tones (the campfire, the \"roaring\" theme), some dark forest.\n\nLet me look more carefully at the stripe pattern. The image is dominated by tan/beige with vertical darker brown stripes. There's a notable dark brown strip in the middle-left area. The overall impression is warm, muted, earthy.\n\n\"Just the Way You Are\" by Bruno Mars has a very distinctive warm, sepia, golden color palette throughout. The video features a house, a beach, a retro diner, all with warm golden light. That matches the tan/beige/brown palette extremely well.\n\nLet me consider \"Se\u00f1orita\" - it has sunset golden tones and white, but also some pinkish and cooler tones.\n\nLet me consider \"Dark Horse\" - it has gold and dark tones, the horse, the desert. Could be.\n\nHmm, the stripes look quite uniform in warm tan with occasional darker brown. The \"Just the Way You Are\" video is known for its consistent warm golden/sepia grading. I'll lean toward I.\n\nBut let me look at the structure: there are black bars on far left and far right - that's just the video's aspect ratio or letterboxing maybe, or the start/end.\n\nLet me think about the number of stripes and the rhythm. Hard to count precisely.\n\nLet me think about \"Just the Way You Are\" duration ~4 minutes. The stripes each a few seconds. The video has scenes: house interior (warm wood), car, beach, etc. The colors would be warm browns and tans. Yes.\n\nAlternatively \"Se\u00f1orita\" also warm. But Se\u00f1orita has a lot of bright white (white suits, white background scenes) and bright sunset oranges/pinks. The stripes here don't show bright white or bright pink; they're all muted tan/brown.\n\n\"Just the Way You Are\" color grading is quite muted warm sepia. I think I is the best.\n\nLet me double check \"The Lazy Song\" - it's bright and colorful with greens, blues, reds. Not matching.\n\n\"Rude\" - bright. Not.\n\n\"Baby\" - bright beach. Not.\n\n\"Roar\" - has orange fire and dark green forest; would show more orange and green. The stripes here have no green.\n\n\"Starboy\" - has red and dark; would show reds. Not.\n\n\"Attention\" - has some warm but also cool urban.\n\nSo between Dark Horse, Se\u00f1orita, and Just the Way You Are.\n\nDark Horse: the video has a lot of gold and dark, plus some teal? The \"Egyptian\" theme has gold and dark blue/teal. The stripes here have no teal/blue. So probably not.\n\nSe\u00f1orita: sunset oranges and pinks and whites. The stripes are more brown/tan than orange/pink.\n\nJust the Way You Are: warm sepia brown/tan. This matches best.\n\nThus I'll answer I.\n\nI'm fairly confident. The muted warm brown/tan palette with vertical darker brown accents strongly suggests the vintage sepia look of Just the Way You Are.\n\nFinal answer: I.\n",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 435,
+   "completion_tokens": 1368,
+   "total_tokens": 1803,
+   "cost": 0.0025258635,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0025258635,
+    "upstream_inference_prompt_cost": 8.80875e-05,
+    "upstream_inference_completions_cost": 0.002437776
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 1209,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

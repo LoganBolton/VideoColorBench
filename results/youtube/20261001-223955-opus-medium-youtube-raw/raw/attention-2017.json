@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894466-tP04V2JxKUW05ysAj9rC",
+  "object": "chat.completion",
+  "created": 1790894466,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The stripe pattern points most plausibly to **Ellie Goulding \u2013 Love Me Like You Do**, though this is a best guess rather than a confident identification.\n\n- **First part:** The video is mostly dark, with flashes of purple, deep blue and orange. That fits the performance shots of Ellie Goulding singing in the dark under coloured lights.\n- **Later part:** A stretch of cool greys and pale blues appears. That fits the cool-toned clips from the Fifty Shades of Grey film that are cut into the video.\n\n**Why I ruled out the other strong candidates:**\n- **Adele's Hello** is mostly warm sepia rather than blue-grey.\n- **Ed Sheeran's Perfect** opens with bright snowy scenes and ends at night, which is the reverse of this pattern.\n- **Charlie Puth's Attention** stays dark throughout, without a pale grey section.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm considering whether the color progression matches Ed Sheeran's \"Perfect,\" which moves from bright snowy scenes to a dark nighttime party, but the order here seems reversed\u2014dark transitioning to light. I'm also weighing Charlie Puth's \"Attention\" as a possible match given its nighttime imagery.\n\nThen I check Justin Bieber's \"What Do You Mean,\" which stays dark with blue tones throughout. Ellie Goulding's \"Love Me Like You Do\" seems more promising\u2014it intercuts colorful stage lighting with grey-toned Fifty Shades footage, which could explain the shift from vivid to muted hues. Adele's \"Hello\" doesn't fit since it's mostly sepia rather than blue. I'm leaning toward Love Me Like You Do as my answer.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering whether the color progression matches Ed Sheeran's \"Perfect,\" which moves from bright snowy scenes to a dark nighttime party, but the order here seems reversed\u2014dark transitioning to light. I'm also weighing Charlie Puth's \"Attention\" as a possible match given its nighttime imagery.\n\nThen I check Justin Bieber's \"What Do You Mean,\" which stays dark with blue tones throughout. Ellie Goulding's \"Love Me Like You Do\" seems more promising\u2014it intercuts colorful stage lighting with grey-toned Fifty Shades footage, which could explain the shift from vivid to muted hues. Adele's \"Hello\" doesn't fit since it's mostly sepia rather than blue. I'm leaning toward Love Me Like You Do as my answer.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 619,
+   "completion_tokens": 746,
+   "total_tokens": 1365,
+   "cost": 0.017396,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.017396,
+    "upstream_inference_prompt_cost": 0.002476,
+    "upstream_inference_completions_cost": 0.01492
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 443,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

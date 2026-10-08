@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907358-akAqihkObF4znssWnrVw",
+  "object": "chat.completion",
+  "created": 1790907358,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour palette and the ending; I can't identify the film with certainty.\n\n- **Long dark ending:** The black section at the end is roughly 8\u20139% of the strip. That suggests long modern end credits, which points away from the older films (The Eagle Has Landed, Zulu).\n- **Muted colours:** The stripes are mostly desaturated olive, brown and dusty grey-blue, with dark stretches. That fits a gritty, earthy western.\n- **Ruling out others:** Zulu would likely show brighter orange and yellow skies. Little Boy would probably look warmer and more sepia. Leaves of Grass would probably be greener.\n\nJane Got a Gun (2015) fits this palette best among the modern options.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted olive, brown, and greenish palette to specific films \u2014 considering The Eagle Has Landed for its WWII grey-green village setting, while ruling out Zulu's warmer sky tones and noting Jane Got a Gun and Little Boy as other possibilities with different color signatures. The long black credits segment near the end suggests a more modern production.\n\nGiven that long end-credits stretch is too lengthy for a 1976 film, I'm leaning toward a modern title instead. Jane Got a Gun fits best with its desaturated olive and brown western palette, so I'll settle on that.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted olive, brown, and greenish palette to specific films \u2014 considering The Eagle Has Landed for its WWII grey-green village setting, while ruling out Zulu's warmer sky tones and noting Jane Got a Gun and Little Boy as other possibilities with different color signatures. The long black credits segment near the end suggests a more modern production.\n\nGiven that long end-credits stretch is too lengthy for a 1976 film, I'm leaning toward a modern title instead. Jane Got a Gun fits best with its desaturated olive and brown western palette, so I'll settle on that.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS6goKEAgSGAI4AUIIdGhpbmtpbmcSDNMQRbUbDEqhRetJTxoMSaJYr8ym3aHAP5GXIjAr4PSardGcHpjO973rwp9aUe/pcObaMrqxiYNUDS+22bs11QVNrV0gZOtGyM8nCOsqhwp3b2lB5+N1WVKIBM4Oyb5DoQ3e1BlgOYlet+OTj7OCMnEczwMGIwNXNsH6EvAIM12xqLtufUB4jQm4kJ40ODCjPMUsJ1/L9iINQHqHe0JV+cSkG5WsOu+pR4p8EWiThdaQFzfGzMBIOpR2EYUmFiNXtjB+47mQAEYMQ5MjUHk6wa++b+NV4qvpm0hRfDzLNxAzS/1SP7+R2ahTCEaKCnlRo2NnQPKgpw/QgM+g1DKP0HxUwHmOnePhSNiWXr4itx7GEXEow+hQ+DqDSFKqsUJvsOqsJHfRCAwQS0xRFPTfcG6oXj/qMWemyWE2HIl5OgLZpbwR/d9QijJ3aX2gYTEWvYnl9GPkErFv2PKVOWGIXfzeaDz3XKP8A150XZaTu6as5WbYTEkLfV0olcwy3z47aVcmWFjQh9y6E1N9x0ceROCBtm82Wph5/GH9eomvdRdURpJHkxHahB7B9HFpY8IgClCBp1vPfQR3XD6zebtk9GnqhPUABhghBDxA9GicrX3CFjPbgS5P8l+zQmRtqhdozPSliFLYSqRlfJkUEwHhsjWD8sAeaWSzZbBzQ/8YsXSv57LwmKPGC1L10JFt9Ksh1L93L7inSYdcOViQ2QRY2qDk6fu7UKvdlgBktitk6ctVbylG18tCMNOBaklnCQOdsN6L4VVVk2yrS4dcVEN8wmk90ZvxEV9VcE6SgTDFL2KynaxfYmp6zS6+SMsdMCQeKYR2DiH+FcWZ2HA7XbyiFUQ92UQZ5/gsmsZvkwgNoQo/1hlb4GUovoDSKa7vd03rEFJmVpWJq1H/+3mEx1hQCEd2wukvJwvWxki1lfmvEIsAhD7xcT9nTDletye4LaP+syxu75ZL4KOMZmSaO6unk1bBoR2NQQSChP/HEXaJ4vtW/exmTTGXMLsoD9PpYQ+D3IwC1wmPcoM1Zr5LKUglRPLcPnQfg6Hx6rjfIyEGInu5HEJXqxE5u8zgOBA+rKq0+9jjXhlyeU0juC2UwdynOPC7ON4nSNNYL5FLgVj0xkQ4G7T3DbQPaNxD+4sfnLLgHgZ1qtL9SbKLxOZywi+IQozj4ny5kmeqdJqfSmfMjjVvN8+ES+q2nEFB8qHHHFpvmQut9uss1F4Kp+8gJQxEPnuFFka+jfTYFeoKn5wlPmi1ruHjjKjJuXJ7VBvSTnXU6CZ7SYZpNC04UQe3BZZ8Ticv2msoyvZTZp2y+QzmHZ3I1UiAPrs7+E7V7qSeGM0RJHGr6zcBFy6wQcdCP0i3zqJfQ8QugZsrOFgj7APbi37K0dvWur9jUFSnes3EAfdZkTPcNUnA2ED9PgPeLJAIoZErepxmAxvQ5b0fdfzELbg8PEOIM+hxwAIMZb8Tfl9NWiQfA6eyG7fxYtlYTxPf4kEcQAJev5Dbn4hpAv6BFhDXyIYqXrrUWZfKcDPKpYcW+qPMmPQJ07LzpM5r6tt/3AccCXt70ypx+VLpJmY5FWy+mNKR5lA2Xu1yIJPjd8Ppd0ovO7L2vtQSun+aEHhAhf1jWzEJIhksJMVqZq3OiEs5dbMIoUgDUD4ZZAMEMjnuZzEqYld53WGrxPorv58uCNRDY5jmjsDC696u36zoVwrBIF/d1iB2C+HrmrTJV4CF5makJd8jpiORZ6EgZSDgo1AvEp8MFTIgh9lzANXijQd4wLN7fZB+mr4K3F9rXkyTJafG40qEkwtXVnGJBj2k/RaHEJmwQMsYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 529,
+   "completion_tokens": 573,
+   "total_tokens": 1102,
+   "cost": 0.013576,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013576,
+    "upstream_inference_prompt_cost": 0.002116,
+    "upstream_inference_completions_cost": 0.01146
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 323,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-GbXWkWQGTfeFLYgt2XTO",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern, not a confirmed match. It fits **Queen \u2013 Bohemian Rhapsody** best:\n\n- **Start:** dark, near-black stripes, consistent with the famous opening of the band's faces lit against a black background.\n- **Early-middle:** deep blue and purple tones, consistent with the moody stage-lit performance footage.\n- **Middle:** a long stretch of almost pure black, consistent with the operatic section, where heads and effects appear against black.\n- **Late:** grayish, noisy stripes with pink and teal flecks, consistent with the rock section's performance and video-effect footage.\n- **Overall:** the palette stays dark throughout. That rules out brighter videos like *Shake It Off*, *That's What I Like* or *Hymn for the Weekend*.\n\nThe main alternative is *What Do You Mean?*, which also has dark blue and purple tones. I preferred *Bohemian Rhapsody* because of the long black middle stretch.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm thinking through the color progression of the Bohemian Rhapsody video\u2014dark purples and blues at the start with the faces, shifting to black for the operatic section, then grayish tones for the live concert performance, with teal appearing near the end.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through the color progression of the Bohemian Rhapsody video\u2014dark purples and blues at the start with the faces, shifting to black for the operatic section, then grayish tones for the live concert performance, with teal appearing near the end.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS1AkKEAgSGAI4AUIIdGhpbmtpbmcSDGI+I/KJ35o78nDehhoMeJ1xndUsNBdnfBh0IjBQJ4sEVwtCfP+jTOoENF39FscphALxnUH7ZJDF93g/bg+hFET4gPcVTZIrJHPrvbwq8QhTb9zc8Fb6vXtmjzVIBPb51lL8smwow0z7GB8ndM6zc9KV3eSiXne88mrGP+B/ObN3sJVNn0ngU5CDaqaHj6u0VIT9QcUbSB1siZmNbjq1YlTToEQZRkpx61NmjZ4N0brMB16TYG+TaYaaq2uYEf6D8kFLYxtTeRmibecGUbFq76qbhK6201w0qem38zK+IqF60DwYQ65AtrjRVR7WpgZEN6nR2X31FcRYb0SHAeMmwfkll4LRjGLGWrSTb7BA1yPu48XIRaWY4jHXmJF2HkENbarYlUyq3tzm8xK7rhjDI6hjpANZAGJ3w45c95A4eUdz7VaBv2k5/Ra2XS+/DZD/hMilyQ0O3j15W8xErVKYqlo2PJ2lPB3RRoHWDzPU9PceKC/xJtJMh+zexcKzEHEAgXURO5gmtXCcnWMW3T6nAs1cj3SbRgW0r88SJW0TxUD8aH8rL7ZUDVPig7QFdeunBrs2ODio7RZOl7pp6jH5/UsuOAljmso7zdZ64rTSrqUcREMFalocdOeiiyEaDNthAoWTWuBvaxZ1O7ckgR2sjzAO9NkiT2mTs1/7ze/ZBUEdcAYzUTWuNE9hlrFNZ2zx14m5iMiBuUZyD5Xisd55L28ldIbOqcSgWdo0x5Jn1n/qKNaFM+Us5yANhBEOZ8mMlB+yh4HifNkoYnNLQz/eC9qAd7O70fpnrU3A/yAKgQ/8oayUXpGH6Lo5j6ycP+XHECRzDJlGPOphb77alK/Pbr9lBq4w2vov+3yXGXmuCY9CuupJ6YveEeZXnKpFTHIUTgXhMLnHRr40S3Kb3NQf87eEPKaxasES++rKulIfabzTjOcQgUL5zCt5+wljz48THP83ClswZILrvBzPfIW0ebfZqyONL95Ykeyu5kCh/S8zpB95t+m4RffT05H5QbpB8ozLrZURTHZq8xeb7Wh7I3LexZffPU8CZKaGeLM2C8FH+McgryVMhuhW+SWLGLowErqoa92I4dq00OTuXeekPG+qpKFMTZ1PTC6bmF/9QsHPxGNsq8Hu+qknH0VSJLUkRwdBOjSL6OqYhAh2ri8D7voebks/YPe21iwNI/yD1jfzhdm4Ze4iXDC7kHSyHUcPzbDHKdLVAHXBPX6h7t6PwHECM2OdH3bZ/F6cNDdqQ4NMDZd/m/bqEkuWkkUXpzYdfFWN2c30XNoj7tGytbMgmqTrdohqrQ+f0l857sUfkgW3W9oaH07PcnsnwxgTqlaLCJtW7p0vNU7pC7nY6NmIW9v7f6MMSmdOlYVc1OCfBOgZ1LshhhiYBItmAAkR2Rc38JuJjl9NFc/0VSKipwWkL7E4NH/XO9Xi9QbX4mwcze/Zke7hkkT4+tiz9KzukAtdHBYYVTzCy/qXqRKCC4aVrOT8Ve0Hv8PXGLLDERAOPHKz7z+xijk8sY6zyydwFk7MAmWefmvDY1cde/CknHGzw5vfCHY+k+SfqsQ4ckTfX8efRVh2Oa5/bKAdQdUsQ0c5lbXD78kRTzdwSbc152+fELEYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 607,
+   "completion_tokens": 572,
+   "total_tokens": 1179,
+   "cost": 0.013868,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.013868,
+    "upstream_inference_prompt_cost": 0.002428,
+    "upstream_inference_completions_cost": 0.01144
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 238,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954739-pqJKJE4b7KXmAUCcidOK",
+  "object": "chat.completion",
+  "created": 1790954739,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Before I Go to Sleep* (2014).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing color palettes**\n\nI need to make my best guess based on a barcode without using tools. I'm thinking about movie palettes. Some like \"Before Sleep\" have cold blues and warm oranges, while \"Transsiberian\" features bright whites and grays. \"Pledge\" offers snowy mountainous colors, and \"Arlington\" is warm green. \"Last Seduction\" has dark browns; \"Pacific Heights\" is bright beige. The barcode image seems mostly dark teal and gray, which might align with \"Trespass.\" It lacks significant brightness peaks.**Selecting color characteristics**\n\nI need to pick the best color profile, considering averages around 50, 52, and 48, all leaning towards darker films. \"Devil\" often has brighter daytime scenes, while \"Trespass\" remains dark, with initial light contrasts. It starts with black for the first 10, then navy, grey-brown, and teal, moving to gold. Before sleep, I see my cool, beige-toned bedroom. The imagery feels dark and minimal, so I think my best choice is F, as it looks plausible.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color palettes**\n\nI need to make my best guess based on a barcode without using tools. I'm thinking about movie palettes. Some like \"Before Sleep\" have cold blues and warm oranges, while \"Transsiberian\" features bright whites and grays. \"Pledge\" offers snowy mountainous colors, and \"Arlington\" is warm green. \"Last Seduction\" has dark browns; \"Pacific Heights\" is bright beige. The barcode image seems mostly dark teal and gray, which might align with \"Trespass.\" It lacks significant brightness peaks.**Selecting color characteristics**\n\nI need to pick the best color profile, considering averages around 50, 52, and 48, all leaning towards darker films. \"Devil\" often has brighter daytime scenes, while \"Trespass\" remains dark, with initial light contrasts. It starts with black for the first 10, then navy, grey-brown, and teal, moving to gold. Before sleep, I see my cool, beige-toned bedroom. The imagery feels dark and minimal, so I think my best choice is F, as it looks plausible.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80CKNm8MSfk9gWg7hMKrcXwU2HcCe7uH5-VAfslITfLQWu1E5nNjWC4gcMnge9RkhhaEPBVem-TF_9AuLpzI-TfLJjOoaPBRQu1glLbOtG6kRRZndhZQL_2MOPpNFAIB74K7ePaWf9r--yfnCvINeK-GHD0WtMm08tRgO_xtifUtd9CmTIFHb8ST32tHrY6rMTJ0hbeWtDXC_b3wHt_NV6TXuc8unEUOFbmiVklrI3FEOFVjtMD2563eeZ0OxCW0haIZK3Jj0GojFjbw9d8oyFKEfJ7Nj6EObPhCXBqok_TB5pgV4673ffPY710M8VG7v_CWkWWr2wSApt1y_pPgVbrdEBV_2Y6HTPQn_TCSSun9BXMbnGOp9-XzIuQzfTtk-h2cLfKPi3RqiNm2luPgRXHIKh9tuyTXXg8lyAIT_kEa9YGw9Uz6f674H--n7RptCBmb1azCX7Dt3hjBacYlMErllZNc6e0yAQfRp4etw5XT-NE0qSxZ0onPx-CD1ZUrsqJ4JPkuwWoc9onkSN6unH_pQx3idRNzNiEAZ1AzHkDcDPgak-9UBNKUlicyG1zDF62rxQSmbUi9xHH9XmiN8MipuZKH7vtm1hZW5RWxDlT0gpcv-lFqUN_vm6KFIaDiTwybjyt4HZ8mu--7h4oTZ5MiSDc6_GYc37WErKhqPVLQnNfsKdS9MuJIgqK5E69VQbuBHyKaRwe9Ko-sOwwd_CYinwe5i08fs09na9i4Ch03rkEUBpi-uwY5VRnhAYD-8x1c2dha99CEMreOQAi6QE7OQtISxAsPUdlK9mB5wS15eZRp3YqsKKrrA4qBqeyPh6s6b39YN37HJ3qx7vdmQjHuF36GVh66gmHBQZzlqEifUcDjjPzdyTOCC4Eha2Da9o759FdV3NnLxaeXXaQpkiAXQywPLItpInslwq9WBNm02RNleUhODryd032QE5XJ3YCM8YeySBkJJBvbB3chfFqLIWthh2Xvmz-rzrkzbOFmVajZCm3xtKOsOl5AASQb11XlMTmnADgrvgxcRIINdgWKT08eHfkrz1p3t_jpcf7mfHy6YgIqiVV1c0u58oUCulwEzrMyFSlinRQ0EkuhEPCRyXLa5AlgeD5UhUcmMaJZTqCADhQA2V3n8rMLpWX96GLYvUuEE1oF_GRJlUpDfT55C6_pJoJP12nVaOdmek-2gVO7C_tInm5-W7z_VRARrciKf5N5TEUrn3-PtSwGlyJP59AvS6Z5svmRh5J0NXt7boJevM4qoX5HgBVkOTB2fyXLpCunZ65BSfCPBf3CujJS-KcdKPklEizY0n0fLgWH_27IUOYd3Hy7bI1QrNaEvEqlrqELNbFMBK5M3Aqz8xehZYI_xr-VMPW3Qinpiy4VDBpYwnYbkmEzwug2unEju8cNTGhglzP9k1uyOq2BMmrxrpfeALpNkl_N4wuWCwipki-A2-lhP4AQIZooQ7gO5_k20SXy__KGfLR5gBYddeI9tL8fnjh6lWRJZ9xhu6akIpkn7U6BYaGZFuRY3VJHA2F44Lup8yT-mTbPLnUfh9w0On7Q-hVLhKlkFMV4vClfR31SOvHWZPvqzFZqfah90yWqRy0Cwij5NyMrSjFvBkkjk-cm0DyVjWravHhG0hRdb4WeVbhTYpzjQMpMs7x4QXz7WLXYj5iscCBU2JI0qtv0bWHUoY2sBBnLNNaFkRPa3mg-Ke-R-Oi5q30m8UT653_HeTGixk-a9tvTKFXz9bqewtqoDFL0Ur9C1sUDPIs8ATaPLUcQOdAv7lmEAUR-gCeOS_D4PZ3Rruz1GBSvISHP9EIC9YBg2mZwbw2n8nbB-Dqz85CZKWrrD_Z2kJ1fZL8Fgr7LS04B7Ph7jN-7qu_t0x6X82muP00njOZ6Vi84-KHzr7NpUGH6VzzMm4qB1cDcsI4rAZmN4RC5zHh7w-PErmha4N0sdte_BxTmN6WMhLp-Ixx7_WyCXe1m-hur5e6dam9CBmrmMILUwVKVnsTVzJmcw8S3Oe9hBak21_ZYjv7FfZhcEVuDjlyJFu1-kVo2kFZvvPl2oQE_sObS8V52dwMxvS1NyL3s3KsCpHAry3Iwkqe5KIMTgSpW6sRVyONu-rLYNXtEnzhrCrNkc4SX2KurFW_EKJszSKtxPxZVb3uA008k0VNsVBaQ-sSadoue27Zz2XClsL_cZUFQ_8_dmSexBrURo028qe9NW8nT2HHuyuau8NSpfAX3Psd2uzqOfCzPacFELI8FmbaFJjP86cAFcZ9G3RJpt3SrDtBdHFxucnUckUQrKrGW_SJQF0rNOseyS_1rqN1R43WHHoqWWsCPc-OMi9EY2dmQ5aafXIx4HRtX0fy1FfJoHV-O9eHbRkFWbDup56Bjbp3K0ujRQPt9oQk0l7bjMcV8_zBcGyIYsDLlH51OrKooLYdnS74fg4ebXFQf2gWEojw-2mEEgDChoI_cQCyGXPMZqk2yDf9rmrvpJafPiL52y81GGi-zBwpy1FAq16Vrt4jZfzCsOl4rz4O8wk8hozNlWA03foFTRYguJa50nG3twKoyp1GPo9sENmNmOkudn2y2peEo48XYcHX1giag7kP8HFpw3TmbGaO2wzf42Da-p2m4ExHBiHWfJ__-sjdOJUi8F1fKx2vzPBCNQxvmxk2mZbZeVTCotr_EAg1t7T1a-nUp8mbK8NFBR4svC6220oKel8qtFscPuFbs6sALn4Dl6DyOM-M7pS5nllaHJrNa3L6PBCmrltbqMDc_lfMkUYcID6WJ7OiF7Kjn9dImFFvL1ymcEuk--WxcJ7T9Jo4rRHMn3wBt9uSKUw-uVjDAm1b2d2nPzai2QMLKcBm6I5rNTHBcDBsguiaU9ljPyUwvdhzMBE1vLNeY1Ww8nPbiE7HymyEUNg2cMywFczsN7Yr74iCAgea9EJ66ixzTCq6sFAvsmZcQtYa9915va5qQJb2-WWzimjfY1aw40GbQxb-k9MJOVF6UuFphDPo_QzwME5qkLabJfT0ERe0toi3sUmBkCRNN7ndzUV0QlAZu_-ERrauPRmPD8a4gxBr5TFtWouqeUwM0uMcbR3TsPh6MMSroRGS-qaL0_T4kHpuXGbyx7ToqVpZtf_-Qh6LM8_iIpCJO1cajn96eL70eGi7x-9ax9pLUOvESDVdl2p3T7otVxrMo8Br30de9bV00ojhocOXN2YPcqBzQmlhsuluFF_ds9hzIa7fe4BsIeNxL3Sozpby8n4zsHT5fKIJXllqv3Xifz3n9q1_GWTIxsEPwBtPyi0Xrw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_08c94dbf91205688016abfccf6713487d1a2a4068904d1a245",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 438,
+   "completion_tokens": 324,
+   "total_tokens": 762,
+   "cost": 0.02058,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02058,
+    "upstream_inference_prompt_cost": 0.00438,
+    "upstream_inference_completions_cost": 0.0162
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 300,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

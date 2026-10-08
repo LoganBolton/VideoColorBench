@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907170-3s7EDqdezCzpuwwucCSo",
+  "object": "chat.completion",
+  "created": 1790907170,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Half Nelson* (2006).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Choosing colors for barcode**\n\nI need to guess the barcode\u2019s color scheme, which seems to include dark blues, greens, and browns. The segments I\u2019m visualizing range from golden to teal and red to black, with dark blue and grayish tones. The film \"Take Me Home Tonight\" comes to mind with a dark party vibe. I\u2019m noticing connections with gritty and muted aesthetics from movies like \"Half Nelson.\" I need to focus and choose one color scheme that fits best!**Analyzing color segments**\n\nI'm working on analyzing color segments. From 0-15, I see dark gray and brown for daytime, then warm yellows from 15-22, green and gray from 22-36, and it continues with black olive and pale gray blue. After that, there are various shades of greens, browns, and teals leading up to dark blue and gray. I\u2019m thinking \"Half Nelson\" could represent these colors well, especially given its mix of rehab and hotel vibes. It has strong variations and contrasts.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing colors for barcode**\n\nI need to guess the barcode\u2019s color scheme, which seems to include dark blues, greens, and browns. The segments I\u2019m visualizing range from golden to teal and red to black, with dark blue and grayish tones. The film \"Take Me Home Tonight\" comes to mind with a dark party vibe. I\u2019m noticing connections with gritty and muted aesthetics from movies like \"Half Nelson.\" I need to focus and choose one color scheme that fits best!**Analyzing color segments**\n\nI'm working on analyzing color segments. From 0-15, I see dark gray and brown for daytime, then warm yellows from 15-22, green and gray from 22-36, and it continues with black olive and pale gray blue. After that, there are various shades of greens, browns, and teals leading up to dark blue and gray. I\u2019m thinking \"Half Nelson\" could represent these colors well, especially given its mix of rehab and hotel vibes. It has strong variations and contrasts.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMxOEHKWYhNnJbHkt4OQ31Xm2qBhlhSRl3WwijiIX5MCvAdZA_rDg5WFO3I1aniptcf5yi8NupCESG3RmqJK3ZIjQYVOhnY_s8MpEoqtOBW3nSbbvAmsYQxZuoazcA09E_74zp7xFH4m1QXQO88EEVzYPBvLoAG-uVO9sLnDHdZBrHooZEe_MV7W6zh6XdryMk3oj6ZRE2w3G2WiovTyrFg40DOygei8PZdl3UzXnUqbU58wNWV2yrUwf00lUXCNaGGwp_x0aS8KyKBnLjHtuTP751aJLDe5VM8YjyhiLqPNCqjhCMt4hPTV_e-7v-tpyzrsruByKQ4ge87P8n_S7jJODbtX_XDkNviUetLlAXN2Z85ll223N_GJOEmoI2fAjt_YAsw6_QNpZU8L1NsBFgc-AsWLgs36AyqlMZPbKCuTdfSKWLOwh8C18PAteBZn4C2GniOXH7Q5ekWIASoJ1UmT1YhZcvCURwYFGfDHo_YnULwCR2tGEJKZpmZvep2UPJBRrvfcOYNPj16vSr_7H9bV-dzri3JCgSKagJ9B02r9uEf7fqdH6fygqCE4Xt0CJk6YP2k7eyyWCQZsfIa8dCD25p0APFmJubgrI9LhfPLXiE4j3_Vk08ZwwlVkmMkIZ3xQ-qchTB7BqMow-4jzTSRRFpsn9AXl7y99-LHFVFyYIsERG55yPdt02w3YYb12poDA-HoHPx8mm3IFhcLLgDP8onS5uLREZZa4LLJ98-c8xfC0RtHCCcURpJ-tNI__tXOC4A-pr3eM0Ykx5Txpt3U33PSJnGPP_8-HR_5hbeGSnU7cSRXBdkXb6G7uBHXk9tJKHvl9v8kQ18Y2SgZPaoxIpCLiHZeZnVUO3Ii_gyAWm-boquTqb8RcyiwYhDtDmHt3RNTHf7HgrekZlCOfmwfD6vhbXr0h2Vd07lNeVLtXZtQtX56Z7jYCnu7kTuV5g92mYTgiKx8rPzU3K6Z5dA79TIX5bMlcOl6182tl9fPpSpqFa9vea88sYilWHUDfGWx6YMa-yFgWLn0lOAb7VsdFAHepH6fFUE71ZzAyrlGvPHVffDnSPhLoOniAJ5NxwyNSeO79rAPADunlDe7WtgR5MJZQZ_HqTR21iIkWGnYrmjn8yTr_1HntbqMg1HnnEbCldSP-IyJaXOR2hhk_qOVoZgFpaZoxa71s1FXalY0qo87-XkM6umXvE_40qUVG7VQDFOhoc0p-0m-TUgS7tDQuWyhkYi_aEfMpTmfe93DX9MVavxLBYV5zxiPG263QuisgArEtMthjtKrJBAnE6aSsWtNyND4lEKMMaQlE3YF9YNvqTiN4G4-FdTTZM_iwJwCle8i2Sa3MHXOhunAdq1jrplSCXz5q425O9vDTW9_qdqpUQLBmmmNQgERpITUR_2zUDQHPgpdvXJT0VdDKq-Oyai5r_i0bldAYEJrlbPd4DKzN4GcAMmDCtu11r78p1SLV3FIWm7PWEu0gOfDnuz2PTj3_QHlXITJcfKuGj8DtT5P5UucZyngbJz5I00R3cIaWrGK-Vn9CSK1i0-mUKLquXG-S0pIG7HxSltIDMrcyBM_p6c-jD7-mBhymTKOLe1Fzvq6O-wMhcbDDbNUPABK8aq6o8V0e1Xb26gsHzB1Hw3RhBRgE9xwtPRIri8BA5GO0kTGAYgKe42yyWzA9BbSPpEpwkBh0IhzPsCYwFdwxth_7Lwo688V_-x932i7R-gF2DCwShfUVD6lDXdlq5DfROj-IFRWjWJYEKoPm-u2H-4GeHATu1SvWm1NRvfPzJKl8oon5Rkvix_vH8nQk7MW4aAFeWztQy06PNPfWol-f8B8jEISFdd9HLaEYdoyoSG5hGu6m6P696U2q9C7qVaBiXNcmTfleTxT8Nd8rmLj-porhmkKc9HS6Liy5Epn3JtEj4qu-rcicyTVRRJCa0k5d1ckvshijginbYEkJ90NFJBKBkRIcNVumpxtveRGDxaocys3wPT10Nc3Ceuhj220sLvzAAFj_M6eyLFZhmhfuun-pgvb2UfMaA0T2s7jqS8CQ8z2t7X1cFXF0VMv4K9vZEnfRHFJmyjggkOoeI3iPgbp2vzDTebGkyfLirPgA5ivglNaZ1fLn4ej9MzSmyvN8T_rai3w0rCXgZgG-rb6yJQQCI03ND0REE--VY9eetkr7sjf-YbhPGPijRbTUVgtnM8QnbjY5hWi8pE7HyxthG5cwGn5lr1fXglWM2wsT2uNcRdO5qxnFNqHTBdIF0hOH2hPaVefat4uzcszpBKfZy_H90pY0jrQ-oMBBcsAoJwI0kaQ-xNuUtQLkJe0k_9RxDaGnF3p_1e0lqYjMxqj8uI3UED-BPRyFrMc4sy7dbaaNoz8ueRldtC_mZMOupRx2lxts3IYvMf5yq3g465FCXqUjF1XuuEfPwMECwR7iarxKKWkBg-m5Sn8JI59-IDlr8p-GJIygnnQZuAQbeG-PqyrVhCh1DHptpbIGdCGN5CsPA-pQysNXUXhdlCfX168UQKrhbrjCJcsq4MwKU5d4hPK5Z1dgdDQK8cK4erKpCrlRlp8OO4sdH6J7v_isCzl05ECxtNcpnBJ9jBrlhtXLk2fwMaQVyOjLCRIheUExvbORewl9Y1Q6_nCDvJkhHEembLkH4MT-jet0KBtjiIAIyP5QE-UsMqYxyQZhXZsA6K3ZZoWrnJmxvRajC7Ua1s2twifC1F8fh36OEOQqSDQRexN5KJytWwTIGQ85i8pFcvdzjnqtVpiT_cPbw_Y-tvkUZdSzdcrAYv-XC3Sjxp_EDnqX5nC5G8t0eoHrLDqRlRhmyombTvhFZXwHlHuroh4bDc0gtMwTK8zDMS6bVXL90beZ9fJyrA1AYwuxIv5dnXJlLNntWVYwCqo_59VRbwKlle_ZewmKOQazmek5fElPACjGZ6CYE4Mm2Fc07944RYogr41yZ56Vu20d1LztHVG61oG9l5AuSggaepfuwelJ9ScgEhKdig3Afak0twVsA6jpTtnSCWiP2ZOOzVATKl-EQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0a421d438d95949c016abf132845e487d181597fd05081d3a9",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 331,
+   "total_tokens": 763,
+   "cost": 0.004174,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004174,
+    "upstream_inference_prompt_cost": 0.000864,
+    "upstream_inference_completions_cost": 0.00331
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 310,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

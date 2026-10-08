@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907368-gLXwlZbj4J5eS5klE6XD",
+  "object": "chat.completion",
+  "created": 1790907368,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess based on the colour palette, not a confident identification. The stripes are mostly muted grey, olive-green and brown, with some darker warm sections and an orange-brown stretch near the end. That fits a film set mostly outdoors in cool, desaturated woods with some warmly lit interior scenes. Killing Season, set in the Appalachian forest around a cabin, matches this best. Jane Got a Gun is the main alternative: its brown, firelit western palette could explain the orange near the end. But this barcode looks too grey-green overall for it.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "The color progression of muted grays, greens, and browns ending in warm orange tones makes me think of Killing Season's Appalachian forest setting, or Jane Got a Gun with its western browns fading into a fiery nighttime shootout lit by lantern light.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The color progression of muted grays, greens, and browns ending in warm orange tones makes me think of Killing Season's Appalachian forest setting, or Jane Got a Gun with its western browns fading into a fiery nighttime shootout lit by lantern light.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSmQkKEAgSGAI4AUIIdGhpbmtpbmcSDNf9EQ1IrfRbrHIkhxoMxMNJpM2f6zX+7/csIjChSXnXL1bBUZel7u72I6dqWfNlN7UtckWuwIBKFUNyYTnl3qmhcj5iAkpqaO/NJBEqtgjR6UWu+fjbffg4qB5tc/evFbtzctgFSh2cKc5RQQPzPLp2NIW1zAHiYGBk7ufvNimRGqjha+SKPqkrSEPBGWCfMcuK98N2oATlZ6IcdsrNzxbEVJavFz3B3Pzc6n12wtvfeoVePIWEcU/YB6rlUVt2qr0S1rSybMJ1s00HDaS6QzNaFzKJjo+qjCnW9n6r3VOGY9V8BCB5wJLVI5nLh8XTUDa7nPqJHyomryjPGudKTVaaL0Fn7v61oxTMXxRD/jNbEIi2Z22WINEDbfygX98qTLv5X2y36YwX7rFfZl+H9uZ+2TnjgCrXSt81UOs696RkaadGxxezOihI1NVhecRk9X8pS+C1OqVD83S0ksXvU8vmjEYuzDCh5hbVqNTVliSLvhL5t9Kk7pfOxGDtMwf4i3RYZ2OFj7pmJGHzu2Xd7yYRqBZSElXwWBQ/sTx/eTHqwPaUDPqvttPVuchdMsZbOIRq8qu6HnFmQmJsGaWfvg4D+NkqrJjrIew+wdyMnMARwqGTX2/j6rtXXcxquYxHpxShygSNsQRNaMGmp873yPbYZhqNGeX+l6+971FUI+XWQ4HFgfgQiDpywFQBTcrY3pmDrYNNbfkRX2fiRBc/Y2Mz6iqwF1l5/HlupsTh10VJX9CY46GTt75TL8zd2tPgFCxv0ymozQUHZPnikmS84Jsg1PoAhFoOcnZ2Xu9ZDNnA7xLYLjYocHC8LfCJzAjsWxL18uDTBHC14/JQBVrB0QCgyCTImmxirLFjAgJpVu/m8+mZSYl4Vu/OIynk3jDqXHvRJo1WpQ+tT22hPHXe6sr0ZQ4KdSJU9mkmEKDPP7W2gNm3/3vPDItglSNML5xOZFQlQZm5t9Pz45cp/cRRkuG0RZ2Pcp8mlNXrzEtYNK9aBkVhE1o3YuCZn6O/dxAjkjJHWEggF4uNRfxsrfWel3WkE1E2vT5Bpn3mi9IH7ROMP8oYfsbnp0SYz+iif05hCqsE9zcp3YWwZi/hJeCuj9dLCFz1dPySdIBEWtqtDdKCH2f1kvKmrfJ1Jn+z0fK8eu+ceNELH8xXa3zqzLvcc3tzd0/9cscKOP/f49ZtJkmi6xIo1pRo8U4C9rUpMnytfYYM7/o1cHp8zMyqRTllloRoBctK/yWLLQwK/wzFyz3HDsKOZoGOXmWPv9jmyMnCGkLnA4oIwLE9UtUO4H6Hljdr4l5mkH9/lwhSylrN5BRsTU6PwRe9UaFMkRnMI9ci9VlwO3GFb5vX51oLB6RyQVU9e2a2vxqbFAhTUE5w2JLoGmP7M39a83k8gd3YKMV2EAd+Jwq0/9PfENAd6+KVQuKiNX2Sl+JPr7f01MoDVJzm3Q9FgM03Ns2xnQsyL2Z5bFl8hMENT81SEC/LwNiGPnmuExAGjcixT2GnPVeOm2wDPgWNNxwu+4HU1bNFQnLEmEAJ/H0pGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 552,
+   "completion_tokens": 406,
+   "total_tokens": 958,
+   "cost": 0.010328,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010328,
+    "upstream_inference_prompt_cost": 0.002208,
+    "upstream_inference_completions_cost": 0.00812
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 218,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

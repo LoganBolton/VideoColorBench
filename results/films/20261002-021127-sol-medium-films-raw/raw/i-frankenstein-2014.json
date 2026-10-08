@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907220-bvsV1P2ZkJ19jXBLC9tS",
+  "object": "chat.completion",
+  "created": 1790907220,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *I, Frankenstein* (2014).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Considering color themes for films**\n\nI'm thinking of colors for different movies. For a very dark blue-brown noir theme, I picture \"I Frankenstein\" with dark teal and gold, ending with black credits. \"Haunting Connecticut\" contrasts with tan and teal but in a daytime setting. \"Beauty and the Beast\" is vibrant, while \"Knight Cups\" is bright during the day. \"Southpaw\" has a darker tone but with light rings. It seems \"I Frankenstein\" might fit best. I\u2019ll keep it concise!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color themes for films**\n\nI'm thinking of colors for different movies. For a very dark blue-brown noir theme, I picture \"I Frankenstein\" with dark teal and gold, ending with black credits. \"Haunting Connecticut\" contrasts with tan and teal but in a daytime setting. \"Beauty and the Beast\" is vibrant, while \"Knight Cups\" is bright during the day. \"Southpaw\" has a darker tone but with light rings. It seems \"I Frankenstein\" might fit best. I\u2019ll keep it concise!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNeAa8Nb36CrnW2MPeubF0tjVf1_IkiWNuxLosGE3tpQBJ24OeiHo4f0skwYRmWPk32-3uBJkWVCMa9MrpmsQ_dpnzh1SSBXMVLzuSNSET-IZT7d314AMsyaaHJA95KJ6j5D-OP5UkNVdN6h89beYXgXP1gC6NVde_kusIle_e0MS_l8N1Y8IrL2qsAuTmIV1ZbnNDQzotrB-PI4dvotVjaB9Kstm294UmjtAVd-B0_PgmuMFeV2ozkwET3OyOz7sd6VnizR2LWklp5Vw1pJb9WpdwBbua_CpsBBd3pxTlmYyCASYalT1aZ8dpcINckeO-wh3nqh_gm7X2emkLhSphnDzhwBy3HOeuTeDuQ-5zjuN-TAS__teOzApbRFBs0edv8ndxlhLEsM1Gu2vrv2gM79mQtO1LD7t5KIwT9w4ZOKG7wSzD9WrJYjTwjcyp_fgA2MFeBs6Xi0rpxOENCMO39SM6neU4y5UnBDL8mbYxv9dNhYl9AoAsU0_wZlTPdz4HcBqCQ5SgUBISUrEuTwDj9X8zm-DL_6hWR4vf7nA_c6hcUS9v2r10orAknwLicXt9aFz0B9090DeVBOFExNQwwxNDTJbysC9gWaNSeNbLepfHNndKd9LIYW3byu3CXyHOk9Rz04MHsyGq-lHXfLFcOonzjZ4QfupNQhNUahB62wmLeB5gkqfuM7jT9xWI6IcdWKIgdg4dScN_G5FrTg5t8FdegOo4uKUkx6wY8lXW4TomVi1otLJuE8bPC1yktsXvhIKAeZUFnech0Jy-neMy7i2FfkBSR_2blOH7C_DXeIW5uXlacoLPTA3iq8cE6tG915FyI7J6hBo8horqb54mp-_P5Q_BsOLn-X3w_0uSazjGLKtCbHYibpI9R7J9rSqPbGldRA7opoGb-Pw5w3XdPw6xBO6Y702aeni_zGpgc7Gm-EhhrTCvQAxIBiCzov0xle4IFl1MtqWPfdTPHo_eOKsNg6uRsrMaDuCfLfAFuBzzRv3R9a09j-YeBqRpGDvmi6wJGpRS1JwnQF2nMhEQrnlBi8oV3wb8r9oCw48jTfs_A9lLRWfwUAwjessRe-EwCO3BZCRgRznYfdb3WZFo80cWAbmC7G1zclzpz6Nq2mQoxO520gQ1oTYQkIsLcF-eJ5ruJR6kT0DD_n5X5iuFOOYkIPUJIidAh8Dd5D-maPwPCz7bHHvbAm40s9GFRdynPMkDKkx6UhjCao5F8DRoq0z49TRlE6SHuRnPVsHfMiKZXu-ZEYQ4mVbdkj2n16zrm_m9Xyuzt3AgNFwB5JSzKO8ViZLHjZKFNXmm5s9Farucx70a_BQwWWtw7Foa0yXeXEGLpmpYZNc-QRx8IBGEy8jjCeclH0HGcFZ-4tvHGrQxH6vP_y4OeriQpbJlvQc7214DlnmS4FcgVOlp_-duEKfeJ3JCnnE-ODuzjMnfoGvAKhF7_BPZlAG0ZlVkG3EmUfKfTdaNup-LoVJGGWTatMFIQHVsS3T9WqZW0zLo6wJ_5jqlsvNBQU3abNjmW2eYSuNEoIwbQPxRR53W3JMQDoXzWNHlo7kSIAwBrDuUZVeJ4Uzb-ov26_7mEIm7bYgjFGFJGBsOoRStFQKpjZBa4C3sFKm-R_yHx2ZHLWZWmLbtylG3wGOHcPdWdBrIEMijs9zEaoguoeo_6fK0-OcaF8kMwmMBO5pxg3_VSFwsNqjLEYKGBqedaag-nkNZkJ6_4_SW4RNIn3rdY4ZgkrGxoE02UOy2znPOG4M-KC-KqNqsyT3Ob8X87CPBfzFp9-Qh7G39277JEWkwmIZ37XGA-xdjndA--HR5k1S8rsCg5IvVMRArDK8I6h-PKvcf_lxQZ7uuI5JC8hMlyOWg12Vc26A==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_06d8931fef936d47016abf135a42c087d1b6d80d2c991fa2f5",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 109,
+   "total_tokens": 538,
+   "cost": 0.001948,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001948,
+    "upstream_inference_prompt_cost": 0.000858,
+    "upstream_inference_completions_cost": 0.00109
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 87,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

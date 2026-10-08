@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894481-NJRdnb0VipBDvmSf1JSD",
+  "object": "chat.completion",
+  "created": 1790894481,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is John Legend's \"All of Me\" (B), but I'm not very confident.\n\nThe whole strip is grayscale, which suggests a black-and-white video. Two options fit that: Adele's \"Someone Like You\" and John Legend's \"All of Me.\"\n\n- **Against Adele:** her video is mostly long, flowing shots along the Seine. That would likely give a smoother, more uniform run of grays.\n- **For John Legend:** this strip has many sharp jumps between different mid-gray tones, which suggests frequent cuts between scenes. That fits the \"All of Me\" video, which cuts back and forth between him at the piano and shots of the couple.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm comparing the grayscale tones of both videos \u2014 Adele's \"Someone Like You\" with its grayish Paris street scenes along the Seine, versus John Legend's \"All of Me\" which has more contrast with darker backgrounds, dancers, and close-ups mixed with some brighter white scenes.\n\nThe image shows sharp changes in gray values with distinct black stripes, suggesting frequent scene cuts rather than one continuous slowly-varying shot. This points more toward \"All of Me,\" which cuts between piano scenes and the couple, so I'll lean toward B.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the grayscale tones of both videos \u2014 Adele's \"Someone Like You\" with its grayish Paris street scenes along the Seine, versus John Legend's \"All of Me\" which has more contrast with darker backgrounds, dancers, and close-ups mixed with some brighter white scenes.\n\nThe image shows sharp changes in gray values with distinct black stripes, suggesting frequent scene cuts rather than one continuous slowly-varying shot. This points more toward \"All of Me,\" which cuts between piano scenes and the couple, so I'll lean toward B.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 605,
+   "completion_tokens": 568,
+   "total_tokens": 1173,
+   "cost": 0.01378,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01378,
+    "upstream_inference_prompt_cost": 0.00242,
+    "upstream_inference_completions_cost": 0.01136
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 349,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

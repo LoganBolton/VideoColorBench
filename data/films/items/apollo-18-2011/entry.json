@@ -1,0 +1,21 @@
+{
+  "slug": "apollo-18-2011",
+  "title": "Apollo 18",
+  "artist": null,
+  "year": 2011,
+  "label": "Apollo 18 (2011)",
+  "hex": "#32342E",
+  "rgb": [
+    50,
+    52,
+    46
+  ],
+  "frames_sampled": 5192,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "HOhghJ1eKsY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

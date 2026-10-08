@@ -1,0 +1,21 @@
+{
+  "slug": "november-rain-1992",
+  "title": "November Rain",
+  "artist": "Guns N' Roses",
+  "year": 1992,
+  "label": "Guns N' Roses - November Rain (1992)",
+  "hex": "#453A3C",
+  "rgb": [
+    69,
+    58,
+    60
+  ],
+  "frames_sampled": 557,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "8SbUC-UaAxE",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

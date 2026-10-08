@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907143-yB2TOcBwd7MLo2g351aZ",
+  "object": "chat.completion",
+  "created": 1790907143,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Silent House (2011)**, given the consistently dark, muted interior colors.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMTwWa9MuJ4e7ICVh3UMij_fje3KoWUtxmRiR8IX9a_9lewT8iEDEWNaKKSo4BSkGx6DlhjfIsNKVcuIDw-mbPrOOO3NIAgBLXsLv4Br9oAHt75p3nt6NUYIyz_vxOdauCHvR65IBOQpUunUmjpjbB_hb9JL3qf7YHgw4XwsnvlzsmzmxjGmEGKVS_RLUftyWZjDPl5-jfVnAqaZPovAV80YfFwigel5qU5I7NAJD0_pxQdZk_XUuNWkgvrSEgn2yehA1MHrAYBQkF6PruM-fq2-Bs6LmBV0x0FvcmG_uRZaXTZKMl3CGQ3_jas-wFftdE8u2qaj-h_KArIjXxpApEbn6x2oAfP-i4bOZ8lFdn0xWgS8gYV1bc1nP6kS6c635DpZS3n1XizNCFMNtw6KA15QLnrJZE9QqMYHiV_DyoSnKNza3hoUxap93HFfAXYQqI1OdFlb2g3HLDwcJao1UzvDNHKBRBSHwQhhuvflBs_6V4sJC3_eNRbHC2C8B4hKgVjg39gB2HqT9O-3JjixEGGvonPSieM-7bOPSZ5xEtrh3sX4DT1BT0YJjqGCbsbL20Gw5kS-1gAfurHHpPxETxvwuolv_Mjh2tmf5AdSZPUWoO_UBWy8C_IeiHakM3BuFn6m4a19Kqnepe-WwYKSUs0XVPFsWhp1A2QeweDRBPwe0Ma0lgsmEwLughXCuLvxG5FzRUFSqXQx2gWtn-82FDT71z6HqHzBw9M004gnUgtcjpz2tOm6NWfiol7uipapCzGQ-0GhaB6kn_LClBH3hbuoR29suZLriZG7vYbQnq70ea_ZjGCvZvtu_ZhIRqqOh0-zhcZk_nZU4LWj3SQsshAhWyO0DSbdspGeCPGmXhGWkFFtmDKmvOzQGeCFw2JIaL4xFSmJMeDKN_XbzhQ5tr-SlodfLyzBhufVqLM1XRCZY3CdtEKpYHlcBjI12YA70vH3WjYgcDQNnPoLKOFFNuzlN2pNgma_UxlOVTNfcJIEbsUQAdtTg2NcZN5HDzqdFV1Vn6K-96Gqh90WQfD8naXCdfYGCBZ7qdpZgZ3JxjuZRqIHOQGfARH_kBiM-Jrd4bIMOAFmpuINg2i5-zx_po6XjzhjVjNwS_SbPDb9ylys-nNiIpdxJi3CCX3ndMHX8pKb6cHGD2Iv0rVqxbkyYsbsMNev1caRRdZiGu3V9SvI0ANdK1uot0hJeBO1Nc11qUfPqz4kJaAk9L74FpTillQXXymTDfXjQ84m1bsavryoBR4NxHnfNQ5EHGxUIxk-jkOsnXNrCgJy9PaeK0Xqp8hXfzVjpfX1_NL4N0G34xJ8AXMZIhZgzL8pJQMwGFpS40wAInIag-xFMY45dZMVarM_cp1EsUCXW5jMYXC_x8Ap3cluOy-my2cm49L24GKw5I64PlDoH3JjoI7kGNQuZPcyIF_tXgQuSUQauM0UbkQD7DSIoCroTIgZvN-9sKdHV1_ZQacFm-F213oGsVAaxMaJFduZbSScGPNeRAbiN4B_dL0P9BcNl0-ptDe16fv1kqELt4Z8TuTbS1D9yt4q7Id9ijUhOi5nxHNWeyMyZ1cw0HgCFHv7QLDms640oGJ_gdTrhETbT0Zl-Tj_27lFjQY7RJRuj9S0vYC_QYsDVQk0UbVZtdTalloxHDbfxE1klWb5aTTAtDNEtTpeT4vd9CiJ2WnpaSZrbVQd73CtE_gVw3_NIRFNBVoX-WbNZvkxPek0ThE1UYWnRY8oQfah7bSmyB0qTroimRIIRv-t8r0J7QVPzRgjpTOqaA3cN2kT8Mgyp14zXBhnDmx3Jgu8mXcmY-7gY89cd5Nt11m1QvTEnV5jRQu2RUYY7H-GyhN_k3ZyMOcv6B7176uLE4W0Hy9TZJhncQ8LQRYoOvkMjyKVfGqjchqoGoFUUrWqTHauzcELfd1GYwIYAg9GlxrH0q7p95pXhL9CJJrdItIS7fkdR11ajoBgP0s78mIhTfdeHskOx2PcuOIq9C1PEzTO2V7kmrJDyfOCgh5Ls4hTAVxI5_9NZ89QauMa022csuuv8Emd8bf0fddmI6eonA1HSSh53NtHPpk3jZmsWUt7T9_5KS0a-Tm8OqYVhZZHXvwvz8Lmpzg-ts0WygD3l4eU12tO7ozFX5b_TUx-luFNdTXGA6EQHo_ntmG-5qvynjPMD3vcqvmGUqABsNuuazInALRZSFT8Fn9bqwT7YwPiv9LWYKYf6-MYT_a8Ge1onG15ZvKATp9egkykyTThv_IHz7nOL9wZtpA1uEdweKHOq2UtNMBhXq3nabVOvmsTrKijHP71QyVlDOgwY2IlMO1jpnnXILBTqwQo4Aw4b-xzSlYBa2hDbBRdsfGVGlxYqGs4DgWR8bBoSFGnlKnC-0GGG84KPd4voqFZbifXbi4wbPimJk4PwE3VYRPKNctshatl8nalB7_-2tOgJqlVHw_bC__KM0DE00mpXPZEMoZv84h1iJvMlBSn0uhKJvFqxaVqD10wSVQWSDQw7aJRdHqbW559Pq2_6d0q2IlkV6AbcP57fEITSbvqQhEM-2_kM2PDmfs.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0687ad0d6c47afdf016abf130dd94c87d1831ffae40f2081c3",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 434,
+   "completion_tokens": 202,
+   "total_tokens": 636,
+   "cost": 0.002888,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002888,
+    "upstream_inference_prompt_cost": 0.000868,
+    "upstream_inference_completions_cost": 0.00202
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 172,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

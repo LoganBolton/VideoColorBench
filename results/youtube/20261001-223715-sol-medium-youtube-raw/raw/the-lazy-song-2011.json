@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894263-BkkgsCxqvpNwchWHTBeW",
+  "object": "chat.completion",
+  "created": 1790894263,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Bruno Mars - The Lazy Song (2011), whose mostly fixed, warm-toned setting fits the consistent brown stripes.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Interpreting visual elements**\n\nI need to analyze how the visuals match the theme of \"The Lazy Song.\" The setting features a light brown room with beige walls and wooden panels, giving a warm feel. There\u2019s a dark brown backdrop that\u2019s consistent, aligning with the laid-back vibe of the song. The imagery of varied colors, like dark red and blues in \"Starboy,\" contrasts against the more uniform palette of \"The Lazy Song.\" I\u2019m aiming for a concise answer on this!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Interpreting visual elements**\n\nI need to analyze how the visuals match the theme of \"The Lazy Song.\" The setting features a light brown room with beige walls and wooden panels, giving a warm feel. There\u2019s a dark brown backdrop that\u2019s consistent, aligning with the laid-back vibe of the song. The imagery of varied colors, like dark red and blues in \"Starboy,\" contrasts against the more uniform palette of \"The Lazy Song.\" I\u2019m aiming for a concise answer on this!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuC804Y-uo4OBdxOJZWrIiFBJKw4ZVeGmGv9xCTmjwzktLqODL6ZvKTQviPobJBmd1g3_0fgC-_tNrPWrzgC-tEXC5w2QFced23SboVDLM_cFTbj4hYETnreDjjmo5F4VKFJ2Ob43tCjlyhLpRXNHRo06McPlFZcRECuS4vzd1Lgz2ew6Vo7to4aXpECV_jmYdYzPrQmR1LKKQHIpdSBkQXbI1KMGm431shYa_VlTjUb8Blpp3pwSNN1Vi3g69xuQN7xfB0Lz3eegfTnTBXGWe0nxkKNu897lmzzDkALJ7E06I3_qZXRT4yRKDThpuaKTh0Ncpn5lM6HygnyMA8DXvv03l-hViaisCNukPmvUcO5hYcMCY6MUziT9YsHmuJbQobwMk3y4GYNp5h2WgvI9Q3QlsgS9rwVTro0S27ilQetsf3MYB2DbG_a69IJyTkhZZnyuE51E2kNoNfw5O2Ofp0WZMS5wN-wGUdHNwx2Ld8TVZOQjomvYJ212Woe5bH0stQOOvgd5NRXmI4A17T9EvYeeqUPHqZLXZrEDbOmp4Jwe3M3vjqG9DAnEt1SXhW4Kb_NrJDJwsFIZrtfCfz2bLSdWCO3e3HDZi4z-Uk-1OdNOqaKEZC3GzHsC8QNSjSEyuPFrU6zhE_5ZN4Eg7Zl142Rx7CZpwJEO9RI4RHTaGTOiOJJLEmOr8xC_UqmtOxgjnzYNGS-HkfqKDcBUDhZ1JsuM_RSJVMGiUJ_c9ozxwsRkOEYWmQt_7t-YEMC7dGZHHIOCP3WT4D4HfmjEATnFMyjr9D2DGWtOe0wWS4b31vpBXbFCxbuHgtrCZ6x4mzpToU0mrRAo0iJmpdc-yLTOZ-OrVfOkzHyOLLaSUCD0Ej2C5Z_K_h9F5_56s6lbNYqe5Dm2-oFB_XPKmYsQmRW91mHWNCEagfygETOVDpfePg-K1rUuLP2k9iS6W7deU-3QJZ2cIRSlssdsd8ebg9r6TO7mFXlrH4Tj2bFGILhK38ZJl6Ujt3dn6ax9BYSq3lRWGsgSBWvPe09_JJiL9WFxBRVI2Jc5uDXBLNPawZ-wmar2PEuo4aVV7A4Op4UmpTymXlQ72V7DP8RLwyUTbnZYPtewNyf1xDFC6mfj8qhRaAeeA0kQx0NQv8UvWmatIDNn4TUmkofubRQOGQzd9223lHt1y_snjtOy185G3EoWSpo8vPwJKreVMH_pRlt2mV60m81fR6XQD-uiDuijjlaemj5rniGyuuiA6YoQ9WfICoxikznUleuQdhh6DgNT5RUG1ivWlMLOo-hTdPjHYNa0xqtNeWMcotVpsKBzKb3UObkU6bM3rKXIsZg5lbD7OhlCP5blo9LfJhp9AbG3lC1FXeeqOWXdgeoYok6Oi4ZNfwV4-_I4adgVlQOD63flBtb7DU8JDvKUuBNq-dByp5WkhK3sTQavcyNCmJ6avs2Elr5f_mUzLBn20GT2dWXkrUzeNXAV6xvSelJbr3Bp6ai6Mdz3f1giOVFXeyq5xavvSTEuvtfZw18sdQiFvqE3UWQeuF196mtgxaQ9RPioAIfneJaLusCPngbEOKcoTM2dvsYVsMrJeuMrQ-_SkXDOudxUHhRkvJdXoeQ3P5VqLk6BUdzEf3_Dc1c282j4npfGzzBi-jbezaxOkKYwX7fXZojcZkoWSLBLAznosvv95ytgt5BPlzVnOQQvgn6ljybQuDSi6n7GSvrSG4kHyPuqHLxZBblQdj546OMhOFrmc6O_cLYGI-e4Fq-d1hNf7agsZ95z7agMdu36wun7XfugMIm8LF8KuUXC4a11c1rYNwpJIgGDlF9zSJVCSZi1GjARml77bIm3Gh5yfrLlMqxZ3_3SF-49VNHVrbfvyYMhBL2x7MhJt8Qwx9t002IHAntqsE-RiGjTaswaJTHhTim3l75nU1yiP-G_55D68v_hPI2uV6SNpJeP0ntSAsZqdQ7P-HixP8A9pAhxp5ShoH8cYBKCSJhByUOlMzKCcT-PoN6u1WarA==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05cbd1a94a5116b7016abee0b86f3087d19cd72f1d2419b8bb",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 478,
+   "completion_tokens": 132,
+   "total_tokens": 610,
+   "cost": 0.002276,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002276,
+    "upstream_inference_prompt_cost": 0.000956,
+    "upstream_inference_completions_cost": 0.00132
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 95,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

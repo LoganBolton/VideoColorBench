@@ -1,0 +1,21 @@
+{
+  "slug": "the-warrior-s-way-2010",
+  "title": "The Warrior's Way",
+  "artist": null,
+  "year": 2010,
+  "label": "The Warrior's Way (2010)",
+  "hex": "#2C251B",
+  "rgb": [
+    44,
+    37,
+    27
+  ],
+  "frames_sampled": 5871,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "SaphGCo-Fr8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

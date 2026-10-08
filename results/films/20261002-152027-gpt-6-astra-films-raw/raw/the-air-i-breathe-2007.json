@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954718-vy3otnfx2iRM9Zcn67FZ",
+  "object": "chat.completion",
+  "created": 1790954718,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **E. Assault on Precinct 13 (1976)**, given the predominantly dark palette, consistent with its nighttime siege.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing dark barcodes in film**\n\nI need to identify a dark barcode from an image with low saturation. The film seems to have a vintage look, like \"Assault on Precinct 13\" which has nocturnal cinematography. I\u2019ll consider that the average brightness of barcodes can vary, especially with dark images. Some scenes might be darker, like the end sequence which has various lighting changes, moving from dark to lighter shades, and it could be different from others, such as \"Pacific Heights.\"",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing dark barcodes in film**\n\nI need to identify a dark barcode from an image with low saturation. The film seems to have a vintage look, like \"Assault on Precinct 13\" which has nocturnal cinematography. I\u2019ll consider that the average brightness of barcodes can vary, especially with dark images. Some scenes might be darker, like the end sequence which has various lighting changes, moving from dark to lighter shades, and it could be different from others, such as \"Pacific Heights.\"",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8zox4xiJmW6-dHLdmUj0oXIo93kjkxh6GRURZ0BwN3xjqKtQ0I6BtMMtN8mFFq3BXkj1CMfXH7fsOrXK6IQOsXx7XaINC7V09wK9HwITugZca8IwcJ5hQdHB60BMUKZbZu3-iaKSMrDiT-pHh-gv0QhGly1Y87idICiVd1b-5FqnZ4Ztl42ZP0LAcDkyq2axfhPAW4Ize5viqWAVeCZMY4E7yYkFV6EjrLWu5bnWEHhf8qQ5z2PAEmySjthUqrmNdfGjEYhq-ywEFS6MpN9cLBEEQWHReZmwRL-ag2wa-lHgVMVC-wddk6vYP0HWBVHeivd5tQBMxz7I-fJjfOmsmnmrd1OxlLOXetqxfH9Lc2r4OuLD5_NOe3e0Cps4k8c4uhvkk7yslXkOFiBhd9fk8FWx1coZ_7Bt0s924WSD1XZqGKza0VSMnHP7_VBjtmzjgvWO_06Ymw0lwrEj7jruTlZBb9nBxy14zc3Lb4kXkAO-LqLktoMDtgpv8qnFhnCjl4SwPmdYtY6xy9Kmsec8P2wMF_mWYFqS4HHE3qGdN1Wa-Oq8L8ZsfizQoLqKHUr7BarEL5cb_XH6ascZD4v-DSB9UZYXzJK7wKmJQOQYIZ6hv5XbizTnGWmp0ewkWSSg79M2t7rEXPbcyUEn2xcLAMLX5WlN0paZra_5WLCkj2yKdUnDWcqtpAyUvdytVnVcMAAQVxTVHJ9ceGpKUSJTpqMJn_GN9bjwfXMv9D2Sz8jJ9BIYdqrqHuAMF7TwyRQd4nVxT4Be9r2S5yu2DLveh-DN6rEuEJxOaPmI3G6i4ySLZU_rV6ilTP7qU2QaC8_WlNPfEtHy2ilevgS8b-H7cbQtPG1ljPWT7qfyRrpfzA2wFJ_Mx7y6E8cvUkW9a7Cwad2x03E2UFiyucKR7nCZiJFKUIHFCpZKork_BR4AS-awmpN1-ucPy5gTJtLRrwODjWFH41mbKGhasYySM1zgavkedZioYPiPqRKSSnKeKITg-1_AF2CUk0zkR8vr1hcULYXfX64zVD2PFeH5o2ibLlDLzHoCnEGIbRbhBljN6u7aQYYyE_IxoHFYXiBFWyOo-OfZGCagjHI62cuqfGJY1GRiNmjRe4SmMOHWLU9APL2z0DsDD39niPWvPTUtJZBndFuxDZd_58UNQg78olXGHrl9Nzm59zg1Isv6VQaKQ_1aGLa-ub-CARVUnsoF1lbknBd0U7kl3s-zZI8nuq1Xab7bKGERu_tubsTdme4TE0xAZ4p6GoHapUZ_a1sp_4s9EVyANaoox4WHiXfusDechhinfzMDp0oxNn00onqnqaDUmvmwpbrzBAlAKRaNBE_qX4zSnAYCrEFcvM4danuyd7iSihwuxfZIFfCNe1CaQqpcKMaw8HwcIPaqGT-Y1na_FJqUg8DcHfrwDoNLhbYo3EnFTDrWXPBg_OPbazH1JmrkNAxfbCaJfTiWQPuUcN6LLOxBn1KzbgmJrOC_jRwPFnaQVIT5ZRcXERRVAMM2M8wBkDJ5zlIF9FGMIOMVNYEp3BKrtP_d-sYQeOSjWDjGbOk22TnxDjTiMzN_zeeM0NmrlFi2M6yJ87XJvHc6XNP-ZauFwaLo4LINWZvZdkly1Z06G32wJ1I6cL2TEwIIjShKb8TspzxML--xE1wyPNlj_hHI6URqN2TqzHvK6MOekMOyoRl4t8QTDrZLh5Rd9fgHLq0JYLhtRdH4ozGu0gRLxPKRpNm_jRrcPlc5KTUNqHydKvr9Z9E2BBFhEvkGJkIoLtDM_siBybVoRVwgZ0TNGI3Xr2kuae70_tGTIsWdFac2-yoDhfNjj4pOhvVwK696MWfRvtpW4ApdHcVv3SHY-pnZ4CVYoTVrqCXVxWcnNgBoou7DM4RHxxcHKnHeCj9R0RAUQk4FXKfaab69K7BMqt7xfqbyHgk6uCYys6eIRCQgtWje4Ikf73XZsOGwB_tK3ecB5dqoo5dfGvHFDgmaw5mZRcXTZ-DfMIje0TzR0_13u674xh4GrCA8JGrSh_Lsl1INz9ja02ehlFGc4YnmQbBUIcTdNUgHu44LJiYBScQAM0m-sWfV_P8ofvBrIlkkvX3mOtmhSrkNMBIOuCoiv-ZAOMVTqgfG9mR-4C4RN15gQ1Fr8Fn6-qv7poSn0Kb9OB4n8BZc8ZPuSHpMMjJ-3LfcDE_dVCF2MM5HI8raEd2OOkNSyAFZLAQFE44Q_D8yquPrHraZ-YXPqauNErO21T6uneWHkWklSIMd-sVdCIH6OpyttbQXTnLpU3yuyptdbG0zAlITBId1BqrZuEvKaM1Fap2_TS5ys68eylARdpgIE2_t0vsMZUbfhqBwOXvpLt7FB12iJqWIKNvjct1Nm31g9idVOWm9YRfrycL4x9CeqNiZ2HC1NEskcnFvVKvYyg=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0515833b95b977a4016abfcce08ac087d1b492384b4520d08e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 444,
+   "completion_tokens": 210,
+   "total_tokens": 654,
+   "cost": 0.01494,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01494,
+    "upstream_inference_prompt_cost": 0.00444,
+    "upstream_inference_completions_cost": 0.0105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 171,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

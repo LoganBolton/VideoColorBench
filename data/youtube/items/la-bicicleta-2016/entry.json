@@ -1,0 +1,21 @@
+{
+  "slug": "la-bicicleta-2016",
+  "title": "La Bicicleta",
+  "artist": "Carlos Vives & Shakira",
+  "year": 2016,
+  "label": "Carlos Vives & Shakira - La Bicicleta (2016)",
+  "hex": "#645F56",
+  "rgb": [
+    100,
+    95,
+    86
+  ],
+  "frames_sampled": 238,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "-UV0QGLmYys",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

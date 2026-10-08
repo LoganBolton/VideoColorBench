@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907310-Uo2XhdC3RQsWxtKTSAkl",
+  "object": "chat.completion",
+  "created": 1790907310,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess; I can't identify the film with confidence from the colours alone. The barcode is mostly muted, earthy browns, greys and olive greens with several very dark sections. That palette fits the look of 1970s European art-house film. It matches *Nosferatu the Vampyre* (1979) well, with its dim Wismar town, the travel through the countryside and the dark castle. The dark green stretch at the very end doesn't clearly match any scene I can recall, so it neither confirms nor rules this out.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm trying to match the muted earthy color palette ending in dark green to specific films \u2014 considering Nosferatu the Vampyre for its somber tones, and weighing whether Day of the Dead's ending fits better, since its finale shifts to a bright beach scene rather than green.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to match the muted earthy color palette ending in dark green to specific films \u2014 considering Nosferatu the Vampyre for its somber tones, and weighing whether Day of the Dead's ending fits better, since its finale shifts to a bright beach scene rather than green.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 535,
+   "completion_tokens": 621,
+   "total_tokens": 1156,
+   "cost": 0.01456,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01456,
+    "upstream_inference_prompt_cost": 0.00214,
+    "upstream_inference_completions_cost": 0.01242
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 449,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

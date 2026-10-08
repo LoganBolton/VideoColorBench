@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954439-3Xg5bp6PeBYcDLy3hAtc",
+  "object": "chat.completion",
+  "created": 1790954439,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *The Illusionist* (2006), based on the consistently dark, sepia-toned palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Evaluating color themes**\n\nI need to guess the barcode colors for a film with a brown, dark, and desaturated look, steering away from anything vivid. For example, \u201cThe Illusionist\u201d has a very sepia tone and high contrast, giving it a signature appearance. In comparison, \u201cSophie's Choice\u201d uses warmer neutrals with lots of drama, while \u201cBeauty and the Beast\u201d is more colorful with blue tones. It seems the dominant color in \u201cThe Illusionist\u201d is a dark amber-gray, especially for the final credits. Overall, a strong brown-dark barcode fits well!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating color themes**\n\nI need to guess the barcode colors for a film with a brown, dark, and desaturated look, steering away from anything vivid. For example, \u201cThe Illusionist\u201d has a very sepia tone and high contrast, giving it a signature appearance. In comparison, \u201cSophie's Choice\u201d uses warmer neutrals with lots of drama, while \u201cBeauty and the Beast\u201d is more colorful with blue tones. It seems the dominant color in \u201cThe Illusionist\u201d is a dark amber-gray, especially for the final credits. Overall, a strong brown-dark barcode fits well!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vPx6_PoojlV62S8v38ViKQKVCzL7pagumyMvwonEC_CAFcOKHDSGnQmAqQZ1xj8l5EusKJI2HrPx4pHKrP7OOHL0NJlLKq6nANAcvRFwOg-ypK0UXTm4kWOXsAGma35CWlJjv1B8ploBWQa2xKyyQtkjsFLW9DParJLHvCCpvb_PubetXPbb7rA1SfqrDt-Yb1ooU2h7Hj0hUnhOgwSaFLeYiqIeBPLheqZEkD9sl314NnfTXBYA4w4n3NEU9-LnM3GNQ_YsUGlAgBJodD2EWYWIy-5oo0p-n55hYXWCjbpYMY4GsjuxT8guos45xHi0vchg2ZR3HgzWm2E9ZbOit7qfn7FoPY3urg32xylVRz9HCxLadLGrLT-irDkxqfCkvAI7HZEDaA02RseUF_QL6Rc2T6VMVuYcxBAObR6TqZ7mvLuIR1nlhIOGaWhfveuuf8RJlQgsAWyp2eWK_r9Q66yqTHfjEh3R19R1bIvBTy97Eo1acR8Dw5vGrJAC6HtQCrUlCptDjE3Tprvti_m6rUJ-rBjv0l1q4eHSH3cknRSp_aygfSekJ-FSMI0EV8kTdzRbj4gI9teWvyy4bhM_bLEQIO5yWO4xCkvoM47v6-whKyq17xznFBL3xgW6Leu8na2464YO_KANp0t70flKOOt_GqmN_e6RqaReuhiqknNR4wg0CQ3T_T4QwI_YwafOKmKJtWDmY8cUQVaJeNhHLSXYp9t6eaXBSVBBQ-BZhUWqaV7yrqbwd3StcbOVMr6Pz2V9T10Lj1H77Qgwa8Wmnj9Ff_hZtRPfS-ya9A28_9G_DD77u1VqF7I5ah3Cr1krRjXDCCa4ErZojkXv13b84A2H4Tfk8UC_xtAczUXJ8AAtoEpuQSJq7aaZjqjcBwK01lLLMXl3e9tDvvjqV3KQz262_tl48wdVso-QvtY_ubMFYBVjJUTe3gAfP1fRPz2jKrOOJ61Sa-FSvbwKmNqfqu4ylNxc2Sa4l_5oh4qFFoQZGvKEF7wr0dzO9CPBAwq59PWSlLHrlXn-VmSl7_xQ5h1iCFBeBKGA_vN6Q_VLLdxFOmwUI6deW-G6eQegOij9ECkjiM5RSqaFgEBv9iFGd6L4IFXozE7NYV-NIUvWn5foTjiFNIEoe2kZ8p9KnbVu-PbAtnye0u1NA-p68Yq1PPf7EdeC9h0CyERq-ep99N_gScn6e8VVkdextFisrn7RWJx7rXyin0MH5SqpuImKg7TrTzOy25iIa7tppWedSQ0g-lfJUpokRd7iJ6Ik2BjWNirHbTfpCn8WW85CDjTtS5WjprVLXhIC1ynGzaHfAgYwWloCWTm_x4Aw6ZHESL5hxLPNeJ60XTRk0UpB22dA5WKV5_0TK-B0POAVf8aPXhUwhrU4zgmi4xlhfmpyrIIfUA2Nwr82Xdq_DsL2StpJ7Nl_0U3sdbm0sksLvj20_24JhGxSiKLilbzqh_cY8U87I8Lwi7nyQUX1e-fCGvfV4R3LTZ0rzll2Io1zZpmgCH2fs6vkoym3pjR1N0fEOQAKRk0OTLnkWGSI53ZBAGdaffjQnQmNb9kEiNf-Mx3SKeA-LlNpM20xGgE_o8CZzmLnJFB1lD-q3VxjhBqVTspWPElNgJuaniw214a9jvloyysST0yeoRpIMDn7zuYyX5fECu6kosMsIWX8rkBAVRdIf3Q8_IqXzx-kZN7xFqpz_t3dYAU6q0q-x0_i4Fn9U9kGcPuE4UYVdwHIYBhGT3eTqSrBlyqO_U8RCFMp-fld37KcQpukhL1c4WAxK63xUdZ6Xo_6MHh63H-y-P1A2FdaORUGD96AaU4Sf5Opp-NAXlobTkKo8H3DJzmdAXHjyHb3RWEilgYVHwdLFKwZwHcHaZzQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0e6af166793354d4016abfcbca4ad487d1823e4214fab01d59",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 428,
+   "completion_tokens": 115,
+   "total_tokens": 543,
+   "cost": 0.01003,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01003,
+    "upstream_inference_prompt_cost": 0.00428,
+    "upstream_inference_completions_cost": 0.00575
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 80,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

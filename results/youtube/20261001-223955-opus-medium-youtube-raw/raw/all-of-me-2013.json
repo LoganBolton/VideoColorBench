@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894419-e9Qdj9RvI0BryOhzBx3p",
+  "object": "chat.completion",
+  "created": 1790894419,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess. Almost all of the stripes are neutral gray, which points to a black-and-white video. That narrows it to two options: Adele's \"Someone Like You\", filmed in black and white in Paris, and John Legend's \"All of Me\", also black and white. The overall darkish, moody gray tones fit the night-time Paris footage of \"Someone Like You\" slightly better. However, I can't confidently rule out \"All of Me\", and the bluish stretch near the end doesn't clearly match either video.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm trying to recall which music video this is \u2014 both \"Someone Like You\" and \"All of Me\" are shot in black and white, so I'm weighing which one matches the bluish tint appearing near the end of the clip.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall which music video this is \u2014 both \"Someone Like You\" and \"All of Me\" are shot in black and white, so I'm weighing which one matches the bluish tint appearing near the end of the clip.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 592,
+   "completion_tokens": 527,
+   "total_tokens": 1119,
+   "cost": 0.012908,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012908,
+    "upstream_inference_prompt_cost": 0.002368,
+    "upstream_inference_completions_cost": 0.01054
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 358,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

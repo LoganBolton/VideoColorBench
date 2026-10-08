@@ -1,0 +1,13 @@
+[
+  {
+    "model": "z-ai/glm-5.3-flash",
+    "n": 100,
+    "correct": 16,
+    "accuracy": 0.16,
+    "errors": 0,
+    "unparsed": 3,
+    "leaks": 0,
+    "downloads": 0,
+    "cost_usd": 0.4293
+  }
+]

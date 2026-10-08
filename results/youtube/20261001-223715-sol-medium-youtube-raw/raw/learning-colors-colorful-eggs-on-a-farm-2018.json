@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894348-XHR6j1HBsOSAKqJulQ3L",
+  "object": "chat.completion",
+  "created": 1790894348,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing colors and themes**\n\nI need to determine the overall greenness in these contexts, including vegetables and certain characters. The first example has a darker olive green, possibly linked to a recipe disaster involving masha, which might suggest a forest theme gone wrong. There are also images linked to common childhood songs like \"Baa Baa Black Sheep\" and \"Johny Johny,\" which involve contrasting colors. The Hanuman Chalisa video predominantly features dark olive backgrounds, contrasting with themes of spirituality and nature. I'm pondering the visual choices and their emotional impacts.**Evaluating color themes and visuals**\n\nI'm noticing a majority of grassy foregrounds against a blue sky, with muted greens appearing in various images. There's a distinct shift from darker olive tones on the left to a brighter green on the right. The Masha recipe theme hints at a kitchen setting blending dark and pastel colors. In cartoons, vegetables pop against vibrant backgrounds, like in Miroshka TV which features eggs and grass. Overall, each piece conveys its essence through color, and I aim to summarize this concisely.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing colors and themes**\n\nI need to determine the overall greenness in these contexts, including vegetables and certain characters. The first example has a darker olive green, possibly linked to a recipe disaster involving masha, which might suggest a forest theme gone wrong. There are also images linked to common childhood songs like \"Baa Baa Black Sheep\" and \"Johny Johny,\" which involve contrasting colors. The Hanuman Chalisa video predominantly features dark olive backgrounds, contrasting with themes of spirituality and nature. I'm pondering the visual choices and their emotional impacts.**Evaluating color themes and visuals**\n\nI'm noticing a majority of grassy foregrounds against a blue sky, with muted greens appearing in various images. There's a distinct shift from darker olive tones on the left to a brighter green on the right. The Masha recipe theme hints at a kitchen setting blending dark and pastel colors. In cartoons, vegetables pop against vibrant backgrounds, like in Miroshka TV which features eggs and grass. Overall, each piece conveys its essence through color, and I aim to summarize this concisely.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEYeqYL6r0Tandb3fwX3sjVfByo5k96XNpfLNJVlQQ-FuPSvW2d-8pBJPdDEIPgehJ-NnT7W7DicKTX4xOk4mXIlV-XsJbKX8Bgt2lOdiaXg6-r6Q-e9ihPC1VOXhRNHOrYr-pFwEzABM1t6j72pRAfh1q8rFaqsPdGJa8YUIj1gDZt8qp6GqAfMkkjsVCaPdWUvBfpvxQE2sLCg5pqEvaUGCbCI1n0HJWwk7g4yir_AlZCV9yBDSGjHVCzhxiFGc_Mz6DpQtJ9iWFjfiBaBcKlgbaoGxKC_pjccRcxK34N2UBP9Z7VCCddZKXEHakgK_Tcbhdc7L-PQisM3Nk9hSZcBVtvYsUt4RlEhw4PzKuvi01l6xXWZshajLOMJXNE9JpuDCooDdGFdPOEzqadhXL4vxSaLq8b6kwHJ5-68gEkfA0uyPgGv7m6-3iqRc1qNM3ukasjUWITIeaudsNT5NcXoWgX_8pSntTPRuK6vAvSNEzO_F3hxDS7OE4DcR2hzJfQoFnqpu0p9z4gPXwYMUgwmMomqSym6k6bqxkRlcH9K8zdBthvy9mSDddtRVKm_p2V6_ePpOwL2vjSYCDc7qApzWAFd2YlPNGajGY856TCAj3ZQM_Ne8mqhiGvx9CKdkWiVRGifOXk3h822qiOHJ9eTKmgRHIJ4fHXUGQlIIRw9sC1lEpDeOEPZvEQ88nMJbpKAqI_4jhGGqgvappTZxqsQx7K_mq8M3qvpORa9ql5LmIE5Nd56ZZoTCzu9M2maGQNmbqi-XVeKzhoydxxL3zYIcfJ37sa-gzLswC8_9aql7FxQtj70J9AQniCgJYvCs9kNGi5dIFaYoi3mZSoWZTEaFHnFIy-rn9QPOiZ8S57_bpu3jNpcSX_dbnG3DT5JXhi4ADRnBSR98TFAJcdxFV1KRfg9CBqAYEKrQ3jAsfQZzY7c6sAvgqSug2BMDSjsPPGRbhBrTrw9EnUTeouqsZCP8o_ogcCBBfI-lZn2C5Noce5maeEMxKrCKSHFJrspc2rijQG2iu0Dj8o65shLKDhKxv5n2xdYakuTNscVdSxlotekjfwIkcO_XJyYKv0YFO9onhmjHoaEQJEEYk2Fdh6uJ--vGQM-vD_5-1E-DChdQNCN68Ae7yS0ECHb2GmP7o56KzuwCnn__XvXEv7MhpfQosBSZe8COB2AL0Rq_oYUeJdfqe68NTqwuYwgM8yKE2u6-P9eYQxT8_Z_g8ST2wDvXom5J0xzi52jvoTAaKN8MYNKKnYFXLhcAIugjJremE2xBile1pO3GDYGo9Sg_YsTgRhcn04u_P3PFQApl9_XELsVIL8eKSLqPgwjEIggZhdVQ9UoDQrGIK2Wr-yGpQKQ0wGgiQvBo1vIpuTRkFN_TrmaHo643o6bujw4T2ybvmLgelSM8iwggQsfK8fT9YPx0Bg4jWtMXyc8yBUG-rfFpo0RG_2rR4oE6-lYOrWF8fadS5HFVR53XFdJmisWNwkbkLy3ralmJk94_BgN_LOVXtMPNFvNwFsSuhO23TYb3crS6S2gTd3NSjjDvfjgVgEkXrddMqSoUqJG6ESLBifLZRQVhNEKoSoPqLNKyqeb4Xj6PUMAjHMNCW5pDQea08bN98-Ryl6D_e9aVSdAlStp_Hcfd0bkooJeEVM4vVaDTWbl0LpL1M2mFHZuVSg-gHD_jxeDlGglRm4EjPsx_tJGDPVK-0SUnxKLvIw4_W3j5bbOo6CHVKwQ5YBpSi1XfWtgmYjTbvJhSumX2OPECV3YAYTNDlau56yvomdDt8vrvio-LWcu_0ubFJWObQ1Qs2lAOyi2HPOJmGGAG19we4-PAVwNfjkIgjR9nxTuP-hEH_4jWuqQZJroCzkziOin-RExH3_osh3xUphmo2PVXJAF8TJKkECrpNaV1_Pq-lcpGiAOBQ8rctKadooBdz9J4Z7x6o_xwru8OF1Ag8EmLXnfKXcku1ZKDDOSVBNekSg6vIr1NYl1DDz5FHkB1T2dbKywkOfHHAZySGK7r54fNTTIjgH93n6CaP9MuZlKBjqPcpqBMwP8pnA_PlhYOatM7WbD9MYJThHEJGaQulUFCzZHmnb69KRFHbe7IsIW-BBTwYRJ2tnDvVJUHvkAGcAIOcjnk1X84Um9qWnBRCCx6uQBASUwhiP0Zh5BdabX0hSmX4_Erh_jhCeBN6tU8eX-gTVEvNUDzz02jpF4vCLMhjmSdrxlLtoXtchM3m9ncaD_doKJWIiU10MyZ1TOGY846EW7hCrI_Tyyx6k_mP5Ig7EINaGXv-kwT4TwUhsXD2Lf5XclR_mlgHgF2ppw2B8jKsCyyjQdQAYcWbKGs2jATcXiWmAG-PS1-avjuRceX-1Ra02ZDDVESOx-mH6Tch21YJ4DSduni5emLpso-xFvKeuC4pGThhC-mLF8M7XbXr-HFhNY1JX4kbT0gdqSrI8rQ_2nJodooMH_nKNaNVx3ddpbaHedKrMEbOuOGUEd8m1hHmY_NwYa-63iCxfxkG7U2BWHmMBEx8q88bBURwq-BA63RyIwR2LW4EE_U2BtwOkAOqUEAnqBjN5NZ534nis7l9XJw57KBKZo58c-zoWuo3vo7ohR3ToBySta3Hfec4KF-ac9uV1rXk97szMxS1PqGKndTqymVXPcH0ihMl2GPUKngNNgHLUSOrr-zMX8llkotuoKET6jDVo5eb_kpQFIpZT5BA3mCPHLcpygkQ32CY7Tx9tsT-4yMSs91XNls-RF8wx0GdDSEOUzJaQh_3IHcyma079I2ysIrxc870lHlcEK0Zfq7qvETnRSrvrNQgqU8SDIsppxrcMxMQ3PkuvceFpr9Xe1DRsWfH7wbOnp5ZFGGoUnSBBdfJuU4khhIFj98rtefHcnXmFRPDLBz-RHsFM2uaUl5n5ys9EEjYzYKko8HZLrlJFAwInn6QnBPuiWlc1tM-VbvvXVeNE2q9Z-I3LGDW1_QYUfCHUCkLEsgypdmE4N0EoE4hqA_61HG7SCdXMT3HbHNhLoXmDtjA479IGUWvaGSRNrC9ROVwV4akJqQTDCkxXraPz0da3575us906fxPtGfKEfKIZfjl2IFErUdrAZDw8L6CVQVpN8LCr3GPiI_10R64GBpXPRdu4mhJkqQ8ZwahsJEdJ0BWIvE7PM2vCaqhVWJnmgZl1k8Zyx2iBYMfFSPJLDbzieDUk2sHxHRhoty7Mo_H14_rImkIuAV8amKktcNn1mLP3HIDUufX449Qiovugz--ZdO_GTO4ltV6a7tEvFFRyDOnDoUCbTpOuqEjyXRaY3uRh7VZP7uaFuJwPOmDfAwAvSwYwbtA0WjJGfAppGlI441bN58wuOiMEgPsp3mtXqBvK6W7x5Oj5ZbBb6GDpj5AoZMUKV-JrkkNlUm79fFTEvMffGbMrmOr6a0LI0Z0n7pmKU-q22X9TjjpvHDXTqdkaceoLM4AAB_LPRtUo1Lj3gmWGqn-W_o2mQZI-lY0M4O3y5UYdXAg4JFh13f7Ud4vIi7IQmOu5qhKvWn2h_8HmT37duS6WRHKezo0wr5SyeVLFlLqnNOixFCnIl-e0WDyJdUCJcN4mMZsry-_nAJp6cM14JzKUBkCtiZJ3k9MO2i1_A1MDzlBJF9UJAW3c9WvdEkhF87KqlnkCgqXdoWtbpRygAy-Z7t2F0vXgp1EgMpBzMyD8i-G0MPJ95ygZ8pkuyC_qpcKHXXTUYWpQIDirGJYJNuj7NQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ea7759e3734d050016abee10e497087d1be5ea43f5d3faac0",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 506,
+   "completion_tokens": 368,
+   "total_tokens": 874,
+   "cost": 0.004692,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004692,
+    "upstream_inference_prompt_cost": 0.001012,
+    "upstream_inference_completions_cost": 0.00368
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 359,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

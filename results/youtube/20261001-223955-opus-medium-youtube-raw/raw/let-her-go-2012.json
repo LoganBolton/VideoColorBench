@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894419-wKdwoPLVKE9FBa1vvkEX",
+  "object": "chat.completion",
+  "created": 1790894419,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess: the color evidence fits both Let Her Go and Counting Stars, and I can't rule out either.\n\n- **Overall palette:** The stripes are mostly very dark, with warm brown and amber tones throughout and only a few navy or gray accents.\n- **Passenger \u2013 Let Her Go:** Its video is largely dim and sepia-toned. That warm, brownish look matches the dominant colors here best.\n- **OneRepublic \u2013 Counting Stars:** This was the closest alternative. Its dim basement scenes also have warm wood tones.\n- **Adele \u2013 Rolling in the Deep:** This is dark too, but it leans more toward black and blue-gray than brown.\n- **Other options:** Most of the remaining videos are brighter or more colorful than this strip.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm noticing a pattern across these music videos\u2014Rolling in the Deep, Let Her Go, and Counting Stars all lean on dark, brownish, sepia-toned visuals with warm candlelight or theater lighting against grayish backdrops.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noticing a pattern across these music videos\u2014Rolling in the Deep, Let Her Go, and Counting Stars all lean on dark, brownish, sepia-toned visuals with warm candlelight or theater lighting against grayish backdrops.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 615,
+   "completion_tokens": 887,
+   "total_tokens": 1502,
+   "cost": 0.0202,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0202,
+    "upstream_inference_prompt_cost": 0.00246,
+    "upstream_inference_completions_cost": 0.01774
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 625,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

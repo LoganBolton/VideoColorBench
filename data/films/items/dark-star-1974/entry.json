@@ -1,0 +1,21 @@
+{
+  "slug": "dark-star-1974",
+  "title": "Dark Star",
+  "artist": null,
+  "year": 1974,
+  "label": "Dark Star (1974)",
+  "hex": "#302A2B",
+  "rgb": [
+    48,
+    42,
+    43
+  ],
+  "frames_sampled": 4944,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "8DNl4cfENBk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

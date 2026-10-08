@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894297-zLEk0R3GicW1ygOPj0sy",
+  "object": "chat.completion",
+  "created": 1790894297,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Ed Sheeran \u2013 Thinking Out Loud (2014)**, based on the dark ballroom tones and shifts from cool purple lighting to warm gold.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Exploring imagery and colors**\n\nI'm considering an image with dark, muted patterns almost throughout. I picture a ballroom dance scene with dim lighting, using shades like sepia and gray, avoiding blue or red. There\u2019s a sequence where I count stars, moving from greens to purples and dark olives. I also envision specific color ranges for different segments of the image, like muted rust and dark olive. Overall, I\u2019m seeking a cohesive narrative through these color choices and patterns.**Reflecting on color and imagery**\n\nI'm picturing baby blue becoming brighter, contrasted with bright white snow in the latter part. I wonder about color choices, like transitioning from purple in the bedroom to neon in the bathroom and club scenes. Also, in my mind\u2019s eye, the ballroom starts without green. I think back to the \"Thinking Out Loud\" video, which has a huge ballroom illuminated with varying lights. The lighting shifts from dark to energetic gold, finally leading to darkness at the end, giving a strong emotional effect.**Considering visual themes**\n\nI'm thinking about bright outdoor shots for \"Counting Stars,\" especially during the daytime, contrasting with scenes of a child in daylight upstairs. The main performance seems to take place in a bright green warehouse with beams of light and a warm tan revival theme, suggesting that not everything is dark. I guess I should choose option C for a more visually engaging interpretation. It feels like a lively and vibrant setting overall!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring imagery and colors**\n\nI'm considering an image with dark, muted patterns almost throughout. I picture a ballroom dance scene with dim lighting, using shades like sepia and gray, avoiding blue or red. There\u2019s a sequence where I count stars, moving from greens to purples and dark olives. I also envision specific color ranges for different segments of the image, like muted rust and dark olive. Overall, I\u2019m seeking a cohesive narrative through these color choices and patterns.**Reflecting on color and imagery**\n\nI'm picturing baby blue becoming brighter, contrasted with bright white snow in the latter part. I wonder about color choices, like transitioning from purple in the bedroom to neon in the bathroom and club scenes. Also, in my mind\u2019s eye, the ballroom starts without green. I think back to the \"Thinking Out Loud\" video, which has a huge ballroom illuminated with varying lights. The lighting shifts from dark to energetic gold, finally leading to darkness at the end, giving a strong emotional effect.**Considering visual themes**\n\nI'm thinking about bright outdoor shots for \"Counting Stars,\" especially during the daytime, contrasting with scenes of a child in daylight upstairs. The main performance seems to take place in a bright green warehouse with beams of light and a warm tan revival theme, suggesting that not everything is dark. I guess I should choose option C for a more visually engaging interpretation. It feels like a lively and vibrant setting overall!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDn3VPEmOB5Z7_lET08OJVc_qOVtgtgBBolMkA1wHnp8uOH1Fh63vIYGYM06H6lp_nSIyN0xgzlNDkeCKueUxgEisTPUOtL0FAPZHDCQoolsSdCCOVVKDGCovfVjTi3NN--iQeYQuYV6FHfzOAYE612qSHT_PahEBW2cLL0d_cyA_AgIIJneg2SEwRpuM-cJglQ7I56BtVjfOwNH-XX0UAd08_oW-puksBksisg4x5DTAfGnNNxZWGz0wAQMS9SlGjeiuuLMAtOhIRscXYv37hCHk76MqHadcVPNEOFQde04DNJBXe3IctwvktY7rOlKv3N8H903VfunMKt62kQvIc2E8__sXoJQGRf2RRehm8UiMne7CesZE6o8E6G1b8UBO4UX1MTjw62ySlFunPl_ZwYqLa0r4TmMML0LPrWI2WXaG-Cwzsf-v7tDr8va_kxdfIvgWlSq2OHL4QPOG1lqj7_fDQAx-8Tf-4Gilfrog5HzPGTtiTrPr8kPqKsUQRE52ePdxc8D3ca7uT4x3RQKR0OpK-PsjK00M5zQ3Edoq0EPb0L2zoXx3VgCMUQZwgpm5jqdnKHfEr951IXV0rkANNKtnV6S0vxEwGbKs_vHo2qKyD6bNgx9jVylla6o49NfLmXoZw68g4Yke1wrF2EespstdEjPtwrnGkI8zjP3vFUgjeGx11oZ6Mf_qm_O9gJ_MC4X5pXfDTuge2GK3MdDvR5CFJrBb_qwEf-JWIHjkJz2gZYano4gxbmqvNey_rJs6XEt_jJrhwlULj3qPhCSemjnQpR6FNN-IXzGflK5g0XSL9nV7zyuRY1GPOK-7w1QbFsCUv84bjqqj4CRutQYnblaK3tN8H2loK1-mtc7zcS82H9WAt6gmN2hQKW3CIxDfZmHl6NzGhu5dTLbmDYKOZSBgLIcazLr4xSX3oiL_2s9NV0FGAhh7zvpKN8bWFhbijYnrkMYCJKEqDkmRgPDP-F3fMndeszCWAOjfTaUGBtUhm6qb4DxflwMsUX2-CXlmcfN0dJ1kQoYj3Ju0EAubqigD0VV3ieskgVZHe6YxjGeJ5sPj36lGRqsoSRfzF7gmdmzheKSbe_-4s-LfnUkOx-IyFtS9NPyW7Ll32au2XIf0a1eJfLBNJoqYTXKCEhCIPFgimNw5GGqFqjkSdmheC9n6AiHF55YskzTiFOtvsoBpaAcsvrYjtvXczJEvyR0TGH-PT4j9eYJMebNiqeO1gWKztWh-L15LDuQ2159n1ogQVPF-tQB97try-V2MPNjWa1c_Jh0snTqDShRcxWL7YTxe8DKOZ_UNbtAtpwkN5KtAHfmfan0WhTE7gXVD11imY5jV6Z7FGNt1XfQt6Y2-i26xHSl5WbcIqBE8kcqrrD2iAKWYgoguApqdHn_Dtt6jUtS1yKV634kqB5kDAJ-d6rPeiFtaJUU4Yl8b-RoUW96e38lhJYkWYcxyMg469DRkKYLb7kbUTxexDjvr59JRLlDgGhiPxtiXkFhaqBtRyi0g5ZebdWlrMznpmujRSNnGaKeir0FmZh1uL3leQXodGmJ02fLMffkTY1whgHIxAZ-jiXlejtTbJ0TxvRaQTySOVeChf1shOo6IUfsfFxJkCXnDUYTKLYoXAj0VBW7YJ43XBzUeqeD3Pxp4h1G0iWnALTRz1fZeloAw4vN80ite37rFYfZfaGDuNIO77BK7CgTb1bPf4MHvPHF107IqvRKNRHuFgGej2emW8q428_7ItgPzM28gOHHDuAU0wTYyE_Bxs4jsq7iMA0oV8FU4oPr2PEtqDmWYfDfTyeT3RtreBo1pZ6c5hSAWD1Ui4Ha0TBNw5il93gX781crNpsfbqJql2ragJyp0unGhcj0-RYEOUx2nqOqwvfJJfcMskFGJZ3gCBddNUQrIdq6iFYgvcrlYHFuftdrolPgduu-Kg2Qo-LLqpkxSY2p5aTKbygaVP2zmTk3tcYFCh1wD7kenh4wbKaEbiEnp_ummwg--31585Z_DCldurX52923nJtVr3_Kpgm4eSN6CeHerziEv851kTeJmjlVuAzytkYhyXSi4evyDXRY1orQLWnda59o8f8MOssCotolFSRW0CI8nH38TyfCzm1xwHY0AOdBf0gUxWZ7tuS1doGH_zxE5y7chJmYf0qvuNuyXJEfPuroJtE_56Iaz3OOCUjdlWew1lMZpZhJH-HG7AVcZxVvMyRhV2seIZUPRLnZSJwxC2W6HCzKcaEYHfLX_i9AuXz1kcZL5dsyYsoDMhaltCNMus1GvHj2eVJTqqAs2nV8Fj3F6se5k5CAPpvGb8au0jyiRd2HjG0giQvDRvTVVPyl_Da1ww1rRJIVnq2SgyMdxRqtAbRiHZ_tqzS4F1iVbA0PBHX5azYq3GcsIZJ-c6PGooMb1tXPynmRma87Z-EcFR2lbSPxjlL7kedlV1_AZMBtrBjH4-jmIxCiftxx31DYkFAR74xnD8r1tkGiRWsZLhOTNAx9JedBj_Vi6OkAu55UjvOM6ypB3uaQvBiIW4Wz9_gEbW093rA1xhGxjnU0c6bNvXMgE2nMDO0qHmhMg4RkItI3y-ICM7DhgY-Pr3V7E7-W_0BxR_rNuqMrcAN3AozuATA5B2_8HNw8jtFXF3MXBX5v4CJEvBSr3Q3Vjjvzi7U2mExYY6FZxKJyF4nXKMPaF0oj1CHmhqSW6NQjTgxOO4tk_oG6f-s-oMMIQEOEwTaDG8xlPrugkX35wEgLYb-baiD2-ogTl--g0mL01J_cYczpCl23ImXvR-ZqP5Tqg7PxrRYhAbzuSwU8LdgDBjFz0nBngDBdqFnHJbPf3KCtH72V8OzX9Lwffg6IESKRKRsaIyhZ_jlByCvetIdt-97BmiISHZSRa8WPYDr__ZiMahvJnzXASdMeJ1blO5d7DsK26zEY2duEhB8XdGmiJm9CF7Mg2wUXtMDs7M9UWgXQft4zA6vQcFwiAAix3goP25QtyBQJPnrx7kyhSnX1fq_4GQgO_eDQo1SWe0cMKmHDSgfRsBeDAQa1ZF_TyHkeXK8BaUydmX-OO88sHH41vOiJGx7Fm5l9wigwcMHrMaHQkg93J4qsPgagQvhD69plOyswT3sFoXnC_wnzkFxYCx-x17gEPummLif7elu-z3q9Znd3qFVBxYGwe5k56vXm_f5ttE6euI5JO9KKvnCh1dv1Xf6gICPkd8SfoaF0wCTXZbqoTCRyUMbdvLZMMzTr8iPcy4Xh-Az-9UEGCpK_J23LY_z__I2_7Fh7UHCuMZNgThZPy69-fwPUTWZgTToWyoYy0fFKSrVjFMN9wGBw6th5ZoVhkix-mLOTqzoFIJdWGredk5wYQiINczxVbdoDKUAXfCV1O1wRQ-dZZGr1Ha-DfW2-IwgcdeOHNLFhLy6u7JlNIGeowiMborW8AiMVUAiAALvYk1wcfPZH-fCyFTS58VFj1V_O-e3j54y3_A2UCU-OJMoUIPJQoLzj2y8RQqJZTg2gZG65D-offNbbOAXxmhwIn0as31Cfs6824PTtHEZKY1v4b7epXKHRriRWBTpt4Vn1_lAX9c-f7Fl23yenjtxff4yJVoDUbx2V6unTxp5DAQdlAP9TzqbXzr6Jy5pWIG9OYnh9K6BIOi_zQ9iyYSbzJsL4MspgZvbpZbOqQA8r8Ljgi3BsrAm5JpIAguWi4R7WheSmpAP3LkSj9gLuvgzCI3gHNbIwU6HS8QPVL8G4BiFeoDJyasy5V1ZhHSdNLaZo-pZsa6MdniG7AEJ4rx5VdSyA7JseVHMsHoYU197VcAVbpe8CGIrHcB5tkrubTYMBCYmdAmr4DYqsABWonzs72oIULoGiYkgdQoFkHC0C679ImXXOtNOpyeBcZ17fVMb6f770e6_v5Rc9b-4xuh5MZfV86ZRwQCCFuzRBRTnjtHMM1qNde4VIFB8-m0JPbgtf2wmfWy8vSwmGmj8q648Bx8AtKWLRciHp_j-5p2ADrb69rUIz-J5lYZ2Ois1CJeWffCiVhlT-Nkx_VpJvUA_KYfmhoIRosdWTc7xDyPxmwO9WBDvAJBPIniPbw5F5rrD2CCnM7_Yq7e7f6Ho8FNHsu9.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_03e7e5a1022c5888016abee0db6d3487d19432a0860f753244",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 469,
+   "completion_tokens": 461,
+   "total_tokens": 930,
+   "cost": 0.005548,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005548,
+    "upstream_inference_prompt_cost": 0.000938,
+    "upstream_inference_completions_cost": 0.00461
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 419,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

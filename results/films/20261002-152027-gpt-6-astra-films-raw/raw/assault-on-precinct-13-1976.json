@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954588-q2E2X3Y6xaBOp9w9moQE",
+  "object": "chat.completion",
+  "created": 1790954588,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **B. Assault on Precinct 13 (1976)**, with the brighter opening giving way to the prolonged nighttime siege.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8xh06r1Tag8k13YFL5j9xyXm6Sbr8GE0wC9zZ0_AM8hREMwoiwaOS42LpWspHWyg2I7FLBK69RUK08qbcVfH_6BA_ELiKqh5J6-EQHivS046gJBCN0Thmah6MPwluXzTh-l26d5NnYyDdcMz3eZ73AjPMvbRbLqJ8KuaJjEAKs_pRBf9gkH1Xkf3NcyVoObxLX4WSfaG0G4-9rHNnOKgbYmCOXlc3G7DO_sWkJA_YkvGkarqKcQm3sqWUiLMveHUp2tCaeN-AZnXLcrdaaCWQqPtU4ncMynCGPPvOonT76bkariWBNpgKPM1smGL1GImbP7cI75-vmmCNzZAjDAWyoxlNbfdkPSt2Ud-NKftzH5uCIDnkWcM5aUCNBH_DP7Hbl5mej5icIwyle6KtAwYSwqEgoFFoLOBZIVWUXcmSkNyB1MhbShB7eS7e48yaJIQviS-cbOKaa_dp2Gr_djU-aN97WWYHNWFAKk8VlKKBNKuirtQV8yzJKnJSrrWAsJapDO49kCScC-IiGykRALp8o9gSWxuGZFGun9y6lAlfqFYbCva1iXs0tT_UZiS226bzEdOqSXcB2aQ2lXkNkDU8hA4b96PstHyViFjJosjKTh9mxHnktikKKe1DPWR3Qk66ydA0VAQ6nb1SFJpaS8Faegyl4YPXILKFz5-iLn3-6BjKvg_93Yr47auH2p0oTgG3dT1zrlLVX7ehm5mx1-S7LuSPxOiyTNqderZDsi06Hn_Ka6pru0If_cNp1pncgaOaK0oV5lL_tD6JoBGngjVN9clTdqLY0yfahJu7BwvlnfjpgC2xVDKpQGMknC6bPLiiJKC15_ghT1Kzpr-rYZh0-1YkDGZVls14kdWwS6imgt4h0HAcTvUO--zAmmJ2E0d5xFR8UMPHaNvVI9kG2IrtAsdIqZSVTifrs_bOaL5q1kDLw4Q3oHZqEEz72tz58cVUXaR28g1Yz44ZcBEE7f0kwIebUYXdYPb1Sr3Tlpyl6GeUbxhDJZ-Q-TFy3aac__zuLJptfL98bk-iBYrxuTVA-TNMYTuq9BpOGG8cVnAW96YMdhwQ-o1x2D70IZrjBVHNTDQkJnKOooMwxP1to1m2sveoO4vu132uT4WxEddaNVEXWMl7qaoQW42UzVfCVzzYQBaO98m-CZYI2Sy8bvZs5189NRvO0RMkAELMvwIBgOmXTGMpuyazutYlQV9e23iOQVTH7e_SjPlBKfsSsoFm7ku_96v-Gc1H_v6T4hlHgG0aU7jQD6zWPGv79quely3zGgfEovO55trKVttcpnCQJCQFQEICzFDvyir7ZxVA3YBu-CUEAVMaV6tWk7mpe3PHbjkWTgSL4B_8qY3LN4ugmzagkwlWDIUE3aHDkC1jPBPENLDYj1SCkEvW-Qx66s9pXueVBwGxBysabLZzDiyTJLmUFnyWUtLQ7Ule_qi-Dp0ODKTe1xOYnOCuJEFZPkF30fcVeiiLPqB24ZyCHLXFI6kOmxsuqqO7NgU5n5CKsS5Kbmr6714TyNk_o37OU8_q0-ZoJkiBfXUzu4OeAXUTswOQCQTRL8vD69lhR_n0IAr0oLDZDULbbPBI59W96jqtweZKxRlZk9oojglfbNSd5lNVXCM8E577XOtPGbAohEGVoJY5PVSAT41GB-4qivC1i1AVsjclU5dXvb7Rs3mPYqcG60tWfALNia7CKD1f6zecfJHp3ATlw5GMZowViia6RSx1oRDifD4IN8cjU20MK9IWbPJXnU6Dzsyeyf0lTmpTpLyfy1uTeoHCKGuzgzM4qyNfSHj5kiXScthUBExdwYJXLUwKFZjzfBT_JUzKyxlKjtpjYcAOJcOTottuZzaIQpDQzYjN5q3pP9lYYVlH5lYhL5BzxbRE3-Uzw8pfZb7v0Eajs-MhGnoNH8rtS75KPN9xXUWrk_XanCMAkqX7ovw03dSFl0Cii4kW3YIHz8Wc0dFDT5z4OxR2vZMKixjypQhjuDc1imr7Jt6lNToFZxGkss0UXFNfjjP3bOfxOpJVv_2A_oAadcgTQVyqj5hNbw7f6GH9Gr3j_pkZYoWd2Aq_Tf5Qshrz_bOCufZ_PcP-0Q1NBpDKT2vxS61Z3mNoP2.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_049f1bd948aa48a6016abfcc5d87d487d19ec3193f7c4f03f8",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 440,
+   "completion_tokens": 157,
+   "total_tokens": 597,
+   "cost": 0.01225,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01225,
+    "upstream_inference_prompt_cost": 0.0044,
+    "upstream_inference_completions_cost": 0.00785
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 118,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

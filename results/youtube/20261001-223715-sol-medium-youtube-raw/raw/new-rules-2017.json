@@ -1,0 +1,85 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894324-sUyK3kEMSUFiE5t7PRKH",
+  "object": "chat.completion",
+  "created": 1790894324,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Shawn Mendes & Camila Cabello \u2013 \u201cSe\u00f1orita\u201d (2019).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Assessing color palettes**\n\nI need to evaluate a palette with stripes of drab brown, gray, and teal, focusing on how these colors appear in the video for the song \"Senorita,\" which seems to prominently feature warm brown interiors, including diner settings and pool visuals. I notice that the video transitions from darker tones like red and blue to muted colors. Strong pastels, like blue, green, and pink, don\u2019t match the subdued gray I usually prefer. There\u2019s also a mix of bright whites in wedding scenes, but I often lean towards gray tones. The video\u2019s color transitions are quite fascinating!**Recalling music video scenes**\n\nI'm thinking about the music video I watched that starts with a dark street leading to a club featuring a lot of brown tones. There's a modern apartment overlooking LA with teal pool scenes at night, and I remember someone singing against a teal wall. In \"Senorita,\" the vibe shifts to a warm diner with a sunny atmosphere. The video for \"Starboy\" opens dark with a masked figure, transitioning to brown tones and nighttime city scenes with a consistent RGB brightness. It's all quite visually striking!**Analyzing video details**\n\nI\u2019m reviewing the music video \"Senorita,\" which runs for 3:26 and opens with a scene of someone riding a motorcycle, followed instantly by a diner in warm tan tones. The first 15 seconds are relatively dark, likely linked to \"Attention,\" which runs 3:51 and starts at a dark party before shifting to a brightly lit tan house. I note the colors\u2014teal and light blue featured prominently towards the end of both videos. Now, I need to decide between options B or H.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing color palettes**\n\nI need to evaluate a palette with stripes of drab brown, gray, and teal, focusing on how these colors appear in the video for the song \"Senorita,\" which seems to prominently feature warm brown interiors, including diner settings and pool visuals. I notice that the video transitions from darker tones like red and blue to muted colors. Strong pastels, like blue, green, and pink, don\u2019t match the subdued gray I usually prefer. There\u2019s also a mix of bright whites in wedding scenes, but I often lean towards gray tones. The video\u2019s color transitions are quite fascinating!**Recalling music video scenes**\n\nI'm thinking about the music video I watched that starts with a dark street leading to a club featuring a lot of brown tones. There's a modern apartment overlooking LA with teal pool scenes at night, and I remember someone singing against a teal wall. In \"Senorita,\" the vibe shifts to a warm diner with a sunny atmosphere. The video for \"Starboy\" opens dark with a masked figure, transitioning to brown tones and nighttime city scenes with a consistent RGB brightness. It's all quite visually striking!**Analyzing video details**\n\nI\u2019m reviewing the music video \"Senorita,\" which runs for 3:26 and opens with a scene of someone riding a motorcycle, followed instantly by a diner in warm tan tones. The first 15 seconds are relatively dark, likely linked to \"Attention,\" which runs 3:51 and starts at a dark party before shifting to a brightly lit tan house. I note the colors\u2014teal and light blue featured prominently towards the end of both videos. Now, I need to decide between options B or H.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEFTqIHmpd82_jQpOa2t_WGqFo14U2HZWB9KGGu6XT0dMerdX0A4BtcA25cpO9Gqyz4DqiETFF2mHOWuMd9Q3pdozAbswcEMkwFNsAJlNwM6LSqrl8WB6FCJAwuuxHVlW6QWb3iHBD25uRUmSccqHcrdEF9diaJ4aKeGYY7HoeWxCgcgYsL2aeytKeYBzUpgGyxGCP0WqBVZb125Pba37uhsIirqUzAaw6kZXg787zj7J_ErCuniHwl320gFWdUq7Uj0h4Q5QSk_tcBQ_h-9d0tUdjdsxp8jjdiuOBE_ZDpGxUJYgbn0mQnR-hE8mEPqVcs9Grllsro3XKpRUHbstnZl5Ju9tud7fD8Vf3Bjt_-JRi50yr4w_6jwsvMUijIFd4L-ZQ-lZs3Qk8rn-PEnSRH_eK0GY27oFu248A_lfl71rx0jTO_KztURJsU17fEzf0b9J2fJyJgqAjsFMt3_8uKVDv-rqVaV8QgTTn6qb4mioH_pyWmQ3fTHN0flT07_pfl5ZWedMPHnlx6a7uSi5F66ZoPbpnw58eNKVX2McKU6hqqM7zApGkW4dDicuJxfabHIXtK9eaBKXrGp__OmTnrqkgnHqLM6bNUznx3bGns2OSfJ5cjYrNZtkyBLu8VwvVayYwVQFio4P3At6I6f2NBnhyviq1ivWUX16fvZJXJCgxFp9bbXIZMHX6Js2hF-fUeeLyPpQAsOxItaDPFtP3XwBjo1jCHlmsT3COm6aDo0lLBasxIbcB0vp0oDnD_KdEAk7BHZG4jAbLmO_CsgtulILvbuAWAROYODrf0F2xHGk0HJJG7PXlXNlGRvxbpuSwhqvw7udVyXUABQNLbse4gjUFw3GlyvJlTW5JkLt9xbN1K-S1pgiiC0Za79Kj5fuxWJWvaY22ZqIJQ0un-6PO5AzIgDgywgKNCtstH1FQcbpu5sacr9DwV23XftgfPzWeuIlVOhNj7j5zE4wSOesNUc99hOckpP3vybUhB9DK_IUY3GV6sJY96UPvjc-PBzEYAzL11NuFV_yNDmtOH0yQ-kPjNKQZ7xidKjvglRvn_-C4vf9UYUviq9txLOzlprQWafzAEDwi0jxbhh2CaHPfb2eZ9uGIpT80EQffLpL6j81ry_VRsWkW0yfIg7J2J25FXhmtO_WRqgaZd_Bwi5YB9nxdyvBgB50QQiHoa7BaJS-WBQI39ccA7eJU0eqIx1ZLq07mYYJIOXGQJlNlFcaeinyCI6dvNpu31fCjuFni17KhnFKRvMk1X2oC5QiS_YTJPN8FDZi5kFnrL1w9cZyyRfPDVJIhvPTWvQu-on3-XIrFCTl29tRGi4OKJVI44Go3uvoT4QLPeBaMqJYk8rRagHSQat2x6pScrCAKjplNl7XF7rAERe1vGJz6FeSDHq3sPaNFtOk4xvh9PHWYTpmTo2ifpHAHD5Tl-owxrxkJ5xtFrZ0fqM-cm6xFA6ViXvzEWG2Sn2vND6zaVaVdsOIXrcXcFTAWlEi_iBZ3dVYywrabzbkhccQkQX-g1aXLx_t2oDk-5NNKPkh19aa7pa5nIRwWFS26gZ5FtyNB1ONNA-tA3QR7nC9Tq7rqrjEHKNEPEVyH8YF6GZnWfDfryCdhQ5VAQfhJj02zBLjuwMbTvAkzEKr7-HRo3Yf5gHkYHdjjeeeyRPzuziBdD9axEYShXXfde6t18qKVeCUtJtBt8GxVByB--TXbgAiYH-g93ZOMwUaP58Vt4hG7kQTLV3cWIODrLqivWt6zf7Rx_oiO-G2kXKpuGS2bBHrwSlWqIAHZBgiX1rGLAN-wPWQGa4GaxWODhUGWFORvGd7HBxDV0j4PX6K46-5AT_ZnVYubsU4JWiXPTIDZvit0ftWKQLl6jrLwhqm02vEtKDE9-9ioZeoPrPn1qX2Lc7ZpwnNGgpEz0Pc1BCsYKE6Zv7cOH6S1Amph99_Uy-khn3jFMsPGfzQPTVcel-0GdMXFxmGmpTNjsjjpDgLnfYfZH2JzZSkuoeBJ1YjAsVwcOI_HmRM5LCPS4EE6sMNZwTfWqQdyfUdujs2-UXuh03ZtVNUjlHQ1BYojtk1_96uhqZu31Zr2oJoBNyVB0GS84U3yq2dhrK3Z7FRN2rx8ftRpbE1tBZ_BCUKETFFdg4NB7YCTgrvHjo5ISbbJb5Ijms09HWtAx5Vh_4_ozJxYpjBUz14JtTnX-57QtZzrMKhNmNmV7K2XW8cpBTXUnzOLtuNHZ3zd7Iz6GmBPBwefl9wfn7e86A4tfAJVimMuosKd2ZnsDcq6hA7YSagySvNGFd_UPsoaQ11_IWpQv-mmH2ufCyIgYD8mxDx3YoyifwjjRCjHdrpmwFmbUa11LHARwNyl5QLhlq0LT_fq3RFlGozb3dPsULhQY7U-hbp6l7ISuiXorUOVuJO8T105v91I6JmJ_x_3UUa5mcWmJUNS-JTXG6n4QrEUNuo16HYikG-Ow7NOAoVFqHKmT0jE0Gk2KKs1HujSL-VdQsYe2XfTIXgN9i1XG2TRuxkYFZ2ShIOidcfwuPSjYPwaOR5Otp1YY6W_MXeU-_5XudoCrgeT_WikS4y8S1zL_daftZcwGhBWK51ijOOb0SujXJ3KMNvVyAHr-LzBcWwCrhj50inAvxY_er8L8OW3dyhd8xRrZ0LO6GtbsvJm7oO_LUTi0XUF5Y_x9W1bNGXHxD1YdxFz4aOCD7lxTas1qvnpe-Uc1BUB_gzJQBqLOxrJhrRy0lw7MAFXLiy98iowBStvVoMxrHwx9tM6ZJ7-OXZBWd_Yo2Q2JXJn56fklzD9DgzhfeZupYQiwCLTwsSVekwgsF893bqNKkrhZ7C-prUi5-cTnzOhD52QsyUYvLSkCz_Fu_RUWGXX5LMMNHN9pvDvGGygsy1t0i7Pk6nABHXQDmmJzKKSKr7MoHAy-J7Qq21bry2zAi3aaWI2E3ko4EgGjPa6MnYa48-yr0Dt63Fr0IKQfGyzq9daqYqEs1F7e1W7Ar1WHqabF8ctj0HagOkVeIgLa3hzmZg2y1LmG5FeV5wGIWUI9fPpCVxtrFq5sE-FqREHNe_ez4NYeR0XymKTwzicsM4jKIOPINzBm7LpD3foMJsNDqTZ6KjNOKc1hWm122MHfYeKebrD3aehBfJBmdYQvE26pU0w-pCP8BeR4Wtn3AwqR1AScqnMAYijAsevopg_1TbBfwsQTPv_dgG53_W93q6kBC_XlJYlA3nSOeI0mxgdoXNZGaeU-ZGXP53NaW7XV-QcFuaIVzB_mFAIn1RVI1pzNW6_pVEminopG2VfBrqW3j-9a-SmbVVq5h3YqNiYWHlnN08oFxBjOFUl1srb75E29aIDOMXEjbtMGbOo4BVTaUAZpCxBqH-UwaWnB47dubD8Ecm9lGqzc9RMiEKg2VulhE5sM1ZAic1NTKYPMY7vykwD-BQZl4uXko2faSpLcS4GW0hMufDVLSZZveNINOD-sLjm-YBym_j6bTg8rNTc716ZNwztFgDA4l7S5nGoAfTFJw3zD994ssDwySFGAFhTa90gSwrxszSkTANwnTgId9qZLw1zS9zSlnLl0A6F3fEdRzYuwBO5Yon9wV0bo-2jEHg9l7LLQzAZ4_N_LrIucXChn7hL8Dfh8nHMBz3rEhhPmi2HBZSEKZZ3McCVeDDNUEeH9Em5XGbm0wHOmhBkkZaMw6S-pliJx1FL9XIb5BM61FHDUol7-3tXjYfLwKyfKKJTU418cb8CtTsG9ptTKJKiRF17VkiM5Iz5_MEs976NBtnkycnNAaiwxbA-rPFLqGfTT8lumSbgLemnCxb5Ik6IEyRHiGbsL4Wqvt8i62ZbpuWcYL_42bVU7eVBgu1x5r7zbZV0MmIfnrz2EXYrWaEzuR3Xa4PVIYFWPP_Sz1EJdm-odcAEQ4GVrpySCPM2gVDwTkS0O5K55iIvh_6uT-EjpdTvI6G1ksRAV9VNqcVrrU4qltLgQtkY_EnEx3SJnEfpJ8ugw8jQj5UzCyyST13zULoyoVIl_IT7ygrbjoOjfbruU7z4xW7AUbkmPWhpjWnm308_nB4awDl8RAv3xxtxfJD8ELW0Ror990ateLhF4Rho2AhUJA9XdVD8fiWcqucvZpE93BDkV42oX5j1QQvI7TyQIVAs9y59Q-myqFnLRMRJHs7RHvgY6BYKEWGvUzxgXkfCbMGLi-PpR7GDktNEgpDT5ManK6IIt15kd0E4eK2LjHc6cZAg71R2-Ahf8XnlXy56Lrh3NwGcVjOOWvXovaR0peeLwU1_f74jkjcYgluTKmozgXDMxOQD2WYUAvK-bZoT0JXZwNaJF18N2HfUND4ZaNL-0fguFijoq0ILoa8MUq4KuxTuY3-ybUayiL-VQ67MyVxkiiAEEA0llL1i2QaHxQs77sWLJflTMiBjpgeJTHWI4xW3wssyZL6zUwyHJ6PoWQQfSSQwveT1Qudz7pLdiJNcuiKcYRtEI_jovgLBLoyENFvWxdAJ5VqlD4whr-uhKwnokBOI1Q7q5HQXcgDETgosfKdBvSjjnD02RvaMVnTUyIuOagD7jJq6Yc1TAH59N1mQlhoZEBxun-h4qKRLikcE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0df0afd5eceee608016abee0f52afc87d1ac349bfae522cd19",
+       "index": 1
+      },
+      {
+       "type": "reasoning.summary",
+       "summary": "**Imagining a music video scene**\n\nI'm visualizing a music video that features a sunset at a gas station alongside a motorcycle and a dusty diner. There\u2019s a scene with a turquoise pool around 2:05, wrapping up with Shawn on a gray bike outdoors. Then, the music video transitions to Charlie entering an orange and brown nightclub, showcasing blue accents in close-ups against a blue wall. It feels like the strip doesn\u2019t really have much blue until later on.",
+       "format": "openai-responses-v1",
+       "index": 2
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuEGLO1y8CAf9cPZJLUH6DI2oYmyVluOQz-DImlKhat2CB8fY-Q4LLZvZlHVT-Q-ekLX0PswC3yiacNg0mPmWj-wJQqTBFJzXaMCZkXxy9vamQMR57oSyPEMN_k8C-fKhRiNb5Ot30y2E_oPVPyRz6Zxc2ua3ziys3vpAaAO3JTc8IzmvAyEhjqPUTbFDbzgE7LczsLH-O_gcxjkxqAj2cbN354PwZd8UH-OcIDUs2b-nREaQMQwO3NOkNvbF6sdwFsUzjklAsCxGtdu5O0szYPn-ok5JTUoGaKHzrOB4jg02o2z0NeXQGTZ6oSu167yMnylfASt8ST88BKc-mvkzfGYakdDeYqmRvJtE4hd3GWo0yFnHdVz_bPiEgM_jcbYI4zDF33rBDfmbfJPOyzg_ttDtAg7irEQv6hreqRJDRv876fbd1lqBHFJiGY_Uqz25ZVmg0GRNI6EdaG-A0d-HaoaAm1AmID0Sp8VBNL-HLM0UVbECjX6MWe2B-ZNNK1lzOzl8hTfrIlOsmfJjeHdWG2T0l8m9nbEh7Q-oUORSyje7mQp81-RkkF0_7pNoomHrz1PgNneMAEhRpCp97GQYNTCPDbDxQkQCRPytHQ0BuScTeGiMXep52CUTVTPd7DibMavXSEOW3z3CIIBw33wzHtblcu9FAKw2X4li0_eAjE7mhuGu-lsbjWt1hWvRpcasic_5MFX4NdaWR9NN0M_Q2Ww0CIK3Cd5XUk-p13WwRV_DShLeg5Lr1k7wUMMWcILN-IfV7Xv-pIp5TCEU1NkVavrlEjaRhiBw6YsmMH67hlSd_HjNKNLypFzUQZhAH505YEEzAOMdZan5JBEm4yT6BARSOVGlGdAzci6KQt8roNvWIIDQma--g0HaJWwgJv4BWkdHwwGCu6U2dkq74ussUDgLP5L_EeCuRvSHtwqxiDO77bH1ZYLFpnnWeTZxt4O0fU3vRspMQJPx8MYAlGAyZeJKDxv-FLkfQRs60ewNL_JT-ZRghVo5RZ9ULnRXx4Jk6LxoizDZOsy7EAq96MEVUWhGwvmOjkzRBEtjXfQC4sOxaszmqlx6mqhP_2HblBsLgV29r0kgQ-2mFCwqGJgZXARLu7bTncNoz5LQRl7y86_OT3Lp1LpvrHS7TZII24wUsFGUE7WYj6YdiQa4iRYzwgn8BIB5SAVJ-HADFbORq0jE1zLPmYgNJH4QdLwiI-c2gWzleoSvZXaWHzAnIPJmJ32Q5dNl3Okz4UODuIJA_VwETbyttSkPXAKa_MKLNHBhgTBax8WQTnBHtpfw0f0GIT0G6zVtQYW3vPdKFGjNNMTf6Ige5hUyu3jpwfzDl5zGctqOISrQyEO9AcqePdKZup3qdJ9Ic12CaFanoh8mygmOxLhukdF-9NRSXtMS0TV6A09SU-g7T-3eaw1wgXaBDzZRryOwNzLW6HzNiyhrYnRISW1q3mbvO3zEABByGTE4tCOnpqhYAh3B2gWnN5fzh1qN5SeX2MtyfWHkElocvziI0WEmXBpsNakdCyzAZ7FI8MGrf4yVSO62NQ_ymLgHnzPrlSzAfxsdszacje21icB-6ppJkRodG0--OEUVObolm006m--3X0bOlncmLPeyIOF32FrqyuDc5qtSxdod6D7WlIAHTWaoS8D6BKcnk9AEzpmSMhEnlO3Z7zGyQ60bVhzi7dhHot_6Ifkf3k2cWgSNgLBN21DrYH62d0N6AGtESSm.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0df0afd5eceee608016abee10574c487d187eeb0a30634f2db",
+       "index": 3
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 482,
+   "completion_tokens": 610,
+   "total_tokens": 1092,
+   "cost": 0.007064,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007064,
+    "upstream_inference_prompt_cost": 0.000964,
+    "upstream_inference_completions_cost": 0.0061
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 579,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

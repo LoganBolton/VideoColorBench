@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907341-PaL7EMwNg1o0ASCFU7NO",
+  "object": "chat.completion",
+  "created": 1790907341,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Jane Got a Gun (2015)**. This is an inference from the overall palette rather than a definite identification.\n\nThe barcode is mostly warm browns, oranges and amber, broken up by dark teal and very dark stretches. That pattern fits a western with many night scenes, lantern- or firelit interiors and dusty, desaturated exteriors, which matches Jane Got a Gun.\n\nKilling Season is the closest alternative, since its forest settings would also give browns and blue-greys. The strong orange interior tones lean me toward the western.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "The browns, oranges and dark teal tones feel western in nature, with that contrast of warm lantern-lit interiors against cool blue-grey exteriors. That balance of night scenes and orange lighting points me toward Jane Got a Gun.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The browns, oranges and dark teal tones feel western in nature, with that contrast of warm lantern-lit interiors against cool blue-grey exteriors. That balance of night scenes and orange lighting points me toward Jane Got a Gun.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqwcKEAgSGAI4AUIIdGhpbmtpbmcSDM90gXNwa/7yRMwb0BoMUHObzgMJoYlQXF8gIjDKYWUQxtAIqjkDX16CQmCVklQooNiNhJBw+Vb1DlqSc1elHa1JgfJhpkiqzlli06YqyAZR4f54ks3pttc/Bn81BJNmMNxMmVGcklMBk8N/Nu/vPk9shijQUO2ygXAeKYmPje1AK4u+W/lxRZNCjcDEEEm7AjhRSkivHenb46TdxFEMT1IhSE8cZBghWDrYQ8B1lhALWY67tOg4tD31JXrKuAkrh0vp09g5uQc84M36FHU1wbORGYQvSw/k6xKHRCAR9hESzFzZI3aRSwPijBjC5h9S5jkKWblk38jS0PxbsDoP6ztb77GJjCTG2qooyA+XaP/5wqvcXV9bpykU1AFmDFvpJmhVOS/QT7q3Hu1+OQMBobxieLuJ0cEbSlw43tmMU3QF6jBil1ohvCHO2n05ljOJQIQBuuzEisNtC5wBf2ENS8JHYfHRCNsKoOvweHIMwyZcA/N8tgNlIZJSYDRJkBEjWKYkoKTkY1CrpeZxeJaPJEswA2oqJZJI3qD98bO2/lSrDS7EVMzXfppiLtuaupPkBavzuITO+G8vTZBlOGwxwUyzWKSa1XoFyv79nOThqZhqy8ZxGNc8PwKgmaoCprq/IgI2VK8L1IeBJ5Bs2NcuQP6kutIYYIYOM9o88QHGxJ4BJTpXII7w9OC+mCkD2EFcvv7o3jMjAWgLtyMj23ShSOOzo9cD4K87ciEQ2V6fA9xoqt7ZFBMfH3Dx8kDLuG6V8OokVztJdht/eN9blvQvrlPqGNRaRo9KqKMDD+jAqZ7Br6/C/1Wl0VrAllICTV/Ba2Y+YxOggGrghwOay02AwxN12018hSBRQrRE0wrgjurSqGnbH7XmNewSxwxe2Nwny2K0ZBJv1s+JMn+CMUBH/I930AmRdK+onerQxjHfwB4AwW5oaovl7d0WKmf+KIsbKxes1Y1APUrgCne8CkJlKmr3qVlDL0EvAOQ7dFXoZ1WqRkBvA3h9vlzXoHpL8iHaLrSaZsPANfItlmyHqaWQx5k/4nixg4x8i8g7623/jXbKsEEcaOk/kVeH1NQyRe04XT4poplgxP9M0OKAHDyC87Go6TjxlcnY+NZWEt0Cj4qjREmjiZ2Nv9IQr+HIZwbFIuGLere7F7cGKUsAdeJeHd4XVF9vFivYqIZg4BncFXtw5sZqsdvRyH4trKLacWpM9Doob5GiXW8YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 519,
+   "completion_tokens": 324,
+   "total_tokens": 843,
+   "cost": 0.008556,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008556,
+    "upstream_inference_prompt_cost": 0.002076,
+    "upstream_inference_completions_cost": 0.00648
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 136,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

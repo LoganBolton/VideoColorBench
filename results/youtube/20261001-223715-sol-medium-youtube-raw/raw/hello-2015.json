@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894289-oQWpQbAaUInsTvJdPo6m",
+  "object": "chat.completion",
+  "created": 1790894289,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele\u2019s \u201cHello,\u201d given the consistently dark, muted olive and sepia tones.\n\nAnswer: J",
+     "refusal": null,
+     "reasoning": "**Interpreting the image style**\n\nI'm trying to infer the color tones from a video or image\u2014dark olive and sepia seem to be dominant throughout, especially in settings like a forest with muted greens and browns. The opening has a lighter olive tone for the first few seconds before shifting to darker interiors. The video is around six minutes long, showing someone walking outside before entering a house. I\u2019m also curious about various color interpretations, like the use of neon or the contrast of bad romance in white.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Interpreting the image style**\n\nI'm trying to infer the color tones from a video or image\u2014dark olive and sepia seem to be dominant throughout, especially in settings like a forest with muted greens and browns. The opening has a lighter olive tone for the first few seconds before shifting to darker interiors. The video is around six minutes long, showing someone walking outside before entering a house. I\u2019m also curious about various color interpretations, like the use of neon or the contrast of bad romance in white.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDXVxvg7yf-bRK5jbMxyD3S0DnfzeLOESsrl87m6wzhlZ4RZM3B1aLj4djQHFIEbsGUgOqPK1WOuvYa_lNwKyctv1wXdraaYDlx-aKjriJvN0ah4moKTjWLqh9H6yZ_T4JLqwzg8YMYGZXcHlqvShQ3qnNtilaaZ82PHWQLBnPo6XDd-Cx1UTJVSOQUSKpoKE8TOk7EiUQ2Lt8OsJ6cq2vzSsh7vWTrgxA8FVI7Bk5Qw-zTMcie3yPVqUuTL1A4RjQJwNAGfKSx_pHqGN-VnpccOrgnBnQTDuRRUSRRtTLoa8Ne0cyNtuT_mV8vyZ-YctpKRGSFkN9YFhhGR5yZdE2M4RaWRQctB4ddGJwaETYviOLuCU4tjmE5qV0XVjRXVhLC4pu5LkOEkZ0skhP1kZ1oA0c32YYdczLaa6vlR9ISEZuJwsnxs4VmbTCkD5wqzfwbp4ERyN0mEX01iQ3xJ9h43X99avjzrx99mnnNCRe5b0z3uFdgupTBFkNIfjjFyt0zxCqUR4otyyBfjRVVCWrt5cQUghnIIA2tDfE8jw-9RkrEApG1HNxAUmAU3LrMDfTBaKQXsiOSyf6KCE6gdSa9gqRQmw2v6M0uIdIV1izIaXIm6IJTHJTvsMOFADyrYUtNgp_g0VW9PdYPc7agRtTJbUrY54yaMcsjL1BaYXtqRVm3mik_LBA5S6P4h4rlzEcOyBCOD4d5btPcH9Urbk00bewm-7u0KNhtcZQSONC-Ka35w5TqcO79l4r3caqpK6K6_VZvBo6dTAv_e8fxmY-N5MuWTQKg5h9vukukoKt84efocqDT0yWCujZaOj7UpYjF2o3NkIuIlbsJSJJxFRs8gDw1HdOWgpi4nYIclVjfisXe0zURfY-DcP9KJ-dspzE4QitUAdHmk-bgIClIdvfegCjazrukXvxGa2h66AQX0WoVv5IXjG4q4fEZ4p1gFOZpimHWtGfhJOB-D4Mx2yjQxjK_GuldxsSjUffYNcFytrZPLRXSzbG4qGpG2h8JIvuQ5j9NXj00hf6L_ZFUmssCsXrzFJqdihIY62SSztk0nehBLDebzOIrxLexy6J9t93Sh81m017PjmD0tQdRFOPi_-GbtIdc-ocJhjs9wCh38l7c4hpqSW-t0Ws_wqq8l5MS4HfNqwOWbvKo949wIF86esIrjjTz2d1enZCJD0EsbwrGRJd7Jk86YUs3HxpMe67QnhD9ngCCdYNt9yYfMsTu4cfXpDfP7FvececUwNJL_QblrTx_64RA5yd-V0ybbTO6qBwRGvKDuURE2SmO4ry2ObGz2WGHtZ7ACQaUIL5pCW_6v-p9V1NKqqO752IpSGaL9X7Vuifuc8WDZjTNcr2ZXmDHn4xr_4y1u_BYAO3h6NgIkfy09TsPahyQyFqppRal50cC7-woppsjET8sBSNnOlCsJqv_ELx_5mKOsNMLGlwmI4yDuOovvs8cINA9tBXl6-QKq3svXgEfxjmrhJ6VkeJQRuRyH3xla3dscoWmudjULw2iwOAh1SvUavj70vYEftV3jXuOTWOmizoy6hOQNof30Q6oY6C3Qhv4n7IvzOdmPl2m0vUuQEC9TH9g0jNogIt_Hl364a8fVLixZ5LbJgcSDpdzqH0FoCaLIeA2iUigVWcIb_Oq_UXi763YT1ZiWdBACHyb45R1PtxNqzKzkoHZqdK9pEsycwb3xFLY4sY9s6OulX1mGATNmj-ARqO-agwxZvRrSyLownfrXXzdUs5RXXXT8Vn8aLnW5QNI_yWKxKjshhlU-a-9K90BVuxpH1vvzetXW5VxbXn333DdwHylM6AEBW8RHJtLDPiw63zT40xKE3-UvTosFcSZEDYxn2r-xZrzDI7nZRT83qmEeZa5K_przP677jHhALZB2iTkpjXEy_Tzi9m47CikwHYSImD0e7HWEBAI06ffaH3FWaC0gNZuiQ9bP0kup_p6-9XI443B4i6IojH_e5xkP1ChyckAO6pzcV9VfZ9G9U9cNedY2z2WMEmjue4iarty2VncbJ0DzGt01y73z9Y6lthGgY8VbiX8lnU4NDqqv2xRqw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05e1a5b5ad7b0c99016abee0d3397487d1a3e0403e93701a19",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 464,
+   "completion_tokens": 143,
+   "total_tokens": 607,
+   "cost": 0.002358,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002358,
+    "upstream_inference_prompt_cost": 0.000928,
+    "upstream_inference_completions_cost": 0.00143
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 113,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

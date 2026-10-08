@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907340-gYgsBJepreZmzwPECW1V",
+  "object": "chat.completion",
+  "created": 1790907340,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "The image is a \"movie barcode\" made of thin vertical bands of color. I can't recognize a specific film from it with certainty, so this is a best guess based on the palette.\n\nThe barcode is consistently dark and muted. It is dominated by browns, warm candlelit-looking tones, murky greens and grays, with a long cold blue stretch near the end. This fits a gloomy period piece shot largely in dim interiors with some night scenes. *Stonehearst Asylum*, a Victorian-era asylum story, matches that look well.\n\nSeveral other options are less likely because they would show brighter or different palettes. These include *Fitzcarraldo* (jungle greens), *Ad\u00e8le Blanc-Sec* (colorful adventure), *Knight of Cups* (bright, sunlit LA) and *Fifty Shades of Black* (comedy lighting). *Before I Go to Sleep*, *Trespass* and *The Messengers* are also dark, so they can't be ruled out entirely. However, the warm brown candlelight tones point more toward a period setting.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "The color palette feels Victorian and candlelit, brownish with blue night scenes near the end, which points me toward Stonehearst Asylum as the match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The color palette feels Victorian and candlelit, brownish with blue night scenes near the end, which points me toward Stonehearst Asylum as the match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqQcKEAgSGAI4AUIIdGhpbmtpbmcSDOFog6jb3SUy/gSMOhoM9sDIwe6fjSEvAyThIjAWizhfyS7GRyLq/yNqzdRN9fewoTbYa22vzIglOku9eqDew8C7ZMS8luUbONUs9oIqxgYUgjGUtExDD0EPvrICDWegx1bJLXQff8A2YdJcXM2R96ksALaqaH8BlRL6j3Rtwl9bXBra78jGMsqKs+SNkpJGQibf0KkU2p1hL3pTxDehEzP87R5B0qbUKDe8VB8x3AqskLconrYcEaI7XTE2dUX7BuFRB9WqcEgnq4hl92M6xvqZzOUBEsHWr+0axcIq/ZU9afECMi7X0UVoaYDCrJxlngqA9IkV/SSERj3q/NdQBGN7K8M7mohVsPGDFHVVVhaK/11/HUeXYUkr3Gs0h/on9zZ0nJzd8mrbsilSA7m55vxPotceUh4yA0TmN7Xp6ZFP7U1yUjfUG+dWEcyn/jsIE1r35y0gUETDF4UY5eBgZhYQOVOrf6GQ7ruk3xjUFjSp/MG1XqaazXxF3gRvV0HDTlWeJfJqJxCAZ8r82v3FRuXqJJiDJ0M5hFQKPvVCN3paWnUYWXREc0JzhmOOdAMi9i4SEAHXk8xZF+ZwsB6yrD465T2qko2FwFzbMsvNwrJcsB8xoC237ZjCaQE5tC1/fBNt++CRC7lN5voON915d2OLnrBlRaecdG1ofS5/+KTcdmgp0WrbXQnDgvVBGwPzY+z6A2sT1AXSSsGLCmfYC581hXFTVZlQl/JQy1mGgx60BmOhUm9eLyd2lN1czDGsAkYthW3uWiDckh+UlK7YFJQWiJCss8P2BdVuC4sVU9ip8Ld/0xyC64tpz5wtsfAbGhJMcj2mVpcDlJ98A0qGbvP8H4/7ZTPyKiLyOXf+kR0zvGdBlwSPAPwPEh+KQfjHrrrVPDuoAjNp1XKDsc8IvMDNshBmeFSjhaLiwziJxF7Ox1azhy9YX2Frtcz0MC+/fsWtpa6XuqoruIdf0cZS4/KVgKUU1sL1wNsG3WDxh8SVqit3sSa9C0frtxxb1u5Uln3I8cUbdoAENNd/o9rDiTAJ0qTn0RRt5KfpvhJ9gbUwE7MkJ5Yy4zfc6x9ni2NvE2yHgnbzC+stAYMmCB7kd58QP6MaXh84EoBDL9CExdIUQLvr+9yoneQbzhqFrc0sb49c8lObtNtE0+wYMNROTlrU8Al2b34WgbBhkVm7NWQdpfM6QuUcFOxy3iLwrsM0nIq7TVmXGAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 556,
+   "completion_tokens": 496,
+   "total_tokens": 1052,
+   "cost": 0.012144,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.012144,
+    "upstream_inference_prompt_cost": 0.002224,
+    "upstream_inference_completions_cost": 0.00992
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 146,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

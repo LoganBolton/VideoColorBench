@@ -1,0 +1,21 @@
+{
+  "slug": "american-animals-2018",
+  "title": "American Animals",
+  "artist": null,
+  "year": 2018,
+  "label": "American Animals (2018)",
+  "hex": "#1D201E",
+  "rgb": [
+    29,
+    32,
+    30
+  ],
+  "frames_sampled": 7027,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "DQGZaawhLxc",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

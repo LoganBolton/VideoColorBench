@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907208-3IjW6FyjgYoBX4wuCaoA",
+  "object": "chat.completion",
+  "created": 1790907208,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *I, Frankenstein* (2014), given the consistently dark, muted gray-brown palette.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "**Evaluating color palettes**\n\nI'm considering a color palette that begins with muted stripes in grey, olive, and brown. I want to start dark, transitioning from green and gray to brown, then olive gray and blue gray. There's a consistent dark tone throughout, which feels like a Frankenstein-like aesthetic influenced by fantasy and beauty themes, contrasting bright daylight colors for certain scenes. I need to explore the best fits for various settings, ultimately gravitating toward a grayscale with limited color.**Choosing color schemes**\n\nI don't want to overthink here. For the 2014 \"Beauty and the Beast,\" it has a high saturation with colors like crimson, green, and yellow, but maybe it could use some more contrast. In contrast, \"Detachment\" feels very dreary with olive and brown tones. I notice that \"Detachment\" has a nighttime aesthetic with less brightness, while \"D\" uses warm amber regions. Overall, I think I'll go with \"D\" for this project.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Evaluating color palettes**\n\nI'm considering a color palette that begins with muted stripes in grey, olive, and brown. I want to start dark, transitioning from green and gray to brown, then olive gray and blue gray. There's a consistent dark tone throughout, which feels like a Frankenstein-like aesthetic influenced by fantasy and beauty themes, contrasting bright daylight colors for certain scenes. I need to explore the best fits for various settings, ultimately gravitating toward a grayscale with limited color.**Choosing color schemes**\n\nI don't want to overthink here. For the 2014 \"Beauty and the Beast,\" it has a high saturation with colors like crimson, green, and yellow, but maybe it could use some more contrast. In contrast, \"Detachment\" feels very dreary with olive and brown tones. I notice that \"Detachment\" has a nighttime aesthetic with less brightness, while \"D\" uses warm amber regions. Overall, I think I'll go with \"D\" for this project.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNXqLDxbZ0DK4UL-zCZO3HoTO9rBEdGio30gZdjSmaQIKgng6xNNm8lNURnZJ3O850RTo-0vhRnkZGBr1Tb57tokKhUsobn1EaCOJ7F9YZbman__XlqhswUsTa02l9wVn9P-2tSI-iRdr7nL3yqPiNUA-pl2mW3MY-tLmjv_yW4V_cVi6nfllTR9EVoZe2QUVp7tia4upWWRZvOyF0cAtstBsYstMP33JK8z_ceExJgE_xoyGhQHciiBQm4xumm7KMwOheaJ3Q3NkTKrFPWrhHg1IpFHPRtrHQbEWTeutIhMApp-iMl01MjeAUmn1bVoOcMM7GBSOG188UJGVHJdUXyBQzZnARiz-ygoC8qDjcfVmhdgJd-7HnOpdB5-n63lK_LSJVenjhuSTa859wBwaOzgbiKJjGGPpttmbPhz9-kl9iQ5AupwCH8gTc0OGh2Y6NSYQ3Q0wAJrhk_-f9F1gIA0Et3h2pqJhogV03zftCe7axNN4b0OxaabDYbvaUo6rtjSRwuZfiawmW1YfTSiePwmJfQ-Bl1cUANiuRkykRQLLYgxQQcC-rxkEoZQyGu3PTnQtKTW87xMbdEcMAY3vidhJxLWo6oXaegdEA73PLUeATtxdNigWk2H5rRAiZwShEprAOSjQ4JRfDEOMQ0amrDcoseeUPVOvlx8nypTRnn8nr4YYDSMqwcpL5yIkqvLAzs3zqIBeibebGh090X_15vZuu_UYE7uTppLelAwyySHgG6sGTr6BiOYg70pZv2AdEhsl-XwwsPEgbqx9__M_zDbJMYq7iG_78Yw9IHUiFxyWqJybJkngenRrrvLQSbEXoTGIRqzOrInyyHTS_2Mq2XbPA2OqUTeOqivcIPJ5f9gyTx2tq5SAJUnWb_6LrnlvFlBJgqakLt-HJbramRzTygI7kEvMtB1H4PZn1j9xZLlDGvSy4dI44LyWRyZDaJ3zPl-EKBAbdbJx4dHTR-K1x7L26RWvPloZlbkd472WGEA3U15fg82vmnwurWsci_FbATjBI2l67y4f3BzmrG-nxnzYROSdHZgTfZinyPCXVsfBepyUOrvYK8E63XoJ8GN5LWKk7QVsuz-8Gq5anSUIYJuWAhvRMNkWSkLw2z9DOfO3xnndSkMJG7IARaPmN4X_q7fQP_rrc99ZxPOCJRG0PQ6uKp1IM4_CsDzijdLHsyp7WnrIleLyUulEK8TrJTrr9K8ZuTdh8bLq7PLRzwk700m5XvSJ4M-w41o_a6JJXlXWE_D68RDUZFNkkqDW4GnSxQx5FYSO3NYX0lbG0n1ef8JkvpZbH__z5D65dTN_rkvTBVDXXnwjnaxrxB0q5UsSVmMi0igH4KHKBA1z23fJQCktHl9AOlI-5j0-nmdQb8dU400jjX18lrp8V3eRlRKj9AamWWEYkDJpX4aAxIZ2fvKHPZsN4nykZOvNGxNxlNprHFXWLcuJ0Qi2J3elbT85FmDAsuo1a8_Y1WZ6GJhfE368zkD5HpEnaoANrhagc7bx03_R_HPn5UfEN4ivIOJ9GeR5l7XwlyPe_ul5pOo5TxMjcvOR0XKNTulg9RKGFE7d0HwneCsKHKRUX-pMhYV-0kva2dhU0IVeth8E7CvRA1T2BUAZ7eVyRsduu_qtOnF5QXfrx3h59kTJoQHG-6y1S5q77rnxM845GVDyNntG5Q3h-cdJuFuYdepqMJJPtJQdwG2pvBfDfxG4RS7uNNt2SNDr8GGpeiCR2to8y2_OaiuLlqrcBi10mskY9dYGG6XM7b3oGqgJ4gq7k9Yhv4ofIpyfwsIRZu0b8uTPboJguMq_5ydx33Ui_hU3I-iXBXl6DwEtkTC34rEs0UCNy7ATYlPsLjkA26zZNDS08QuIO_V1YMEbEzO4gTwZ2m45ZUAMjCXboSiminVwyWeGGRfXHtWY0fllk8p0p4-9AO96kh15DmfHwQkfVj49eMfsQ32O5wJGwnRy3Huxd_seAy6Z6Rxqt9k5WeA2o9shjW00dxz0VBQdW9AJJuxbnqbEvxiAM8KRMIuXcOCekUuTD0ucKX3G2DOjrYIJgAM2TT6YKHv5kKR_2yCQa86YY3EQcxf3EkaPtn_zyHeEMkieSvV4qBPJimCwfi32clUhPR2c1w9LO5eLyU9R3edUVulFuAnPzT_wprr-pcnTdgTu-EDG_f6g_8tv6b2IrqzAbbPrmXxtS0k8S37GjGoHZ7mdmlnlYRpXUmeOwS-B2Uq4uwtYYDucuNQH_6QjFd4dqu5sKfu9KU1Cf4KkdzdD0w6fCsXWIsYFaOaTwrZPPTC_OvQdXV2ZXI_TFF96NLp3Pp1D6IY5epSnrixntt7DcWdRPi6o7TvDFIORE4yObNCcyZPgO1GRV8kEoGpeHvlOYTdyHjW-iYaJGp5wHKBFbumrAJR28_06hpbDBoBSdVZizTwEdIejXzi9k6jrj3qiMbduGsfdJDgfRVDxpYl-Agm7Vvrbb_hhu-s_hXtVLbpR7smkDMwEjVuI2tZmBJO-xGAdz5HOQ1JNR9tHdpLWe82Z_NKzNyzDlBArnwgrbtzu2HJlAnKeAVbSlC1cYNtXWpnh9x0CR2T1iOICcoFGrijOMIdcF6Kr4huJy6pQOyArGZhj2N5T96TrVVfoG3vfQmuM-pJW9JQV4PGq3B6dw2vrNGB1V7Mg8vuuIcBmluvqSnWaQv_yYj6vE-qpA53lHlkD7yLUnDNWeNku9ewQxEhST67ZRgQgwTL1A02NSoSZlMv_tmvSXUjpfXVEVtJx9MSXBZV_Iv2wx9Pn6fsIO0nYdYFuhwlXO4KSX4KbhzKAAiB_mXhdoM-fnPGCnybJp82-TRF0mxj4VeNDvvUBnCV3LSjG6gnd_6IZ_Tsx8IqsS9hr84nG2ngQ7qWbDAYklnFNTfCh0qxcDhQZnx56w17J83_ftgoxq59WsdbY9OpBRCKSbmlmzZ7V2stjFDk9b7oLmgr0GHRVFvQggW_weStFmSYNK3D3-2kN7fBomNAHImZJ7aIsDJYt72fadMaLMKS1YG7ZrrInhGk7M4AzhzY-LeNJNIQm7Yau905hlT5zR1neS38XVnENN7PgBzF8ZCWfCrH7P5QCUMSEG6O8s8RbO-qGlqsBDhrg-P_m9KjyCkjTn_96VG8DW8baGswXNkjxSgTw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_085b78efdd88ab74016abf134e1db487d1b9b628e09678344f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 429,
+   "completion_tokens": 313,
+   "total_tokens": 742,
+   "cost": 0.003988,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003988,
+    "upstream_inference_prompt_cost": 0.000858,
+    "upstream_inference_completions_cost": 0.00313
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 280,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

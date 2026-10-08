@@ -1,0 +1,21 @@
+{
+  "slug": "axel-f-2009",
+  "title": "Axel F",
+  "artist": "Crazy Frog",
+  "year": 2009,
+  "label": "Crazy Frog - Axel F (2009)",
+  "hex": "#544946",
+  "rgb": [
+    84,
+    73,
+    70
+  ],
+  "frames_sampled": 172,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "k85mRPqvMbE",
+    "youtube_title": "Crazy Frog - Axel F (Official Video)",
+    "channel": "Crazy Frog",
+    "via": "yt-dlp"
+  }
+}

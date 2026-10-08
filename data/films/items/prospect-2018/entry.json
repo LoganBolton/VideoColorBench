@@ -1,0 +1,21 @@
+{
+  "slug": "prospect-2018",
+  "title": "Prospect",
+  "artist": null,
+  "year": 2018,
+  "label": "Prospect (2018)",
+  "hex": "#2D2A24",
+  "rgb": [
+    45,
+    42,
+    36
+  ],
+  "frames_sampled": 5987,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "UsrbNtUgEaY",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

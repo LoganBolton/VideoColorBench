@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955417-010EbqudfpAz6Ow8MqPy",
+  "object": "chat.completion",
+  "created": 1790955417,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: H",
+     "refusal": null,
+     "reasoning": "**Analyzing music video colors**\n\nI\u2019m thinking about the color schemes in various music videos. For \"Sugar,\" the intro features beige and brown during dressing scenes, while performances occur in bright white tents. In contrast, \"Se\u00f1orita\" has a light sky backdrop and warmer tones, shifting to sepia at the party. I also remember \u201cD Criminal\u201d starts in desaturated grey, with \"Natti\" featuring a white prison scene. Each video seems to play with light and warmth distinctly to convey different moods. It's interesting to see how these choices impact the overall feel!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing music video colors**\n\nI\u2019m thinking about the color schemes in various music videos. For \"Sugar,\" the intro features beige and brown during dressing scenes, while performances occur in bright white tents. In contrast, \"Se\u00f1orita\" has a light sky backdrop and warmer tones, shifting to sepia at the party. I also remember \u201cD Criminal\u201d starts in desaturated grey, with \"Natti\" featuring a white prison scene. Each video seems to play with light and warmth distinctly to convey different moods. It's interesting to see how these choices impact the overall feel!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8-rXpGFoAqhfynIDkir0X6nE7HpQqtx_f5DzhY4gsBKNkU4RD7jU_xUtFZ-gwQQeVlwp3G8fa0aTb-sjPa8eyTqU3O6-GctmsRY2EbAJh4hKRSLlA7wIMFGOtjz5yxGAtjhGThmmraYBQTufl7bSXmlPypGnLLKRiQnvT8IZ9SmqetqytjqFHtnSFJFtAGXH8SxgPet9NMTkxCf9KDDyowaRVwPa-rTo89mGcv4aQmRIHFDj8q6OivHfEnY4T9sK_-xqbjyKLufmBkx6ww4kP3vKrZiK_3Qfv4j_6ArHUSIV8r1WKLdk8vsS5fNxzJtwdO5y_eXqykvq9ceqxGw8vZdYhuJ8Bvy5-a14ZKAuwDGgGtrSlkgtkwwkNwcuZgvAVKuv6TZyqjrRXG4BuH69w_di8UstNYOn8XYQvufyNqQpTQ4_af4B0kwj2ETySmYBFQHnB7Mk656p_OIFpouJAGxoca946uPz7eL8Gc_B4Wrxo_YjEfwCjgR-G5akEDO4VpKjPZP--ZBYarr9sUNg21bRnyVd5JlAqumMDPUyNRI-dO8DkNX1Zb21EYkjCxKXzvo6QtU4IrWA4yBcOhTfp893QHtFnbEFb9WQskQMkIpGquYyzwzvtNI3wYVuBKCDkpMwxgvBUom_egtNIiMkWDgLzUACHU3fo3M4qfqYeKEJGsXXuj2olTSPSbNRiTkrTdBYQEEIvRLEU-aGcNctSP6W32U8uSDRUYmRK6-LJqCWcTOC5TXukOEyitiZ_ljpDbOWGtR6fkUSp7E3ayT4_bQRCDos-NtqHr0rhZi0BDNHrbIsiqgDpNH98yRYLIwnNiysYJUDq4r5UtCKVrUDR_0XuLECuXbThrGyys_nOo-F0_2VhwvhIUwzUOYJGil0ZaCIbqjmjbxEtXqQPy90cSwjUE9jOWBJsXOegWPATnqjKazUtsfxXjVvW0a8zrp0mI0c3aQhQyPq7Piv6bZ70XCYs5I-O25kJwEjnIAaKoSp70tBeye7wcG2-euDFNpBYzma83Fr4AXT9ixCfThFptOQZiiy5XwclJsIYfbp2tovWNP2uzUScAaKXnKUCSnddz2x0qUuCJknTPxScey2chzK_hrLVm6--TFfojdLxq_zdSWZSOoJAeBC8b1DtLvETS80DB6UzYHioHQU8eqo3XGAi9V8C5gr98SVjlqdVLR-SxyUiTUWemHgFPszVLjSmhPz-OSo6JW_AtBeKCJxpCa5DLdnIkm9SMMPX2ads1weI7NRoLTcEHzAelujJbM0uWvJmfrgK2mIQ6msJD-iRJJHkw1zRdRH_MzOrWwXPSDrZIlfwzktzGEb4AUCJezWiKhRKILMrB3lkfq0G-KF3JnRJ9GmxxRwTWu3EKF23uVVFK1d3HHuc7K09r9KywbcNVlj_q4b8EOj_ymjOFrBC38DJttC5NRcEwyqALI8RO5QiODR8PqyfGqFEePbYHGjlaoz95rmXupd27tjLp9GKU1HbaU-XXS7QSvW4oJZv20iMP5QzScXwGWti2Oz9PxGpPwMOY7KR4XvSFD7VEAdjusYnuGe0HbQ6-oepcm1TQ4EvKdCM9yJ-g6C6ueOqxgeqS7UkOP59MREUxWGEGmb0p0s5GNeDBwlmW3aU_sJTiXxpOznaVE4p5E98mymmZc0Z-K8gargw_g0RXOg-V_ROBxjr-cTE_N82r5vo4LhFjRp0STN3kGHlrkyFSpWV5HrzS0cCp-YLSIwJ848RmktbTHDSoTl1K1ElipUeSG21EqcJVKW-u7YsJ1kScsw9XyRjr3piaq_03ih1oaY_oSKPq_SMsMjxIlf9NBFAH__pnRjxRx-lD4SNjY2EliNCNzdWScWBGCJBC8uplWpumTMrJ1ZcBXVBKlEJB_k1LAEw4_KBj9-DLWPKk3j92_BgLvmd9oIFVzdc_h2Ddsfpex6UcKQfoE7XWwp3xSh0HtvfWaxr3gpcv-QBQAtCQxrrOYwYV5_yCy01HUz-EP-XWWCH9AQM_jljgxJ3uljoWCfdVaMJI0GQRVB-XA92zt122YvQM8fzlReXY09e0Y0XlCjZBZXH-upbwkoJAyHs-SixPg6_VoCLE8aRTk-go0tIVjMnCB75268TPfvVJZ2MAHhW8rhFJ-cug5KfkBvddTX0uUWa_L7npggfHwGAXHwd2sUsCQ0fvEI01Jds91tt-i8zxk2Fvbm7RQVechaEsZxsOFXI2rzPmxHxeg5UY1mckmeHzZ3n3_AcMDwnG5Qzp_b_ihgM6Qe0e3Xn-PfUuXJ8rKktAW0VxJ12xmU0yXAa1Dx1tgeQRDV_UQEcdByTSb6ARmSWw5HjJthTTxGpWXSnUqykcQxX-PwMLmkOLWzg-MACIoV9gDg9KVVVd8lQQtuVH5v0CUtSMVBcZH5QCBLTtc3FOe05S9QNte6rxLLuS0lOe9gaAQKGjBXgFFDCTC_RiVPxrj_NlwBeNTP30ZoLn8k52TgN4Ob8ChQpw0cD7KtvjKCQLfqgq-UK6GCFKvXRe-RZD2blfW8L3zyJ6BZN4Nxo0p2yzyc8ub6XkLE4F_K6AYSgPGbBOSx5Erj7x1yW6nOuSyhMjmEwF-5mT6-BPdx837t8TQIDUpprAtnpq98WQ8MjUYBxqhEbUxCK7jAq38FHj9ctm4xRpnAB7aNj5GEs3WyvNtg8Bng2qBnP0qeU5pDvlbT_4zJ9eeaN6ly8TiwnnkvNkBBjIqtHRpemEWVmYRqs8vs99cHhNJPmBTcS1uANk_yrnhHRFHoqvmNT5ddOg082ONaTUac9auIS2LiA0dQFqkAPhSFeTueyKGdSbVV-zENDs5TfH2ZUBQ73-58QNdkISkxOtvuZqjWT8CozrB3Kz7BWNK7BEjHf485NIcq-pc1lSSjuxMKDM_09R-1FYI5SnyAApXpLonDnHVKRZHnWnTPk2hOHrvnpP6D0verbly33hx6sSGne0s3oQ7Nc9MdCV_o1FMU0OpQ3IZ7OT1zb4Y-ggw6KNi4tX23KEdNeWI6WELU6btnrOwKKwUJEWmDEcNvlPK6l3cfQCf1VUzOMilVylf4ePFkDryi7RF8xKqvvGevFojlYKofqEZy3pSOF1f_YgmWqXlr37WRHM3TMCkkKXjtgv1J5bi_5jtuvb25e01mNVHhLbGcjwkNIL__gIdrLzJSL0YAKVOw8fIPixCO3zGuSz8GuPkTksDzMLv3uInPFisfXnRGXiHgLVwlqawuO9rxS7lTbkKg497GksO1T8n5IwaO10PyHbYleQgCjr__VwlIdBzcv3ft3ns6tuHiiaL7NcjdITmPBWZa_3mHP3xrMReRmOBr_-wpdsgAh52prn9AEoNcFF46JBFjPMcBS8NZU9c3avhdq9qrHxJZX4C1yiqvnj0PMrEPYLOoNnqop_h23wmywtI-1Nq27jaWyQ3S4RsIF4VUN9giIpQtPa909GexHk9VsfpTOZ5W42AZs7Q3YfrZ1w3su-NYGkPSRH5GMXMw51LOHl1t32eVeesx4eJ1Yd5cFEITpByfv6h3-I0s87bj3IulJPdIaB0jekDsx7k61TFnG3h-3_M1EqbRRP5VJGwzMIOBeix6z3gk6Zm6LBCLRPj_ApV48-g2GkLOAEEIvte8xSqOwrwhNn_4f7KO2iegoACcYfgHjHISt3qB58btXSneNAXDOnZ3-hDogqH5Wnlgas=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0961fe7d0bc37eb3016abfcf9b3d4487d197b5f33ba215ade6",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 491,
+   "completion_tokens": 382,
+   "total_tokens": 873,
+   "cost": 0.02401,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02401,
+    "upstream_inference_prompt_cost": 0.00491,
+    "upstream_inference_completions_cost": 0.0191
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 373,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

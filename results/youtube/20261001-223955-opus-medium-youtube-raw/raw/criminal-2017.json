@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894469-Jo2qWywP089bla9LRzkG",
+  "object": "chat.completion",
+  "created": 1790894469,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is my best guess from the overall color pattern. The barcode is dark throughout, mostly deep teal and blue-green with scattered red stripes. That moody palette rules out the bright, colorful videos: La Bicicleta, Sin Pijama, Mi Gente, Dynamite and Calma. Felices los 4 runs warmer, Taki Taki leans more toward red and purple, and Closer looks more blue and purple. The dark teal with red accents fits Natti Natasha and Ozuna's \"Criminal\" best.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "Thinking through color palettes of these music videos, dark teal and red tones stand out most with \"Criminal\" by Natti Natasha x Ozuna, while others like La Bicicleta, Mi Gente, and Dynamite feel too bright and colorful. The dark, moody lighting in Criminal's video with those teal and red hues feels like the right match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "Thinking through color palettes of these music videos, dark teal and red tones stand out most with \"Criminal\" by Natti Natasha x Ozuna, while others like La Bicicleta, Mi Gente, and Dynamite feel too bright and colorful. The dark, moody lighting in Criminal's video with those teal and red hues feels like the right match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqgcKEAgSGAI4AUIIdGhpbmtpbmcSDNOYsTBVs+dZ2Y2LORoMuTmZNNxIcF3omRccIjD9ZtBd1xk4u4fw7BtsFL4/U7Aoe+7Yfo4NRKKQMym8jZxlP1Wdkd/ZFsCr6RYZbUgqxwb81ADlCF7XQ2/TAdD8cWe11fo5pt0oTZZ3SAJyauee3/nztEnua/SUjzZIi1QLM76rQm/fT6uVykbJoQBORrJ3sZEdb8yrTnjnCCB4KjOCXMbZQHfID+OMcCwQJ4wEk0io9fLW1TQHQ4BaxY117MaMrJRzq864+w+dlSO/AFMBdfGCTSk1OyKMmTYAbe141kk0rs/Mt67d0sTcWAf4Bq6N3y1Y6ZEI3nilSFINt8dT5DLq4wF0zhkMqauM0NMesv8Evh03NPJIlhVxzV9HygL3LjqcVP7RvA4h28TPrPz1lEOyXwmXEW5XK3XV1mhvw5c9EYWDMT5xjBwSzfsNRIuvYtvI1GJUgKQY7Zn0fx+mizq/16odac3SPX4O3Zhn6lifyhY3Ujp1iQjZ2R0cGCLiKzPrxFwrxXcGJhZ7w3p+5e2C7WycXc5LKlgAOJOWXDH3eJqtHONBwKK0F1yDp9whusognMhh5DOq6Z5jpNaYzlTciF6nUs269H+qN+T7izBh1dRUHwJmQIxUGmLGrNPoRXfry1aqn02pX09nC+3Jr9WpzYsswHtbDXU5PFZGBnNQ873Rbo8hPLnwDLnMTEJCvYiD1/4deaaSgsTx3n69vg1vuX/Ypzk+XeY6vGKdC3oHFkUJUIL9qMZ5XLgLycGwBJ/pq/tEtQuyVATLj2PSTk7gZ+oEAiv9Y//WBKXyDcp0h5RLcxw8VqD/RaXEqWh3c8ixpOu6KRikrB6jWkvXiSm5jIcppk6zOD42spLkDpWJ6jj8ZtzqeY3LMlcYNu+HYjem4AgsZz3i0LnDNO/TNa8g8agj/Jw4c26d/pxm5k8p/CVuHoTfJg/AgQhl2A4rM6QAdv9IEGl8KVpgel2sksibzf9hnrPjrP+cJ0rY/o8LJCEf75zgmsq6rEAxXvblBXBk6L7zlRhWRAM9I4RBN8DfF+1CM6WPpTKjwODqTsrcw1sCGjUq0031e7rqiYs38q4M0csHCjS5E0Q/oRXkssAIpBIjD8cjUYzlzVG8Cg+90GV12UY/PAsInyw0yQAJh408YBic2ozpOdhL+oXq0O0PMjpo/lBWF52CzlryUKzrFfsoHzLUlLBzbuz92VEUojXYmCoelxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 652,
+   "completion_tokens": 335,
+   "total_tokens": 987,
+   "cost": 0.009308,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.009308,
+    "upstream_inference_prompt_cost": 0.002608,
+    "upstream_inference_completions_cost": 0.0067
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 154,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

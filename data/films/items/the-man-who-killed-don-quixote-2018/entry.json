@@ -1,0 +1,21 @@
+{
+  "slug": "the-man-who-killed-don-quixote-2018",
+  "title": "The Man Who Killed Don Quixote",
+  "artist": null,
+  "year": 2018,
+  "label": "The Man Who Killed Don Quixote (2018)",
+  "hex": "#373328",
+  "rgb": [
+    55,
+    51,
+    40
+  ],
+  "frames_sampled": 7987,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "csbcfZIRCnQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

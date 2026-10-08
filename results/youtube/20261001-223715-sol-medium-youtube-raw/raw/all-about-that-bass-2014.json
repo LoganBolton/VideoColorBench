@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894275-IUaoN8875UbtNbtmQhMj",
+  "object": "chat.completion",
+  "created": 1790894275,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Meghan Trainor\u2019s \u201cAll About That Bass,\u201d given the predominantly pastel-pink palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Inferring color palettes**\n\nI'm noticing that \"All About Bass\" features a consistent pastel pink aesthetic, with soft yellow and blue tones dancing in the background. In contrast, \"Swalla\" employs brighter, saturated colors with a darker vibe. Meanwhile, \"Lazy Song\" has a beige and gray chandelier theme, while \"Uptown\" leans toward a more sepia and earthy palette. The overall color variety across these videos suggests that pastel pink stands out distinctly as a primary theme in \"All About Bass.\"",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Inferring color palettes**\n\nI'm noticing that \"All About Bass\" features a consistent pastel pink aesthetic, with soft yellow and blue tones dancing in the background. In contrast, \"Swalla\" employs brighter, saturated colors with a darker vibe. Meanwhile, \"Lazy Song\" has a beige and gray chandelier theme, while \"Uptown\" leans toward a more sepia and earthy palette. The overall color variety across these videos suggests that pastel pink stands out distinctly as a primary theme in \"All About Bass.\"",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDIKNcOuwiQg75hWA2U245pChoLDHG7c9WImdr9uyWi3KglqQcZvgIJ8g6NE6j3605TBxTZJLygQUQXFbzXYBuQ27OCrzpZZ_1TkT7C9kCxMhhHYf5ygl66FLU1N6RrALZskN5reZo8H3LNgFgZjh5hYjtLnhQtCwUVlDoDXaUN768htb1QCAGr5pvZokjjTLndjNOFfe2vQN0UDn2QoywRVrQ_Mt3xHdwPxM-9rAQUmPzPjyJb_iF36yDTVtD6oa3L_20N4qKPTaeXH2hhoGHAt6Eh5gSE0lIIJupQfJogLpHpjIW-sVC7few9T0_sspnf59YPqwkkho1LqwEQcimYVkmT41eqc9O8S2G2d_mM8ONebgQSFWWWEBceqXDoVB8ANmxal6yP4J42yQ5Ve6P5JCnBl1pEgBRvQkcPav3Qe0KF4fMcthGEKarRmrWuSkLZTABB__TjVjEYw2vcL36BR7VCNdeXflSmv-sSPTlMOGAXFbffTSbZ2XnBLPMfo2QCCDeEuYtQJzRxIyxu1e7YakXNfrcKnZzhJch_QVkaEMFr1rHepso4N_0hO3aq2PgC8GL1KFka8t1WQyG7otfDicyBkYZUgi8ceaouyae88UVPiVJ8IKXLr2GGKE-ZxXcY-6OW31ppswC8sij8Lie82Sl0D-gxtd6vbCQXG1eznaOof17JNdZRtz2sP1ZBmaRnFXvRs40uD_1HfqSISgaWfV51oEJ8b9FCEtpB7XkI8QdSoMHYL-86gHyn26KKd7soQ7jKyi-CeKe1fRPRVRiuj7WTJ2W-pV71Uo2dRjzIxE22Qwxki4l3I1WrdnyHNzUR08tMqWNWlQpcEScXv9MAwKY85XWpxJ5oGptcaUGfrhXQ2v1PUQWDgFKkduEmSZ6RBF_2FFtFkSUhpkk4iNz290pWqHhaquhGRytOLyvkANJ_Y0ATypJrxIWeIYjeRCyFrcMbdt903QBhFs37ZPV4emsDTa3kEA5pLK9hkVS_5441CuuITsaZ1A5-BNfzextgl_JFnmuNo5KwmLXZ6JnhRBPSGdqb__poMxtDd0c54cbsF6ZN7rd3yIhPXi4NrdRWd3r8iNC3BW2CmaGdHZ4vFx0R4UQvRgnQMstOa4zKvarJA3bFmL8oLM8aGSFyZS_tnTK7Vshj3icenNZnxS5A7naKhjDsxTTCgFwyhvSRypIvtfadR_VmPaXXtiEu1YOfvNAu3XcjpIu_QvpOFYq2Q0Owm2w3d6esjiEppo63fYifKvfyR1n7iOKNACkPGSsROMOnkmMaMkc8TxAYRqM4WKYsvE8s3lqM43ysdlycDp42675Th1QNELWxd0-4UbDugvbEg-_XgGBD7YByC4jJrCpGuckyXkZ1_dGhviJD54XDDxeWEuFrI4lDoTClKs0Ta14LAk6-SoofPzbFW5MK9tyl-PKWgszTYFf0scB02LuRIQCh1kuoJxv4NruPLJb8AxxQFspUz3cPu0cUOhmXlTnWHP3aNQMYV6OCtqtP8AH781Vb4BqLgsqKVZy0sC_mdyUMJX3OlnUbk2w-bKr0RwUvZfSImkpqua_ursnV42RbNCkcCxVntCMmmgJAYgdBE6YYWFvEjkTsANkks5kxg1oNSZ6bBtE61xOdWw9ezyUu6moFiIahN04jx5VgpoC77R3hENt8VBUm4o9szjN9Rxlo0pLXWqZOM3XdHqOF15c6auSBAOHtDl7zKFLn_XBO-_4swaIl4-AUrPyl2OaofFiUHQ4oNCHVuV_fgqF2u4WibBgI-hRL38xnRDYEMXwKp7KJo636LY7YnIGMwaWzT3C4ey7FsKWc7wPhhtrmpchJqsEqZtrk08njMJ5AGJ8J-ff-6cSHv71kHHKU6rXlBCZMDcO38NpM6DUMTDmlVYuKCQBXRazbJRYO7lPTTDN8H03M8UjaBd8idvkNZuD6GEEDT47ckYqnYQnSme-45kSsO-p2AQ2d7MgJLkO5pTdEl_9W62EWGDOZ6Vns70nneuvkiUv25VLyoPsASPGPvk7gtv6pUiYgOS6UleGXoiS6wuYF2B2vJy5TnLfvmRC2eCsR--6bUicXkGzPowBdaUE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d74985d526279dd016abee0c469c887d1bad42ee056c21969",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 493,
+   "completion_tokens": 145,
+   "total_tokens": 638,
+   "cost": 0.002436,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002436,
+    "upstream_inference_prompt_cost": 0.000986,
+    "upstream_inference_completions_cost": 0.00145
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 114,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

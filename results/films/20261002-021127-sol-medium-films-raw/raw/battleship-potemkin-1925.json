@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-mTEnh4Imo1nk6E34syRu",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *House on Haunted Hill* (1959).\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "**Analyzing image brightness**\n\nI\u2019m trying to guess the variations in grayscale for different stripes. I want to look at the timeline in broad averages and discern how darkness and brightness change through different sections. For instance, some images start dark and then shift lighter, and I notice patterns appear distinctively in scenes. I wonder about the brightness of certain films like \"Metropolis,\" where dark and light elements contrast significantly. It's interesting to think about bright beginnings versus darker ends in various films.**Evaluating lighting in films**\n\nI\u2019m assessing the lighting across various films, noting that \"His Girl Friday\" has a bright newsroom while \"Little Shop\" features dark night scenes. \"The House on Haunted Hill\" might be the darkest, with interior sections alternating in light. I think about averages for various scenes, with specific lighting estimates ranging from dark to lighter shades. I want to create concise guesses about the overall darkness levels in these films and see how they align with my observations.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing image brightness**\n\nI\u2019m trying to guess the variations in grayscale for different stripes. I want to look at the timeline in broad averages and discern how darkness and brightness change through different sections. For instance, some images start dark and then shift lighter, and I notice patterns appear distinctively in scenes. I wonder about the brightness of certain films like \"Metropolis,\" where dark and light elements contrast significantly. It's interesting to think about bright beginnings versus darker ends in various films.**Evaluating lighting in films**\n\nI\u2019m assessing the lighting across various films, noting that \"His Girl Friday\" has a bright newsroom while \"Little Shop\" features dark night scenes. \"The House on Haunted Hill\" might be the darkest, with interior sections alternating in light. I think about averages for various scenes, with specific lighting estimates ranging from dark to lighter shades. I want to create concise guesses about the overall darkness levels in these films and see how they align with my observations.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLeYW862MpJx3MIK9G3hONhB-GXxL90TU2D4SElr73MdMBP33qdPN9BkArrDpDtGqO1CBsyrGMA_ev0TmlTGkY0h_Ivs7JJGcrW1lh42wDHcyw8OQy-bFQ8naS-4xYDzE19Jc0hYeTutNjoBChucvsq6m-LvDdYEdZnbIltG_BVFbgQRjtZeQBAkX3UuBC5GOnCrMhAvjjZpPVwxx9Z5Zjavdp2snu72SyJ7tzuSzU4YN3EwwvvgCtKMFQ3qFM17yMCO0Mg_pumzHTpbyzpLdlS-TjjVj_4Gig_i--jdLgSOYR2lS7g8ozyETltDR4uGfTsR9HrEfybQmZ7bAujaqPI4ZZ7STfypjAgApXtSVBMQiWkNjMBELVMbOMlVVzDjfejzPSlhbD3VuH-pTAwrv8uAo2iCVDUjhW5M9loPYJBvoRRSya2-7BpeLlphihcDsxUUn9IxKcHQ3ksFjUYLjcBGPyIw_dM8NprrIH3jV2ZXZE3jvhONppmIOuWv2q13b6JDqa09nHj1mxUWfN4N6qh3-0Vbo_Nw7fNUrhDVSqJOD4QzGd4TXaMI9cdPAwhXQ585PWNejOd8WfXYj6MMuXxrMV-kDWc8WdkpiyKJD3ZtvggCYWP1-2kfKyxzCwxiSQWzconIQ6DKIBlPQzMSY8t-zV7PMOp6Hx3Z50sGn9agGN1uUGQnpMnKYdht-7k5GevGUieyI6oqRu0jjmAVYK2oamf14y8I7cz_wOLbjwdDU9dFfD8z0jbTTzgaR6nsvmIus8R0aReOMRnRJr3Nc-0ngaoqJ4-2uSqeL4-nwyvLQqLgYRzicM9sDrQ-vHzYx0d6PtqarK7ZqaT6-p96f1jQY_vFuWFXEnNgdxzsi7IwBp67E8HOrQ-uxIPBkXxncRg2rROHd1BFad60mfWMGz5CNFbvyBhwZ1iHjRuicerM84rZG49mqMCn0Qo0RcaSlwa25CPNiv33tXgAbZmlcBhvCxI7_X-UaVsvpWs5I64643OIiZzQ-D4BhkJ_fluuzYYfqzv2lTcUfw4WwI0u5w6rc5SNXO7VYm3qx1jTCabey7-DbUp6Z5QAL65aH0h3RraQtvLsdQdbeA1D2lB35BdlEoy9mxhMFRixzT_bzwbZjwCdwhRAz3PeFC4tEzUsvDi5QdQjmMZx8rCyS5mIw-vOIn5fcr1-MyxITBu6RrXwyp_dvzTjl8K6je8zAZ-ZPMjADE6nDCrbPlPH-Gu_YjCnpuxyJhgVrRxOr0ZtHCzjRug1w--X0aLVXErYCjpgjzhtopJT0FfoMhtAwQKN0zHoWRl2OhISkGX6TuQ2P9_2ioClWvOXlBnwVj0VJC959An20LxHaWrqq7I4BVI5f9uK3zJWvB9rDGvs2jD9wOFcCHnPH_IaWgZJr2z-WEz7aoKee3sjFPdFABxSvD0qtRgLRgtASMd487BwC2KcOARYyWGfnJhHIqiiGwYRUV0OmWJr9lpdmw1zDcfixvt1KJfSe8wxzuVzPJTQY1SPR5l-MrwxIqWHzJW_uKbedl0M70Yht-9yKfHjXsripT-Y12I0PPSH69bInQTKcM2-p1_bpt8e26TMvv-Akhg2lTtJLYrq-Jy1yfVaA4DB7FMqYC64MLMVGVnEUbbd67JmBj8xXtnjAICxuoh7CzEPTkpf8Jjp5JirKYUC3wa6w1b7e4elXd9jwq5879WvidicE8rQypOkUyaLMRwXsf4GMpDcRv92Ylq042FaGeO1E7IuPelIsGvPcL9jGfq4nbCEnS08NOxnlinGT1ip01YIv0bAHZ1_kM6bDpUaEr3CI7rmPAffXGWxZgqD_CyqHS3kx84O_2mLVuFvtcOAbs43rOvHcP-2pEeIQH5x_MfAWreOi9GRXbSFyNZQd89tRKoqLQ3ZF2jE-oAKw4YSAwdkM3JxUvB9WxH_AMvb_srlb5peJ3iqbiNSdvhLZZKF03eufghmJk1EYGpvbr5BYFPFJQEeV8ZaoFoOU_Qu_p-q_FZME43X-RaIywW4tdrj2SiFqS9YKFtuUsaSI1UcdsfsOdzNBkIeRAG34TrGYnkKGuMqQplJxoRYAogz1mAGvLpl5iNZ_p6tZ6TzwuZ0GWKkU20_Z_8-9e6lbRKuO55PXW2KADDKlD1MEC3gQCG9RGAPEWHHgVl-haGj5z7RuoFxe5dVO1ubo5YxINGKYV41C5M1Eoysk95T7KEWIVqhdc_xcTbYk7GiwTE6s6AghkH5QjZCzgozA6qPlByP7FWqjzWqDFZH__SDv6EBWPSTOAJaJ7uClsQPUgZJhT2fc_Y6P_zLmkdu_9tJ91BqJxXpQpPD6tUyc3DiavhoDE7V88pitpiEEFI1vhnc5RVPoLIrunGzLkF6-4TJay1XZjUuXcalJhgJP9JMGF0QHgsncY-3VlA-il0qjgdjKPVdwYHB92NH5qJVYlI28WplakxeBRV72NyapNF3GLjkwti6rS1tN5GpvxsIRlyxovQfGU7dSjZJ9I6WlYJ3DcRQftFQ8gQVXfkhr7Zp46Ja9x_FPMwRwLxOb14MLOALG3Nk0ffzt4XhmdNfLgfrnkKLV3tLHyVzLfF_PmlQ1KlwZi2PYNYF9_u_TxMFPp69qheQhmVUKSpmrS3iJ7MrNOQRVMDVFnbxzNUXPGdw7WDFLswex5Kw06FY_Ra0BRybGK6dg4V_ORyDEJj9LDv0B0-cGveqIFnxalObf4rHAEH-_MEDy1mRtJgH08gNwGqcB-OuJHzra83pw7_ropjXFTIs8tj7CO5T0Z1EwTTCZWWfLf_PIczaZGQjKjtDU1EIhjC1oz7p0k3UaYTuPSAwLC4j4xPePQ0IUDCp9oQlboEPZOExksoMq-vdG5upDL5SugMbBgYdmboYizu78peJD1EEtUnEy0aD2NKH_GJ6g0n7Unwf4Ve-AVFPVrZ6NSFCaVzm3YlxGnyA0t9NGizFfRdp8UVPmvY-nrUIHXhLQzlLOQdjwnWrtdAuFt1yO3JL3iBImJ7Kr9rk5dizkahfjxy542P9TyqLSNwSvrzKV9nfnVgHQICQKlCqenbSXF0dAQ2_plzqZPVVD8R9EFHhqGAu9oAxlgwSl5qkpkiGKT6aomvd2W2sooxCGyN9D84ZMMEYN1WeRckQxdWXeoRkVkKUI_2lW4gr5fBZrH-goEjK5AxZnP0KFw8eHB7IgiMlvPQPLWjOuNUvMOU05pS931aS9puko4nnB466SwBdWaNqW_EESjvzIfExdf7xX0hjxwDSubtQOFu7Wpzlme-C9bcoPQOt-VI3nFHrDsFr9NDW_vkhVDVwE37uSxFi9NudJOIOvnLinNXt6DKk74tyzwCKBfR-dqB78iMG5xhFOXiFKXG_zqf5D5AzcWwwymp3XK_0nNH653UbUy1ks5XEabyHXdqwsFilGginYzT30Xiq9AeaN3xjLS6H0-iY567_MaSpw3uUwLUaOzc_HpolGAOWHemm1GEVHaoeg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0efeb3cccdd0ebc0016abf12d34c4c87d1a05e2c56364bec88",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 442,
+   "completion_tokens": 368,
+   "total_tokens": 810,
+   "cost": 0.004564,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004564,
+    "upstream_inference_prompt_cost": 0.000884,
+    "upstream_inference_completions_cost": 0.00368
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 345,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

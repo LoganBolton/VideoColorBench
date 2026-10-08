@@ -1,0 +1,21 @@
+{
+  "slug": "security-2017",
+  "title": "Security",
+  "artist": null,
+  "year": 2017,
+  "label": "Security (2017)",
+  "hex": "#121718",
+  "rgb": [
+    18,
+    23,
+    24
+  ],
+  "frames_sampled": 5502,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "2pS1lfU6Ex4",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

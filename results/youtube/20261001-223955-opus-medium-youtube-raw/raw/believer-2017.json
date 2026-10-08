@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894466-4SRCMDEDbX0RPaxQoxSp",
+  "object": "chat.completion",
+  "created": 1790894466,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is H, Calvin Harris ft. Rihanna \u2013 This Is What You Came For.\n\nThe strip is mostly dark, with saturated stripes of blue, green, magenta, purple and red. That fits this video, where Rihanna performs in a dark box lit by shifting coloured projections. The other options fit less well:\n- **Side to Side, Thunder and Stressed Out** are bright, pastel or daytime videos.\n- **Dark Horse** is dominated by Egyptian golds.\n- **Believer** is more brown-toned.\n- **Dame Tu Cosita** would show a lot of green.\n- **BOOMBAYAH** is the closest alternative, with colourful neon sets, but it is generally brighter than this.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm cataloging the color palettes across these music videos\u2014Side to Side's gym pastels, Boombayah's neon-colored darkness, Thunder's bright pastels, Believer's brown tones, Dark Horse's Egyptian gold, Stressed Out's daylight brightness, and Dame Tu Cosita's alien green, trying to pin down distinct visual identities for each.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm cataloging the color palettes across these music videos\u2014Side to Side's gym pastels, Boombayah's neon-colored darkness, Thunder's bright pastels, Believer's brown tones, Dark Horse's Egyptian gold, Stressed Out's daylight brightness, and Dame Tu Cosita's alien green, trying to pin down distinct visual identities for each.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS9wgKEAgSGAI4AUIIdGhpbmtpbmcSDAFCFQ3vITpzl/ZDdhoMA3NtT015O74Dc50oIjDfqZsUwnCoUDu8vtwyiwGi3FDuyTpz0ERPRVyjdOKb7h9SWVkqZTpdepU0IT3ipywqlAilO9YjoLl2R1NaYnSerbBcQsuZvMbJFg18egHSXCpz9ekQwqXCGmu9V/fpgIDbaF4XvBtTKQ/ttb/yvZh+VtVHKnMopuYtZdsAnL6yhuPtA5Du6yuZ6csE3oaqrSGOTm8fTrR7zaa17C9gv4XkflrpMyKwfg3CkrvmC/nJFB5TF8Q1M6wEJ/KjZCv9z311YLDk5rhaGmvc8yCMr472acGVFR95UNvaK1Y+MhFGmdsuT6sjc2MH/BVbkTvIu2RL6/oaHpd3qaH3TVbSaqPiWxrpF+JmhXhSd36Yc8HQsSYxw6IY39mL0Y+TMRji+4SQ9/srVq9QWUBiAXDxD9zghLiCb1PFqDgiVIJqGs958E5R81/HT0PmTjzVyr1eonQiYSZHazeNP3oKYbDINCkxkzBahdtbFu8/pOJyRdUjVfJtoExUdtSGjWk7uXAXn6+bQ1b5QOxuU2vqHmemv7WV1oGFW0PDKvWx2H3Nzpswn4H8K9Jh42kKKCT8dCwF0zrR2doLZT/5uHRIwM0kZCM1B1PZ6ewfYqzlW2pJGBKP9i5lLjQ6B0D8/hHY1LVOk/YbDFsDLiOSbz4/x6qkyx0fjN7kaGqHg/0fOKDtz2ylvIZPGl31Cx4nW+cu4B4eNmFQ9tpFrK17V5a0w51fNPXkBiQhVoqoOPnm7wFZ9FHLfRyBufi/c2oG9/tnT9yb759NlNWAR1rYo8wrLgeoYDKW2Pvjd34ZfLOWD73Jyp/IjP9CkvF8uHnxA4Sn9eukQi/4KHY+uzp+g5EmmbtO4ng7fWnCfL7QvlKfiskviklPu1Jadjt+Bi7kHZF5EV8U+aAiC0Hf1UPIHmVIHerBTZVBWCoO8tfkBX3erZVsTCmut6D8sBzRypEzjx/oDVOtd6dUkX7oQiQpeHCcAxxEx86mpFVHAUeR/PS3aCFqdT9G0Q1dDW80JGEcZAOzCycbqYLOZh7kXzq4oJQQjb3NVwMuqjqJJ4FY84udOcmtj8y/5+NuPv1M48gf/2MyKO4mztYOFYYA0lwOhfqLmIaRZ56/4SAaHsEXo0dAXun/LaQmYYvQRbiaguM18/wQOPk7Os4GbgnCznoxecGt36mCDXauuT5dokS99CdTHa0JUaHbbwQTye92V+1LoG16HgvSzI0kEMX2kpQ/97UX3tQqrU+vXbFzKa8A0KfizyGo4OhEDFfysuuJrg/JMPYVWld4emvL41c4vvpWjDEvHao6abHC58emZaGT3Cbzstfrn5sc82IVm/1EmG3CkV8+MXoVxRbzqMhD3Evo5ifz7eqVCGi/dUy22aJI864figfcCsjDSZN3zraaowG4XD9jW0NBDwiTvXvQgbcAs6K1cOQScZnuHhSnRJ7VuUWprHPJcap5ki3xmQL3EyMYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 637,
+   "completion_tokens": 462,
+   "total_tokens": 1099,
+   "cost": 0.011788,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011788,
+    "upstream_inference_prompt_cost": 0.002548,
+    "upstream_inference_completions_cost": 0.00924
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 214,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

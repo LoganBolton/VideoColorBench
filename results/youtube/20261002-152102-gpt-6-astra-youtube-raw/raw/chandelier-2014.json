@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954468-EqD2y1MxwoWRz35bzNbI",
+  "object": "chat.completion",
+  "created": 1790954468,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: E",
+     "refusal": null,
+     "reasoning": "**Visualizing music video elements**\n\nI'm picturing the music video for \"Chandelier,\" which starts off dark for a few seconds before transitioning to a sepia tone. There\u2019s a huge, stable dance section with brown and blue highlights, and the room features a chandelier. The space changes to extremely dark in some hallways. It seems reminiscent of Sia's style, with the iconic video room having mottled greens and tans. It's all quite striking visually!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Visualizing music video elements**\n\nI'm picturing the music video for \"Chandelier,\" which starts off dark for a few seconds before transitioning to a sepia tone. There\u2019s a huge, stable dance section with brown and blue highlights, and the room features a chandelier. The space changes to extremely dark in some hallways. It seems reminiscent of Sia's style, with the iconic video room having mottled greens and tans. It's all quite striking visually!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vzrabgHsaByj2kLe15NRo2rDl_YeA8loZKnrppP-mPKT-D4Dx5zMKoD8VrpDWDaSEam3SZ2mIJQBxgwXiq6r-siw-uH0CUYOA5T0mmpKIZJk7VmfAQrTj_CQXMBdeV18Fr_h4UMMynDasdIIgAKHWZJnWCv1lYCocft7YqQMdEHHIsAq6FCMnhi9lV0wE3uclBJRAfmrHrtSOqetq8tEHPsO97tLLh0l3z3gmZ7j-vxnOuy4a4s2zMk73VRHo5MVHvrPwPgdCbN8h0OtW9Mv5OE3B6AdZq7Jotzdu2WYk58Hb0E2GiCTlU9j-pqRq1qBG7qkfilPcV3fB6VgGCOUJyYicjvG6MqXv5RTDRPbShqHEGl_VpbmuPOPeTfrY545beppvzQujCmiD5sFbu0QoTQ5_vjfesXQordC1GQ1vcSOSMkLYnw--FAzK_54eCK8QAy_nS3EmuzAx-T36kCnFsRuZg9wSedMAVyj39wNpb3B3uT2mHgHxd9EaB1JaYkp4ee_CIhsM6VjwRe0kfjv8KpVwaUxW4YlgGKpGncaZL5pC8Uz56UaS2J4o69uk2Zy3u25_lbdXZthPs-aUnppaTO_NwIbFBKO-UO6Bufzg_fu6ApHRNkhHhK5rhsSvLeL_iJ-tTNMtKFaGFwpD9XAOTc685PskvoMYsXuz1AUE_ZFRqatzEYb7VE52Ymmf1RBBQI5fteSyT9KkDpFtm-vY3r2bJQ-si8iLG1K0fdagwweVH4nkuvFsMj5h2cDoobfwnSEmir8eC52RSCC1AxyfokXx1OCYXVrxKEMD211LJHB7rS4qgpSjfO-p1GSnU33o9A_Ed-BPvaOhu4L_iMPjuJIBYoFMSC95bSLfSAxsyq0iybkTNCzdp6MXMgLJa24MrhFI5m7VXQmuKTKMdN9JNrf2WfXdlGDflM_FelFWMTyda4KmA5WZFFJeRCnvXcD2v-2vlKlI7j4LiUvducIW6I-41LgimMgEthxwtgMlwoIOuClm7njVzNJ6_yXgO0Yh4egmysRRtdJniF1whSaTzZq10L80RxV8s8unTpiTZWlIHbT037Ud2UAevuP8FJBRupK4YPUNW_j8_-gm179e-8PLm1wGNERXtpEWgz5n0PW9Na-6NcdeQHizqR1lBA0tV2_RmVR6AN8iS8SzwRaNNeqJb8lL-bW_UgT2iNFpQrK11wAg9gwI3DwHM2g9kWP_32cr6V93ykkRJAqtlPWzeExLX6lrcMRMbdLfRdxHhFcZZXzUyJ9PyN7y7oCwhsQdh8fpoEB2zgX2WLgIKoCM4q--dWUWIq4KFpJSJi0V_EPxpkcEKdlQ12N_FPMh_ihp_jBqdnyzM_Jzrp6BemjZ94t9z2ZDF3wtciSBtEYINZ3yUYPK8wlRd0i_IGDPEPVlNjfPlMG6svtM_Qaq_TBN6Ignj8Mqa6HXCIS3-tGBnaiaiTPGflxToYuwC9YbpaCYh-dZdhETN9e0apq67ABps7XFtfNELjSUNE44zl69JjRof2HX5h9Wg5WnJe6Ao-0tYZBPDOFCDIHkSmrnOpO2jmcURYDYVoHYwI_q7ztrSwl_l1ulMgdWEg6evbtWonmzkLyVNiJVLhOFXoB490-OZcvUZ_ATzIHuadVcodZJVkDxTcPLuHetxacc2JX-JAbshyxs-Rkd7Ol4sR2Azibx7eRyI2euq0CgISUzHrTluG1TMQMpgq5wQQxSjLBkoqLzj5i6wJ5eHB7t8P3m_aNxAsgxfgoT9Irle-mZT-Y7Fh_1HIa04QtVK_ivDFmXRcnH2RAHWCLpeneBfTupIwQbm6fVFr8Ua-4REmIJf966P5dF_vYJDsI5P5kfzWWYJweZo64hvL-kMJktlQj63ZWgHWJuQgNdH93J89UtJBhjdaczcMUp9aDrUsoGUbP5piLCrgTCRHZ4GuhKAkGV_c2WIbs8qSeLhfEhkSgUeHbMf7R7H8wxmRe9EVXj392eqP9hxprbIqeE3p5wCqM8ufQ8bSbUevR1JGP-cqiPnGobYQNm-QCpYntHnM7ga33ReyreCh0ygbLXsLPtmrlwbflbDjQ0o6kCLchrV450qBzBwnKw0UVo9VKhYAO4CGMLquMVYcMFwgjldW3Jrms8yoExVclkx_p6a_2DcS9EcnP4TjOd3pBgY_APC1bmEjx3Nj6s4Crm829_gh0tlP58Q_KvKv9wsS-nlVy5HAwtmVOg7j3NyKmBqxjc8weiF5Gs4sPfnGXpSclLZLpJ9Z9NUxUo4UpIpFi_PY78wYI2pxWUDbEo3ChdHOVCqmsI7H0OSbvqeX3qkJjdtg5VGNe9xQFQ8tHYN0M7cTGHpn1vmit7yffRxkwxR8zGD0Rgpuj-DiyB5d3HEcmvlkWTul0HHfRoO2La0QcwywhQ0xLKfWPBdbrL2nFScTpOAI2Xyp-ED2CheiL5laZJ56zRKAel-1ufLUf4VqrHSSrn32oAa2ZNNCG3ihJ07kkPqur7clNa77jpf1ep9poDWdUHyHYhcByqxFVW1rMbnASYmlSmjZ4kzPA__bq5o2dDhfzLeYehu1pGpmTu3nRsr4QKk_LukWLhb8iZb4rrLmby5a1XCwAf7vHZTylo2sCll2f_Y04hhOPYq1uxnULxn2QpIDp4hPTXIx1RqnJdWJHkPUYzYo2D2WVuqMtOMUhjgbmcnnxJfHKtwVNS3iZTgACR3ZizdqpO7T0L6XYsEpKoLdthwIhpn2Ed1A2melqMkdyNkeWs6wxnSas13928Ke4pNnYC--glwfeIDootdFQtq_WsVVzzI1Mit9Yl3jvnxweUBj07mORZXWtbi0YMNhO5P0mJM2qDsNXjgl2TjcJyzSP4gO1Vuthtwfg7AbDUU8R_pDBDMStFdSNShgioWkgjxLNtFyx015wtsF9gWaEkTDgIASgZh-qmBGUAlg9GXPT-XXt10i8U3jAzgrWjetg6g9iJ_nEtNgiXDXjT9f9TDe6zO3xMXB0K5lYw8v__k_eoTpiRGHhl_6EWneAvrj7vZ_l3yFUC9gOv6LxfQfrKJ_KzdJriNo5buexngmry3ix9ZFfVYO2iwiXSRbvIGlb7Z3QOxKs5APHZfpAx8Iqa7rcQVsv5qCXTY56SX-qZcpChLjHR-L_4jZkSu8T5fqfQpJzxCYn0EPQme4JDLm3ULG-YoCJ4KY3MX8oop4iPRocfiYFQYEKVHn4A15oyjNp4RWoDQjWogFzKoFZQCNnXSKjLCUFMB8Vke6-yXYV7FtPjVyn2yLNWO-2P5kiaqmAU--cysw6hS1QtnRurYuJqBJ98E6PSY8X4XYzcgPpOxi_kmTY5EDFmql7tQBUoj4qCq3fGOrekFDIkIabx7CkO13yRHKHf9wvZnIZpR2vBDgZMcrtDjH0I2G7wKhc74r-1x1hsJyFf8Tf48RReHzk72v7JxwJ6DDjT5USZhJ9RoMRVhxvmF_jU_dKHza_HqdHf-Q9MxMO_nbosGcmdPhYQgCMb-XQFthx0eb_rQzPcEh3UXa6ZTDrK7_ABnj_1RGSYeOjOW4cSUROtYjBJE0jEXy78H4HiqM3NGDKBwL7bs5JjCm-H28adZpn-qJ00EKosv31LMU77GcQJLIYvrO8CCq-nPbxCM46XeAX6GtJdLgKnjapjCXOBQWIp625F_Zoj2z2H6ZGFXKeROY0JYwaicIatMONUYPGzIyjRVpq9bpfmWDpVMy4YI2kx-qwrl6IJFZYUG8cysESFo-fhaK0GZiun00pS6RQxOJldlcXDTsThczYS9LWT3.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_061cb15e9cc6bc0a016abfcbe57ca487d190941db94a7ed82f",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 398,
+   "total_tokens": 870,
+   "cost": 0.02462,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02462,
+    "upstream_inference_prompt_cost": 0.00472,
+    "upstream_inference_completions_cost": 0.0199
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 389,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

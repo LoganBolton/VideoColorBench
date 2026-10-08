@@ -1,0 +1,6 @@
+name: gpt-6-astra-youtube-raw
+mode: raw
+dataset: youtube
+model: openai/gpt-6-astra
+reasoning_effort: medium
+concurrency: 2

@@ -1,0 +1,21 @@
+{
+  "slug": "bohemian-rhapsody-1975",
+  "title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "year": 1975,
+  "label": "Queen - Bohemian Rhapsody (1975)",
+  "hex": "#23242F",
+  "rgb": [
+    35,
+    36,
+    47
+  ],
+  "frames_sampled": 359,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "fJ9rUzIMcZQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

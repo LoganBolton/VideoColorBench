@@ -1,0 +1,21 @@
+{
+  "slug": "the-little-hours-2017",
+  "title": "The Little Hours",
+  "artist": null,
+  "year": 2017,
+  "label": "The Little Hours (2017)",
+  "hex": "#2F2D26",
+  "rgb": [
+    47,
+    45,
+    38
+  ],
+  "frames_sampled": 5356,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ZXtqCRoLIJ0",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

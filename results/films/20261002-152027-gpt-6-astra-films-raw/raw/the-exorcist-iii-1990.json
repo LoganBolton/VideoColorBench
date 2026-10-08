@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954652-iGidGxYnqLYc8LdbGWZx",
+  "object": "chat.completion",
+  "created": 1790954652,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Silent House (2011)**.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Analyzing barcode colors**\n\nI need to assess the barcode that has an extremely dark color palette with shades of gray, desaturated blue, and browns. It features rapid thin stripes, and I notice chunks of lighter colors spread across different ranges. The lighting effects in scenes I've analyzed seem to progressively shift from dark to lighter tones. The barcode has fine lines and larger boundaries, indicating that I should look closely at the visual consistency across analyses, as well as the dark ambient settings in films.**Examining visual tone**\n\nI'm analyzing the visual tone of scenes in a film like *Silent House*, noting the progression from daylight to darker interiors. Initially, there\u2019s a significant amount of charcoal and gray warm tones, and the overall brightness seems low at around 35 compared to the average movie's 70. I'm considering whether it could relate to *Boogeyman* or *Apollo 18*, focusing on the dim lighting. The color shifts vary from dark to lighter hues, particularly as I observe transitions in different sequences, leaning towards a single take style.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing barcode colors**\n\nI need to assess the barcode that has an extremely dark color palette with shades of gray, desaturated blue, and browns. It features rapid thin stripes, and I notice chunks of lighter colors spread across different ranges. The lighting effects in scenes I've analyzed seem to progressively shift from dark to lighter tones. The barcode has fine lines and larger boundaries, indicating that I should look closely at the visual consistency across analyses, as well as the dark ambient settings in films.**Examining visual tone**\n\nI'm analyzing the visual tone of scenes in a film like *Silent House*, noting the progression from daylight to darker interiors. Initially, there\u2019s a significant amount of charcoal and gray warm tones, and the overall brightness seems low at around 35 compared to the average movie's 70. I'm considering whether it could relate to *Boogeyman* or *Apollo 18*, focusing on the dim lighting. The color shifts vary from dark to lighter hues, particularly as I observe transitions in different sequences, leaning towards a single take style.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8yw_GHiUQcNi1Co727Nz5wzoxQCzWIyJQo1lph_sNCF6KFJOmSK0bgA44ZNZS9ocmDYIT2c95yTEq2pLoiufeKTGeRmwzndD_8dywHFrs-inF-Q1lbD0ji308HLcmBeFi2mIk6gQLQbbFEVNgG8lfETBtcPYgonjF6sJfHzS2C7WCFWvcNx9eizByv19jHtIoZ7-apWVRwkmFeS_B5DhouLSShr2BwGz6RVUNFc4DeJ3VOaQTKjIVBo9Nq_ww8TGFJ_1dR7iKyTt70Z-G2HOzUnkpzckIjiaZutdw97INpVeP-d5HZpO769lZ1ZPLm_0CDXsUgIMM0HKxniizQXOdLVpgoUgibP7bv8io_ocR2GIqn5Y_9_wavk-XEK2nF-1SJ34qmsywN30OpjyZ8omKjVKIG5OTi5H5kimbwfyOBiG1d0YH2C5NLUU5TCu7GHCNlQUxZWYVUTP9Ou3grYwL0MRFudEu55xONA6tSDtPd4BSbky8514jw1xIGxTMPyTTvTvDABsokuYrF8Nj-tObq31nlfLeMIlOIU4c1wrgIhucNa47SYY7OjT9Gg8s8KEFbuJqTQ8dQUlCcAiFnIVE60RLFSCb7rj9MAEpFZHO4y4lI9v1t0uvuEDbIDoRpr0dCMy6N-PF3lbnnFPdyzlaF58EMqi-n76loZmyCEN0wZS11mF8aYxa0bSw7qPki4t_1wkr7K7ZHQWIZ4L50d9FjuP9UHIVJLY8mI8nSek35faNlb0-5L5CTimI3qEZ0aQavp6_qdbuCYN_imaxoZh-BcRGFCWn7XGSS3UFS4MXbU3c03dc5FlW7n7LAvOOxwFEaJYJQwws2yzwUheIV_QdIoP1HL-qWi6un_60R0gavirrFO-QcqQeGVhYOdfzlmXW-X-wFV4FyYQ3h8pH5BmIjxqzfu9BwyChTy7EFlk0sPdQjyvELZ_TRWGxVQk6H66DpZnHyic6J1kyJoBhbZ4y9bs17vHR-rKioPjE-iwEyuU06wSCyr8HJOy2kzEDKM_O88916luFAAPJ_WvjlaYf64xo8_Fi5vlKOFUwfGo0yicnU_5APKOEkoHZLHdhiiiR1ZsuRI6oSggQl0Wx7BxhASyBl9Ulhm01QLHtRtDa21T_V2AnpGz-nM1yQbMT-VCv6ABQXTeaqZkdHVSUkSKlCUhH64jSVRlpd07rTxmVWi2yohEFXvwwF6ygxSgARe2-JUO_ksNzf7gg1pHSWbeRST-n8Ns9qvpLU1VQ9WCjMWU8JuDFdqBUWqP0AoeuNIfWdm3KsYK0VCNmd8Ecxk7EYCfXXxYYEqct7xyKx7LzfPd-k9RKqa03UfhP0kJms9KHuQJWTrcceDMC42sfnWx-dkz5Wn2PGZipoMfSVXcukF4N2ORn5IZC_HJB7sCW04DTrXvsERjMpH7SXwlTC-yOEGpSTNJ3WBVyRnayw35cus44m8M0-ZWsxzV5LUH7Ax_8CqsQf21fsLF1KDRCwf_r6tZ632_RU7t-hkqhYm2cKT72kYhurPcYTxL4HBvRv2-asRBEcw1u4Tigd971lAnxX8vFS8Eu2rg7jzWjMWT1DQUgMWUpjk2OdLXtbmDDE637B5gW8-UyACdlYg13n6x47bUeRsmoLAcqcPqFqCsHHkv1a-mywzFBa8HG3mCvObvBmgk9NtnvsZY3VB9Gf98pVz-EE2nBdA6F-n7TH4l2gVYvfPL0p6ZrtrqIhIHke0BSOeawPkDt9rDptSvqZEEPx1_0LhJjBx9kwLnG-KFo6SCnJvDkjZ_8baBKkWETmIwYYJr0Kb9jbJYZGVLzM_KeO8OFPZjlkQO0ewOIjXQqB_OTojQxwx4VwFOSnw6ZZcgPq5tdrhuOTsKfwzocnYnBF4SoR-cHZ1sp4CTCg0A-vgI6UukbV4lUyzh8wLfNmIxZwRNTk-zXbpD9b0Hus9DxQyXgllVp7Axh2DGzR3UuIPbAI_XW0Zy-0UzMUhnTBqiJRSMYnr9nOYod_9WR7O7PMU0p0DCKAXfK7Dr3pQMTh9LBtjstprmkk2RnOu6N7gn-S3w_dz18mMiapH9wm_oKO0SmGhc8yOFsLbWHqjRT3HyvBECVzpro0McvzwrT6UR4WF8Rwbwnp_M6lf8xW3HbbB1BvS30fVAmkM6iVHyrLrx_WlyqtUA4PUoOltQvG74ldBjt_AXkwl2zJnN6VHMb0M0U4mx5rbN-Ygrjp_WuKm5HEHPWh6MI2voe7rZFtk5WZFuC15QIEu_OrT_f8cMfhCK_P0h52xyAtoDHRoP7npq0wND3XipDAZm9PPag9clxbaNr8lPUpWU8xZqk9Z6QEI0b8dpkfnoYt2hckIJrkxlARWvpo1SBc8C006GOhD9o-S1h0LDYUIYRjgavKS1kJEmwA2lVesKYqgSC-Yzqw6o8a6NvZ7m3qsRQzfo-khB3UGc9QJuh_vncLn4lnYV2FYHo4CmyGeOvujlGJeLF2yDBNQdTAz5xlb5rmOzwyb4yU2h4PuURoDUb5kqOj6Tt1DWDTo9EVPurVCraN8S4DaFO1D4G38ZMHR2-XNUk3h89Hfmi_-2naHd4DDHvvIrspZYa_lI997mPsBIyKUiK4Y9-jTXjirPaeG8nWIK3kI7St5qigrIZ8mg03tDBE2Uchtrt6FSSlaqvybJZ9A_3Wp2_JLFT5pcNhPmN2MCBQJHCEg4W-EW_axTNj2PE1_xciltYMb53K0_o_LfZMY7XIR0c5oIbabFbmJaLO5aN0hFpkd2VhQxSGWZxptjWD0apqeI2-QlVgX7CQvVIH1y7NkR4LCAmXtACmUcWJDXlP1QBObXX2nIyFbQg3fcq7p09vS4dIV0GRVw1TqectuIU761zy384BbDnzqOUS75bBQ49ROnks-IdKCK-MFmYnZpHxHVRLmEd6M7lgfjvpjWXFa5_Ni6u5xDhU2GNSnPo-wy_FJTuUplsmD0bM9Gv_aRzzquSOZxNudPx6kF0eDckr3zDal_XYoIHeW9RNMTL6qsWnU71wj_bHmiSILCj0W7WDClYijCxQt-Z14qDg-9avJzgP7Alm-O2-yEuc-78uFvStBGJsiojon5siAPFuyZ_5eAHl7Mj-6MyeOb3Nccsy9wVhBPVt88yPvGkS-9Fldsi3KiLpnMnrh1fy5gOQE2kUO76B0xbV9d6txnVIZPDDLkCxwBEpY8rV99xIJBtLUcis8Fw7x6IfuY2Q1EMhEwDEpqn5wFdywLq9LXfsqusCpG9N8JTBbmxOFNSGhVJLgAXdrb3ppdE0JxbnZjJdVt2kYVFADE6AZc6Arz3iQlZUqe7poIJ7E7-gaDR0u7aA6eyIxss3WrPtGTcJqTr0RuUNSm0ebenYrRXlHbcwZzndGqvwPyZJz3p2QYYbRiw7Vpyp3GofnpUYhBFINdV0SSqvDk5hd_q3Ve8bBSFE5jT3akbF_Owxg_y9YK-oW7pJeG2Ocd2MAWy7faLHyxY-nxaHzuVZMDGaqxgFhwKgd1MU8UFeEt-Zf7Yi_ApV80X8zXjH0sAaA7iiOuh1aMb8vYZO0MEDGbbzi9IsAzgeAtwTdu63HvqLsjyscr7RySo7kZs7Aq5IFPYBdbtlJr_nr3mmG3CHV-siU5IlD4Fpj18JK_oB6uxBtrGzfddkKhQr7zWNzMkzZvcVMSZcU26W24I8teRZA7J98u-WEhrGWeWfF-Ovh1h5xjRfmvq8IWfjSEBosUSpc2kKvueXchplb2p5vTazi4o-fp58W_vEcVwmO5fzweUZKPVkYmQuRliBRRhZh.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_021aba902f31e3de016abfcc9e697487d1803020fa819c3e00",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 421,
+   "total_tokens": 857,
+   "cost": 0.02541,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02541,
+    "upstream_inference_prompt_cost": 0.00436,
+    "upstream_inference_completions_cost": 0.02105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 400,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

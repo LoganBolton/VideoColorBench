@@ -1,0 +1,6 @@
+name: qwen3.5-397b-a17b-films-raw
+mode: raw
+dataset: films
+model: qwen/qwen3.5-397b-a17b
+reasoning_effort: medium
+concurrency: 16

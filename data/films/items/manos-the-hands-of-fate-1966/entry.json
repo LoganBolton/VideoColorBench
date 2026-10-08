@@ -1,0 +1,19 @@
+{
+  "slug": "manos-the-hands-of-fate-1966",
+  "title": "Manos: The Hands of Fate",
+  "year": 1966,
+  "hex": "#2F2939",
+  "rgb": [
+    47,
+    41,
+    57
+  ],
+  "frames_sampled": 4121,
+  "sample_fps": 1.0,
+  "source": {
+    "archive_id": "manos_the_hands_of_fate",
+    "url": "https://archive.org/download/manos_the_hands_of_fate/Manos-The.Hands.of.Fate_512kb.mp4"
+  },
+  "artist": null,
+  "label": "Manos: The Hands of Fate (1966)"
+}

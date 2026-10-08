@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894244-PYs0yrmCIrJ5yDpmujPZ",
+  "object": "chat.completion",
+  "created": 1790894244,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Avicii - Wake Me Up (2013).\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes**\n\nI notice that the dominant colors in the visuals seem to be muted browns, with hints of dark green, navy, and grey-brown. It feels like the scenes portray faded industrial aesthetics, showing an early forest and some buildings. The \"Wake Me Up\" video starts warm and transitions through various colors, while \"Faded\" presents a more somber tone with urban and rural elements. I'm weighing how these colors convey different moods between the two videos.**Evaluating color contrasts**\n\nI\u2019m noticing the color scheme in the visuals displays dark blue patches and muted browns, along with a hint of white. The \"Faded\" video ends with a scene of a destroyed house, which seems quite gray, while leaning on greens and vibrant colors. It contrasts with \"Wake Me Up,\" which has warmer tones. \n\nIn \"Wake Me Up,\" I see a progression from a house to rural scenes, followed by concert footage. Meanwhile, \"Faded\" portrays cooler, industrial themes. It\u2019s interesting to compare how these elements create distinct atmospheres!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes**\n\nI notice that the dominant colors in the visuals seem to be muted browns, with hints of dark green, navy, and grey-brown. It feels like the scenes portray faded industrial aesthetics, showing an early forest and some buildings. The \"Wake Me Up\" video starts warm and transitions through various colors, while \"Faded\" presents a more somber tone with urban and rural elements. I'm weighing how these colors convey different moods between the two videos.**Evaluating color contrasts**\n\nI\u2019m noticing the color scheme in the visuals displays dark blue patches and muted browns, along with a hint of white. The \"Faded\" video ends with a scene of a destroyed house, which seems quite gray, while leaning on greens and vibrant colors. It contrasts with \"Wake Me Up,\" which has warmer tones. \n\nIn \"Wake Me Up,\" I see a progression from a house to rural scenes, followed by concert footage. Meanwhile, \"Faded\" portrays cooler, industrial themes. It\u2019s interesting to compare how these elements create distinct atmospheres!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCyduGtwUiOASZRUExEsShwnz8P-tw2i5gKL1hevdBw0yUdiFBiwBAxJJeodt4Gz_2fqVW8y1fub6f1tXbtfmVBk4rw99inMHG0IXTA8U-XolZVVYD58JkKemKtF6O9U2qj43QdSwr8zjgBAnMfGhOumH34eGBEZv2W9V2H1PnLpMdwHI2O4ZwnpVVCKMwpDFRxCRfu8fylpraNdcKpuNdY-5SgLvVGal-IQCzZWkvmH9aRRSa9MKStagkEpfKaMfeWb_f2GbKn3OrqGTnwKHVvDQv3jEH4gzt6BgIK1s3hrOEZW_rVUq-OfKnv2Lm8mrM600jYmQs4n39b76JfLX3Vpr-Bq-9-5mNStxQuYGZEdU3Ek1gB4IOStj3WazEemI-gS5g4ZQBsEqwPs2K2ORFMdW1vBmNBIIC_4Xw9Op8uLtvCPc_ERKUQhjBs9Y63yZQQmEPEmV18fp5ziOzIZfTHBUdXxKtkMceTv4JYPxa-dF07FFqNOpxYu-zYBFTXY7tiTJP21HJhu-Z2HGqPyEmiY-HAQgzEjfcmlJ5xL12ZuUvJ_iu7sGDEEw38D5vJML2814b7vfHGqW_pIGsA4Kaua-ZZFVWCtfauo30GayBcxOlgjR_BooNcGiXuSWWc10lT83ygldDxof3urClY-FV_DMnnL8hu6Gqe5MgT2fJM8XN65-3yoIarD5G7rMRvCUe1riCNKR2BBY4jMjOy4ZraUsL56smYayHekaSjXgaXM2wNLQs1G4MbRd5lPw7UZcBgjencg73MuTGwd0YhyGK09S1K5l4v5Mg7qQ_47kDRYdoSOK5OCJxM8vhZnW0v3VJDJISMaic3D4iP--NOxjyT2f2wQHHXcm7a85Say9C9_d6h3bYDe86VBfbbNhsTtb3wgjijDrZpdiIHb-W-MARnn49BkdTcqOW0SBqa56lgbUf453xnsyiVnXQ6a0Ik7utYmktRGOMki6W7LVJpNGW990v4KwAlzYU09LTOHWdn52oYZfBnfGLT1hjj2vI7IcKECO5OUD6JCJCXZJzFdjaP3oHqvpNK1--5s3_zF8Iq93MKRAqcTQYyJaFh3Nh_1xaYSLwnT4IOXCgaT4r4q62v61L1DR0a9zj8kkFMwDxLKI7-f9ENXZI3O_oDP5-VAszu-EDD6lbiSRPyrafGuNihyuEucdYhSqf91EkoWdvH9FkgG5vU6CSLGvIsPA6HOQojV8UNT3jogxAQ8-fQxPTqZp6RDv2Pmcnz9pI-YNX7eb3S8PO8zwnW5pU-WuB_NhXgVvsIt4cZ1ayV_VNKsw3UoZP1kJIbVlKIMD94coR-KljCer67CJrMasIjXYTOv39j5NB3YaEOpbUtyYypPlWWZ9cXcq4jwOlakfEJyXj9upp8pxWnmBY7AVdk_axDdgS1tmOMRB8taSNXkLtvSnyn2L_OHD1q_EyhAR338r4xfn5l2BnerqFMIYP3F72gDOXFl03nV7401i0qVMdsrxzBLoP-CsPhRO9XKcY1F24hx_di3nHycRDDo0Aw1wTtN3jtuB4T_J6Pt7iIjIW6uEsQYwPDCRCLl9_4WrPC1kmut68caHJVPYz4ppDqBBNwXWg4baT_fbbHQ1mNS63buYtpXoBg9FCfmCh_lTqDT-aYcw9Jf_S3dxUJpsSK4YrQWz-vs1XS5pu5vj_3XXjY8IK1lpN99K8_6SNp02Les_F8ysJMCypPfPJnxXiYPGd43ZJGQVxkHzK53ba-dcTKuD2WARuyi-gYNQsEBj_nQzicelRykfRDA97xl-78oRsFTMI4muquoKZJ1TCP2pw88yllgIteeFcRFJZmIXpGInFsA20m1_-POgyeBl1KCc8kSaYOea3jHo_fGHpBX1ikPrSZOf7o3NFei7sw_Ej7ni1pUf7Tvidr3hQObe3fmmi_MnaD1I3sUyfSm5BV-nAGPLEUYd0NUmPUVofFxrSAFBaSOGCPOkA-M4SmV9rdk0Ux6vm203jnpaGFBzLgsw2k0lupQKW3jariiGiOhMlG1yF67l4HBn-hXmp1XUvZLU8cQGyYU9-lpvsFCck58Mld11TwszxI1fHeYJeF6po43ngMbORNztjIvGmz9DKUB80bLoEZzjjSdMQc418l5u0JnirTfbCxts3mCqfVYvEVkD4WuQ0Fv3IQ7daF4VWA6bQ-3MElPiIb07SnbqElZpBOnyixlyeiJNXGOC-WmDSF9GmNQbmVI5tB0D07UoOMnDq9R0EBtZ7ueRJQIb3T_g-60AbBBir2J5h2x1e_0C8PFHW9xM18PgeeETy4Wwg-jy6TjydWsFh-nJBWqLS_RwlvmEN40ww57KytSnpvQuFRVflQSeP7dTGtySXDX00Kzp628OBb8PAdLegxGI8CpCdfwg0oxSY4KsYbpY_zrzhCLAXHDZLeqNVuGekgaD9OmEQhOxilS2vTJfUOXREw7gr_KQfcjpM5TD4P3JHd6hJ0xIdBZVDpYzs-XCWDmHzSF9MLKrvVlZP1flXo7E5vZPskJWEQX8ZLMUsqPEba8SH62mvYgQrMtVjMnhlH88kQ3VP3ITNsuKM1aSHDscMLzIX6YGQylo8sYiv_xJSKbn4RzHHz9wwzg1aAuemMNXc7PPoG2P7xrh_7byFzcIgJQnO0jCEpB-dBpMvOWs5sNyhZFDWvL6zfTU3x0atrbIRIS-pPsFP9qbYtB1ZoSVyp41O8ozTGAyFeb0qs-4SFxrnpLpkdNZF_elgUx4vqcWM-vn37GCjuDYSo4taBIh8PDDAWHTCr2vLIfiP-s8NO4DwNI2_NsyGenEgg1PmA6FE9Z67U2x9T8_21qCxW8jnUfAUs5XdHqFM9GCnzEclZD6e3g1ZW-T4BDGI00JZGl_i950Vl2nejFGy3LVW8JUb9dZ4_YTZJL-CS_WwDcPApfQ-D22hsZf29BCjlAfvL8v7c4LOy0fTBCoWtDpK1aF6ARQDylMS39jRJymuSBsMATp0AMJZu8PpsnXZ5QtyTgZmKwBZENY_qyDYqdAOovM8iaOt_BkhwfJuM58IWkW78PIiTjOpKc-M8Aq5MfkZoIoEASiJ_9RY0jHZjQqDY_mRuSc3vLXqPyFKAwhPrPEsgigGckquP4g2UTXq8QNOQ635VJpI1V52R9yzqvkvb3j9oxZiazNzrUQo2D1N0SCVUqsqx6k6BXmQv9pxQQDh3nNOZ0OmBLafLvZiL4dT9YtHFqFgAMjq0x_m94ZzDb5gp4zW0VM5YHEMafesBLue3Ejz1JqXswsGB9EN0gjrNNYD9D0WjTrGo_w6Rq-dYudAu6q1Ko1YjDpDVDHJ-ha4-TPXznwJB9tB9f5pC9jenEXBXFlFUrz9JhtnYsazG-SIx5xXGhIajZaMEiRD-V4q5HllfxXfYAb3TlQt-WiQuRgDwImHGQCZf3A5lshqKbqbQvJ-bTzF8vcrOBkqfTZ1Ep4pN43U_a4wiRV2X7NUeOHWeAL91NdPwGXuuPtXjmBCIKwPtMULOgIxhZ813mtvToElYKw6FRwywuOKgzN7lZRINwU7edULZcdzMmSrExZM01klv5E00bJkPYWN0AjTmN73paIpsN2RxJUoj6sRUX4tbLuFEsLWnY60ZmZyDvf1fGuFpe7DiXCStQGoZ1hVI52uN2n1KUSQZQE79m2uiKa1WoQw-ZRUsE33qn4RMSyT1m53KwzWZHBMOVlVq1ncFQXe09wBx7hhiodlrQ5wy2hnNRWrUdY3Ajb-46iah9WQzSFO9VDHAsVU=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0db3161aaa257fe4016abee0a6933487d1b164801f3fb8f177",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 492,
+   "completion_tokens": 441,
+   "total_tokens": 933,
+   "cost": 0.005394,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005394,
+    "upstream_inference_prompt_cost": 0.000984,
+    "upstream_inference_completions_cost": 0.00441
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 418,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

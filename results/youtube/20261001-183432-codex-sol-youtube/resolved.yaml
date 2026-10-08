@@ -1,0 +1,11 @@
+name: codex-sol-youtube
+mode: harness
+harness: codex
+harness_version: 0.160.0
+model: gpt-6.1-sol
+effort: medium
+dataset: youtube
+concurrency: 4
+timeout: 900
+questions_sha256: e55dbb791e1ba993241ddc9a8b9c042353c2dbf33651ceb415f567afa4f29acf
+notes: Codex session per question, workspace-write sandbox, live web search on.

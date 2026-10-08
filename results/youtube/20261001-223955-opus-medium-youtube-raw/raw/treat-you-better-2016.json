@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894465-CHWcO1LVbDj20b0Z7IfV",
+  "object": "chat.completion",
+  "created": 1790894465,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess, not a certain match. The stripes are very dark and muted, mostly browns and dim olive tones with occasional steel-blue bands. That fits the dimly lit basement setting of OneRepublic's \"Counting Stars,\" which has warm brown tones broken up by cooler, bluish scenes.\n\nThe closest alternative is Adele's \"Hello.\" It is also dark and warm, but its sepia look is usually more strongly orange-yellow and brighter than this barcode. Videos like \"Uptown Funk\" or \"Bad Romance\" would show much brighter, more saturated colors.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across these video thumbnails \u2014 Counting Stars reads dark and brownish with hints of blue from its basement setting, while Adele's Hello leans more sepia-orange and brighter, and Thinking Out Loud and Treat You Better carry bluish-purple tones. This image seems to match that muted brown-and-blue-gray striped look most closely with Counting Stars.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across these video thumbnails \u2014 Counting Stars reads dark and brownish with hints of blue from its basement setting, while Adele's Hello leans more sepia-orange and brighter, and Thinking Out Loud and Treat You Better carry bluish-purple tones. This image seems to match that muted brown-and-blue-gray striped look most closely with Counting Stars.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS7ggKEAgSGAI4AUIIdGhpbmtpbmcSDMkWUKg/T0CL5TubRBoMLfnVlvrq3LjGqoyGIjBSdxyQs27h6BblH5ynXKliCW9m5qdOB624wKXt5YSfvgLvFNJJM+bIwKi8N1ImgRcqiwgbDsfal/urxCbWyhk5RGWsMCUhtnRJC8bKo9Wxuizlqq+XNdvz/i9nIAH4j+Q6+ifbn5n536WIMIVqY4YZa3azrODs1LZgjtaiqVzN42jReuBgN7bszJKj8CFNTbymekR5Dg8B683sa5IwVb4Irn7pP3looYVOL7WbU1De0OQIX5MJvK5Ux+qbW9hfvXpj3Lee0N4SqeR7u2O8Alam5xj6UiaIfpmWtziqe1MIUEK+zo00tZkSllK6yNOPy1k/Pn9zsUpcNZ7Q/LgpJ7VkMc2Q1PuMx8f1iXRgG238jvFQ9uE8Wxxt8IqjMVB55XVjIJ50eihCFnNV++U2Hi2B+Lhm0SvT15zKChLIJW8YsKdFcVUt0bfGabMN3vuX96BU3WMBoXl6HnoHkAcIuGf911cOg/InE+jMCZwLXsCsJx4d6A+y9ubfE1m/WUi8I0opuEADfYU6Ap/XMTWHkpDAED1byf4WCoDFiolBNLHG+BXGW8llJEi9MWs96NwudpOYl7isz31/EXfOk9o03Y4NiuO6yzQiKUKgPIcCJ+dA8KXrnCKlRvGbCvWN3HXVxYFqyfuROqboxbFOU1PJg9wAhbYdJKMfn+sW5ws47wgZMhQ78ggNhe0qN/ZMzycZkQdXhB4VaLwYNCb7RpVPfTNzbdtRHFjFJ00e76TuzasXXPecryHqtKfFPHO+QW/q3Z0Ymm0+T9mQWn9+Il3YFdlJAZvPrUcPh6xByOfpB5ZLZ3oJM48aiUEj9qm2+/jRrFaQVDl40rtquyMSEpqIJzenxbVX/lM+5QTuzgpDmlnQbh4Z4AlKmx53MNTvlfh6uGKLSO904U/+XBLQoEhnXoTTJRWWlcUkq7d/j/a4Mjlt8s/Q9vPHJtfFyonEVSj+SLKG7Ff+l4geBhnId8tRoGGI9O0NjbglrrRgatXW1NSaXigJe0toUYHCG5AELhjxRki8gYGt82T9eWen0XL8Ib77iHQdnSkUFFh4E3Ip8uEHq61eRWvAM1AR6XnLppV3z8qMbxlqqKqy+V14V4FM9WnNfcnAbi/UHAsmlF95o5cAHJrszhlSMoD1Sim218JOy9PxR4A6SQ/j+G7RGqV22q+pWyI5+3z71zD9XHkKLbFVu4GrXQCWFyJ9Lod25PzbSnHn9T9+FNfcegsSEK0CcjTvAp0gTHWzHGNozWyKvZt6sWRZz/wbBgbkCWU+q/9HBz4d0ubRKfLLPBPH+xePxEsFujMGUZoR5hcyWbHLtYYOTyZsdUFOiwPe4+YvOZT93y64bjobia1MnZbcINnVjwSvdvNqeepnhlIoaM4D2nmvWODE1OVosOOT2B8HDjDU1w39vyM4R8RnTDvQQQZUWaDL0YBpDEg0utU0ZnPDj4wYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 623,
+   "completion_tokens": 415,
+   "total_tokens": 1038,
+   "cost": 0.010792,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.010792,
+    "upstream_inference_prompt_cost": 0.002492,
+    "upstream_inference_completions_cost": 0.0083
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 215,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

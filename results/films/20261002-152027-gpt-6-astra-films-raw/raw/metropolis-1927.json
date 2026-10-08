@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954427-4DeQmcCIUuVxKEOCjl6G",
+  "object": "chat.completion",
+  "created": 1790954427,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Night of the Living Dead* (1968).\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Identifying dark films**\n\nI'm considering an image with dark grayscale stripes to identify whether it\u2019s from \"Night of the Living Dead\" or \"The House on Haunted Hill.\" The average brightness of this image is around 20-45. \"Night of the Living Dead\" has some bright moments, especially in the opening, but it's dark overall\u2014especially the ending, which is mostly black. Meanwhile, \"The House on Haunted Hill\" has moderate interiors that are more stable. I'm leaning towards \"Night of the Living Dead\" as my guess.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying dark films**\n\nI'm considering an image with dark grayscale stripes to identify whether it\u2019s from \"Night of the Living Dead\" or \"The House on Haunted Hill.\" The average brightness of this image is around 20-45. \"Night of the Living Dead\" has some bright moments, especially in the opening, but it's dark overall\u2014especially the ending, which is mostly black. Meanwhile, \"The House on Haunted Hill\" has moderate interiors that are more stable. I'm leaning towards \"Night of the Living Dead\" as my guess.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vFLzBEQvVBI-qryoj_2jH8ED8eLpACx4N0pTSpjcsRbX8QXD3k2GbX9dMULVqYnRn8ZeuE51o3Qfl9I78T9694636_peMw8gjhjwfBCXDm23_v4wAkuRIw6AlKnYiPGQDPOz9q9NghmdvNXSZg5t46LcTWv_GwCehRq5ll7lVIBPH-GDAEEYA4c9PLdFakFw9sMmMZLu1ZV0fqZGu4DHyyy8Xqxbxg55EoCwvvHGEkfLJuy7BCxE3ousn1gtDceYoS2qsIVXqiWe6g3yx6Ut-oMTpqG9yqLsMIjEtbZJo73g2nEIliq5F4AzaajGyO4rQcItkcBcuHvBbiXthqZhxpNVSGZJwtS8imU7HCTLxv7NPnw93t2iIylY3CXdqeLkEitU6znWb1JRdOGzE2l6E9t9uLOULQRcC-2TfiSKEOoghsyOsNHJz7VlU0VyKzNc3xLh3Wt5qmRy3YtqpIuyz5NMq7CqlwllIDULcY5-c4JjcEBKFJpH0zjNPM-7-4l4AoUlIOmxmjMjPEO-hsKI5k217jpo2cZKWybj0fhuXZamJKoefDm-j7kEl8jEQNVFyYEAr4biNNWyGVRC8K8TmXRKIdFx-1xGdocNLmD__XZRECT7NuIXa0HFipbZiOn7woMX5cN6VAtXEHNErauthni52k1ZEhTe_jSr9FLr5iwBa-daM8brbI5r9MNw7tE1i2M2sH2gk7eHePR8LK9PU9FU_2OY85ZeAamr045mYJf4mZ3Pji-XCSFHdKZe8w8nVVLTTw3GjILmQQSk0XSnOnlvJG4JOPL3khECY6yMyUscYPeTXzb-2jN6UksOfeCYcLwb3mTKT4P5TKQg3K5WOrYhyd0h1uQvkQunj6oyagb2MUyn1YlNzxfCkPZLw0W2_1EmWWtyIKcLyepGdslwpCdj_5QGuwHc-kYsg-iQDutSeso7djkFuLIjpWBv37nj2BLPUM0xU_lPkVp6EybPJI6PDM4kw_3V82OwSRgrOs8EB5LLzk_tuBgbfmSgzZxTkNpqiciysCTXfjMnvJ2l1WojO2DopOYUVqOIsKpKEFzxTSKK5cuRE5rDYOVQwTvkRMBXnhveyFWR4AgyeTi96M6CyZ2vxbhdzMLW-k_Bs0ebNzLzAsKORwHczbmyftRWtAWuvE3cFE8kJL8WnftD3RE5PfRrrQRTQ9e07pJ4dtxBepg5aRtF3UcWU-tLKrHbgtJwkt2OBJy1zGpKeve4k8DtQcId0sp1KEaUq9MAWN6IomAKEcUbx1e4Z8_9a9sE-LXYx4UM35MhT0sI35tOcFTAIyuNmDUJsVwbpJHm7_lSYFfD4pt6ilCA6UgKqp22dDDxGTR3XOeRfpjSMivyUQJdbkuutWnrAkwACClT4oJT03Jp6oUwzNqawvihLM6slVBgunyLO2keUzrondD4CficqX9ll-_0QSui3MFV1Wx_GZYULNWTevkidE9Ln7vw052Me3Vih-J7cQwUbXqekBWxZnY4rekQJYyL1i6fIL1glMNC-kerTyeqkOE5Zg6wQnCSaz79NOUYlcjrd5SXMt_7zMipWgyGQsN-lYLmG6_3LEEhuZzzf2SO1or8xHkso__d5lRG8I9Cqmh7Ct17O1nzqPcPQOJKx_dzsT4NTWZhLe1vApWkpdjxOUnfJsJ-5ybEpgFBopiJyguVY23ozisMqkBKvgqPxMhnnTV2k82CG4iI2OgE7Bk-y9OPF559g8BIyIV3lWkvXM-MHvSCbKPEZYpxJpCgULlSUW0tMFwrRYrFMN38a9HvzjP7Ke8K-tyy8jhnzcbwWnRY6ep0C2sJLraUaxyjGlinq4OGcszvDyM-FrOroo-B9Cpp7eCiB8PGSYyEGtOFjCprJVrtLfOfVS_9Efa9lwh-mxWPpW6MaVWBjvlpPbYEqmQrIBs4fBm3E_kjnfaIx28yz8yRwsM359eXVvAx2u0Pv1x14kuSJ_2hb8bYVOGXoGnd9KKqkDfSxaXzdIV3lsZjRDtYh8Op_GbCOe9ATn2QGA29QCV2Tw91nHuVukE8-g3IEpVOAuvflRGm_N-XNGh_kEzu3U8M6lzE1P1i_V7VCaB_fhPs8VUaZ0cQUZpO1WE-Hh_MTS5-tayPGPGh1nVBglt2QmF1htRe2-rXXu7-51xUDL3Eb8s_As5l-6NJcQkHkyw8TmdOIFNcnKCVINtQ7smsp_OCPcM0xot1gokHer8BcHkcQ3i-mJfl6LTCKaR2CpCHbUWRqISktvDIofNQrSaZls7s3dgizkSrhE9QbjSQ0u9zrHQXoFiKemzaBUEJnI6zXtLAglF5na9yiWBmjE16cfz21KYjqoCiFmYkji6DLK4oz6H4Rw7NiorJ3FQWxXvOEC9LynSBfr2r2t_hDoHNMtbgGSSpRL0lsvzks5yVnJmRhElEYPa4hLELZn0xz4ZW8IX84ZUQZBXAhi5Ud8emBivnl33O_jiNCHj94Q0FyqyN7B4Dt19HHUbHKSZ7RERknbPDJZqIIL2oNy5dxSXoKzZpAavM3sXT3vDb4j4CSVeIf7WzMDnhYyfNhOvAPoVpvT.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07880d2bce8c1a32016abfcbbd78f887d1b6ad7da683597636",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 221,
+   "total_tokens": 660,
+   "cost": 0.01544,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01544,
+    "upstream_inference_prompt_cost": 0.00439,
+    "upstream_inference_completions_cost": 0.01105
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 197,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

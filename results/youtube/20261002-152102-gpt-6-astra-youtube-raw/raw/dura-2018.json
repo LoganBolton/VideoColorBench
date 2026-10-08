@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955365-aFJQqU903IqAXNEzpgj2",
+  "object": "chat.completion",
+  "created": 1790955365,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017).\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv890EwDNFEHovcjXPOvWX7dt23ealJEelx1DNaGn_bRm5j5DGkE8P7HKcSfyYAnu2N0vPoY6TMyldOIPTvUscKbiJbyMKe3xDGb_xJbZ6Ef396fkrtiBPJZB3IDpqUkjARyBH9djQ_VvIf3IIRHUqhg9M5diMOT3QNzT--j9V0ADo1OgA3jKeL9xc3n1-HJcH78E4hn2cRWMPyfpIUmF0VGxYq8BE1SqVGeyt84xh3OfhT5SG4antWu51rfNBBpQS7hz0pq7-e3iiOWGmpBIvy6aO-WEkt0112aRA57Ozv9W62HrEv3W_TjshYa2OqC94uJ6C39-51-KAOH4dSaTYrmYk6i3NOzkj-n4n_eQedovFMJ-BInK_ma8wjR4xVIXfFZ8IBF5wZqcpqEI9VfywEYKvkGr8OKg7NdlT4D4Xi2MqTm4JMVAxxhBqKlWWUftmTwaNMr3QBbs3-8yJeUzOOAkaN4xwHN1RubE6PGSm2Wtl875oQlXOv8GV72bDnUOEc6-BpT_1eL7LnqUSHa8boqnxczuM-2aMjtqtm8rgxmPl_uzlTUVH0WZuBM7334vMkWo3gMIcpJvKlJvFCfjRcp9TPnaJUoOPcM617aJZeTv0SvEMuQHKXdjNV0RH78cWzpmmgV06BW9OHW6_-9ZJCbJLeQwlc5D2nHwenJ3QbHsdttDbzWrC4dy_CHvX_qutW_1p9ctUM_X1nZGkceXSYwjwC4QW5SxMEMhWG7aSsodU-qgJ7pARCbSR65HNPg0HHgjvl2UJMCIXlypLKE559i1pyKN2zU_0elrJ1J_iuFSCY0w4Pr1bEY0BR-xbqb_I1kUP3kd86uABIdCjFadDBOqAAezTcA1JgkKBbqzU_S9Ry2bs631ux4VcrjCAmRPKVIHxwzFfDpv4LJDW-yJkjKEjiwrQKYsLkjGBW0UrHQ71im1AE7A9eKkA13GrDJtl6Is-lFCVLwamdoIZc83UPDrp2r2TwebdgWGo0cMxlirO1lztgrTAz-0U9In0VTCrTBvxqZTbqVF2RkUFvyInP8c6vfWd0WtvVw95ghv6iufIAW1BxGh7Q0j4iyKZ2kpC_W2F8otXxnxwzjX6H2D0LDRJcgSEky_MSf7tIngJbfxcUWTImzXNUI7d1BySCdgOlzyTlUrfn8Eq8ACNPIa70jvzNkTH-1ooxeSfEC5X_PoPw5lXlhMtkYulY55LNgUcezQCdzxO7XrEVVXW6_Bfoc2IZSaSzChAey7i9wddiZe0FQJvRlGOgsztuyRMZWd0Bv8_VC28BaT6N5SHfdzoXjD2yVY6JxOalHDyfNgPwZFczqk1Fcva4ToBzcZB72Ca4HPNBQa3MoGXkihKQIrHIowv1BxYKWUd7rUuMTUQh19M6RXl-FO9j78_5U3mWS97ywl1Rni8abwf7wEZZdxsrijXT0bUuTWvv_npTP0Te6xe7cmUN_8OrJrwZ1RLDBUXzzSDDrNoaS-NFN2efVsr1Erm_7pSiIGQUDKjOFH6oegI4NyAi20LGqq5N3eVSPrcHqgRcg_djr27FgPWPKrirnSWb9fyhAzmImMY5d3rQmGfmeCS8h2srYKFkqBbc3mfsXPV-wqMbY4fQStqivfJzfvEyrNwA3dbxu5Ou4wXiqJDS8wHTkL9SGTbDy20whUPcWyc2BjhZVS2HhgFcqphzOIKT5Mtz_m4I1dW6NXeml8bO8n1v6aRiRhZZ11vSjtAYwEE-CpNn58RRzRfYRnkA1XUYYCYmweirvf_Avx7om7GYRsdaIi1QsrLw_MZOV7TRXNBABFAMyFa-kg6-K3lvuWRuUhyhBYS92yI9KmckIa6He4mZA7IvhruZI_D_W-4j0-B13VdNuvWjS459N2yRtM6EZV2yE2JdyvMSONdgwJhxlHRHD03QWIK29T76DJ4UlKsAAaDMuB8gqvt8wKuodSHY8kawbtIZfR_p0sQK1JZZvfmcDXv7Z2oLsmoDg93nRYCTmEPQs4zqHieQfQybx-9XTV72UrCtviG1i8ntmF6NvvkPC0x5WQePt9BLJOX8m2VcYUWcGCxgCZMM0bS-eW9G7nTIsgwlhkOgq_sRz056sY0sSp-yoaElBh9qRT8hXDPgEbmTX6JKJ-ntP2RtqHlvGILK4CNILM75yxAULpC74oQ0Ng_Rw4UjsMvy29E-hwNyCCVixUZpwzOh5Zu6vTu-5HyUy-JhWQKt3pFUmn5_jr93Do17dUQYTVJbnkRFFWgkaKKZADsbsdEei8pU9zChsBRw-HOS6ixf7dHJTQoaKGX7pv1f3QRmpZeOEw6bM_ZVJBIcxIUGJB82DyYnnAoHdU8EE3ePJF9hMCIhF15rFfVKRuyZp7PScgVYGpUdp4xCAv75n0ozd2Tr07PLHPR_uIfaBogrAiEN8rcf6fHn83VthsIOPfIoLRVCUwLqjAogPV4mkw2iqZ71lYXYapvd4gauwtFIupUEKpZDDGO4JNCn450TAfwW6kQbjgc92MtDt86lkwRGIJWl00ueS7nnIBQRky_pP4nHPp9NRyttRXAr0Tld_NH1UpjVhiLAaPxiYxFKZUaFyqIyJtPbXKRA4Xkn8waA9gM96z419iN0_AXecmG9xLmFGNCoOJR--xJRHMHZV1aGoM5vvDHnr_8M0rYM5M45Z2p4TqDGHXSbMqUQ6Qa6ItNU-3GKlRGTVPrc4jyAFGbBvskxqDdDqNhA5IVJ5a2sKsO1sbE1DHDqgN1fCjA6ghnBxWBvpAZDj-.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0aebf726fa701738016abfcf68144c87d1a9472766815ae483",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 501,
+   "completion_tokens": 250,
+   "total_tokens": 751,
+   "cost": 0.01751,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01751,
+    "upstream_inference_prompt_cost": 0.00501,
+    "upstream_inference_completions_cost": 0.0125
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 218,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "model": "claude:claude-opus-5-5:medium",
+    "n": 100,
+    "correct": 99,
+    "accuracy": 0.99,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 1,
+    "cost_usd": 5.3912
+  }
+]

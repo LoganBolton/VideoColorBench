@@ -1,0 +1,21 @@
+{
+  "slug": "treat-you-better-2016",
+  "title": "Treat You Better",
+  "artist": "Shawn Mendes",
+  "year": 2016,
+  "label": "Shawn Mendes - Treat You Better (2016)",
+  "hex": "#1E1E1A",
+  "rgb": [
+    30,
+    30,
+    26
+  ],
+  "frames_sampled": 256,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "lY2yjAdbvdQ",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954469-7mWCOvI72bIqMmEPKJPU",
+  "object": "chat.completion",
+  "created": 1790954469,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Adele - Hello (2015), given the consistently muted, sepia-toned colors.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Identifying color preferences**\n\nI\u2019m thinking about needing dark, muted browns for stripes, with a sense of sepia tones. The greeting should start with a grey sepia theme, like a countryside house, then transition to a lighter grey. I really love the mix of saturated fire reds and grey for warmth! A perfect blue-white snow scene could contrast nicely. I\u2019m also considering how dark city rooms can incorporate blue without fear. I want to nail down these ideas concisely.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying color preferences**\n\nI\u2019m thinking about needing dark, muted browns for stripes, with a sense of sepia tones. The greeting should start with a grey sepia theme, like a countryside house, then transition to a lighter grey. I really love the mix of saturated fire reds and grey for warmth! A perfect blue-white snow scene could contrast nicely. I\u2019m also considering how dark city rooms can incorporate blue without fear. I want to nail down these ideas concisely.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8vqnHgIXKy1YU666q1nH3NAkbco6p4lkY3vze1dXtWnJ9bwOvGgpJXCl6uhqX4fqoaWMItaZaTX0-Unvxa7Nk7WVKrRZEEGJGq2o6GgOxCJMNiFrN23xXWXiyudiJHaEfAe94W_NpdMUfjziSFItOQWyamg-whFg3uIKlw8lu73pTj_hHJC05QCV0YkaHcB2mTm9_2GvCqdmB-7QBiKKUdTfaDL-QtqAzveHmjeib5FXnIcTMKbroJV7mdXAXe1Lc2h_bBpLlVXH4pelXJKv85g1VKqMp5kqox6e19ZDZ7h7Vjg0NMK04EKwjAp8IQkqdX1kncHGO8MAS_eZYrLkIhnoMxR8lEPZUW8uo-l_g8gT-zqLVDOk2GhY2AA2hj8rhe_bewr_A_4xpCv1WiKme_vFAsRa0fzrozu4bA81_ni_HlNKZGextl-KSqrr4tFFxoI5AIhsx5idDjmY9Ln2j45mwI8RHmeK1FcglSQF5UzzBbZW5ltSbPz-KwSzMGuOfUSeSVlRgD9ZLlOOEVY9OEfOMceyBHp2UVYEMjCfMQrxvL5PD7gh-T4j2_wTsDaFJXAuS3bIr8c1xNVg3A8oDhrcRdY052sjmX82tJsW5zFSNIyzAZCtPsNfsRPDbgVNeM3f85YZEXr3PzxLLvzuSye5eq8KBBqX2DKZ0b9s6KkOF7OWGh6O6rkp3jj3VQ2-zUfP1naO6bWzS0K9PBdlYKH94TyhQfi6L8rSl3RTq1PukhoMIi3TJeuH7sBX0m-2DZPPUytoBsg_gi13tABeoRfbBPeZvReVfxrBq8RIDAwi_x0T61S8hkEbAD9rXmPstcKaYNWpCInicmI6K0MZLjMOZqxIG2YkSeR1n-Ge6RKn-ZFhiJec9zNnA5Q0x4xjB4INyMb550LcXCtdabKhA76lGA6cVUipjNrYOzskmlph8jgz0brwDxyUR_9AMmZRUnQz8UHb2WPPuBl4RyOdonXC_Q_fl57zZyUyUQ_8sOZdZpIXFd4N0zILzuSBQtpdXoCCNXh6GA0Ck3vYfSf6oZELoFDwXqnt5dyqxU6q-KD3NbFTJtqZDnNrk6wCJ_-nPz0hLOsIWOmQugzCWml-h4CTq9L9qM34OoeIjJ5Lz-jYnaQcdwEnqWXk_r8cGjm_7BUMPSBZBTxSe77TR9b0QE-W_bbgy4yRsBE7ea455_T-8arBWGylfnDM1pQyhrLPu-Pki3VLxR8uIDM9GVynaS2zM4mVc8TORnJvddcxN357hfVGbiTL8zTpKdJVJu_Ik6diUnyJju17VkGQ31dxCsZ1iox-AdIRLSVrt4O6w6-lii3GHA9K9AQjCW733hvFdXCRKAyt2Z3pR-qTYp2mEo4IYIzDWOtyC__bDkiqwnO1oxlmWSNSPts_TMpd-cfkgiLpefyisgMQEwW_NNO-nIl_4iFFyRaQdQYhSIzAVqXXlqg1UaC9YW4nlrZdi8wqDuqqYVXl-nB7Kfz1EKjIYnOcSCyFd9Z2IRsVJavCymb28eI03yNThUZmcrU5vthMBKg0qyhEA41ZoMIRg5pUgmhWxslp3BvSSY9y3vUPo4K9MpfLVstiNM7UjOAXftSbNtr-XxPMw_SZ82IA4u7-wv9w9pFRJWv6uel3i4XJICcK5iSIseJ5G18ZLyPl--GMUs0vC30W-6hIWv6x47JcAc9vOQK6kMIgJTJ2tMYd2WNpIUqsG9_fifZVb1vsrIq1HofXDRmqs-vShW1KbYqaazVjIlO0YImkUW0CfWteneD0LY=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_07e7438309a97e42016abfcbe7467887d1bcf36ea6ae46a583",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 480,
+   "completion_tokens": 98,
+   "total_tokens": 578,
+   "cost": 0.0097,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0097,
+    "upstream_inference_prompt_cost": 0.0048,
+    "upstream_inference_completions_cost": 0.0049
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 67,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

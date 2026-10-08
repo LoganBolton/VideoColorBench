@@ -1,0 +1,12 @@
+[
+  {
+    "model": "codex:gpt-6.1-sol:medium",
+    "n": 100,
+    "correct": 28,
+    "accuracy": 0.28,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 0,
+    "cost_usd": null
+  }
+]

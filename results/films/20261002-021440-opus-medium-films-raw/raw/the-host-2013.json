@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907349-eYMLxxayPDLurdrcsMBS",
+  "object": "chat.completion",
+  "created": 1790907349,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette alone. The stripes are mostly muted dark browns, earthy tans and blacks, with a bit of blue-gray near the start. That warm, desaturated brown look best matches eXistenZ, which is known for its organic, earthy design.\n\nThe other likely candidates seem to fit worse. Detachment would probably read grayer and bluer overall. Automata leans more orange and sepia, and Prospect leans greener.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "I'm comparing the color palettes across these films\u2014eXistenZ leans heavily brown and muted, Detachment is desaturated gray-blue, Automata is sepia-orange, Prospect skews forest green, and Dark Star stays dark with scattered colored lights. Given the dominant browns and earthy tones with that darker ending, eXistenZ seems like the best match.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing the color palettes across these films\u2014eXistenZ leans heavily brown and muted, Detachment is desaturated gray-blue, Automata is sepia-orange, Prospect skews forest green, and Dark Star stays dark with scattered colored lights. Given the dominant browns and earthy tones with that darker ending, eXistenZ seems like the best match.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS/gcKEAgSGAI4AUIIdGhpbmtpbmcSDCAxvW1bnBzmGDqLuhoMJ7Qe9mjpNKRTwEPuIjBKElruWC26BxXEcDNSit2gYHRNKGGU7UyPI6x8rs1cF/xuWmYgn3ni0tmVcfTd4A0qmwcwedcDWKVZxiLJsQ4fymPCY65dF7y29secJ6BHcIdnWpHA1MxeqrQ0/QtiW5rLHJT5WN1l7MHsUHkwu2O49S7KZZFQQcLLUsYf5UXx0Vlz78GQIxgwBdLeAEu/I8de0yZLOHpI+aA+T0KUN9pMTNkrmARM12wk7SI/5oBav/tX9ZiETDvu0uOLccmG63B9Dwc2vdBN5QQynVmnqR+Ee3pTou1ewaCGEA5oYxvgh7nQT1yK3e7Z3syEfOjKiUv4pQspOwX3/Mi46ZduPATpcGBi5Anvv+Nn23s7AzLU/Sl+1yKwSMv08dmenvrXxt2GnBs0MDcIkzo+l4x2hHCoLYKJSnCIX4i5ZlW6Z5Uocv6K4C0uSYOkb6zgmeqnUZBJqBYGpszzquxwHlRQF/ow+LPzjr4nnhQ80r+ozcfqEgCIKtisVqxCqyj+1Be54egRHFInZ+p/Nt6Cvzh0TalzhUYVJcZlSbnBg51JqV+lPW3Pm38jR4PlqWFlA42quNgsRgQE1ggog2KDyU0bCFcraGLwoS2YDUqoaTDD3LbauSyWiT6h3NzFgIxmaiUSHKsEHQVuEKwUC34U1F+xn6acd7gW2nH2TRdbgbTSJKYxzkKUlg9UH7lR7KtbYGorDnxLX8SS82uTX+nBGDxu92j0KGRw7+YRq0WODYvbfE4uZVROCpwwfOSBjz2UgEXUlMvQHjCwfA/b3mapvNVw5ApOdAdxqoGyUYe/m4W/3qo6LGFPOUYbo7yRJfHHEM8n/vc2gzlY95do8AgHbuL0KgezAJshB2BHPa9cd4tN9f1G/SavxtLW8WqHvq4Ucw7ok8m1Q7LJbbPFzouxAlRco9i7TRYCT92yd21YWMSOznP3ON86+No8ZRrGUGT68uuwgdSiToctmCzsF9Qp8Qb2LmRIEBy1Z4jft8lyKGCXS8Ju6bjck9YnCUbQCMRhyvaRqDxjeZGj0X/SxZHjmfz8AytZlZQwlBjZY4e3OgrUOqigULtbml5WsO534d74Ewj1hgBqYtCEuiCInx89PRiXnF45as86fJyMlfnyWJN+EY9rm0oyMNPm7QlJ0yCTKd64s2YAvvu4hplnewZpQ7dBrfIvDbTqDyIKUKpRFKRRNlZzAahwkPo36+iMBf2pvzXXBFoVJj1zLJdnYnU8liawRdGhN5KwCcs9fKJJjz8ytBdZQYYXazGUJkCpNgIL60o0Scp5qAYJeZgrTtU+BXDYEhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 507,
+   "completion_tokens": 329,
+   "total_tokens": 836,
+   "cost": 0.008608,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008608,
+    "upstream_inference_prompt_cost": 0.002028,
+    "upstream_inference_completions_cost": 0.00658
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 177,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "all-of-me-2013",
+  "title": "All of Me",
+  "artist": "John Legend",
+  "year": 2013,
+  "label": "John Legend - All of Me (2013)",
+  "hex": "#3E3F40",
+  "rgb": [
+    62,
+    63,
+    64
+  ],
+  "frames_sampled": 307,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "450p7goxZqg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

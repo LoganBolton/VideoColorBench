@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907112-QxYMMa27VLM04ej2enh3",
+  "object": "chat.completion",
+  "created": 1790907112,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Carnival of Souls* (1962).\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing carnival sequence**\n\nI\u2019m noticing a pattern in the carnival where it starts off bright at the river, then gets darker as it progresses, followed by some bright moments, and then it returns to dark before wrapping up with a bright finale. It appears the overall structure aligns closely with the concept of Carnival. I don't think I need to expand on these observations any further; the sequence seems clear as it is!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing carnival sequence**\n\nI\u2019m noticing a pattern in the carnival where it starts off bright at the river, then gets darker as it progresses, followed by some bright moments, and then it returns to dark before wrapping up with a bright finale. It appears the overall structure aligns closely with the concept of Carnival. I don't think I need to expand on these observations any further; the sequence seems clear as it is!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxL3eu2TuDH5EmgQN9UrIZqoWVw7WRQOshqrnOcTBaATmE60K6khu2W0TjZoJvm8kuxUzx8buqslRoP6f2BG0Z8HbfhO0j9CIfR3bTMBmMmQB_qLqANRncUzNHKWwL_FoBC6WbBLnRweSp7OR7wxKBoZvyhVgyte4FevBGOI6bDI-a-qvxuJHBtx2HITxiOqzglDL3VLR7CXZ5WVZnL8D-e3iPkk4qO5wlPm1VK1xaDdG7mIDqxaE9icMOc3f5IgGIY5pF9gcq1YyOnQizM4k9r1RuOwy4alFB--b8tCtXaQDZfLsYSKrnWET2CJ5bDxQiCBg44-YCeQOp4fJ4ewL8JfZNh3r_IFJOzfdzBarhow1NqFrW6DoJfB70R0d0EDLhGAc9mkiAWkkOA3rbv4DqAyxxKQ-T3QYq4u0dmjakkcm1pTYkdDuhUZEqn0MmXdc-2hOOGSmWe0jcfGu_kGH0-cRIFRzBuL3Zk7MANKwd2j8tIOf9LzSOlJ44A6oM2lvwFGnhLqHDVXtN70_noLxn1E8SdqN6k5q2STVamU2LkWdH8ksHbTPw4Y_0WDwQ3tCJfsfDBxgYFa3NLhOpkHv_SsGIXB5kWbYhdY8SAPNL9Q7MghuT6WalbTGjFRinEIxCJOEYd94Z0abrEc1PPPGU3AZaiJbyr6Tb9O5UWWMwaHTj4TpTnbXNBkLhVlYvJRU_C61PJ-KYrf4eiZWinklyhPx_JSqJAbGK7Ivz_rOeaY-1H0AUZ_V7V_9Cd0_emdBghcyBd7w79GKROM-YmArp-oPVuTsaMuy_BdOJtyu8Lq9C1qH6EUgbUtG-fHrdHmBgSFtOFuOL-mGwGOvUi74nYGY4sqeTvXR3rsVMceNvoTg6fYmFoah4YMGKfCuiT8kVcxfR2IaiybXdxH2qhA0mU7QTalu4tG3ZVOCa3d1BkALCxy9aQRTACLF_41qlzWUT4lquxZwB5nI0NIP3Yuut8TQdkCLCbgXQVb33Gb0uBZiu-wTpu53Ny8KJk_cWvGa8pJMXNshxJQaJtL16oXMGqc8lpvVu7JMDJPaAssK9j102tsa3Xv61hV2vgRYHcPohj4fRsKJXjBrxh_xfiwRVMD2bdo8FMxWxH-1zdLhWaGS-yDtAy9X8uagiv3PAMzLeRs9AoHcwOLIkPjbP4B8FYE1WGuohTTBl0a3X9H9C_eGOP7BMAs4-fukuaiM6SrAWvrw1qlxTfy61POzy5tR6fS6HqD6JlYLBEC_uPjgY66zzoyRsfP-0I9u3OgpXUPb9CcEk3hpgKAXM_JNjlRqGngtUC_Z1k_wcyq5Jnse7JkPqi649Wwqrqk2B56xIm8jRHdzkao5aq8KFt05eFWh-lgAjXK-21gNpSgm37QeikieYHzEmpX4cvZA1_RtxZu_SwBpdL2Xt08PU0_evi01wd3sjdRjKJQkvU0JDoAvQKPMTAx3S21Vv4QHfuNsQXxZy-tmn9Mdw3Mn_zuTZA5aeyQsqAoYFyJdHyXwWb7GOxTIt3rjizWtyiiowz51EHBCUOowEqLzSh0BO3MbqmnzDHuED8-1klvOQMZ-OJY3rqsWuRITbDeY1k5wGMbmTdLJXrottmq0-TWF4bICP5vOpaIuhjQAiJPIGs1mS3PIh78Ek1jlqlS7ghlMb6ih3I350XqUygAVFmg9iGBZisyBkUnmVCxgtlXGJaYyazHff15Bw-LIlQ-4PoeuyJt4olviIyqiosoSJggfB1ntvuSTsgaM3n4bW2Fow6V3GZiJcLFmgXmA4D4bP9yDeWFBu66OJLy0fE915zu4or8o7nt8jx9_WZsQSLTBqGziSfZh-y2_aSP9JJF8QVnD2EvD5rPfY4wikIh3I7mONuHalwpXigg9juCS5Z0veGcY9uUKjwOStdq10XqZIlu7PuMfUgB6A4sCO-V9GKFVlEe-qG57X3YvJ3Nk-WjexpfGwRKI01gaqC0LhGTsXoeSTHdMdQNaV98SVhLOJCZGaKTJcb3tPCq4-_rv8cHEXDzNofSj5B0eak6Ef7tuyUpQvqrmlAOcXf7lsHSR4xlB04O1KA0stHD7dCmSkixa2h230PTLPcf8h746SYSVil9-7zNVTJOs-v-j7tvOt7x7kZvTTSt47xp8nyp0fCLzv7Rj0IKBk7dBrIW0ZqM59CNWnkWjBOf5QRGDbdaUN7EdJsSR_I6ofLmvi43kqzVVFhi-xChkOcczuCXK6ROetSiJrdX30ExWN7gUjf2nOn_g-FdUo-aW79SIudokh5QBnhrk2-jFD5MTu-6vmjzNCMFNyecR84uX-zE82dae8FMsxchErqAUf56l__btJIaKVfdnuD307PQG2AtwlDFGGD1xd52WNFN1yDJUBsw3uUQIP6mmoBr0rXP4_VsWk4V9pWrr-7Oee_UkPfZ_wM_Sf5amwwQvOSOuH5qMswjgSZ6SxMH0HbyNkBonAqMW0Pq1WclSSZ7QXVruXObNfVao9BC0nA3JY_5QrRO9qyKzWnuXZ0IlgUdGJpk2FcCN2eo2HO_NFdN4odj4ElY2q76zty8lR4RDpQEzp4DDsYr9pj-KXoCnwlvMi2rYYVz331n7OP8zzG9Ma3E2AcpzjvcKkzYhBRl0e4e7CIlaseLukfhm6sEczwm9S5kzDi06r9_5kayvFkW3TP0Y3mpkabaXWX31Oj4jbFrQDu_OM4svkc87FheO8wXeuBUdKJEZeC6XYYVX9gFSIG1G2Q5CW99s7b59XhnX5i6n6wApnrp-t63Aw6RyIcRAB5IxD2-1id5tsQt0FzJHhzdLTTxM7_FwXgm9oV9a46defYxz6eKqxupjy96YgJYwu2cvKJa-yCDMgtDMXiywIgR-ChoRFs1U9a_-gx_0MTngqm6CQaVSSlD2SOMkEVXOAQOfC-Zne4pVygx26t6ADQqrEMQHxuAtnhx2_ZlZdqWci7J.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0358ace69bef9ca3016abf12ee4cfc87d1a35baeec197496bf",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 448,
+   "completion_tokens": 312,
+   "total_tokens": 760,
+   "cost": 0.004016,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004016,
+    "upstream_inference_prompt_cost": 0.000896,
+    "upstream_inference_completions_cost": 0.00312
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 289,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

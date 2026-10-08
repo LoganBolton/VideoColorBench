@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907207-nfo2fzc1mKetUmYFpFis",
+  "object": "chat.completion",
+  "created": 1790907207,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Dark Star* (1974).\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing color themes in films**\n\nI need to guess the barcode colors \u2014 dark brown, teal, and lots of black. It might relate to films like \"Dark Star\" or \"eXistenZ.\" The overall image seems exceptionally dark and warm, with a timeline in various shades. For example, starting with blues and grays, transitioning through browns and tans, progressing to near-black and then back to dark. I\u2019m envisioning color dynamics, especially with how they impact the atmosphere in these films. There\u2019s a warmth in contrasting browns and brighter daylights.**Exploring film color and scenes**\n\nI'm thinking about the gray cave setting in a desert and the bright draft day with 99 homes under the sun in the suburbs. \u201cDark Star\u201d seems like a strong contender due to its dark color palette, featuring gray ship panels and brown rooms. The final scene might evoke a bright beach atmosphere. On the other hand, \u201ceXistenZ\u201d has a brown church scene with medium brightness, and its visuals often suggest older films. There might be some confusion, but I\u2019m leaning toward \u201ceXistenZ\u201d as a strong candidate for the project.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing color themes in films**\n\nI need to guess the barcode colors \u2014 dark brown, teal, and lots of black. It might relate to films like \"Dark Star\" or \"eXistenZ.\" The overall image seems exceptionally dark and warm, with a timeline in various shades. For example, starting with blues and grays, transitioning through browns and tans, progressing to near-black and then back to dark. I\u2019m envisioning color dynamics, especially with how they impact the atmosphere in these films. There\u2019s a warmth in contrasting browns and brighter daylights.**Exploring film color and scenes**\n\nI'm thinking about the gray cave setting in a desert and the bright draft day with 99 homes under the sun in the suburbs. \u201cDark Star\u201d seems like a strong contender due to its dark color palette, featuring gray ship panels and brown rooms. The final scene might evoke a bright beach atmosphere. On the other hand, \u201ceXistenZ\u201d has a brown church scene with medium brightness, and its visuals often suggest older films. There might be some confusion, but I\u2019m leaning toward \u201ceXistenZ\u201d as a strong candidate for the project.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNY9ooS24diASowNZtmlDpJpRkwH8NuQDZany60W40rt9cxYfOALsEuFbwvwC4-wAsoJEYCFeEeKfLNt3iTHvoZoTkJhlTDFUiGvUqVLFLgOJ0YXS_ksFx_bf8fuGGb-26McNBuH8gHRfWf6RnZijnpK3EPsSKekYqHW7mQiGox0c2UwJSOsjN2QSE1Pm0w7aq-5RpJewWGXRmmcbbMNv6E28rqzWJ3rvGEUqMbjK-UXj4ftZytseATccyAHQZ_GLNADwlIw91WuqBQVi-1zKjI3BPkrcC_G61dA4eJch3fA5CaKnGxktMpMcwiwTJr6IGkwrlgP98XSSIlVVcRMDxjcJhfS7s0ZvbLxP50eaHXhooJ_iQ8wF-V_BccaoADUFup8T4IIH8RXspsDAMSvyuI52T9HgvAhFMA6e1DHCsHDW9KHbPligwJsFhW9bWXlcu9irl_Atg1umnH_lEJFoDj-NL3k60uYD6NA5hF4FX60bWEd8vmNXkSjpgzyEl6mgh1AxMwW5OHS8Lg40Vf_9MQ967IWFXkJbaPJciYfSMPV8lYXX7VIjkuzofvFnlFOfS7vNci9mFdJAwrG72aVcF1dtbQkrLfAwX-jMOALlUALCT2Zw-G3j19TPCsMct4F4u1uaYppEYF7UuLFiQkBUdDocwe2Jmz7ZLvpa5cJhVFmfmQejm287KoyxrziW4p9ALj_wv-YN44RuQTQ6NzUkdiWQjMkgb_76sBVDsxb7QMHa6h0UwsRdWT14lhx_OAsFmMTAlWVCpCY-J6abKyEJfaxHLhqlcHdQoUoHpYCDC4S9QTN-XvjxW7hClGJW5_auWRdgTOh7-4lptiRvv6XD-vo6c7MDZaiWiuc-FdsUIC00jzCrF8H3KX6kkufYWS8CJY0l0TLzfxZYUzYA5afgvN2Mmp8UENaVSLAHyEmZnoTU9oBkamKjwElrn_HAi3dq3x7xQKevddthEebOpwGyi4NNvFMs22EtJOx4gE4ylpWKvhnLY6UfggKzqCIqB8IPquBzmWydmU01p03CSZX6hGos84E7VIr67kpapBmov-sejfXL0t0OIoSfTQPWvUFoHWssd_638QxFvKXtcO5HGUQV5oCGTJFRmHKJGNS3ZHj98zm_Bjgowvcf0x-i6obJzEpAizVEh8NAY07K0TY6YpskkcMtbeLjqOOQy-ZZLuI3PwZQdLyEWBIfKlMaZPDD31mSqfMzh0mNT2PdCBGdrMBQNdhw8ovcETneyfdLrjytOiZZsw8DX1SueZ1SUbqD2zUcJxgWZ1HUPHGjSscWIK7pQljOMKWknBQ9QmtUO6xNhtkSRBNNLYNZq4OHawbfd6Fxh5uLi_G9XD703Me8rTIAgnXawknez9yV8vTQ5MCwodErTKBGTBjgO8Vri9ngoN26MenurbwJZc7ODIl_GdVPfrEl_GWgZaSz48PfeBZIQlTyGukPPpqolwwCQ1yHUH_n0zXpnQ2p-hJbltHd3DMknci3xUEcbY686UnxGe5U2r0K9oG5vls0zmF9E4ZfbD_w9A2SGSMq8PQcD5NGchcgAt2KiY-Y7EHB5Kp_TBWLli-NN6-N2T9Mn4O3T9oRf8jJJ4sVLmEdLNn8PKlaoS65WZ7chPPmcAxd6LNdAEikkekJLCooFgglUfYtjopOfqXywOkeU3dmkuWLyqkgf5q3iyhGnBqGsntfE98-uXqf1SXqPACDrvM50dA854FmjSdAL4vM7nmdjpQE3kkfDdxxLy8IildwuGHYUtkOdDPMTgozlF5lnKWVJOHKitsIWTxx_roHAw3wouqRmBzrCTdaalOJIwWKvxIsrifkmAwcB6KQQI6BSHzgHg18njzecRrkbLkP2_vakADFYtYC97hnovzhalVCofNHWgDOefX3FodWJswFWbO6gwh15ofFbnqq1ZnCcW4Casnov0X-VDAyXN9O1O_k-w7UfYYp2a0v-way71_ciO_F2I2t2ZEpzhPw_-irBoQyfmJSPCIKJ5RQRoPuIbuI2QswpgPaU9fJ5Rds3FvUzP7zb9MqgH0OZfnD5YXUS1PjLa2kSMTe5lNhJKiFwrNaUOoflNMDs6TFuTQA5dAcduax4rwEFmMyAsBuFucIj4srnAh7UI3TEwfWlN5cACTEJpcLPHkVg8e70e2fXbyz2vYIuD4COf6i-xlhirIY2FscUzmLT2hBSThmeyi0G9--2LrWBovgbx3mrpeTc5QLpdVtQKm9-O3PSk0z5CjEZXuwRkMTN4xPBsNG1al2882fEK62nVqmStjMhu5OSQqV3MlQzdFKh8XzJhc6-_cDznfLLtVv8193aQkoEAIfZ8euknOfpsy4B8EobNYLV1qBX92qg3-WunxbN6B6F0-eQimkZpOQTEH0_reZWqSUw2JMBI-d4ssdw9hvaJOUfm2lR-prAi9sHq0bDjST8R76JHB_IDJj_8NhL2x1ppq5XU3BN7y5riVdV5twL1rLc1bsnmiwN79NKgx1SOZmo8_WBOD5ddcyLyjsui2coYVEhKCk2mVj2HxBgfzmQgXgxvLfMdaNfgWjcd4DC67iUUnALSsOyDbBU96F60GRVRFxkjapXSgsjs7b72s0dumk2sYffb1j8F92i9_TRu-7woU1BPFzyhikBSnQ8alYqviwVQsUNCK5vY1vKkIzbmdg6oowxIlAcY96wSZXsbscpJtTU2VbCfMuDWU3ewSSv80EQgvAicnzSXlzdUW4kK-a_nWP4d96kvU4xBlVY4A2De7LkD4A_Ca4c6Mk25VMqY5d6vFr5gzMVK2duaP_tZTUsPMwYdu_a54jovNNoRHFR-c0wDe31LZIdn4La-FuhK6ImFBJRo9q4xsc5ZpmCJKcTmOqvnFvAAapzkzIwuArvkLWuPm2w1y5rK5Lg2O88qfanEcrAlCVyaipdLeVa8hSKcmeIbv5rS6qeuFub3ryC-AJC_HMpkYZ4JSeOwKBrY4Usc0DgBhXrQve-jAp6UL68iwQYxACoke_oQK5UU9uaFrzz3L6m3CFDW1eh_rGPr0nss-YjdHrO23PMWVglv5gwRHAkbQIL58a0f4FC_9fwaYospSLmjaJVFhp_5lzSWMBGEN33_azbDunFNs-36C06m505D11_uNf4Ofh5s7jwTrah2amgmuDlQS5NGh2h3T9b5Ll2Btf463r-h8F9fiab3BEqA7QdzNzdOlc_BHcpqoJE_GcFvgkVDfo7Kcpn3QkalPi8JiPfGIZh012D9gBjovzeegpdHZbJDj-1YWv17h1b_e6MrPed6LujdORMGXoQRsqIeAXwp20Ao501VMEw7EBNdfKJ9PEDaUAe2lyi9tyfIbZ-G3kZrvZS1b_zY1JiA_b8PXwyFMm_5tF6-OZO8qAPdPlbmYFidFe0wnfmOAZ7g0lPxyMrNE8zJLHc1BQlpBzfpXRl38SteFUo0wYRj8uDHO204CqYRysVW0LdWVUGKZiuog_jxFfHrE6y5bDTGlSWcmC28mitTgn3E5lgrrpxmS9j7r2_fjLqF9uqbEVH5kH6l1UqU3h0MfEQ4IoELiSxxBgEcCsZ3sLMtHNvCITMmrNIdUxszRBSZoRAdRdwjN-uV2w_doEamya006SikoJ1nQDMqNTxIIaKwVM9PdeTUJTV3NydMaq8ZNNfbSnBS-eW4DSyx76qvEQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0c3ca30e27a637f6016abf134d82c087d1b5aadb454e09a48c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 422,
+   "completion_tokens": 418,
+   "total_tokens": 840,
+   "cost": 0.005024,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.005024,
+    "upstream_inference_prompt_cost": 0.000844,
+    "upstream_inference_completions_cost": 0.00418
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 397,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

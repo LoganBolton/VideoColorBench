@@ -1,0 +1,21 @@
+{
+  "slug": "that-s-what-i-like-2017",
+  "title": "That's What I Like",
+  "artist": "Bruno Mars",
+  "year": 2017,
+  "label": "Bruno Mars - That's What I Like (2017)",
+  "hex": "#464E58",
+  "rgb": [
+    70,
+    78,
+    88
+  ],
+  "frames_sampled": 211,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "PMivT7MJ41M",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

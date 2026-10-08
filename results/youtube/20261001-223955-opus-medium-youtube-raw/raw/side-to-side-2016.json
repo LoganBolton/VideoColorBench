@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894462-8zaL3qGb6wPyjXMxsX9D",
+  "object": "chat.completion",
+  "created": 1790894462,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the color palette alone; I can't confirm it from the stripes.\n\nThe first half is mostly desaturated gray-blue and teal, broken up by black stripes. That muted, cinematic look matches the *Fifty Shades*-style footage in Ellie Goulding's \"Love Me Like You Do.\" The second half shifts to deeper, more saturated blues and purples with a few red accents. That fits moodier, color-lit performance scenes.\n\nThe main alternative is Calvin Harris's \"This Is What You Came For,\" which also leans heavily blue and purple. However, that video is vividly saturated throughout, and it doesn't fit the washed-out first half as well. Adele's \"Hello\" (sepia/brown) and \"Starboy\" (dark red-heavy) fit the palette less well.\n\nAnswer: H",
+     "refusal": null,
+     "reasoning": "I'm recalling the color palettes across these music videos \u2014 Calvin Harris's video leans blue with scattered red/purple accents, \"Love Me Like You Do\" stays in dark grayish-blue tones echoing Fifty Shades, while Adele's \"Hello\" is distinctly sepia-toned by contrast.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm recalling the color palettes across these music videos \u2014 Calvin Harris's video leans blue with scattered red/purple accents, \"Love Me Like You Do\" stays in dark grayish-blue tones echoing Fifty Shades, while Adele's \"Hello\" is distinctly sepia-toned by contrast.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSqA8KEAgSGAI4AUIIdGhpbmtpbmcSDBLcB6TJQfk9qblOXhoMHZLWORlLNgjGV6JtIjDR1F7iIEReiX8TsQ81nMF3JE5fjQEORd2Ya4ovDviIRwOo2/163f7y5g6oIfAlW50qxQ6bPUQyl9glUwgP3flofEzUtrJvS8vBT1UI6JnjZU77c/5IsxGM7IjE+HthreOK12CxZqTZmf1Ek/L9Vr0xULRePZC8oPpMxjz+v47Ree5Axx1CXxXdxBdG69RAAYkUJJM1hSHUErgcMatKbZ5QTZp4X/BrHSnVZAtOmKFkXCj88KrzHNOazAc3p4O2QmKKlqrhKKXhM8lFEiRuVmslTgTzdWvCtWvUeg6wZXOhjIC1TU8KTfK8vflClhppQaN3XV+aXggY6/Bv/Xw60Ri47hxBZOERwXI4jseMjiPE4WO4B8uzIdxcSVwkCklMeqt9lfzcxaCI92DLYWZ3t/QmLRIQGkcBejjAV+DlbO87472bdMIRqdxOikm5a4d8B11rr/pHR5w2IX/gN0JYicgU7ets67fLRXe6jq6AtpS267cXXZJacJoeeZQCvM6yIDTIQ5AWzhCTqRdLKMrk9aLXeqVf82JKo6dshdrf/bgMpkVt/vEWZoqjUSfb069giW89mSYyBMtD6tUHxVF3rexuE5Q7erwkeXaqXtM0P49kHuZm1IpBuWbGiRsRLwTRa5hf9E5xbvPUaib2oYiGmuLBnghwgCE4BvF0AXgEBd1rN7mo3Ys4Ovsib8aZ1fkll4pJcojXJAYO7M1dWIvxFZJPi7UaECEOH6U4BQgZZOOy/ISPIbYKh5/UMLbpCKU4EIhRzPArmbPtjbeMIrZVzxYckt6UAVI51xZxyXcBfOSCkEbpiheon+ZqbDRXlp7yxwU8J5x5FNPkf5M0aY08J7/LojewOQswBC0Pho9OSeY1h8PETFuk0EZdlUwVpjmTxWxEG+fmx3AshmleqDpofvRxj+eim0Qpgyvi7IbqWZPrQRALl0ForwFxy6hDi3AHDbBve0ywriFrmjsbrwjyRRH/hBgaGY0Yc5cYs78H2ilewarDWYKyTlwHg7Y5p67zigbqYSWjvbsLzObNl///p8ouf2KeSFLrwfBjH68ViVPBNI3/BZgi7Ot3qI1ktxI5Q/uCcsviqRnTpFT72zYujtoInojNM+QYcD35J4m2RlrWmWPJc5fRC4h124Tct37YTXTmx1QRjGestC9xc3qp/hDRsmEleYp9YExfcKpeG3RapANzBIa4vXgm7+U0sLEo9koO2wljLrumj8j8yrlj9IIpzPJfVgRO5DNy3k5iPl2Ma+1jt97sw5bHB/dGQtkAbbjMmfJUBv5/aRvWfvQe4RbpP0Y65RN/Uubt5qQTAbnkCEtGt4MfHB6AOHoZ8k5oflH9R5CiJJqCu/ARKKQcozyLlswGh90ShJUHwrL90ql2u2nHfKVe/P5PeBQv2oIQbHrk+FPJgjbPo7W3oHSaNQWsmV6a/4FFbf8zl5zXbZGAM1b5wRBkM7cS0MWVFAJmBkK59qzO4qVh+wfP5ZL7IXJGWA0RgbxHgSlfMedNZN5oeZoqaMqHpl7lFPCEcZO1HeS6wAsCu9UQV2MvkkIcBfpq9L2yM2r8GQf+1kmhUJXG4aLB1fKGRxgf15tISv8Ki8VmSDw6hOp0djnTAMbOrM3JjHD8a9ps2jYnlYJYFLHsXj54ImyNzAGaZJfTASeLiBOBzsdRWc4TflHlzWLNo8U0nO6OGaSaDH+YvCqJ7S2Kmu5jkIzoAifS5rb3EW22iibhriaZaUncXzwwRsPj/vZJWM19pQvrc9zzuPxQac4/4dGk/g6l8ohZEbxOKzMF52rga3VhnpSi0DIwQYttqZV1I0+3GsJKXiT6AZ9SfzjfW79ZamvSgBhpgqL/JdSzYzZccYfD6dYaW7LkcCNMNEcAKWYHpDWunOUMEcf5BAq1JF3XgD4C1bsLE4W8Ic2N3h5OG8z1MxAny1xnw5TAfvbHJ0qQLx4E9W1VHOmvlJNhKVUlXT7mZu37ka5RQA0b/2LvxhlHDfudU58Ojj+QFOrgFyY/xenrvZGdBL0Z7Ufkx2oK9nubAXSwuLtYbIhC1yWB6Nb27rtphgGdlQ2FccM5IQFvVrdqC/s2eiLJMRd+S25yKQ7dDUpK/cUVknrpITKcSUqFQpzBz3HtKMFd3bqthpu3ScLQRXaIzWdg6sz0o4FNZGoYOORnH5o8wMB1GtZeqZoNltyDCjpoHtsF74Wj57KPqSOMUh/36X3e8m2B0WSx4tjKAV0scPe5bukd460JXCM9mNpxqGXZ8vvw16zJ3mf6xuLAmVcvrw6KzmRizc3LEdQzIKaYInbdQqRPtuQWrsL7/USVxsw1sRMiY+tvvH4EBfR7ZurhONXgzvJq1mGQkG/B07jEajsphY/VxjrSilm5SiIWJULAxSq74wj+62jXv15bcxAk0J132T1ho+40VDBZeFLV5lwIL6f7FrkC9XWrhgDWGOacNKo+BLdMCpnibnLKVdtPckr/vskyt+d3igLbMemxw/jFtE+GbZntyalXx1kcVx97a8taQNohXTlaH7nLvT0dpBPAPnFB4jV3zYlP8bR1GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 653,
+   "completion_tokens": 770,
+   "total_tokens": 1423,
+   "cost": 0.018012,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.018012,
+    "upstream_inference_prompt_cost": 0.002612,
+    "upstream_inference_completions_cost": 0.0154
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 503,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

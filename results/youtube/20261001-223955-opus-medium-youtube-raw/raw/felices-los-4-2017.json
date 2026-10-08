@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894471-BOzyHYsScrB5xXFlW9Cu",
+  "object": "chat.completion",
+  "created": 1790894471,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colors, not a confident identification. The stripes are mostly dark and muted, with browns and greys at the start and teal-blue in the middle. That fits my memory of Charlie Puth's \"Attention\": a dimly lit nightclub opening, a bluish house-party section in the middle, and dark night scenes toward the end. Of the other options, \"Felices los 4\" and \"Criminal\" are also fairly dark, but I recall them as warmer or less blue overall.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm noting the color palettes across these music videos - Attention leans dark and bluish with nightclub party scenes, Criminal uses dark warehouse tones, Felices los 4 has warm browns in bar/interior suit scenes, and Ay Vamos mixes neon with dark backgrounds.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm noting the color palettes across these music videos - Attention leans dark and bluish with nightclub party scenes, Criminal uses dark warehouse tones, Felices los 4 has warm browns in bar/interior suit scenes, and Ay Vamos mixes neon with dark backgrounds.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSiQkKEAgSGAI4AUIIdGhpbmtpbmcSDKrfuNPYYiJ+h99T4BoMcyCi98jmt+jX5SAMIjCL3S473wk9BnO3QY2Z/IOTZ2bck0U9DBZtGn2nfLUPFDyS4nB6JivRGtDf5vRpE0UqpgihE+UeHBhnBnH7v4gBH4BpIIHVpC5L1idpQum7eRlssHqzU7mlbeCp4BfypgX7oZFMW+pQ4ZdNWvV/aJvCipcD3Ns+6CPam2mRHf5P2wsvbvojwllgnML+xTXaM6tGh4fNX+vibsjoxUg4W5LvsmyuI65DYmDNF5NeOojgY9Ban8AEFqnYds3WaJmw+OvQPJx2Tnz5bSHZWeMQjdsIatPNnAXcRWFoABhkVL3Mx704XKmCFIakiI56i8ygegAEE3pmF83rYGqjidEMBE10qWcqoHtL/YN+yk8qSrLd9/BxGJ1wljRRALbQrYj/OR7Lwz8Y7OQ4KS1R2H5Y67vpgvWNwDMqxApLB8CEPez6xMVkIQwgvHxogGU1tBE1w5ONM3CPYf+yozZxTnBtE5/uz62v5M5oJzW/lv2TAcGo5Gb/FvYbjAmE2G7bKHE3kG/dGTBOHFD89iovHxDYc9mJO8w4RmieBFFB1ZO8pEcbO/l1rn8WpjhAEa8Mq2kDpuKp7gY6sudWCnBt6HEvS4FkJv9i5+ZyMiUm/z+Yx8V2kZDQ2iJBNassK8FLqQGCvVtlfGyaydfea8y7DUJ6HkcUT/mqK7VnppooDcNWLpXc97fH19rjW99oUM+rIe1JMgIVk/NyDciP2XRz63BIFnFrSud6PTaFz7JzzC/Hfb8g+IsZFV/7cHDOPXy3ZJQ/svEjzTKZ1wPEO8SKyH7XH2iAueKNngXmWOPw7MAVRJSNF2jzLVZBVug5PInDSimP3ZfQqjVEaCg2C3jbw5n99cuh8ppc/RJGdQrdr6veVaASONDuCrVmYf6RjqE/C1w7WtO7UT4zBEdtlWRgrO1Yga7lYjD+vDKwmxBoZKdd+VnDpe+i2plRmXE3ZCOALLDm+2sZrOT8/OnkN3gJTlrlYAj+3klT1i7wL4Pk9372NYUySYpGATb4FteWH979JVCpN/6mP9/6/FylhFxzsmtO1OUBYP+1GYw0AsyPZ6Z1V5NIJ91HDgE5R65XIjflbyneXixyimkBBzWusXzfmTff7LzbbuKPdswGK9/TIb10vkzfuJDi9BDnci/e1OIHvXq3N/4fAi2aW62+1r6PX0iJCAbMaDclPeLUNyYm3FR+wN6W5BJOmoIAQYNFO+Mo/2ZJnjNACGSEb0NcqwN3kNDiP5ngwh9b11GC8p0zlYQnTbGDhc+ZtuQzKHwB6W3VeVcaB8V5oWg5Q4r0U0VFUn7QMa2G47DuEj/9MUR1H/14RiZyH/a6YdSjRsKkw1cvUzVAELj5y/KhjXMZtuq3/HD/ihCNgTJ0FH6w7vvxBx71Nx+Y9q0+T7+NWEUrJuZXEHp7Z2vF5zavQDrbf2hwMfddsMT9QJs9sbm0lh1GpSvVHGofgrms6tLBlBTxRvVVDQynxyAXwWVnUPrC174YAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 625,
+   "completion_tokens": 395,
+   "total_tokens": 1020,
+   "cost": 0.0104,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0104,
+    "upstream_inference_prompt_cost": 0.0025,
+    "upstream_inference_completions_cost": 0.0079
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 232,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

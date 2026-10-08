@@ -1,0 +1,21 @@
+{
+  "slug": "trespass-2011",
+  "title": "Trespass",
+  "artist": null,
+  "year": 2011,
+  "label": "Trespass (2011)",
+  "hex": "#251F1A",
+  "rgb": [
+    37,
+    31,
+    26
+  ],
+  "frames_sampled": 5374,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "jhnQuT3t3Bo",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

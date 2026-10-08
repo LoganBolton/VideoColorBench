@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955043-HhErKEMRlB8GzyWxy0xF",
+  "object": "chat.completion",
+  "created": 1790955043,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Meghan Trainor\u2019s \u201cAll About That Bass,\u201d given the consistently pastel-pink palette.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Exploring color themes**\n\nI\u2019m looking into the color palette for the project and thinking about incorporating pastel pinks, blues, and other vibrant hues. The focus seems to be on creating lively variations, with pink as a dominant color. I\u2019m picturing stripes and those soft backgrounds to really bring out those shades. I'll also consider using some beige and mint to balance things out. This should create a pleasant cycling effect in the overall design!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Exploring color themes**\n\nI\u2019m looking into the color palette for the project and thinking about incorporating pastel pinks, blues, and other vibrant hues. The focus seems to be on creating lively variations, with pink as a dominant color. I\u2019m picturing stripes and those soft backgrounds to really bring out those shades. I'll also consider using some beige and mint to balance things out. This should create a pleasant cycling effect in the overall design!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv84ozjk-3K6ymkAyXsUIzzx8GPSkLqT3NnwLrUXHkxKdvUE4ButGJuJQ7Zi_dsaNRqZPtxL-zfsPlDA3dJAlZBEdAVRX5bJWFT1BM7BZzehmdWo5Q8pXX4YhatKvkM0rKQaXWrWW44Y1snu9j9q_m76ddt3aYPsUS9UqRck7hIN-aTLoPZcKNgPec4S-JdGqLyn8kMv-eDjKIq5SB1N5WB_wRpxf7qCVhltsleSs-j3rfjBwSgiRgKYtf746ByIwQIQqBAQ_GpNeEpBz8pkYFNFtH-5a84qlJIxCO3uHn2x5X6KWuUh6dNxlpLinJ5r7_G-uYN9hJO8H64_e9qrhj5E5Ux5HgI5BM_I_ePp-OgAUC3gHH3mFShhT05feV56vgXr7rGdEXuvKrIGVzSm35jymS5IePyVw2yxM6DU2smL490Yn8YFFeU2LALeEI_P0zntwjp1nMNjP2ya5tsEp_WQcFa4PyjxToVSyJ2ifZ-j5sWP5mv8W7sVs6daRh5AVhr48XpgufbkKpZcU_0YYCGRh_g-_M9p6a4hXTrT0kNZbo3g0QBrN7nbtRfh7EsPy51IHxmxN-vKmSUrBT1D27fu9WDKbGQKGFnX_MV1sohLIm1xDFUcAeVDD6kSVlI4luUo6oeswCxE7SDCL_TDxb08tQdWcAxDShSPBoZDggv5L-Z07HR_osIosIvTLMMTU_Nto4CiCOrpjPw0TxudJwtAE6ZajfYKyN17NWKHFjoEh5SzxT9Dp-RTJ5nbydK5PNwpuZiei2PMweE8NRVxy6pK71_2d1s2KqPTceAfNdvRLXEVTA_WbfIHsEvQe9Q_lQXH6-ne1RXltRyWVoNsi8qzra1TGR2quwEAHp3wx6QK8fBcnruhn4X2zcuSTqVeOCwRYpNoH6aLdbH0gKSjRQMcmMewrrzxXpgmCho8lHPXRqIFx6mc3Z_RO2C7Q_HR9UkmCJTAGT9BZzAQRjxr1Q0mNA7yotGPEcrWw30YHPqKb5lZyOE7pAQcXDPgxuPlA2T0hCE14u9UjkLc-vKu_dVv-nBKXiY8wjKI9zRK3u0WDQnSJyUgbNNpcEo7dPJcx5ti2u1hLACegTmke4ABxiymO-9H2xzR6FPzIllqh4Mz0KZVZA2M23-PZhVwG83rsBVO9YmUy_t4xHFRgnfOVRrK8MQsdMP2xvBLwhdmEar3Jpc-EdTyToC7TsmPc8pfZpZ_xEJKHQceyWD3ZpHyjzT3BmMx0goefCBl-l7N6nt0H3ifvXM283Mn8GjTY-ZL_5cBqSNQZsiWshDhBTsfJG940crFuDNpAp_1fs6shXvPeeKKYewYR44bRmYoLR5-DeNeEcgmWmy7JLMKtEQzsm-sS0AwtU1Yw-BCkXLuRAcV0MHxg8U4C24lulMhMEhq6p6z3eLj_RwDUkYEfRqJeD8Pyg1ZJQyQc6tM2Wfw5UnZChReNnK57vooTqMMhCdhioqwZgDWKxB9JhhA-huIU2cbqRvu5H4UFuh-YTcpC3wPD4qOj51QucaE_JPdj5BT4TTzfuQbtQP0RZNJ4TEE-u_LrHNfFjwjV6BxYTaHRAiRIVWs7_OThWpuYjZk3z2FEG6Ms-pfFGmv5SplXPw1LgLP4VWGI_p0dqUVLk-FFS99F-K42xDzsWYnXn_ZzSVUQLNnAjPmyyF6eFSlGppXviSWS6CTIWn3p-cIiyNdzhUaQOxE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_085170220f3e8fdb016abfce24fcf487d1b2810a30728d885a",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 493,
+   "completion_tokens": 88,
+   "total_tokens": 581,
+   "cost": 0.00933,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00933,
+    "upstream_inference_prompt_cost": 0.00493,
+    "upstream_inference_completions_cost": 0.0044
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 57,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

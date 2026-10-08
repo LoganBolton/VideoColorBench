@@ -1,0 +1,21 @@
+{
+  "slug": "99-homes-2014",
+  "title": "99 Homes",
+  "artist": null,
+  "year": 2014,
+  "label": "99 Homes (2014)",
+  "hex": "#484239",
+  "rgb": [
+    72,
+    66,
+    57
+  ],
+  "frames_sampled": 6736,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "LFFhrBScjBw",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

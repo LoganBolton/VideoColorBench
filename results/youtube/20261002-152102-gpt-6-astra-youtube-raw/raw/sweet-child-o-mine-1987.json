@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954925-wv6pCk7CbZtoX3H02RwV",
+  "object": "chat.completion",
+  "created": 1790954925,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing music video styles**\n\nI'm examining the use of color and grayscale in various music videos, like how \"All of Me\" starts in black and white, then transitions to color for the wedding scene. I\u2019m also noting the contrast in \"Thunder\" with its futurist high contrast and lack of color at the end. There's a unique take on color in \"Take On Me,\" which combines monochrome with pops of color. I see patterns in using b&w to emphasize moments before introducing color!**Examining video details**\n\nI'm focusing on the ending of \"All of Me,\" specifically around the 4:30 mark where the wedding footage starts at about 4:10. I notice it primarily uses grayscale, with the bride\u2019s dress being natural and having small sea blue accents. This choice is intriguing and likely aligns with the story's emotional context. It emphasizes the moment effectively \u2014 just a beautiful blend of simplicity and color that enhances the overall visual impact.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing music video styles**\n\nI'm examining the use of color and grayscale in various music videos, like how \"All of Me\" starts in black and white, then transitions to color for the wedding scene. I\u2019m also noting the contrast in \"Thunder\" with its futurist high contrast and lack of color at the end. There's a unique take on color in \"Take On Me,\" which combines monochrome with pops of color. I see patterns in using b&w to emphasize moments before introducing color!**Examining video details**\n\nI'm focusing on the ending of \"All of Me,\" specifically around the 4:30 mark where the wedding footage starts at about 4:10. I notice it primarily uses grayscale, with the bride\u2019s dress being natural and having small sea blue accents. This choice is intriguing and likely aligns with the story's emotional context. It emphasizes the moment effectively \u2014 just a beautiful blend of simplicity and color that enhances the overall visual impact.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv824hU8-Yf9GtUEs5iVqG7VnpPu4H90azNfr1gnjP8JsmApWa3-virzJ4MPv9aVa80b17TqnEH38QXG4FXxK9Mrodr49PA_Ak9T5c-oVsv873CY-EKT4l1DYkPPADDfqrmzZ84zUB0FBg4Qz_4JcCtiFQZqrpheaoQnKfsO2QuxQKBUfggYQXBP_6bgm-_3RBW6sdH0F2spiqaUFRAZmM2BEGqoYNwVt-qE7JrzgLCGlydpt6dYgM2TFcQXpd6k_lWB68bKp2UVsMj9BCLio6xcqNTyFkMs4C0C_konpgPy--AR8rWDWjStE1Wz5IvWE_hJ7epRgMbOMfbDzWA5ZSRV1LCHVXDltexMtp80Scn3FZSCNE0HUboowLhAml23NLw3BXCdHFsvzE2KBDKOobb71iBMeuLMcuUfyQO3F1PsBYUHQvbxl6zoTN_T3t8Zo5SOQuNm5nNdCMFlDvFxNYev9C5tyordnRazo9LNx5UCjaONmN9IS3AC22iyhRgjIWsGFhfPqdC9B5cYO4pW3rUiFD6OGh9M1M1RG5YscePRil08BGbL-JLsepPPRS3TbZmV94R_IoMTrdxyGvmbORqy0RfA8dm_TSmam204mR3eLBZONcQbBxUKAYh_bMzdNd6vgpbTDtuLS_yYt8CGMAxEFKw_YGOUz663shViYozrvHc8pjTWhLgu6pdU-YYEOBQJIclLmgF7hfvc08edg0Xc6xFAQ3zaRBg65rhCqoUykW3mVzovQY-GgO22tuNv5SpAlbqWwytcvMiGwqwiMT-5e8KLhH8QIT0374364HcJV7dXwtWAgMewXOHUth46oL5JoiWN1Ufc6q8m2lGicLyNJSHNeZVrdL_axIDOskyDvn7ZxURJ3PeIex6noxUoUqzEyf8Zk4IpiHTCAkaGZJWcdTrp9zvHRl9voehGyI6pa7Ghrh5piJC1oP4rFFTOg9ntWPfyg1l9_S-StCK144YbLUatPcn0KXIiu5ySDaAp1x9La9jWvNKIZhcG5t4et8VxIcdAO5QNw_3zBPpbIBFgIHU3iXjOAKvtQb4VzfOJMEkLPucCrdYi3ariOJsne4tYwjiBRT7LfdezBDxlBxEXPYAd4MG0M-LLQdIQ_D0ilF85EiL6cIQnjz_0pNbkkfMer4ZuqHgdD39i-lkES0yXi0LJuE6NnGfuPf4EG1HNnaJpcwWeQXipfvI2_9apXkniTuiZsENP5YXGmzcFyccLlnWQwb_5x8HcU1f9G1pKojnxDNy_EEnmY4MC1HYC2XSzqIzd9mFZEz77OqBtp2MfFY1e7aHJTCWNEEocfVeBFw9mxIOPxEdUVOU-dXGHiKlz_UEA_nVDqWmfScf15cgPVnMCQUhVirMj6maroPqdwP2d7mJ_wTlTDCwpyLG2VuVm6za1Y5rPOc8Oa9y8gK5rHc1v1LOocH_BziyuhP47_RzgSDkxSPT1KjeKyp7tXUQ8v7Pj9Hh9nNiV7y2SIt1YWShUCOK3A6k3rvPIKBfb5-jLOnT8C6f02cjcOjWbh271uryvU_8xTVhwFpzUElgemzUsv28EDAMJBy5xq3Z_efDtdhV_OAKsxh92YQUYvV07-3IHlOUao1BbqAZiZyqE5jQ3cX0VRToN9cX4UR14QkplP-TdmYmoLhuvHKbNNNPwQ944P-9azsWs6pr7CTtiAHX3viCHQx35tg3MwvHnhLKEH0DYml2kqVh030XBhRzxQimZTN7seX7wq0-DhN0M5JP872kqRZDHhYOQlh1gH2aAvTQ3zF2a3pJvbWodLkjJBsb0X_w3mcNqTK53-JfA3TY3gqZ6xSJs8IiFWVZAQvRelhUYrxFvFuVTf7k_Yd46N1B12X-qvhRUC8JyD00Rvg0CdlgpacIB3AI1JIznvnFgq2BvN-r9raXWyx3xsRkUB4yYjjQFQf4fvS_NH-dfUiTcbxqTvNxLjvTW_lNE3kc5YVAbsYi7DIAoxkFiOR0HyTvxAajpYACSma-82lCs-skgaPxJyvCO2h4PpfUbjpJj5K8nRXeJ05XVkWOaMAlo7qWBwAj9Ap-ohbkELBf_Fbqmh4fmAChgev4Tda3qSklPPVbFCZlqjiCpdjBCjupWF3UdNDJ5i-7gjsgqBasWqs1Kp74bvwwVihtAaqGWyFpb74ZkHUESfT6aMNEMlPXXgfsUVZ5Onn7Rj64ZxjAr3neaQynQnDPYlcQnj21Ow06utj6JMbzeDh3KLgMuZGx3M_V6CRU9VgXDTPq056g6im7sKNhnUGoCv9VDkQRKj-VEr9GcRGZOPLvcZl4vDqgavegUze_v6g-LORgCo16LgpHNbdeo0Bccf_0Gi6rdgHixRT5CePdbqTBN9AOnWeWro5fulZzBhIvqJZGSIsN_oSxA4LYZjuYV6D6EWpydXaRPSh045vqV-3Ju53VVLp9fbQtA8dx53AiwUnauSrAckpAzwNV5G66m-mB5G7yohiWYm9_Qbjkw2ZjdYofwIc17Yy-ZwIi2q6VHvSLzbuFlfHJbzSpdmFdxL_AYVAO_ZlUhkbQPvPUnL8nqLCjXNGABT6YUXjp6AwGOPD234hBh5LUA18e6d-nc6RqLLq2Ru5Cc=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ced680373a3ce81016abfcdafa1bc87d195ec8fc2d521b852",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 472,
+   "completion_tokens": 218,
+   "total_tokens": 690,
+   "cost": 0.01562,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01562,
+    "upstream_inference_prompt_cost": 0.00472,
+    "upstream_inference_completions_cost": 0.0109
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 209,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

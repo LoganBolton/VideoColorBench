@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-6uWtD90k8oZlfhIYtUX3",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Metropolis (1927)**, given the predominantly dark grayscale palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Analyzing grayscale distinctions in films**\n\nI need to focus on grayscale barcode distinctions, analyzing brightness segments in various films. For instance, \"Metropolis\" is largely dark, while \"The Last Man on Earth\" has horror elements and dark settings. In contrast, \"Potemkin\" tends to be lighter outdoors. The brightness segments I'm examining range from bright to dark at specific pixel values. Ultimately, \"Metropolis\" fits the pattern of having an average dark grayscale of 75, and \"The 39 Steps\" finale has darker tones as well, with no brighter ending.**Considering film endings and styles**\n\nI\u2019m observing the bright endings of films like \"Lady Vanishes,\" which concludes outdoors and in an office with bright lighting, as well as \"All Quiet on the Western Front,\" which features a bright cemetery scene. Those bright visuals seem quite plausible for reflecting mood. I think the most common barcode recognition might involve similar themes, and I can also note that a dark, expressionistic visual style is characteristic of \"Metropolis.\" This all ties together in my analysis!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing grayscale distinctions in films**\n\nI need to focus on grayscale barcode distinctions, analyzing brightness segments in various films. For instance, \"Metropolis\" is largely dark, while \"The Last Man on Earth\" has horror elements and dark settings. In contrast, \"Potemkin\" tends to be lighter outdoors. The brightness segments I'm examining range from bright to dark at specific pixel values. Ultimately, \"Metropolis\" fits the pattern of having an average dark grayscale of 75, and \"The 39 Steps\" finale has darker tones as well, with no brighter ending.**Considering film endings and styles**\n\nI\u2019m observing the bright endings of films like \"Lady Vanishes,\" which concludes outdoors and in an office with bright lighting, as well as \"All Quiet on the Western Front,\" which features a bright cemetery scene. Those bright visuals seem quite plausible for reflecting mood. I think the most common barcode recognition might involve similar themes, and I can also note that a dark, expressionistic visual style is characteristic of \"Metropolis.\" This all ties together in my analysis!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLe9Di823vpbyB00Za2hVf1CGzOspSBqPsmtRwCRSViPDRSWh9-DKqJXS_6AjeheWPxbwOb5AlQbZKWu5PxNb6WQvyZcDva56YH5t0poh2oH-HvTg8BCcp0zoSRDilFHa9cKI46X2UsEJE89XlfDdtIlvCUd3mBTQcz_8GlfT-4yHri6X3VgdrCJL00Yy2FXV5YDD5pDBsqoWHb5fzwHpcoPBUYuZIJ3YNJGbr8ubpRoNe8MaLE-rNIAA7XQLuGY39zcEiZoAUMj5yzB-e9ueJzowYpSYvaPzuj9yeGH3J4ex-oeX2EvxfSxQRpD_y-kVMAQcsNj7J9Py3hZMh4P8yiRFt0O6lrdB2KcVHH2Mzmo7lzUEPTE0mY4YdYl65saCoEg-zbLJCHoTstYLefSq4kTipFS_e2icl7JPO4PFqQEkNa6jRNLjp5ZK6Va7ZtJZC9hUVNvUudGNhfWesU9ej9bbyKLVfQhmFjxsGJx2q4F8tF89G7BqEmY0kTlpItYsYRVgUbcMwzf5cAKzPmwrPPmwWKYJ8_Bg2DKdgQcjIF8oyfXo3cULYx8JRnAiHiIr4_33ckMLUPdra58Us6RTi5ndaEiDesxk9sloZtXy0fAw95Kn7DSkmPqiFCZahQl6gXHMAAC82MlBuu6JLPh0-ph7v0sSioxyKNrzGOfoRGDUPkhFqjfWUyqpcQQMKZnRb4J6NXz02pK9PpuwXGGMzeK8f2LYm8Hs_6rZ8OQdwKfjYjn6j42x-x0lvbiOIm5gNMoWwbTByLc-pINTbZxSe7pQCsiYi-ZHWy8Cm_mrNaPPGV2tgoYf-hwN7m2GwbU_Tjlio50KJ3rB0WQ9N9pI_EqUXfA7p9gTFI0aNUO6kBgu9SU9lEUG9KuHgYtFVxIjV3WDUI_YrQAWakVzpXSY7NyPTqI2kkQc_z8Z47wbZZWI1QnZjhRGXxqz4qupvR5RjYA4Bj2zo418JHLxSiJNazp8bDEggkYumpdURQSjzmexKm3lp-LfEtOgqtXnBeu1fsTWje2wsrABXE-WfMv2fKowNHef9HkbP2kCSprirQMGpBMOl7M8F7-IyFEMk-xm-NET05bJtVznFL64yUx01Fr6VOSvr0LJz_TK29JK5A58jp8jKmCgZLFMM3gk1ZdrwDF4gqCkW0mw0ll_CABhihEpMKLJldH93nmz1amDughcaPRfVZzMJvrhBLYrK7yXC-Rs9clSqr8p6-t5lVfoNREBLOfAHO7AnrcyaLzMbDHElJHElewgDs6NHMlnHLeNRs08-sRZdqQ-HB0MWO6B_CVhLd3BTBRUd93_atPWSdVcx0jQpXUj7xOsAvYyVxJF8Jria7i5VdhyhIt1D_IPxkySJeJD7IK1MOpuNF4h-Iwbm3XU_aa5bdRHa1yxc-f5S8YL4QaVpcDThfZx7QC4vSGMe04PiBIihh1zcylVIEWDY5C7UWqd2TN2j3n7sZueaWSOm92EmLl5FCSpPgfQHMjTSdb5DI9oUXBQ7iPOkdJsh_c1qRKMaf2VFLsU1N2PHcwwkGBwCuxjnh5meXQ3Tosk18Ix0UeoumWvOWK8fP15u9qdpXbkRd4O2NalzNCvIIxKkTMuYB5XyiTe_gOOj8nP4nRs-2abZcu99y6nc4Jq27IF2mqRDO_NB5RAaTMCrFdkbqO2gcqgouuXNu3ZPmk48ZoOF8pU4hT_udo-C8e8pQzbgRVm1PLrXv7jYbGf953nbB33fy80CtSlMjgSbQfoy4GXaVJYWjHttQpHAgjKLJzz3E8Ug9GO4tE_HxpbH7rUzzq--0P7C3sMs6Gn-y4_cjxR9FJz2JnJz8bgyGGbpIyz9gyh5nWpSbX14IWAGKvG8YNeGZOyJZwCOYAkb6UV0xFIErX0PZFBH3RvX6WZEFx8KqKqcWohlK-c-n2s871B5e659a5hSwQfL4mjIcOWNXWBpl4jrSOr3avIu_cHjza2SzRiqldBcCtXIIfp9fHiL36kZ_xHjSUuwrM2vBQ2Ws96aCTtAWbGGZ-RK0tcywm2D8vvEVB0_a-Y44hBCwtmYZBOtKLF07Dn4TxZcuRU96iFI3c7ixouQlJ-n56T7OD8a5bMon434jldVKyyvWQvtRtyY43PYXCyTVl4Mh9WG0GMy5xZ9F-OXh3lPQMHkP-uEy0f50vjV9xGKu6VFu7JB0PqTeTOLbIZYsFk4wB4mTURuHiI9NWxRQD_F3lzbVs--Bhx_P3xOsAZFKo41EZmY450YT_xabs-cI0F6LctjEFXjMx2joosoLVkLmG947Iupivar6DYfSpqRjgVekn_8NrDO01pG3D_ltQCsawkzSOKfUdfuMZ7RVzZ1Bmxjek_6xRHZbnmFMevkKHl5dRVNIX1DOflDo_ZU-pAIE8VTLjJCgSlVbLpIBKG3D0hgsO_5f-d4k4bMAADDRK39pTAykprW_S42dBNBVvYbo8FHNqTwpZQP6DR10G6NvmbUjA_hPyuif_qe69i8CiG5IIMOETs4qIOQkSQp9Yvw11sUPvbpXcqR9V1nUyYDAcRbWUJSA39bGoImuwns9LM5abt07-O4l5qrj96p1tB2HL7kLMUivIV4qwovAq3nRv7u7KWgo29T88KT6-QQkjNLj_4y1QfftkKzOJYN45XFp2iIlVLoaDARAVMeC0zVc8a3dhXYCw-BP2Mb-wBhrJKC7-QBxSFAuadomKtD8Me5ITa7eDgexoKSRWBu9IbBVvGuNNhZi5G0DYmvpzwwYY_-hcdcev8IkNSPSvnVjkLusuL6wm8j_HIqcw9mq0FQgQZzMcuPrefMiUZN4qvZTEBr0XT1BBcWmqY0ns1k28NFFUMiHbtuzTt_zO-Cjh8uGfvg7SwANO9XS3PjLHoLeQZ_3tzu-JKxAREZnlfrCI-u0uauvxoPt7N2vP78UhloWKTX4NFfh0zR0ovqNqcaESOxmynYKWkN_F3GLmG0kBG0-48LEv9VlkQq6wh-bJjDCgZm5x_URaj7_wQGqrPSrkGFdzn1t0ArcIY-3Wo6GAjesWoz3BqNCsWc2h7uj4JqUOc_exzEFZh36x49MHKBz_ULd.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_087292451b919baa016abf12d520e487d19968dd9c2bf5d767",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 306,
+   "total_tokens": 745,
+   "cost": 0.003938,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003938,
+    "upstream_inference_prompt_cost": 0.000878,
+    "upstream_inference_completions_cost": 0.00306
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 278,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

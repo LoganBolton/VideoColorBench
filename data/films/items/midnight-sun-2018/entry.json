@@ -1,0 +1,21 @@
+{
+  "slug": "midnight-sun-2018",
+  "title": "Midnight Sun",
+  "artist": null,
+  "year": 2018,
+  "label": "Midnight Sun (2018)",
+  "hex": "#26211E",
+  "rgb": [
+    38,
+    33,
+    30
+  ],
+  "frames_sampled": 5498,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "jjTZB_Mboco",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

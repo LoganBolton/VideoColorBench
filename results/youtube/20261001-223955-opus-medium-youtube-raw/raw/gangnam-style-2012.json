@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894417-5B6gXFDygvLpg5MJKTcL",
+  "object": "chat.completion",
+  "created": 1790894417,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This looks most like **Lean On**. I can't identify the video for certain from colors alone, so this is my best guess from the overall palette.\n\nThe stripes are mostly muted, desaturated colors: khaki, olive, brown, grey-green and teal, with no bright or saturated sections. That matches the \"Lean On\" video, which has a washed-out, teal-and-earth-tone color grade.\n\nThe other options fit less well:\n- **\"Roar\"** is a jungle video, so it would show more vivid greens.\n- **\"The Lazy Song\"** is mostly a white room, so it would look much brighter overall.\n- **\"Gangnam Style,\" \"Ay Vamos,\" \"Sin Pijama,\" the BLACKPINK videos and the BTS videos** all use brighter, more colorful palettes.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm comparing color palettes across music videos, weighing Lean On's muted teal-and-earth tones against Roar's more saturated jungle greens to decide which better matches the mood I'm going for.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm comparing color palettes across music videos, weighing Lean On's muted teal-and-earth tones against Roar's more saturated jungle greens to decide which better matches the mood I'm going for.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSnQgKEAgSGAI4AUIIdGhpbmtpbmcSDJ9UEAqEIiYpy0RfJBoMuR/aDxIaYACp2LPMIjANP3tntuboUWtLRmVq8aXv/msOxCNp6T428elQN2hwt58SvEmUv47tO/XUpaJEhlQqugdlscsMgnmK0EgJnItSPwuKMkvAwqrysMoca8IIVL4Aos4pBG4HC3wwgG3NxF09HAL6hgQ5bRL01i3sQz48ML577JADzBrHjvF5J6wzfzClRPVdO4u5BEBZfAWB7iwEWp/uM3dS+aVk8irUN1jtVu9hH81MqAc0+x1vlUnsSlSiKxfuBx15XVN4mWUMH2ieFzQumnHiKmPuvBqPti9SRBwWD+QusgQSssUSBv8A0KGgbOzkbWk3Y3DqWPgEyagbbkaD9imng+aU7mtuT65w/hjszeK3IW1u0jeWLZyNnCQye0KLjRfi5F5866ZlMsC0cywNRYJcYPnYsPq/jvl1uoy666P2ISNogc1Cl3AfYBDpNWYfI+akD1neIQF7Il5TJ62pUCyiq77RtstTeiKGDp5F2G758IGjQWVtAtFim+pyMsKFA7T6b69n0COTjjTkaLnbZW1K/nIdymq6ZBFw7gjb4gQMEwNML6IM9E29rHVgrqH6OQpKzxSvXdt8AGOqbmhQcJKkOPYdrlfKLpPy+WA++itNE5ukqwGreCbSB/P9WWKlBSI0yLijaNR5jVlY4wckKSPY+24dsJUdaGETx6Ug9oPJX7M9owZ2YdjFpp6xQ3ELZLZC4dmz69Y00msIG3zK8KT/27QZUiNPjTUlYWaifxgdHvyFQ5Vra8GzjXrfkA+zNIlRgM4ijngZ/NTZmWMmcAxdXLLTfcTo/eeadAbspLJmf88kKq73N+TxNhAKZHGYyDHwcZWhVf8169zHS9OEWEFpVGzIKj+H5NNK/1K5C43rTSACF3dy21AuQPAVz6vh7OHWGdQui9VWgUafiPdUhA6T0C6CzzH06SIoUQ1wcR13M0OlEYftvEL7qzwMlZHBrY9WpSyuNqy9dMkwAsmno9WerL6EgJv/IGTAEuveiwv/J5hpZd6eYfXsKtOsjA9Nx/auczcNuGSzdAGO7jDD0x9IqO9ATLnlBaqS7vzcNFglPW6VAJIxr2WIoWnk2c4RpXd4m0vXuDacmClEXj3Nx422LwXwcXITog54FP1zsxgdjC27ShVrz7CzfVVuGaD2DmlNmZJfEVyEfjVFgS1WyqBEl9fqSAeRdy3Ydh6b2PINcbey1O8mhChC9jqiucRzdjPT9yu9m1Zouul1Aa6x7frv5yTFDgW8I2wrtKwIENG8e/AMrBqbi/dD27e07MUU0bLOI5uE6zc12S5fXt8PCxF03tXYae1vQ1TEK4vGr6hIreyw0M8vvN7ftZodCfacTAh0fgKSHkUYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 622,
+   "completion_tokens": 449,
+   "total_tokens": 1071,
+   "cost": 0.011468,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011468,
+    "upstream_inference_prompt_cost": 0.002488,
+    "upstream_inference_completions_cost": 0.00898
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 187,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

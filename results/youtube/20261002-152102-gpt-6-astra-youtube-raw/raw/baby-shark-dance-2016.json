@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955154-YXzYmx5QgAgEDmdYo1Pl",
+  "object": "chat.completion",
+  "created": 1790955154,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Miroshka TV\u2019s \u201cLearning Colors - Colorful Eggs on a Farm\u201d (2018), given the long, distinct blocks of color.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Inferring colors in eggs**\n\nI need to think about how bright, solid colors might suggest learning about egg colors in a Miroshka context. The image I\u2019m considering starts off pale and then shifts through cyan, brown, blue, yellow, pink, purple, red, green, and muted brown. It reminds me of the colorful eggs in that 5m50 video, which showcases these vivid phases. Interestingly, there are baby shark backgrounds too, featuring yellow, blue, and pink, but turquoise really stands out.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Inferring colors in eggs**\n\nI need to think about how bright, solid colors might suggest learning about egg colors in a Miroshka context. The image I\u2019m considering starts off pale and then shifts through cyan, brown, blue, yellow, pink, purple, red, green, and muted brown. It reminds me of the colorful eggs in that 5m50 video, which showcases these vivid phases. Interestingly, there are baby shark backgrounds too, featuring yellow, blue, and pink, but turquoise really stands out.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv86aJxspOpfiCHfeTfDFepMy1tvQwNY2-9A3RtScb3uagVUPZf-VIdUJ76yAo0Y6wsZnN3jmxna1Ry39dui7L8LKop6nhRAdnkLCAlOafzZ5GdM0ofEHFcIUQUwlYimbLtM697h4Kq_9Eitds9yt5tbjJv1nXuiWF-yOGrscTQf8Qx3QsgLibYyYbWZwpsBFxaZkbBsUA44pI8KfqjgLyDVQx4Mak8sJk5fbOt7VX0XkfYKl9FrlkDoNQs-5U-ZUTUgWSnwM4Nu-6Jyi205opaP2J9CgIOxwMH8Qs1AdnGO-XjTDwmTtHMPKQFZvCA3QzDJXktADlFitsifzTPcw8V-xvGWpRYK61pZAigtDXPqr9VPWJUA8emMJteMl30eMiG9iiYaFcosIyD5cAz39TNBk9pRrp32sMRKIi3PeGUe2BYX2hV7Ly26cIhRaBOo5UeL2YRHpmOoGcKaWvvRVXpjLFocR1COlD2Vxf5vNN3gtX0D7TRkR0vW9CANwSeAswDK0muHd4KURe8Jl-1DVVjilxxsjw3Ktmsas2GhbjzAaQIrhSTQJW6eszAH_mP-VJsMfeFlwLt_xVjAPp56IkC223i7GqOQo-Y5VpNbTcljjTJUzxzHkX61XfaCR3eOX35aKMYbioC7v36vXjCus-sT9oiJbiOogn3RwU6Z4SI3Bps_L0CX_JgzAdP8jjSS6iBGA__QEn6mKF23H-PSGNzNrjs4v9R7j72Lo3VAUtEZsVIh4RrKz14e6e5SATf_ZVPbQGbq-cLlZZJ6q4jPLmb1uzl6Bkhl7q3lIKnKbcuzfidimVXOoLa3JntdBWWcvQ8uTxsU9gsuMQjdOlUu7cwC_9CLjR9ZKgzZoV9SrBNGTXdEGv8SQwDb4a4coRmn9jLgkmBB6OltPxMNu4dGB_SXT1zinqpLWuXNJOMm0uACFkDlnqSLIieoPDj7TKeYsDm-gl7qlf5RDjiOm1AYXSlpRqkf2Pj55OnP2UAKXNstN_yOfYBmb5RsW24is_DZd9Zb61mre-xWzx3ma6gf-wYhpKGJiKYSXwimwLigZ500B5iUuSSgUVGYQIlCHyycVEnEwZ1hL84oDIgdVuUiiVrZKbc_JROrDMV9BPykgQhuF6toNsTICHxPq4j6XGh681GAnv66CWIjYeYK9J0xeSxKfFHfSHIGIswaWAifSGW2A6c-9kd5bsqRVrGymIOov9ZBdYpdxHbYg6hqFSpfsq0EXpTb1nJF3KNwr_IZXQiVoNrSe7XjNe1x2en23TPQdk16trsQoEqeOZMDzm6vJR1KyVpV1z-qEaA_1THWL3UDJADTSrEnU2Kb7zRpMIm-k9Emr3HaCxXpSgYxv5QEkjzPQcfnezJU1lb6Z-0gb__oS-KRfIEnedhKIuuV7kYeUOSAwpwOw_kqZABNdq-aNKJ3anmy-NQW1DP_YnYr8mwcFCoOTEo_3x7DrQh6PcgPnpD2c3BXkTbpZQZPMcmDzhSIpS2PGc3V92SvuPGL-sO5DNgDBH6lXVSKoKK-53K5p3ARiDRyVo5b7_TFW_sgbBxh419wNo8Gkf0gFrmPmNFQ-c5FFePBtIwRRR5nWFgqQlpqlRm318TntrYwY-oqPGnaYULFIslmwYdcwuRfshXxVsUh3BxcKhB-WqNGWbPQKdpiylfBWGa9fKOMdfY3OA-bbsEMsSaYK-1p-rW7Yo6BCrquBRT2f0k9knkT_r2J399-49m8KrGjYymBQwyunNohzcg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_041bd2209bcef90b016abfce93f12c87d1ba692e1880daa9a1",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 503,
+   "completion_tokens": 105,
+   "total_tokens": 608,
+   "cost": 0.01028,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01028,
+    "upstream_inference_prompt_cost": 0.00503,
+    "upstream_inference_completions_cost": 0.00525
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 62,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

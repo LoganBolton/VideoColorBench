@@ -1,0 +1,21 @@
+{
+  "slug": "capricorn-one-1978",
+  "title": "Capricorn One",
+  "artist": null,
+  "year": 1978,
+  "label": "Capricorn One (1978)",
+  "hex": "#393533",
+  "rgb": [
+    57,
+    53,
+    51
+  ],
+  "frames_sampled": 7404,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "fMJwIeXYE0g",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

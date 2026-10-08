@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907360-zGSdMCT33RPEgDS4yFWK",
+  "object": "chat.completion",
+  "created": 1790907360,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a guess based on the overall palette. The barcode is very dark from start to finish, with muted blue-gray, brown and black tones and almost no bright or saturated stretches. That fits the gothic, night-heavy look of *I, Frankenstein* better than the other options, most of which have more daylight or warmer scenes. *Southpaw* is also fairly dark, so it's a possible alternative.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "The dark, desaturated blue-gray-brown palette with gothic undertones points strongly toward I, Frankenstein, which has that distinctive moody blue/orange contrast throughout. I'll go with that guess.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The dark, desaturated blue-gray-brown palette with gothic undertones points strongly toward I, Frankenstein, which has that distinctive moody blue/orange contrast throughout. I'll go with that guess.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS4wYKEAgSGAI4AUIIdGhpbmtpbmcSDJGmnHXBzuiwlBFl0hoMwWZ6+5KODrlIifEcIjBbDVMiC819aM7NQfYS3M2SZw1XVPhy2FJVMWNGaXsZjviYRjzrfSLPUTTKuiRgcKgqgAY+/TscQTJUgpPWgpirT61mDtzABkizVWQbcIM5GEkicnzpcgy/5dcD4dXjVKabLm7Y80A0W3BMibDIYrxJ0VLQrcepdAMNgciDB3GKXHKkCbSagYj8prRguGmT0uGVZph27ONForwAFOcHzYY7rWAzhtGmpa31kvWliJyVSCPTX6jKcannItGCDbdpewnkIQ1dQEmIHKzbF4eFb7l0SI2WIcOZ++tANyofOf1Gkk5v6jGl1z4U2SY3t4pGv0Qzh+dQdGEe7MUn6024N/lE0rA+t14r/08BhMxNgqnzI+BOCai0OO+GTCBEiZZLfukd4Xc9kxERCturVwY3LfLVrb/RAgUEJfWUwvUischMpLZU1Loe9FO5qoBIBD0/PiqhYNNzFslyGAZxrTWWML+K5V2amW+wjTOylfgmTXN4XAaQbbr7TEisty2C1YJYWkjcQvZl+9e9y4rBTnclPZjStOIfUBYm7mS4XZNqg0Lg8dGWdEEDcX0pkxJyj+DdTFSuX9Whjw+Y+MiA+ea+AMoqiADY0j6bC93NgGzd9sSDvmxG+Am+drB2lDVEpJ8QxMqRY3B9xFTP4O4MU3poHp42DNvKdgOH9eGj/qVP+hm++E5WbHksQYuEymeEOn12T8RCsF87Jj9/TLtf5qNj+2WZA8c1XGqFHceNNZkoRcc40NH+bYUPCkg9Z97D0GLtX+yfvCWOh6lob3owlJgdkexgnrHMQK6FEmcNWz06dKIrrGphBJUZ2aNHNdELSsvnXwANeDRjuY9yYAqyonJZjib8ae2W//F6pQO4L37Y9rZvb4iNU3BImnAmKbyefOF6aKX/UHIqbr7r6GIWwXu2RML6Oqbf6ghkyRudYs91Q9jqKSLAAbZHAR0Xmn8i1T6SJd3+g8Vr0sDbEh/tKkKa/ybWUXxyXYAtHQdmjOw/KSSliD+dq2lH0YjkoYzYtZeiO2rIYUeQM1s4pTZL5oOM+yJK/Q+Ma6+XUaPV779WA7MVrc3m3oIdi1UA+ciZO+uP6m7GU3UYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 523,
+   "completion_tokens": 249,
+   "total_tokens": 772,
+   "cost": 0.007072,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.007072,
+    "upstream_inference_prompt_cost": 0.002092,
+    "upstream_inference_completions_cost": 0.00498
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 113,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

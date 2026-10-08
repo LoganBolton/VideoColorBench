@@ -1,0 +1,14 @@
+[
+  {
+    "model": "opencode:openrouter/z-ai/glm-5.3-flash",
+    "n": 91,
+    "correct": 46,
+    "accuracy": 0.5054945054945055,
+    "errors": 14,
+    "unparsed": 0,
+    "leaks": 3,
+    "downloads": 28,
+    "cost_usd": 4.7191,
+    "dropped": 0
+  }
+]

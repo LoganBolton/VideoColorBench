@@ -1,0 +1,21 @@
+{
+  "slug": "the-illusionist-2006",
+  "title": "The Illusionist",
+  "artist": null,
+  "year": 2006,
+  "label": "The Illusionist (2006)",
+  "hex": "#24180C",
+  "rgb": [
+    36,
+    24,
+    12
+  ],
+  "frames_sampled": 6549,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "TWMrLsmoPM8",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

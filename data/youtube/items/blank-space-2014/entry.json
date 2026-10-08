@@ -1,0 +1,21 @@
+{
+  "slug": "blank-space-2014",
+  "title": "Blank Space",
+  "artist": "Taylor Swift",
+  "year": 2014,
+  "label": "Taylor Swift - Blank Space (2014)",
+  "hex": "#494745",
+  "rgb": [
+    73,
+    71,
+    69
+  ],
+  "frames_sampled": 272,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "e-ORhEE9VVg",
+    "youtube_title": "Taylor Swift - Blank Space",
+    "channel": "Taylor Swift",
+    "via": "piped:https://api.piped.private.coffee"
+  }
+}

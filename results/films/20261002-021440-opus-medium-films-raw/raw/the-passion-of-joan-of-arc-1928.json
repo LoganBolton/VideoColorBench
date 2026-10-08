@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907280-T4ArNVwWIDbORcq3iRul",
+  "object": "chat.completion",
+  "created": 1790907280,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **The Passion of Joan of Arc (1928)**, though this is a judgment call rather than a confirmed match.\n\n- **Black-and-white film:** The barcode has no color, which rules out *Black Narcissus*, *I, Frankenstein* and *American Animals*.\n- **Very fast editing:** The many thin, rapidly alternating stripes suggest short shots. That fits the silent-era montage style of *Joan of Arc* or *Battleship Potemkin*.\n- **Overall brightness:** The tone is mid-to-light gray. That suits *Joan of Arc*'s many close-ups against pale walls better than darker films like *Metropolis*.\n- **Brighter toward the end:** This matches *Joan of Arc*'s outdoor burning scene under a white sky. *Potemkin*'s final act opens at night, which would likely darken the end of the barcode.\n\nAnswer: F",
+     "refusal": null,
+     "reasoning": "I'm narrowing down black-and-white film candidates like Metropolis, Potemkin, and The Passion of Joan of Arc, ruling out color films. The barcode's brightness and rapid cutting pattern seem to match Joan of Arc's white backgrounds and close-up heavy editing, with the image growing brighter toward the end.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm narrowing down black-and-white film candidates like Metropolis, Potemkin, and The Passion of Joan of Arc, ruling out color films. The barcode's brightness and rapid cutting pattern seem to match Joan of Arc's white backgrounds and close-up heavy editing, with the image growing brighter toward the end.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 540,
+   "completion_tokens": 784,
+   "total_tokens": 1324,
+   "cost": 0.01784,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01784,
+    "upstream_inference_prompt_cost": 0.00216,
+    "upstream_inference_completions_cost": 0.01568
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 482,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

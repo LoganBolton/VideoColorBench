@@ -1,0 +1,21 @@
+{
+  "slug": "just-the-way-you-are-2010",
+  "title": "Just the Way You Are",
+  "artist": "Bruno Mars",
+  "year": 2010,
+  "label": "Bruno Mars - Just the Way You Are (2010)",
+  "hex": "#897366",
+  "rgb": [
+    137,
+    115,
+    102
+  ],
+  "frames_sampled": 237,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "LjhCEhWiKXk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

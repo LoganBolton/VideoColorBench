@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907158-fkroujt0Zo9a356MmLWR",
+  "object": "chat.completion",
+  "created": 1790907158,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *Trespass* (2011).\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Analyzing visual elements**\n\nI need to deduce the barcode, focusing on predominantly dark earthy greens and browns, with only a bit of bright blue appearing at around 70%. Considering the Transsiberian snow, it might be lighter, while side effects lean towards a lighter clinical feel. The color scheme seems to present contrasting elements, like dark greens and browns, with a warm atmosphere at night. The subdued tones in the image do affect my choices, especially with the film \"Trespass\" having a similar low-light, blue and brown dynamic.**Interpreting color palettes**\n\nI\u2019m looking at the credits, noting that around 85-95% warm colors lead into very dark credits at 97%. \"Trespass\" has about 8% in black, with the last 3% completely dark. \"Before Devil\" seems to have only 5% credits, focusing on those final moments. I\u2019m considering using overall stripe colors from the cinematic palette for \"Rampart,\" which is a desaturated mix of green, brown, and orange. The color shifts are also hinting at a nonlinear timeline for \"Before Devil.\" Guessing \"Trespass\" might be my best bet!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual elements**\n\nI need to deduce the barcode, focusing on predominantly dark earthy greens and browns, with only a bit of bright blue appearing at around 70%. Considering the Transsiberian snow, it might be lighter, while side effects lean towards a lighter clinical feel. The color scheme seems to present contrasting elements, like dark greens and browns, with a warm atmosphere at night. The subdued tones in the image do affect my choices, especially with the film \"Trespass\" having a similar low-light, blue and brown dynamic.**Interpreting color palettes**\n\nI\u2019m looking at the credits, noting that around 85-95% warm colors lead into very dark credits at 97%. \"Trespass\" has about 8% in black, with the last 3% completely dark. \"Before Devil\" seems to have only 5% credits, focusing on those final moments. I\u2019m considering using overall stripe colors from the cinematic palette for \"Rampart,\" which is a desaturated mix of green, brown, and orange. The color shifts are also hinting at a nonlinear timeline for \"Before Devil.\" Guessing \"Trespass\" might be my best bet!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxMlwDzJNCRXzP5aTOOHiIRWSS5cQ5DYZq9fJi_neDywdoR1IqJNa9vYoYavcaXZzphCTcgBCyzisDof5k1mHKuRVx8sQWrk5IJuLXoSXDJ2WYlisaUtxKVWVmk4aW7NDP7lYY3Cljg7uXohEJ2dtEegKQHVYszn9ijvgRy4laCVaxdISIumItmBv0AtO3D_V9s91kSzjBFHDctHmA9MX7HRfhKRbT0dDTIHPMx718DFAuZkUcj-3kD1odntdIWDWPr7KfyUOaunOzvTqGcXcEPClSmFqadbnhHNLx8sxba3oEBntYXoWeLVjWfLKFpqhPPUb5AYn9QKdzUeyFCwkkVoM95suem5v_GKsXofF1rYZkRvmsl6ZVY62ZP_a06iAllOdkbXRyi8GuA6IImfn1INl3wy64mw-N9cTCrnOXWNp54tBgCErk6C8Hv2RnVL2Zns_Z4grd5iUhXehA6Es8OTui9YpBNqLuyIh6_QhPzsgZEbpXaJIcrpnczDga40wpzDOr5IbsOVg3ImQZwiSWS0AlYdcdbbnUUflHwYlYfzbNiCVSEj68yP11I31pI2FZYwoA5a3gR8orOuR_-v088nyDW5hH64iiA4WdRVys-vTU_TR-RmV3-ruRARf5iBIVUVIOnyNFwiAM3z5rOOlPXe2dD_0vwORzgihg8JknsEIaXFKmNByfdIIWRlipjZyeXOn-3pGMt0xA30DnyHE4ONq5VACgekHoENhC7_Rr0X4ZleluyqqvflLFW2z_WYyHIixtFfmXyO_Pcmxt6NAKAHBtuXjpErawXNgMcQ20hdZ5qst3qIvIkGVAxrz1qKiQQzdvVr2BH-kbnkI-QYsq3sSGMk6EX82uFX_b_DI7M-B4rsq6VatSHPu9e4fCgbyRl60MV-F4tP4sKZFFrPKtM6Q83gx7wpKW6VZRdd51-7MEVMSYK6xVpYXpNhF7fkXRFiuk09QECVytIx9lhDcEzsKCk8W2lwj1ql9p56-pJu_J4u57XyuqqY5dyN07QAm6CTBx8-aWOBATNRefxIrRKkswVQBZlxLnBY_RBf9R2LE6b5QZhj1K1Y29T7SjRDPis_hgYXpLPCxnNf4dl3bNpCochz1qR1MZqGxD-nG_5iuOG-ifwhBtg5IYwssPKI56s_uJVD6SY1GUrcahTi2ii3eR0qA2BQyl-7UfjAd0BcTMH6aNI82-BpxCM7yKDQf6iMRQBp11dcC5ktT56G1UenaabD5PzEVPEN-qMAq9V6-pJCJL2rSIeOc82CGxzx-B96FeDAVR_V0XBNE-kJa4n9BorhwhGKNjplsdga0cAOupi877EwQuSDSuFZwQ8rOuHzuKNtJHX6ZaBFzvego3oa_6qLzmzR_ujVKrGGQJnu3LwS6E6grMDuBwL4G7UZWRzkjRmtym_zxEVqxl4to2yJKKRG7VQmj5FYTjMa3tBVvE8sqLVJ4wV7Kj6QtU7g7CFWTll6stzH3tjWGkSyK6WC6b_D5rDJwhXqo3KdKaxnvdqpIi-BbnRaqvHA0jeLWXRATZHI4x6cg8zXofJGUzE0w-UE-NTYtes3PK4NxaB8_HGTi2LqLn_m8fGT-gRqKe9dP-r2FlkxcJ2JdYO6_GNe4cLsqz_CNw_jFJgJkmwKuLo6S5zjvzE4OXpaPOCnlmkBQ0IE4bNfdCxEoWQFdcRxE3JzYASSGFSbM6tj_tO3PFInxSQrgo5ON6IRHhimO11k1o-CV6pAUzq3a3V9ODYBnjf7QNNMqTyNnIUtzcLufWoATVUomwNFwvbbesTRWmUhfaBWqZc0B3Hs3FsxMn1JtEXIjEVD83Yk8OhiO5cNjq1AzUx7cXl1Ot2xm8AM5m7p7NHZ17L7QL0VC9Bgki95hlL8nWIPq2LUCj-3m7N1jirYCPH0flrYA-ddT_ozmuWIiSv94IDodNklFX9FbG3TOZN2dG4XL8YlorxOjXB8nzq6xT0zCLTpKt4QfG5ARHVx7kgC9CxwgHSlG8i5LsEGWzpVFyLHY7KnrxNeH9b3yZOZQTz20NkBw9tjGIgq4OKpfp7wUlRm0FGPDhKf7PB0QA_Npna0w2URwICG8eKXKV_o3wlL_lt687Vit-AS51o0qp9eYZXz29ZGivjo9Ot79VHmh2RdsWfq8fiJowllFvfcFU13gT7nWbFS2sF-tgMp3BkgtOgFluAPjmbRgnEYLuNjc1wOiDqm5HVVBvPitmxHqz4KpjN4PEi1s3mV7y-yrOgxn1_fKX9Y9itC07yz9cxU2iStflbzI1nD-7FJWWId5oCy5LcfPpuaNr-cjRKi17qtWEKt6YYDWOaLH7EwUs0SeQIll_dfWz-vEMm4H33WKmWIUQiYDPtceq-OxHJBOrME454QesrgOJ1p8qL9UzkdsGtj4pHxkpVA7bmRMbkmBwLMTMuyYTzcuVkx4xTeeRoKBZ6wwi0CHe3U-v4VntBWXkJVKtehWKBj-nemq8GpZ2lNheepuJ6XpjEqqM23ZbeeE0as9ehOnwJgGZts-g8MpZTLpM0trwzzTFgxKgpRtF7teKJzbKutntD5sjalHTXRzMywMZGkJJvfJcHZ5Q83CWtmhCMqrgSfqrBIvxq8lbNeC-Gn1IxD5O2axa2OkBwg1STDz6V1qfFs1cpxf_fX_fP46pZNi8CTiArbogVSzeameqetY_drMjPT_oLYg8GLeX2rLmVGVAzh4XN8SPp1J-oTkcGDt1Fzz-zU1QQ-0LjfZCkwprwe9NhbCvnU__CJwsB5YCDruEJsm2mrOPq_XCeroHWuqni5Hc__XeNoKA74q4v0Lhv75X1Qx9ZUTVaKydK2GjguiyOCGiF0bxNZxuFqMhepeSqrwuPVYUPRqpvBDdqXbrCCIIPexFCTWf3VEnLVwEltLdjBVI6IHJGM9n82rlgxlgym_7qqHrxkPtvrPfjqydK2z7C5OQ64zrk8rwoNLksUNVbygFSesjWeLAZdPRdzYAGBKbjqifPL-vyNxCJq3tJMW2Fm_7FBCwlpG1bhMvxctLsjeJMUm9Ihv66qPex2AYCftLa_5ur0UkelH7VWy1z0bTLOV4RIBqfaliOaUuI9u6DnIIgK0vsUuaTJ67w3u3wjfD5kv_zN-Vl4KaakZXn1jAtqz6-2GfVd9XEBFXKIltvruW7k2oLTTl1JNFySGH46cnoSP8gon9kevEeD1hfMHhrCC6vJninXNI1PiW51kfFB36o4ZKkXe4KDLwlnWfpua23jZW35OeQKHQbd3p7iuvHZZ-SDiRNKC1Ex7lC6SZvpyTgW3NiLjBAZQJGMMW-xzF6Ai3jQe2_0xJWf-ibSIcOR8nEKuAooIgbf50UHuoikA0VdNiQWhzToMgTFNMMCWCb2R6qMd3nfxTw_2920O1LVLNTquFo3qYKSVYbwDmtQHcnXbWUnYGOBKVrMAi4qk63RBxzTsE_18YZwMT2fVopeWjc_.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ebe07f8ef2b184c016abf131ac43487d19760202960cf6465",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 436,
+   "completion_tokens": 358,
+   "total_tokens": 794,
+   "cost": 0.004452,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004452,
+    "upstream_inference_prompt_cost": 0.000872,
+    "upstream_inference_completions_cost": 0.00358
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 337,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

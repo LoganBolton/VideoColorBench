@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894395-zqrjm6DDJ4MuljDVI5xJ",
+  "object": "chat.completion",
+  "created": 1790894395,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **John Legend's \"All of Me\"**, though I'm not certain.\n\n- **Why it fits:** Almost every stripe is a shade of gray, so the video is shot almost entirely in black and white. The \"All of Me\" video is a black-and-white film of John Legend and Chrissy Teigen. Its mid-gray tones match the barcode.\n- **Main alternative:** Sia's \"Cheap Thrills\" video also uses black-and-white footage, so it is a plausible second choice.\n- **Unexplained detail:** I can't account for the single blue stripe near the end. It may be an end card or logo.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "I'm thinking through grayscale music videos\u2014John Legend's \"All of Me\" is black and white featuring Chrissy Teigen, and Sia's \"Cheap Thrills\" lyric video also uses a black and white aesthetic with silhouetted dancers.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm thinking through grayscale music videos\u2014John Legend's \"All of Me\" is black and white featuring Chrissy Teigen, and Sia's \"Cheap Thrills\" lyric video also uses a black and white aesthetic with silhouetted dancers.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQShwoKEAgSGAI4AUIIdGhpbmtpbmcSDE/sfCrVsMVS2MaJOBoM0zyLba0nUDg+yVK+IjDyI8pEM7nQ79J0WSBpqrmLDeMYabh5VhOYlWohc5RJ8L+Witng8Yfefz/U2avWMYsqpAmljugFxM3Mt/KwsaxTr50LO/aIGoga0aFriwKzwmVdDpyJglSTUNg/mw+ATrXD2dWoZNrkM285MgUJzoxhbRabIZhBKXmNXhGz/3UG+H0sZjZSmYt9iy/t+0idSE2OYJsFyI53NtRU78fEydkil4ZwlhhfDG/Gr0RBqxBQyJMcc12Yw8ZSoPLqfpZRILcHk76k4Q1tnNUDHzjKHzIshGZr+nmMujhicuCo3sEXUUUua98YORqexX9Ef0PhBWBYcZsI+U23N9NNSVnX7sFwXX4+cWYnZRKIUg6iacMgY+kqp3luxObO1CTigSMfGgFbpErji6juZXmpXkb14bIVQiVi7gGura1H82hKWznlE8j4+B/+DwTAS71wqHjpMPGScB2BeWqugSCG7atOxYl6q+GqGMWf/BnNojdRwFwWqoTZwbdLW0eLoBuHrnm2FCKxmanzV9wQZYORL2xE9r1+dgRAMdgOFu150XJZk+5XOsiw+RqKq87hGDvyY+4fKPvXHOwbXqasgRPLern9vRNFnkhBdnxE+It269seepk8uC6CL184mCoObZrI4a9BQLbM9J1RqfeKQ99NaxVyhsqsOSptslZfODVj0PUEUP2LMYP5mPUpbH5fI3Hf9XCHsWN7EoIlsE9aZVDiTiYqH6XNkH+34xz/ZYBaKKPiZm0oaMmtl1NcGAyVEjLj9a7TxjoF89lKjM/Xz579PfAU/DGJKEUlrvYpNgMdtX2/QdS1jTcKaQhPgsY/cyKksw1vpdEbXohL0Ob8d/V3njdrUwS8TabFMlVaznvLE+187+aKVd6mykPOKNqE+n8ZvlYBttYjqB26tYmZze2lY07hzsHed+pRLAW2YO+frmt8oOfGqS7kuKuK/qunzZUSZFBWq1zVzFdD6haVmltISYuqx6m3CvIHcJulVaGtkzMBP548XHw5hU1UCPm4tdKH7blBTiyqD0brwX/K4gUT3lnwc/BYgZ7pC+evggxuYT7eOmL7DWAzYe4qANAyBlSHL0NfCFRgE6QxQbCHpMB//Oe49/q6gTvho5QBFfm7qx39bPDQoJCjw+x/Bpt13PQh8s1HpFpY6cGs43F6nTXnY6kfrkaftD609elNqro5lF2rqhQpB+fZ6sU6k9GqP3XhLBzNmrradU6xRnquhI6dXo915fDipiUJuT2mZrdMFS8Us/PSy6ao3W6nwC3xgPWVNw6WgSyaffbbqcknzQD9EK9jpc0+HFGh2YYZJ6vHmmEWGaGBBciut+tiCeDKUHgho5AcLEnJiw8oq2Jo1Rt91fN8tPofsB2qYPDxkwjzB9hSLu1+HS/tmc3nlLTVe9EeaQ6rnS6a77InHMRFR95WNeZ2yR/LnIIybfwBlasYLi/FtjY82UR9UGrEoaB/xhL0CrVwc4p5Jun1X8AXtRoOSpHfYmJ/vGtFQxl7xvHn5EGnpyQnJf/CoECoyiT/2iX4jsoVeOv1bSxTmocL+BhS9/HH3+hPw8xF5UYI1czp2f2mi7c7khnAI/GLiedK5spDGZRuBbkxcfaD0FwVATsyssIwML77S6MiwQzdSiF4s5DCBFrxTQFAk6+WAyMYAQ==.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 597,
+   "completion_tokens": 473,
+   "total_tokens": 1070,
+   "cost": 0.011848,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011848,
+    "upstream_inference_prompt_cost": 0.002388,
+    "upstream_inference_completions_cost": 0.00946
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 265,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

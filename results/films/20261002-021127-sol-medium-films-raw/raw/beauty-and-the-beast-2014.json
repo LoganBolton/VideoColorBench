@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907212-1oxcn3NgDWdpNpLfyTcW",
+  "object": "chat.completion",
+  "created": 1790907212,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is *I, Frankenstein* (2014), given the consistently dark blue and brown palette.\n\nAnswer: A",
+     "refusal": null,
+     "reasoning": "**Considering color schemes for movies**\n\nI\u2019m working on color palettes for dark movies like Frankenstein and Beauty and the Beast. Frankenstein has a consistently dark mix of brown, blue, and teal, with a few brighter shades towards 95%, featuring action-based elements. In contrast, Beauty and the Beast uses lush, brighter colors, like gold and green. The knight cups have varied brighter exteriors, while the infiltrator leans on browns but still has bright elements. I'm really aiming for a concise summary here!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering color schemes for movies**\n\nI\u2019m working on color palettes for dark movies like Frankenstein and Beauty and the Beast. Frankenstein has a consistently dark mix of brown, blue, and teal, with a few brighter shades towards 95%, featuring action-based elements. In contrast, Beauty and the Beast uses lush, brighter colors, like gold and green. The knight cups have varied brighter exteriors, while the infiltrator leans on browns but still has bright elements. I'm really aiming for a concise summary here!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNVhD9_jhbts9BsGkrPTHo80najLQ7yYfalGxvWNMw98PeZbAKXGDGJ22Bne31IiutioTTIWhOVjHLkS_-4VfvFOwDUcHffAN-DTTBXxGp7cnPspvjFNfRdMQmVzh1icV3loy5PpaGlvuzo7Gu6guXbTN7-fLgXYe-_HYHaj4D5uVgNj-veXcZ64eEFlkUvaOMDNlwAzXaAwrlf0ELLWCuf8u5c0bYTpUa_PBVVunRMBDdYclQ_SoIF8byXQKXyeQySQFU2QDs2srFHLuzsisqOghXqE5TlTYmUv90fQL_PJrntxtWM_WJRx72S6woRPbQlrW3sdQ-h7W7nMRQfyJHUAf_BD-F86EFytTyzPwzUsf54Hh0XiAy4r38ZrGtGFserM208kGnzz8A0O84q_IB3H-h8yvzPDfA_kwStE-R-3ii8EaM-6hDl-K51cvQyNXUq6ZZ95v0ZzTo05EpSIyInK9jJlaUsP_VPF_gJ8SCv7oQ8Rv2ur3JA7y-M-eCaflSB4c0LDFWP7ZGuRjhAPjFFs7uk7wwxuo06f4xVg63v11IOv9xAwF17kW992vwbQ6oKER0REK3OPIUdCvOel9mVO99EZ1rX4S_zeI9BsJxBQw2q4y2p5HcsckkGLqF2W-9ToGKYkGCQtTtMG1UAOQGG7PdDNpCdWJTYvYjEGrXIPgS_fYvPiuJaeAGgMmBxXCiMfSnZTUL_HBtyZDaqstFq6DR3ri0QIAsvFD-C8JdDiE5swsAQVOmL0BJeB1HEF0Os7tDOJzqGUxJ8CxNoN2cgBWuq5izxJZoh6FBnitzGPzmad44BGNsG7GS1AHK9_-JC5ket8dHmHdvOSNOnljcchZ2enBXCVV8uxJis6YpMdhfA0yJWsJyHz_2yGDPqnUzzFM2YVuuq4RWTU4WQ6AqIeO-tukeIPgDpb1GPkDr4TeTkwHHTQZKi4fYUMvxVRfDVjExpb2zziH4BMqK5Xf5umInY3dOidV55uKQK8zbbS6uiwguCLaHpAxUScKvhPN6j10mUZ1LQQmXhC-OkwQ-kPuwN4CkfEbzud53S4fYuAwkhWz_II2xGOowmACNli07Gt1K1n8JwSLS8lE6P5a835uWi2Va7KRYm3NMMXr9iOuTuIeiFgC4by-qCon2hYotEB-JnDUhelty7wwipngj0YvG8GGX61kyt9DIsvxusR6kN8CeJlyI0S21Y0lNBqxW43dbXJVrq1z2D7ELJW45FmqYBzKXQjO_-9nd-FGxETJQcjf1a38yOWzWN9kcTyifKMA4NNCZuEZnfGW1f8tNf9Kd7Ti9f3QUpHVo0CiKD3wbiwALheXwO8VKuAbUdZcoxsSbvfOko1ufJ1ef52Hapu0KRV9ZmDk--n1HKMJCo9KslJ11V9M0I0RCvdyEOrj67ApJoqXhkFRAY-vKJ5QTEUMR7v_bCZQtwv71tdJPxi4iBiKpd_6G9-gKleEbS0-aWNl2UpNoZMQw4pfKCvQ1C1T1mLbNWSQmAGtLZbqIB76X-bBj9nZ-Bdi48l68oIm34PpHl79ensVYxfh8nNl4dV4XMl4RoMB-wLou9T855cEl1mfNhRqOoHbyeF_FDW683QIQEBFxK8uzJB-RL70SMJOW08Nh_vI2OaJVtLGUWK8HXaBBkU1txplZHmINxto2uWng_7haDMNYe7vZhth6rO8adJEASwFrMpuFictWqffhWRA0LjYn86z7hI-XyUKIbU6WJ2HqfMcrIG0hjypxHKSIUlQOw0DoAmlTEoz5-qiBJuXNyqINahFs6zmt37gQYmwHekyWd_lOMMfknT2mbyejAO_Ozg18467Cv7MG81aab021d2TyjSxl_qPcFnkSIT0gwl0wYusHCPaDe7SWJFQ==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_074f21c53bf8ae8c016abf1351d34887d1a90a8907c1f9e78c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 428,
+   "completion_tokens": 107,
+   "total_tokens": 535,
+   "cost": 0.001926,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001926,
+    "upstream_inference_prompt_cost": 0.000856,
+    "upstream_inference_completions_cost": 0.00107
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 76,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

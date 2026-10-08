@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894449-9NfRza2eqUsA1m6ri08g",
+  "object": "chat.completion",
+  "created": 1790894449,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This is a best guess from the colour pattern. I'm not certain of it, and Ed Sheeran's \"Thinking Out Loud\" is a close alternative.\n\nThe strip is dark throughout. It runs from a muted green at the start, through purple and red tones in the middle, to near-black, and then to dim brownish-amber at the end. That fits a video shot in a dim space with coloured lighting. OneRepublic's \"Counting Stars\" is set largely in a dark basement under a church revival, so it seems the closest match.\n\nThe bright, colourful videos are unlikely. These include \"Shake It Off\", \"Uptown Funk\", \"Sugar\", \"Sorry\", \"Baby\" and the snowy \"Perfect\". \"Hello\" is a possible dark candidate, but it is mostly uniform sepia rather than having these purple and red bands.\n\nAnswer: D",
+     "refusal": null,
+     "reasoning": "I'm trying to recall the color palette and lighting of specific music videos\u2014Counting Stars with its dark basement/church revival scenes, Adele's Hello with its sepia tones, and Thinking Out Loud with its dim purple-blue lit dance studio\u2014to match against the green, purple/red, black, brownish sequence described.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm trying to recall the color palette and lighting of specific music videos\u2014Counting Stars with its dark basement/church revival scenes, Adele's Hello with its sepia tones, and Thinking Out Loud with its dim purple-blue lit dance studio\u2014to match against the green, purple/red, black, brownish sequence described.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "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.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 617,
+   "completion_tokens": 651,
+   "total_tokens": 1268,
+   "cost": 0.015488,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.015488,
+    "upstream_inference_prompt_cost": 0.002468,
+    "upstream_inference_completions_cost": 0.01302
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 375,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

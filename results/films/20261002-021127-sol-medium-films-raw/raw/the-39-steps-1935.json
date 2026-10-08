@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907087-cqljtV992mq0ma4xnmKS",
+  "object": "chat.completion",
+  "created": 1790907087,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Metropolis (1927)**, given the consistently dark grayscale palette and shifts between lighter and shadow-heavy sequences.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLaeNB1Lnif3fyab0eWwjtLK_smKJNkQKFsYJGrSE_mZrqjFMMLDrF0l6cU7AAF0Qt1fQTRCX2H4S2lRyiUzGbzG-NtZ-LktRM5otED5azsIVbBkNmRy43t7X970bOccbjFEX-UwcozKa4Jbkmdij-g6WpeTSFa0RnY98-TSr-khV8uDYLupT-xPPkDCKZq413E-CgKp73juIyLdCzMAS40gRQhlqkpFV9R3XVbgtqv_eZWZbHDd50GK5m1-zqW_7q4W-5ShI1YK2krHIqF5GkVC7IYJsHVVYCDS_zpEdNok1wWjGvQoB9A62gifbmO1Xb3XdLf5uQd0XgH3tTEmez_o6l9OKpk3XPnTKTcXBl6MSc7rfrp0miEZKLhrsskFCZsGgD-weZxDuyPXHRQGgV9lMYnaYvoJW6_sfhXtbsYZBq_mq7xucsp-iPdKVdjbqbqSwooaL6czNrOTXG_Y4EwySvhfEo0Y1Tr1JyQoJcQfFMZXd5lcCZ_aMRQGDJmfSqOM5zbvPj3aIJw8uYgDDgrvghFGOsG5Ki3sEgXsI90cELcpCpu0wbhRT8y83chi9XUZtfjsqrz911bLw02zF7ocd4d2RYUJ0GHAjIsZwZzLVx-bSKk_CATi_KQ8lGz8u_skAJulnGMn8NRMXJbKB5vOfbze8P51W8Im-KekxnWqzcISSOBEg9LfyGmwk3OEUUztqBiyvKngIEZcEoD86oymsRS36T-EDcEW6nY7J3ipZzB6swNsrM4ZuzM2xYwJZxqmOr7qg3GDn6AkSkNkQUJbBnpk1J1LfVTi4lGtlgrxKahFctpnjWw39rh0-f6QL-yfYMfrMC8p2PUGA_DHlR92_3WUgY3iRXym67GFocnKEMSNXUrV9AVJV71gUGYkTdkvIn8imUHWW_rU825ve_1LQ-6c5LID9zstTuxy3hoCuRRwt7BCYoCiZeTt59rUHAmH1oRBNC8oneI_czfAMM9SiQGPMM85b41JXqdh3Mzik0GjAQLkZaeVTMjDmmhXcrNbXJWo0CZhkhq3V_dS1WwyvzdX9Zny-Tv_S0VBR7DroQWm5o6iHDThN1qozWbYQW28LyhIsv5oEiatlzOqZGvDC4yiaWhZe3ibVZudYc0XplS5Bi7UiNGq2T1LyEY-uC0_DnXUIZRT-bQP5w18TLFJAawsphe73xNbDg0degu3FcqEryc_IirIgi7TltIGbNxhfgEjPH_eVHHR-MQEYsDixnLyWOR0HLog-5BKZoUasoO3AuraVrrR4GeG-heZAKFP0h9u05CAWu6QfcQDd1K2WqhKNKh58YSOnbpXo-vDempjiJyaV9GK58BvP8Ts48omHM4vduX5Husy7MAUfcTPXsxUgH7JOyeQb8t5b_vdCPEjCCHHZQriPE8HRELmOLdGJvgh6-7jdvOLzv-BuSOqhGEyVrPQbSsYqWzWcTJ2svKUh4oco4QB4vvOjRs8hx6TJgeKHLRAkCY8Wrvxz9DPYiHXa8JWK2L39n4iGB0sL0kD39_FMMqDGWOJ2SiBLFOaY7rdiA3rXwmJnFU6DXu767crXdy5Yc1lpXOMKnWb8_ahEApkqQYoU7_gQBZ2HIVfT6ieDVkx9thqBdW7s83wZoYsYX39RkaCyxDfdHtqcUzI-4gyxNbYquZBFvce8vufqHY1P1YNS_FJbcxXLDS12NpJXl_EZNBQ5PgioFIlqw043z7nI97bv7_eMD-zXqoIR_5fSZdJ4fPXtlKIIifu8l19-fch8hqutj04HchqAo3qg9u-WNUeK0QJacnOJkl9VlkureGgZPDlJLEz-IXZn7rUPL8SNwSx0FVOlW3T0gzrW8dJt4gKfIs_IHSHL_-rJUyi5x8-84AC1nLeggsrPUClELv7AC-kq-ycwBtyJtOZenkh0xJeHQBGTKhyJ2g0-3cicXuhS6SCJ4iZaWNRHM0_ZgkKTho_QNtBbrbnuE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0b0aeedff06731f8016abf12d54b0087d1a31d171bf221df58",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 444,
+   "completion_tokens": 146,
+   "total_tokens": 590,
+   "cost": 0.002348,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.002348,
+    "upstream_inference_prompt_cost": 0.000888,
+    "upstream_inference_completions_cost": 0.00146
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 110,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

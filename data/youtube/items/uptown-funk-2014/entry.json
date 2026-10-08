@@ -1,0 +1,21 @@
+{
+  "slug": "uptown-funk-2014",
+  "title": "Uptown Funk",
+  "artist": "Mark Ronson ft. Bruno Mars",
+  "year": 2014,
+  "label": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+  "hex": "#4C444A",
+  "rgb": [
+    76,
+    68,
+    74
+  ],
+  "frames_sampled": 270,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "OPf0YbXqDm0",
+    "youtube_title": "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars",
+    "channel": "Mark Ronson",
+    "via": "yt-dlp"
+  }
+}

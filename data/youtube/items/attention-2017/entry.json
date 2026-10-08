@@ -1,0 +1,21 @@
+{
+  "slug": "attention-2017",
+  "title": "Attention",
+  "artist": "Charlie Puth",
+  "year": 2017,
+  "label": "Charlie Puth - Attention (2017)",
+  "hex": "#2C2E33",
+  "rgb": [
+    44,
+    46,
+    51
+  ],
+  "frames_sampled": 232,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "nfs8NYg7yQM",
+    "youtube_title": "Charlie Puth - Attention [Official Video]",
+    "channel": "Charlie Puth",
+    "via": "yt-dlp"
+  }
+}

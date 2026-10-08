@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894295-ddBTzP6PyNFF0Kz0IXfV",
+  "object": "chat.completion",
+  "created": 1790894295,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Linkin Park - Numb (2003).\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Assessing color palettes**\n\nI\u2019m analyzing the colors like dark grey, brown, and muted red, likely comparing Thunder's monochrome approach to Numb's grayscale tone with some red. I notice faded, desaturated blues and reds throughout the images. For instance, there\u2019s a clear dark red in some segments, while others feature muted brown and gray tones. I'm curious about how these colors convey different moods, especially in scenes like dark churches or bright outdoor settings. Each one tells a story!**Choosing between color themes**\n\nI\u2019m noticing that Numb has a range of slate gray to browns and reds, while Rockabye features a muted dark club scene contrasted with bright exteriors. I need to decide between Numb and Faded. Numb consistently shows blue-gray environments with reddish lights in church scenes. I see that the red stripe aligns with the aggressive vibe of Numb. There's also muted red and dark blue in Believer's boxing scene, but I think Numb fits better.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Assessing color palettes**\n\nI\u2019m analyzing the colors like dark grey, brown, and muted red, likely comparing Thunder's monochrome approach to Numb's grayscale tone with some red. I notice faded, desaturated blues and reds throughout the images. For instance, there\u2019s a clear dark red in some segments, while others feature muted brown and gray tones. I'm curious about how these colors convey different moods, especially in scenes like dark churches or bright outdoor settings. Each one tells a story!**Choosing between color themes**\n\nI\u2019m noticing that Numb has a range of slate gray to browns and reds, while Rockabye features a muted dark club scene contrasted with bright exteriors. I need to decide between Numb and Faded. Numb consistently shows blue-gray environments with reddish lights in church scenes. I see that the red stripe aligns with the aggressive vibe of Numb. There's also muted red and dark blue in Believer's boxing scene, but I think Numb fits better.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDj1___ApIvOqQDeHlrKMAnzDZiz2h-mJtPvA1VeaINzTzEPA-sHsQtqVwH_vD_Ok0Haj1x8XoRRzuZ_O-Vrgg2qAqUt6njJff6AArw9qp81wYkVWkq2x2qEePHZ9uqhxpsaUvGSA44lDOkvoiR-QDd1MpXGaKxNbBwu6WuOGZYopzmYHULYo-1O8bWtFLnvoFWXx5SHeFAqaYVmKi0ux3zizH4tM-_e6pdPWJLT4L5DFwRo5I4QfGsMB2Av5Ly9t9sx7A_0CilH88DdmNNAEtKsHf_H6BMWelLT49XNhQ1atFsnYr8atyLFmnglMmaeDuk1qcrlkudfkN4LvpMXIWrScnLaTug-tomEC-Rds13S4R48LtpCrVcRd47UjEmZzUBTtZ3gLbY8KR10wuY7sJrEJc7H0MB2_tcLeZG6gZw2B4L3IOmQm4zVr3EV2R48xPU34H6nxt5Rv43kMaVDBjoCFSIv--8VC8lwulwvHVw7tIsf9G644v2D3s_9MgbCHzljXTCyh9YRcKZSpKhUcsROdLDWyHSk4BLZSLUGBgUFSSZ6uPGtABebGKx58ek5-69ETNage1RhY7_FE9vtNhcKyr9vtA9Z1_KX_ZkPah1MMngcWs8AuZZ_uT1LFZlpaW4EQDkRxeoj9q1MjYMlCO9TNInSsAQqYwcK1JMnY3oAbf9nWcwPB4F_SRiGjXIyIjeeTJwzB9cbs01JdFZDpsRwC-m14hV8iDKgl_OT3TCeOhaYKP2OnJ6nbhuVj2CqmlWkn5UmGSr_zP34w4ReWDoFXKZYgQLQFrQ_aUQZ-Q15CGe99YknzqK-eZqMBZ1ZPfrO30VVV2K60t4y8wRhAOXYZQNzwkODdFm_79A8TjpBb4gI4zhmMXiSiencTa64PDu5nbpdwI-7_zLQji4c-izGlKB2L8MQ25ICdA9ENHRCz314G2Be8XRGfNtnljwX3ubD8zQ2AnuNq7R5ZEx33h4jw1R6TuSh65jQMdhVFxxvN_YITWRR933HbkfkCY11QWfUzTi68kN-94tgUIxtLFKMmQRdMyCCuCZOazKJ4g0vuoU1zZ11biFIQ_tOV3PyXPQ5kG7zH7CImWwBNgrsitl43pbdfv7q1o7mS8y9H9v1QfwW-ob7iAwU8kICKLWnNAhj_CwAkIREZfcASECOjRySq8ZH9spLHPjQxyhbvqvegvbiZYn6-N9-nqrh4X8FnnAGwKW3e5LEECq6wU_5ilgcQ9ZdTeI2A9i7qgr8n97US7Pu6g-qeWzYEgjEUGhpCaw3NRerJKgxJe_BVI_Z8DFBIg79JZ6Z5xxz035I8QltLq7kRv3Zsir4T7RtULJKPy6P9i3YH4fgXf2jYF2JA_V7vERG5YGknzKzEDjo2h29ahMfc20RJPBmC7zbfsqlUAqPF2gjeRUYa4LNw6utC0fZ9Yx8Juglq-XfGrhiRILpLIbZ9J2tnPenLpZuObaCON6-7A20zTJ-d0TS0U7rC2mHupPrqr5U2_9RezCFfVK8yalSrzA1MXlJfKspTErCepJu91NRcPU5GFXCmR-97Gq5AR-OSELnoJp_um1s813Ruzl3YQvRVGFItmllr8a3g0z8Fnk5CVuAxVqkNcHw9fghfUCNa6eQ2Kd_vSn9edme_TUVoG7uqbCY2ZxrwBsMPegbmBu5YGmIIrErr2uXu2kpT6pztfZZnIEXFhqK3EUV8mQ_lSbDwnuKmNUfeTS4apAAUpYHzHzVPw9jV4YD2X3I5H1vFaztHPu-n4x_daXh8jh26jbtorfvYzzwiMN8r2JZ_dkXawJazKatJ4xUDqYBaxjFnuC5NOGOrE9LXiKkzCOY6TQLZhLr94Rqa3xjc7VaISZipwbaJYdJPGcui9ycWP__pdfIYVrfWxKHNK_OkclGwD8wLuR4n6ocNJ8tGcGX63cnJjYiziVNawUPRHLv9pPvjPRK11nQqjAdAAHdll5eleC2ryiP1PkLsfpkDjZRcD-yCmBU1BhFPnSF_Qi609_5nk01bd5w1RT8W4qKIKhA6fhLaeW_HQOHnjs4zqOPlA-J_JSlwI4zcE5RSx931RNxBUcWfO2Sef_ObpT8aC9Z9X0E80r-PQGMRCRgmTN82yDnBCKVScqb0ng7fGh224hOwT4BzfBkN1R0a7vb7QPTHQbAf0y4lJKS4FCYx0CJSSXC4nLD0yIZAfwneR8tsd8hsxAW3PBS_CaRutK3HupJkE-EttSw9QydIG4-AzU_2qNDCaOEJjKxeEmarq3FkS5xNmG2ktmEOzYXBDKkRNhv-ND-5wVMlzE1JtAJwzvRCMIKdTA_95Ikwdjpb-1dIeoJsjEvS98ClpVfa9wBdyyc-Arww-i4nQYgE-h5ypVlsSCJnFcifI0s9yziJc9Xh3AO3Jngw1Gw2rXCl1z-WT5zHFEwV9Wr2A2KlnEy4yg86OV2OU4EX77jGQQDwugzCUUy3uwFV41kI1CPDvciiGThg83yR5t-J-YZHJ7r1CB-J3WbPRTZBiv3NVVtIvhy7d09phS1fAMsMOcV9CryFk7188QoCIo6Xp9CsZ5Zkd2YnCV20t48hTdX01S4ySz_5zuhc7smwe6pvv6uJSWa4RWVi853YNCf3XxuUPeRcyZqJ89ddIlR9waENxUqj6DqH13MSjkVFuwQYhB0XNqNjZpi3b_2auQp8FIec918-bVSU54eOBewwKSrBnordbaJ6g-Fn8bzW3xMHqnE1f6uvDh8x7FU1VD6qv0Mw8FPnqCUEEYmWJfCVNZi6Lx_6DoGXbxDeAoMiinHpsE9ttbw8_SisnEiI8S0zAKI9qqaqxSrf-a0B53bCzidD7YUp5leut-n4Hbt_9KyPTUZrJlDZTBoHXvtMug5aeNy-5ZHssdkf-r8wYmRL1w2ObZdT8V_N8O27ZXRtRV-_8G2FewoqGC0WBCtwV1u3HQ1LKxgw_PHXyxUZP1YBBHTHLPxeHBdtny4l6wMDLsa2RzGrANHLPA745hjVUk53LGHR3feriw8FsdFTUhW-U4KfvbF2-7QIbSL0tp1YA9XOrMejCBlTrCfc5X2FfjWXBIZwF-Ml9uKeu9Kc9-Rgw8wsbhu3dTNMnPtRovYatcgvRelBsJ-b56JmOV12r86GqFCkUVLlL0Le0LWWP16USL1EsYuGWlrm-qSc46WYH3SEi_VveFPmOgKEkr0pwTxdk4AZKiDCfEJsgBr-HrcbyyqLfPFLSdtVXV89GQeNKr9eyEpqi1D4K-LcVJzfVM2cV3mGLOpVvh3CgRSp2x1iTuzLeqIYzqcEnRsqESxYm1513TDq1bwzIN9ymN-84jQoLeEmj_sADqp_9rHZNI-eJhQsKccQ1ltcYtjyWmB1dz8oOQsNECr_SYxeBNv4rBRb8D85or0H3O77ioJmCVIrj6SZluu8PrjKEJlxGnXqi0UZHyrNqYFDdzEwbz0p3y6mPcXSgPMTmisVM4czS4-96iWlyu-o--Frb0tYX--9KFw3S4wIIG4Z9OU46vJ9t_cYD-d_VkJmehAe08pq58w7qp90zUg5eeqmP0cfeLbvB4zpsLefa3FKwLW06ksdQqploqO2dgAh6nH9pgJx39ejWA2EZG4Rqy2EhW_llkG3lo3Z4X8Ew3eU_SGuOWrMYO6FuKth1Nx3VTnXy5tzoKcjlzkIiu-uAqyl9_Vb4CaPq3BUJ_8UMd_xE=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_076c9ba357ee48e8016abee0d95c5087d185a0a0ab7b7bca60",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 469,
+   "completion_tokens": 393,
+   "total_tokens": 862,
+   "cost": 0.004868,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004868,
+    "upstream_inference_prompt_cost": 0.000938,
+    "upstream_inference_completions_cost": 0.00393
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 370,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

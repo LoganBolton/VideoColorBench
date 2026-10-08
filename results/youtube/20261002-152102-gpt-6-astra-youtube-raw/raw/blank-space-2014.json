@@ -1,0 +1,79 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955062-oC2CifCEo4v8mZym1WZV",
+  "object": "chat.completion",
+  "created": 1790955062,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: G",
+     "refusal": null,
+     "reasoning": "**Examining video elements**\n\nI need to identify different stripes in a video, focusing on the nearly grayscale, muted dark brown, green, and black margins with a bright ending. I\u2019m considering options like \u201cSomeone Like You,\u201d \u201cAll of Me,\u201d or \u201cRolling in the Deep.\u201d The imagery transitions from black to gray stripes and ends in black again, with \u201cAll of Me\u201d showcasing bright wedding footage. I wonder if the chandelier's video features a muted color scheme leading to a brighter conclusion?**Analyzing video color schemes**\n\nI\u2019m noticing that for a true grayscale image, the RGB levels should be quite close, but in the center, it feels warm. In Adele's \"Rolling in the Deep,\" the colors are mostly black, gray, and tan, with a warm ending. The last part might feature a domestic violence helpline card. In \u201cTreat You Better,\u201d there\u2019s a strong message involving domestic violence. Other videos like \"Counting Stars\" and \"Shape of You\" lean toward darker and warmer tones, while some like \"Shaking It Off\" are very colorful.**Exploring video transitions**\n\nI\u2019m analyzing a caf\u00e9 scene where a final character sees their reflection and turns toward the camera before fading out. The video for \"All of Me\" has a predominantly black-and-white palette, including some naked shower scenes. The final real wedding footage is in color, creating a contrast. The ending suggests a huge gray gradient, indicating credits, while the chandelier in Sia's \"Chandelier\" ends with Maddie bowing and fading to white alongside the logo. The official video has a dance portion lasting until around 3:38 before fading to black.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Examining video elements**\n\nI need to identify different stripes in a video, focusing on the nearly grayscale, muted dark brown, green, and black margins with a bright ending. I\u2019m considering options like \u201cSomeone Like You,\u201d \u201cAll of Me,\u201d or \u201cRolling in the Deep.\u201d The imagery transitions from black to gray stripes and ends in black again, with \u201cAll of Me\u201d showcasing bright wedding footage. I wonder if the chandelier's video features a muted color scheme leading to a brighter conclusion?**Analyzing video color schemes**\n\nI\u2019m noticing that for a true grayscale image, the RGB levels should be quite close, but in the center, it feels warm. In Adele's \"Rolling in the Deep,\" the colors are mostly black, gray, and tan, with a warm ending. The last part might feature a domestic violence helpline card. In \u201cTreat You Better,\u201d there\u2019s a strong message involving domestic violence. Other videos like \"Counting Stars\" and \"Shape of You\" lean toward darker and warmer tones, while some like \"Shaking It Off\" are very colorful.**Exploring video transitions**\n\nI\u2019m analyzing a caf\u00e9 scene where a final character sees their reflection and turns toward the camera before fading out. The video for \"All of Me\" has a predominantly black-and-white palette, including some naked shower scenes. The final real wedding footage is in color, creating a contrast. The ending suggests a huge gray gradient, indicating credits, while the chandelier in Sia's \"Chandelier\" ends with Maddie bowing and fading to white alongside the logo. The official video has a dance portion lasting until around 3:38 before fading to black.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv85MBaVH_aJG5JF_8S3USTM9H8WNynIe1DqrSO21Rp4AiHuBmf3PtqS-H_vDArf9EqSmECDDK4pSITYs5uAzG-q64St8fmyHYD-wKzvqy6PNRX0matoIBlvl0fhA3-astPzpo49FDtgyvbs0o2O4-hW6UIEpjev0COOnV_CboAzLFWFhnDzZCr-vs95_9otbGY91bnual5cpSe9xwY0VqxZ9LmVIhOPBcgd2vCk_FeA6w3Avb8FcKgTNMFIjs9eQhsdQp9FBN1DjmQyNCbwUt2Ufj44ZwFgb8cJdQVslgkEYdDpWSPDfXV7dySsaum_IoLQ3ZJiTF_FIcK2W5UXlj2cv1Xi6jC8bz6WRkfXXHgSjEJJ-_420fcv6Ak4nnpuGIVgt2RNpSWBT8-SuwbpHS7mM6oVnIs_74gw1Cu3eQN1jnDR4x2f6LvRCydcEkZaF51oqs0jK759InpPf7ymCh9WntL_VM8XTpaU9Ie7LjdKUxBCto6Dpz5E68b2G6OOmKamfKzuvzykvfPBroSdjSeChqi1UKcshCrMj1Lh1tQwaLlKDueDWjAOQC1_viOe_Jc1NE7k6jMiXCYE3oyBUBb96aRNUs892VX3Rmcs5-ibAGT5Zg_7ZTQrqe3l53eWxa6ibGYfKleWta5kKWGNxDQezc9_NqOuMmPsHgzKy8LRsZb3TxaV4PqiN5ksP_mZWzmKpm2t7uNmYGxCPuKuRfhett4krB7NvppO7-eeELo3Sn6o9f842zlmf0IXvYuBSmzCPbBwGDsZPVsr5m0zM8EeEHUNAs7NKAl0WMkyDPOgT-GbsIprRIySQArpSxfLj-oVFyhNGOwOVRgZczNBqQHOPd-PCi-vdtUbMwFw9yL0KwhJyXTt_pTuPMsTxD5c1aJ6kqBubC6QABWfrgm_cn8nrWOGalgy8uvOaGtx6Y0KqroN7nlMLK5nqxguho8ki0zvr24a-WVM6JF_IfMMvJJADWB8J5GcWffYn2d3hgVCucQm5utimULk_fsq7Y-dUxN4QghFGkUX90Pd31Eff5mgB4l5gtgCVkf_cvhxVoliNL5_rAPqAVBlDWvWVOPsXjCLsb0fcf9hY3SQ8APkxJtMqNyRgu1LGTzMbOd0LL2do6Atds3wpaDFEsvbFBPiDVqLipOoLqWX7U8JCndSnRZJUH5tLzIhcZgM_ZkwDex-8BJe87ZWtPFm3Cfpw3I7-mIq78Sb4VOY5oJEJlt0RL3MRTAN9WGbcpSktBR7bwyALQ-VwmNZbKF_JHrxSVcsFatJqZeGlUgxOAyRBznEEi2EGv18UFVlYLnx5RVoKXnid6oKkOoTwKw61_lB3_nkktYjoqYc0MgEE19t5AS4CtIoKNhYNmzfplG3NY0mfwsKfHKui5vKTG6NeqRhLcGbqXQ5rd8urFB7a3m95mKujSX9cnIqoqh3FTRx3Jv24td_TWJUmz-IaObamlqreccFsBLWBtLNf8zoPJn0eHge_rUyRopAuQMyS5NLIwicmoS7CpbtJuqL6prpBTCbsO5neQPAwsmPYkkwdWB8PGF6kOSSrxM15IlFWvZKzcRi4nv_rATowSklwSxt7o8vcSFaynPOVUfT7RAnRJDBarVCbMiqq-Km-AVnzrEvYnRmHW9qxT1ATRw6Lh3NnbKJv1IXuwaso5LYT1k6Z27-0muBc5atoiLxFnQ0n20oru8Ul9L-nw6h_zs1vc57XBazNL6wFbIMmmzYMu3hL85tcz-bhobFzpNhdpTNpJwcx7GDfTYv9qrDYd_5eWyX1XHqb7s_JM-Jh5jxyyl_JwTSnVLsploNPR3m2UE1_djoNMn703YbLiu1g59H4AiV4gwbS21XZqFb4DeGduSEij4lvRPPOGDiz_542xs1ccVxnrqVA56GLhVSxbexCENs4X-DI2JtC6Hpft6U0hgfxydd6tp_icL8OoHh8AHG8g1lB0O7JJiNbMQ8MniYJHLLvXqX-lOrMOfMpr5gBGTGmZCnomoopq7lB5t7Jm8d08BwFhBaPsgqJEVQAgu7EXvqRhTMDTttnX6GJ6rHZNwx1228FnqH8yP5BwjmJEtu3aCoVAnpOWeCDZA2Zxs4H9Yi5FE44pwFAhCX66IhKgrBTgPGhDGECUY2E1CtsZ_vs10Dtrwu1tJvsM1dUXzi7kusTxwJS8HBZ95fm7agG_Lhk5Ig2Kz1GeXu6Gqe6p99SOsR49REC3c2g1VpoyZKUAM83AMDKo2SFXWx224hMWgc3Q5ty0qSaHn55hWJ0eL2S02fy5QjLZLGyUUKk8dTvjBL1f-mSlop8017oJclwxKdPNh1u05D3HFTJv0ZYlW75lqRnPDHN4Wvp4VWyl2MppKSfJfsdDfWyVUXCU4l7HPvmZwEDowQDww7W1JnudZhnz1mFrsKlW0kpeatNCvJ_QSge47NX1Fev_Hhl4Bjd38B5SSqolqnu_Bd14jrUHZW0ue2eYP4GZ-3t-16sMPki27YmezDaneMx94NHZUx2h1f55LhimljN0zk4PK2-qcORbvcJ7r4Sds38QSw01zZ8zGF-SVklWCjK9MVfGjqk5yloH-7ADDlxY0EhOpQuI6TdrB0CXKhwS55U0QPnUTPQ1KuX0BPpzMM8Dq8jiL3OmRx8IlN3YQ0dpmLFLjz3vDHV2f1YrdWidt_zls2G_SlExCXLBPQp4uCwVYR817VHHDD7HcCBgD93zUK0dkXrKF22OvXbvsjjkUznND1b5BSfWvqmllkMXTM9cyD4azZhmvIcTGiHd28AVlwRZ0muj0Fw7IQliKzqcYJ67eVxxeW6msJdPvPCbL7nMaE1-zQ7Za38an2fDbEUESQzjB2hRnLuqKWz3swyvLmuxYfEJKoOeco0utPfa9_ZnN_KoomAAqg9makuxNqI1EnhohMxlS1-tcSdm-vZXzTsxMAilNtoryKin-XFykNiCyVVLLQnFUj5xSlGAxsfwCDrI2pQkxyFG_D0u0MynQgAzd-ugoWhkTbn2dxdgC73mzH5o9ZcC1kKlDotcx6BOF81sbxM76gNrY8AQLtVTW1H-Y8TYaf-VDykvhKngxQrIdV6QAn-2XxQGsAv8B2KwFTIxrGj5Sm1agnUrDAx854kSlkZyB4LiPEbiHi1BCVfgZb_qrDkUUUg_BhrGTAP8hWbLUM9mDu1sR37U60pBC5t-68EJPJaVA3SH_AKWtn_tlxu4x0SklNN7I_i7mqxr34VQuxedtbqfA3plRGg2mVpG1h9SUuZeEUrlQdAOlNwqTKj7AA5mhOTu864nCRsvIbBmWXs4mNsw8gx-dxUnMyoJRzfvJsZPhafaRM57OQ-1DfqjdLkwt48Rdlz-JlBhTALFqB8IT5LCiFy681BU1JLo2HgtsB3rkUanda9Tl-RNUTZdwvOwFryeOOO4h8Sn3lfjcGLreJv3r-46RHUUkI2c-RQDiO_JOrzTcyYlQvMs_USnZNH-QWt0l91f4b7cCRqmDylyyKoX_uBkqalt56l7EXW4YloR_IVPQWWviu7NHnBSn_XeJmhl0JTMf1k-iFb-vR_24t3P9CMPlcKJgvmXs36swdDAUUG96kJt0466OAisp0i5x7q5HqAA40GUhEr3G9C0GnGZo5MBbj7vWIkEyLJnyfz-UH3Wk-_nPIT3NjOodOPlRaXzpu9Bwg8o6cz-sqO3deoumdT_ywsf3V7vm79VxSA5IBJ8qN88ljoC6_-AJOGoJrrxLaNQPMBA5YVHjMQJ7xYLa9Y4-eAwO1yovoiaiTYGDnlSzhUAVDt0suUmSbpbv9sww9GjzkdGRgrh8uVAYyvfRFnhUBouf19_ZW0FvVfV3CU0_R-Iil43-S_uso3aonmKGInHYcBqf-JMwsp5SxIsiKuyIMbXqN0PbU6-smOf6AIiVZRwmjte5XUpsa_H8gVMDbZNiDa8cVaAdvcfKsq9Ud2jwUx17MSIBIX2Zch8BUY4SEMH4UUm5HTzO4c0_5tyDzlXjGXtcyaE4jB9t0jJUGGPKwZtI5XWNyqVpHMOBAgwLB0FDrWl4FZ7zExdMClg5vAJb1FXinDCc1SAStjraZEUtX-9tpkkKvaYVVLwgDYwKqOEpSooui-7Qs-m3TlOiIT7XLSXKiGDo-T6x1GvquDLTKMUH8t2i1KFYF9_HVbIfUy0vXtgKIEfCafzHSNGadlg7J_ZErkn8Lo6JJKh_i1HsdsNgOX7IO6TFlIdWz_3UhxBpVb5bfcTNblKlgvOBHsEZnisJPBUW6-TfPXEgd7uJ853HlbQjghYzFKxUy-bWbxcjk4-YZ_u_c1UNWIzrHtHbUu1VXJQ-8EDE5yl8ZcIlmzQCHoyBHrNG6t5YiYiHOivZzPfbaEtqbao2mCsLFcubQL7aZYabC8vHD1_26f24t_CXWnuzqpe_1HcZbF6DUx3SDeEGYhzCf-CRWIvPXnkuwyaKPIsNh5SQRJvLKjaL5hyf9TKiZeZoVr4Wdr7ZIxzmpG6oZS3cp5BFrPS142IengpEDFL_kW2HmTWmSqfQTMDHrrgOF7AgLogknGHrrtiO1UFeychZQl2dCUpYGTlJJcW1YXGg2WdPzCZWsIOUFqD8EeR-xHE0SimEyhVNkyOEz-Y5C_-MfFJoOaRpjTtAfKgostI9WVvvufMnEqymixC9rIBndFBspwVd-ODvzh_J0TqDGWo7jFaV01xxXptKlVtU8Xli5bkjtD-X2mwbm1M7Y6L08=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0bccf7192543fcf1016abfce374c9487d1a93fee651da46b82",
+       "index": 1
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv85Q_fiXtHX3mouA-9ONSa10r7uYCp97utAogAWPLwQq7gy6ee9s0flD9v_zyORe8bNWpn28JvNcw1taCRxh8EYsNmfb5ouStoFtpn7n85LHRiE6vUZpPyQ4i3RTQ9l3mjiZwHJm_Pt-_3ZRrYP1Kt2XA0kf88DrxffQzm0omla5GeuWjWX9yOJRasRIm_aB32K-H2r3arMJFWtcxUCiGjHQ15YIcOkdUlSeftBACrNj_tRMvx8E_Da0TGrZ0aOy9Lo_E7KYY0W-gIvEEzeD5QZnebTB906R9Th5rdoIcWsdYVvLzbvq3peQkO0w1FIStu7ciVkViRZmXCo2N9YMTJLkAWv4D6KHvIKooP-VMAXkMp6nlZW-4W0-2OAvOxKoBJrLw3TcyjQi63N7s3lAXyZzYpy9F0UFQAQf5fswV_-HFf9vIV7w6VvgCwVRp5BNllt89VASHaKTpPADSQcIh-I4nNhjGqVlemVRKs3WHPlKVeVzPyazyD5-cfRpzqSUbo0hvAa_hXnbl_cn0o5iYofYFCtXDU1zNUl2hXeEP_O-0vR4ggZmkzJX5pbH9Cxj49Az_ewNFPQtvogOMPtRsEPDu2VwgTrZeX44vSViwjpNuTkfL5YMfKiUoAYGPVA8GRXvxsJwdY0YvSfbly6gLDspu_ip6IOum5kpLbfuhXsCjXRpqzoMHQWiceXdOAR4hKSPcMWGUuBd2zfxTqsWbvlNBFyCJnZ8Mp09esWrvvHIzI4EcIpvISMYlVF7IReBsqEXvkBYnj_O1DHWaHskM1zhRckwstGVRDSSchfeFrmOrEplvza5zgQbIdC8DFc_poS3tQatZC5X0tPVWaDqOa6Vhy_bggvalxKUqSJ6J7cZhi96ePVKmoVhwhY40F1qOLoChJYifViHCpOHiLApE76SzhilryFIAYbvHZ68bpQAqmvgL2ykFZsTPotwXlXX2Y0ha9tExGQCPppm2wlcsiaEIyoEBy9ijO03VVscIw3004QiDNNtUzETCGEZq8jkKGQ65VooYKwUy8D3-mI_oJer0y6K74xsP1EgrfKVOq5BbxMbL65D4G2jJJVuewBTsn-kHv5Bd_i9RSp5MFjrqw9_8Mi0awLuAKUgXWMlD077Bz72qMcqOJSMmaLivq5yGJTJWjQuEi0GC0r9TpnzZnmUk4eBJ9uNGfFvHZepuYMN6Aji5oqmAolL1_KmKbEv3jK-9TTG3oISBsY9cIcQbXzuszaJoG32yFwOaEZjjS7TtSZMAC9pozVQdnsr0szT9b-jiAiksFkwpeHgYGOS0YRLg-KI-fv6ueGi_atwk4188-pytSwH-RaSnhobUHz2el-XhiCgUnvACLOcm6g74ZViNv4OzrNwKKyolO-iIDlOZKu-9TF_2rX-PC970iQYx01l9tJB93UkPNV7WNgHl5bc03kNkwMEupLlYE_NpSCD76TyZ6w5G6cWSpP7id6uMkAfL7SlYFkGYqgxY1AFfVhzRZWtnzGY598fajziKQ-JEU8yVAYVZeEDHwzoNoPe0G3AcaiwZhvGE0aKLsHdz6m9KDQ7T6gkNmOjwFZgwKmbvnlWXkAKeA3Pf4Wa9adt8DTfXzcBEGgGtQnIAfCLrZt9Zf7_l0YjJK7O4h6_xi1FOD5hOarcD6R0DgPMtgWa6Msv4-yDB61bbIAJSiog8O3eZRRRMFcq5ofkEENE1HltS-tNJhlzNpu4rmWbmtO6CMtJKzjnR4vpPtSkPaKDTzy-KTh93xKa4dej7R8uh2Z-_-zYQXRVH3ewbskSvgpcq3UV0tOPogkMmKtSujB8qmgjlZym38wU24phEZtK9_1gULBFzEX12kaWRQuVyibSo_jTVU9dcz4hk4DOcBijGW7H94Myp1OGB-CLRtBoXove039MSPAfqAC18Zjnjsb7FkcSjc2V9_bZBt2Gs5rsqDUryo5YUuVvvcl82gKiEALbUZIVUAmhIis4TQFmrwfcouHLLCsLO7oxYvjJ8pg9by_FXpWGif2-__rqvgI-OTlKtZAVGUCZ-mPkyC1eXCQC-OdvZI7XDtQOl9cSnLfNNNKNSlt_9aNfWBdGTHsjub1Zq_05TNoSPfrPhYSvSw1g6FHl.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0bccf7192543fcf1016abfce4c951c87d1b208ab9f265a2c26",
+       "index": 2
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 459,
+   "completion_tokens": 656,
+   "total_tokens": 1115,
+   "cost": 0.03739,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.03739,
+    "upstream_inference_prompt_cost": 0.00459,
+    "upstream_inference_completions_cost": 0.0328
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 647,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

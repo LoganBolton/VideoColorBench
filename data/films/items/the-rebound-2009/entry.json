@@ -1,0 +1,21 @@
+{
+  "slug": "the-rebound-2009",
+  "title": "The Rebound",
+  "artist": null,
+  "year": 2009,
+  "label": "The Rebound (2009)",
+  "hex": "#362E26",
+  "rgb": [
+    54,
+    46,
+    38
+  ],
+  "frames_sampled": 5679,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "_wmZJNRr42A",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

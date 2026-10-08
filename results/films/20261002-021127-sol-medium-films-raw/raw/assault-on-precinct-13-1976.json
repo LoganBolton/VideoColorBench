@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907120-piODPD6WAOYjmh39JRdQ",
+  "object": "chat.completion",
+  "created": 1790907120,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Assault on Precinct 13 (1976)**, with its shift from daylight scenes to a prolonged, dark nighttime siege.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "**Analyzing barcode variables**\n\nI need to guess the barcode for the second half of \"Assault on Precinct 13.\" The film starts with daylight in warm Los Angeles, moving to a darker tone during the night. The first half is primarily daylight, transitioning to about 70% darkness afterward. The barcode seems to represent color shades with specific percentages. It starts with around 0-4% black, moving to 5-39% warm gray, and then reaching almost dark navy with lighter tones at the end.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing barcode variables**\n\nI need to guess the barcode for the second half of \"Assault on Precinct 13.\" The film starts with daylight in warm Los Angeles, moving to a darker tone during the night. The first half is primarily daylight, transitioning to about 70% darkness afterward. The barcode seems to represent color shades with specific percentages. It starts with around 0-4% black, moving to 5-39% warm gray, and then reaching almost dark navy with lighter tones at the end.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxL7pnI7MPsEUK1ykS9Ca7E3yfZ0VZ4QyHvyTlCTMHlaUOCy08FceUxfg9Psx_w7xQVn6P9jEjIWKT071HMCiGQzvc8ozdCMDppiu2olO-MyYh2G-NCWWUL6xj3rhOAJtpsSY5QV_daSkfQojCNB463m0NGJFloOONH1NTjz-EpMu5b-7o_Jm1ARgeiPuekP6HrvF4fDBvqugRfv7Bc2MHEblHJMphui7oKilAfKjFgUWdpinQLOK5BtgGljOvqsJmsa5sP7Fsek5qdxBlpcMIzjT1PuMJMMjy_OHDsFvLhHqXcBCbhzJ1y9n3o0ZQ7e-Hw0Dza-cI1H4jeF8aNIYB8kBfZNvZkc2UQkHEqjTCgwZRaSTJaCItTAa8YKAsTeUANwaz3HObp-GdF1RkRGgZpYWZa6Jczd9Vg1pcDjyP2ulK4pXgzcjtAsVr0Y_cRBRTMOzzcpOtsagImhypHZYt2FTX1cJ10TZ9mB7sxuMrjrdB0HzsS4KnBaaLaX1IK62bvGrKJNbnIbOFQn6-gVhtGtm6-mvoDF_eKyt6jA2fz3G8Mi4Q8T-Uha614yR017taepwEutMAzVFErCySPrJFP6otdQzWdiAzlYIzJCEaD-J8Vj0Wk7URnzSCJ46kBKr2Mz4OQH9n-78iCEgEZ14shlLw8fK79XVBKI1lyiuB6TVG_K_5YcFd4ezytnwTJPr6nCdfkXIOIVO_IfDBaJH6N-n5czc79CHDPPDjUx4EFQpiRd8-28-DqyEz4SxLu2LYpaIWuY-UCn6FYcX7M48MuhfoA-cJ8erF5ObdduGWSVtLJTC35Zp8jGqviO39P7yoBf57-VSqcJFud0SNhrBpuIyUFrgkdSeCoPligDlTI96H5MWkjDUF1OP-ssp0hFhWm3M7lirYIqGkcn5DLBZI5fhyM8BSBkU-vDCr8RfJt8-6XsvzUQZ78KAp7INjSxekqZpX_Cs9XDXwwOG8eVETTEYPqz2SeRZyS7-1Q-SJIDJvBYq6H5umdX-aS6ylzaZGTIViVk0E4f5GSpvnLyA6_lEbR734lzeb_In8k_4iFKBz_pK9goQY1eUKjgfA5GNbcIgpvdKYI5ohHIZ-yWiRrnPyQGGeaL3KY_C8h2_dd4GwaDqJxVhibM6WcY_RUTsqgCUuh-fs_3vJ5_F4ZYTxiU6u_9Y6juPAG6zgB58AU2uVQ4yWCxGRN4RTAkAqvLwmi6zGiI8XpTWH_i4OIax0mNZwu8KzAI2XSauWOPuL1pA_V8H82z3pEKN6DGB72slMPP7FblDEQnLE9dd7UpYDNs_oXQt7eOOQGfYEwo1Cp7y-JnFGnV6Qx11mmvjjw7xeNohZFRxYwmgIPquVxM-ldq1qZfLW6tSyIIq1XEkSPGqMJDQsetbcFXyZPZVYRirY0rXelKVaKg_ogcE0OH6VdjWZYJwJXGmZ4NHr7i0fGovt6udCnaw3ZPfmQTe_6U0RgHltIw3thyl7jbRD9PIozd8BpvAxuzeLntni6qYRVbs_5m_oC5bPLbU9QXI-PopLvd7Ezw1Ibz0SLKTouJ6pTG8LXzjaMYtph1d8jVjLrSea6ZoAA7PCkAUZ7W6SgEYAcrUXy2wTz85CpzjPZlBcHYrq_48GbzNGSWU4W6zPKguE9hfaGy3GNhTC-oTw5nZViNuqoHtDZf1E8LtZgdGjMDzr06JXsMy_JR_TC1W5kIANSMyYkXd1Zr2l2QAP7XXjyx7CZGcf_6_BpWIP5faFFtgCwUk-HQlNNv1Gk-HLu6lo5R3b47q0SDMci5tD_VIO-Qk0zlHTMZkUhYbqLGVyDwtqiL29AzQnbYmWE_RZRFkReMqA507mPn4-PlIFVZUf6mipjHMKN1fyxWU7GMYQQFgEoq7ohpLePjMGPSgYhr5OIJZq8vXBrbey3ZRHBzI_y0REudwUy2tKChvAeLcT6rerDTCfXMSy8rP3ZvpCi7g--5blMWW8fSTQrAwdZ1uF0mmftnIsmnNv1co3n2gCNeDg==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01d3e1d547f480b6016abf12f6cee887d1a503b326338831e1",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 440,
+   "completion_tokens": 156,
+   "total_tokens": 596,
+   "cost": 0.00244,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00244,
+    "upstream_inference_prompt_cost": 0.00088,
+    "upstream_inference_completions_cost": 0.00156
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 116,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

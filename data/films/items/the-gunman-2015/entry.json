@@ -1,0 +1,21 @@
+{
+  "slug": "the-gunman-2015",
+  "title": "The Gunman",
+  "artist": null,
+  "year": 2015,
+  "label": "The Gunman (2015)",
+  "hex": "#3A392A",
+  "rgb": [
+    58,
+    57,
+    42
+  ],
+  "frames_sampled": 6920,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "A5QKJdXyk34",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

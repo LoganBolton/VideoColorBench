@@ -1,0 +1,21 @@
+{
+  "slug": "sleepaway-camp-1983",
+  "title": "Sleepaway Camp",
+  "artist": null,
+  "year": 1983,
+  "label": "Sleepaway Camp (1983)",
+  "hex": "#433F37",
+  "rgb": [
+    67,
+    63,
+    55
+  ],
+  "frames_sampled": 5085,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "VzotOPXSaCg",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

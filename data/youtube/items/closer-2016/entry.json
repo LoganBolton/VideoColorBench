@@ -1,0 +1,21 @@
+{
+  "slug": "closer-2016",
+  "title": "Closer",
+  "artist": "The Chainsmokers ft. Halsey",
+  "year": 2016,
+  "label": "The Chainsmokers ft. Halsey - Closer (2016)",
+  "hex": "#576063",
+  "rgb": [
+    87,
+    96,
+    99
+  ],
+  "frames_sampled": 262,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "PT2_F-1esPk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

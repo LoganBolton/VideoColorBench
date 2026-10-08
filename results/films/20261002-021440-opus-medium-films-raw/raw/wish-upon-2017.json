@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907366-XQcxyAvDX7kmQW8yQj8s",
+  "object": "chat.completion",
+  "created": 1790907366,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**, though the barcode alone can't confirm it. The palette is dark and desaturated throughout. Warm browns alternate with cool blue-grays, which fits a Victorian period film that switches between candlelit interiors and cold, grey exteriors. Day of the Dead and Apollo 18 are possible alternatives, since both are also dark and grey, but the strong brown tones point more toward Stonehearst Asylum.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The barcode's brown and desaturated blue-gray tones suggest Victorian candlelit interiors with cold exteriors, which fits Stonehearst Asylum better than the other options. I'll go with C.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The barcode's brown and desaturated blue-gray tones suggest Victorian candlelit interiors with cold exteriors, which fits Stonehearst Asylum better than the other options. I'll go with C.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSyAcKEAgSGAI4AUIIdGhpbmtpbmcSDJ5iCShCDCCVPWZZGxoMI4OHrG8Xt7f0wIhjIjCZ7OU4+smouhgNt08KAWCBzDdvnAbdX9oGE9N10T/M0JsuUE4jlk9KcT8I3GQN8wkq5QYu5yjsWybrPE1I9pbDHUQummF+uALboVJr2dJOiGNheK4krQSSRYcLM1zKlZ82os6Ppev3tytJBA8PJWbUZ9sRVB0/pRdwz6eI28cOHgaqdKWGFjOemW6q56k/lRAGKt+ZzuZty802md+2inZo+NfYYtG/9cz3+QOkjBYz5NyDUKAOeDmPBfQLo+7og5mioAO1mzFyr/UVnN40r+Udc9ob51TOKb7XFa2aU/LXvgpYbn+syiPt3kmlmnQvbu2+yVKyNk55QN4vt5yKRtm14AvKHID3gqoZ5UUJjHZ+OjOxZ51jz4uEHMkG7RDe0wWegOz5nvKI54f6wYfRH9AM33qnLuRSJLk0wHgetURG72hUNNRpHVpTeDJmbVhqIZFqtB2whlXNp+7bV0HuoUJbNep+CoCR38qE/1E+0cLTKSaSR6YIQmqEPNjLl1ZPeIg4PGlhoUrPRCoZB34ktY44dCNtksOOe21Swk9c+t/f82tSu0tJDEAh/7JaOxIXjdV+BGqV6vYFr0G0x/zcoh5H05/cnoLFEcAXWfV6zdYTBWTCy8UU/tC3ua25RlSJt9lmFhxtGd4J+/lbx0cIthKDtldnrWDDiDK3CeiGyR8WHz7Vl6iIEsSny1Rs3CLhkkduUDQx0bJFqxkvPpwfMpuajkh85lBGSdbr7AABi4KfnaLLSws481WG5Mc8ybhaX2JlableiAQuvoYtnq2UCkucLFJ7ZUwe+cnY3Hcn+GZHuJPvLh1ALtN7G4iSefeOkNykZ4w6Yy7KdLKW7YPUeRu1Xo+D/mYyDl+ylKwXV+ENAl2cau3Z8GOSXCOlht5Abh7LhsVbXNLbg9ibsrkyyzqoaXRw04Wrka81v32kvh3uLjcfDdUuAOqa0CnXCVwzYhSUy0taZFhHxZaAX0Y0u3513Ex8IZOK+z581r/X/Czr/gSH2iEa2xkR1QjN2NksMjYOlpqK99e0uVIjhR17ZqwM0qe20gMurrgbnDHjhKeAxGRvQD3isMXPw3ff0G18Kvc1XMXX9oqyNzqXo6amKAMyKpinkrk2kpkqplSJOLI2igO4gh/glGBgoRXhQxLSVASNqMAEyzgplCb1/RP2MqcovWLDkpNtq19mZPaHJ18FKsAdJsqthtEs15yca0clYUUfUmyeASOqUxgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 527,
+   "completion_tokens": 314,
+   "total_tokens": 841,
+   "cost": 0.008388,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.008388,
+    "upstream_inference_prompt_cost": 0.002108,
+    "upstream_inference_completions_cost": 0.00628
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 150,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

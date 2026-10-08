@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954601-n3Slr30xTRe8zPRR1f2C",
+  "object": "chat.completion",
+  "created": 1790954601,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: C",
+     "refusal": null,
+     "reasoning": "**Choosing colors for design**\n\nI\u2019m thinking about a design that involves a bright orange background, inspired by the Capricorn desert. It seems like I\u2019m pulling in some vivid colors associated with Brazil and perhaps contrasting them with dark interiors that include tan, brown, and shades of blue. The focus on dark blue with orange in the security theme stands out nicely. So, I\u2019m leaning towards selecting option C for the color scheme!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing colors for design**\n\nI\u2019m thinking about a design that involves a bright orange background, inspired by the Capricorn desert. It seems like I\u2019m pulling in some vivid colors associated with Brazil and perhaps contrasting them with dark interiors that include tan, brown, and shades of blue. The focus on dark blue with orange in the security theme stands out nicely. So, I\u2019m leaning towards selecting option C for the color scheme!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8x0fi5_kxZEzZSxJ6Rke7XjWZX2msOtGxDv96TfGahui5puRCwiBnviIjucK61GIsLxcGSqJsEOfLRjBXGrMwj4HemJXH2Rdhzfh7RNVijcsPd8k2g2l1rYPZw6ofgJF7cGxbRZRzPuxWkJYRMtHib9FzXvHQLTSaNdLaoyAPn3z8JEnK6ObdQrLacnqXCpoLZrRRGnP--Qxtea_gYSeokwcFT6qMSN_6MKy_rSsrs_8Kb3NWrdmjQCSnmbQSgamr2lvEkoEjDNLgzHMxF4f6AXZPSsbReJLep8f757SNkk5iBMB07SWcdQ1QC5Nev3TneHJ25XyVA2g5dHcNcYcFddkMg3d7qmYgBZCAN5oqZZLBLUOwJHl9mj0CWNJxRmy8WQoR0vjeLQtKjF-pfD6kdBeHM9vSsLOYddon-9fMfNjzkxUIWwMsrYbUqaM-7IuCZIiU-libV5mgjqflW1yGV5lfJLW6umgsNXyLPBcUumlh14mDLs0LYlM-R9bOipkutFs5E87PX6_4xeppZNvxYkYWEhnbyDK7Bp3SyBleg_RvE8gmRdywmdUK3AntBLpOpS8iWAax-EHc_M00RWY-e9DwSkyvepizdahszeLpItGPwjiXE7b4TxwPOYI5PXZEbacOLFE-WevGPLheI9ln_836Fx_uHkL6CuQX4ym11Hgd6jmQx9joDBnaQSZTZCvQ7NpEnu9i5U2KLlCfZTocWXYyxbRO2WqhbsT27yYh1tqdoK_3zfzUyk2HnOnJ6JRMlliJukYIfHsEmApoYWLVJz3Y49qoGvm7BkmKmMbwM_tjKRUUJ2tw7ULsxA3kh7AYDwrXW5gBcE2aY4Uon2robPlgi1duOJ2X3FSmuoSlLrUjA-8XMcABKrkgb_614zOvfGbfYDSqVB1ucGPiQuz5OtpiPGVAyVsAKL3VoiDfxh8IF290KM9rtSjB1m3ZoOQQyIfeCWEUvQbikD1hRq_GfRwpXKvButR8iO7pcHX-pRWnCL0lJ8ELnmXzzoGDo1JVMTMXGZLkPQReYaJZO38z9cZxFJQB7xTO4wn76SHkwOIEumDie-CmFORihtvm4XQzB4zxYjpG-HVL26Q4ytzb3M3m-xg8pxa9luLcQofPmrteS84YutpWC7UrhdxKzZsIXlFAWlQAmWhmxPcpsiKRYoHBLVdW2fFG9s42Cooj_CfiZ-w_FrqELmSQ7-4Dh175I3nJ8gey7RaxVNKQQifduFnsokRW6TCyWgIEKGufz9ha6TKFvBLmaN-tvivvkz03S5b5j-fsFIfdzC8hOkTP_g1EPL926YGRNy9AWApE7cVzmGNi8ts49vDfvpxGn_BLpoi32v6amjBcOq5vPY0wZKqzQycTyMr6OxulBuCHTaXEFoXaW3aeZJgyjDDACWeVQcqk6ZEzkwo8tMtUmqzEexydEJ4r16JCa8mYbVz8MrTV3Ia7ILSK_WrfG6hWecBFh1wroDzTzhXvuS1J7zBGnm251GKZCBtrtUT_ptiFxRJzmd4ZgYW8EUO-LkuPqPKpgG_trye3pue4MZ1S3-lXlb8NA1M4gH7C86W4u4s142tH4t3dwDEC7EMd3Qh2be83aRog8lT_gx4XEoWRiz-VZsNmxQfcUgel37-pjFh9_KApl78hx5B2xm6rgN8ZEqFuXQoptv7PFInsqetAjVBFnXR4cMKVBEj6TKURMPklE4bIkwwVcB9tAcKTyiKHdIluGe4OBl0TWQX2joS2EowFw7azQyKdP7ubOkHqZDikDz747pAFHh7ek2WoIOyAJjTisQjnoA3JCYFD0yxfJS8ENExiNPDnxfNJB5M569ghd_h5jsXEp4CdQoUF6Z2PFbR_CKPyL0ZaJWt1FxJVnB8D43BVNiIl5lkVOqHyg1zQKQ_lTkd7Ubm5Vgiz_M24DKfC55VVJbTQXrudtXekPOt-o0cnloD15SOgFn6kzzmcPCUJJDJslUObDi-793sLDRja-R4ia_y4tV_JtX1iwQddmlH-52T1OtiTTm0JqdnRuBZ_wNkSSbFOccLbmVYX-GcBd7vI_TbXeqQ9eTKkuygmVFdu9qYraPrpK9ecB3GuCf8vjQsd_etVzsCgEnqftGZdruQegZ8C7OTVCSmlz4BeZqkHVBtWtVYltnlhfVJDbvbuo0kjeHWeTtBTkDXBlCy65XpEZGcqFb-4odaP_WkgEaiKt3N3FiIU7xbApOSTytkTVsGBkl00FlOQ9i_diAjguJ6RaZBVlL3rrfCakIvSY1Fla1Lo3bDC2VgUHfeNy4pNZqnLMd0PfIz5OQ6SAO7U17zU5ZysRSEmtFu7fWF3T3g5ksmoxRNX6FaKN-627bWqlDdBA7ZCqj7hjo8H1MS64z1LIYf2BWoFWgblL_vDdfcTLBk-GHOrmulxWlZIDy7zdkKYtrBRe4UYWStFI7jKfGYzGSiZytM5bj1WN7S1YXjttP1Ts87MrLCAlMutUvyBAcViS_FUXs27fN8U54o-4dos2ofO7M0vjDA5IjqwtjNlQiGE8z1QJONI5z_wpfPeQU3Xi6vYDcmSYl1-c0dgsNLxbKQ_QaaOEdGAXDWjAbLqDNT3-1V_YlpHdiCafmiKm_GpdIaulh0r5ZB6ceddvTqPHrKoyueFjXOYVa0SqEaBF8Z5W7GjWkjZotbmr5EsCz9T0agPAdw6AG196M2gbBTT9HEWhLGJB1dFFfLUdsN_noe2ngmqrcfLBjai-f-R0X8DgUUedbHl4lXMmfPHEoM4b1GJEmEj2uAR1fr0FExD2rqxCvqRJJGOFTlzfy5mt6kkou0aFgR7BfSUn8EXX40U5MFGs3kVw5p-Qn7ObgIKuFfpD9ZdEOhffp-Xo2k9s=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_079506ddc1d25394016abfcc6b0cc087d1904199b43f46481b",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 440,
+   "completion_tokens": 262,
+   "total_tokens": 702,
+   "cost": 0.0175,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.0175,
+    "upstream_inference_prompt_cost": 0.0044,
+    "upstream_inference_completions_cost": 0.0131
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 253,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907098-W6Hskyt5NOrvKw3eyjHs",
+  "object": "chat.completion",
+  "created": 1790907098,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Metropolis (1927)**.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "**Analyzing film elements**\n\nI'm considering the use of lighting in various films, like the opening music hall being dark and contrasting with the bright apartment. It seems there\u2019s a pattern where locations go from dark to bright or vice versa, like in Scotland or the theatre. With \"Lady Vanishes,\" the transitions affect mood significantly. I think \"Metropolis\" might showcase these contrasts well, particularly in dystopic settings. Overall, I\u2019ll need to summarize my thoughts clearly.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing film elements**\n\nI'm considering the use of lighting in various films, like the opening music hall being dark and contrasting with the bright apartment. It seems there\u2019s a pattern where locations go from dark to bright or vice versa, like in Scotland or the theatre. With \"Lady Vanishes,\" the transitions affect mood significantly. I think \"Metropolis\" might showcase these contrasts well, particularly in dystopic settings. Overall, I\u2019ll need to summarize my thoughts clearly.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxLmpd57OFqXnjVPWeaXtcKObtJRNKqScHfjc4GwM3n5uhiAewoKtehFYq0XXJNxZhcCHdbNc8KYxm7uYGPEBUKBJiM_AQBN2X3YvTGc8-FTv32jFx3ity93mop_QWWHnDcEjWT36sVGyrQxEjD429QyMdsikzAvISGeUS6jZdGfbEg2hhM75sLkh1oq-QMd5wl74WuvwAcrYu88tQMr9PzKGBAqgs4Jz9R26OgeYtImyqXbakJ9MtV6SAqgZlD5VMwfB4fYeKwfZ5hq3lrKdsSPXDabTFXbVfnM3h18dZ6qrZdHzaqSpZNG7O5cSveQyi6tGe-wZknPyPiVkcYDCRyaNJbEPRgXcttKimFN00ppKoF72-uv4uM0h3KhR0BSwwaI4R68aHQJ9RpCQv-D2fCgane16NOZ7nrjRpGmGRgDD21mkKYFPqt1eWxuiBqXtdZsbn5pOB4IfKU92nP8U38hUCt8ZkSV1q4wjbAVPaNCUR9430KdITTLtXvH2AAYbrUF5VKRrGBXOCqx2x2EuVWO5ABH0gA3EEJvkYIbzXEZ1uAzEepvQ6lu0SaVHV8qXNCHomiZmaXRoQ7RX6t4EtZkG_76D5IJ_NPGYeC463ESC4yzmWZyHpza3_ghwCyykDtzqPk4jSv720BDwyV_7qkrLj26c0ZPF601On-mTU0yKbFdEbfjhjcKEiVWH41MC89mx75YP47IK4kGPctNcnqU0cuZ2Jk2CDQkG_ce_FFeq6NzEvowku_LsQi-cq3ELxwz4sRBNwN5NONYNOcuywLf_INR8EI0INkBeerjEual00KVdrgH3nTLpTX_wKQ4zhgffvqs4kyUruo2WiEoK1Bv08i1s55BsaZzGmDE1eOOkh__YVLfBitB5l16odFunKtkXSanvEdAO9x6_HNqrKhIIH1CRaRaLt4L6PjZrK8FNzA8aLOf2Cqe5576hmX0v_ohQAE1F6DlIORSgpYblOQlAxZXVSX4haaRc2a3S6HVxK84WfRDupYBFKs7YOHTfqtLjioy1rOPUjVftDLpW8ujActf4jF-B2ZSEOwo_rcK_UmMgbx8BGRtwAkvH5bnDaFvTrYHyE5Yxe778cB9QKbc230TGjvKdpwthoWQUzCz0bBRwxLaru3qlxU8pGo60n2WNarmNjYSuSsCZ-Cz7b-peAdcN_sRp1dypos7ChMZtLIZiAoode_ABzpYjWnzf8xwhq0pR5fbGwlMbIWdwnhlrLXMaKBqTD1SI7cRPG4TpzVqzrMVUeGRemytrGpEcdrIwLcaUBhlAmUTQxo2xJpSdpfiDWaZ-NbcCaKT-WumZ1rDEb-GqXBC730v_kimxgxTuH23QOAv_iy6DpLkdq45AQ7-nL4h2Xse7-a4ewc6YqYhSu4WAWY7JEGOFmkcyOO7Ly5bZWM_KXijldOpM30S5sLQ2Y10ukBGmO0N7V-T-OteQp9T3FI3FT1XHZg-Jj4Bb1B3fERAnSpdlKqeYhC9XENwwoiaImAKSNyFlWbxxIfyf5FGSGTsDkwwpZR1p3VEnchxlggsMmQVWKtv8TJ0ZF6F-UOlJ3Z2ltQrAClxEAjBlrPxdqbIwtxA0ZrgUd_-9M2-32vFRElmbzE6TVo54I42MKvA-xD-Nh5T0XFka7U9UIL-LSKqnYaqDXhtBIAXQom19K4L1kcZpGDmFbtFnQ_UJh4b_nzGY66JMfVmXcXTcRnXTgukOgSvN8S1Cnd0m6pAvsaN5B_WXe-N8bO6iF7yJ_nHMl-nS4p3v7X3vkkXgopK4dSdMSBMIgDquoeBeHJt3rC1NWi7gvmXbn6sGDnt2F4sXlmCLt1f1iVufiqRIUS96iQCywAyhrz1H1MfS41HKA-BXfeaoV-6gREREycS_FlAGRwgCQOqQcTDLbCZzLi1NwW-cxNd-8WxqBufBmQIIHgTYQ_xtJgvm8UHDKCasUWm39p7TkBQl3pMk5Zx_ojr_elYSGq71zv6NCfmS3SaDR-8gPEFZ5-nHikEpRPtNAUyWY3IkX4-pjxSqjJZSPXhqE2Vb6DPJ7GLdpNzyfKd1jfA7v5pHZT9Ncacy8CoXjpFTssbwpGSIVCFo7iv9wwS3vDGPANeclrT7M65N0NeR7OIvtwrkuqPG_jgULfcRddqRJSJ0xNauFU5fRk6rEUlhh2URioaJe7HOkuC90pSQxhwyIgF9sMbdwt14fBPlWk7rZ-i9CDG5xP5YR2nKT4ITPrAYrbI_NLsgrRVkVVFFSFhU3WmxBzCvygE7f05GiMHfCp95MTsbAJyec7uWLF7yz-h5KUBEhn0SVUZbbY1IiEIctf-SjmDC0z7PHFKwagvyf1aWHY-q9-IIPNa3FRCtODDaAOHk9gpnL3buy4N3n1VGVvFeIHgn3C_4qoowD2WnBwYfTwkiUMJSuWSKYTEbkcib_C0jbE9F0jAPsPTX7aNHump97MyiRK2GlWjVCydNLtMDnnJ242AkqxXRD7WFBxD9z5MhaE1bpDGSL_2LzoYXDA0PMtqw6ZUILKcqLnNYm2GEzsqOmqs92CrymSDMOI9otcAeULk8-oZloV0oo6JGyNsKoUGU6TcBggTYbmJf904hBv95s8Ht19h7oUb_Ys2c0XWqISykb5zlDxHKTHSqnBY4z0xrY9rIAZgn5BHQz0aKdIEbU4KX9SKo6vK0O7bR_WH_IP3TOdZ6idqxk2cbfqtBussHQqZTZgue7cWXNixFniDjeRgahGfdBXc814YWUmgfOPKb_h7kWlumA5HqIM1bgGLu9n3ZjJod_MnmRF1ryReEonIT5m-QPogDLpVF3505OxIgXZMPZhpgg6ZGkyty5_kB9eh8Rty-FLSXCw6XeI_M00Cnwf2399t5872NVef0MoSO_357KjN5CSgMZD-zbyLUzIeTEgjdGi3WoJQ0HJAz86emdD4Nd96LSz0W3NpxBBV0Q5Xr67yVt1dgoe7olIeQKN10mfg04wn3Euebg5WsruuVZdSdajjIMPAM0kGkvZsVybYjN9jlIraS3-Pt7iDAY0ZGXOO8FQ68xm-vRuaWmIlgXpw4zXaTXAj3ofikBTKg7KqvywQzjL-o1ZT7fyF6eMbK26SL2o5ckuyLn4YqFZCRz_c8orCP5qeklO28iDq0idl.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0d6cd2780fe69750016abf12de860c87d1bb00f3ca2166f120",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 439,
+   "completion_tokens": 289,
+   "total_tokens": 728,
+   "cost": 0.003768,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.003768,
+    "upstream_inference_prompt_cost": 0.000878,
+    "upstream_inference_completions_cost": 0.00289
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 268,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

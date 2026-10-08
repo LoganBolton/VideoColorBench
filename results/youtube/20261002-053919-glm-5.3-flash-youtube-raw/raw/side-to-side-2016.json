@@ -1,0 +1,62 @@
+{
+ "request": {
+  "model": "z-ai/glm-5.3-flash",
+  "usage": {
+   "include": true
+  }
+ },
+ "response": {
+  "id": "gen-1790919876-peHK0RtztvG6xl9Ljl1L",
+  "object": "chat.completion",
+  "created": 1790919876,
+  "model": "z-ai/glm-5.3-flash",
+  "provider": "Together",
+  "system_fingerprint": "default",
+  "service_tier": null,
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "stop",
+    "message": {
+     "role": "assistant",
+     "content": "Looking at this color timeline, the video is dominated by dark navy blues, deep purples, and teal tones throughout \u2014 indicating a very dark, night-time, blue-lit aesthetic from start to finish. There are some muted gray/tan stripes early on (skin tones/interior scenes), and notably a striking bright red stripe around 75-80% through the video, followed by more deep blues and purples toward the end.\n\nThis matches **The Weeknd ft. Daft Punk - Starboy** almost perfectly: that video is famously dark, set in a dim house and nighttime driving scenes saturated with blue/purple lighting, with a memorable red-lit scene (the knife/mirror sequence) occurring late in the video.\n\nOther candidates don't fit: Dark Horse and Roar are gold/green/bright, Side to Side is pink, All About That Bass is pastel, Hello is sepia/brown-gray, Sugar is bright and warm, and This Is What You Came For has much more varied landscape colors.\n\nAnswer: C",
+     "refusal": null,
+     "reasoning": "The image shows vertical stripes representing average colors of a YouTube video over time. The colors are predominantly dark blue, navy, teal, gray-blue tones throughout. There's a red stripe near the right side. The overall palette is very dark, blue-dominant, with occasional lighter blue/teal stripes and some gray/tan stripes early on.\n\nLet me think about which music video has predominantly dark blue tones throughout:\n\nA. Katy Perry - Dark Horse (2014) - Egyptian themed, very colorful with gold, purple, etc. Probably not mostly blue.\n\nB. Ariana Grande - Side to Side - pink/red tones mostly? The video is in a gym and pink lingerie scene. Mostly pink/red.\n\nC. The Weeknd ft. Daft Punk - Starboy - dark video with dark tones, blue/purple lighting, dark rooms. Starboy video is quite dark with blue/purple hues and dark scenes. The video starts with a mask, dark house, blue-ish tint. This could match - very dark blues and purples throughout.\n\nD. Jason Derulo - Swalla - colorful, yellow/tropical themes.\n\nE. Katy Perry - Roar - jungle, bright greens, oranges.\n\nF. Meghan Trainor - All About That Bass - pastel pink, bright colors.\n\nG. Adele - Hello - sepia/desaturated, brownish gray tones. The video is mostly grayscale/brown. Hmm, Hello has a film-like sepia/monochrome look. The image has grays and blues. But Hello is more brownish-gray.\n\nH. Ellie Goulding - Love Me Like You Do - Fifty Shades themed, red/white scenes, some blue.\n\nI. Calvin Harris ft. Rihanna - This Is What You Came For - video is Rihanna in a glowing cube box in various landscapes; lots of blue? Actually the video features Rihanna inside a translucent cube, with blue lighting scenes, city nights, neon. Many scenes are blue-toned.\n\nJ. Maroon 5 - Sugar - wedding crashes, bright colors, warm tones.\n\nThe dark blue dominant palette suggests Starboy or This Is What You Came For. Starboy video: it's dark, with scenes in a dark mansion, the Weeknd with blue/purple lighting, a car (Mustang) driving at night with blue lights, a panther scene with dark blue. There's a scene with red? The video has a segment with the panther in a dark room lit blue. There are bright white/blue flash scenes. The end has purple/blue.\n\nThe red stripe near the right side \u2014 Starboy has a scene with red lighting? Actually there's a scene where the Weeknd's face... hmm. The video has scenes with a knife, blood? The panther attacks? There is red lighting in some scenes.\n\nCalvin Harris - This Is What You Came For: Rihanna in a cube, scenes shift colors: blue city night, green fields, etc. The video is fairly varied in color.\n\nThe image: mostly dark navy blues throughout, with some tan/gray stripes early (maybe scenes with skin tones or warm lighting), a bright red stripe around 75-80% through, and dark purple toward the end.\n\nStarboy video timeline: Starts with the Weeknd removing makeup (dark scene with white mask). Then dark house scenes with blue lighting. The panther appears. Then driving scenes at night (blue/dark). There's a scene in a club-like setting with red? Actually the video has a scene with red light where he's... Hmm. The video ends with him driving and the panther.\n\nActually the Starboy video has notable red lighting scene: when he cuts his face? There's a mirror scene. There is a scene with red hue when the panther... I recall the video being mostly dark blue/purple with a striking red-lit scene (the scene with the panther in red light? or the scene where he sits in a chair with red lighting?). Yes! There's a famous scene in Starboy video with red lighting\u2014the room where he's surrounded... Actually I think the red scene is where he's in a chair and the panther walks around, lit red? Or the scene with the knife.\n\nThe red stripe at ~78% could correspond to a red-lit scene.\n\nAlso \"Hello\" by Adele: mostly sepia/brown desaturated, with blue-gray scenes at the end (wind blowing paper, sunny field). The video's palette: brownish/gray. The image shows gray and tan stripes early, then blue. Hmm, but Hello is more consistently desaturated brown/gray.\n\nGiven the dominance of dark blue/navy, Starboy seems right. The video: dark scenes, blue-lit rooms, night driving, and one red scene.\n\nAnswer: C.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The image shows vertical stripes representing average colors of a YouTube video over time. The colors are predominantly dark blue, navy, teal, gray-blue tones throughout. There's a red stripe near the right side. The overall palette is very dark, blue-dominant, with occasional lighter blue/teal stripes and some gray/tan stripes early on.\n\nLet me think about which music video has predominantly dark blue tones throughout:\n\nA. Katy Perry - Dark Horse (2014) - Egyptian themed, very colorful with gold, purple, etc. Probably not mostly blue.\n\nB. Ariana Grande - Side to Side - pink/red tones mostly? The video is in a gym and pink lingerie scene. Mostly pink/red.\n\nC. The Weeknd ft. Daft Punk - Starboy - dark video with dark tones, blue/purple lighting, dark rooms. Starboy video is quite dark with blue/purple hues and dark scenes. The video starts with a mask, dark house, blue-ish tint. This could match - very dark blues and purples throughout.\n\nD. Jason Derulo - Swalla - colorful, yellow/tropical themes.\n\nE. Katy Perry - Roar - jungle, bright greens, oranges.\n\nF. Meghan Trainor - All About That Bass - pastel pink, bright colors.\n\nG. Adele - Hello - sepia/desaturated, brownish gray tones. The video is mostly grayscale/brown. Hmm, Hello has a film-like sepia/monochrome look. The image has grays and blues. But Hello is more brownish-gray.\n\nH. Ellie Goulding - Love Me Like You Do - Fifty Shades themed, red/white scenes, some blue.\n\nI. Calvin Harris ft. Rihanna - This Is What You Came For - video is Rihanna in a glowing cube box in various landscapes; lots of blue? Actually the video features Rihanna inside a translucent cube, with blue lighting scenes, city nights, neon. Many scenes are blue-toned.\n\nJ. Maroon 5 - Sugar - wedding crashes, bright colors, warm tones.\n\nThe dark blue dominant palette suggests Starboy or This Is What You Came For. Starboy video: it's dark, with scenes in a dark mansion, the Weeknd with blue/purple lighting, a car (Mustang) driving at night with blue lights, a panther scene with dark blue. There's a scene with red? The video has a segment with the panther in a dark room lit blue. There are bright white/blue flash scenes. The end has purple/blue.\n\nThe red stripe near the right side \u2014 Starboy has a scene with red lighting? Actually there's a scene where the Weeknd's face... hmm. The video has scenes with a knife, blood? The panther attacks? There is red lighting in some scenes.\n\nCalvin Harris - This Is What You Came For: Rihanna in a cube, scenes shift colors: blue city night, green fields, etc. The video is fairly varied in color.\n\nThe image: mostly dark navy blues throughout, with some tan/gray stripes early (maybe scenes with skin tones or warm lighting), a bright red stripe around 75-80% through, and dark purple toward the end.\n\nStarboy video timeline: Starts with the Weeknd removing makeup (dark scene with white mask). Then dark house scenes with blue lighting. The panther appears. Then driving scenes at night (blue/dark). There's a scene in a club-like setting with red? Actually the video has a scene with red light where he's... Hmm. The video ends with him driving and the panther.\n\nActually the Starboy video has notable red lighting scene: when he cuts his face? There's a mirror scene. There is a scene with red hue when the panther... I recall the video being mostly dark blue/purple with a striking red-lit scene (the scene with the panther in red light? or the scene where he sits in a chair with red lighting?). Yes! There's a famous scene in Starboy video with red lighting\u2014the room where he's surrounded... Actually I think the red scene is where he's in a chair and the panther walks around, lit red? Or the scene with the knife.\n\nThe red stripe at ~78% could correspond to a red-lit scene.\n\nAlso \"Hello\" by Adele: mostly sepia/brown desaturated, with blue-gray scenes at the end (wind blowing paper, sunny field). The video's palette: brownish/gray. The image shows gray and tan stripes early, then blue. Hmm, but Hello is more consistently desaturated brown/gray.\n\nGiven the dominance of dark blue/navy, Starboy seems right. The video: dark scenes, blue-lit rooms, night driving, and one red scene.\n\nAnswer: C.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 525,
+   "completion_tokens": 1190,
+   "total_tokens": 1715,
+   "cost": 0.00067375,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.00067375,
+    "upstream_inference_prompt_cost": 7.875e-05,
+    "upstream_inference_completions_cost": 0.000595
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 977,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

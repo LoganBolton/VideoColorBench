@@ -1,0 +1,21 @@
+{
+  "slug": "georgia-rule-2007",
+  "title": "Georgia Rule",
+  "artist": null,
+  "year": 2007,
+  "label": "Georgia Rule (2007)",
+  "hex": "#3B362B",
+  "rgb": [
+    59,
+    54,
+    43
+  ],
+  "frames_sampled": 6757,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "asyYAyUH7Lk",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

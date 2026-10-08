@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894312-eLiGEuWUsm0GSEx2GfM4",
+  "object": "chat.completion",
+  "created": 1790894312,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Calvin Harris ft. Rihanna - This Is What You Came For (2016)**.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Analyzing visual palette**\n\nI need to create a visual concept with a dark palette of teals and grays, along with some scattered pink and yellow accents. For a video featuring boxing, I envision dark blue, gold, and red tones but want to include faded grays seen in abandoned buildings. I\u2019m looking at a dark horse with saturated gold and purples, and I\u2019ll consider vibrant colors with sections of black and cyan. The gym should be bright with pinks and blues, while the overall vibe varies from warm sepia to vibrant dark tones.**Designing video color sequences**\n\nI'm planning my video color transitions, starting from a gray teal background to a bright white flash, then incorporating red, yellow, and pink for about 10-14%. After that, I'll shift to a long dark bluish tone for 14-20%, followed by blue teal and cyan-gray greens from 20-47%. As I continue, dark teal green comes in at 48-60%, leading to purples at 61-66%, before finalizing with dark mixed grays and teals. I want to visualize a vibrant sequence that matches the energy of the project.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Analyzing visual palette**\n\nI need to create a visual concept with a dark palette of teals and grays, along with some scattered pink and yellow accents. For a video featuring boxing, I envision dark blue, gold, and red tones but want to include faded grays seen in abandoned buildings. I\u2019m looking at a dark horse with saturated gold and purples, and I\u2019ll consider vibrant colors with sections of black and cyan. The gym should be bright with pinks and blues, while the overall vibe varies from warm sepia to vibrant dark tones.**Designing video color sequences**\n\nI'm planning my video color transitions, starting from a gray teal background to a bright white flash, then incorporating red, yellow, and pink for about 10-14%. After that, I'll shift to a long dark bluish tone for 14-20%, followed by blue teal and cyan-gray greens from 20-47%. As I continue, dark teal green comes in at 48-60%, leading to purples at 61-66%, before finalizing with dark mixed grays and teals. I want to visualize a vibrant sequence that matches the energy of the project.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuDzFgBCP-p4Bjd_HqkPm552d7PrQi-cOQWb3KyzMdu90FvIptGqnWEi4dcerZxtVHUQ4DDQoJLlvKwQl2RQ_W4tHpSdeRLmRvY-ZN8rAvJEiJfEs3YNYr7Y_wAVDVXJ690moMBO6gGZcg98VCGAc90WLx3L59U5B6Xbn5JPBYNeSyM_lh5ATfc4KE7ALpA-Op_WoiQ5GH9KrMIGi73j-SbEkBbq5Ih5hDIpN0Wa7ih4o-jI8EThuPA0ncB3Q_qfIZORn6hIHuWEC9VMvRUWqdVqEFZ3W8fLYWqlCl0gVda_3arhrPRKGd-P712Jk7jrN_6KmMT3PgbjZLTqlhXb5xBFaukpk8HhJFoqTEPDJ607mr6HvgFGYeX-1s0zty84LxqiTxHUQJcxY_pILZ1TSx7gWM5iI2EYypDuU_7X6ZYOjFQHUCyBYY1hOXJ0q-rmV3Z4OG8ln0ezevs01-g0FmkwvjzMerBgxdeYjG256Na73rHVRdRAYDE2Wr6DL9gK2-OBsty1FdoLBYz2OwsdBWCVLYp_TPVrM6VM1nVpZs8rrEy9MmeaGGYBBDK4HzUlSlH3Hq2v6y3fvM_RdFxV1bm680wivjA0pveAu6crtux_Tgl6n7wmmsAFLfDiiovNhGwCtTgBMTm-mt4tq2ISTAmRcAiAROg8nL96IMzQzNd-mG_sP60wtygX706QKXnPAflCF5aWBy66MYTxRixREvPKceWnLkeiNc8GZyJL2rGYiuXG0ile8VhSFPSsF0NIjXO87WCUQTRyUiL-lfkw7NQaNrO_myxFavmSmlN_XKyOv5h5paYfurwVrj6JxJStpQ71EDc000W0RcewoYpJE6XwcRJEjkKKAZCfu9RXzIXau2tDY1wuHFdO9XxsOQOe8OQNiJU88SnztodWsnGB8Z-2uOGT7zmkMl0HvKiPPNClx_3pFre7JW8R6WmBsbSQorTlH4FLII3tb8QrznJfE7B1n9VtQBSprY7dyrWQUSAF0K9i2GhWVGgE56Wsoa5pFlcmLNcUtAmNDhZj2DvDTBtnpk8WmWLBq0Q-lB9kUmr1IwjTM6b0ONJn11J84m-c9z39qaWF64gJQBhu2tiAEoAAkZXcEs8PZBzOEUnvJseobuWSDIwhBwMEe84gMjHpT7K6W8tUNV8M2WyXvE0ylE_Uc9OQKh9_WCPVmerLaGGZBBkaUjEO-zKQbqeHazrGZHk-iYEUvP8u5oJV3OTceI2mAds8MrAjcVdXRkwcsyi7dxQOuYE27XsmjKOWUick5wzPU73SWe8a6v3etYdvEDVypFZZQaXeZ0ACR5Dvz94sHKX39lUFz0TQwscinmgaUoMvOnyoDsx4nvJV1EjWG4ep626DJ1DoPSaM4SH9Hv-dgy7_1vTqhyA8FS-Q9SLhU8Nd4-qS8DK5Agr79_rWd13tG9lw6EGDayE0RLp98nzC7m5w9HFmki2t01RdNcg5KZniSpe4SixUtaSp_T1_4NKjv_uaOzqVxCY5gmgtjMI6wQO7V33ws4x94DlbK5zaROQhgPJourHCzT8CKrRCHdr_TisTqPXiB2-UH0vJRMyY57N17uKfQyFjjWprB8P22354LUBxBkwmDiAv9wsSASDHLzQJGnCi7uUD7Esggcl2EC81V4O7TXTjLRBrl9w4mD3CbY-o7yLtRERFTgBqrT04tToixuAhSjOkYQ15P1WRD2NQftEh4rKtueRPUOrJKstq5_l_pcuL2LeBPU_W_RL-ro0uq6xPaBxQukL3e4zFQCigZr541BL3V6IdOZWULx34rLccw7iY9ic2AZsx2Laapmj1YYH4XorBftGgtdqcKIMI_tBxgchCEgdLIF61CYWisba_nAzB6WAB9g9TGhYcFEMdeuzyvdo5eha8PAm24h_eur5Xyb4vbOK36Y25wswXPl3sejHamF3Vke7FRkTfPAJ6GSqqFekv9DAv30QvsJGHm6Y9WJ42AV8ec29fMjUPpxEv5Iu5HHZWpGZB6dsb_8mszCLltc0SlXFxN-2PGp74_vSf3H9rzkljaempe6mbwK3LJuWgWUYw2U0BcEcOQdYVUpbUQQPkH4qonf_rxl_8KBx6whTTlgUGSHWoZyN1cHZJoLPSM3HTox4-CKbVuvtXBquIGcMw5FUDKbhaGNqCCrm28hiCO6ivMqewR_6d9pYJnMg3a9xSvQnqqdyppwod07D3DGrMtXaae2lOpXH-YTvm84Ze7ukSQ8f-02JzyArn0SzELicsTXmGfyn39J-ugL9iPgzRElylZt6RhaY5bhoJSilsCk696hmS2OFqsHV7Y0KVyhJVM81-_3kh64_lmPAkXouxp0hRlm3Eb3ATCU-fL10-MtpV2et4VqPuLXeD5EULjRC9_9d2FduEPAXiXKNp3mu0IlOFs6jfmMFS5kAoDtfkNFIabvaEODI23XynvZwonGNbjsOtehsNiOrGlyPuy6EdOd7uUZACCQfiIvF-NUjg13sKcgYOn6_HWLA5UDKmds3y6_x3CmzyPnGOv5KNTN1uEz1jb-mL-TdS-4KboEisl0bsK0v5pSrxTvMD4leTzhfBWMJREsimgVg_lveEOgfsZ1AtDjluoXQ5n60OABWUW00ICVK94ghF9LZvECEHIPOfpMOdHlk76hduj4ewDteMmnRpb-LswHLthLNy8fvafIC5m0ZDvBVZzXV4lb9zFBvQ90h7SahylyotNYYAsq3Bdamo2B_nK5kSMpRRN-lsCa3_ArYV8YjteegzvMhWp94nA06VyBrxbeqptP9t64bAnOejwNGG5200IhDLSZk6-_yq7iRKRpOldhkQ8rfRL3wBMBIjXitK0kkUd1OE7b8jpb79sKVYtN_lh8wcbkCjidXyeeOGcoLsV1W0O8yrUKw-jrIQR2lHJN-NQxt4zD5b7YzckICzomE0irwPu2w2Fou84Hvc2VO8Xo36ffr5600CHXg1oCnUrfbSyAfvIG7PTKMKDcNg4Npj_ysOloGaA2MFHxUkkDgXuGHpVBOcJLaU8aL0ZKwLXJ20_Hx2H6jBUCM8LFYl2NA=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_0ce6f00713b471bc016abee0ea03d887d1803ebce0e097ef4c",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 507,
+   "completion_tokens": 317,
+   "total_tokens": 824,
+   "cost": 0.004184,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004184,
+    "upstream_inference_prompt_cost": 0.001014,
+    "upstream_inference_completions_cost": 0.00317
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 285,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

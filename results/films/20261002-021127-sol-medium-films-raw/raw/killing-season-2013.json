@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907206-GiAw7M4oA4dGniGic7rC",
+  "object": "chat.completion",
+  "created": 1790907206,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Killing Season (2013)**, given the muted woodland tones and long, dark blue stretches.\n\nAnswer: I",
+     "refusal": null,
+     "reasoning": "**Considering film choices**\n\nI'm thinking about the visual styles of \"Killing Season\" and \"Jane.\" \"Killing Season\" has a darker atmosphere, with warm brown tones and woodsy outdoor scenes, but it also includes a contrast of grey in the winter. The credits are mostly black, and the action is extended with a runtime of 91 minutes. On the other hand, \"Jane\" features climactic moments with bright golds and whites, lasting around 98 minutes. I think I'll choose \"Killing Season\" for its atmosphere.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Considering film choices**\n\nI'm thinking about the visual styles of \"Killing Season\" and \"Jane.\" \"Killing Season\" has a darker atmosphere, with warm brown tones and woodsy outdoor scenes, but it also includes a contrast of grey in the winter. The credits are mostly black, and the action is extended with a runtime of 91 minutes. On the other hand, \"Jane\" features climactic moments with bright golds and whites, lasting around 98 minutes. I think I'll choose \"Killing Season\" for its atmosphere.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvxNXtKrPWLzj9LrExqv9qkG6nfu8VWffKcshrDDRUdSKZG7btT2uZAM-aM2QAWzkor3TV1XUD_1sa0RpBWYzjIKawdOi2u7_kZ1PtOZ8JCV-dfMwias8FalHk6iFrYQLy1NzLN6SXp5D_36sK2JBYIUDulND74Fkymbvw9L0yK6v9v_L5u8rDW_gTPnlP9upVYBQ5tTIhGBwwYeYvk12gHuzMtODacVq1dzlBGi7HR9h2ldThHkFGhmbJNPA0NQfJL3E_NAN0lIZe5JvNm8kqOB3daXpsLen0-arTRti-B5D073zO8OtzoZrnPhd2-AzLdJmch9SQbqsJ4HwZw-AI_RRo1jkuh4ZLVcSk-9hbx59rvJMnzxqRVU2giSkOaOr6x7eYDdDqwV7Hqq11KDlekvGxX-alnKFuPAOLGFWNkBWUm5ccS9QVzHbBjIe6Ofn-1EkmjWjOrFd8W6GNmZas3aYiKB29_LAaTZtzVnRxe7Fy6OGF-QJKhNSeS-J9_iJaabUh6g1njwA0VfLh-kKHLr4YGAv9m0Rz69D5MyfAg42aD5PE2uXNr3mjhg6ZpaOkXSdpEiV4rm3mSd058yFbWficYw6JBHOS_txkMJhHGShVBKaNo6NM7UOVpRbFpMqa4wkOu3XB1cjsGOkmrO1mZEHnpo9H3mkkRpM0H8I77_bgW7RyspEtnPeQqVErxPeSXLPnZRiPMImP_dr4dT1afsExn_ix0yhrO7DCpcnIx_9PkNeeIJX_aeX5iZMSD2fz5a3ZYoPzGtFr5y6TRXPHAGfVSSd2YdcP50g4mLypKRRcyDFEPPojGefDvv1-7CS9CtmMLC9cL-z2PUQysGTiGxy5jl9do_cBb61up-TMTXlYmyGToCmu047Noj6ols-pybivToCTcc4kJY_vIj17-herr99G2mQpZpvuZUxkTcpdt74Tx1xpCsfNH1kosxasYrzJe8qw_RR4gTAkaow6x7W0fLYNB1djLZgggneMoL5xuZeSOQReI_2Xb0yOT9ps-OtXx-R1_3YSxvLR2MDUfGlGcdDW8vj3R6-kzl0Cs7ti3QpdnHjteRHcFLa-fmsZFjbTjHjyxmhNr2qEQY163J92KCqQ0YzHQM02W-Gmt8oNpCWayUujGeoBZetj2gtSkFXQ9O1TIq-KGRml2_AKzD_9sFeu2sSKLhEKsUxFNlFnsrzui-VVt-mhbfd-EdrmzPPvTJzM8LFD5y9LrCCYExGrmSMnVr2qanU-7BkleYsyoIhOqgRX5HLsJ1tlrbgw0qKGV8GaFAXtfRNFvK2Hc_N5uhawdPOJb-gONGVsDMTyLH8EGOz5iiYtB5_c6EQJvbbIyRX09y5UMuMBYQHn8RoQnIXRpLXAeVaI3Zq2UEW_HZTVr9a9fz1NJxrDYzcHNRqM4PbX8T1hfjmvXP2_rIyhscCUcvIZDtDTSKaMBfh4eBmlalPkBZJwBFy6hmtqFTY9lhVwvBQEu6niSNHB4nWxYVqW-j13UShEexVm_kVT7FHGlcSdN3Q6TrAJnb0QfQ7Y-f6tAffiUlWpBlRNKmvKNlbpxP-R7za5-PERaaPxWWeukGiPpyv-lP3IRNC_vfRc8qIL6KwRArn-Yi9q5hpwSDVMvpBHoZNNlXTPS5QGCbvOzzJflW6NlZL_v7aGaSnAWEPWUaJM6BMXQKe1q0-wOQWzmTQ9znBBev5HFYeVOViDIB9JK9eC-ZMe7VIguXQOBntfFrNaJgPXdtv6k2EOxyuKLUUDsNd94Z60-yj3ymf4WtnGQc_L2kaV7OWJa70JsrbpN8AQ2BLxmiG7GIMRuV65CLzKCvjPnvU37U0qEHtI2Jfh3kAVGRCtjUaeq-zan9UGpCvZhXv4cn52aKwxWjKCu7iIVYiUkXgFm6_0atPiGNzn2PWX0YuuYWavhq3zRCTIrGiVdHONb_eNi8WYi5REdNXYloXnYgJK6A1lWrDzGiSvYYnPA1iv1qO2r8O04GEnvZkew8CHh1g1XM_xDHsXE8nZCF8pu9YlnHFgOiy8L2BbZa9Lo2deIKU69m_2XL0YPCwRM2h7teWmV1VdJGVvyyjodSrx1A9oJDS5l8-m6cAgbF4Myvx_sz6Fo66Wdwv4ykvOmikKPR1L8YS-zzQBITd1JlqvQbxgAwV_qSGXp-C3UIXUUlvK8EkA3wXvA1zNl4UTTPjZ4tacP3rr6kICQKVvBR_h7SafAb-9Wfi_paNjZl-ReAi4_QKz2U2B1Un726LZBi5_8dGYM5ru7ACAd9uOy9eXFQoASvjSAp9S-NqbwUF1eT0jLwg_ZuYFpAaChXcFaZQh3eoEb4e0C8-durguEXp89vim8KNvCe6GRjVEeQ08EtnDqWGELbo5H47vSBDUUK1M_tc0JZKaKMO81hATXSz7K3xhBp-9mrM4cimRhu0woVM3V_HCvkO0HEE1SMT_LTW_FhveHuwGaeP4qksStX1WEgHeU66c-wZoAAkIh-5QZZZPXxPSUkkedy20Uzgq65UI-N9ara1xu7SutcFPBci6eOoAlQfsqd8eJDfX34v0eSmeeaDVVJ6tCOeWdig1tgYPFMxuH5YeS_J1-U8OHpkcVGxHN6IrLgo6GCMObkY46B2H2v55N9WYpJ7BchuuCZqTE2bGC_PZ_uz7iXNIYsKuDghQQ9jea25H3ZI2i_Ju3v2wWs1gUQ9U1ZMcysVk1wUdSoiQ3IKt8b6ul6oU20W4ZYzr9iidrrOGXKj30h7FY3ChpE4UjPmMn24OqkHkav7725L3G3YDojhBVyVgulcfWOuG0vimf9C75y1mKxwy9LSRLOqRLl_Sk-n-YgcneJNIlUYlw8K_aBY18UyLdDbzqRlcsltpyoLmlZdK4R1Pvczox8qWfv_aNmYi5_STzXU2VvZ5V_ANnexyr40X0ZgLX6KWCizAcrhwybxMt-2nVJ5EHihSpKN1RayNsIN-czkjNVv671dTzpfTuGXlHEraDIj9vdCyfxcE3sq7fbcNGKoNk2gIrVHWWvsthZB0DAkQvVOuONpEdosfsuzCes-M9RBY4F7QaCBKgz44JCjuPUaGW1xYbiKUhXk-PYQQI98HMQ6FbL2XjS_Uz3_FweBAxnHHBOs0Huh4eGHRAy53UpX7q_Yz-fZGga6XGp7c9bqkzA0-OZYnseVh-K1WTQ1WmABOII-l35WNU4kUJzfoRnOUNPRPuNcmcKhCkxiGkL7k5dYsLMb7aj6q18y_A9o30D11yge9Uja7Uuuy_amX6s7RIA18ayq5gZAknKsu7KMozzsGc6Q7qX3W6MgAcyfa1OTaA_ndc9BVAo_PtoiRxb-Ilr9sjT1HzX5QDmnGU6SZEQlkDONL8G8h9t4MIkbsOPAvE1PFv-Rc4oIKw03SRFxd359E13D2e3OI7i2FLKYAroApuXW8PUDX7PdmPh51q1dxUL83CitnrlR5lDpUgvupJBkDRfFr1QCAofUkbdeC16C5q2Cvw==.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_05ba13030e6ae7a9016abf134c6cd487d187fc904a11854cda",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 427,
+   "completion_tokens": 378,
+   "total_tokens": 805,
+   "cost": 0.004634,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.004634,
+    "upstream_inference_prompt_cost": 0.000854,
+    "upstream_inference_completions_cost": 0.00378
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 344,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

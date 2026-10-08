@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954764-NA7X9neUw1N1ZIr48eAU",
+  "object": "chat.completion",
+  "created": 1790954764,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Stonehearst Asylum (2014)**, given the consistently dark, muted browns and blue-green tones.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": null,
+     "reasoning_details": [
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv80YC-lUVEogbHXHaz_EaPC1YBZFuhLK_RD9c1xqEntXDrNGuuifxBICPaUzbNb8QZwr1vcELdUlSp-NePXqtczDZPABttjiS6ELtqbPtGDKIG1EGdLJJqbPmrZsQeky4TM3S5TqrOjlHzgyjojNq3nz2Dh5IH72PIy6Dcjhzhq3QEfAVCgb2HD3LqDCYfpdu1W4L79pKIE73s4funUFA5h-qa4SgQfdaFpFsXEVkR7HYNuScJCftl2dYuPHlO_jjwuYZKcP3eVIJzgJpHH_rXyb1CyN7ucAvuNIDClHZs1Oz5wQs87jWCAhB4t0Deend2epditmAtktTGoTTDDyu-QXM-B64dMiJgbHlS5DZ6kXMIeD91BEdRyYfeNiPv3I8xz0afrM7ppV1HFvGJHJSukU1v_zRl6VDav8Q3p9lR1QqVPJ6NIPXiP7wQhtN67FWoAOTSmXDMH9n3bgdBqFmfigWt4zxzRrRKM2z-oZDy_MZX2YUPKaRmDtj8GE6QtgAsoL8ymz8jYgTVe-_Dk0i_EaI-8SntX8R5afK0EzFjVbPHrqUvHRn94syXHtJ5-hBUEW_q97F6Q_hXBpMCV9gm8jKKa30CmWiWDPVfT8OuYzCO78LSAU7YSm7cQ6JEIDjg-2ERMnZ49dYm5VUxogGl_2iteh_bgdel9oNRLyYbL4pgjsc1YEQvU-edAUCQI4Bf8GnofOePZ5SkFSBJPrjdrbSaHFtcaJCvUupshCYwZXeGVL6lrI3cL0MAKbU0LhbBUNyhlckovTMtPfisLaG1Pzt7VEl8TAEXgPU-kMMqNNNJ1GAtwKXtgA3oqv9gEV9p2vdnrLmACbnBisaPijsw2TcyROcLGkykwiBXbRJD6vwAQjLYod-mXVScPjbj8fsXzi7tYDs0hGz9iDhkVzDnR1wT_9ZrQW2lDClXu-BxBvGjfMRHpcSzl9o5hOkXdef5EimjPBIFIceoTOQ9FHe2Sepim6L1A_5h9OalzXBq1TYBwubh5fP7663Pyh4MOPGwNKYPS6_4hp8DenEaBAXwZsrvN6Ryp6O5zzdWd-BkCNHsNImTY70n29HD2QEmpOz4tR9BOh8ctNKLGP5XNL289f8So-nZ3oJm8CTUwkAK-X2zL_-2Su_Cb9cNLzSWZTS11RbwG_9FcleM4cXnj6WlghSm-sWzf-gTiHT4lTqbXebeDZ2UHm-1XlIrFJBQ-2vpnQ63uva8GAWGZ7VP_cPlUr0TKcgsGTB_7-CJAFZAkAw5MCL1TUH2EvSqzAkprWHJ8U7uiuJT93Oe6cJ-5Nr3FDFPGwcHDkX266wn0i7t2JpOrRIJG_VzKesUlNBcsT98TPX3DcAPB28zs7EvImN0lElaoJ-lZlkwd6Gue6-ON6KJA-D8bRLHUsGg3nNAFuOfH_PW6iTEUDJJHdaBQEChwB2CZ8D1k4z1ak0-vjiJtECZy7idrQFRAmbI9A47hEfjDvBWORBFqhXTPx5AUfzLZifQQzQSrhbUS3U4bVhOL9zzQAPhHmzSoZdq0NV1L6Se4FMfNSPuijT4HBzT-HEVHRXYNNyrykTBMfhu5sWpS0QwntHfs1IN6uK94MjLJiA_VLJsWH4M5yl_2f7m1_3GFzgFlZxj4y_-dZhoFp3dDlXSzIliebFLbBH3HDyo-Q1jxWV51HtCbGhCZJkboqLEqhcsvWSAPW--KHbo56jjgLlh1a3zo5tW15onP3LgL669y4EXAUswL3So8gX-oxyJd-E7S0BVFKoisi3S4Hn21X73Qz7uKmyg6xdPAgQXuI-t--7iwvIKpfCK2Y9ySCe1AMlprtF4LS5K_zHwQY8MV_pz5g5UQNNYBNhd7BnnHyJnJDb_oYQFwWIU8qEcp2WfYmVAwRr0kw1RCHHnBr_NO0d9axqZtChv2_FnAdEdgRoBzZHe5sjXx8oe7V69YXyMYBdRXGEzqqjSUCnP_7BM2uIEYGvqMcFgBR4od1qt74OjpApAr0pcFtUfkxGnmGYnMjQ6iKlTIxmwhO8e-lE-JIIqqA9xnlboMSNcvtOpkreNeUpKW2RQ7Z5CuAkeYNKxou5M65lp_Peo4_hb9c2GNUII831oljr_Uan3H1ZVifIsXnMKxzoGMfF1Mqr-Y6dK2KtMlpbQOWfXlHR6MgyKbPMaaiYk7wSnGNcWV8eiPzzXX0j144v6LuZ6BDteJc3xsVQPcDX-wQZtksSe161GV3S9MX5kms70rrBdzzOmop4BkbAifsjD3NUqVlySanDz2MYiZCp3y6K8nZ0956JAM14gL5Eg3R046GDmTnGRfAHKrTfIlLHmOW_tTeq0bmzQ2Kaz3i2_OCP7gEhoOMiNEIbTcwSjnY0rQoMxwQtwQDHUql17t80lp2GIZp9jTlnH9_whsqoVXApx4HnR06AXxDcwC0jTuDEt53hVcJlqAVvLZ3TDiWq5HjHT1fYf2zc_GtWtoFUzBUTeLpSJJiYmew3iTAB942h2H8x5oUPxhHYUWugga-u_Sq-XA5fjHjh8ezAEGU-31wh15ax-NfmQ4Luis0mNgejMjxfwp7P_apDLuwNEeN0rZGcdit2r1HVuOGfibNc1UARk3xFhMHjl7EB8bwT0OcmMtM-7TpipjcjuZwoiLsXMykr0cwzyAGJYSQRxm104bxyFZXJWVp-6V51nEugZiLabLojuL2lqxPaAXovkrsP6tcAaTucv0izfebWmN7uYmkAL4ME816d69oTUQHyzoqe42FX3BwDZ4F_4RZ9K4pqC4MaEtS2UEqxM5a6CDSOjSpF4FbO_p2Z1oYM_D-2liDokxoQRktb62-HlOJlJC8hymz2Z-MljLTrJwpg1sNjJZZLz5ounwAs1YtvzKtxxfLIfZRB0uSh7xm6VrTe6UNqF6zzVoBpEXrzYiCmg3NglxLEow4EKP4ZPJ3a-U=.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_014f7b044f11c3bc016abfcd0e3d3487d1b12a899a9133642f",
+       "index": 0
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 446,
+   "completion_tokens": 311,
+   "total_tokens": 757,
+   "cost": 0.02001,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.02001,
+    "upstream_inference_prompt_cost": 0.00446,
+    "upstream_inference_completions_cost": 0.01555
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 274,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

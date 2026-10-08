@@ -1,0 +1,21 @@
+{
+  "slug": "prom-night-1980",
+  "title": "Prom Night",
+  "artist": null,
+  "year": 1980,
+  "label": "Prom Night (1980)",
+  "hex": "#403634",
+  "rgb": [
+    64,
+    54,
+    52
+  ],
+  "frames_sampled": 5578,
+  "sample_fps": 1.0,
+  "source": {
+    "youtube_id": "ouVDididpws",
+    "youtube_title": "",
+    "channel": "",
+    "via": "yt-dlp"
+  }
+}

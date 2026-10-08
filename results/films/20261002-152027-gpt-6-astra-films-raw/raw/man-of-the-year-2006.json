@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790954699-pXtfxms02sy7u6mt5Opm",
+  "object": "chat.completion",
+  "created": 1790954699,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **Take Me Home Tonight (2011)**, given the predominantly dark, warm palette suggesting nighttime scenes.\n\nAnswer: E",
+     "refusal": null,
+     "reasoning": "**Choosing color themes for films**\n\nI'm considering dark browns for the movie, especially for \"Take Me Home Tonight,\" which is predominantly dark. Some others are brighter, like \"Georgia Rule,\" which has a more romcom feel. I think about the color barcodes: it shows a mix of dark and brighter tones. The opening to \"Take Me Home Tonight\" should be bright in the first 10%, but overall, they average darker. My best guess is that the typical theme here is nighttime.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Choosing color themes for films**\n\nI'm considering dark browns for the movie, especially for \"Take Me Home Tonight,\" which is predominantly dark. Some others are brighter, like \"Georgia Rule,\" which has a more romcom feel. I think about the color barcodes: it shows a mix of dark and brighter tones. The opening to \"Take Me Home Tonight\" should be bright in the first 10%, but overall, they average darker. My best guess is that the typical theme here is nighttime.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv8zURvc1TsmgyEatofrbj9nH6agkOuOgbgb2FSXNTzqYHpM0dg09gxzzyXzuhOUNaQft_Vizaa86qpLuGLguKuHZv-BJ7Jc2ey1YOtI-9bz1fWhgIZU0oog5Zy2XSYyPCLDS0eg3cukB18XJoz3aM--VGs_Xx8WT35f4KRUCCAErhdIKVXkhhPTUGHNy9tvRnIAmgy9Y5edd0VpqPXa35t9uZpkhNisGTdIzZscfsYOE6QLYkVEM_X1iXfWLJST8yBZ_MrLu0VgC_agwrztlY0wgb3ExzMPXw8ADNsaGeG_kX91Pm6b32IIOYoGqMwS75UNe9p-0_tDZ5JK4Z-uGJuf-11RmSFnA8C0nihMZu_yIPILKLG7leCWgM41pnyZpk093SCnnEXi-i_OkGZB5BRtL6ZNpY-d7eBhQC-CzFgHgsdhITHElGYQrDGBoCOHeey7Au63OAfqJqjU087gveBpqCzeaZx7JUYRf9XYixeepErMTtDTnlM0ZNPCUneIwSJpXuYkG0iB0B7KLHJkup82sOaTztdFfL6XDA_tO4zuojBC3IGm5AYYGgJL6z4Yw7IPETHBiHQ0RJ5nhTP7enAEmrGq9Jfa20rhrcTM2b-mBmS8RxwOaw3GRGbCPMPM_sYaaMyQ9IYj73h73PLuRkkVTY-I0Ql7UQX_YXUTe2Y6tl8EyMxxIJW5KNZ4IvuVh_-nLR01ys1TyRFKkwaWyxx2OqyN6ka64LaB2EYwP4KHOI80NnQfyg8hVd8I6BwgZV9FSEEYr4sALUqoo-JiVUAe4TvA5q-ail44ZQ_sM35gMUQsdtl6DsDdJvjql4Rk13li7B4uciSh_2ONb7u-8QJl37BgxNjQJX878sNu271Yr2G6sdiACJrlLCB3vQJ5ROmiB9pDt6cG8bLze986Jzn-G5_cJxNrAuxIksqqxy9vwidBJBwm8iS_d0gUB2RbaFs1XdNoGdQYALlLcysxCh7l6vw-LhNNAlQ4zE65_TKq0fppAWKzUXnvn6gfXUcsxEDBai_jd8w5AAmJmfBHoYLzdVq0P94dqPsBb7P3RD1MqAH1UTlYxaf7IiGzKf0d30_br5GTc4d3SZGcdaUBXZhrKPcgt1xmuhsIRfXLxuLfrEKHeki3W5XOGvIrrHTS-vOS8Sbs5GzmiqmQcmyLCkD_YbCHZQbW5Idp_i6EaUQQzS3624AqpdjUoFo_LKdeAZCx8z6pHQPsrx8ERMjAxa8uVqtG2lJYSoe3H8XePV16lercDJR81P3TBiej6IAHtK5U3nD3YwpxwaaDDFRtma9XXUMQluk-g9v8cGdZP3UmXBVO3bjEkYUB2CR17KnNXmPn4y1Za9a7cx-C46JBp4t_BlwhZC7OG_KiR53bIsyAtdEnXvqDsxTgYqKNqYrd3xEJAJqsPzEwSMOszUii_Bh8s5AJ9TMP1qZyBD1kXURJjMsVuul3xzn5jqUFJ2EgFcpoUdwInfAEKBIlaV4A6ZKCeIY7LoUx9Wu6cpOWfczAsO8MRZpmIFhWl1Ir6nzgGf6rQJwtYISLieR43XbyMgY8XcwVQPzU9Xxw3a-g7X0X52HN3-MI1XRuTc28_EkgAtOf38xClItVY_kQqDXgdJGOkoCYoNiD7-a4OSwHt1gIL-I5nBo80QUUptBTrV5lOXREa1TeOU6XCfkZpluAKpnn7px3Db__tJqLfzcptLC6ktjPfIKgrxoKsJsCI9ttlwbBb4R6USyWAKDqX4DPDT6_VpUZsx_XHT1SQ3CUPsFVm8O8MMMb9iclYO4XhXbaLReZHHa2R6gxZBK96Qr5lEuJaAb01ev2JG3bvH-qwI1xt4AyMq3llGTr42SuiLKkJkWER_pxOLXuIC7iVRWYC6pwtoS0UCcHH7QlINj12n990_Knhr7hoE02aC3lYYOgaWct_fHMimcv166X43PAfcsgJ-BOXiCngR_vD9JR_bJNTPFlzeYWg7gttThbmhO9bf_f9HCoqJMIbOGGhsq3h4mHy3eiDwl79pPeZXvL4w1ILvY1mHul3m3nN-1fHbbKVZR_9UovgISXiuM_Cjas9akUyQsw5EGRIBbO4jgOzF0hfENSEODLw5gwL_DpU-p0ikd7bOaYn3D9P3hsF4MBtxbqn3Bj7IgwBWdnfLfiu7DZb8QlYUx91BbMkCkpI2UKcuNe15lp2KfsysTn9stUkn3zFwuIf9XDpvczO39ufQi3HJAp79YjPJCljjzkA4xQK9aRR3BcrLDLHmcXoQ7tv0eOmQJ_JUkPL1qkrPht0ZAZ5M6EUHAge8vBqLk__bmM2qk2JBXKo97l6FpC0whkzCGdMtvmb0P2uW2BX_52yUzDVcMpdOhynjFGB4MLyTxmo9-mu31z7EBJ8_aZ7iU5-Enevc_xpjZKwkmLq4NWuxEiOrig3gmnH8y5W_3Ah154dHnMO9vgu6k4sdSXmAU6sqxEdu4EIin9v2M8xiujLVsQwcJCAIusbXOJs0tcyvE-uA6Bm.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_044756e56ba08a15016abfccccd64887d183ac4c6af458b698",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 432,
+   "completion_tokens": 227,
+   "total_tokens": 659,
+   "cost": 0.01567,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01567,
+    "upstream_inference_prompt_cost": 0.00432,
+    "upstream_inference_completions_cost": 0.01135
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 193,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

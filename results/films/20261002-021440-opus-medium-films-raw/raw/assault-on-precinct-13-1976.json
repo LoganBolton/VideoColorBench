@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790907302-bdkJgNHYtAdpe0CNdPRQ",
+  "object": "chat.completion",
+  "created": 1790907302,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "This looks most like **Assault on Precinct 13 (1976)**, though that's an inference from the color pattern, not a certain match.\n\n- **First ~40%:** The stripes are muted browns and greys, which fits the film's daytime opening in sun-washed 1970s Los Angeles.\n- **Remaining ~60%:** The stripes turn almost uniformly dark, blacks and deep blues. That fits the film's second half, which is a long nighttime siege of a nearly abandoned police station.\n\n**Trespass (2011)** is the closest alternative, since it's also a nighttime home-invasion story. But its daytime opening is short, so it wouldn't produce such a long brown section at the start.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm considering the barcode pattern \u2014 roughly 40% brownish/grey tones followed by dark blues and blacks \u2014 and testing it against films with a daytime-to-nighttime structure. Assault on Precinct 13 (1976) seems like a strong match, with its daytime LA opening giving way to a dark night siege, while Trespass (2011) is a weaker fit since most of it takes place at night.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm considering the barcode pattern \u2014 roughly 40% brownish/grey tones followed by dark blues and blacks \u2014 and testing it against films with a daytime-to-nighttime structure. Assault on Precinct 13 (1976) seems like a strong match, with its daytime LA opening giving way to a dark night siege, while Trespass (2011) is a weaker fit since most of it takes place at night.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQS0wkKEAgSGAI4AUIIdGhpbmtpbmcSDLZgsZKLa/84+IaUqxoM+etGPmZn9QytDVStIjBvPoTY0+JyunNEicKolW/8Tao/GNFBZolJ85BrNeV2EjQtIswAcfPmw4kUVExiDm0q8AiortXRvHaZQH7uTi+q1GmRwSj+Df3MJ1rujYuwp4ak+9Yx6QwAQ585DgmQrF/ltkVzIpjTmwMOst3Q/52Km6ZOtWHvBFwzlxym67pPhn3ynn3iyP9u4W9T+69etlKyj40xc8woWy0yASekGJMZS0PI263pSbhGhS0nwEAp8mipVRheJwbCmaH1b9z3mhbvW5Oyd6gj1BenlahHsi6V78gwrXCDpv1u5H2IeZmy3d408MKKPBKVezVpNRa54SzWaxKONyx9AJ7fR3c9f0/0f9kl9paxKw03yqJhlHqDBljGDnI8s9msaPx8neX6cTAZ+V+AlSqS27KdelNc76ooStIS9Tnm5YCFNpwvSZ0sEI5EMynSAhovrv/hpZlgjnW6kh2KXBNU0jnKzUocxAQheQaqDea6qW0QFlKL0fmyVVYZZpTIbFfDv8FTFxRN4hFQzgLo3BIFZ4lD8koqMs047mBM6t8E7ufTRTs/QPF8VMAI97JUHoAQ4sLHgPTphrfUq/SLs2VWaKmP+eZBx6IVUzKaSBN747qOP5bYxd7jTJwr+/ca8ivVb9PrsRrAWq87PXbCbVqnRzMeZCWJ18qXouI7quEsPkxh0aSC6ve1YcTuwa2v5cvvHa/BqkRxAJ6pgy+4rr0yi18V7CYcPmzpg7wh5lYW2p6JGTeZNsHTzZYsM2W4Y9yfjjBZfWFxuukKZedmVHq29PAKaLkWQ98C49X0dGmFMO5PCIsFtOxXZx68Ed4cnEcfJ0YMEMwzofIT9PjScmN1o6JU0HLeBaMeC6vqWOQJXyqkyujbjXxBdOWqc3KAUHzqSguO5NXtEuF7Pi0kZcQ9uJrG0zMUCDicJxs2yM18yNx+ACaUR/fhuNW9S4UQbqx5VpocW4NIIxTmVtW3/sjQiOR5z4bkuvZACQAXZroSOfkplB0zBVQBV6lATeiR6FuQtr8HALlivkuFtVxqsXonYfQB5i9PTF+bdDilclgw3/aXLb/cRrg2u37sC7MP/LfUqkyd7e48hjmKXZLOqaAs475SNNodsmp0UlIsiUJ8b6FzY/O4meBw7i0aUEApwF5ih33VX5hhq4p5HFvTFOVEjeKDiYT+aUd+kv4d5Urarp2m21wtSUhXuLleKJEA3HMOcx1OKClDSvRjR00DbuQhDrPCYGXC+0RWdm4UJfOgt5HwUrL53WbA+662iEJnCgmO2iwMiTs5ZABYo8irIFZuiTm7S8Ld//6CEXqrInVS7C6itWz3KIX0C+QRgttfcsI85iETW6ww5gd8KPYFAAcDeq3wJnLD6RRt9aS2RblLhAFPLYdFOQGT4PSaZA0yw/in1yMAELfO4K2VOXrJlaDJxXCGPoHTeIK7NyDke7jaWVpGzNM9WKx71KktU7i17p2QL51QSYm+8rvl8A/iaORCv2tysGnNhPJDuAg7Ek7HlryMC5yId7P5cXz+eNlMzn6jX8I60twoixwJtw/JNUH4UIVEg3Ttz+kqJk2pt01fn7hhb7dEyV5dKYzIuhgB.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 541,
+   "completion_tokens": 478,
+   "total_tokens": 1019,
+   "cost": 0.011724,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.011724,
+    "upstream_inference_prompt_cost": 0.002164,
+    "upstream_inference_completions_cost": 0.00956
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 245,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

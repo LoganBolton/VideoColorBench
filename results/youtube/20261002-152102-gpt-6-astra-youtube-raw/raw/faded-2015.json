@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6-astra",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790955105-fct6Slyi28OC4mllSFJ7",
+  "object": "chat.completion",
+  "created": 1790955105,
+  "model": "openai/gpt-6-astra",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "Answer: I",
+     "refusal": null,
+     "reasoning": "**Deciding on image lighting**\n\nI'm thinking about the lighting in the image, which has blue and olive tones. The outdoor lighting looks a bit faded and desaturated, but it's higher in value despite the quality. I notice that the orange stage stands out strongly against the darker hues, creating a nice contrast. There are neutral gray tones that also appear faded. So, I need to make a choice regarding how I want to represent this image.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Deciding on image lighting**\n\nI'm thinking about the lighting in the image, which has blue and olive tones. The outdoor lighting looks a bit faded and desaturated, but it's higher in value despite the quality. I notice that the orange stage stands out strongly against the darker hues, creating a nice contrast. There are neutral gray tones that also appear faded. So, I need to make a choice regarding how I want to represent this image.",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqv85upO--6f03FCN_RYLu9AvUCxyJrRobYOrARh4RNbOuvyFgx83eafRSo9TGyut7tqDpQbVF-AOrIfPNDN2PiEGhPewHQckpRqCQBzEqNnJzZN0CkPc0dFEyXG2I6fQHYuNs6UQ4M0QcrRs6V_WZqNMvTB3m6CmKn_AEtS0azIw3w7jEKGdmF_XSCgByZmlHhlr5pFhqC1ZTQabhbfRJBrnA5DKQra9smX-np9bqFR2GYn0dDEEYTDb7SfavhtRxSCHTUwRN-4f5OOV9PmvUXC_yJR24qbySYy1cp6tdcuyw-SU1jvnglu11M-nBrXRCCM8MIkD3C1fJ1y5WwuIOYijZ-VvchRNnc9oJmdV1Buaoisb_ANgigkgnlY2DdyMafLnxuqOGobnsn_jPDb21F6VVc44xj56bq2Vx9GcOJ3DjwK_Z3NMJQrqt-Oh43csv_2FcwQN4KCBkdgp3M4-9RHZ160NVxP8aLOlfnFMeDIzh5sbJ9h_nkNNbALDvsRdWLOC2gstDRJDc4HlELyC-8huXT_DRIFZ8FJLnn_sHVQnukqkBHZoxRp3bJ4el_U1EmllA3YNuVo4zWfJlhDtvounGnTqq47hPCJDLht014iGDQ24bD_C_8VWba3hzKO-LyxGj00sCISKhMGafbDDD69p3cD7kWZ7znJHn6jbjZSepjK5LrS5FvCCHJrQAjzAhafnp7LZG6aHJyxA1sIxTIPsv1_KmaEF470U2qejxHtKZFPXzQrzz3-9uMwNlYSBuPr1DPyNTKbCLDe3g_fHsKT0yMYplOm4mHfpA6rILuJawkY5ZaYmSjUlYRvqQOtdNjE_CvENkKBxA8Rbzbyo4Dbg_1-zSsrLPdRB6ZmTiCu9QP4Ed9B07rYJDyUYBC1FerznHhFVtlhSLsYA9OHxdhXq_nFaKNSiOEZpVuhwIopMCnFDR6PWyuwT16YGaNPo7IQbXwS9CJueKuRMrM-kzEegrsXuGB5R3il_UdKQzuQvyZlg0fRrmche6IVNwBLsrZYieDAmsENWe8JnoTycVJDaHmhqkpeSFD7NZuXq3KTThcd7RwcLtPHksrXkJE876dy8ACoKJKQTCZKFVgVO5HHM7Da_XzIygpAf7cJCze4XhrfxgKe1qRs5oEQz09AMEH0S8xv2c7muyMmNL3Kh8F2311mHui7kW-YFTdMLZnTK0bsiMMRSEzlNWT-N_yllBgR4CpXvrMaqC4cMm-KskVh1QwaMnhdA77f83sxzZY-2URuigYfyLLpRY1G2-d9rxTJxc6py14UaPPF5jiX3AYf1JejnhSPZmSMz61N0m5BCUf9zjP1H4hqn5GQ2QHEg9Od_C6P6CSeycwMstgLBaD9WZGyEyIEabTjl_PtFAQdNJWVYvCtfJDN87kMG53AZM3KR5qrNH6lI5-tbSE4cxVDAbUdgoFHLXT_-9oYms7TQl5-fFLf1cxHVGUeO-i27oeHIT3vdPlah5zXuLa0A0eKYu9k4TlcKSrmACIwfw6RnwKzwvO-CuAvbpbE3To-DoutOJsKVrWHqYAZTg6de7YuDsKUMzNBEncIup2q3oYbnTn9p3QkyYXqpbYYZV_YNt3EXFpPktlNe8X996zGgW8s2JtQetFMGi5y1fup_NBVVfYsKQuBzrp3VfeOHiVrY6AcuAcbMnnqGStir2HmUnx41f6NqURU8m-6osW3-EzNwJqSRE1ZI5eu1Kzn-LvpfmXe6FrXbOdxsdoG8m52KdO-IKQj9YJTBvVys6VoF1QBHDa4cUlmuZHLk7HxUnq3-fFiwXA_ZN7GXOyH-5JAlHo0mzjXQAPzFiiHAkKCrZhjYT7H27rYh-4SILs71YMwWqulvOEiY2yNKiCJuhjsbsrX1wFIKTXfZq9V3i9zZ3Qq0C1H1nWXOjxulgbrX_i2Sj7klXAqjv4z1yFb9PjkdXAfXYRsjPOO0j2fKCtOnL9-o5mAIuEGUHcbbz6nF84eeNYM_Vt865qEQt1Vh5q7886eQpM6Odu2Uu6TUX45WKc2vTBksj2lJMyj7sq3YZxLu3AMYz_c6BGfSwlyDruPh7PeQF9dnt0WO2u8pubXpDNujUx9-Vu_hIk2Yxd_rVkPCEmzEI2PiE77Oj1nFXwXpBqg-I7MaENi_yO5FSQoRDGhUxqXjDXF9R2kfEIjTDJkSXsX0bBeJpBlc0tkHG-e0jD4K0RjmyhOkTdWxXdG1U8lyM6WtyLwK45M0XYKiR3O5YFUfNpInfgSSN-qNLYA-NqhWeYoGURmHdbX9rNMlejTi4GR8VQfjVfBoZP5R1PfPgD1bjDFSOmP6zp6sVrA3UxMMqoWNUjXJ6GKsQPrxxjV47412mrC4SWtqWDlII0jLs14zPA9VMal_PR7_8CVvrpVmEYj-zdN8jOledJBRdWY-H-5GPR94Le-R2EwjqacBWXLbPy4ykUnDc4ZDiHWWlsI076n77tV--YWflf1VUWXUTQ972TgpzBgumRRsu2zLVlM9GxjjBGiuxHJxHeawtoNtgFHTjGY23eTXveelVco4ZHQqITJyrLBxvrFOkL0pDKD6BdKHsMhjjyUFcvhUzh-kh1pcENU9RpSrhCPOND8eAqUkbbCVPM2af8gn-YuOCUeaJKhy_6FKnXshpmYSOx1JJzE_2BsnAte5ccFMgx2-AYhxUcbfUF4Shm_nzA-MPUkKtwieSRKAWDnU3gcgQz5Ib9eAlFN2CgGMhsqO3Jr5LUHnwciWzcBfpe2hwzDFTraD26o83QoiF_YL1QCrjObb49FVdB7X46gvn38UVA9MMuDfPvCPXZFGtXi38OKSxcyXMA9BLh_Noint64CqGbw61IcTBFEjr_-6i-MdgQhv-FkxPrYNxv290NEvydQEEKOnv.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LWFzdHJhLTIwMjYwOTAzfG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01c7b281283c1693016abfce6386e887d195fd36bf66b5bf9e",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 481,
+   "completion_tokens": 267,
+   "total_tokens": 748,
+   "cost": 0.01816,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.01816,
+    "upstream_inference_prompt_cost": 0.00481,
+    "upstream_inference_completions_cost": 0.01335
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 258,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

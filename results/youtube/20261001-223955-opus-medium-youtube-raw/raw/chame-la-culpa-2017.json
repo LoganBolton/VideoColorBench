@@ -1,0 +1,66 @@
+{
+ "request": {
+  "model": "anthropic/claude-opus-5.5",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894483-jn3qpv8LxD82eIVCOstB",
+  "object": "chat.completion",
+  "created": 1790894483,
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "end_turn",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is **B, \"\u00c9chame la Culpa.\"** I'm not certain, because it comes from matching remembered colour palettes rather than a definite identification.\n\n- **What the strip shows:** It is dominated by warm browns, golds and olives, broken up by purple and dark-blue stripes. It ends on a block of dark and bright blue.\n- **Why B fits best:** As I remember it, the \"\u00c9chame la Culpa\" video uses warm golden-brown lighting against a dark set, accented with blue and purple lights. That matches the strip well.\n- **Ruled out:** Several options seem to have palettes that don't match. \"Sin Pijama\" is mostly pink, \"Mayores\" is pastel, \"Dura\" is bright 80s colours, \"Calma\" is a bright beach video, \"Dame Tu Cosita\" is heavy on green, and the \"Learning Colors\" kids' video would be bright and saturated. \"Chantaje\" and \"Criminal\" are much darker overall.\n- **Close alternative:** \"X (Equis)\" also has warm brown and orange tones, so it is the most plausible other answer.\n\nAnswer: B",
+     "refusal": null,
+     "reasoning": "I'm running through the color palettes of different music videos\u2014\u00c9chame la Culpa's warm brown and orange tones, Chantaje's dark blues, Criminal's darkness, Mayores' pastels, Sin Pijama's pink, Dura's colorful 80s vibe, and Calma's beachy tones\u2014trying to match visual moods.\n\n",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "I'm running through the color palettes of different music videos\u2014\u00c9chame la Culpa's warm brown and orange tones, Chantaje's dark blues, Criminal's darkness, Mayores' pastels, Sin Pijama's pink, Dura's colorful 80s vibe, and Calma's beachy tones\u2014trying to match visual moods.\n\n",
+       "format": "anthropic-claude-v1",
+       "index": 0,
+       "signature": "CAQSlQsKEAgSGAI4AUIIdGhpbmtpbmcSDM7xS9vBMyhWgKK8lRoMlJjt71d490N6FfPSIjChuA9iCsw7yi1U1U7rCN8xXvGsBSpmbkGb6qXk4aFNgFoWKmFzfdqLRmWzYkiQYdsqsgr7MpJZmczrv0lRmNzHT1xlINi2C0cnHJPhund00JiwCZwN3SqkKpJfEQJR5l4IoGD1nWiT1FPW/LmNBpiukChHGo5cT1es/fisncpFVSty7PpyQQ47YC0DDl/shNj1W5vQknM5bLfmQwowlgTpRx1Q5E7XbADgY3RvecSD+f+wL89yr0xtXyWY/CVOKyCWkHWep5ERKqeBb+/le5Nq5BgigNf7qu3+q4EW1c1JBGSM4zFQQixitNM0GI1ov00qMTiC7sR1WgVgjDEsVAXECRBVVzN07Y0/kqNicpjBjk6uQrGdqG62KZIqcllcxOCy2slGIlHgyRCaoBmUnqM5ldw5yhEhmL7ge5VyWMpLZ4oBFyFmie0t6kP7BgFch7qcRogCkT7eKK6fISrYkPzRG3kD4qzFAiIutKE1RL8+sYkKCYQ4E3uANRQumpqoGTDHGNCzEEj9pQ7uU56ABGAZlzkH/0bhpu4lEVNmg0C4/JAvHnNG/UMmEGZ1wo2qzKqBnf5KEh0nP2o/6wclncQR9d89EuyF3MpOSIvf21hblXJKwoqr2FI0kd3begfv0s63X/mQGRmmn+/L0f+5zOtPn/83XMQTW58iuzYg6RcXuDwe3X++qN5YMci4TiggT3SXfzB0pGocR/oo7kTiiFvjn4pYN35Q7dss42MdjadY/KNU9ViHxDNGy9cxlWcAyAeSn0swnNvuHni0bkqxaZT1MYp4towhZyT0ZRvVfqiNDZ5aqnCAjSIz2cBbd7/C3wfpRhA7X0a4MrEHhD6rGB7UtS6hwqOJuszJQM1pcHgoizqaHO7PKELi0HHf0leAEheDm52V7Wa18/Yfv/j0MJM87laVcDhxiyNNa6ld+vskRR8zSHjUd3NfWrhejw0adn4AYMbWMCrIeZIJgZLI/Hmc364U6I1ldgnfNY1LIAZE+Kj0UD6ro9EU/vNqBuZZIn1GRAbIF8p02Tt4Hwx4SFBhEXtHpATwU7PFUwu0E1bagH8odEFV8Igm2gW968H6Do59E+fwyy0YYAwFQyuB0UC4u8xGBUclM8WHvxXz2u+mTChLOQzIzjucZGCsBweelmXyTjr1yV/qre7hNc1RJzhzqQ80+UrvEWwO5kj2FLhKfqKiuQaayNCOQWq6CiCqaPGW+BBPmroJ9ZRajlr/0h7oLjKKpHmV3sxk5P9uc6byImBaZl6J+Ysx6+D3O4OyN60ZyYB3oh87bcMN/WbtjXv5KLLJG2jd+cmxcjRNyt3UqrbsypZZcPQxn7H34OYUHDkeAxIzb7EazsEsVaeXZto14bVIiDDcUbcEKqpmxwP4bWJNReV7gkGsTMG17HEniviSIXTWn7dxr+xxAvBP4uT/F4QbmjfCL+BYQmoWPHW5qsLD9Tg0O8zbxH9bnb1w7fmS9hWfHGw092Bpb2ijBctcpLMqxFdL+y5mzOJLlRD3ZMh1fVdrHwKVSo/4mgIGo06Bt7fb3RGLek5P550nJ0ltG6qdejKQBv7fLAGiueERl/oykM8FpxlEnVxLCuqMqfL2ZQHdAhPZ/y5BAOHBzYJhJGJ4nFRj0c4Jj08YPcPh+C5HWkq8YU7qn0n16KFPHQNWzjxOJpnRF8CJjgqEeFYWAvixmv3qrJP+oRNV9tKaFUFnrqBHmiWHd45Hj/GeFRoQ4b22oLiTzE4kmiBsOINVwCr3PrdRD5QiYS9kO7kAByLnVICoKjHvXdSXONqSwIsl0Gl//54l2oKC8zuVg1GxIoQN91qdEACQ6jRTMk7myTfFOgb4GAE=.eyJlbmRwb2ludF9zbHVnIjoiYW50aHJvcGljL2NsYXVkZS1vcHVzLTUuNS0yMDI2MDkyMXxjbGF1ZGUtb24tYXdzIn0"
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 664,
+   "completion_tokens": 713,
+   "total_tokens": 1377,
+   "cost": 0.016916,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.016916,
+    "upstream_inference_prompt_cost": 0.002656,
+    "upstream_inference_completions_cost": 0.01426
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 346,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}

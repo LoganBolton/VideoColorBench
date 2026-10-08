@@ -1,0 +1,72 @@
+{
+ "request": {
+  "model": "openai/gpt-6.1-sol",
+  "usage": {
+   "include": true
+  },
+  "reasoning": {
+   "effort": "medium"
+  }
+ },
+ "response": {
+  "id": "gen-1790894236-Njj4Q8TKpIoChSUxi7FI",
+  "object": "chat.completion",
+  "created": 1790894236,
+  "model": "openai/gpt-6.1-sol",
+  "provider": "OpenAI",
+  "system_fingerprint": null,
+  "service_tier": "default",
+  "choices": [
+   {
+    "index": 0,
+    "logprobs": null,
+    "finish_reason": "stop",
+    "native_finish_reason": "completed",
+    "message": {
+     "role": "assistant",
+     "content": "My best guess is Nirvana\u2019s \u201cSmells Like Teen Spirit,\u201d whose dim, amber-lit gym setting fits the consistently dark brown and gold stripes.\n\nAnswer: G",
+     "refusal": null,
+     "reasoning": "**Identifying themes and colors**\n\nI\u2019m trying to figure out colors and themes here. There\u2019s something about brown, dark, and consistent vibes connected to \u201cteen spirit,\u201d which sounds intriguing! I also see mentions of amber and various colors like black, blue, and red, plus a connection to performances and weddings. It's a mix of emotions and imagery \u2014 definitely interesting to explore. My focus seems to be on how these elements all blend together!",
+     "reasoning_details": [
+      {
+       "type": "reasoning.summary",
+       "summary": "**Identifying themes and colors**\n\nI\u2019m trying to figure out colors and themes here. There\u2019s something about brown, dark, and consistent vibes connected to \u201cteen spirit,\u201d which sounds intriguing! I also see mentions of amber and various colors like black, blue, and red, plus a connection to performances and weddings. It's a mix of emotions and imagery \u2014 definitely interesting to explore. My focus seems to be on how these elements all blend together!",
+       "format": "openai-responses-v1",
+       "index": 0
+      },
+      {
+       "type": "reasoning.encrypted",
+       "data": "gAAAAABqvuCgJfejlAtRTmh1N1pZ4xdx2QhjdY5AtURlDRuy4c2KXb7WKij82xUujm9VuXLXJgGAxo1LxuhME7sc-SYCI75IVss6WZeLPhx4_-25MoqFyalHgpr6e9QHhpCGzBkmXiSGLNTFqMZsMf7XzCMnMjNejl_JYwsQsMYBqjAnHlzXFOIOkIf-P3B7D1_yD5dMtYINaxyCHIzUzudrrvuX6rWA9e_5PUbYfx7qzRhPuHXTeYRDS4bnNeEPzUDxuHo3vhS53fRaIfSsScIHc4c4PSLkXxwLaCmiS2kakcNO5kJDhFy5sqL5leSBjMTMFsFanEmOKdvuZBnwE0n6KI3EI2X90UQBVwYRGEXXUcXBqqm1qg8qzq_t1Qj9ueWdWRbzr9_VfcBlsx4z1J1VKcllGnCCws_nvRWeM1QyQ0C26A3HN2oCz1OyPZddHKC69IY7OFY6T2DiCG_np_V-zzcCFhw613FOF8sPougRQCGGC-EeI76T-n8Mi1yxiPbpz7j928uuCvVgE67N04miAAEI5o-PRetj3xbl9dQuUrwrqPa-Ty4zxpW6YlSHVhDbdpWMRtMcY7u3ZzzUCFwiaeneng1TftMa0rQVCOvwxATOYUGsOrlvKhRy0xlIj16QnVov1wU6xd0NkrbTI9QzkIcbBl5PINIARIfdasdxASC_5EeUK265IKvaHFPJpsv2yP1NRpCyo0MFBJEUE--GFYcg5sPDC8NQtpSm4_aJmcfPkDa0Kv8VkhnMCyEh42skH3eCnUOQ9ZV3nU2eW6UO_P5sVlYA26BnI5OOcO56eNN-QWLKxVk1BJex7phMqW887GHsEBXWqyHHE2XIa0EnENH6Ddb01Uj6j2mbn6Sv4ikQxdZI6O_j3W0cG73rQ94tarCnrivTXMY_4LMdT6PlW-TafGbzyaHK_Tf02Di_9KA-yll_V6egvn_uwy1gsAufvcdbLDx0sYQGb88ncTDyWEGR9ithrPxscSoMq5VZTYSuS4v4NQa5IDFksaJ1G9C2ndy7eYucy0Cr1WsQGiBUSg_hja_mpOKWYVlFHDJEXsoErWDitdHCzdCyqxESemTI2szTW2j0CkZYqzN13PUw4G9M0hxQ3OTwVQdGqfl4CRXc1YtK4G9YWOCGpa7yDT7IVgJoGILzueJavgIUhfUNhVUm088NtrGA7wAPgRY-noubi20v3ljDkeKgadhF-1bMDTcuVX4jVbbI7QXoGgDufqMj-kt_MMbvG7A-k5w9h3UzC5U7T5DDTAaV7TFIjFvMzwI8RCQ_VKQMtOfU11-TwcE5EGx3929NYoU18wDT3ydmpRXl93p4rrbV1-5aVFP_CaFqFq1qx6uhqGUIpvzpmdiKPiWDEYKbGmBovChFFlY0U7q2Xkt2b1h3gSgXhK_dX2Rkk8wVBu6f-zh82W_4gBvfjyLwCxEnp2ljQrtfjE4EvMNueAS37G7Q5k_r9u0OUfVwr_UybJlQEYnYBpvNeZpcAqh72DTFuPw3lO0Xs-QACzwjUCtS2TJw5WuTe0FsWgsjxTjRG5ND05i8IRZel7E993dEk3T8uAZT1sfnkT767fyjJm3hW_f3doRoWiuftx4vu4NWswKzfJ8U0l0xBTK8EQXbVhj5NUPRaSxVIbRyCGoATaUKrlx-CXaMP2m2pKCqPMRjfBDVf3pVvx53BDHJY9MCjT-gEcbdnh5g0p6KRHyOnEFyun9fFlYb_TIB-X56qt1E.eyJlbmRwb2ludF9zbHVnIjoib3BlbmFpL2dwdC02LjEtc29sLTIwMjYwOTI5fG9wZW5haSJ9",
+       "format": "openai-responses-v1",
+       "id": "rs_01528f1cc9e59e6a016abee09d659887d1a157f16d04a493a1",
+       "index": 1
+      }
+     ]
+    }
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 477,
+   "completion_tokens": 96,
+   "total_tokens": 573,
+   "cost": 0.001914,
+   "is_byok": false,
+   "prompt_tokens_details": {
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "audio_tokens": 0,
+    "video_tokens": 0
+   },
+   "cost_details": {
+    "upstream_inference_cost": 0.001914,
+    "upstream_inference_prompt_cost": 0.000954,
+    "upstream_inference_completions_cost": 0.00096
+   },
+   "completion_tokens_details": {
+    "reasoning_tokens": 57,
+    "image_tokens": 0,
+    "audio_tokens": 0
+   }
+  }
+ }
+}
