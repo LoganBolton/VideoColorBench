@@ -33,7 +33,7 @@ RUNS = {  # key -> (label, films folder, youtube folder)
 AGENTS = [  # (label, logo, films folder, youtube folder, base model's label), the table of agent harness runs, shown in this order
     ("Opus 5.5 + Claude Code", "claude", *RUNS["cc"][1:], "Opus 5.5"),
     ("GPT-6.1 Sol + Codex", "openai", *RUNS["codex"][1:], "GPT-6.1 Sol"),
-    ("GLM-5.3 Flash + opencode", "zai", "20261002-052850-opencode-glm-5.3-flash-films", "20261002-052830-opencode-glm-5.3-flash-youtube", "GLM-5.3 Flash"),
+    ("GLM-5.3 Flash + OpenCode", "zai", "20261002-052850-opencode-glm-5.3-flash-films", "20261002-052830-opencode-glm-5.3-flash-youtube", "GLM-5.3 Flash"),
 ]
 TABLE = [  # the same for the main table: plain API calls only
     ("GPT-6.1 Sol", "openai", *RUNS["sol"][1:]), ("Opus 5.5", "claude", *RUNS["opus"][1:]),
@@ -50,7 +50,7 @@ ALL_RUNS = {
     "opus": ("Opus 5.5", "claude", "", *RUNS["opus"][1:]),
     "cc": ("Opus 5.5 + Claude Code", "claude", "+ Claude Code", *RUNS["cc"][1:]),
     "glm": ("GLM-5.3 Flash", "zai", "", "20261002-051152-glm-5.3-flash-films-raw", "20261002-053919-glm-5.3-flash-youtube-raw"),
-    "opencode": ("GLM-5.3 Flash + opencode", "zai", "+ opencode", "20261002-052850-opencode-glm-5.3-flash-films", "20261002-052830-opencode-glm-5.3-flash-youtube"),
+    "opencode": ("GLM-5.3 Flash + OpenCode", "zai", "+ OpenCode", "20261002-052850-opencode-glm-5.3-flash-films", "20261002-052830-opencode-glm-5.3-flash-youtube"),
     "qwen35": ("Qwen3.5 397B", "qwen", "3.5 397B", "20261002-064646-qwen3.5-397b-a17b-films-raw", "20261002-073620-qwen3.5-397b-a17b-youtube-raw"),
     "qwen38": ("Qwen3.8 27B", "qwen", "3.8 27B", "20261002-064649-qwen3.8-27b-films-raw", "20261002-065521-qwen3.8-27b-youtube-raw"),
 }
