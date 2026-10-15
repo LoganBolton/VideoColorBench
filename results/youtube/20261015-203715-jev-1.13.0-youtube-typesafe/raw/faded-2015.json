@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1b6c8d08-83c8-438b-ba17-c1f2deafeb72"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.33,
+    "probabilities": {
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.06,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.03,
+     "rihanna_diamonds_2012": 0.08,
+     "lmfao_party_rock_anthem_2011": 0.06,
+     "twenty_one_pilots_stressed_out_2015": 0.08,
+     "twenty_one_pilots_heathens_2016": 0.12,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.04,
+     "avicii_wake_me_up_2013": 0.06,
+     "alan_walker_faded_2015": 0.4,
+     "taylor_swift_blank_space_2014": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1628,
+   "output_tokens": 237
+  }
+ }
+}

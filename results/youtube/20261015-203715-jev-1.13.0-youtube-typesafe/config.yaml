@@ -1,0 +1,5 @@
+name: jev-1.13.0-youtube-typesafe
+mode: typesafe
+dataset: youtube
+model: jev-1.13.0
+timeout: 120

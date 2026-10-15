@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-76dff165-5a8e-4a0e-9ba7-98f7dc7fb737"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "psy_gangnam_style_2012",
+    "confidence": 0.17,
+    "probabilities": {
+     "j_balvin_willy_william_mi_gente_2017": 0.07,
+     "blackpink_ddu_du_ddu_du_2018": 0.08,
+     "bts_ft_halsey_boy_with_luv_2019": 0.07,
+     "natti_natasha_x_ozuna_criminal_2017": 0.06,
+     "psy_gangnam_style_2012": 0.25,
+     "bts_dynamite_2020": 0.12,
+     "blackpink_boombayah_2016": 0.08,
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.08,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.12,
+     "maroon_5_sugar_2015": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1629,
+   "output_tokens": 224
+  }
+ }
+}

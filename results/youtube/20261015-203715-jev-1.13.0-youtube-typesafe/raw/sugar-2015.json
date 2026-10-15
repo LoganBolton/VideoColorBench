@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d6bd0a2e-efd0-4861-994a-f6026d5dd283"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": "Jennifer Lopez ft. Pitbull - On the Floor (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "mark_ronson_ft_bruno_mars_uptown_funk_2014",
+    "confidence": 0.1,
+    "probabilities": {
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.09,
+     "bruno_mars_that_s_what_i_like_2017": 0.08,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.18,
+     "charlie_puth_attention_2017": 0.09,
+     "taylor_swift_shake_it_off_2014": 0.11,
+     "maroon_5_sugar_2015": 0.07,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.19,
+     "ellie_goulding_love_me_like_you_do_2015": 0.06,
+     "justin_bieber_sorry_2015": 0.05,
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1626,
+   "output_tokens": 241
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-da8fedc7-5e56-4fb8-9592-e36eccac38fd"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)",
+     "american_animals_2018": "American Animals (2018)",
+     "puncture_2011": "Puncture (2011)",
+     "detachment_2011": "Detachment (2011)",
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "midnight_sun_2018": "Midnight Sun (2018)",
+     "99_homes_2014": "99 Homes (2014)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "southpaw_2015": "Southpaw (2015)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.3,
+    "probabilities": {
+     "the_haunting_in_connecticut_2009": 0.12,
+     "american_animals_2018": 0.03,
+     "puncture_2011": 0.05,
+     "detachment_2011": 0.15,
+     "brain_on_fire_2016": 0.05,
+     "midnight_sun_2018": 0.05,
+     "99_homes_2014": 0.05,
+     "knight_of_cups_2015": 0.37,
+     "southpaw_2015": 0.05,
+     "i_frankenstein_2014": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1511,
+   "output_tokens": 181
+  }
+ }
+}

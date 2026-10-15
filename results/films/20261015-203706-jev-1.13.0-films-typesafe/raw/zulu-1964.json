@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ee02aea6-fdc3-4f25-9be8-5f60fb53d638"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "zulu_1964": "Zulu (1964)",
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)",
+     "dark_star_1974": "Dark Star (1974)",
+     "detachment_2011": "Detachment (2011)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "prom_night_1980": "Prom Night (1980)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "little_boy_2015": "Little Boy (2015)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "charade_1963": "Charade (1963)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.36,
+    "probabilities": {
+     "zulu_1964": 0.08,
+     "the_eagle_has_landed_1976": 0.04,
+     "dark_star_1974": 0.15,
+     "detachment_2011": 0.06,
+     "the_rebound_2009": 0.05,
+     "prom_night_1980": 0.05,
+     "manos_the_hands_of_fate_1966": 0.42,
+     "little_boy_2015": 0.05,
+     "georgia_rule_2007": 0.04,
+     "charade_1963": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1499,
+   "output_tokens": 176
+  }
+ }
+}

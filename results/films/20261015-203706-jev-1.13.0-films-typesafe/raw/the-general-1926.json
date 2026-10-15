@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1274f034-134e-450d-9ee7-3ddafb7ebf46"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "man_of_the_year_2006": "Man of the Year (2006)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "the_kid_1921": "The Kid (1921)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "sliding_doors_1998": "Sliding Doors (1998)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "the_little_hours_2017": "The Little Hours (2017)",
+     "the_general_1926": "The General (1926)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "sliding_doors_1998",
+    "confidence": 0.21,
+    "probabilities": {
+     "man_of_the_year_2006": 0.09,
+     "fifty_shades_of_black_2016": 0.09,
+     "the_kid_1921": 0.09,
+     "the_importance_of_being_earnest_2002": 0.05,
+     "sliding_doors_1998": 0.29,
+     "leaves_of_grass_2009": 0.07,
+     "the_accidental_husband_2008": 0.05,
+     "the_little_hours_2017": 0.05,
+     "the_general_1926": 0.17,
+     "paris_je_t_aime_2006": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1529,
+   "output_tokens": 188
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-8b521d72-340c-4168-9fc0-838565022e72"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "boogeyman_2005": "Boogeyman (2005)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "silent_house_2011": "Silent House (2011)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "pacific_heights_1990": "Pacific Heights (1990)",
+     "the_exorcist_iii_1990": "The Exorcist III (1990)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "nosferatu_the_vampyre_1979",
+    "confidence": 0.19,
+    "probabilities": {
+     "nosferatu_the_vampyre_1979": 0.27,
+     "day_of_the_dead_1985": 0.05,
+     "boogeyman_2005": 0.04,
+     "wish_upon_2017": 0.03,
+     "silent_house_2011": 0.22,
+     "apollo_18_2011": 0.19,
+     "the_messengers_2007": 0.03,
+     "an_american_werewolf_in_paris_1997": 0.03,
+     "pacific_heights_1990": 0.04,
+     "the_exorcist_iii_1990": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1527,
+   "output_tokens": 186
+  }
+ }
+}

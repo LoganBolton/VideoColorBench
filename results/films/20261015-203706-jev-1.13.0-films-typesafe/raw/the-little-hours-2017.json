@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-a620cbd8-617c-42a7-9021-3600cf8f7500"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "sliding_doors_1998": "Sliding Doors (1998)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)",
+     "the_little_hours_2017": "The Little Hours (2017)",
+     "security_2017": "Security (2017)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "brain_on_fire_2016": "Brain on Fire (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "fifty_shades_of_black_2016",
+    "confidence": 0.19,
+    "probabilities": {
+     "sliding_doors_1998": 0.1,
+     "paris_je_t_aime_2006": 0.06,
+     "the_little_hours_2017": 0.1,
+     "security_2017": 0.14,
+     "take_me_home_tonight_2011": 0.05,
+     "the_rebound_2009": 0.04,
+     "the_importance_of_being_earnest_2002": 0.1,
+     "georgia_rule_2007": 0.04,
+     "fifty_shades_of_black_2016": 0.27,
+     "brain_on_fire_2016": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1524,
+   "output_tokens": 187
+  }
+ }
+}

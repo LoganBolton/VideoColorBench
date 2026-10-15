@@ -1,0 +1,6 @@
+name: jev-1.13.0-films-typesafe
+mode: typesafe
+dataset: films
+model: jev-1.13.0
+timeout: 120
+questions_sha256: a22497fa224045f983374fab899eb4c0b8674ed43c24f261c30df2a19df2a20c

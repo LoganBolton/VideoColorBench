@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-19442abd-272c-4d44-aa4f-f13109549003"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "magic_rude_2013": "MAGIC! - Rude (2013)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "justin_bieber_ft_ludacris_baby_2010": "Justin Bieber ft. Ludacris - Baby (2010)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)",
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "bruno_mars_just_the_way_you_are_2010": "Bruno Mars - Just the Way You Are (2010)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "katy_perry_ft_juicy_j_dark_horse_2014",
+    "confidence": 0.07,
+    "probabilities": {
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.16,
+     "bruno_mars_the_lazy_song_2011": 0.14,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.08,
+     "magic_rude_2013": 0.11,
+     "charlie_puth_attention_2017": 0.05,
+     "justin_bieber_ft_ludacris_baby_2010": 0.09,
+     "meghan_trainor_all_about_that_bass_2014": 0.09,
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.04,
+     "bruno_mars_just_the_way_you_are_2010": 0.16,
+     "katy_perry_roar_2013": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1622,
+   "output_tokens": 232
+  }
+ }
+}

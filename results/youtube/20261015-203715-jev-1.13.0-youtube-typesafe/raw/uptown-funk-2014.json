@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-59b0c8fb-ba4e-4a51-9672-1c67f735bd7f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "justin_bieber_ft_ludacris_baby_2010": "Justin Bieber ft. Ludacris - Baby (2010)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_hello_2015",
+    "confidence": 0.11,
+    "probabilities": {
+     "adele_hello_2015": 0.2,
+     "ed_sheeran_perfect_2017": 0.08,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.11,
+     "justin_bieber_sorry_2015": 0.09,
+     "charlie_puth_attention_2017": 0.12,
+     "bruno_mars_that_s_what_i_like_2017": 0.06,
+     "justin_bieber_ft_ludacris_baby_2010": 0.1,
+     "ellie_goulding_love_me_like_you_do_2015": 0.08,
+     "taylor_swift_shake_it_off_2014": 0.06,
+     "justin_bieber_what_do_you_mean_2015": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1602,
+   "output_tokens": 220
+  }
+ }
+}

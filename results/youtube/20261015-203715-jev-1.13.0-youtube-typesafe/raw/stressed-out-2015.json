@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-56d4529e-5940-41e6-8058-6e70b1b57527"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.07,
+    "probabilities": {
+     "imagine_dragons_believer_2017": 0.07,
+     "alan_walker_faded_2015": 0.16,
+     "twenty_one_pilots_heathens_2016": 0.1,
+     "coldplay_hymn_for_the_weekend_2016": 0.09,
+     "linkin_park_numb_2003": 0.12,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.1,
+     "twenty_one_pilots_stressed_out_2015": 0.09,
+     "imagine_dragons_thunder_2017": 0.06,
+     "taylor_swift_blank_space_2014": 0.08,
+     "sia_chandelier_2014": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1600,
+   "output_tokens": 218
+  }
+ }
+}

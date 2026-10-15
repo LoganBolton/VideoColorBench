@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-7c35e7d4-73a3-4349-bba0-dba64cfa4110"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "pedro_cap_farruko_calma_remix_2018": "Pedro Cap\u00f3 & Farruko - Calma (Remix) (2018)",
+     "maluma_felices_los_4_2017": "Maluma - Felices los 4 (2017)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "carlos_vives_shakira_la_bicicleta_2016": "Carlos Vives & Shakira - La Bicicleta (2016)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "enrique_iglesias_bailando_2014": "Enrique Iglesias - Bailando (2014)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "j_balvin_willy_william_mi_gente_2017",
+    "confidence": 0.3,
+    "probabilities": {
+     "charlie_puth_attention_2017": 0.08,
+     "j_balvin_ay_vamos_2014": 0.06,
+     "pedro_cap_farruko_calma_remix_2018": 0.09,
+     "maluma_felices_los_4_2017": 0.07,
+     "j_balvin_willy_william_mi_gente_2017": 0.37,
+     "carlos_vives_shakira_la_bicicleta_2016": 0.07,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.04,
+     "dua_lipa_new_rules_2017": 0.06,
+     "enrique_iglesias_bailando_2014": 0.09,
+     "natti_natasha_x_ozuna_criminal_2017": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1626,
+   "output_tokens": 238
+  }
+ }
+}

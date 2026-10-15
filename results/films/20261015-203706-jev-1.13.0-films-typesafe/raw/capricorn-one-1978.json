@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-988833e0-5052-4ee0-b1e2-0de7dba0558e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "capricorn_one_1978": "Capricorn One (1978)",
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)",
+     "security_2017": "Security (2017)",
+     "the_contract_2006": "The Contract (2006)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "aguirre_the_wrath_of_god_1972": "Aguirre, the Wrath of God (1972)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "killing_season_2013": "Killing Season (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "capricorn_one_1978",
+    "confidence": 0.07,
+    "probabilities": {
+     "capricorn_one_1978": 0.16,
+     "the_eagle_has_landed_1976": 0.05,
+     "security_2017": 0.1,
+     "the_contract_2006": 0.08,
+     "before_the_devil_knows_you_re_dead_2007": 0.11,
+     "assault_on_precinct_13_1976": 0.13,
+     "aguirre_the_wrath_of_god_1972": 0.15,
+     "the_last_seduction_1994": 0.09,
+     "the_boys_from_brazil_1978": 0.07,
+     "killing_season_2013": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1540,
+   "output_tokens": 189
+  }
+ }
+}

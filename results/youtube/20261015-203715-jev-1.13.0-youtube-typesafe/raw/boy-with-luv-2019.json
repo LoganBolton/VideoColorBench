@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-c89ca04c-d88c-47aa-a80b-da82ce8abe20"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "blackpink_boombayah_2016",
+    "confidence": 0.08,
+    "probabilities": {
+     "becky_g_natti_natasha_sin_pijama_2018": 0.06,
+     "blackpink_kill_this_love_2019": 0.16,
+     "avicii_wake_me_up_2013": 0.08,
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": 0.07,
+     "blackpink_boombayah_2016": 0.16999999999999998,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.04,
+     "bts_dynamite_2020": 0.06,
+     "psy_gangnam_style_2012": 0.16,
+     "blackpink_ddu_du_ddu_du_2018": 0.15,
+     "bts_ft_halsey_boy_with_luv_2019": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1630,
+   "output_tokens": 227
+  }
+ }
+}

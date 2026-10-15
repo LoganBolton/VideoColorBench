@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-8e63d375-d1f0-420e-a57a-8397149a7fe5"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "pedro_cap_farruko_calma_remix_2018": "Pedro Cap\u00f3 & Farruko - Calma (Remix) (2018)",
+     "maluma_felices_los_4_2017": "Maluma - Felices los 4 (2017)",
+     "enrique_iglesias_bailando_2014": "Enrique Iglesias - Bailando (2014)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "carlos_vives_shakira_la_bicicleta_2016": "Carlos Vives & Shakira - La Bicicleta (2016)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "romeo_santos_propuesta_indecente_2013": "Romeo Santos - Propuesta Indecente (2013)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "passenger_let_her_go_2012",
+    "confidence": 0.14,
+    "probabilities": {
+     "pedro_cap_farruko_calma_remix_2018": 0.09,
+     "maluma_felices_los_4_2017": 0.06,
+     "enrique_iglesias_bailando_2014": 0.07,
+     "j_balvin_willy_william_mi_gente_2017": 0.09,
+     "passenger_let_her_go_2012": 0.23,
+     "carlos_vives_shakira_la_bicicleta_2016": 0.05,
+     "ed_sheeran_shape_of_you_2017": 0.2,
+     "j_balvin_ay_vamos_2014": 0.06,
+     "romeo_santos_propuesta_indecente_2013": 0.09,
+     "natti_natasha_x_ozuna_criminal_2017": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1633,
+   "output_tokens": 236
+  }
+ }
+}

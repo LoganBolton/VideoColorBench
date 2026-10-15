@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-5db2dc4c-9e79-494b-b9e3-169fa3560d26"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "nicky_jam_x_j_balvin_x_equis_2018": "Nicky Jam x J Balvin - X (Equis) (2018)",
+     "pedro_cap_farruko_calma_remix_2018": "Pedro Cap\u00f3 & Farruko - Calma (Remix) (2018)",
+     "shakira_ft_maluma_chantaje_2016": "Shakira ft. Maluma - Chantaje (2016)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.42,
+    "probabilities": {
+     "becky_g_ft_bad_bunny_mayores_2017": 0.06,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.02,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.03,
+     "daddy_yankee_dura_2018": 0.11,
+     "nicky_jam_x_j_balvin_x_equis_2018": 0.05,
+     "pedro_cap_farruko_calma_remix_2018": 0.1,
+     "shakira_ft_maluma_chantaje_2016": 0.03,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.48,
+     "natti_natasha_x_ozuna_criminal_2017": 0.03,
+     "el_chombo_dame_tu_cosita_2018": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1671,
+   "output_tokens": 261
+  }
+ }
+}

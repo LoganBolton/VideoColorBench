@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d95eaabe-5beb-4a57-b93c-ec1034316f0d"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "shakira_waka_waka_this_time_for_africa_2010": "Shakira - Waka Waka (This Time for Africa) (2010)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)",
+     "shakira_ft_maluma_chantaje_2016": "Shakira ft. Maluma - Chantaje (2016)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "luis_fonsi_ft_daddy_yankee_despacito_2017",
+    "confidence": 0.27,
+    "probabilities": {
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": 0.13,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.33999999999999997,
+     "el_chombo_dame_tu_cosita_2018": 0.09,
+     "cocomelon_wheels_on_the_bus_2018": 0.06,
+     "daddy_yankee_snow_con_calma_2019": 0.1,
+     "shakira_waka_waka_this_time_for_africa_2010": 0.07,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.05,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.05,
+     "shakira_ft_maluma_chantaje_2016": 0.07,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1667,
+   "output_tokens": 262
+  }
+ }
+}

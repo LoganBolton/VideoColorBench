@@ -12,7 +12,7 @@ from PIL import Image, ImageDraw
 
 ROOT = Path(__file__).resolve().parent
 LOGO = {"Opus 5.5": "claude", "GPT-6.1 Sol": "openai", "GPT-6 Astra": "openai", "Qwen3.5 397B": "qwen",
-        "GLM-5.3 Flash": "zai", "Qwen3.8 27B": "qwen"}
+        "GLM-5.3 Flash": "zai", "Qwen3.8 27B": "qwen", "Jev 1.13": "typesafe"}
 RUNS = {  # model -> (color, API results folders, agent name, agent results folders)
     "Opus 5.5": ("#e0782c", ["films/20261002-021440-opus-medium-films-raw", "youtube/20261001-223955-opus-medium-youtube-raw"],
                  "Claude Code", ["films/20261002-021113-claude-code-opus-films", "youtube/20261001-183201-claude-code-opus-youtube"]),
@@ -23,6 +23,7 @@ RUNS = {  # model -> (color, API results folders, agent name, agent results fold
     "GLM-5.3 Flash": ("#2e9d57", ["films/20261002-051152-glm-5.3-flash-films-raw", "youtube/20261002-053919-glm-5.3-flash-youtube-raw"],
                       "opencode", ["films/20261002-052850-opencode-glm-5.3-flash-films", "youtube/20261002-052830-opencode-glm-5.3-flash-youtube"]),
     "Qwen3.8 27B": ("#7a4fd0", ["films/20261002-064649-qwen3.8-27b-films-raw", "youtube/20261002-065521-qwen3.8-27b-youtube-raw"], None, None),
+    "Jev 1.13": ("#e551ba", ["films/20261015-203706-jev-1.13.0-films-typesafe", "youtube/20261015-203715-jev-1.13.0-youtube-typesafe"], None, None),
 }
 
 

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b8bd0886-efd4-4311-9f83-9cc77a06dc4c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "the_exorcist_iii_1990": "The Exorcist III (1990)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)",
+     "prom_night_1980": "Prom Night (1980)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "silent_house_2011": "Silent House (2011)",
+     "black_christmas_1974": "Black Christmas (1974)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.09,
+    "probabilities": {
+     "nosferatu_the_vampyre_1979": 0.18,
+     "the_exorcist_iii_1990": 0.09,
+     "apollo_18_2011": 0.12,
+     "sleepaway_camp_1983": 0.03,
+     "day_of_the_dead_1985": 0.07,
+     "the_little_shop_of_horrors_1960": 0.03,
+     "prom_night_1980": 0.05,
+     "manos_the_hands_of_fate_1966": 0.18,
+     "silent_house_2011": 0.16,
+     "black_christmas_1974": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1530,
+   "output_tokens": 191
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d9dd46ee-889b-4b74-a90d-4f16c3087c4c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "the_contract_2006": "The Contract (2006)",
+     "killing_season_2013": "Killing Season (2013)",
+     "capricorn_one_1978": "Capricorn One (1978)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "aguirre_the_wrath_of_god_1972": "Aguirre, the Wrath of God (1972)",
+     "legionnaire_1998": "Legionnaire (1998)",
+     "security_2017": "Security (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "capricorn_one_1978",
+    "confidence": 0.19,
+    "probabilities": {
+     "stonehearst_asylum_2014": 0.07,
+     "jane_got_a_gun_2015": 0.04,
+     "the_contract_2006": 0.07,
+     "killing_season_2013": 0.05,
+     "capricorn_one_1978": 0.27,
+     "the_warrior_s_way_2010": 0.09,
+     "the_messengers_2007": 0.05,
+     "aguirre_the_wrath_of_god_1972": 0.22,
+     "legionnaire_1998": 0.05,
+     "security_2017": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1525,
+   "output_tokens": 182
+  }
+ }
+}

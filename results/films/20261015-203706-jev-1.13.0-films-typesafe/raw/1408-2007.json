@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-5e1ff5ab-4a48-4ea9-8924-99b228a77341"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "1408_2007": "1408 (2007)",
+     "villains_2019": "Villains (2019)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "legionnaire_1998": "Legionnaire (1998)",
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "silent_house_2011": "Silent House (2011)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "1408_2007",
+    "confidence": 0.11,
+    "probabilities": {
+     "1408_2007": 0.2,
+     "villains_2019": 0.04,
+     "an_american_werewolf_in_paris_1997": 0.06,
+     "legionnaire_1998": 0.11,
+     "a_monster_in_paris_2011": 0.14,
+     "silent_house_2011": 0.17,
+     "stonehearst_asylum_2014": 0.08,
+     "the_messengers_2007": 0.06,
+     "the_accidental_husband_2008": 0.07,
+     "sleepaway_camp_1983": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1530,
+   "output_tokens": 185
+  }
+ }
+}

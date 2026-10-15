@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b773a7ec-925f-4249-927f-3c7ef16b1547"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)",
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.13,
+    "probabilities": {
+     "alan_walker_faded_2015": 0.22,
+     "avicii_wake_me_up_2013": 0.1,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.05,
+     "bruno_mars_the_lazy_song_2011": 0.08,
+     "bts_ft_halsey_boy_with_luv_2019": 0.04,
+     "crazy_frog_axel_f_2009": 0.07,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.05,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.08,
+     "psy_gangnam_style_2012": 0.22,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1635,
+   "output_tokens": 230
+  }
+ }
+}

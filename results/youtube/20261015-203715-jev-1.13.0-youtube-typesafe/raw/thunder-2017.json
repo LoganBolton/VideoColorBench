@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ed0fd5a0-17d7-4330-bb15-d77fff0ba678"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "john_legend_all_of_me_2013": "John Legend - All of Me (2013)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "sia_ft_sean_paul_cheap_thrills_2016": "Sia ft. Sean Paul - Cheap Thrills (2016)",
+     "adele_someone_like_you_2011": "Adele - Someone Like You (2011)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "linkin_park_numb_2003",
+    "confidence": 0.07,
+    "probabilities": {
+     "twenty_one_pilots_heathens_2016": 0.1,
+     "john_legend_all_of_me_2013": 0.15,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.07,
+     "linkin_park_numb_2003": 0.16,
+     "coldplay_hymn_for_the_weekend_2016": 0.06,
+     "sia_ft_sean_paul_cheap_thrills_2016": 0.08,
+     "adele_someone_like_you_2011": 0.16,
+     "twenty_one_pilots_stressed_out_2015": 0.1,
+     "imagine_dragons_believer_2017": 0.05,
+     "imagine_dragons_thunder_2017": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1596,
+   "output_tokens": 220
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-82ad4fd9-bb60-4f9b-8642-4d0584e25007"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "pedro_cap_farruko_calma_remix_2018": "Pedro Cap\u00f3 & Farruko - Calma (Remix) (2018)",
+     "shakira_ft_maluma_chantaje_2016": "Shakira ft. Maluma - Chantaje (2016)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "enrique_iglesias_bailando_2014": "Enrique Iglesias - Bailando (2014)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "carlos_vives_shakira_la_bicicleta_2016": "Carlos Vives & Shakira - La Bicicleta (2016)",
+     "maluma_felices_los_4_2017": "Maluma - Felices los 4 (2017)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "romeo_santos_propuesta_indecente_2013": "Romeo Santos - Propuesta Indecente (2013)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "ed_sheeran_perfect_2017",
+    "confidence": 0.11,
+    "probabilities": {
+     "pedro_cap_farruko_calma_remix_2018": 0.14,
+     "shakira_ft_maluma_chantaje_2016": 0.07,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.04,
+     "enrique_iglesias_bailando_2014": 0.1,
+     "j_balvin_willy_william_mi_gente_2017": 0.13,
+     "carlos_vives_shakira_la_bicicleta_2016": 0.07,
+     "maluma_felices_los_4_2017": 0.07,
+     "natti_natasha_x_ozuna_criminal_2017": 0.06,
+     "romeo_santos_propuesta_indecente_2013": 0.12,
+     "ed_sheeran_perfect_2017": 0.2
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1643,
+   "output_tokens": 239
+  }
+ }
+}

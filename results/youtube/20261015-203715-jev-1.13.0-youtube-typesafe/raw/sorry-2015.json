@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-62b91368-10e9-4b48-83e3-6aac907164ed"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": "Jennifer Lopez ft. Pitbull - On the Floor (2011)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "ed_sheeran_perfect_2017",
+    "confidence": 0.09,
+    "probabilities": {
+     "charlie_puth_attention_2017": 0.09,
+     "taylor_swift_shake_it_off_2014": 0.13,
+     "justin_bieber_what_do_you_mean_2015": 0.06,
+     "ed_sheeran_perfect_2017": 0.18,
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": 0.05,
+     "ellie_goulding_love_me_like_you_do_2015": 0.18,
+     "adele_hello_2015": 0.18,
+     "bruno_mars_that_s_what_i_like_2017": 0.03,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.04,
+     "justin_bieber_sorry_2015": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1605,
+   "output_tokens": 223
+  }
+ }
+}

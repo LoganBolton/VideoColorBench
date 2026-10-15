@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-7874e1ab-9a29-4332-8386-c7da2bd03210"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "on_golden_pond_1981": "On Golden Pond (1981)",
+     "prom_night_1980": "Prom Night (1980)",
+     "the_illusionist_2006": "The Illusionist (2006)",
+     "detachment_2011": "Detachment (2011)",
+     "candy_2006": "Candy (2006)",
+     "sophie_s_choice_1982": "Sophie's Choice (1982)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "half_nelson_2006": "Half Nelson (2006)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.19,
+    "probabilities": {
+     "knight_of_cups_2015": 0.27,
+     "on_golden_pond_1981": 0.15,
+     "prom_night_1980": 0.05,
+     "the_illusionist_2006": 0.09,
+     "detachment_2011": 0.08,
+     "candy_2006": 0.08,
+     "sophie_s_choice_1982": 0.05,
+     "the_boys_from_brazil_1978": 0.09,
+     "beauty_and_the_beast_2014": 0.06,
+     "half_nelson_2006": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1516,
+   "output_tokens": 183
+  }
+ }
+}

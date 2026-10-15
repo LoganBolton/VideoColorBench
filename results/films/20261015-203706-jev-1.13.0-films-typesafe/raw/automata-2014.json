@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-2657b10e-794a-42aa-bc4a-c350f567a67b"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_host_2013": "The Host (2013)",
+     "silent_house_2011": "Silent House (2011)",
+     "boogeyman_2005": "Boogeyman (2005)",
+     "existenz_1999": "Existenz (1999)",
+     "prospect_2018": "Prospect (2018)",
+     "american_animals_2018": "American Animals (2018)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "automata_2014": "Automata (2014)",
+     "dark_star_1974": "Dark Star (1974)",
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "silent_house_2011",
+    "confidence": 0.13,
+    "probabilities": {
+     "the_host_2013": 0.07,
+     "silent_house_2011": 0.22,
+     "boogeyman_2005": 0.04,
+     "existenz_1999": 0.09,
+     "prospect_2018": 0.09,
+     "american_animals_2018": 0.06,
+     "apollo_18_2011": 0.13,
+     "automata_2014": 0.11,
+     "dark_star_1974": 0.13,
+     "the_haunting_in_connecticut_2009": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1501,
+   "output_tokens": 167
+  }
+ }
+}

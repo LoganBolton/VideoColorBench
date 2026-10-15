@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-583d3cd8-aff5-490c-b276-9657063398a7"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "cocomelon_bath_song_2018": "CoComelon - Bath Song (2018)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "lady_gaga_bad_romance_2009": "Lady Gaga - Bad Romance (2009)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)",
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.24,
+    "probabilities": {
+     "avicii_wake_me_up_2013": 0.14,
+     "cocomelon_bath_song_2018": 0.04,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.06,
+     "lady_gaga_bad_romance_2009": 0.09,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.07,
+     "crazy_frog_axel_f_2009": 0.07,
+     "alan_walker_faded_2015": 0.32,
+     "lmfao_party_rock_anthem_2011": 0.08,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.05,
+     "onerepublic_counting_stars_2013": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1620,
+   "output_tokens": 228
+  }
+ }
+}

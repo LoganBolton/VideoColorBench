@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-fd7e482a-2bd5-47dc-88f1-1e2af97e3b24"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "detachment_2011": "Detachment (2011)",
+     "midnight_sun_2018": "Midnight Sun (2018)",
+     "99_homes_2014": "99 Homes (2014)",
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "draft_day_2014": "Draft Day (2014)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "candy_2006": "Candy (2006)",
+     "puncture_2011": "Puncture (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.26,
+    "probabilities": {
+     "detachment_2011": 0.13999999999999999,
+     "midnight_sun_2018": 0.04,
+     "99_homes_2014": 0.07,
+     "brain_on_fire_2016": 0.05,
+     "i_frankenstein_2014": 0.07,
+     "draft_day_2014": 0.06,
+     "beauty_and_the_beast_2014": 0.06,
+     "knight_of_cups_2015": 0.33,
+     "candy_2006": 0.11,
+     "puncture_2011": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1509,
+   "output_tokens": 176
+  }
+ }
+}

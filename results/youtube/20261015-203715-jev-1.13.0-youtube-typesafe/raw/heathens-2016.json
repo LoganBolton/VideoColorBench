@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b08cc2ba-3020-4028-823f-9b33cfa6382e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "romeo_santos_propuesta_indecente_2013": "Romeo Santos - Propuesta Indecente (2013)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "linkin_park_numb_2003",
+    "confidence": 0.13,
+    "probabilities": {
+     "linkin_park_numb_2003": 0.22,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.04,
+     "sia_chandelier_2014": 0.11,
+     "twenty_one_pilots_stressed_out_2015": 0.12,
+     "twenty_one_pilots_heathens_2016": 0.16,
+     "imagine_dragons_believer_2017": 0.04,
+     "romeo_santos_propuesta_indecente_2013": 0.11,
+     "imagine_dragons_thunder_2017": 0.06,
+     "coldplay_hymn_for_the_weekend_2016": 0.06,
+     "adele_rolling_in_the_deep_2010": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1611,
+   "output_tokens": 226
+  }
+ }
+}

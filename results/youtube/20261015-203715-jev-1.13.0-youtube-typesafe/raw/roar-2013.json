@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9b7a55d8-6b11-4501-a667-752cdcd9fe41"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "magic_rude_2013": "MAGIC! - Rude (2013)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "justin_bieber_ft_ludacris_baby_2010": "Justin Bieber ft. Ludacris - Baby (2010)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "michael_jackson_billie_jean_1983": "Michael Jackson - Billie Jean (1983)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "onerepublic_counting_stars_2013",
+    "confidence": 0.06,
+    "probabilities": {
+     "magic_rude_2013": 0.14,
+     "bruno_mars_the_lazy_song_2011": 0.12,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.1,
+     "justin_bieber_ft_ludacris_baby_2010": 0.06,
+     "charlie_puth_attention_2017": 0.06,
+     "michael_jackson_billie_jean_1983": 0.11,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.12,
+     "katy_perry_roar_2013": 0.1,
+     "maroon_5_sugar_2015": 0.04,
+     "onerepublic_counting_stars_2013": 0.15
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1608,
+   "output_tokens": 225
+  }
+ }
+}

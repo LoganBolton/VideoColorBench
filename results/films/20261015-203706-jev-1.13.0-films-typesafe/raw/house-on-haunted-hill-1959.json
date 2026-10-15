@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-7643b791-1a5c-4518-8f89-fbf199933f12"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "boogeyman_2005": "Boogeyman (2005)",
+     "silent_house_2011": "Silent House (2011)",
+     "carnival_of_souls_1962": "Carnival of Souls (1962)",
+     "his_girl_friday_1940": "His Girl Friday (1940)",
+     "the_passion_of_joan_of_arc_1928": "The Passion of Joan of Arc (1928)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "night_of_the_living_dead_1968": "Night of the Living Dead (1968)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "night_of_the_living_dead_1968",
+    "confidence": 0.18,
+    "probabilities": {
+     "boogeyman_2005": 0.03,
+     "silent_house_2011": 0.2,
+     "carnival_of_souls_1962": 0.09,
+     "his_girl_friday_1940": 0.02,
+     "the_passion_of_joan_of_arc_1928": 0.12,
+     "nosferatu_the_vampyre_1979": 0.15,
+     "house_on_haunted_hill_1959": 0.02,
+     "the_little_shop_of_horrors_1960": 0.01,
+     "apollo_18_2011": 0.1,
+     "night_of_the_living_dead_1968": 0.26
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1545,
+   "output_tokens": 197
+  }
+ }
+}

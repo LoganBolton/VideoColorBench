@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-88d26dab-834b-4351-a3d8-0e91efe8f5b6"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "metropolis_1927": "Metropolis (1927)",
+     "all_quiet_on_the_western_front_1930": "All Quiet on the Western Front (1930)",
+     "battleship_potemkin_1925": "Battleship Potemkin (1925)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "the_lady_vanishes_1938": "The Lady Vanishes (1938)",
+     "the_passion_of_joan_of_arc_1928": "The Passion of Joan of Arc (1928)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "american_animals_2018": "American Animals (2018)",
+     "the_39_steps_1935": "The 39 Steps (1935)",
+     "black_narcissus_1947": "Black Narcissus (1947)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_passion_of_joan_of_arc_1928",
+    "confidence": 0.19,
+    "probabilities": {
+     "metropolis_1927": 0.19,
+     "all_quiet_on_the_western_front_1930": 0.07,
+     "battleship_potemkin_1925": 0.1,
+     "the_last_man_on_earth_1964": 0.1,
+     "the_lady_vanishes_1938": 0.04,
+     "the_passion_of_joan_of_arc_1928": 0.27,
+     "i_frankenstein_2014": 0.09,
+     "american_animals_2018": 0.05,
+     "the_39_steps_1935": 0.03,
+     "black_narcissus_1947": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1546,
+   "output_tokens": 202
+  }
+ }
+}

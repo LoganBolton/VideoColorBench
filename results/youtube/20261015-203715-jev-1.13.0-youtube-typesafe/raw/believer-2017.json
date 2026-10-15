@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-0e47e304-387b-40f7-9e3d-3cbe09a47cc2"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "nirvana_smells_like_teen_spirit_1991": "Nirvana - Smells Like Teen Spirit (1991)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "blackpink_boombayah_2016",
+    "confidence": 0.12,
+    "probabilities": {
+     "nirvana_smells_like_teen_spirit_1991": 0.12,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.08,
+     "imagine_dragons_thunder_2017": 0.05,
+     "blackpink_boombayah_2016": 0.21,
+     "imagine_dragons_believer_2017": 0.05,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.13,
+     "linkin_park_in_the_end_2001": 0.06,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.12,
+     "twenty_one_pilots_stressed_out_2015": 0.05,
+     "el_chombo_dame_tu_cosita_2018": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1631,
+   "output_tokens": 234
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9c847ccd-fb80-4c31-a09c-a05eb5ab0c71"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "maroon_5_ft_cardi_b_girls_like_you_2018": "Maroon 5 ft. Cardi B - Girls Like You (2018)",
+     "shawn_mendes_treat_you_better_2016": "Shawn Mendes - Treat You Better (2016)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_hello_2015",
+    "confidence": 0.09,
+    "probabilities": {
+     "bruno_mars_that_s_what_i_like_2017": 0.05,
+     "passenger_let_her_go_2012": 0.13,
+     "adele_rolling_in_the_deep_2010": 0.07,
+     "ed_sheeran_shape_of_you_2017": 0.16,
+     "taylor_swift_blank_space_2014": 0.08,
+     "rihanna_diamonds_2012": 0.09,
+     "maroon_5_ft_cardi_b_girls_like_you_2018": 0.05,
+     "shawn_mendes_treat_you_better_2016": 0.04,
+     "adele_hello_2015": 0.18,
+     "ed_sheeran_thinking_out_loud_2014": 0.15
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1591,
+   "output_tokens": 215
+  }
+ }
+}

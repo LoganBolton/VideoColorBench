@@ -33,6 +33,9 @@ One API call per question, image only.
 | Qwen3.5 397B | 16% | 23% | 19.5% |
 | GLM-5.3 Flash | 16% | 20% | 18.0% |
 | Qwen3.8 27B | 17% | 18% | 17.5% |
+| Jev 1.13* | 8% | 15% | 11.5% |
+
+*Barcode stretched to 1000×334 for Jev's image limits.
 
 Inside a coding agent that can inspect the image, run code and search the web.
 

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-51768276-9312-4cbc-83ca-48673bcdb6e5"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "arlington_road_1999": "Arlington Road (1999)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "rampart_2011": "Rampart (2011)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "pacific_heights_1990": "Pacific Heights (1990)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "trespass_2011": "Trespass (2011)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.09,
+    "probabilities": {
+     "arlington_road_1999": 0.11,
+     "the_last_seduction_1994": 0.1,
+     "rampart_2011": 0.09,
+     "transsiberian_2008": 0.18000000000000002,
+     "pacific_heights_1990": 0.06,
+     "before_i_go_to_sleep_2014": 0.06,
+     "before_the_devil_knows_you_re_dead_2007": 0.1,
+     "the_pledge_2001": 0.09,
+     "trespass_2011": 0.05,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.16
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1533,
+   "output_tokens": 188
+  }
+ }
+}

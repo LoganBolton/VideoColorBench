@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-dd01ee51-3937-4379-b7f7-c0364a1bc1c8"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "boogeyman_2005": "Boogeyman (2005)",
+     "carnival_of_souls_1962": "Carnival of Souls (1962)",
+     "night_of_the_living_dead_1968": "Night of the Living Dead (1968)",
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "the_exorcist_iii_1990": "The Exorcist III (1990)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.16,
+    "probabilities": {
+     "boogeyman_2005": 0.03,
+     "carnival_of_souls_1962": 0.1,
+     "night_of_the_living_dead_1968": 0.24,
+     "house_on_haunted_hill_1959": 0.04,
+     "the_exorcist_iii_1990": 0.11,
+     "nosferatu_the_vampyre_1979": 0.12,
+     "the_last_man_on_earth_1964": 0.05,
+     "manos_the_hands_of_fate_1966": 0.24,
+     "day_of_the_dead_1985": 0.04,
+     "the_little_shop_of_horrors_1960": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1551,
+   "output_tokens": 204
+  }
+ }
+}

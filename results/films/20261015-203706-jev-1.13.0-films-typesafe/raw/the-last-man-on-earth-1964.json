@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-5b0572ab-a357-4f52-b142-36f6a7dadb49"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "night_of_the_living_dead_1968": "Night of the Living Dead (1968)",
+     "existenz_1999": "Existenz (1999)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)",
+     "automata_2014": "Automata (2014)",
+     "his_girl_friday_1940": "His Girl Friday (1940)",
+     "metropolis_1927": "Metropolis (1927)",
+     "battleship_potemkin_1925": "Battleship Potemkin (1925)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "carnival_of_souls_1962": "Carnival of Souls (1962)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "night_of_the_living_dead_1968",
+    "confidence": 0.46,
+    "probabilities": {
+     "night_of_the_living_dead_1968": 0.51,
+     "existenz_1999": 0.04,
+     "the_little_shop_of_horrors_1960": 0.02,
+     "automata_2014": 0.08,
+     "his_girl_friday_1940": 0.03,
+     "metropolis_1927": 0.1,
+     "battleship_potemkin_1925": 0.06,
+     "the_last_man_on_earth_1964": 0.06,
+     "house_on_haunted_hill_1959": 0.02,
+     "carnival_of_souls_1962": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1534,
+   "output_tokens": 194
+  }
+ }
+}

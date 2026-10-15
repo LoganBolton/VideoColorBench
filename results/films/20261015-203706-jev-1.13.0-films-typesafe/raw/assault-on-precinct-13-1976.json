@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-6cb54b06-c0e0-4083-aff4-7e9c5461e65c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "charade_1963": "Charade (1963)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "trespass_2011": "Trespass (2011)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "pacific_heights_1990": "Pacific Heights (1990)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "arlington_road_1999": "Arlington Road (1999)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "nosferatu_the_vampyre_1979",
+    "confidence": 0.29,
+    "probabilities": {
+     "the_air_i_breathe_2007": 0.06,
+     "assault_on_precinct_13_1976": 0.13,
+     "before_the_devil_knows_you_re_dead_2007": 0.08,
+     "charade_1963": 0.05,
+     "the_last_seduction_1994": 0.08,
+     "trespass_2011": 0.06,
+     "before_i_go_to_sleep_2014": 0.08,
+     "pacific_heights_1990": 0.04,
+     "nosferatu_the_vampyre_1979": 0.36,
+     "arlington_road_1999": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1538,
+   "output_tokens": 192
+  }
+ }
+}

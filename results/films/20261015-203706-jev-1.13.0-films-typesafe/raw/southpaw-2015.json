@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d0107377-f748-4fc3-93fd-7ac567eca254"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "midnight_sun_2018": "Midnight Sun (2018)",
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "puncture_2011": "Puncture (2011)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "southpaw_2015": "Southpaw (2015)",
+     "american_animals_2018": "American Animals (2018)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "the_infiltrator_2016": "The Infiltrator (2016)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "99_homes_2014": "99 Homes (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.42,
+    "probabilities": {
+     "midnight_sun_2018": 0.1,
+     "brain_on_fire_2016": 0.05,
+     "puncture_2011": 0.05,
+     "knight_of_cups_2015": 0.48,
+     "southpaw_2015": 0.05,
+     "american_animals_2018": 0.04,
+     "beauty_and_the_beast_2014": 0.06,
+     "the_infiltrator_2016": 0.06,
+     "i_frankenstein_2014": 0.06,
+     "99_homes_2014": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1514,
+   "output_tokens": 181
+  }
+ }
+}

@@ -1,0 +1,5 @@
+name: jev-1.13.0-films-typesafe
+mode: typesafe
+dataset: films
+model: jev-1.13.0
+timeout: 120

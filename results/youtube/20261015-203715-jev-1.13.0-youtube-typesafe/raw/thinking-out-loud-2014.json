@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-e41d11b3-c040-433f-8db3-c636251f4092"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "shawn_mendes_treat_you_better_2016": "Shawn Mendes - Treat You Better (2016)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "lady_gaga_bad_romance_2009": "Lady Gaga - Bad Romance (2009)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "maroon_5_ft_cardi_b_girls_like_you_2018": "Maroon 5 ft. Cardi B - Girls Like You (2018)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "ed_sheeran_thinking_out_loud_2014",
+    "confidence": 0.08,
+    "probabilities": {
+     "onerepublic_counting_stars_2013": 0.1,
+     "taylor_swift_shake_it_off_2014": 0.05,
+     "shawn_mendes_treat_you_better_2016": 0.03,
+     "adele_hello_2015": 0.14,
+     "passenger_let_her_go_2012": 0.16,
+     "ed_sheeran_shape_of_you_2017": 0.13,
+     "lady_gaga_bad_romance_2009": 0.07,
+     "ed_sheeran_thinking_out_loud_2014": 0.17,
+     "maroon_5_ft_cardi_b_girls_like_you_2018": 0.04,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1605,
+   "output_tokens": 227
+  }
+ }
+}

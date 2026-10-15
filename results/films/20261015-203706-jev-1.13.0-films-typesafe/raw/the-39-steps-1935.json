@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-28ad72a6-9c44-42d3-8b2e-8b29a74024de"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "all_quiet_on_the_western_front_1930": "All Quiet on the Western Front (1930)",
+     "metropolis_1927": "Metropolis (1927)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "his_girl_friday_1940": "His Girl Friday (1940)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "the_lady_vanishes_1938": "The Lady Vanishes (1938)",
+     "the_39_steps_1935": "The 39 Steps (1935)",
+     "the_passion_of_joan_of_arc_1928": "The Passion of Joan of Arc (1928)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_passion_of_joan_of_arc_1928",
+    "confidence": 0.13,
+    "probabilities": {
+     "all_quiet_on_the_western_front_1930": 0.19,
+     "metropolis_1927": 0.21,
+     "the_last_seduction_1994": 0.04,
+     "before_i_go_to_sleep_2014": 0.07,
+     "the_air_i_breathe_2007": 0.07,
+     "his_girl_friday_1940": 0.05,
+     "assault_on_precinct_13_1976": 0.1,
+     "the_lady_vanishes_1938": 0.02,
+     "the_39_steps_1935": 0.03,
+     "the_passion_of_joan_of_arc_1928": 0.22
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1551,
+   "output_tokens": 201
+  }
+ }
+}

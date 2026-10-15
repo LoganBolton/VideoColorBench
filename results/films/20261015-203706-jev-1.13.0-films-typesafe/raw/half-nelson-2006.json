@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-625bd423-04f5-4b4f-a6cf-385e202abe17"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "sophie_s_choice_1982": "Sophie's Choice (1982)",
+     "the_illusionist_2006": "The Illusionist (2006)",
+     "puncture_2011": "Puncture (2011)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "the_infiltrator_2016": "The Infiltrator (2016)",
+     "draft_day_2014": "Draft Day (2014)",
+     "detachment_2011": "Detachment (2011)",
+     "candy_2006": "Candy (2006)",
+     "99_homes_2014": "99 Homes (2014)",
+     "half_nelson_2006": "Half Nelson (2006)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_illusionist_2006",
+    "confidence": 0.06,
+    "probabilities": {
+     "sophie_s_choice_1982": 0.12,
+     "the_illusionist_2006": 0.15,
+     "puncture_2011": 0.07,
+     "beauty_and_the_beast_2014": 0.1,
+     "the_infiltrator_2016": 0.08,
+     "draft_day_2014": 0.07,
+     "detachment_2011": 0.12,
+     "candy_2006": 0.11,
+     "99_homes_2014": 0.06,
+     "half_nelson_2006": 0.12
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1510,
+   "output_tokens": 178
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-740ff959-02cb-4f78-8e07-5ba309990155"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "fitzcarraldo_1982": "Fitzcarraldo (1982)",
+     "on_golden_pond_1981": "On Golden Pond (1981)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "dark_star_1974": "Dark Star (1974)",
+     "the_man_who_killed_don_quixote_2018": "The Man Who Killed Don Quixote (2018)",
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec (2010)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "the_pledge_2001": "The Pledge (2001)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "dark_star_1974",
+    "confidence": 0.08,
+    "probabilities": {
+     "sleepaway_camp_1983": 0.07,
+     "transsiberian_2008": 0.1,
+     "fitzcarraldo_1982": 0.1,
+     "on_golden_pond_1981": 0.11,
+     "black_christmas_1974": 0.11,
+     "dark_star_1974": 0.17,
+     "the_man_who_killed_don_quixote_2018": 0.09,
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": 0.13,
+     "the_boys_from_brazil_1978": 0.06,
+     "the_pledge_2001": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1548,
+   "output_tokens": 193
+  }
+ }
+}

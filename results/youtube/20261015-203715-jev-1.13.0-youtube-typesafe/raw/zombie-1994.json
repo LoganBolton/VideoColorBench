@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-5b74d3f6-a2f9-4124-adb3-0ad694cd052d"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "eminem_without_me_2002": "Eminem - Without Me (2002)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)",
+     "queen_bohemian_rhapsody_1975": "Queen - Bohemian Rhapsody (1975)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "linkin_park_in_the_end_2001",
+    "confidence": 0.11,
+    "probabilities": {
+     "the_cranberries_zombie_1994": 0.05,
+     "guns_n_roses_november_rain_1992": 0.14,
+     "eminem_without_me_2002": 0.05,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.1,
+     "queen_bohemian_rhapsody_1975": 0.17,
+     "twenty_one_pilots_heathens_2016": 0.1,
+     "linkin_park_numb_2003": 0.1,
+     "linkin_park_in_the_end_2001": 0.2,
+     "coldplay_hymn_for_the_weekend_2016": 0.06,
+     "justin_bieber_sorry_2015": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1595,
+   "output_tokens": 216
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-40e6df23-5106-48fd-ab05-06de0f9c46c7"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "draft_day_2014": "Draft Day (2014)",
+     "rampart_2011": "Rampart (2011)",
+     "trespass_2011": "Trespass (2011)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.29,
+    "probabilities": {
+     "before_the_devil_knows_you_re_dead_2007": 0.08,
+     "transsiberian_2008": 0.36,
+     "draft_day_2014": 0.03,
+     "rampart_2011": 0.1,
+     "trespass_2011": 0.06,
+     "the_pledge_2001": 0.09,
+     "take_me_home_tonight_2011": 0.03,
+     "before_i_go_to_sleep_2014": 0.07,
+     "the_air_i_breathe_2007": 0.05,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1534,
+   "output_tokens": 188
+  }
+ }
+}

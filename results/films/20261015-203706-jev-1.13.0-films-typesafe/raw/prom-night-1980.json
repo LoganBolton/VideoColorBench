@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-3418ea28-eecb-4a8c-b5d4-8503d9ad14bd"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "prom_night_1980": "Prom Night (1980)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "villains_2019": "Villains (2019)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "1408_2007": "1408 (2007)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "sophie_s_choice_1982": "Sophie's Choice (1982)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.26,
+    "probabilities": {
+     "prom_night_1980": 0.04,
+     "manos_the_hands_of_fate_1966": 0.33,
+     "villains_2019": 0.03,
+     "nosferatu_the_vampyre_1979": 0.25,
+     "1408_2007": 0.1,
+     "sleepaway_camp_1983": 0.04,
+     "stonehearst_asylum_2014": 0.05,
+     "sophie_s_choice_1982": 0.05,
+     "black_christmas_1974": 0.07,
+     "an_american_werewolf_in_paris_1997": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1535,
+   "output_tokens": 193
+  }
+ }
+}

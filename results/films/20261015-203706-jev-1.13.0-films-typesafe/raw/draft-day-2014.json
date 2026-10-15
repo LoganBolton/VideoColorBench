@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-eb6c02ae-8386-4c9b-9cdb-81eb6045623a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "99_homes_2014": "99 Homes (2014)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "puncture_2011": "Puncture (2011)",
+     "candy_2006": "Candy (2006)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "draft_day_2014": "Draft Day (2014)",
+     "southpaw_2015": "Southpaw (2015)",
+     "detachment_2011": "Detachment (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.27,
+    "probabilities": {
+     "99_homes_2014": 0.05,
+     "knight_of_cups_2015": 0.33999999999999997,
+     "beauty_and_the_beast_2014": 0.06,
+     "i_frankenstein_2014": 0.08,
+     "puncture_2011": 0.07,
+     "candy_2006": 0.07,
+     "the_boys_from_brazil_1978": 0.14,
+     "draft_day_2014": 0.04,
+     "southpaw_2015": 0.04,
+     "detachment_2011": 0.11
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1509,
+   "output_tokens": 177
+  }
+ }
+}

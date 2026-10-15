@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-39038ec0-9d84-4a10-8407-53837f79cadf"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "dark_star_1974": "Dark Star (1974)",
+     "draft_day_2014": "Draft Day (2014)",
+     "99_homes_2014": "99 Homes (2014)",
+     "automata_2014": "Automata (2014)",
+     "existenz_1999": "Existenz (1999)",
+     "prospect_2018": "Prospect (2018)",
+     "puncture_2011": "Puncture (2011)",
+     "the_host_2013": "The Host (2013)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "detachment_2011": "Detachment (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "dark_star_1974",
+    "confidence": 0.34,
+    "probabilities": {
+     "dark_star_1974": 0.41,
+     "draft_day_2014": 0.03,
+     "99_homes_2014": 0.04,
+     "automata_2014": 0.09,
+     "existenz_1999": 0.09,
+     "prospect_2018": 0.12,
+     "puncture_2011": 0.05,
+     "the_host_2013": 0.06,
+     "take_me_home_tonight_2011": 0.04,
+     "detachment_2011": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1492,
+   "output_tokens": 162
+  }
+ }
+}

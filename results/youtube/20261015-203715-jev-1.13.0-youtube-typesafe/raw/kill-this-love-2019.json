@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d9bd944d-3aa8-4442-a317-4d4fd90c11a0"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.34,
+    "probabilities": {
+     "blackpink_kill_this_love_2019": 0.1,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.03,
+     "cocomelon_baa_baa_black_sheep_2018": 0.04,
+     "blackpink_ddu_du_ddu_du_2018": 0.09,
+     "bts_ft_halsey_boy_with_luv_2019": 0.04,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.41,
+     "bts_dynamite_2020": 0.06,
+     "psy_gangnam_style_2012": 0.12,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.02,
+     "blackpink_boombayah_2016": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1649,
+   "output_tokens": 246
+  }
+ }
+}

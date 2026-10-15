@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-8057ac4b-5b94-47e5-ad9c-035e26927ca6"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "arlington_road_1999": "Arlington Road (1999)",
+     "trespass_2011": "Trespass (2011)",
+     "pacific_heights_1990": "Pacific Heights (1990)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "charade_1963": "Charade (1963)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "bad_lieutenant_port_of_call_new_orleans_2009",
+    "confidence": 0.07,
+    "probabilities": {
+     "arlington_road_1999": 0.1,
+     "trespass_2011": 0.05,
+     "pacific_heights_1990": 0.05,
+     "transsiberian_2008": 0.16,
+     "before_the_devil_knows_you_re_dead_2007": 0.11,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.16,
+     "before_i_go_to_sleep_2014": 0.07,
+     "the_air_i_breathe_2007": 0.07,
+     "charade_1963": 0.09,
+     "assault_on_precinct_13_1976": 0.14
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1543,
+   "output_tokens": 199
+  }
+ }
+}

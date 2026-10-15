@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-f824ba53-d0c1-4330-88cb-bc5c650aff02"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "black_narcissus_1947": "Black Narcissus (1947)",
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)",
+     "midnight_sun_2018": "Midnight Sun (2018)",
+     "american_animals_2018": "American Animals (2018)",
+     "southpaw_2015": "Southpaw (2015)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "the_red_shoes_1948": "The Red Shoes (1948)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.3,
+    "probabilities": {
+     "brain_on_fire_2016": 0.07,
+     "black_narcissus_1947": 0.13,
+     "the_haunting_in_connecticut_2009": 0.08,
+     "midnight_sun_2018": 0.03,
+     "american_animals_2018": 0.05,
+     "southpaw_2015": 0.05,
+     "knight_of_cups_2015": 0.37,
+     "i_frankenstein_2014": 0.08,
+     "the_red_shoes_1948": 0.1,
+     "beauty_and_the_beast_2014": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1523,
+   "output_tokens": 187
+  }
+ }
+}

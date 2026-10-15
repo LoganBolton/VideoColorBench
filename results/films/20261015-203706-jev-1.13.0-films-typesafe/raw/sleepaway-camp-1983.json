@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-e7ca7d98-da7d-481a-84d4-bf0634cb5593"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "prom_night_1980": "Prom Night (1980)",
+     "villains_2019": "Villains (2019)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.2,
+    "probabilities": {
+     "day_of_the_dead_1985": 0.1,
+     "an_american_werewolf_in_paris_1997": 0.04,
+     "wish_upon_2017": 0.04,
+     "prom_night_1980": 0.04,
+     "villains_2019": 0.04,
+     "black_christmas_1974": 0.09,
+     "manos_the_hands_of_fate_1966": 0.27999999999999997,
+     "nosferatu_the_vampyre_1979": 0.24,
+     "the_messengers_2007": 0.06,
+     "sleepaway_camp_1983": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1524,
+   "output_tokens": 189
+  }
+ }
+}

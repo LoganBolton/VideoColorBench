@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-4bb97252-db9e-439e-961c-ac7b65cd9447"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "villains_2019": "Villains (2019)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "boogeyman_2005": "Boogeyman (2005)",
+     "the_messengers_2007": "The Messengers (2007)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.29,
+    "probabilities": {
+     "an_american_werewolf_in_paris_1997": 0.03,
+     "villains_2019": 0.04,
+     "stonehearst_asylum_2014": 0.07,
+     "sleepaway_camp_1983": 0.05,
+     "black_christmas_1974": 0.16,
+     "wish_upon_2017": 0.04,
+     "manos_the_hands_of_fate_1966": 0.36,
+     "apollo_18_2011": 0.14,
+     "boogeyman_2005": 0.05,
+     "the_messengers_2007": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1526,
+   "output_tokens": 189
+  }
+ }
+}

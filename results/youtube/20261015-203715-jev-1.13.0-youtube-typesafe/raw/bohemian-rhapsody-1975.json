@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-e590d2dc-0d47-4286-8731-69a9d1988e5b"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "queen_bohemian_rhapsody_1975": "Queen - Bohemian Rhapsody (1975)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "a_ha_take_on_me_1985": "a-ha - Take On Me (1985)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "queen_bohemian_rhapsody_1975",
+    "confidence": 0.19,
+    "probabilities": {
+     "justin_bieber_what_do_you_mean_2015": 0.07,
+     "queen_bohemian_rhapsody_1975": 0.27,
+     "guns_n_roses_november_rain_1992": 0.12,
+     "taylor_swift_shake_it_off_2014": 0.05,
+     "a_ha_take_on_me_1985": 0.15,
+     "the_cranberries_zombie_1994": 0.05,
+     "coldplay_hymn_for_the_weekend_2016": 0.08,
+     "linkin_park_numb_2003": 0.11,
+     "bruno_mars_that_s_what_i_like_2017": 0.03,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1609,
+   "output_tokens": 223
+  }
+ }
+}

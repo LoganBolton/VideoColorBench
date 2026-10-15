@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-304de309-ff14-4dc3-9dd2-42dcc49d9be3"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "t_series_shree_hanuman_chalisa_2011": "T-Series - Shree Hanuman Chalisa (2011)",
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "t_series_shree_hanuman_chalisa_2011",
+    "confidence": 0.24,
+    "probabilities": {
+     "t_series_shree_hanuman_chalisa_2011": 0.32,
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.1,
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.04,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.06,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.06,
+     "blackpink_kill_this_love_2019": 0.05,
+     "daddy_yankee_dura_2018": 0.09,
+     "blackpink_ddu_du_ddu_du_2018": 0.04,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.2,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1675,
+   "output_tokens": 256
+  }
+ }
+}

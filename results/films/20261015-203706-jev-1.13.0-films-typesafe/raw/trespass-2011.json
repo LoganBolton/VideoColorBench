@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-0509ca3a-4795-42be-81b4-b318de016e51"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "rampart_2011": "Rampart (2011)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "trespass_2011": "Trespass (2011)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec (2010)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.12,
+    "probabilities": {
+     "rampart_2011": 0.09,
+     "the_pledge_2001": 0.07,
+     "before_the_devil_knows_you_re_dead_2007": 0.12,
+     "fifty_shades_of_black_2016": 0.13,
+     "the_last_seduction_1994": 0.07,
+     "before_i_go_to_sleep_2014": 0.06,
+     "trespass_2011": 0.06,
+     "transsiberian_2008": 0.21000000000000002,
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": 0.06,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1557,
+   "output_tokens": 199
+  }
+ }
+}

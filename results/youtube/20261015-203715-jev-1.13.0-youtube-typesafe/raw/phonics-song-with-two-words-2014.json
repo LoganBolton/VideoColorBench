@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-62533bfb-e1c2-44ef-b126-a072dab2db33"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "cocomelon_bath_song_2018": "CoComelon - Bath Song (2018)",
+     "chuchu_tv_phonics_song_with_two_words_2014": "ChuChu TV - Phonics Song with Two Words (2014)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "pinkfong_baby_shark_dance_2016": "Pinkfong - Baby Shark Dance (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.28,
+    "probabilities": {
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.35,
+     "cocomelon_baa_baa_black_sheep_2018": 0.04,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.05,
+     "cocomelon_bath_song_2018": 0.04,
+     "chuchu_tv_phonics_song_with_two_words_2014": 0.08,
+     "j_balvin_ay_vamos_2014": 0.09,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.02,
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.06,
+     "cocomelon_wheels_on_the_bus_2018": 0.08,
+     "pinkfong_baby_shark_dance_2016": 0.19
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1638,
+   "output_tokens": 251
+  }
+ }
+}

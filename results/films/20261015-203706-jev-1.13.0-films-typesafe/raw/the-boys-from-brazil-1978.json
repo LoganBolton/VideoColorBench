@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-00120cc1-f697-4cbf-9025-768b0e660157"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "candy_2006": "Candy (2006)",
+     "sophie_s_choice_1982": "Sophie's Choice (1982)",
+     "draft_day_2014": "Draft Day (2014)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "puncture_2011": "Puncture (2011)",
+     "on_golden_pond_1981": "On Golden Pond (1981)",
+     "detachment_2011": "Detachment (2011)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "midnight_sun_2018": "Midnight Sun (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.21,
+    "probabilities": {
+     "candy_2006": 0.08,
+     "sophie_s_choice_1982": 0.06,
+     "draft_day_2014": 0.04,
+     "the_boys_from_brazil_1978": 0.12,
+     "puncture_2011": 0.08,
+     "on_golden_pond_1981": 0.13,
+     "detachment_2011": 0.08,
+     "beauty_and_the_beast_2014": 0.07,
+     "knight_of_cups_2015": 0.29,
+     "midnight_sun_2018": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1514,
+   "output_tokens": 180
+  }
+ }
+}

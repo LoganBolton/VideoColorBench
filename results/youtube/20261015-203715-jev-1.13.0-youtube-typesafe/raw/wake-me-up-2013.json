@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-f2acb9cf-7f71-4dcd-80d4-95ff35757381"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)",
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.22,
+    "probabilities": {
+     "avicii_wake_me_up_2013": 0.15,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.05,
+     "crazy_frog_axel_f_2009": 0.07,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.06,
+     "alan_walker_faded_2015": 0.3,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.12,
+     "j_balvin_ay_vamos_2014": 0.03,
+     "bruno_mars_the_lazy_song_2011": 0.09,
+     "lmfao_party_rock_anthem_2011": 0.08,
+     "katy_perry_roar_2013": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1615,
+   "output_tokens": 226
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-5e6fcafb-2bc6-48d0-ae67-aeaf68e02e48"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "eminem_not_afraid_2010": "Eminem - Not Afraid (2010)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.27,
+    "probabilities": {
+     "taylor_swift_blank_space_2014": 0.1,
+     "twenty_one_pilots_stressed_out_2015": 0.08,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.04,
+     "eminem_not_afraid_2010": 0.08,
+     "lmfao_party_rock_anthem_2011": 0.06,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.09,
+     "sia_chandelier_2014": 0.11,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.04,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.06,
+     "alan_walker_faded_2015": 0.34
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1627,
+   "output_tokens": 230
+  }
+ }
+}

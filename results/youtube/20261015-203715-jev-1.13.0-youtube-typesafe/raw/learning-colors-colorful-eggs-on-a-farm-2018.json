@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-bf11bd64-fdb4-44c3-936f-0b84ff437e18"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "pinkfong_baby_shark_dance_2016": "Pinkfong - Baby Shark Dance (2016)",
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "t_series_shree_hanuman_chalisa_2011": "T-Series - Shree Hanuman Chalisa (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.21,
+    "probabilities": {
+     "pinkfong_baby_shark_dance_2016": 0.06,
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.05,
+     "blackpink_kill_this_love_2019": 0.03,
+     "cocomelon_wheels_on_the_bus_2018": 0.08,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.02,
+     "cocomelon_baa_baa_black_sheep_2018": 0.08,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.02,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.28,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.29,
+     "t_series_shree_hanuman_chalisa_2011": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1661,
+   "output_tokens": 260
+  }
+ }
+}

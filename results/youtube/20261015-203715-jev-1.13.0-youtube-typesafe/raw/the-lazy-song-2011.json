@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-12dbdbe8-4136-4b66-ac2c-c4d1fd67dcfc"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "magic_rude_2013": "MAGIC! - Rude (2013)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "bruno_mars_just_the_way_you_are_2010": "Bruno Mars - Just the Way You Are (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "psy_gangnam_style_2012",
+    "confidence": 0.13,
+    "probabilities": {
+     "ellie_goulding_love_me_like_you_do_2015": 0.1,
+     "magic_rude_2013": 0.06,
+     "psy_gangnam_style_2012": 0.22,
+     "bruno_mars_the_lazy_song_2011": 0.11,
+     "maroon_5_sugar_2015": 0.06,
+     "katy_perry_roar_2013": 0.04,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.15,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.11,
+     "dua_lipa_new_rules_2017": 0.02,
+     "bruno_mars_just_the_way_you_are_2010": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1601,
+   "output_tokens": 214
+  }
+ }
+}

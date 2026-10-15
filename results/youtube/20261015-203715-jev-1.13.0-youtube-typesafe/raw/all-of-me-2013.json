@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-806f6b4c-b6e0-42b0-a868-80a57fde19ef"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "adele_someone_like_you_2011": "Adele - Someone Like You (2011)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "john_legend_all_of_me_2013": "John Legend - All of Me (2013)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_someone_like_you_2011",
+    "confidence": 0.11,
+    "probabilities": {
+     "adele_someone_like_you_2011": 0.2,
+     "ed_sheeran_thinking_out_loud_2014": 0.11,
+     "onerepublic_counting_stars_2013": 0.06,
+     "adele_rolling_in_the_deep_2010": 0.08,
+     "rihanna_diamonds_2012": 0.09,
+     "ed_sheeran_shape_of_you_2017": 0.14,
+     "taylor_swift_shake_it_off_2014": 0.04,
+     "john_legend_all_of_me_2013": 0.13,
+     "taylor_swift_blank_space_2014": 0.07,
+     "sia_chandelier_2014": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1580,
+   "output_tokens": 210
+  }
+ }
+}

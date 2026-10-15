@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-0207df6b-f5b7-4cd6-9f49-e0d8421d540a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "chuchu_tv_phonics_song_with_two_words_2014": "ChuChu TV - Phonics Song with Two Words (2014)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.16,
+    "probabilities": {
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.19,
+     "cocomelon_baa_baa_black_sheep_2018": 0.06,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.24,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.08,
+     "cocomelon_wheels_on_the_bus_2018": 0.12,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.04,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.09,
+     "chuchu_tv_phonics_song_with_two_words_2014": 0.07,
+     "imagine_dragons_believer_2017": 0.06,
+     "meghan_trainor_all_about_that_bass_2014": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1666,
+   "output_tokens": 265
+  }
+ }
+}

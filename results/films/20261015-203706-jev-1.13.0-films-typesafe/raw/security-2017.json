@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-033d4707-5a3b-4964-bc46-15d13307df05"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "killing_season_2013": "Killing Season (2013)",
+     "capricorn_one_1978": "Capricorn One (1978)",
+     "the_contract_2006": "The Contract (2006)",
+     "the_gunman_2015": "The Gunman (2015)",
+     "security_2017": "Security (2017)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "prospect_2018": "Prospect (2018)",
+     "aguirre_the_wrath_of_god_1972": "Aguirre, the Wrath of God (1972)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "aguirre_the_wrath_of_god_1972",
+    "confidence": 0.19,
+    "probabilities": {
+     "brain_on_fire_2016": 0.05,
+     "killing_season_2013": 0.04,
+     "capricorn_one_1978": 0.2,
+     "the_contract_2006": 0.07,
+     "the_gunman_2015": 0.06,
+     "security_2017": 0.09,
+     "jane_got_a_gun_2015": 0.03,
+     "wish_upon_2017": 0.04,
+     "prospect_2018": 0.15,
+     "aguirre_the_wrath_of_god_1972": 0.27
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1511,
+   "output_tokens": 179
+  }
+ }
+}

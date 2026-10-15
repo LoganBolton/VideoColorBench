@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-c744d0fe-2d62-460b-b835-7ead66570dba"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "avicii_wake_me_up_2013",
+    "confidence": 0.1,
+    "probabilities": {
+     "crazy_frog_axel_f_2009": 0.09,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.17,
+     "maroon_5_sugar_2015": 0.05,
+     "avicii_wake_me_up_2013": 0.19,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.07,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.12,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.07,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.14,
+     "lmfao_party_rock_anthem_2011": 0.06,
+     "bts_dynamite_2020": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1638,
+   "output_tokens": 235
+  }
+ }
+}

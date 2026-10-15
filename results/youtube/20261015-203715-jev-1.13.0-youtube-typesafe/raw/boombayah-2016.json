@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9f38b03e-b785-4ac7-a795-86b981540357"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "blackpink_kill_this_love_2019",
+    "confidence": 0.14,
+    "probabilities": {
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.07,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.06,
+     "imagine_dragons_believer_2017": 0.02,
+     "bts_dynamite_2020": 0.06,
+     "blackpink_boombayah_2016": 0.17,
+     "bts_ft_halsey_boy_with_luv_2019": 0.1,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.03,
+     "blackpink_kill_this_love_2019": 0.23,
+     "psy_gangnam_style_2012": 0.09,
+     "blackpink_ddu_du_ddu_du_2018": 0.17
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1637,
+   "output_tokens": 233
+  }
+ }
+}

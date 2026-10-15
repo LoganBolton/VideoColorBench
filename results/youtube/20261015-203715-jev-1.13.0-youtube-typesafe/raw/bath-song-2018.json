@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-568d24b8-9084-4637-a217-ed8325ee16f1"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "cocomelon_bath_song_2018": "CoComelon - Bath Song (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.4,
+    "probabilities": {
+     "justin_bieber_sorry_2015": 0.04,
+     "taylor_swift_shake_it_off_2014": 0.04,
+     "adele_hello_2015": 0.08,
+     "cocomelon_wheels_on_the_bus_2018": 0.08,
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.09,
+     "onerepublic_counting_stars_2013": 0.04,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.04,
+     "cocomelon_bath_song_2018": 0.07,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.45999999999999996,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1640,
+   "output_tokens": 251
+  }
+ }
+}

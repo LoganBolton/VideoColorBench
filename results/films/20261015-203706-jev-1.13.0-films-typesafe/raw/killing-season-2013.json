@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-74cf6c78-bd52-469a-9747-7feff0320a2f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_contract_2006": "The Contract (2006)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "the_gunman_2015": "The Gunman (2015)",
+     "security_2017": "Security (2017)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "puncture_2011": "Puncture (2011)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "killing_season_2013": "Killing Season (2013)",
+     "rampart_2011": "Rampart (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "rampart_2011",
+    "confidence": 0.09,
+    "probabilities": {
+     "the_contract_2006": 0.12,
+     "the_rebound_2009": 0.04,
+     "the_gunman_2015": 0.06,
+     "security_2017": 0.09,
+     "jane_got_a_gun_2015": 0.09,
+     "the_warrior_s_way_2010": 0.14,
+     "puncture_2011": 0.07,
+     "beauty_and_the_beast_2014": 0.12,
+     "killing_season_2013": 0.09,
+     "rampart_2011": 0.18000000000000002
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1507,
+   "output_tokens": 175
+  }
+ }
+}

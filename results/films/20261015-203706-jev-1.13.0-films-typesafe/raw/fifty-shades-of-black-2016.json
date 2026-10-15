@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1ea85e64-77c0-4c4e-a642-03cd413dcaf8"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "the_little_hours_2017": "The Little Hours (2017)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "sliding_doors_1998": "Sliding Doors (1998)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.38,
+    "probabilities": {
+     "take_me_home_tonight_2011": 0.06,
+     "the_little_hours_2017": 0.04,
+     "georgia_rule_2007": 0.04,
+     "the_importance_of_being_earnest_2002": 0.07,
+     "the_rebound_2009": 0.03,
+     "knight_of_cups_2015": 0.44,
+     "leaves_of_grass_2009": 0.05,
+     "sliding_doors_1998": 0.07,
+     "stonehearst_asylum_2014": 0.09,
+     "fifty_shades_of_black_2016": 0.11
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1531,
+   "output_tokens": 191
+  }
+ }
+}

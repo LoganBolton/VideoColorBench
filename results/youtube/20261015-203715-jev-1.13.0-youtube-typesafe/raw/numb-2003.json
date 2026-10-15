@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-2990f1cf-6a11-44cc-8d58-8dc35f01f554"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "queen_bohemian_rhapsody_1975": "Queen - Bohemian Rhapsody (1975)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "queen_bohemian_rhapsody_1975",
+    "confidence": 0.08,
+    "probabilities": {
+     "imagine_dragons_thunder_2017": 0.05,
+     "guns_n_roses_november_rain_1992": 0.12,
+     "queen_bohemian_rhapsody_1975": 0.16999999999999998,
+     "linkin_park_in_the_end_2001": 0.15,
+     "twenty_one_pilots_stressed_out_2015": 0.07,
+     "rihanna_diamonds_2012": 0.07,
+     "twenty_one_pilots_heathens_2016": 0.11,
+     "adele_rolling_in_the_deep_2010": 0.06,
+     "linkin_park_numb_2003": 0.15,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1599,
+   "output_tokens": 219
+  }
+ }
+}

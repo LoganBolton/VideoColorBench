@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-dc4851b0-b812-47d4-8d3d-ad63f845439e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "the_exorcist_iii_1990": "The Exorcist III (1990)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "villains_2019": "Villains (2019)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "silent_house_2011": "Silent House (2011)",
+     "automata_2014": "Automata (2014)",
+     "boogeyman_2005": "Boogeyman (2005)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "nosferatu_the_vampyre_1979",
+    "confidence": 0.14,
+    "probabilities": {
+     "day_of_the_dead_1985": 0.07,
+     "the_exorcist_iii_1990": 0.12,
+     "apollo_18_2011": 0.12,
+     "villains_2019": 0.03,
+     "stonehearst_asylum_2014": 0.07,
+     "nosferatu_the_vampyre_1979": 0.23,
+     "wish_upon_2017": 0.02,
+     "silent_house_2011": 0.2,
+     "automata_2014": 0.1,
+     "boogeyman_2005": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1517,
+   "output_tokens": 178
+  }
+ }
+}

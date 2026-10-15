@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-10b32cef-343e-409b-b1ee-78634c1ef48f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)",
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)",
+     "nicky_jam_x_j_balvin_x_equis_2018": "Nicky Jam x J Balvin - X (Equis) (2018)",
+     "carlos_vives_shakira_la_bicicleta_2016": "Carlos Vives & Shakira - La Bicicleta (2016)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "romeo_santos_propuesta_indecente_2013": "Romeo Santos - Propuesta Indecente (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "j_balvin_willy_william_mi_gente_2017",
+    "confidence": 0.22,
+    "probabilities": {
+     "j_balvin_willy_william_mi_gente_2017": 0.3,
+     "el_chombo_dame_tu_cosita_2018": 0.1,
+     "daddy_yankee_snow_con_calma_2019": 0.1,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.08,
+     "nicky_jam_x_j_balvin_x_equis_2018": 0.08,
+     "carlos_vives_shakira_la_bicicleta_2016": 0.06,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.07,
+     "natti_natasha_x_ozuna_criminal_2017": 0.06,
+     "daddy_yankee_dura_2018": 0.1,
+     "romeo_santos_propuesta_indecente_2013": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1657,
+   "output_tokens": 257
+  }
+ }
+}

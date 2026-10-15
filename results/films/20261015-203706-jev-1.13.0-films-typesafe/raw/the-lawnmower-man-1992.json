@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-a14b5434-c773-40ba-8f52-eb5fa586d650"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "prospect_2018": "Prospect (2018)",
+     "the_illusionist_2006": "The Illusionist (2006)",
+     "dark_star_1974": "Dark Star (1974)",
+     "side_effects_2013": "Side Effects (2013)",
+     "the_lawnmower_man_1992": "The Lawnmower Man (1992)",
+     "the_host_2013": "The Host (2013)",
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "chopper_2000": "Chopper (2000)",
+     "existenz_1999": "Existenz (1999)",
+     "sophie_s_choice_1982": "Sophie's Choice (1982)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "dark_star_1974",
+    "confidence": 0.14,
+    "probabilities": {
+     "prospect_2018": 0.19,
+     "the_illusionist_2006": 0.07,
+     "dark_star_1974": 0.23,
+     "side_effects_2013": 0.04,
+     "the_lawnmower_man_1992": 0.1,
+     "the_host_2013": 0.06,
+     "a_monster_in_paris_2011": 0.06,
+     "chopper_2000": 0.06,
+     "existenz_1999": 0.12,
+     "sophie_s_choice_1982": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1505,
+   "output_tokens": 171
+  }
+ }
+}

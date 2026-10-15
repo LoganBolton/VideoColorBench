@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-4855ce8b-91f1-4e2d-834c-ff423dc9b15f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "a_ha_take_on_me_1985": "a-ha - Take On Me (1985)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "bruno_mars_just_the_way_you_are_2010": "Bruno Mars - Just the Way You Are (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "linkin_park_in_the_end_2001",
+    "confidence": 0.09,
+    "probabilities": {
+     "linkin_park_in_the_end_2001": 0.18000000000000002,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.1,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.06,
+     "linkin_park_numb_2003": 0.15,
+     "imagine_dragons_believer_2017": 0.04,
+     "the_cranberries_zombie_1994": 0.03,
+     "twenty_one_pilots_heathens_2016": 0.08,
+     "a_ha_take_on_me_1985": 0.16,
+     "guns_n_roses_november_rain_1992": 0.14,
+     "bruno_mars_just_the_way_you_are_2010": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1608,
+   "output_tokens": 225
+  }
+ }
+}

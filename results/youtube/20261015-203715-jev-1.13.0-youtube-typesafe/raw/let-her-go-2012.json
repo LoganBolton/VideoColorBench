@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b135b6cd-713c-49ec-8ba9-3e01a0638e90"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "maroon_5_ft_cardi_b_girls_like_you_2018": "Maroon 5 ft. Cardi B - Girls Like You (2018)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "lady_gaga_bad_romance_2009": "Lady Gaga - Bad Romance (2009)",
+     "shawn_mendes_treat_you_better_2016": "Shawn Mendes - Treat You Better (2016)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "passenger_let_her_go_2012",
+    "confidence": 0.24,
+    "probabilities": {
+     "passenger_let_her_go_2012": 0.32,
+     "charlie_puth_attention_2017": 0.04,
+     "justin_bieber_what_do_you_mean_2015": 0.05,
+     "adele_rolling_in_the_deep_2010": 0.09,
+     "maroon_5_ft_cardi_b_girls_like_you_2018": 0.06,
+     "taylor_swift_shake_it_off_2014": 0.05,
+     "ed_sheeran_thinking_out_loud_2014": 0.17,
+     "lady_gaga_bad_romance_2009": 0.11,
+     "shawn_mendes_treat_you_better_2016": 0.03,
+     "onerepublic_counting_stars_2013": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1602,
+   "output_tokens": 223
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-fa767662-88b5-43b2-b5a9-9eb05ade61c6"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "draft_day_2014": "Draft Day (2014)",
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)",
+     "little_boy_2015": "Little Boy (2015)",
+     "zulu_1964": "Zulu (1964)",
+     "man_of_the_year_2006": "Man of the Year (2006)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "the_infiltrator_2016": "The Infiltrator (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "zulu_1964",
+    "confidence": 0.12,
+    "probabilities": {
+     "draft_day_2014": 0.08,
+     "the_eagle_has_landed_1976": 0.18,
+     "little_boy_2015": 0.05,
+     "zulu_1964": 0.21,
+     "man_of_the_year_2006": 0.06,
+     "beauty_and_the_beast_2014": 0.12,
+     "georgia_rule_2007": 0.05,
+     "leaves_of_grass_2009": 0.1,
+     "jane_got_a_gun_2015": 0.07,
+     "the_infiltrator_2016": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1513,
+   "output_tokens": 178
+  }
+ }
+}

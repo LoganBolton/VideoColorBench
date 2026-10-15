@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-062aa75e-6c4c-4d22-9eeb-eef90e447cc5"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "detachment_2011": "Detachment (2011)",
+     "the_man_who_killed_don_quixote_2018": "The Man Who Killed Don Quixote (2018)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "fitzcarraldo_1982": "Fitzcarraldo (1982)",
+     "99_homes_2014": "99 Homes (2014)",
+     "killing_season_2013": "Killing Season (2013)",
+     "villains_2019": "Villains (2019)",
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "fitzcarraldo_1982",
+    "confidence": 0.22,
+    "probabilities": {
+     "detachment_2011": 0.1,
+     "the_man_who_killed_don_quixote_2018": 0.09,
+     "jane_got_a_gun_2015": 0.06,
+     "beauty_and_the_beast_2014": 0.07,
+     "take_me_home_tonight_2011": 0.05,
+     "fitzcarraldo_1982": 0.3,
+     "99_homes_2014": 0.05,
+     "killing_season_2013": 0.08,
+     "villains_2019": 0.03,
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": 0.17
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1549,
+   "output_tokens": 197
+  }
+ }
+}

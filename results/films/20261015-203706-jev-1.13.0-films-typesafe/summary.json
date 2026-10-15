@@ -1,0 +1,13 @@
+[
+  {
+    "model": "typesafe:jev-1.13.0",
+    "n": 100,
+    "correct": 8,
+    "accuracy": 0.08,
+    "errors": 0,
+    "unparsed": 0,
+    "leaks": 0,
+    "downloads": 0,
+    "cost_usd": null
+  }
+]

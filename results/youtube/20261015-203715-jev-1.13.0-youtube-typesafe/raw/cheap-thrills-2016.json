@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-e5973807-ba39-4286-bc2d-0b86a70653d4"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "shawn_mendes_treat_you_better_2016": "Shawn Mendes - Treat You Better (2016)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "sia_ft_sean_paul_cheap_thrills_2016": "Sia ft. Sean Paul - Cheap Thrills (2016)",
+     "adele_someone_like_you_2011": "Adele - Someone Like You (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_someone_like_you_2011",
+    "confidence": 0.21,
+    "probabilities": {
+     "sia_chandelier_2014": 0.09,
+     "taylor_swift_blank_space_2014": 0.06,
+     "adele_hello_2015": 0.18,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.09,
+     "shawn_mendes_treat_you_better_2016": 0.03,
+     "imagine_dragons_thunder_2017": 0.04,
+     "ed_sheeran_shape_of_you_2017": 0.12,
+     "rihanna_diamonds_2012": 0.07,
+     "sia_ft_sean_paul_cheap_thrills_2016": 0.03,
+     "adele_someone_like_you_2011": 0.29000000000000004
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1582,
+   "output_tokens": 209
+  }
+ }
+}

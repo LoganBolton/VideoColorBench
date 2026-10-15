@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-3b310d55-5421-433e-a3e1-2d0d5f885774"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_gunman_2015": "The Gunman (2015)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "the_infiltrator_2016": "The Infiltrator (2016)",
+     "half_nelson_2006": "Half Nelson (2006)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "the_contract_2006": "The Contract (2006)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "killing_season_2013": "Killing Season (2013)",
+     "security_2017": "Security (2017)",
+     "legionnaire_1998": "Legionnaire (1998)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "legionnaire_1998",
+    "confidence": 0.03,
+    "probabilities": {
+     "the_gunman_2015": 0.1,
+     "jane_got_a_gun_2015": 0.09,
+     "the_infiltrator_2016": 0.09,
+     "half_nelson_2006": 0.11,
+     "leaves_of_grass_2009": 0.07,
+     "the_contract_2006": 0.11,
+     "the_warrior_s_way_2010": 0.12,
+     "killing_season_2013": 0.1,
+     "security_2017": 0.08,
+     "legionnaire_1998": 0.13
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1514,
+   "output_tokens": 177
+  }
+ }
+}

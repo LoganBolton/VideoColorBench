@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-20ff3d4e-be23-41be-9e6c-0414ea93cfce"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "maroon_5_ft_cardi_b_girls_like_you_2018": "Maroon 5 ft. Cardi B - Girls Like You (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "looloo_kids_johny_johny_yes_papa_2016",
+    "confidence": 0.11,
+    "probabilities": {
+     "ed_sheeran_shape_of_you_2017": 0.19,
+     "sia_chandelier_2014": 0.07,
+     "ellie_goulding_love_me_like_you_do_2015": 0.04,
+     "justin_bieber_sorry_2015": 0.05,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.09,
+     "adele_hello_2015": 0.11,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.07,
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.11,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.19999999999999998,
+     "maroon_5_ft_cardi_b_girls_like_you_2018": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1638,
+   "output_tokens": 243
+  }
+ }
+}

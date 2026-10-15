@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9e658a8d-b75b-42b7-886f-d96c90b9782c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "midnight_sun_2018": "Midnight Sun (2018)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "dark_star_1974": "Dark Star (1974)",
+     "security_2017": "Security (2017)",
+     "existenz_1999": "Existenz (1999)",
+     "prospect_2018": "Prospect (2018)",
+     "brain_on_fire_2016": "Brain on Fire (2016)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "automata_2014": "Automata (2014)",
+     "the_host_2013": "The Host (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "fifty_shades_of_black_2016",
+    "confidence": 0.21,
+    "probabilities": {
+     "midnight_sun_2018": 0.04,
+     "before_i_go_to_sleep_2014": 0.03,
+     "dark_star_1974": 0.22,
+     "security_2017": 0.11,
+     "existenz_1999": 0.07,
+     "prospect_2018": 0.1,
+     "brain_on_fire_2016": 0.02,
+     "fifty_shades_of_black_2016": 0.29000000000000004,
+     "automata_2014": 0.06,
+     "the_host_2013": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1498,
+   "output_tokens": 168
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-f4776e49-bb6a-4838-b9be-2cc3c87cf9fe"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "trespass_2011": "Trespass (2011)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "rampart_2011": "Rampart (2011)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "chopper_2000": "Chopper (2000)",
+     "side_effects_2013": "Side Effects (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.14,
+    "probabilities": {
+     "trespass_2011": 0.06,
+     "the_accidental_husband_2008": 0.05,
+     "rampart_2011": 0.11,
+     "the_pledge_2001": 0.1,
+     "a_monster_in_paris_2011": 0.09,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.14,
+     "transsiberian_2008": 0.23,
+     "before_i_go_to_sleep_2014": 0.05,
+     "chopper_2000": 0.11,
+     "side_effects_2013": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1522,
+   "output_tokens": 184
+  }
+ }
+}

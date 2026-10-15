@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-c3cd3f69-3eb1-4a5e-9140-10e88f4b84fd"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)",
+     "shakira_waka_waka_this_time_for_africa_2010": "Shakira - Waka Waka (This Time for Africa) (2010)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "shakira_ft_maluma_chantaje_2016": "Shakira ft. Maluma - Chantaje (2016)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "luis_fonsi_ft_daddy_yankee_despacito_2017",
+    "confidence": 0.19,
+    "probabilities": {
+     "becky_g_natti_natasha_sin_pijama_2018": 0.05,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.07,
+     "shakira_waka_waka_this_time_for_africa_2010": 0.13,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.27,
+     "shakira_ft_maluma_chantaje_2016": 0.09,
+     "j_balvin_willy_william_mi_gente_2017": 0.13,
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": 0.07,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.05,
+     "daddy_yankee_snow_con_calma_2019": 0.06,
+     "el_chombo_dame_tu_cosita_2018": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1678,
+   "output_tokens": 267
+  }
+ }
+}

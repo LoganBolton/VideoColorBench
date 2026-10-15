@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9aae87ad-c351-44b9-b633-c4b1cd13476d"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "the_gunman_2015": "The Gunman (2015)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "detachment_2011": "Detachment (2011)",
+     "the_contract_2006": "The Contract (2006)",
+     "villains_2019": "Villains (2019)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "security_2017": "Security (2017)",
+     "killing_season_2013": "Killing Season (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "detachment_2011",
+    "confidence": 0.07,
+    "probabilities": {
+     "beauty_and_the_beast_2014": 0.09,
+     "the_gunman_2015": 0.07,
+     "jane_got_a_gun_2015": 0.07,
+     "detachment_2011": 0.16,
+     "the_contract_2006": 0.16,
+     "villains_2019": 0.07,
+     "georgia_rule_2007": 0.05,
+     "the_warrior_s_way_2010": 0.14,
+     "security_2017": 0.08,
+     "killing_season_2013": 0.11
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1503,
+   "output_tokens": 174
+  }
+ }
+}

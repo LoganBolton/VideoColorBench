@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-023f1c18-b0b7-471f-9f13-ecff5b12230a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "boogeyman_2005": "Boogeyman (2005)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "villains_2019": "Villains (2019)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "black_christmas_1974",
+    "confidence": 0.1,
+    "probabilities": {
+     "day_of_the_dead_1985": 0.15,
+     "apollo_18_2011": 0.17,
+     "the_messengers_2007": 0.06,
+     "boogeyman_2005": 0.08,
+     "sleepaway_camp_1983": 0.09,
+     "wish_upon_2017": 0.06,
+     "villains_2019": 0.05,
+     "black_christmas_1974": 0.19,
+     "an_american_werewolf_in_paris_1997": 0.05,
+     "stonehearst_asylum_2014": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1522,
+   "output_tokens": 181
+  }
+ }
+}

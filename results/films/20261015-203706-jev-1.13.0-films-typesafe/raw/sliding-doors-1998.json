@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-996919dd-fcf4-4f99-a992-d23555c4afd7"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "sliding_doors_1998": "Sliding Doors (1998)",
+     "the_little_hours_2017": "The Little Hours (2017)",
+     "existenz_1999": "Existenz (1999)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "man_of_the_year_2006": "Man of the Year (2006)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "sliding_doors_1998",
+    "confidence": 0.07,
+    "probabilities": {
+     "sliding_doors_1998": 0.16,
+     "the_little_hours_2017": 0.08,
+     "existenz_1999": 0.13,
+     "take_me_home_tonight_2011": 0.05,
+     "fifty_shades_of_black_2016": 0.13,
+     "georgia_rule_2007": 0.08,
+     "man_of_the_year_2006": 0.1,
+     "the_importance_of_being_earnest_2002": 0.13,
+     "the_rebound_2009": 0.05,
+     "paris_je_t_aime_2006": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1526,
+   "output_tokens": 188
+  }
+ }
+}

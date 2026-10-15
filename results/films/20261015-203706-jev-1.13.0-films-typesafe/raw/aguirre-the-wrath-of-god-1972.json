@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-4514f6df-2f8c-4ff3-a11b-aa6f18ac0983"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "dark_star_1974": "Dark Star (1974)",
+     "charade_1963": "Charade (1963)",
+     "the_contract_2006": "The Contract (2006)",
+     "aguirre_the_wrath_of_god_1972": "Aguirre, the Wrath of God (1972)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "capricorn_one_1978": "Capricorn One (1978)",
+     "security_2017": "Security (2017)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "killing_season_2013": "Killing Season (2013)",
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "dark_star_1974",
+    "confidence": 0.23,
+    "probabilities": {
+     "dark_star_1974": 0.31,
+     "charade_1963": 0.04,
+     "the_contract_2006": 0.06,
+     "aguirre_the_wrath_of_god_1972": 0.19,
+     "jane_got_a_gun_2015": 0.04,
+     "capricorn_one_1978": 0.08,
+     "security_2017": 0.08,
+     "day_of_the_dead_1985": 0.09,
+     "killing_season_2013": 0.06,
+     "the_eagle_has_landed_1976": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1512,
+   "output_tokens": 174
+  }
+ }
+}

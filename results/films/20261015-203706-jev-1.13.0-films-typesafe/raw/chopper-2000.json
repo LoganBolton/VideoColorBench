@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-78681b67-286f-417e-bb00-778b4bbc160f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "trespass_2011": "Trespass (2011)",
+     "rampart_2011": "Rampart (2011)",
+     "side_effects_2013": "Side Effects (2013)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "chopper_2000": "Chopper (2000)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "the_lawnmower_man_1992": "The Lawnmower Man (1992)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.11,
+    "probabilities": {
+     "a_monster_in_paris_2011": 0.11,
+     "before_i_go_to_sleep_2014": 0.06,
+     "trespass_2011": 0.06,
+     "rampart_2011": 0.14,
+     "side_effects_2013": 0.07,
+     "the_pledge_2001": 0.09,
+     "transsiberian_2008": 0.19999999999999998,
+     "chopper_2000": 0.08,
+     "the_air_i_breathe_2007": 0.07,
+     "the_lawnmower_man_1992": 0.12
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1518,
+   "output_tokens": 178
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-431d41e2-75ba-4d28-ab5c-81430fe59344"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "justin_bieber_ft_ludacris_baby_2010": "Justin Bieber ft. Ludacris - Baby (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_hello_2015",
+    "confidence": 0.07,
+    "probabilities": {
+     "ed_sheeran_perfect_2017": 0.09,
+     "adele_hello_2015": 0.16,
+     "ed_sheeran_thinking_out_loud_2014": 0.16,
+     "onerepublic_counting_stars_2013": 0.06,
+     "justin_bieber_what_do_you_mean_2015": 0.08,
+     "maroon_5_sugar_2015": 0.05,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.14,
+     "taylor_swift_shake_it_off_2014": 0.09,
+     "justin_bieber_sorry_2015": 0.06,
+     "justin_bieber_ft_ludacris_baby_2010": 0.11
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1597,
+   "output_tokens": 218
+  }
+ }
+}

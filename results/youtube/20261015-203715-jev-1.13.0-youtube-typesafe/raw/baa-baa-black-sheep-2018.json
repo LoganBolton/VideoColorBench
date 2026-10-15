@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-92f7b8d4-7dee-4608-8855-ba41f160535f"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "chuchu_tv_phonics_song_with_two_words_2014": "ChuChu TV - Phonics Song with Two Words (2014)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "cocomelon_bath_song_2018": "CoComelon - Bath Song (2018)",
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.28,
+    "probabilities": {
+     "cocomelon_baa_baa_black_sheep_2018": 0.1,
+     "chuchu_tv_phonics_song_with_two_words_2014": 0.06,
+     "blackpink_ddu_du_ddu_du_2018": 0.05,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.35000000000000003,
+     "daddy_yankee_dura_2018": 0.04,
+     "cocomelon_bath_song_2018": 0.06,
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.05,
+     "cocomelon_wheels_on_the_bus_2018": 0.15,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.11,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1647,
+   "output_tokens": 250
+  }
+ }
+}

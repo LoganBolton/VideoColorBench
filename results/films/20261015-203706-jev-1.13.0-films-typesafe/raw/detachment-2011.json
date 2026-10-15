@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-9fd0db08-b182-4cff-b13a-5094e68ad6f5"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "puncture_2011": "Puncture (2011)",
+     "the_boys_from_brazil_1978": "The Boys from Brazil (1978)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "draft_day_2014": "Draft Day (2014)",
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)",
+     "the_infiltrator_2016": "The Infiltrator (2016)",
+     "detachment_2011": "Detachment (2011)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "99_homes_2014": "99 Homes (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.22,
+    "probabilities": {
+     "puncture_2011": 0.08,
+     "the_boys_from_brazil_1978": 0.12,
+     "i_frankenstein_2014": 0.05,
+     "knight_of_cups_2015": 0.3,
+     "draft_day_2014": 0.06,
+     "the_haunting_in_connecticut_2009": 0.09,
+     "the_infiltrator_2016": 0.05,
+     "detachment_2011": 0.11,
+     "beauty_and_the_beast_2014": 0.07,
+     "99_homes_2014": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1522,
+   "output_tokens": 186
+  }
+ }
+}

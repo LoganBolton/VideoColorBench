@@ -4,3 +4,4 @@ viewer.html
 hf_data/
 .preview/
 .claude/
+.env

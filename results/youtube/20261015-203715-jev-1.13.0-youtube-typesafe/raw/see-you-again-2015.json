@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-99df0201-c6b1-4e46-ab75-065128bcc3ac"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "eminem_without_me_2002": "Eminem - Without Me (2002)",
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "eminem_not_afraid_2010": "Eminem - Not Afraid (2010)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_hello_2015",
+    "confidence": 0.12,
+    "probabilities": {
+     "eminem_without_me_2002": 0.14,
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": 0.12,
+     "taylor_swift_shake_it_off_2014": 0.04,
+     "eminem_not_afraid_2010": 0.16,
+     "justin_bieber_what_do_you_mean_2015": 0.03,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.06,
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.11,
+     "ed_sheeran_perfect_2017": 0.1,
+     "adele_hello_2015": 0.21,
+     "bruno_mars_that_s_what_i_like_2017": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1617,
+   "output_tokens": 226
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-91694a8d-69ea-474c-aea8-64e63857a32d"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "rampart_2011": "Rampart (2011)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)",
+     "the_illusionist_2006": "The Illusionist (2006)",
+     "1408_2007": "1408 (2007)",
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "chopper_2000": "Chopper (2000)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "the_gunman_2015": "The Gunman (2015)",
+     "side_effects_2013": "Side Effects (2013)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "a_monster_in_paris_2011",
+    "confidence": 0.04,
+    "probabilities": {
+     "rampart_2011": 0.12,
+     "paris_je_t_aime_2006": 0.08,
+     "the_illusionist_2006": 0.14,
+     "1408_2007": 0.12,
+     "a_monster_in_paris_2011": 0.13999999999999999,
+     "the_warrior_s_way_2010": 0.11,
+     "chopper_2000": 0.09,
+     "the_accidental_husband_2008": 0.09,
+     "the_gunman_2015": 0.04,
+     "side_effects_2013": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1524,
+   "output_tokens": 186
+  }
+ }
+}

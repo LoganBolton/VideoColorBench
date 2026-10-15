@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-c4c8da24-c293-43b5-99df-1d09f8795388"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "puncture_2011": "Puncture (2011)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": "The Extraordinary Adventures of Ad\u00e8le Blanc-Sec (2010)",
+     "fitzcarraldo_1982": "Fitzcarraldo (1982)",
+     "the_man_who_killed_don_quixote_2018": "The Man Who Killed Don Quixote (2018)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "knight_of_cups_2015": "Knight of Cups (2015)",
+     "trespass_2011": "Trespass (2011)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "knight_of_cups_2015",
+    "confidence": 0.28,
+    "probabilities": {
+     "fifty_shades_of_black_2016": 0.13,
+     "puncture_2011": 0.05,
+     "before_i_go_to_sleep_2014": 0.06,
+     "the_extraordinary_adventures_of_ad_le_blanc_sec_2010": 0.06,
+     "fitzcarraldo_1982": 0.15,
+     "the_man_who_killed_don_quixote_2018": 0.06,
+     "stonehearst_asylum_2014": 0.05,
+     "the_messengers_2007": 0.04,
+     "knight_of_cups_2015": 0.35,
+     "trespass_2011": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1552,
+   "output_tokens": 197
+  }
+ }
+}

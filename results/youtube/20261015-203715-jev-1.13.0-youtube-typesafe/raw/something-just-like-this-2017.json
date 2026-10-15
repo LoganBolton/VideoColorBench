@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-a5d2d020-882f-4cfd-8c2e-8d2c26af3505"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.29,
+    "probabilities": {
+     "lmfao_party_rock_anthem_2011": 0.09000000000000001,
+     "charlie_puth_attention_2017": 0.03,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.04,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.08,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.03,
+     "alan_walker_faded_2015": 0.36,
+     "ed_sheeran_perfect_2017": 0.05,
+     "adele_hello_2015": 0.18,
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.09,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1640,
+   "output_tokens": 239
+  }
+ }
+}

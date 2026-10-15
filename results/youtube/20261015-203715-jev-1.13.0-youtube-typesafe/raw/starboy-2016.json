@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-11f29a03-931e-4e21-b9b5-af110436ca96"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": "Jennifer Lopez ft. Pitbull - On the Floor (2011)",
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_weeknd_ft_daft_punk_starboy_2016",
+    "confidence": 0.24,
+    "probabilities": {
+     "dua_lipa_new_rules_2017": 0.14,
+     "maroon_5_sugar_2015": 0.06,
+     "katy_perry_roar_2013": 0.05,
+     "bruno_mars_that_s_what_i_like_2017": 0.04,
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": 0.12,
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.05,
+     "justin_bieber_sorry_2015": 0.06,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.32,
+     "charlie_puth_attention_2017": 0.07,
+     "justin_bieber_what_do_you_mean_2015": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1608,
+   "output_tokens": 225
+  }
+ }
+}

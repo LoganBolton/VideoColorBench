@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ba92ef62-f429-4b07-b937-767b5950d70e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "john_legend_all_of_me_2013": "John Legend - All of Me (2013)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "bruno_mars_just_the_way_you_are_2010": "Bruno Mars - Just the Way You Are (2010)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "john_legend_all_of_me_2013",
+    "confidence": 0.04,
+    "probabilities": {
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.12,
+     "meghan_trainor_all_about_that_bass_2014": 0.11,
+     "ellie_goulding_love_me_like_you_do_2015": 0.07,
+     "dua_lipa_new_rules_2017": 0.11,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.13,
+     "john_legend_all_of_me_2013": 0.13999999999999999,
+     "bruno_mars_that_s_what_i_like_2017": 0.07,
+     "katy_perry_roar_2013": 0.1,
+     "bruno_mars_just_the_way_you_are_2010": 0.1,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1644,
+   "output_tokens": 236
+  }
+ }
+}

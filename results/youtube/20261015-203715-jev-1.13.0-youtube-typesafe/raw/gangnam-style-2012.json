@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-d14e9da2-5c83-4239-8dc6-fdadbd7c4f2c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "psy_gangnam_style_2012",
+    "confidence": 0.1,
+    "probabilities": {
+     "katy_perry_roar_2013": 0.08,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.17,
+     "blackpink_ddu_du_ddu_du_2018": 0.09,
+     "blackpink_kill_this_love_2019": 0.13,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.06,
+     "psy_gangnam_style_2012": 0.19,
+     "bruno_mars_the_lazy_song_2011": 0.06,
+     "j_balvin_ay_vamos_2014": 0.06,
+     "bts_dynamite_2020": 0.08,
+     "bts_ft_halsey_boy_with_luv_2019": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1615,
+   "output_tokens": 219
+  }
+ }
+}

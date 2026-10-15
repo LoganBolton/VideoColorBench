@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-e2aebbeb-c60a-4cca-8efa-895768e47cbc"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "john_legend_all_of_me_2013": "John Legend - All of Me (2013)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)",
+     "a_ha_take_on_me_1985": "a-ha - Take On Me (1985)",
+     "sia_ft_sean_paul_cheap_thrills_2016": "Sia ft. Sean Paul - Cheap Thrills (2016)",
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "imagine_dragons_thunder_2017": "Imagine Dragons - Thunder (2017)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "guns_n_roses_november_rain_1992",
+    "confidence": 0.08,
+    "probabilities": {
+     "john_legend_all_of_me_2013": 0.12,
+     "the_cranberries_zombie_1994": 0.04,
+     "linkin_park_numb_2003": 0.15,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.06,
+     "a_ha_take_on_me_1985": 0.15,
+     "sia_ft_sean_paul_cheap_thrills_2016": 0.05,
+     "twenty_one_pilots_heathens_2016": 0.07,
+     "guns_n_roses_november_rain_1992": 0.17,
+     "imagine_dragons_thunder_2017": 0.04,
+     "linkin_park_in_the_end_2001": 0.15
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1591,
+   "output_tokens": 221
+  }
+ }
+}

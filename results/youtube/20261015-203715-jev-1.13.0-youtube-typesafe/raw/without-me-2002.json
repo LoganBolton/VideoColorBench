@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-bc31ebec-92bb-4a05-b390-bee14253b067"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+     "eminem_not_afraid_2010": "Eminem - Not Afraid (2010)",
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "eminem_without_me_2002": "Eminem - Without Me (2002)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "justin_bieber_ft_ludacris_baby_2010": "Justin Bieber ft. Ludacris - Baby (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "wiz_khalifa_ft_charlie_puth_see_you_again_2015",
+    "confidence": 0.16,
+    "probabilities": {
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.24,
+     "eminem_not_afraid_2010": 0.12,
+     "dua_lipa_new_rules_2017": 0.03,
+     "justin_bieber_sorry_2015": 0.04,
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": 0.14,
+     "the_cranberries_zombie_1994": 0.09,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.12,
+     "eminem_without_me_2002": 0.12,
+     "taylor_swift_shake_it_off_2014": 0.04,
+     "justin_bieber_ft_ludacris_baby_2010": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1615,
+   "output_tokens": 236
+  }
+ }
+}

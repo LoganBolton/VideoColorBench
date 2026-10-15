@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-295dbcb1-0d22-4c88-b8a0-3ef0c5cbe750"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "lmfao_party_rock_anthem_2011": "LMFAO - Party Rock Anthem (2011)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "avicii_wake_me_up_2013": "Avicii - Wake Me Up (2013)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "alan_walker_faded_2015",
+    "confidence": 0.11,
+    "probabilities": {
+     "crazy_frog_axel_f_2009": 0.08,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.15,
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": 0.09,
+     "alan_walker_faded_2015": 0.19999999999999998,
+     "lmfao_party_rock_anthem_2011": 0.08,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.06,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.1,
+     "katy_perry_roar_2013": 0.06,
+     "avicii_wake_me_up_2013": 0.11,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1634,
+   "output_tokens": 234
+  }
+ }
+}

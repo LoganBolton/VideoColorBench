@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1c8d989e-2673-4702-9cf4-f16e04638667"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "all_quiet_on_the_western_front_1930": "All Quiet on the Western Front (1930)",
+     "the_39_steps_1935": "The 39 Steps (1935)",
+     "metropolis_1927": "Metropolis (1927)",
+     "the_little_hours_2017": "The Little Hours (2017)",
+     "the_passion_of_joan_of_arc_1928": "The Passion of Joan of Arc (1928)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "the_kid_1921": "The Kid (1921)",
+     "battleship_potemkin_1925": "Battleship Potemkin (1925)",
+     "the_general_1926": "The General (1926)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "fifty_shades_of_black_2016",
+    "confidence": 0.2,
+    "probabilities": {
+     "all_quiet_on_the_western_front_1930": 0.11,
+     "the_39_steps_1935": 0.01,
+     "metropolis_1927": 0.16,
+     "the_little_hours_2017": 0.07,
+     "the_passion_of_joan_of_arc_1928": 0.17,
+     "the_importance_of_being_earnest_2002": 0.04,
+     "fifty_shades_of_black_2016": 0.28,
+     "the_kid_1921": 0.03,
+     "battleship_potemkin_1925": 0.08,
+     "the_general_1926": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1543,
+   "output_tokens": 197
+  }
+ }
+}

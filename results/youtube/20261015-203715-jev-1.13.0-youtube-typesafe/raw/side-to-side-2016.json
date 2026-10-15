@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-8ec6a35a-5afc-4e45-9120-e0d56dc02a35"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)",
+     "adele_hello_2015": "Adele - Hello (2015)",
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_weeknd_ft_daft_punk_starboy_2016",
+    "confidence": 0.17,
+    "probabilities": {
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.15,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.05,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.25,
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.06,
+     "katy_perry_roar_2013": 0.09,
+     "meghan_trainor_all_about_that_bass_2014": 0.03,
+     "adele_hello_2015": 0.15,
+     "ellie_goulding_love_me_like_you_do_2015": 0.06,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.13,
+     "maroon_5_sugar_2015": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1657,
+   "output_tokens": 249
+  }
+ }
+}

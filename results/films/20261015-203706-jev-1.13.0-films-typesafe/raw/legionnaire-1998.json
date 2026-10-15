@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-a13c731d-4f57-40b3-8688-091a7764690a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "legionnaire_1998": "Legionnaire (1998)",
+     "a_monster_in_paris_2011": "A Monster in Paris (2011)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "chopper_2000": "Chopper (2000)",
+     "the_contract_2006": "The Contract (2006)",
+     "side_effects_2013": "Side Effects (2013)",
+     "1408_2007": "1408 (2007)",
+     "jane_got_a_gun_2015": "Jane Got a Gun (2015)",
+     "the_gunman_2015": "The Gunman (2015)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "1408_2007",
+    "confidence": 0.06,
+    "probabilities": {
+     "legionnaire_1998": 0.12,
+     "a_monster_in_paris_2011": 0.11,
+     "the_warrior_s_way_2010": 0.13,
+     "chopper_2000": 0.12,
+     "the_contract_2006": 0.1,
+     "side_effects_2013": 0.05,
+     "1408_2007": 0.15,
+     "jane_got_a_gun_2015": 0.07,
+     "the_gunman_2015": 0.06,
+     "the_accidental_husband_2008": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1520,
+   "output_tokens": 181
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-f14be5ae-ad2f-4bfa-b5c6-4ab2a143e574"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "pedro_cap_farruko_calma_remix_2018": "Pedro Cap\u00f3 & Farruko - Calma (Remix) (2018)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "maluma_felices_los_4_2017": "Maluma - Felices los 4 (2017)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "luis_fonsi_ft_daddy_yankee_despacito_2017",
+    "confidence": 0.38,
+    "probabilities": {
+     "pedro_cap_farruko_calma_remix_2018": 0.08,
+     "j_balvin_ay_vamos_2014": 0.04,
+     "natti_natasha_x_ozuna_criminal_2017": 0.03,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.44,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.04,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.04,
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": 0.06,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.05,
+     "maluma_felices_los_4_2017": 0.04,
+     "j_balvin_willy_william_mi_gente_2017": 0.18
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1665,
+   "output_tokens": 263
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-4e0b2519-f3f1-4660-afb4-66c1e25ac3f9"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_host_2013": "The Host (2013)",
+     "automata_2014": "Automata (2014)",
+     "the_lawnmower_man_1992": "The Lawnmower Man (1992)",
+     "prospect_2018": "Prospect (2018)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "dark_star_1974": "Dark Star (1974)",
+     "existenz_1999": "Existenz (1999)",
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "pacific_heights_1990": "Pacific Heights (1990)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "dark_star_1974",
+    "confidence": 0.22,
+    "probabilities": {
+     "the_host_2013": 0.07,
+     "automata_2014": 0.05,
+     "the_lawnmower_man_1992": 0.05,
+     "prospect_2018": 0.12,
+     "the_last_man_on_earth_1964": 0.15,
+     "dark_star_1974": 0.3,
+     "existenz_1999": 0.06,
+     "the_haunting_in_connecticut_2009": 0.07,
+     "the_importance_of_being_earnest_2002": 0.08,
+     "pacific_heights_1990": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1519,
+   "output_tokens": 180
+  }
+ }
+}

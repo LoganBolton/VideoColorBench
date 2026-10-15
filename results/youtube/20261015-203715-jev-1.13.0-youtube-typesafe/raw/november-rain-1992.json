@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b7b6bb1d-c9ef-4f96-8eb9-fb7fac63e828"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "nirvana_smells_like_teen_spirit_1991": "Nirvana - Smells Like Teen Spirit (1991)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)",
+     "linkin_park_numb_2003": "Linkin Park - Numb (2003)",
+     "a_ha_take_on_me_1985": "a-ha - Take On Me (1985)",
+     "coldplay_hymn_for_the_weekend_2016": "Coldplay - Hymn for the Weekend (2016)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "guns_n_roses_november_rain_1992",
+    "confidence": 0.07,
+    "probabilities": {
+     "nirvana_smells_like_teen_spirit_1991": 0.12,
+     "bruno_mars_the_lazy_song_2011": 0.1,
+     "the_cranberries_zombie_1994": 0.04,
+     "linkin_park_numb_2003": 0.1,
+     "a_ha_take_on_me_1985": 0.16,
+     "coldplay_hymn_for_the_weekend_2016": 0.11,
+     "linkin_park_in_the_end_2001": 0.12,
+     "imagine_dragons_believer_2017": 0.03,
+     "guns_n_roses_november_rain_1992": 0.15,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1597,
+   "output_tokens": 223
+  }
+ }
+}

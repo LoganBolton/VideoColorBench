@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-c186260a-8ac0-43d8-a2cc-ab3126b115d4"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "bruno_mars_just_the_way_you_are_2010": "Bruno Mars - Just the Way You Are (2010)",
+     "magic_rude_2013": "MAGIC! - Rude (2013)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "taylor_swift_blank_space_2014",
+    "confidence": 0.06,
+    "probabilities": {
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.15,
+     "meghan_trainor_all_about_that_bass_2014": 0.14,
+     "bruno_mars_the_lazy_song_2011": 0.06,
+     "bruno_mars_just_the_way_you_are_2010": 0.13,
+     "magic_rude_2013": 0.06,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.07,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.07,
+     "sia_chandelier_2014": 0.14,
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.04,
+     "taylor_swift_blank_space_2014": 0.13999999999999999
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1635,
+   "output_tokens": 232
+  }
+ }
+}

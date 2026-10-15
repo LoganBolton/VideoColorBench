@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-764cd9e3-eb1e-445d-a509-6fcc4ee1c757"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "before_i_go_to_sleep_2014": "Before I Go to Sleep (2014)",
+     "trespass_2011": "Trespass (2011)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "rampart_2011": "Rampart (2011)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "arlington_road_1999": "Arlington Road (1999)",
+     "bad_lieutenant_port_of_call_new_orleans_2009": "Bad Lieutenant: Port of Call New Orleans (2009)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.17,
+    "probabilities": {
+     "assault_on_precinct_13_1976": 0.11,
+     "transsiberian_2008": 0.25,
+     "before_i_go_to_sleep_2014": 0.05,
+     "trespass_2011": 0.06,
+     "the_last_seduction_1994": 0.08,
+     "before_the_devil_knows_you_re_dead_2007": 0.09,
+     "rampart_2011": 0.09,
+     "the_air_i_breathe_2007": 0.07,
+     "arlington_road_1999": 0.05,
+     "bad_lieutenant_port_of_call_new_orleans_2009": 0.15000000000000002
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1545,
+   "output_tokens": 194
+  }
+ }
+}

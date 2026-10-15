@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-f1ba6d34-3b9d-4aa8-a282-65ba817491db"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "eminem_without_me_2002": "Eminem - Without Me (2002)",
+     "eminem_not_afraid_2010": "Eminem - Not Afraid (2010)",
+     "crazy_frog_axel_f_2009": "Crazy Frog - Axel F (2009)",
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "j_balvin_willy_william_mi_gente_2017": "J Balvin & Willy William - Mi Gente (2017)",
+     "natti_natasha_x_ozuna_criminal_2017": "Natti Natasha x Ozuna - Criminal (2017)",
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+     "j_balvin_ay_vamos_2014": "J Balvin - Ay Vamos (2014)",
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_weeknd_ft_daft_punk_starboy_2016",
+    "confidence": 0.1,
+    "probabilities": {
+     "eminem_without_me_2002": 0.14,
+     "eminem_not_afraid_2010": 0.12,
+     "crazy_frog_axel_f_2009": 0.09,
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.04,
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.19,
+     "j_balvin_willy_william_mi_gente_2017": 0.07,
+     "natti_natasha_x_ozuna_criminal_2017": 0.06,
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": 0.12,
+     "j_balvin_ay_vamos_2014": 0.05,
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.12
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1636,
+   "output_tokens": 241
+  }
+ }
+}

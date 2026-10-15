@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-bdcaddcc-1c05-4a59-b782-c3ec55cb54c7"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": "Jason Derulo ft. Nicki Minaj & Ty Dolla $ign - Swalla (2017)",
+     "bts_ft_halsey_boy_with_luv_2019": "BTS ft. Halsey - Boy With Luv (2019)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "psy_gangnam_style_2012": "PSY - Gangnam Style (2012)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "bts_dynamite_2020": "BTS - Dynamite (2020)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "blackpink_kill_this_love_2019",
+    "confidence": 0.11,
+    "probabilities": {
+     "daddy_yankee_dura_2018": 0.05,
+     "cocomelon_baa_baa_black_sheep_2018": 0.03,
+     "blackpink_ddu_du_ddu_du_2018": 0.14,
+     "jason_derulo_ft_nicki_minaj_ty_dolla_ign_swalla_2017": 0.07,
+     "bts_ft_halsey_boy_with_luv_2019": 0.08,
+     "blackpink_kill_this_love_2019": 0.19999999999999998,
+     "psy_gangnam_style_2012": 0.1,
+     "blackpink_boombayah_2016": 0.2,
+     "bts_dynamite_2020": 0.07,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1633,
+   "output_tokens": 231
+  }
+ }
+}

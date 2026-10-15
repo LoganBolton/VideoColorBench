@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-7147cf58-3020-4274-b4f2-12bf139854ec"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "maluma_felices_los_4_2017": "Maluma - Felices los 4 (2017)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "becky_g_natti_natasha_sin_pijama_2018": "Becky G & Natti Natasha - Sin Pijama (2018)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "mc_fioti_bum_bum_tam_tam_2017": "MC Fioti - Bum Bum Tam Tam (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "luis_fonsi_ft_daddy_yankee_despacito_2017",
+    "confidence": 0.36,
+    "probabilities": {
+     "daddy_yankee_snow_con_calma_2019": 0.1,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.42,
+     "maluma_felices_los_4_2017": 0.05,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.04,
+     "blackpink_ddu_du_ddu_du_2018": 0.06,
+     "becky_g_natti_natasha_sin_pijama_2018": 0.05,
+     "el_chombo_dame_tu_cosita_2018": 0.07,
+     "cocomelon_baa_baa_black_sheep_2018": 0.04,
+     "daddy_yankee_dura_2018": 0.12,
+     "mc_fioti_bum_bum_tam_tam_2017": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1658,
+   "output_tokens": 256
+  }
+ }
+}

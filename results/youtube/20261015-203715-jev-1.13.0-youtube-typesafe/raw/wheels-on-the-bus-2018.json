@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-68dda0f6-ad34-4e8e-9ac8-9fe919cc5c4e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "meghan_trainor_all_about_that_bass_2014": "Meghan Trainor - All About That Bass (2014)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)",
+     "shakira_waka_waka_this_time_for_africa_2010": "Shakira - Waka Waka (This Time for Africa) (2010)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.28,
+    "probabilities": {
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.09,
+     "looloo_kids_johny_johny_yes_papa_2016": 0.04,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.13,
+     "cocomelon_wheels_on_the_bus_2018": 0.11,
+     "daddy_yankee_snow_con_calma_2019": 0.05,
+     "cocomelon_baa_baa_black_sheep_2018": 0.07,
+     "meghan_trainor_all_about_that_bass_2014": 0.05,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.07,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.35,
+     "shakira_waka_waka_this_time_for_africa_2010": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1672,
+   "output_tokens": 266
+  }
+ }
+}

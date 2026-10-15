@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ff8162ca-6574-4b06-9e5e-23d7011654e0"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "night_of_the_living_dead_1968": "Night of the Living Dead (1968)",
+     "apollo_18_2011": "Apollo 18 (2011)",
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "boogeyman_2005": "Boogeyman (2005)",
+     "the_exorcist_iii_1990": "The Exorcist III (1990)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)",
+     "silent_house_2011": "Silent House (2011)",
+     "carnival_of_souls_1962": "Carnival of Souls (1962)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "night_of_the_living_dead_1968",
+    "confidence": 0.31,
+    "probabilities": {
+     "house_on_haunted_hill_1959": 0.03,
+     "night_of_the_living_dead_1968": 0.38,
+     "apollo_18_2011": 0.06,
+     "nosferatu_the_vampyre_1979": 0.07,
+     "the_last_man_on_earth_1964": 0.05,
+     "boogeyman_2005": 0.03,
+     "the_exorcist_iii_1990": 0.05,
+     "the_little_shop_of_horrors_1960": 0.02,
+     "silent_house_2011": 0.2,
+     "carnival_of_souls_1962": 0.11
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1545,
+   "output_tokens": 196
+  }
+ }
+}

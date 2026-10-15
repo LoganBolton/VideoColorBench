@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-b7130208-fc5b-4b3e-b268-3a8905e26c77"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": "DJ Snake ft. Selena Gomez, Ozuna & Cardi B - Taki Taki (2018)",
+     "daddy_yankee_dura_2018": "Daddy Yankee - Dura (2018)",
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": "Luis Fonsi ft. Daddy Yankee - Despacito (2017)",
+     "becky_g_ft_bad_bunny_mayores_2017": "Becky G ft. Bad Bunny - Mayores (2017)",
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": "Luis Fonsi & Demi Lovato - \u00c9chame la Culpa (2017)",
+     "enrique_iglesias_bailando_2014": "Enrique Iglesias - Bailando (2014)",
+     "daddy_yankee_snow_con_calma_2019": "Daddy Yankee & Snow - Con Calma (2019)",
+     "el_chombo_dame_tu_cosita_2018": "El Chombo - Dame Tu Cosita (2018)",
+     "nicky_jam_x_j_balvin_x_equis_2018": "Nicky Jam x J Balvin - X (Equis) (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "luis_fonsi_ft_daddy_yankee_despacito_2017",
+    "confidence": 0.44,
+    "probabilities": {
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.05,
+     "dj_snake_ft_selena_gomez_ozuna_cardi_b_taki_taki_2018": 0.03,
+     "daddy_yankee_dura_2018": 0.08,
+     "luis_fonsi_ft_daddy_yankee_despacito_2017": 0.5,
+     "becky_g_ft_bad_bunny_mayores_2017": 0.03,
+     "luis_fonsi_demi_lovato_chame_la_culpa_2017": 0.06,
+     "enrique_iglesias_bailando_2014": 0.08,
+     "daddy_yankee_snow_con_calma_2019": 0.09,
+     "el_chombo_dame_tu_cosita_2018": 0.05,
+     "nicky_jam_x_j_balvin_x_equis_2018": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1679,
+   "output_tokens": 265
+  }
+ }
+}

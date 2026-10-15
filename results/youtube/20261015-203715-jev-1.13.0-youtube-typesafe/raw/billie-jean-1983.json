@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1083a026-d093-4192-ad8a-aa7d8d1711ed"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "the_weeknd_ft_daft_punk_starboy_2016": "The Weeknd ft. Daft Punk - Starboy (2016)",
+     "bruno_mars_the_lazy_song_2011": "Bruno Mars - The Lazy Song (2011)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "dua_lipa_new_rules_2017": "Dua Lipa - New Rules (2017)",
+     "shawn_mendes_camila_cabello_se_orita_2019": "Shawn Mendes & Camila Cabello - Se\u00f1orita (2019)",
+     "magic_rude_2013": "MAGIC! - Rude (2013)",
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": "Jennifer Lopez ft. Pitbull - On the Floor (2011)",
+     "michael_jackson_billie_jean_1983": "Michael Jackson - Billie Jean (1983)",
+     "katy_perry_roar_2013": "Katy Perry - Roar (2013)",
+     "maroon_5_sugar_2015": "Maroon 5 - Sugar (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_weeknd_ft_daft_punk_starboy_2016",
+    "confidence": 0.27,
+    "probabilities": {
+     "the_weeknd_ft_daft_punk_starboy_2016": 0.34,
+     "bruno_mars_the_lazy_song_2011": 0.09,
+     "justin_bieber_sorry_2015": 0.04,
+     "dua_lipa_new_rules_2017": 0.04,
+     "shawn_mendes_camila_cabello_se_orita_2019": 0.11,
+     "magic_rude_2013": 0.07,
+     "jennifer_lopez_ft_pitbull_on_the_floor_2011": 0.06,
+     "michael_jackson_billie_jean_1983": 0.12,
+     "katy_perry_roar_2013": 0.06,
+     "maroon_5_sugar_2015": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1601,
+   "output_tokens": 222
+  }
+ }
+}

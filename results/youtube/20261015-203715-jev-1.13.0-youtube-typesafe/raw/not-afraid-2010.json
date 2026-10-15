@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ca54bd29-affa-49c0-8841-c27a13e2a57c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "twenty_one_pilots_heathens_2016": "twenty one pilots - Heathens (2016)",
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": "Wiz Khalifa ft. Charlie Puth - See You Again (2015)",
+     "eminem_without_me_2002": "Eminem - Without Me (2002)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)",
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": "Eminem ft. Rihanna - Love the Way You Lie (2010)",
+     "romeo_santos_propuesta_indecente_2013": "Romeo Santos - Propuesta Indecente (2013)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "eminem_not_afraid_2010": "Eminem - Not Afraid (2010)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "wiz_khalifa_ft_charlie_puth_see_you_again_2015",
+    "confidence": 0.18,
+    "probabilities": {
+     "twenty_one_pilots_heathens_2016": 0.1,
+     "wiz_khalifa_ft_charlie_puth_see_you_again_2015": 0.26,
+     "eminem_without_me_2002": 0.06,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.06,
+     "taylor_swift_blank_space_2014": 0.1,
+     "eminem_ft_rihanna_love_the_way_you_lie_2010": 0.09,
+     "romeo_santos_propuesta_indecente_2013": 0.05,
+     "rihanna_diamonds_2012": 0.12,
+     "eminem_not_afraid_2010": 0.09,
+     "twenty_one_pilots_stressed_out_2015": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1627,
+   "output_tokens": 241
+  }
+ }
+}

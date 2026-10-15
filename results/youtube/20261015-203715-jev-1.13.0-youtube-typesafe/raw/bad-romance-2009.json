@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-2fc67f49-ea65-456d-9fb4-562d42e43c4e"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "ellie_goulding_love_me_like_you_do_2015": "Ellie Goulding - Love Me Like You Do (2015)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "lady_gaga_bad_romance_2009": "Lady Gaga - Bad Romance (2009)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "mark_ronson_ft_bruno_mars_uptown_funk_2014",
+    "confidence": 0.06,
+    "probabilities": {
+     "ellie_goulding_love_me_like_you_do_2015": 0.08,
+     "adele_rolling_in_the_deep_2010": 0.08,
+     "ed_sheeran_thinking_out_loud_2014": 0.14,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.15,
+     "passenger_let_her_go_2012": 0.14,
+     "justin_bieber_sorry_2015": 0.07,
+     "taylor_swift_shake_it_off_2014": 0.12,
+     "lady_gaga_bad_romance_2009": 0.1,
+     "onerepublic_counting_stars_2013": 0.08,
+     "charlie_puth_attention_2017": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1603,
+   "output_tokens": 231
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-3d0ce587-36a7-4197-b074-462d56178515"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "taylor_swift_blank_space_2014": "Taylor Swift - Blank Space (2014)",
+     "sia_chandelier_2014": "Sia - Chandelier (2014)",
+     "rihanna_diamonds_2012": "Rihanna - Diamonds (2012)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "ed_sheeran_shape_of_you_2017": "Ed Sheeran - Shape of You (2017)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "ed_sheeran_thinking_out_loud_2014": "Ed Sheeran - Thinking Out Loud (2014)",
+     "passenger_let_her_go_2012": "Passenger - Let Her Go (2012)",
+     "adele_rolling_in_the_deep_2010": "Adele - Rolling in the Deep (2010)",
+     "shawn_mendes_treat_you_better_2016": "Shawn Mendes - Treat You Better (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "ed_sheeran_thinking_out_loud_2014",
+    "confidence": 0.04,
+    "probabilities": {
+     "taylor_swift_blank_space_2014": 0.12,
+     "sia_chandelier_2014": 0.08,
+     "rihanna_diamonds_2012": 0.09,
+     "taylor_swift_shake_it_off_2014": 0.12,
+     "ed_sheeran_shape_of_you_2017": 0.1,
+     "onerepublic_counting_stars_2013": 0.1,
+     "ed_sheeran_thinking_out_loud_2014": 0.14,
+     "passenger_let_her_go_2012": 0.12,
+     "adele_rolling_in_the_deep_2010": 0.09,
+     "shawn_mendes_treat_you_better_2016": 0.04
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1587,
+   "output_tokens": 216
+  }
+ }
+}

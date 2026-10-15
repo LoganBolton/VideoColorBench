@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-6e6590e0-0700-48bd-853e-8696b000185a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "prom_night_1980": "Prom Night (1980)",
+     "zulu_1964": "Zulu (1964)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "an_american_werewolf_in_paris_1997": "An American Werewolf in Paris (1997)",
+     "the_messengers_2007": "The Messengers (2007)",
+     "villains_2019": "Villains (2019)",
+     "black_christmas_1974": "Black Christmas (1974)",
+     "sleepaway_camp_1983": "Sleepaway Camp (1983)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.33,
+    "probabilities": {
+     "prom_night_1980": 0.06,
+     "zulu_1964": 0.07,
+     "manos_the_hands_of_fate_1966": 0.39999999999999997,
+     "stonehearst_asylum_2014": 0.09,
+     "day_of_the_dead_1985": 0.08,
+     "an_american_werewolf_in_paris_1997": 0.04,
+     "the_messengers_2007": 0.05,
+     "villains_2019": 0.06,
+     "black_christmas_1974": 0.1,
+     "sleepaway_camp_1983": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1527,
+   "output_tokens": 187
+  }
+ }
+}

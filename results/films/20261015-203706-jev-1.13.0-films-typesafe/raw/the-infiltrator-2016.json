@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-1a87a1dd-dfd7-4002-bda1-dca139a1b8ab"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "puncture_2011": "Puncture (2011)",
+     "detachment_2011": "Detachment (2011)",
+     "half_nelson_2006": "Half Nelson (2006)",
+     "the_illusionist_2006": "The Illusionist (2006)",
+     "99_homes_2014": "99 Homes (2014)",
+     "beauty_and_the_beast_2014": "Beauty and the Beast (2014)",
+     "candy_2006": "Candy (2006)",
+     "i_frankenstein_2014": "I, Frankenstein (2014)",
+     "southpaw_2015": "Southpaw (2015)",
+     "the_infiltrator_2016": "The Infiltrator (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_illusionist_2006",
+    "confidence": 0.08,
+    "probabilities": {
+     "puncture_2011": 0.11,
+     "detachment_2011": 0.15,
+     "half_nelson_2006": 0.11,
+     "the_illusionist_2006": 0.17,
+     "99_homes_2014": 0.07,
+     "beauty_and_the_beast_2014": 0.09,
+     "candy_2006": 0.12,
+     "i_frankenstein_2014": 0.07,
+     "southpaw_2015": 0.04,
+     "the_infiltrator_2016": 0.07
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1511,
+   "output_tokens": 180
+  }
+ }
+}

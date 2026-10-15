@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-97e7095a-6a10-4ec1-94dd-8268a5cebdd6"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)",
+     "the_lady_vanishes_1938": "The Lady Vanishes (1938)",
+     "his_girl_friday_1940": "His Girl Friday (1940)",
+     "the_passion_of_joan_of_arc_1928": "The Passion of Joan of Arc (1928)",
+     "the_last_man_on_earth_1964": "The Last Man on Earth (1964)",
+     "the_kid_1921": "The Kid (1921)",
+     "all_quiet_on_the_western_front_1930": "All Quiet on the Western Front (1930)",
+     "battleship_potemkin_1925": "Battleship Potemkin (1925)",
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "the_39_steps_1935": "The 39 Steps (1935)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_passion_of_joan_of_arc_1928",
+    "confidence": 0.18,
+    "probabilities": {
+     "the_eagle_has_landed_1976": 0.03,
+     "the_lady_vanishes_1938": 0.01,
+     "his_girl_friday_1940": 0.03,
+     "the_passion_of_joan_of_arc_1928": 0.26,
+     "the_last_man_on_earth_1964": 0.17,
+     "the_kid_1921": 0.06,
+     "all_quiet_on_the_western_front_1930": 0.13,
+     "battleship_potemkin_1925": 0.18,
+     "house_on_haunted_hill_1959": 0.08,
+     "the_39_steps_1935": 0.05
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1548,
+   "output_tokens": 205
+  }
+ }
+}

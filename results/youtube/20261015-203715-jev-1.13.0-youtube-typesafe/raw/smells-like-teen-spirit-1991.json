@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-a9721aed-78cf-4e66-8be6-037d7f34035a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "guns_n_roses_november_rain_1992": "Guns N' Roses - November Rain (1992)",
+     "queen_bohemian_rhapsody_1975": "Queen - Bohemian Rhapsody (1975)",
+     "a_ha_take_on_me_1985": "a-ha - Take On Me (1985)",
+     "guns_n_roses_sweet_child_o_mine_1987": "Guns N' Roses - Sweet Child O' Mine (1987)",
+     "linkin_park_in_the_end_2001": "Linkin Park - In the End (2001)",
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "nirvana_smells_like_teen_spirit_1991": "Nirvana - Smells Like Teen Spirit (1991)",
+     "twenty_one_pilots_stressed_out_2015": "twenty one pilots - Stressed Out (2015)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "the_cranberries_zombie_1994": "The Cranberries - Zombie (1994)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "queen_bohemian_rhapsody_1975",
+    "confidence": 0.13,
+    "probabilities": {
+     "guns_n_roses_november_rain_1992": 0.19,
+     "queen_bohemian_rhapsody_1975": 0.22,
+     "a_ha_take_on_me_1985": 0.07,
+     "guns_n_roses_sweet_child_o_mine_1987": 0.08,
+     "linkin_park_in_the_end_2001": 0.07,
+     "imagine_dragons_believer_2017": 0.03,
+     "nirvana_smells_like_teen_spirit_1991": 0.12,
+     "twenty_one_pilots_stressed_out_2015": 0.04,
+     "cocomelon_baa_baa_black_sheep_2018": 0.15,
+     "the_cranberries_zombie_1994": 0.03
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1609,
+   "output_tokens": 224
+  }
+ }
+}

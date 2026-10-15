@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-aba0c0cd-7fa8-4aa6-b28c-3610743403cf"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "imagine_dragons_believer_2017": "Imagine Dragons - Believer (2017)",
+     "alan_walker_faded_2015": "Alan Walker - Faded (2015)",
+     "katy_perry_ft_juicy_j_dark_horse_2014": "Katy Perry ft. Juicy J - Dark Horse (2014)",
+     "the_chainsmokers_coldplay_something_just_like_this_2017": "The Chainsmokers & Coldplay - Something Just Like This (2017)",
+     "major_lazer_dj_snake_ft_m_lean_on_2015": "Major Lazer & DJ Snake ft. M\u00d8 - Lean On (2015)",
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": "Ariana Grande ft. Nicki Minaj - Side to Side (2016)",
+     "the_chainsmokers_ft_halsey_closer_2016": "The Chainsmokers ft. Halsey - Closer (2016)",
+     "blackpink_boombayah_2016": "BLACKPINK - BOOMBAYAH (2016)",
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": "Calvin Harris ft. Rihanna - This Is What You Came For (2016)",
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": "Clean Bandit ft. Sean Paul & Anne-Marie - Rockabye (2016)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "blackpink_boombayah_2016",
+    "confidence": 0.07,
+    "probabilities": {
+     "imagine_dragons_believer_2017": 0.07,
+     "alan_walker_faded_2015": 0.12,
+     "katy_perry_ft_juicy_j_dark_horse_2014": 0.06,
+     "the_chainsmokers_coldplay_something_just_like_this_2017": 0.08,
+     "major_lazer_dj_snake_ft_m_lean_on_2015": 0.15,
+     "ariana_grande_ft_nicki_minaj_side_to_side_2016": 0.06,
+     "the_chainsmokers_ft_halsey_closer_2016": 0.15,
+     "blackpink_boombayah_2016": 0.16,
+     "calvin_harris_ft_rihanna_this_is_what_you_came_for_2016": 0.09,
+     "clean_bandit_ft_sean_paul_anne_marie_rockabye_2016": 0.06
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1669,
+   "output_tokens": 254
+  }
+ }
+}

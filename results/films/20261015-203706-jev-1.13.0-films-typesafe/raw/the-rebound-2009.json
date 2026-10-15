@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-76e51665-f5c6-4ba5-bf06-b25b78b9a4bb"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "man_of_the_year_2006": "Man of the Year (2006)",
+     "sliding_doors_1998": "Sliding Doors (1998)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "transsiberian_2008": "Transsiberian (2008)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.31,
+    "probabilities": {
+     "man_of_the_year_2006": 0.09,
+     "sliding_doors_1998": 0.07,
+     "the_rebound_2009": 0.03,
+     "the_accidental_husband_2008": 0.05,
+     "georgia_rule_2007": 0.06,
+     "paris_je_t_aime_2006": 0.07,
+     "take_me_home_tonight_2011": 0.03,
+     "leaves_of_grass_2009": 0.07,
+     "fifty_shades_of_black_2016": 0.15,
+     "transsiberian_2008": 0.38
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1527,
+   "output_tokens": 186
+  }
+ }
+}

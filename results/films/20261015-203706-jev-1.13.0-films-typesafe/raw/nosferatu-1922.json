@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-059caa12-1a07-4b6b-882b-60c24bcc33fe"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "boogeyman_2005": "Boogeyman (2005)",
+     "nosferatu_1922": "Nosferatu (1922)",
+     "manos_the_hands_of_fate_1966": "Manos: The Hands of Fate (1966)",
+     "prom_night_1980": "Prom Night (1980)",
+     "the_little_shop_of_horrors_1960": "The Little Shop of Horrors (1960)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "wish_upon_2017": "Wish Upon (2017)",
+     "house_on_haunted_hill_1959": "House on Haunted Hill (1959)",
+     "stonehearst_asylum_2014": "Stonehearst Asylum (2014)",
+     "black_christmas_1974": "Black Christmas (1974)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "manos_the_hands_of_fate_1966",
+    "confidence": 0.27,
+    "probabilities": {
+     "boogeyman_2005": 0.07,
+     "nosferatu_1922": 0.11,
+     "manos_the_hands_of_fate_1966": 0.34,
+     "prom_night_1980": 0.06,
+     "the_little_shop_of_horrors_1960": 0.05,
+     "day_of_the_dead_1985": 0.08,
+     "wish_upon_2017": 0.06,
+     "house_on_haunted_hill_1959": 0.04,
+     "stonehearst_asylum_2014": 0.09,
+     "black_christmas_1974": 0.1
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1529,
+   "output_tokens": 190
+  }
+ }
+}

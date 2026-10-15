@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-26502013-3ba7-4a22-871a-9e92eb4b92d4"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "looloo_kids_johny_johny_yes_papa_2016": "LooLoo Kids - Johny Johny Yes Papa (2016)",
+     "cocomelon_wheels_on_the_bus_2018": "CoComelon - Wheels on the Bus (2018)",
+     "pinkfong_baby_shark_dance_2016": "Pinkfong - Baby Shark Dance (2016)",
+     "cocomelon_baa_baa_black_sheep_2018": "CoComelon - Baa Baa Black Sheep (2018)",
+     "cocomelon_bath_song_2018": "CoComelon - Bath Song (2018)",
+     "blackpink_ddu_du_ddu_du_2018": "BLACKPINK - DDU-DU DDU-DU (2018)",
+     "cocomelon_yes_yes_vegetables_song_2018": "CoComelon - Yes Yes Vegetables Song (2018)",
+     "blackpink_kill_this_love_2019": "BLACKPINK - Kill This Love (2019)",
+     "masha_and_the_bear_recipe_for_disaster_2012": "Masha and the Bear - Recipe for Disaster (2012)",
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": "Miroshka TV - Learning Colors - Colorful Eggs on a Farm (2018)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018",
+    "confidence": 0.13,
+    "probabilities": {
+     "looloo_kids_johny_johny_yes_papa_2016": 0.05,
+     "cocomelon_wheels_on_the_bus_2018": 0.1,
+     "pinkfong_baby_shark_dance_2016": 0.17,
+     "cocomelon_baa_baa_black_sheep_2018": 0.07,
+     "cocomelon_bath_song_2018": 0.09,
+     "blackpink_ddu_du_ddu_du_2018": 0.06,
+     "cocomelon_yes_yes_vegetables_song_2018": 0.07,
+     "blackpink_kill_this_love_2019": 0.05,
+     "masha_and_the_bear_recipe_for_disaster_2012": 0.12,
+     "miroshka_tv_learning_colors_colorful_eggs_on_a_farm_2018": 0.22
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1648,
+   "output_tokens": 250
+  }
+ }
+}

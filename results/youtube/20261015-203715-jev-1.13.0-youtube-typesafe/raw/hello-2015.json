@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-ceba6712-ea15-4016-98c7-e036187be28a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a YouTube video, shrunk down to its average color. The stripes run in order from the beginning of the YouTube video to the end.\n\nWhich YouTube video is it?",
+    "criteria": {
+     "lady_gaga_bad_romance_2009": "Lady Gaga - Bad Romance (2009)",
+     "charlie_puth_attention_2017": "Charlie Puth - Attention (2017)",
+     "justin_bieber_what_do_you_mean_2015": "Justin Bieber - What Do You Mean? (2015)",
+     "justin_bieber_sorry_2015": "Justin Bieber - Sorry (2015)",
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": "Mark Ronson ft. Bruno Mars - Uptown Funk (2014)",
+     "ed_sheeran_perfect_2017": "Ed Sheeran - Perfect (2017)",
+     "onerepublic_counting_stars_2013": "OneRepublic - Counting Stars (2013)",
+     "taylor_swift_shake_it_off_2014": "Taylor Swift - Shake It Off (2014)",
+     "bruno_mars_that_s_what_i_like_2017": "Bruno Mars - That's What I Like (2017)",
+     "adele_hello_2015": "Adele - Hello (2015)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "adele_hello_2015",
+    "confidence": 0.12,
+    "probabilities": {
+     "lady_gaga_bad_romance_2009": 0.15,
+     "charlie_puth_attention_2017": 0.03,
+     "justin_bieber_what_do_you_mean_2015": 0.04,
+     "justin_bieber_sorry_2015": 0.05,
+     "mark_ronson_ft_bruno_mars_uptown_funk_2014": 0.21,
+     "ed_sheeran_perfect_2017": 0.09,
+     "onerepublic_counting_stars_2013": 0.11,
+     "taylor_swift_shake_it_off_2014": 0.07,
+     "bruno_mars_that_s_what_i_like_2017": 0.04,
+     "adele_hello_2015": 0.21
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1587,
+   "output_tokens": 213
+  }
+ }
+}

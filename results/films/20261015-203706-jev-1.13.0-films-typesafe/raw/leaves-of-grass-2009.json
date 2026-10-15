@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-45dd1237-ced8-4363-acf3-fa31b991634a"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "man_of_the_year_2006": "Man of the Year (2006)",
+     "take_me_home_tonight_2011": "Take Me Home Tonight (2011)",
+     "detachment_2011": "Detachment (2011)",
+     "the_warrior_s_way_2010": "The Warrior's Way (2010)",
+     "georgia_rule_2007": "Georgia Rule (2007)",
+     "fifty_shades_of_black_2016": "Fifty Shades of Black (2016)",
+     "the_rebound_2009": "The Rebound (2009)",
+     "the_accidental_husband_2008": "The Accidental Husband (2008)",
+     "leaves_of_grass_2009": "Leaves of Grass (2009)",
+     "paris_je_t_aime_2006": "Paris, Je T'aime (2006)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "the_warrior_s_way_2010",
+    "confidence": 0.1,
+    "probabilities": {
+     "man_of_the_year_2006": 0.11,
+     "take_me_home_tonight_2011": 0.05,
+     "detachment_2011": 0.13,
+     "the_warrior_s_way_2010": 0.19,
+     "georgia_rule_2007": 0.08,
+     "fifty_shades_of_black_2016": 0.13,
+     "the_rebound_2009": 0.05,
+     "the_accidental_husband_2008": 0.08,
+     "leaves_of_grass_2009": 0.09,
+     "paris_je_t_aime_2006": 0.09
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1525,
+   "output_tokens": 189
+  }
+ }
+}

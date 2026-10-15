@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-0c3097ae-c45d-4d29-baaf-fa20c96d4e31"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "nosferatu_the_vampyre_1979": "Nosferatu the Vampyre (1979)",
+     "the_haunting_in_connecticut_2009": "The Haunting in Connecticut (2009)",
+     "the_importance_of_being_earnest_2002": "The Importance of Being Earnest (2002)",
+     "day_of_the_dead_1985": "Day of the Dead (1985)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "little_boy_2015": "Little Boy (2015)",
+     "the_eagle_has_landed_1976": "The Eagle Has Landed (1976)",
+     "zulu_1964": "Zulu (1964)",
+     "capricorn_one_1978": "Capricorn One (1978)",
+     "aguirre_the_wrath_of_god_1972": "Aguirre, the Wrath of God (1972)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "nosferatu_the_vampyre_1979",
+    "confidence": 0.23,
+    "probabilities": {
+     "nosferatu_the_vampyre_1979": 0.31,
+     "the_haunting_in_connecticut_2009": 0.04,
+     "the_importance_of_being_earnest_2002": 0.07,
+     "day_of_the_dead_1985": 0.07,
+     "assault_on_precinct_13_1976": 0.11,
+     "little_boy_2015": 0.05,
+     "the_eagle_has_landed_1976": 0.04,
+     "zulu_1964": 0.08,
+     "capricorn_one_1978": 0.09,
+     "aguirre_the_wrath_of_god_1972": 0.14
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1549,
+   "output_tokens": 200
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "request": {
+  "model": "jev-1.13.0",
+  "state": {
+   "barcode": "barcode-bcdd27a7-b815-41d1-8c42-3c9fb1372b5c"
+  },
+  "questions": {
+   "title": {
+    "type": "choice",
+    "instructions": "Each vertical stripe in `barcode` is a few seconds of a movie, shrunk down to its average color. The stripes run in order from the beginning of the movie to the end.\n\nWhich movie is it?",
+    "criteria": {
+     "pacific_heights_1990": "Pacific Heights (1990)",
+     "arlington_road_1999": "Arlington Road (1999)",
+     "transsiberian_2008": "Transsiberian (2008)",
+     "assault_on_precinct_13_1976": "Assault on Precinct 13 (1976)",
+     "before_the_devil_knows_you_re_dead_2007": "Before the Devil Knows You're Dead (2007)",
+     "the_air_i_breathe_2007": "The Air I Breathe (2007)",
+     "the_last_seduction_1994": "The Last Seduction (1994)",
+     "the_pledge_2001": "The Pledge (2001)",
+     "trespass_2011": "Trespass (2011)",
+     "charade_1963": "Charade (1963)"
+    }
+   }
+  }
+ },
+ "response": {
+  "model": "jev-1.13.0",
+  "answers": {
+   "title": {
+    "type": "choice",
+    "choice": "transsiberian_2008",
+    "confidence": 0.11,
+    "probabilities": {
+     "pacific_heights_1990": 0.06,
+     "arlington_road_1999": 0.07,
+     "transsiberian_2008": 0.2,
+     "assault_on_precinct_13_1976": 0.14,
+     "before_the_devil_knows_you_re_dead_2007": 0.12,
+     "the_air_i_breathe_2007": 0.11,
+     "the_last_seduction_1994": 0.06,
+     "the_pledge_2001": 0.1,
+     "trespass_2011": 0.06,
+     "charade_1963": 0.08
+    }
+   }
+  },
+  "usage": {
+   "input_tokens": 1532,
+   "output_tokens": 185
+  }
+ }
+}
