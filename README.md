@@ -19,6 +19,13 @@ uv run run.py --model openai/gpt-6.1-sol
 
 Useful flags: `--limit 5` for a quick trial, `--dataset films|youtube`, `--reasoning-effort medium`, `--harness opencode|claude|codex` to run the model inside a coding agent, `--check` to print the prompt and run nothing.
 
+Jev runs through TypeSafe's API instead, with a [TypeSafe key](https://console.typesafe.ai/keys):
+
+```bash
+export TYPESAFE_API_KEY=...
+uv run run.py --model jev-1.13.0 --typesafe
+```
+
 Results go to `results/<dataset>/<timestamp>-<name>/`. Pinned, repeatable experiments are YAML files in [experiments/](experiments/README.md).
 
 ## Results

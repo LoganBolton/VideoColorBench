@@ -14,7 +14,7 @@ for a quick trial.
 | field | modes | meaning |
 |-------|-------|---------|
 | `name` | both | used in the results folder name |
-| `mode` | both | `raw` (one API request per question) or `harness` (an agent session per question) |
+| `mode` | both | `raw` (one API request per question), `harness` (an agent session per question) or `typesafe` (one TypeSafe API request per question, e.g. `model: jev-1.13.0`) |
 | `dataset` | both | `films` or `youtube` |
 | `model` | both | raw: the OpenRouter id, e.g. `openai/gpt-6.1-sol`. harness: the name the CLI takes, e.g. `claude-opus-5-5` |
 | `questions_sha256` | both | pin: hash of the questions file. The run stops if the questions have changed |

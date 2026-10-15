@@ -2,6 +2,7 @@
 
     uv run run.py --model openai/gpt-6.1-sol                          # any OpenRouter model, both datasets, no file needed
     uv run run.py --model z-ai/glm-5.3-flash --harness opencode       # the same model inside the opencode agent
+    uv run run.py --model jev-1.13.0 --typesafe                       # Jev through TypeSafe's own API (TYPESAFE_API_KEY)
     uv run --with datasets run.py --model openai/gpt-6.1-sol --hf     # questions and barcodes from Hugging Face
     uv run run.py experiments/sol-medium-youtube-raw.yaml
     uv run run.py experiments/claude-code-youtube.yaml --limit 3      # quick trial, same settings
@@ -12,6 +13,7 @@ There are two modes, set by `mode:` in the file:
 
     raw       one OpenRouter API request per question: image in, letter out (run_eval.py)
     harness   one Claude Code, Codex or opencode session per question, with tools and web search (run_harness.py)
+    typesafe  one TypeSafe System One request per question: image in, Choice answer out (run_typesafe.py)
 
 See experiments/README.md for every field. Each run writes a folder under results/<dataset>/ with
 
@@ -50,6 +52,7 @@ import yaml
 
 import run_eval
 import run_harness
+import run_typesafe
 
 ROOT = Path(__file__).resolve().parent
 COMMON = {"name", "mode", "dataset", "model", "limit", "concurrency", "timeout", "notes",
@@ -57,6 +60,7 @@ COMMON = {"name", "mode", "dataset", "model", "limit", "concurrency", "timeout",
 FIELDS = {
     "raw": COMMON | {"reasoning_effort", "temperature", "max_tokens", "seed", "provider"},
     "harness": COMMON | {"harness", "harness_version", "effort", "tools", "tools_note"},
+    "typesafe": COMMON,
 }
 
 
@@ -80,7 +84,7 @@ def load_config(path):
     cfg = yaml.safe_load(Path(path).read_text())
     mode = cfg.get("mode")
     if mode not in FIELDS:
-        sys.exit(f"{path}: mode must be raw or harness")
+        sys.exit(f"{path}: mode must be raw, harness or typesafe")
     unknown = set(cfg) - FIELDS[mode]
     if unknown:
         sys.exit(f"{path}: unknown fields for mode {mode}: {sorted(unknown)}")
@@ -138,6 +142,7 @@ def main():
     ap.add_argument("--dataset", choices=["films", "youtube", "both"], default="both", help="with --model (default both)")
     ap.add_argument("--reasoning-effort", choices=["minimal", "low", "medium", "high"], help="with --model")
     ap.add_argument("--harness", choices=list(run_harness.READERS), help="with --model: run it inside this agent instead of raw mode")
+    ap.add_argument("--typesafe", action="store_true", help="with --model: a TypeSafe model such as jev-1.13.0, called through TypeSafe's API")
     ap.add_argument("--hf", action="store_true", help="fetch the questions and barcodes from Hugging Face instead of data/")
     ap.add_argument("--timeout", type=int, help="seconds per question (overrides the file)")
     ap.add_argument("--concurrency", type=int, help="questions in parallel (overrides the file)")
@@ -159,7 +164,9 @@ def main():
     scores = []
     for dataset in ("films", "youtube") if args.dataset == "both" else (args.dataset,):
         short = args.model.split("/")[-1].replace(":", "-")
-        if args.harness:
+        if args.typesafe:
+            cfg = {"name": f"{short}-{dataset}-typesafe", "mode": "typesafe", "dataset": dataset, "model": args.model}
+        elif args.harness:
             # opencode reaches OpenRouter models as openrouter/<id>
             model = f"openrouter/{args.model}" if args.harness == "opencode" and not args.model.startswith("openrouter/") else args.model
             cfg = {"name": f"{args.harness}-{short}-{dataset}", "mode": "harness", "harness": args.harness,
@@ -202,6 +209,12 @@ def run(cfg, args):
         name = cfg["model"]
         prompt_template = run_eval.PROMPT
         example = run_eval.prompt_text(asked[0])
+    elif mode == "typesafe":
+        name = f"typesafe:{cfg['model']}"
+        prompt_template = run_typesafe.INSTRUCTIONS
+        body, size = run_typesafe.build_body(asked[0], cfg["model"])
+        body["assets"] = {k: {**v, "data_base64": f"<{size[0]}x{size[1]} png>"} for k, v in body["assets"].items()}
+        example = json.dumps(body, indent=1, ensure_ascii=False)
     else:
         h = SimpleNamespace(harness=cfg["harness"], model=cfg["model"], effort=cfg.get("effort"),
                             tools=cfg.get("tools"), tools_note=cfg.get("tools_note"), timeout=cfg.get("timeout", 900))
@@ -221,6 +234,10 @@ def run(cfg, args):
             sys.exit("set OPENROUTER_API_KEY (get one at https://openrouter.ai/keys)")
         key = found.group()
         run_eval.check_models([cfg["model"]], key)
+    elif mode == "typesafe":
+        key = os.environ.get("TYPESAFE_API_KEY", "").strip()
+        if not key:
+            sys.exit("set TYPESAFE_API_KEY (get one at https://console.typesafe.ai/keys)")
 
     out = Path(args.resume) if args.resume else ROOT / "results" / dataset / f"{datetime.now(timezone.utc):%Y%m%d-%H%M%S}-{cfg['name']}"
     out.mkdir(parents=True, exist_ok=True)
@@ -239,10 +256,10 @@ def run(cfg, args):
         "python": platform.python_version(), "platform": platform.platform(),
         "packages": {p: metadata.version(p) for p in ("pyyaml", "pillow", "numpy") if _has(p)},
         "uv_lock_sha256": sha256(ROOT / "uv.lock"),
-        "code_sha256": {f: sha256(ROOT / f) for f in ("run.py", "run_eval.py", "run_harness.py")},
+        "code_sha256": {f: sha256(ROOT / f) for f in ("run.py", "run_eval.py", "run_harness.py", "run_typesafe.py")},
         "harness_version": current.get("harness_version"),
         "harness_command": run_harness.command(h, "<prompt>", "<temp dir>") if mode == "harness" else None,
-        "api_url": run_eval.API if mode == "raw" else None,
+        "api_url": run_eval.API if mode == "raw" else run_typesafe.API if mode == "typesafe" else None,
         "data": "huggingface" if args.hf else "repo",
         "prompt_template": prompt_template,
         "barcode_sha256": {q["id"]: sha256(run_eval.DATA / dataset / "items" / q["slug"] / "barcode.png") for q in asked},
@@ -258,17 +275,22 @@ def run(cfg, args):
     log(f"git {commit[:10]}{' (uncommitted changes)' if manifest['git_dirty'] else ''}, questions {current['questions_sha256'][:12]}"
         + (f", {cfg['harness']} {current['harness_version']}" if mode == "harness" else ""))
 
-    detail = out / ("raw" if mode == "raw" else "transcripts")
+    detail = out / ("transcripts" if mode == "harness" else "raw")
     detail.mkdir(exist_ok=True)
 
     def one(q):
-        rec = raw_one(q, cfg, key, detail, name) if mode == "raw" else run_harness.run_one(q, h, name, detail)
+        if mode == "raw":
+            rec = raw_one(q, cfg, key, detail, name)
+        elif mode == "typesafe":
+            rec = run_typesafe.run_one(q, cfg, key, detail, name)
+        else:
+            rec = run_harness.run_one(q, h, name, detail)
         mark = "error" if "error" in rec else "right" if rec["correct"] else "wrong"
         extra = f"  {rec['error'][:120]}" if "error" in rec else f"  guessed {rec.get('guess_title')}" if not rec["correct"] else ""
         log(f"  {mark:5}  {rec['seconds']:>6.0f}s  {q['answer_title']}{extra}{'  LEAK' if rec.get('leak') else ''}{'  DOWNLOAD' if rec.get('download') else ''}")
         return rec
 
-    with ThreadPoolExecutor(cfg.get("concurrency", 8 if mode == "raw" else 4)) as ex:
+    with ThreadPoolExecutor(cfg.get("concurrency", 4 if mode == "harness" else 8)) as ex:
         for rec in ex.map(one, todo):
             recs.append(rec)
             fname.write_text("".join(json.dumps(r) + "\n" for r in recs))
