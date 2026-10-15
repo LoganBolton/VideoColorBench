@@ -53,6 +53,7 @@ ALL_RUNS = {
     "opencode": ("GLM-5.3 Flash + OpenCode", "zai", "+ OpenCode", "20261002-052850-opencode-glm-5.3-flash-films", "20261002-052830-opencode-glm-5.3-flash-youtube"),
     "qwen35": ("Qwen3.5 397B", "qwen", "3.5 397B", "20261002-064646-qwen3.5-397b-a17b-films-raw", "20261002-073620-qwen3.5-397b-a17b-youtube-raw"),
     "qwen38": ("Qwen3.8 27B", "qwen", "3.8 27B", "20261002-064649-qwen3.8-27b-films-raw", "20261002-065521-qwen3.8-27b-youtube-raw"),
+    "jev": ("Jev 1.13", "typesafe", "", "20261015-203706-jev-1.13.0-films-typesafe", "20261015-203715-jev-1.13.0-youtube-typesafe"),
 }
 VIEWER = ["films:nosferatu-1922", "youtube:bohemian-rhapsody-1975", "youtube:november-rain-1992"]
 # the quiz near the top: the answer and the four titles in the order shown, None where the answer goes.
@@ -217,7 +218,7 @@ def frame_item(out, pick, videos):
 def build_quiz(out, videos, questions):
     """Each quiz question: its frames, its four titles, and how many of the plain API runs got it (None if it is not one of the 200)."""
     asked = {f"{q['ds']}:{q['id']}": q for q in questions}
-    base = [k for k, run in ALL_RUNS.items() if not run[2].startswith("+")]
+    base = [k for k, run in ALL_RUNS.items() if not run[2].startswith("+") and k != "jev"]  # the six models the quiz text counts
     (out / "barcodes" / "quiz").mkdir(parents=True, exist_ok=True)
     items = []
     for pick, titles in QUIZ + BONUS:
